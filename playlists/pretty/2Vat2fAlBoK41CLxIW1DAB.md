@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,607 likes - 789 songs - 2 day 1 hr 29 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,607 likes - 794 songs - 2 day 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -797,5 +797,10 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 787 | [Everything Going Well is a Bad Thing, Right?](https://open.spotify.com/track/5aiW08yblQAddo0F5Snn3O) | [All Systems Go](https://open.spotify.com/artist/3vUgiedsWyaAljWZL0MMCo) | [Everything Going Well is a Bad Thing, Right?](https://open.spotify.com/album/6bfqFc7um2xcUYApvma8KY) | 3:36 |
 | 788 | [Bubble Fight](https://open.spotify.com/track/5ZWVUGYwYbC2P1zzGi9D0B) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Bubble Fight](https://open.spotify.com/album/5JhSHliugRpGiEpKQXXwwr) | 3:26 |
 | 789 | [Make Love \(with Santa Claus\)](https://open.spotify.com/track/1SGIrtQEOHHZXTNRn80eEL) | [LOW/LATE](https://open.spotify.com/artist/7gWmJ9eJ1xHygxVUv8JpfD) | [Make Love \(with Santa Claus\)](https://open.spotify.com/album/2mb68wtdCCbUub5ad1idtp) | 2:38 |
+| 790 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 |
+| 791 | [Footsteps in the Attic](https://open.spotify.com/track/6A9Af4UA9xj6VvNOSIIOSG) | [Jason Keisling](https://open.spotify.com/artist/11BnYiy4JkEXwZUVGBVnRH) | [Footsteps in the Attic](https://open.spotify.com/album/1pvDBcD1qAZzpPcaugxHFp) | 3:13 |
+| 792 | [Echoes](https://open.spotify.com/track/1AVKALpjBXkLrXlKwaugEN) | [ElectricDust](https://open.spotify.com/artist/315lu2eEs9iMeyfZFGpiz7) | [Echoes](https://open.spotify.com/album/14wRsCKTqFRUJIB13EAJS8) | 5:33 |
+| 793 | [Angelus Furor](https://open.spotify.com/track/7tzajWlUdUrhdSx4X1SB8a) | [Fire and Tears](https://open.spotify.com/artist/0OT0MSuwhoLbE5SC3dMBC1) | [Legions of the Fallen](https://open.spotify.com/album/7dRhnzbDSIJe8YodIT6G7Y) | 4:38 |
+| 794 | [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 |
 
-Snapshot ID: `AAADL81dGlSmCoRVkWkZZqbQhcY7M9L/`
+Snapshot ID: `AAADNEYJkqOqzwlp9qMTTxPYZjO5US9s`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,375 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,377 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,24 +23,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 13 | [A Piece of Ground \- Stereo Version](https://open.spotify.com/track/0UO6j3Nyor7zuJdB3ldNxQ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:39 |
 | 14 | [Don't Break My Heart](https://open.spotify.com/track/2mVVN4Tv54Py7X9LZDgnip) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \(Deluxe\)](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:33 |
 | 15 | [Train Song \(Mbombela\)](https://open.spotify.com/track/0hKelpLf7qwEBZ0YPTOvU0) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:12 |
-| 16 | [Emabhaceni](https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:40 |
+| 16 | [I Shall Sing \- Remastered](https://open.spotify.com/track/4otREmLnZ3j4G2cHa2NV2x) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 3:10 |
 | 17 | [Yetentu Tizaleny \- Mono Version](https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:51 |
-| 18 | [I Shall Sing \- Remastered](https://open.spotify.com/track/4otREmLnZ3j4G2cHa2NV2x) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 3:10 |
-| 19 | [Xica da Silva](https://open.spotify.com/track/5T6KniOzIj3Bh7DDNzrGhJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:19 |
-| 20 | [A Luta Continua](https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:49 |
+| 18 | [Xica da Silva](https://open.spotify.com/track/5T6KniOzIj3Bh7DDNzrGhJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:19 |
+| 19 | [A Luta Continua](https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:49 |
+| 20 | [Emabhaceni](https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:40 |
 | 21 | [Maria Fulo \- Mono Version](https://open.spotify.com/track/1to6aqYV55jNN85KDELPkz) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 2:36 |
 | 22 | [Orlando](https://open.spotify.com/track/21OBfFkUlOs1geKIJpD0bd) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Mama Africa](https://open.spotify.com/album/0XsFw9igbNCqxipU8Accm8) | 2:45 |
 | 23 | [Suliram](https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 2:47 |
-| 24 | [Mas Que Nada](https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:15 |
-| 25 | [Oxgam](https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:04 |
-| 26 | [Chicken \- Kikirikiki](https://open.spotify.com/track/1sxsg67QN7K9rusWjGHxfx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Comme une symphonie d'amour](https://open.spotify.com/album/07SqXGVzjMKrUHHwLqZDGb) | 4:27 |
-| 27 | [Lumumba \- Remastered](https://open.spotify.com/track/6UiiS9cw9K2VzlOKsJffba) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:47 |
+| 24 | [Oxgam](https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:04 |
+| 25 | [Mas Que Nada](https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 3:15 |
+| 26 | [Lumumba \- Remastered](https://open.spotify.com/track/6UiiS9cw9K2VzlOKsJffba) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:47 |
+| 27 | [Chicken \- Kikirikiki](https://open.spotify.com/track/1sxsg67QN7K9rusWjGHxfx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Comme une symphonie d'amour](https://open.spotify.com/album/07SqXGVzjMKrUHHwLqZDGb) | 4:27 |
 | 28 | [Nongqongqo \(To Those We Love\)](https://open.spotify.com/track/30pnnpORcc4ouUdFmTfUX1) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:20 |
 | 29 | [Thank You Mama](https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Leleti Khumalo](https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT) | [Sarafina! The Sound Of Freedom](https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp) | 4:24 |
 | 30 | [Soweto Blues](https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:16 |
 | 31 | [Down on the Corner \- Remastered](https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:33 |
-| 32 | [Sing Me a Song](https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 3:54 |
-| 33 | [The Lion Sleeps Tonight \(Mbube\)](https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:33 |
+| 32 | [The Lion Sleeps Tonight \(Mbube\)](https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:33 |
+| 33 | [Sing Me a Song](https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 3:54 |
 | 34 | [African Sunset](https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 5:46 |
 | 35 | [Kwazulu \(In the Land of the Zulus\)](https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:33 |
 | 36 | [Umqokozo](https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Le monde de Myriam Makeba](https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Ca06w.md) - [plain]
 | 49 | [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 4:54 |
 | 50 | [Africa](https://open.spotify.com/track/1Xf60iHndHz5X20e9Kd9RY) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:24 |
 
-Snapshot ID: `aTi4AAAAAABNaIzQE8IXMtOPO54ppsqY`
+Snapshot ID: `aToJgAAAAAD4SHveXyYPjrUgWjaotxk/`

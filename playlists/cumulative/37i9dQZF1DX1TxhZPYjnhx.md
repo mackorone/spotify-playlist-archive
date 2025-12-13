@@ -4,7 +4,7 @@
 
 > Discover new favorites or tomorrow's hits today\. Cover: Sorn, MINNIE
 
-1,188 songs - 2 day 14 hr 55 min
+1,188 songs - 2 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [I HAVEN'T SAID ENOUGH](https://open.spotify.com/track/40L1n9k9hAIgfDpIHTGvHi) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:19 | 2025-06-26 | 2025-07-25 |
 | [I Like It \(feat\. nomoe\)](https://open.spotify.com/track/2yZZEapVT0EiQVUilkWrli) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [QUARAW](https://open.spotify.com/artist/1vwJdPI8K8wdoQQTLdv0Dc), [nomoe](https://open.spotify.com/artist/5m97aceHZJPW3c1CyxKeSu) | [I Like It \(feat\. nomoe\)](https://open.spotify.com/album/7wGzCYdTyqwBd6BtNR40mC) | 2:15 | 2025-02-27 | 2025-04-04 |
 | [i like that you like it](https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [i like that you like it](https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9) | 3:00 | 2024-08-07 | 2024-09-26 |
+| [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 | 2025-12-11 |  |
 | [I Miss You](https://open.spotify.com/track/52nbGhRpgtW1TnHmlTflJB) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [I Miss You](https://open.spotify.com/album/3N1zS3vLqu4YlK2XU74fyg) | 2:44 | 2025-10-10 | 2025-11-28 |
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-16 | 2025-02-07 |
 | [i swear](https://open.spotify.com/track/2r1v0zWOolbTrJ4RGzseUt) | [CIRCLE](https://open.spotify.com/artist/0B1FeMwGdjW4lhKaIGtpge), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [RICK](https://open.spotify.com/artist/5czgwKH54SxujkR4aHsyDS) | [i swear](https://open.spotify.com/album/42FuZmjXs9rTdPhahqD0VN) | 4:08 | 2025-02-27 | 2025-03-21 |
@@ -1082,7 +1083,6 @@
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-10 | 2024-09-19 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 | 2025-07-04 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-11 | 2025-05-02 |
-| [Track 1](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
 | [Tropical Downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Tropical Downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 | 2025-11-27 |  |
 | [Tunnel Vision](https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM) | 2:43 | 2025-02-06 | 2025-03-07 |
 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-13 |  |

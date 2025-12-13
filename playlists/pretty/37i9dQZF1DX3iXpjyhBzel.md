@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Eli Soares, Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,486 likes - 100 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,552 likes - 100 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 35 | [Deus Está Aqui \(Medley\)](https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus Está Aqui \(Medley\)](https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G) | 4:43 |
 | 36 | [Messias \- Ao Vivo](https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Messias \(Ao Vivo\)](https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu) | 8:09 |
 | 37 | [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 |
-| 38 | [A Maior Honra \- Ao Vivo](https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Guilherme Andrade](https://open.spotify.com/artist/6LFnFW6ECYKbvQ4QV4NwnH) | [A Maior Honra \(Ao Vivo\)](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 11:22 |
-| 39 | [Escape](https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Escape](https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj) | 4:33 |
+| 38 | [Escape](https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Escape](https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj) | 4:33 |
+| 39 | [A Maior Honra \- Ao Vivo](https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Guilherme Andrade](https://open.spotify.com/artist/6LFnFW6ECYKbvQ4QV4NwnH) | [A Maior Honra \(Ao Vivo\)](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 11:22 |
 | 40 | [Bondade De Deus](https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Bondade De Deus](https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4) | 4:55 |
 | 41 | [Tu És Deus \(A Ele\) \- Ao Vivo](https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Tu És Deus \(A Ele\) \[Ao Vivo\]](https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR) | 5:04 |
 | 42 | [Nada Mais/Uma Vez](https://open.spotify.com/track/6iRxHMWx0ACA8NoDZ8NN60) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd), [Davi Fernandes](https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Nada Mais/Uma Vez](https://open.spotify.com/album/6gQlQS55W8vZ3bjTmByVa1) | 6:32 |

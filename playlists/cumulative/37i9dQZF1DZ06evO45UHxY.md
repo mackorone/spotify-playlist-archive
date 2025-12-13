@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-147 songs - 7 hr 16 min
+148 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [El Fon](https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 3:14 | 2022-06-01 | 2025-08-31 |
 | [El Gato Del Vecindario](https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:31 | 2022-09-30 |  |
 | [El Gato del Vecindario](https://open.spotify.com/track/6kfpFMsbGcNrN6CBH87Qyx) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 2:34 | 2022-06-01 | 2022-10-01 |
+| [El Gavilancillo](https://open.spotify.com/track/3HIsivR3t9klqDxVrS1yPn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL), [3van](https://open.spotify.com/artist/1SCRfB1hQex6FduWiKVQ9n) | [El Gavilancillo](https://open.spotify.com/album/2yCejlJ7XQ1YuMTM6LO7a8) | 3:27 | 2025-12-13 |  |
 | [El lamento del cornudo](https://open.spotify.com/track/2kbiFgHG5T7qbrh3wXb0aE) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Ni tan chico, ni tan che](https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP) | 2:33 | 2025-03-22 | 2025-08-12 |
 | [El Pasito Perron](https://open.spotify.com/track/70cAHG35vnpbGnoykbIFcn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [El Pasito Perron](https://open.spotify.com/album/6CiXXNc8Mg5rFwbUwcZ68k) | 2:51 | 2022-06-01 |  |
 | [El pulpito](https://open.spotify.com/track/0IOo7TJxhsK9NZvFN51u74) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Oro Grupero](https://open.spotify.com/album/7rPkJ0IUPojfPmWka3ZQ1P) | 1:43 | 2025-05-07 | 2025-05-24 |

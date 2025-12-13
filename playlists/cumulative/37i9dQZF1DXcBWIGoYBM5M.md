@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Sabrina Carpenter
+> The hottest 50\. Cover: Olivia Dean
 
 1,320 songs - 2 day 22 hr 43 min
 

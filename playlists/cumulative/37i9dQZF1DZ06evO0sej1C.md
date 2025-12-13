@@ -4,7 +4,7 @@
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-115 songs - 6 hr 44 min
+116 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Otra Oportunidad](https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Otra Oportunidad](https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc) | 3:51 | 2023-03-24 | 2025-06-20 |
 | [Piensa En Mis Labios](https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Piensa En Mis Labios](https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR) | 3:17 | 2023-03-24 | 2025-06-21 |
 | [Piensa En Mis Labios](https://open.spotify.com/track/3eda2SUJdRxyy6KBaVHB17) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Piensa En Mis Labios](https://open.spotify.com/album/35PrfaDVET02L2KppeIenT) | 3:17 | 2025-06-21 |  |
-| [PILLS](https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9) | 3:07 | 2025-11-09 |  |
+| [PILLS](https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9) | 3:07 | 2025-11-09 | 2025-12-13 |
 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 | 2023-05-19 | 2025-02-23 |
 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 | 2023-03-24 |  |
 | [Princesa](https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Princesa](https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv) | 3:52 | 2024-07-08 | 2024-08-09 |
@@ -110,6 +110,7 @@
 | [Sin Rencor Ni Mal De Amores](https://open.spotify.com/track/6PpwTN6oWZoSE1goj9Su96) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Piloncillo y Bacanora](https://open.spotify.com/album/3GMPhAVHTmc2k57kXPnNSN) | 3:18 | 2025-11-23 |  |
 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 | 2023-03-24 |  |
 | [Smoke](https://open.spotify.com/track/1BKfnWOViooRpW2pAs3YLT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Smoke](https://open.spotify.com/album/1BTyb724qBItdFLINxaAPp) | 3:00 | 2025-10-12 |  |
+| [Solo Tuya](https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Solo Tuya](https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV) | 3:46 | 2025-12-13 |  |
 | [Soñar](https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Soñar](https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k) | 3:29 | 2023-03-24 |  |
 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 | 2023-03-24 |  |
 | [Tequila y Miel](https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Tequila y Miel](https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua) | 3:31 | 2025-06-23 |  |

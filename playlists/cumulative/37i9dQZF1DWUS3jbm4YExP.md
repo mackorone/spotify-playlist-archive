@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-862 songs - 2 day 13 hr 3 min
+863 songs - 2 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/1G4aMGkzJV5yqF3XRHNqWL) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/4S0GIZfnkA1kK07ACLPyZJ) | 3:10 | 2021-10-06 | 2022-11-20 |
 | [Baile Infinito](https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Visceras](https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j) | 1:41 | 2022-09-15 | 2025-02-28 |
 | [Baixada](https://open.spotify.com/track/4zzMUiu5slOh0lI7QL2yNd) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Baixada](https://open.spotify.com/album/76AlDMHVPDI9ao1r5lppHU) | 2:21 | 2022-01-07 | 2022-07-29 |
+| [Bakar](https://open.spotify.com/track/0fj6jEifZnrIGWclN346Qh) | [Nusantara Beat](https://open.spotify.com/artist/6iQZl7RmTVznyFCrML933x) | [Nusantara Beat](https://open.spotify.com/album/2sbFG9DBvAaju0TcE3AHw9) | 5:33 | 2025-12-12 |  |
 | [Bar Konon Mousso \(Musicien C'est Pas Quelqu'un\) \[Ben Gomori N'est Pas Musicien Edit\]](https://open.spotify.com/track/01WjUcodSI8u1srax6gr6y) | [Amadou Balaké](https://open.spotify.com/artist/1R3wyTMKl4aOXW9cbiFnME), [Ben Gomori](https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw) | [In Conclusion \(Ben Gomori Edits\)](https://open.spotify.com/album/6gw4pWgDD2gF2b5R80MYcD) | 8:01 | 2022-03-29 | 2022-04-21 |
 | [Barry White Vs\. Micheal Myers](https://open.spotify.com/track/6iGwa4Zfa7YGJ4jhga60gj) | [Chola Orange](https://open.spotify.com/artist/7ovA6Ves5dfylDwv6883wD) | [Chola Orange](https://open.spotify.com/album/3nnP9XAAzjXpkrqoFu07kA) | 2:51 | 2021-10-06 | 2022-04-21 |
 | [Bassa Bassa](https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs) | [Bassa Bassa](https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj) | 5:01 | 2022-03-29 |  |
@@ -388,7 +389,7 @@
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/7l9wGE3dDzxgn5P8fl9lgw) | 3:34 | 2021-10-06 | 2022-07-29 |
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/63Dcd1TRAGV5dxpJPDz6Ae) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/1ltDNyqAihoVYUfjv28oXl) | 3:34 | 2021-10-06 | 2023-10-13 |
 | [Juicy](https://open.spotify.com/track/37BcvlCPdEu1fQuuad7TZ1) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Juicy](https://open.spotify.com/album/1l9h8V3bk4SUoGrAyviH2K) | 3:45 | 2023-03-22 | 2024-05-01 |
-| [Juicy Fruit](https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv) | [Karate Boogaloo](https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ) | [KB's Mixtape No\. 2](https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP) | 5:04 | 2022-01-17 |  |
+| [Juicy Fruit](https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv) | [Karate Boogaloo](https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ) | [KB's Mixtape No\. 2](https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP) | 5:04 | 2022-01-17 | 2025-12-13 |
 | [Jungle Music](https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs) | [Kelenkye Band](https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq) | [Various Bilongo](https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt) | 5:36 | 2021-10-06 |  |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-24 |  |
 | [Justaju](https://open.spotify.com/track/1z4f6ddISQvCdRNahbyD1t) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU) | [Justaju](https://open.spotify.com/album/3IGsqaTwSwGEKNYClDJwep) | 2:56 | 2022-02-25 | 2022-04-21 |

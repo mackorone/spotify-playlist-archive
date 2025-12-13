@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 10986657,
+  "num_followers": 10986944,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "So Far So Fake",
-      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 200680,
       "name": "PERFuMITO NUEVO",
       "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "So Far So Fake",
+      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "Miles On It",
-        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 168355,
-      "name": "Miles On It",
-      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        }
-      ],
-      "duration_ms": 152304,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
+        "name": "WHERE IS MY HUSBAND! (Remix)",
+        "url": "https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "duration_ms": 153768,
+      "name": "WHERE IS MY HUSBAND! - Remix",
+      "url": "https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
         "name": "KEEP UP // FROSTBITE",
         "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
       },
@@ -1419,22 +1443,6 @@
       "duration_ms": 133226,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
-        "name": "euphoria",
-        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 383639,
-      "name": "euphoria",
-      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -1459,26 +1467,18 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "WHERE IS MY HUSBAND! (Remix)",
-        "url": "https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC"
+        "name": "euphoria",
+        "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 153768,
-      "name": "WHERE IS MY HUSBAND! - Remix",
-      "url": "https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C"
+      "duration_ms": 383639,
+      "name": "euphoria",
+      "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "flashes",
         "url": "https://open.spotify.com/album/1xtogJBn8wOmtb7uNHCl6h"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 185076,
       "name": "flashes",
       "url": "https://open.spotify.com/track/6ciaJyxPG3OueX32rd57jA"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 165412,
-      "name": "Rah Tah Tah",
-      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -2055,6 +2039,22 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 165412,
+      "name": "Rah Tah Tah",
+      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
       },
@@ -2067,22 +2067,6 @@
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -2103,6 +2087,22 @@
       "duration_ms": 163478,
       "name": "I Wanna Go - John Summit Remix",
       "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -2175,6 +2155,26 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -2199,6 +2199,26 @@
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 213646,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -2247,26 +2267,6 @@
       "duration_ms": 183223,
       "name": "Up From the Bottom",
       "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 213646,
-      "name": "Fuel",
-      "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -2455,26 +2455,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "X-SLIDE",
-        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
-      },
-      "artists": [
-        {
-          "name": "2KE",
-          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
-        },
-        {
-          "name": "808iuli",
-          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
-        }
-      ],
-      "duration_ms": 79452,
-      "name": "X-SLIDE",
-      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -2503,6 +2483,26 @@
       "duration_ms": 243906,
       "name": "Chains & Whips",
       "url": "https://open.spotify.com/track/3znSvEwBq09We4cxxmwlZM"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "X-SLIDE",
+        "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        },
+        {
+          "name": "808iuli",
+          "url": "https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li"
+        }
+      ],
+      "duration_ms": 79452,
+      "name": "X-SLIDE",
+      "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
       "added_at": "2025-12-05 17:00:18",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2025-12-05 17:00:18",
       "album": {
-        "name": "Get It Sexyy",
-        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148551,
-      "name": "Get It Sexyy",
-      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
-    },
-    {
-      "added_at": "2025-12-05 17:00:18",
-      "album": {
         "name": "Even If It Kills Me",
         "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 212239,
       "name": "Even If It Kills Me",
       "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
+    },
+    {
+      "added_at": "2025-12-05 17:00:18",
+      "album": {
+        "name": "Get It Sexyy",
+        "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Get It Sexyy",
+      "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
     },
     {
       "added_at": "2025-12-05 17:00:18",

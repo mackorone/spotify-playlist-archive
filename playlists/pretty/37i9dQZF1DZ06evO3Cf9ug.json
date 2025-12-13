@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 130666,
+  "num_followers": 130741,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAA6MgmpiwgnfaoliGbALGq6",
+  "snapshot_id": "aToJgAAAAABk/w1418DHo03kUz2aDgwx",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFRIKA MAGIK",
-        "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
       },
       "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 207955,
-      "name": "You Get Me",
-      "url": "https://open.spotify.com/track/7AeyaupKxGgxfpXH6lVVdE"
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": null,
@@ -551,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+        "name": "AFRIKA MAGIK",
+        "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
       },
       "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
+      "duration_ms": 207955,
+      "name": "You Get Me",
+      "url": "https://open.spotify.com/track/7AeyaupKxGgxfpXH6lVVdE"
     },
     {
       "added_at": null,

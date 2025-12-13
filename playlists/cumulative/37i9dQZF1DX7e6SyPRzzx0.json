@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-02",
-  "description": "The home of rage rap. Cover: Destroy Lonely",
+  "description": "The home of rage rap. Cover: Playboi Carti",
   "name": "RAGE",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 160000,
       "name": "Cartoon Network",
       "url": "https://open.spotify.com/track/12V00GCnpzT8ghx0vTVbp4"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 142221,
       "name": "Club Siberia",
       "url": "https://open.spotify.com/track/0ltPQEEW1aC1pKqt68DIqV"
@@ -3139,6 +3139,28 @@
     },
     {
       "album": {
+        "name": "the acronym (with Destroy Lonely)",
+        "url": "https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147495,
+      "name": "the acronym (with Destroy Lonely)",
+      "url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
+    },
+    {
+      "album": {
         "name": "A Love Letter To You 4",
         "url": "https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE"
       },
@@ -3542,6 +3564,24 @@
       "duration_ms": 136270,
       "name": "WHAT YOU WANT",
       "url": "https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ"
+    },
+    {
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/1qPsMc4JMJ0AiwZQ9YU0lH"
+      },
+      "artists": [
+        {
+          "name": "Protect",
+          "url": "https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117191,
+      "name": "Whitney",
+      "url": "https://open.spotify.com/track/2vdAs3WHThXVp9ESCiQH9f"
     },
     {
       "album": {

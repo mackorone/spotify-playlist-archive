@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 146329,
+  "num_followers": 146387,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 417320,
+      "name": "Foolin' Myself",
+      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Lester Young With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 208468,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 417320,
-      "name": "Foolin' Myself",
-      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
     },
     {
       "added_at": "2024-07-08 07:01:17",

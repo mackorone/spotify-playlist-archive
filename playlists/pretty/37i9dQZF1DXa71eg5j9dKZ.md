@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,783 likes - 99 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,797 likes - 99 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 16 | [28 Eyes](https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [holybones](https://open.spotify.com/artist/5BrxhXnto2nqDoweFmBnJ0) | [28 Eyes](https://open.spotify.com/album/1803IIMVPWQpD4yc2UG0F0) | 3:46 |
 | 17 | [Undo \(Your Body\)](https://open.spotify.com/track/75hIYCHHwBSkO3rU03zEqt) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Undo \(Your Body\)](https://open.spotify.com/album/1sY3sU8mLAclY7PiBoAsph) | 6:17 |
 | 18 | [Worth It](https://open.spotify.com/track/7FEzKQw1rU8ZA5nsqjJ9H8) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Worth It](https://open.spotify.com/album/4WqUWYxOvMXphSYewpsajK) | 4:31 |
-| 19 | [Track 2](https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [](https://open.spotify.com/album/null) | 0:00 |
+| 19 | [Don't Know Why](https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Give You My Luv EP](https://open.spotify.com/album/09YemHqZAksPmmdu0tbOpG) | 3:00 |
 | 20 | [It's Only Real 2025](https://open.spotify.com/track/6ZHb0z8NqbBr1lLiPSryau) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [It's Only Real 2025](https://open.spotify.com/album/0NB2vWCSpw9DOmbIgWVrVN) | 3:08 |
 | 21 | [IN/ESSENCE](https://open.spotify.com/track/4dpwYuqzEY1JORYmGtooBI) | [Just Geo](https://open.spotify.com/artist/085BrKDuP4Jht2a6wwdLE5) | [IN/HARMONY](https://open.spotify.com/album/3eiy7sPhgWqCul3MWJKOph) | 2:16 |
 | 22 | [BAWDY is A LOT \[Nick León + Six Sex\]](https://open.spotify.com/track/4JQS1i3wUsHCTt96ACyM2U) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [BAWDY is A LOT \[Nick León + Six Sex\]](https://open.spotify.com/album/2Pmqwcl5cgkAdauwuraugc) | 4:02 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 26 | [Believe](https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Believe](https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY) | 3:42 |
 | 27 | [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 |
 | 28 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
-| 29 | [Track 1](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [](https://open.spotify.com/album/null) | 0:00 |
+| 29 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |
 | 30 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 |
 | 31 | [Veil \- Edit](https://open.spotify.com/track/1R0ufKhSTgKWhsEAVFoJMJ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Veil \(Edit\)](https://open.spotify.com/album/3pWxCWfzuFQgi2Wx5s1ELv) | 3:37 |
 | 32 | [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 |
 | 33 | [Handsup](https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve +1](https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ) | 3:08 |
-| 34 | [Realisation](https://open.spotify.com/track/3ChT8dRHwlXSuAYOOiyMnX) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [UK Minimal Volume 2 \- The Moody Tech Chronicles](https://open.spotify.com/album/5T7722ImPTvALdtnDF6iQe) | 6:37 |
+| 34 | [Realisation](https://open.spotify.com/track/3ChT8dRHwlXSuAYOOiyMnX) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [UK Minimal Vol\. 2 \- The Moody Tech Chronicles](https://open.spotify.com/album/5T7722ImPTvALdtnDF6iQe) | 6:37 |
 | 35 | [Three Dot](https://open.spotify.com/track/34j5OD6lAAO2LrwiMLTJXQ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Three Dot](https://open.spotify.com/album/1fpDxLGsE3DyWw641lVaMH) | 3:42 |
 | 36 | [Free Falling](https://open.spotify.com/track/2OtkVJa0TqrxTSFRfGapXE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Free Falling](https://open.spotify.com/album/1Bs2GHQOR8Uxiv89sbhYbC) | 3:45 |
 | 37 | [Spiral Emoji](https://open.spotify.com/track/0kNlPQz9Tysczbaf2faa6m) | [Wordcolour](https://open.spotify.com/artist/2u75EZNS4kCa8tnldGnUbH) | [Spiral Emoji](https://open.spotify.com/album/2YYHJsZG7WvAD7DhyFyfgJ) | 5:48 |

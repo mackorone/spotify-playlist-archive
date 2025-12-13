@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 802057,
+  "num_followers": 802073,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMghkvahCuhBQjmEWUezkhuvKcJ7",
+  "snapshot_id": "AAAAAF9ogLUbpE5NLZ8yhcjLy4tu0KWo",
   "tracks": [
     {
       "added_at": "2025-12-04 23:00:08",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 291190,
-      "name": "White Gloves ii",
-      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 273106,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Diamonds And Rust",
-      "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "failles",
         "url": "https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 166401,
       "name": "heureux",
       "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 286106,
+      "name": "Diamonds And Rust",
+      "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Yael Na\u00efm",
-        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
-      },
-      "artists": [
-        {
-          "name": "Yael Naim",
-          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "New Soul",
-      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Yael Na\u00efm",
+        "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
+      },
+      "artists": [
+        {
+          "name": "Yael Naim",
+          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "New Soul",
+      "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Little House",
-        "url": "https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Little House",
-      "url": "https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 236533,
       "name": "Anyone Who Loves Me",
       "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Little House",
+      "url": "https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
+        "name": "Can You Swim?",
+        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 295378,
+      "name": "Can You Swim?",
+      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
         "name": "Monde Nouveau",
         "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
       },
@@ -899,38 +915,6 @@
       "duration_ms": 157116,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
-        "name": "choke enough (Deluxe)",
-        "url": "https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 203818,
-      "name": "what's good",
-      "url": "https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -951,6 +935,38 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "choke enough (Deluxe)",
+        "url": "https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 203818,
+      "name": "what's good",
+      "url": "https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 248253,
       "name": "A Trick of the Light",
       "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
-        "name": "Can You Swim?",
-        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 295378,
-      "name": "Can You Swim?",
-      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "No One Knows You Better",
-        "url": "https://open.spotify.com/album/4Hzx9Y7qPmAQhcvUpuBWRT"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "No One Knows You Better",
-      "url": "https://open.spotify.com/track/3fjAa5k59rQdJrncLwipmn"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/4sDhnxgHsTp65nUWTlEjBl"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 255457,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4NsmI3RX9yZDCuCW75Ezvp"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "No One Knows You Better",
+        "url": "https://open.spotify.com/album/4Hzx9Y7qPmAQhcvUpuBWRT"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "No One Knows You Better",
+      "url": "https://open.spotify.com/track/3fjAa5k59rQdJrncLwipmn"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Cure for Emptiness (with Bello)",
-        "url": "https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        },
-        {
-          "name": "Bello",
-          "url": "https://open.spotify.com/artist/2T51pCP4efnt6zBBOj6CZT"
-        }
-      ],
-      "duration_ms": 200971,
-      "name": "Cure for Emptiness (with Bello)",
-      "url": "https://open.spotify.com/track/0PsLWRlhGxICKhJtT6U8ya"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "i don\u2019t want your garden",
         "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
       },
@@ -1215,18 +1195,22 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4UMTI81dihmgD91OCDniUr"
+        "name": "Cure for Emptiness (with Bello)",
+        "url": "https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT"
       },
       "artists": [
         {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        },
+        {
+          "name": "Bello",
+          "url": "https://open.spotify.com/artist/2T51pCP4efnt6zBBOj6CZT"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/0svziMWPuDjWkQ7fW6al08"
+      "duration_ms": 200971,
+      "name": "Cure for Emptiness (with Bello)",
+      "url": "https://open.spotify.com/track/0PsLWRlhGxICKhJtT6U8ya"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4UMTI81dihmgD91OCDniUr"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
         }
       ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
+      "duration_ms": 236571,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/0svziMWPuDjWkQ7fW6al08"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1283,6 +1267,22 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+        "name": "Not For Lack Of Trying",
+        "url": "https://open.spotify.com/album/5oZeGHp3f5TXuMCtEfrvEd"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 228760,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
+      "duration_ms": 185230,
+      "name": "Maybe, Finally",
+      "url": "https://open.spotify.com/track/4DQ2NDWgc2CKaLJc33QqE4"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Not For Lack Of Trying",
-        "url": "https://open.spotify.com/album/5oZeGHp3f5TXuMCtEfrvEd"
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 185230,
-      "name": "Maybe, Finally",
-      "url": "https://open.spotify.com/track/4DQ2NDWgc2CKaLJc33QqE4"
+      "duration_ms": 228760,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Lesbian Of The Year",
-        "url": "https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 213824,
-      "name": "Lesbian Of The Year",
-      "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Feel Myself / Wait For You",
         "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
+        "name": "Lesbian Of The Year",
+        "url": "https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 213824,
+      "name": "Lesbian Of The Year",
+      "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
         "name": "Lisbon",
         "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 150656,
       "name": "Lisbon",
       "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1599,22 +1615,6 @@
       "duration_ms": 228066,
       "name": "Tableau",
       "url": "https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
     },
     {
       "added_at": "2025-12-04 23:00:08",

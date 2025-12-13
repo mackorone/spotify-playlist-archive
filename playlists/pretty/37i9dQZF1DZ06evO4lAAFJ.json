@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 665363,
+  "num_followers": 665802,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAA8otiTh21BV+Q/GOfk4a+j",
+  "snapshot_id": "aToJgAAAAAA8j03Mz9K0Lqwx/hIom3JH",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+        "name": "Dolerme",
+        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 269538,
-      "name": "QUE NO SALGA LA LUNA - Cap.2: Boda",
-      "url": "https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a"
+      "duration_ms": 143975,
+      "name": "Dolerme",
+      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolerme",
-        "url": "https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo"
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 143975,
-      "name": "Dolerme",
-      "url": "https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf"
+      "duration_ms": 269538,
+      "name": "QUE NO SALGA LA LUNA - Cap.2: Boda",
+      "url": "https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a"
     },
     {
       "added_at": null,
@@ -675,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque Es De Noche",
-        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
+        "name": "Blinding Lights (Remix)",
+        "url": "https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410"
       },
       "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 253108,
-      "name": "Aunque Es De Noche",
-      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
+      "duration_ms": 216123,
+      "name": "Blinding Lights (with ROSAL\u00cdA) - Remix",
+      "url": "https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3"
     },
     {
       "added_at": null,
@@ -707,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights (Remix)",
-        "url": "https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410"
+        "name": "Aunque Es De Noche",
+        "url": "https://open.spotify.com/album/5gBeXfX0ZfaiDWirzSNeIk"
       },
       "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 216123,
-      "name": "Blinding Lights (with ROSAL\u00cdA) - Remix",
-      "url": "https://open.spotify.com/track/7MXgrcOQAJ5VwSNUL0lDd3"
+      "duration_ms": 253108,
+      "name": "Aunque Es De Noche",
+      "url": "https://open.spotify.com/track/43MWnijE4yC3hZAjoRQ06N"
     },
     {
       "added_at": null,

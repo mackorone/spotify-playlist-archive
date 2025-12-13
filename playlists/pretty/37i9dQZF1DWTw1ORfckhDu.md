@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,411 likes - 52 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,398 likes - 52 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [](https://open.spotify.com/album/null) | 3:16 |
+| 1 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 |
 | 2 | [Luodinreikii](https://open.spotify.com/track/3ArbpCWFEAMJ6TPzQ8e0IG) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Luodinreikii](https://open.spotify.com/album/6V2O4arkwz5oodSnO3Tv1o) | 2:42 |
 | 3 | [KIHO](https://open.spotify.com/track/5HUHnu9tGDQWoAkaDkbPaj) | [Kullervo](https://open.spotify.com/artist/39KHP6jiqcSRQRO9KOXbBs) | [KIHO](https://open.spotify.com/album/59Pl2BUKrCwLSvTdjAh2A5) | 2:35 |
 | 4 | [Vituttaa](https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vituttaa](https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d) | 3:17 |

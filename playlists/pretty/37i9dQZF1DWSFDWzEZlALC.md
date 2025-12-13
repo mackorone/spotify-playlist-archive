@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Vince
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,925 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,979 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [kein nächstes mal](https://open.spotify.com/track/22P8IF6TCe5eysah6kGKgy) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [kein nächstes mal](https://open.spotify.com/album/7cdJf84HRuVFQHUbUYbfwP) | 2:28 |
 | 2 | [Ausgedacht](https://open.spotify.com/track/09EPM9hZhXTTCVi0qrc8A3) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Ausgedacht](https://open.spotify.com/album/1LygnaZ8aThLoDCPEpphxj) | 3:09 |
-| 3 | [Track 9](https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Gespenst](https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq), [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz) | [Strandbad Eldena](https://open.spotify.com/album/5Ht0J2Q4lZ0Pf5p0NUimwh) | 3:02 |
 | 4 | [Knopf](https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY) | 4:12 |
-| 5 | [Du Liebst Mich Nicht](https://open.spotify.com/track/07uJuElrOlCGJwOHwzCTry) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl), [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [](https://open.spotify.com/album/null) | 3:15 |
+| 5 | [Du Liebst Mich Nicht](https://open.spotify.com/track/07uJuElrOlCGJwOHwzCTry) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl), [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 3:15 |
 | 6 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
 | 7 | [Danke](https://open.spotify.com/track/1WJY3gUF5l2c7L4R6IuLqA) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Danke](https://open.spotify.com/album/1L9KW10EETSgQXM5WhmM4t) | 2:34 |
 | 8 | [juli](https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [freddy](https://open.spotify.com/artist/1wZSsamMhiSbUH81WUUNik) | [juli](https://open.spotify.com/album/74Ol3ScDT8UobOYD6e5Ba9) | 2:42 |
 | 9 | [Die Welt und ich](https://open.spotify.com/track/3uTO2FfzeAMYdJ5NPea8D0) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Die Welt und ich](https://open.spotify.com/album/0iYI6T7q8iNe0prTO319bV) | 3:48 |
-| 10 | [immer jung](https://open.spotify.com/track/7IjDf3LtMRgul5BmH9nfdw) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [](https://open.spotify.com/album/null) | 2:21 |
+| 10 | [immer jung](https://open.spotify.com/track/7IjDf3LtMRgul5BmH9nfdw) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [2002](https://open.spotify.com/album/1shEZK864ykHq771TdWVPF) | 2:21 |
 | 11 | [Wieder zurück \(feat\. Edwin Rosen\)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh), [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Arsenalplatz](https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j) | 3:58 |
 | 12 | [Sorgen](https://open.spotify.com/track/4Fx5ksDTBLqWCouGi8h626) | [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Rex](https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY) | [Sorgen](https://open.spotify.com/album/44FCZLvIiSjvP6emHmTF1c) | 3:00 |
 | 13 | [die welt geht vor die hunde](https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [die welt geht vor die hunde](https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY) | 2:51 |

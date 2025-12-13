@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,781 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,797 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 4 | [That's My Jam](https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:16 |
 | 5 | [Set Fazers](https://open.spotify.com/track/1IYOdwWpd4IQKwqhRPpklu) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:15 |
 | 6 | [Kill the Power](https://open.spotify.com/track/0u3KER6mLv2qD9lKLuRW4v) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 4:34 |
-| 7 | [Ratrace](https://open.spotify.com/track/6l3XfwxpZJ1ZTKPXoW58RU) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot \(Japanese Version\)](https://open.spotify.com/album/75VQg84KLxihs6di0BaCQi) | 3:21 |
-| 8 | [Pressure](https://open.spotify.com/track/1I6H9DDpmtwI5RF8qYgW17) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:28 |
+| 7 | [Pressure](https://open.spotify.com/track/1I6H9DDpmtwI5RF8qYgW17) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:28 |
+| 8 | [Ratrace](https://open.spotify.com/track/6l3XfwxpZJ1ZTKPXoW58RU) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot \(Japanese Version\)](https://open.spotify.com/album/75VQg84KLxihs6di0BaCQi) | 3:21 |
 | 9 | [If I Could](https://open.spotify.com/track/3VzfopejqgC2PWOvX9smzP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:29 |
 | 10 | [Electric Avenue](https://open.spotify.com/track/7LzgkKN9Bl2YqfwTHeSfgY) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:10 |
-| 11 | [Worlds on Fire](https://open.spotify.com/track/01KiGFAD8PTLqRIEjYEqfP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:31 |
-| 12 | [Bruises](https://open.spotify.com/track/1N3m5G3ho2toLQCjAWZfes) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 2:42 |
+| 11 | [Bruises](https://open.spotify.com/track/1N3m5G3ho2toLQCjAWZfes) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 2:42 |
+| 12 | [Worlds on Fire](https://open.spotify.com/track/01KiGFAD8PTLqRIEjYEqfP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:31 |
 | 13 | [Unstoppable](https://open.spotify.com/track/41YqZ01I6xnP64LzTQcdGz) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:03 |
 | 14 | [Warning \- feat\. Jacoby Shaddix](https://open.spotify.com/track/51D2Hs0t0X37GWI0TTMyaW) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:50 |
 | 15 | [Stand for Something](https://open.spotify.com/track/58gSJ0UgK1ctgCh5KKiFaw) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 4:06 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 35 | [Last Chance](https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:59 |
 | 36 | [Cause Ah Riot](https://open.spotify.com/track/31dOPJ62Idpq6eJA7KOKnO) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:04 |
 | 37 | [Sound the Siren](https://open.spotify.com/track/6uhIs0YwxmT2SehGWrFsBH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:20 |
-| 38 | [Cut Dem](https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:51 |
-| 39 | [Open Eyed](https://open.spotify.com/track/2sEPalDxv2IxnVnjlDFa8R) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 4:42 |
+| 38 | [Open Eyed](https://open.spotify.com/track/2sEPalDxv2IxnVnjlDFa8R) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 4:42 |
+| 39 | [Cut Dem](https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:51 |
 | 40 | [Destroy the Dancefloor](https://open.spotify.com/track/16IZ1JwVXyqMyQq5DkX9N9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:44 |
 | 41 | [Shut Ya Mouth](https://open.spotify.com/track/0Ng9ji1k1QYwpzHXIwxNfc) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:43 |
 | 42 | [Calling All Stations](https://open.spotify.com/track/2c0XncuoZEOGuphnaWltIG) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:33 |
-| 43 | [Guntalk](https://open.spotify.com/track/5XKkLDPZKRJImrMbWSk4Z1) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 4:01 |
+| 43 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 |
 | 44 | [Rude Boy For Life](https://open.spotify.com/track/0nouCKV8zqMBVYc2cKEYJl) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 4:10 |
 | 45 | [No Justice](https://open.spotify.com/track/4gSdCdpx48dPqmUbWyR9TP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 2:44 |
 | 46 | [Days Like These](https://open.spotify.com/track/5XdFU7eQHlD2nqv2VnncVP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 |
-| 47 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 |
+| 47 | [Guntalk](https://open.spotify.com/track/5XKkLDPZKRJImrMbWSk4Z1) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 4:01 |
 | 48 | [I](https://open.spotify.com/track/1Mq96Jbp8dPgJFOvejoK03) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 0:47 |
 | 49 | [You Can't Stop It](https://open.spotify.com/track/1RZD3Ibynuqkar2uRW0PE8) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:53 |
 | 50 | [Corrupted](https://open.spotify.com/track/7qsQOyTZ3gCJ48PJ04mPAL) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 |
 
-Snapshot ID: `aTi4AAAAAAAbi9O6t+RUxPXTcI0xPlLq`
+Snapshot ID: `aToJgAAAAACt7ppIUvg7cA1Zq3oiqVd7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > I didn’t do my makeup just to cry!<br/>chloe moriondo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,887 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,863 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 70 | [Nicer](https://open.spotify.com/track/3mL3jFNJ2irVn02EdkYBu2) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer](https://open.spotify.com/album/51HQqGdM5M4BBvSHEKaffN) | 3:22 |
 | 71 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 |
 | 72 | [You should be sad](https://open.spotify.com/track/4ncDAlyP3gmCWefTlj27zp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [You should be sad](https://open.spotify.com/album/0hXbi1NMz8paMkILeQEWW8) | 3:25 |
-| 73 | [Beginning of the End](https://open.spotify.com/track/04OQkYRHxHu4yrpjS1yl9V) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:57 |
+| 73 | [Beginning of the End](https://open.spotify.com/track/04OQkYRHxHu4yrpjS1yl9V) | [Brynn](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 2:57 |
 | 74 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 | 75 | [Too Much Too Little](https://open.spotify.com/track/6uB9IlAd8cad9y7yDCeALb) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Too Much Too Little](https://open.spotify.com/album/3v8ICDGTwpe8Sneh0Pkgdl) | 2:57 |
 | 76 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |

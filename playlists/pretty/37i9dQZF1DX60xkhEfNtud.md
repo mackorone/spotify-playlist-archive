@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60xkhEfNtud.md) - [plain]
 
 > Whale song from the deep underwater world of the oceans
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,843 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,903 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60xkhEfNtud.md) - [plain]
 | 14 | [Singing Whales](https://open.spotify.com/track/5u06TbepFp660RQvItOuqz) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Whale Sounds of the Sea](https://open.spotify.com/album/0YyICQb46YsV0Lytj42NeS) | 3:09 |
 | 15 | [Ocean Whales](https://open.spotify.com/track/0MfWxklDqgV1g06b5GTNH6) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Ocean Whales](https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW) | 3:16 |
 | 16 | [Whales in the Ocean](https://open.spotify.com/track/7hY4I1AJB3qjChEfeeZsbM) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Whales in the Ocean](https://open.spotify.com/album/6qJH650G6XotshNHvrgmqo) | 2:51 |
-| 17 | [Beautiful Whales](https://open.spotify.com/track/4LNs3G6PdQNFoFbYxo5VAb) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Whales](https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV) | 2:02 |
-| 18 | [Tone of Whales](https://open.spotify.com/track/6iRuWHZOz2GH35ljcNqt3i) | [Majestic Waters](https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk) | [Tone of Whales](https://open.spotify.com/album/58OJVATeFUfAFaiWwK7Idc) | 2:12 |
+| 17 | [Tone of Whales](https://open.spotify.com/track/6iRuWHZOz2GH35ljcNqt3i) | [Majestic Waters](https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk) | [Tone of Whales](https://open.spotify.com/album/58OJVATeFUfAFaiWwK7Idc) | 2:12 |
+| 18 | [Beautiful Whales](https://open.spotify.com/track/4LNs3G6PdQNFoFbYxo5VAb) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Whales](https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV) | 2:02 |
 | 19 | [Whales by Night](https://open.spotify.com/track/1z7GxTap9r5l7xYj5XVGqC) | [Nature Expedition](https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi) | [Whales in the Deep Sea 2](https://open.spotify.com/album/2rDqBJ5WkcS2jw5jrJW1Hs) | 2:41 |
 | 20 | [Healing Whale](https://open.spotify.com/track/2CfSXVfsGEZj6ptlCBD34R) | [Whales Sample](https://open.spotify.com/artist/0sWkEbH2U6YtdZurTXUhe6) | [Whales Sounds Collection](https://open.spotify.com/album/57W20d0oOma8Hq8FKRjT34) | 2:20 |
 | 21 | [The Songs of Whales](https://open.spotify.com/track/3jiBweaVQTNPllkquruQPP) | [Wavofota](https://open.spotify.com/artist/0HnNp4qEj5NucLcMsJiEU3) | [The Songs of Whales](https://open.spotify.com/album/47kOSBiCJ5GvfoxoG6spP3) | 2:36 |
 | 22 | [Underwater Orchestra](https://open.spotify.com/track/6WRf9XzUcFR9UUwPFkeaHe) | [The Marine Mammals](https://open.spotify.com/artist/1tkLiFoRextGEuUEjc5QcQ) | [Underwater Orchestra](https://open.spotify.com/album/6kx2CDWAq6wuT3dBPSe1XD) | 2:18 |
-| 23 | [Megaptera Novaeangliae](https://open.spotify.com/track/1PmDangSs9cmS08IAWGNEg) | [ORCA](https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq) | [Songs Of The Sea](https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM) | 3:00 |
-| 24 | [Lamenting Whales 2](https://open.spotify.com/track/0wEAlJJugzCzf8BqDusm9H) | [Oceanografers](https://open.spotify.com/artist/4L9auJxQTdLdRXVkeg0CTZ) | [Dream Whales](https://open.spotify.com/album/2zmm83nqWpkkrFa7C8GkIh) | 2:01 |
+| 23 | [Lamenting Whales 2](https://open.spotify.com/track/0wEAlJJugzCzf8BqDusm9H) | [Oceanografers](https://open.spotify.com/artist/4L9auJxQTdLdRXVkeg0CTZ) | [Dream Whales](https://open.spotify.com/album/2zmm83nqWpkkrFa7C8GkIh) | 2:01 |
+| 24 | [Megaptera Novaeangliae](https://open.spotify.com/track/1PmDangSs9cmS08IAWGNEg) | [ORCA](https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq) | [Songs Of The Sea](https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM) | 3:00 |
 | 25 | [Whales in the Ocean](https://open.spotify.com/track/35VScNeDyBKicOyPXaN0k5) | [Sounds of Beauty](https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala) | [Whales in the Ocean](https://open.spotify.com/album/7IhzIRkmOuoBUKBt9X4JMl) | 2:22 |
 | 26 | [Whale Ambience](https://open.spotify.com/track/5SxLUl5mYk8MYdH71x9Bx1) | [Weather Batches](https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT) | [Whale Sounds](https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk) | 2:42 |
 | 27 | [Silent Depths of Whales](https://open.spotify.com/track/0nWovK3nl9wGdPJCy07hbo) | [Biolume](https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl) | [Silent Depths of Whales](https://open.spotify.com/album/4veIKY0a2odUVrldEiJsTm) | 2:16 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60xkhEfNtud.md) - [plain]
 | 34 | [Whale Chorus](https://open.spotify.com/track/1FqDX8jCdMunaW0sL8C50p) | [Ocean Roar](https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP) | [Whale Chorus](https://open.spotify.com/album/0gdAEHCUMn7SGYKD1hhi1f) | 3:04 |
 | 35 | [Submerged Whale Sounds](https://open.spotify.com/track/4z87x01bT7ToVPmCP6MQv6) | [Harbour Porpoise](https://open.spotify.com/artist/68BRfPFIXtYxZGApUBNxvc) | [Submerged Whale Sounds](https://open.spotify.com/album/6ntAl2qEq1chs5bOZd4W1T) | 2:42 |
 | 36 | [Ocean Atmosphere](https://open.spotify.com/track/2gNaYeNB0U0f1YTRESqp6L) | [Weather Batches](https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT) | [Whale Sounds](https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk) | 2:52 |
-| 37 | [Deep Underwater Whales](https://open.spotify.com/track/6Yz8N3m0XdpAjPySeEU2Nm) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Whale Sounds of the Sea](https://open.spotify.com/album/0YyICQb46YsV0Lytj42NeS) | 3:09 |
-| 38 | [Whale Song I](https://open.spotify.com/track/1200m91gtne5JWrxvRaslI) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Whale Songs](https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr) | 3:16 |
+| 37 | [Whale Song I](https://open.spotify.com/track/1200m91gtne5JWrxvRaslI) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Whale Songs](https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr) | 3:16 |
+| 38 | [Deep Underwater Whales](https://open.spotify.com/track/6Yz8N3m0XdpAjPySeEU2Nm) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Whale Sounds of the Sea](https://open.spotify.com/album/0YyICQb46YsV0Lytj42NeS) | 3:09 |
 | 39 | [Whale Journey](https://open.spotify.com/track/4UAOXnU7WAkrf0Q1iyRUaj) | [Nature Expedition](https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi) | [Whales in the Deep Sea 2](https://open.spotify.com/album/2rDqBJ5WkcS2jw5jrJW1Hs) | 2:51 |
 | 40 | [Whales Singing](https://open.spotify.com/track/15kTpHlXT02GbofofDh7n5) | [Memorable](https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV) | [Whales in the Wild](https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL) | 3:17 |
 | 41 | [Whales in the Wild](https://open.spotify.com/track/16smWn9MSpDnsxIzq6KuDK) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Ocean Whales](https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW) | 3:13 |
 | 42 | [Singing Whales](https://open.spotify.com/track/4migfa50Z5BlG56vAQuS2y) | [Weather Batches](https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT) | [Whale Sounds](https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk) | 2:48 |
-| 43 | [Harmonious Woodscape](https://open.spotify.com/track/0qTQh91AxYQEf0fOgEkqD0) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Harmonious Woodscape](https://open.spotify.com/album/43Jj479qaAzmeYgwiFr7l8) | 2:40 |
-| 44 | [Peaceful Underwater Sounds](https://open.spotify.com/track/3kKxYG0iEOptbjH38AKXws) | [Winds of Spirits](https://open.spotify.com/artist/2o4Z8cAefTvOBs6BPzA3Vv) | [Whale Sounds for Sleep](https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m) | 2:22 |
-| 45 | [Whispering Whales](https://open.spotify.com/track/7zshAhxZAFYlG1XGwXKGIP) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Whales in the Deep](https://open.spotify.com/album/5wprN3cK2FQ9JP9XzKVlPj) | 3:09 |
+| 43 | [Peaceful Underwater Sounds](https://open.spotify.com/track/3kKxYG0iEOptbjH38AKXws) | [Winds of Spirits](https://open.spotify.com/artist/2o4Z8cAefTvOBs6BPzA3Vv) | [Whale Sounds for Sleep](https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m) | 2:22 |
+| 44 | [Whispering Whales](https://open.spotify.com/track/7zshAhxZAFYlG1XGwXKGIP) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Whales in the Deep](https://open.spotify.com/album/5wprN3cK2FQ9JP9XzKVlPj) | 3:09 |
+| 45 | [Harmonious Woodscape](https://open.spotify.com/track/0qTQh91AxYQEf0fOgEkqD0) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Harmonious Woodscape](https://open.spotify.com/album/43Jj479qaAzmeYgwiFr7l8) | 2:40 |
 | 46 | [Deep Ocean Sleep](https://open.spotify.com/track/2nQ4V8lzAc85CNrRZqjfD8) | [Blue Velvet](https://open.spotify.com/artist/7KxHrDLunTQ1OWe4qsF3MU) | [Deep Waters](https://open.spotify.com/album/6WzDyDhqfNchKJ0Y1nqSGl) | 2:36 |
 | 47 | [Whales in the Sea I](https://open.spotify.com/track/4EurqEfun9u48PPN7IBUAC) | [Shoreline Sounds](https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw) | [Whales in the Sea](https://open.spotify.com/album/4Oo0VSZpJ0RjsaJf3oSQhW) | 3:12 |
-| 48 | [Whale Samples 3](https://open.spotify.com/track/2Z7AhdadhogkWvpn37uMfL) | [Sounds of Ice](https://open.spotify.com/artist/0XzyojMCU3KQJ86WLrfFLB) | [Whale Sound](https://open.spotify.com/album/1yslweRLL69chC57YVX6vB) | 2:30 |
-| 49 | [Whale Echoes](https://open.spotify.com/track/7spTUvcgwfHUAiBy5wBUJL) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [Whale Echoes](https://open.spotify.com/album/0PmVS4rNzwKlxRLH7Cf2PV) | 2:26 |
+| 48 | [Whale Echoes](https://open.spotify.com/track/7spTUvcgwfHUAiBy5wBUJL) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [Whale Echoes](https://open.spotify.com/album/0PmVS4rNzwKlxRLH7Cf2PV) | 2:26 |
+| 49 | [Whale Samples 3](https://open.spotify.com/track/2Z7AhdadhogkWvpn37uMfL) | [Sounds of Ice](https://open.spotify.com/artist/0XzyojMCU3KQJ86WLrfFLB) | [Whale Sound](https://open.spotify.com/album/1yslweRLL69chC57YVX6vB) | 2:30 |
 | 50 | [Whale Sphere](https://open.spotify.com/track/67SL1isR1tpsy0RK5dpeXl) | [Calm 'N' Cosy](https://open.spotify.com/artist/5eFohrmBdEOenrovwK5UZb) | [Whale Sphere](https://open.spotify.com/album/42oHqXDgCOIQzCNyx2EzYa) | 2:30 |
 
 Snapshot ID: `AAAAAPfglmrfMhznKtMM4GaQG1QD+Ddz`

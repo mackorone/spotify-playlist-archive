@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Amanda Caesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,565 likes - 132 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,583 likes - 132 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 14 | [Yang Teman Teman Aja](https://open.spotify.com/track/4uB9O3773fk6ghaLOiquZe) | [TRIOUT](https://open.spotify.com/artist/4Kn4T1kHrFKRV1gbv51VGA) | [Yang Teman Teman Aja](https://open.spotify.com/album/0cCGdFW54mm8bzCEoUork3) | 3:07 |
 | 15 | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR) | 4:29 |
 | 16 | [Ends With Holding You](https://open.spotify.com/track/1CvoH9A32Dod8hgn0Jhy1A) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Ends With Holding You](https://open.spotify.com/album/0vMrWcXjNwvuCpKQiTTx2O) | 3:12 |
-| 17 | [Lost In Motion](https://open.spotify.com/track/4C9brX0K5GgiMuUofszHhW) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [vaneshadarling](https://open.spotify.com/artist/2UjiVDviLeiDeuTLmSK8XY) | [Lost In Motion](https://open.spotify.com/album/1JCnp78FHvTRDSv0cITgnO) | 3:08 |
+| 17 | [Lost In Motion](https://open.spotify.com/track/4C9brX0K5GgiMuUofszHhW) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [vaneshadarling](https://open.spotify.com/artist/1k8oTwRjFaXw7FiDFK3yvw) | [Lost In Motion](https://open.spotify.com/album/1JCnp78FHvTRDSv0cITgnO) | 3:08 |
 | 18 | [Satu Alasan](https://open.spotify.com/track/4HghotIiuVGe1W3ns3rWMi) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 3:37 |
 | 19 | [Arti Yang Sama](https://open.spotify.com/track/3dLu8IZ4u6pvVIq7Y8QoxM) | [Closehead](https://open.spotify.com/artist/51kLNLcGpqb9eXGfCl0vrR) | [Arti Yang Sama](https://open.spotify.com/album/02iBjyWeEtg2gpHVJFuH6L) | 2:48 |
 | 20 | [Harus Terpisah](https://open.spotify.com/track/4h5HFfqHYTtZRIIecbFqj6) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Harus Terpisah](https://open.spotify.com/album/3nst6mJgipzEfL2bx5VjtI) | 3:52 |

@@ -4,7 +4,7 @@
 
 > this house plays Jazz House 🏠  featuring Bolden.
 
-170 songs - 11 hr 2 min
+171 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Autumn in Amsterdam](https://open.spotify.com/track/0zk9uvElUeSGpeP2Emhugt) | [Jazzwaves](https://open.spotify.com/artist/0Ts3DgksvL8dbF6mUAPFNC) | [Autumn in Amsterdam](https://open.spotify.com/album/4LMnyTKVoP6gOw4dWsKlFl) | 2:45 | 2025-05-30 | 2025-11-29 |
 | [AWA \- Atjazz Love Soul Mix](https://open.spotify.com/track/5Nwn75vYZCEtTf0bFNT6AT) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [AWA \(Atjazz Remixes\)](https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin) | 6:32 | 2025-02-21 | 2025-05-10 |
 | [Azura](https://open.spotify.com/track/43XuQmyHVzWJkY1AJEnlrX) | [Edmondson](https://open.spotify.com/artist/0Z21z5mCbDZhKD8kOXfo28), [Mahyar Rahmantalab Vaghei](https://open.spotify.com/artist/40pPjLvgdPbPkuOdcgDOIp) | [Azura](https://open.spotify.com/album/6wsH192UPSVkxNC7wqbmLM) | 5:46 | 2025-05-16 | 2025-08-02 |
+| [BACKSEAT](https://open.spotify.com/track/6vH2KwSd69qHLxiWD4CAHU) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU) | [BACKSEAT](https://open.spotify.com/album/6Vwx2zG2OqdfP4Hx5aZB43) | 2:53 | 2025-12-12 |  |
 | [Barcode](https://open.spotify.com/track/4f88T1UG83f1pd3fvSssHw) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r) | [Barcode](https://open.spotify.com/album/6J8ZbmGKSEQdknktSqrzrC) | 4:48 | 2025-04-04 |  |
 | [Because of You](https://open.spotify.com/track/1TAQSiBoxONckukXzCorKI) | [Rumorous](https://open.spotify.com/artist/2XKWm3Uk9YQ418fqTUx7pp) | [Because of You](https://open.spotify.com/album/5XviObYgWnXvqwUymw9Zmx) | 2:19 | 2025-07-11 |  |
 | [Belle](https://open.spotify.com/track/19MuwU5fHAmlSjqXSfILhR) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Belle](https://open.spotify.com/album/6405dSaBJmxm2tMEDaeBbz) | 2:25 | 2025-02-21 | 2025-05-03 |
@@ -63,7 +64,7 @@
 | [Good Morning Neighbours \- slowya.roll Version](https://open.spotify.com/track/71eHv6q1iiNYi2FdJV2joi) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Good Morning Neighbours \(slowya.roll Version\)](https://open.spotify.com/album/6dO3NuUEwaVhyQT5TU5RcC) | 5:16 | 2025-04-25 | 2025-06-07 |
 | [Groovin'](https://open.spotify.com/track/5sZ7nssiKtWPe6J9NsAFrt) | [Soul In The Horn](https://open.spotify.com/artist/2nDmZKLnQ3mFg4pqu0hEju), [Kai Alce](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [Groovin'](https://open.spotify.com/album/6RdCQFBacjNbZDwEWtFqpa) | 5:52 | 2025-09-05 | 2025-11-08 |
 | [Havana Jazz](https://open.spotify.com/track/1dfsalIhl3q8TN7h2JnTtO) | [T.Markakis](https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu), [Blanco K](https://open.spotify.com/artist/3R8CoLaVPHCE55AkYktjdj) | [Havana Jazz](https://open.spotify.com/album/1PnumLRat66gCYGg0C99Cl) | 3:50 | 2025-04-29 |  |
-| [Have You Ever Dream Of Nancy Plenozas ?](https://open.spotify.com/track/0TSIg2HyR7W715x9gU6D7s) | [Soufflé Caramel](https://open.spotify.com/artist/4mGvEsQqmeRz8uJHHFLxnp) | [Club de Jazz 2](https://open.spotify.com/album/3LYgCnIkzryxXCS5EHLIVz) | 9:30 | 2025-02-21 |  |
+| [Have You Ever Dream Of Nancy Plenozas ?](https://open.spotify.com/track/0TSIg2HyR7W715x9gU6D7s) | [Soufflé Caramel](https://open.spotify.com/artist/4mGvEsQqmeRz8uJHHFLxnp) | [Club de Jazz 2](https://open.spotify.com/album/3LYgCnIkzryxXCS5EHLIVz) | 9:30 | 2025-02-21 | 2025-12-13 |
 | [Heal](https://open.spotify.com/track/2Hvjrpsts297K6ymNEggAf) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Heal](https://open.spotify.com/album/7gaxDMKBKIeTbvXzlxUjY8) | 1:58 | 2025-10-17 |  |
 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2025-02-21 |  |
 | [high vibrations](https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [high vibrations](https://open.spotify.com/album/7icKH7oDXCA2m6V6tks0XO) | 5:35 | 2025-03-21 | 2025-11-16 |

@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- Mad Tsai on the cover
+> sweet\. sharp\. unbothered \- Eileen Alister on the cover
 
-1,026 songs - 1 day 23 hr 20 min
+1,027 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-04 | 2022-06-25 |
 | [He Asked for It](https://open.spotify.com/track/748Jj8PHFv5YcURGcD9hrr) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [He Asked for It](https://open.spotify.com/album/3L2pyTDUV3Ks9fe26iFcTN) | 2:51 | 2025-09-12 | 2025-11-01 |
 | [he loves me, he loves me not](https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [petals](https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb) | 2:37 | 2024-01-12 | 2024-05-25 |
+| [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 | 2025-12-12 |  |
 | [headboard](https://open.spotify.com/track/45jIKjZDlMEarhjRTKYA9F) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [headboard](https://open.spotify.com/album/54j4T7LI023ozkTZ1VhvAn) | 2:40 | 2022-09-09 | 2022-11-19 |
 | [Headshot \(From "Super Strike"\)](https://open.spotify.com/track/4Sg60z1HV5JLw3PKv0ZnoW) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Headshot \(From "Super Strike"\)](https://open.spotify.com/album/4xUU7KIGgJhRyAyLiWaRhk) | 2:16 | 2025-09-19 |  |
 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 | 2023-03-24 | 2023-08-19 |
@@ -694,7 +695,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-10-08 |
 | [pity party](https://open.spotify.com/track/0kqjckF0hPdPdFEnz9Maci) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [pity party](https://open.spotify.com/album/6c3OaBVwUQ8YkXH3ZOvV7Y) | 3:15 | 2024-07-26 | 2024-08-31 |
 | [PITY PARTY](https://open.spotify.com/track/4UQVHnvC9UD4jYYSjwTbp7) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PITY PARTY](https://open.spotify.com/album/5qCV7EtFCsNheI3dl5Z1oV) | 2:19 | 2023-09-15 | 2023-12-09 |
-| [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 | 2025-10-03 |  |
+| [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 | 2025-10-03 | 2025-12-13 |
 | [Play With Fire](https://open.spotify.com/track/7GnTjZFqTScZntUokrcvOc) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Play With Fire](https://open.spotify.com/album/4YzUvdk0evYcfVp9acfOVl) | 2:43 | 2024-10-25 | 2025-03-01 |
 | [Play With It](https://open.spotify.com/track/0DUM7lpBnLxRG4B2rYODIA) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Play With It](https://open.spotify.com/album/149jwSDkfMGFnPf0saue6R) | 2:22 | 2024-06-28 | 2024-09-07 |
 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5S09u7HLG7mNfkchjnc5uz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-26 |

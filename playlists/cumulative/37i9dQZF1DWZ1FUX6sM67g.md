@@ -2,9 +2,9 @@
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: ROSALÍA
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: FARIANA
 
-254 songs - 14 hr 45 min
+255 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-20 | 2024-05-11 |
 | [Muérdeme](https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Muérdeme](https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt) | 3:04 | 2025-12-05 |  |
 | [Mía](https://open.spotify.com/track/4a0boU6hLy1dqh9b2ihv33) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Mía](https://open.spotify.com/album/1ZpIwQLBouIfThnXmsWgOT) | 3:28 | 2025-04-25 | 2025-06-14 |
-| [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-05-20 |  |
+| [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-05-20 | 2025-12-13 |
 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 | 2022-05-20 | 2025-08-23 |
 | [Ni Con Él, Ni Conmigo](https://open.spotify.com/track/19NuFFsZaydL7IOAQWp7lK) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Ni Con Él, Ni Conmigo](https://open.spotify.com/album/5wj31qM3yS7ykkbvzvBcpV) | 3:47 | 2024-08-23 |  |
 | [Ni Tú Ni Yo](https://open.spotify.com/track/1qK7lKpGFGzR00uxY6XRLq) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ni Tú Ni Yo](https://open.spotify.com/album/35f9vTMAvc2oVRgduRYL8D) | 3:44 | 2024-05-10 | 2024-06-22 |
@@ -232,6 +232,7 @@
 | [Soy](https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Soy](https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL) | 4:23 | 2023-06-30 | 2024-04-06 |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-05-20 | 2025-10-11 |
 | [Sé Que Estás Con Él](https://open.spotify.com/track/003A7dXikhqxbT1dWXPuf3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [INTRUSO](https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw) | 3:12 | 2022-10-14 |  |
+| [Tal para cual](https://open.spotify.com/track/2TrP7JUH7PHHaaqcKErHgF) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Musica para Bailar](https://open.spotify.com/album/551URKJBJFWFQi8FDrcjxY) | 2:54 | 2025-12-12 |  |
 | [Te Espero \- feat\. Maria Becerra](https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Espero \(feat\. Maria Becerra\)](https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK) | 4:06 | 2022-05-20 | 2024-04-19 |
 | [Te Quiero](https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:49 | 2022-05-20 | 2024-04-06 |
 | [Te Tengo Ganas](https://open.spotify.com/track/3FhMGOGlgzEmgyzr54nhWy) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Te Tengo Ganas](https://open.spotify.com/album/1f2WGOxmrj7IT5CVQKhHUZ) | 3:30 | 2022-05-20 | 2022-10-08 |

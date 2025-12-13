@@ -2,7 +2,7 @@
 
 ### [Women of Punjabi Pop](https://open.spotify.com/playlist/37i9dQZF1DWSElo6PPUdZk)
 
-> Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
+> Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
 244 songs - 12 hr 23 min
 

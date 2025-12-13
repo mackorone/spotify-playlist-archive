@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Cover: Alvaro Diaz",
+  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Cover: ROA",
   "name": "\u00c9xitos Puerto Rico",
   "tracks": [
     {
@@ -28,6 +28,28 @@
       "duration_ms": 143426,
       "name": "$DOLLAR$",
       "url": "https://open.spotify.com/track/3a18ZXF0XhEUSYpxlQdmxP"
+    },
+    {
+      "album": {
+        "name": "$extape",
+        "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244894,
+      "name": "$extape",
+      "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
     },
     {
       "album": {
@@ -64,7 +86,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 130670,
       "name": "18",
       "url": "https://open.spotify.com/track/5KMfzwgSsB0UETKqceJ6Eu"
@@ -144,7 +166,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 179200,
       "name": "4AM EN IBIZA",
       "url": "https://open.spotify.com/track/3kpv89wsesBcSc6P7LpcDg"
@@ -754,7 +776,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 212413,
       "name": "BANDIDA",
       "url": "https://open.spotify.com/track/1vvWri6BpgA6Pqz6JixNFa"
@@ -1865,6 +1887,28 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/76QtJHDzirYxGkZYiBuPyA"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0OK2dolQh39yFxHGLlQa3y"
+    },
+    {
+      "album": {
         "name": "DEPORTIVO",
         "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
       },
@@ -2328,6 +2372,28 @@
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/5erXVUirf9qivKY5sJOanE"
+    },
+    {
+      "album": {
+        "name": "The Bad Boy",
+        "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235626,
+      "name": "El Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
     },
     {
       "album": {
@@ -3536,7 +3602,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 188673,
       "name": "Killa",
       "url": "https://open.spotify.com/track/76GPCCO2Qy5d68vSpAcliC"
@@ -3778,6 +3844,28 @@
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "album": {
+        "name": "Private Suite (Vol. 3)",
+        "url": "https://open.spotify.com/album/5e5rU0LAzThZeH5YCc4Pmi"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234512,
+      "name": "LA FAVORITA DE DIOS",
+      "url": "https://open.spotify.com/track/4M3I01LZqJDFJxs4veb7jt"
     },
     {
       "album": {
@@ -4172,10 +4260,28 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 297623,
       "name": "Los Rockstar No Van Al Cielo - Remix",
       "url": "https://open.spotify.com/track/63NzbBRuMRtzMNKhL0RizU"
+    },
+    {
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
     },
     {
       "album": {
@@ -4916,7 +5022,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 242306,
       "name": "M\u00c1S QUE ALGO",
       "url": "https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW"
@@ -5056,7 +5162,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 283200,
       "name": "Natural - Remix",
       "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"
@@ -6131,6 +6237,28 @@
     },
     {
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202912,
+      "name": "Problema (with Luar La L)",
+      "url": "https://open.spotify.com/track/3rpfSCKQ9Lrbh9MVxUsV1e"
+    },
+    {
+      "album": {
         "name": "Mr. W",
         "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
       },
@@ -6223,6 +6351,28 @@
     },
     {
       "album": {
+        "name": "Que Sensaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/27L1rWQUpb8ctfroyDofHZ"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154090,
+      "name": "Que Sensaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
+    },
+    {
+      "album": {
         "name": "Quickie",
         "url": "https://open.spotify.com/album/3AKEIh80EKaMB0rswBiDU1"
       },
@@ -6310,7 +6460,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -6718,6 +6868,28 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+    },
+    {
+      "album": {
+        "name": "Santa Diabla (Remix)",
+        "url": "https://open.spotify.com/album/2jLXg66dRVe3NkKP2UdI17"
+      },
+      "artists": [
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209268,
+      "name": "Santa Diabla - Remix",
+      "url": "https://open.spotify.com/track/0U4hdB14qhelRqs2saikto"
     },
     {
       "album": {
@@ -7216,7 +7388,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 169478,
       "name": "Sirenita",
       "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
@@ -7523,6 +7695,24 @@
     },
     {
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Te Capie",
+      "url": "https://open.spotify.com/track/4WXVp5dzCDDaQjr4Ueukbm"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Escuchado del 2023",
         "url": "https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE"
       },
@@ -7618,7 +7808,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 229708,
       "name": "Toa (with De La Rose)",
       "url": "https://open.spotify.com/track/1gaBfa1HWh1HVmuUAdBpzs"
@@ -8023,6 +8213,24 @@
     },
     {
       "album": {
+        "name": "El Diamond",
+        "url": "https://open.spotify.com/album/4bBpFRCza5SgnesIaYfwj0"
+      },
+      "artists": [
+        {
+          "name": "Fronti",
+          "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146503,
+      "name": "Un Kiss",
+      "url": "https://open.spotify.com/track/6RZyak46Ufg0VCrWRyz0FJ"
+    },
+    {
+      "album": {
         "name": "UN PREVIEW",
         "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
       },
@@ -8418,7 +8626,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 162263,
       "name": "WASSUP",
       "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"

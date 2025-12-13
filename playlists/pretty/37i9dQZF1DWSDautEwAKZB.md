@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,386 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,385 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 47 | [Fuego](https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 3:32 |
 | 48 | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Você Não Entende Nada \- Spotify Singles](https://open.spotify.com/album/0b4DyC3K4eWOsqXsq9GODW) | 2:45 |
 | 49 | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1) | 2:30 |
-| 50 | [No Pasa Nada \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:17 |
-| 51 | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n) | 2:50 |
+| 50 | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n) | 2:50 |
+| 51 | [No Pasa Nada \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:17 |
 | 52 | [Flaco \- Spotify Singles](https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 4:20 |
 | 53 | [EMPELICULADOS \- Spotify Singles](https://open.spotify.com/track/3PjY7hNtvJPnFeZxplptne) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [EMPELICULADOS \- Spotify Singles](https://open.spotify.com/album/1L88SIO4NmlW9TeY5gbCLb) | 3:42 |
 | 54 | [MAFIOSA \- Live \- Spotify Singles](https://open.spotify.com/track/0QwD3AF2EQC6CQRraLvcBB) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Spotify Singles](https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5) | 5:12 |

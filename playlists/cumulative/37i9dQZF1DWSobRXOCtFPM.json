@@ -3539,6 +3539,50 @@
     },
     {
       "album": {
+        "name": "Ice (Marc Romboy & Robert Babicz Remix)",
+        "url": "https://open.spotify.com/album/55Zx6aVbter3lIh9jpduDm"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367095,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/5dh5BPYJuKGSNZQ8tJQwMP"
+    },
+    {
+      "album": {
+        "name": "Ice (Marc Romboy & Robert Babicz Remix)",
+        "url": "https://open.spotify.com/album/55Zx6aVbter3lIh9jpduDm"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        },
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297259,
+      "name": "Ice - Marc Romboy & Robert Babicz Edit",
+      "url": "https://open.spotify.com/track/3xgQXiAo8sHNzugZpkBtf6"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/7LnmVCMcb4eIPRYWctTzRM"
       },
@@ -5672,7 +5716,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 360000,
       "name": "Plasma Sky",
       "url": "https://open.spotify.com/track/0nlqW3YtNzZJ0xr8FjyYs4"
@@ -7336,7 +7380,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 399000,
       "name": "Steep",
       "url": "https://open.spotify.com/track/2Riu3orGTj9vKXdM61KNhB"

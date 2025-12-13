@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1377726,
+  "num_followers": 1377964,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Beyond the Sea",
-      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 189468,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "At Home",
         "url": "https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 187533,
       "name": "Venus",
       "url": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 189468,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 199600,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1175,38 +1175,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hey Lover / Stand by Me",
-        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
-      },
-      "artists": [
-        {
-          "name": "The Daughters Of Eve",
-          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -1227,6 +1195,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hey Lover / Stand by Me",
+        "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
+      },
+      "artists": [
+        {
+          "name": "The Daughters Of Eve",
+          "url": "https://open.spotify.com/artist/4Fgj7fAOMYS3rMV4cUN2On"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 160226,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Rockin' With Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
-      },
-      "artists": [
-        {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 219560,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Rockin' With Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
-      },
-      "artists": [
-        {
-          "name": "B.J. Thomas",
-          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Hooked On A Feeling",
-      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -2243,18 +2227,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0INAOxIIie4un2aZJw3qf6"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
         }
       ],
-      "duration_ms": 138080,
-      "name": "Memories Are Made Of This",
-      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+      "duration_ms": 167413,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/5P6t1QIImaKAyphhE1QiY7"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2271,6 +2255,22 @@
       "duration_ms": 133746,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
     },
     {
       "added_at": "2024-07-12 06:11:58",

@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: BLOND:ISH
 
-620 songs - 1 day 7 hr 23 min
+620 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Dolce Amore \(feat\. Anica Russo\)](https://open.spotify.com/track/068ZOneuzJlDB3mpD9Rlfc) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Dolce Amore](https://open.spotify.com/album/1A6j5r4IOo0HsqG1yvhsgO) | 2:45 | 2025-09-18 | 2025-10-10 |
 | [Dollar](https://open.spotify.com/track/5BZzKukU8452BBtDhOJfqT) | [Darling Peter](https://open.spotify.com/artist/4O90Cf3lov9pVYyp6N5kVi) | [Dollar](https://open.spotify.com/album/5ZiBkI1iIrA2SDZsz6e50S) | 3:13 | 2025-12-04 |  |
 | [Don't Forget To Breathe](https://open.spotify.com/track/0oUszHe1amsQIganTqaIa3) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Grown George](https://open.spotify.com/artist/2GibrdFDvQp6k6AtcGx5Kt) | [Don't Forget To Breathe](https://open.spotify.com/album/1cVF3YjkdoR3Jao5emLwRX) | 2:48 | 2025-10-09 | 2025-11-08 |
+| [Don't Know Why](https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Give You My Luv EP](https://open.spotify.com/album/09YemHqZAksPmmdu0tbOpG) | 3:00 | 2025-12-11 |  |
 | [Don't Let Me Drown](https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:05 | 2025-07-17 | 2025-08-07 |
 | [Don't Let Me Go](https://open.spotify.com/track/0MLM4DxaZjEPrRQucHYDXo) | [Adrian Hour](https://open.spotify.com/artist/6eBe6zD6bYfdYUjwB1YStj) | [Don’t Let Me Go](https://open.spotify.com/album/7b9RxwuO4IQsy4VWYD448w) | 3:55 | 2025-11-07 | 2025-12-12 |
 | [Don't Look Back](https://open.spotify.com/track/6AyEBibHIiNeMb1Vlkljga) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Don't Look Back](https://open.spotify.com/album/71XVgbeiVpyg9pJYFaP4Yy) | 2:50 | 2025-10-31 | 2025-11-28 |
@@ -233,6 +234,7 @@
 | [Hot Girls](https://open.spotify.com/track/4u3Veq00x3OwGg8CYtjBvT) | [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Hot Girls](https://open.spotify.com/album/6pfpwgpCyQUzvbbrwZbZVB) | 2:22 | 2025-12-11 |  |
 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 | 2025-07-17 | 2025-08-15 |
 | [House Is Gettin' Raw](https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [House Is Gettin' Raw](https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR) | 2:58 | 2025-11-20 |  |
+| [House On Fire](https://open.spotify.com/track/5x7QUCDBNDkyzcLBbMdR9z) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [So Far](https://open.spotify.com/album/4ph2JlJubDNUoqj6ceA6WV) | 2:48 | 2025-12-11 |  |
 | [House Party](https://open.spotify.com/track/5Xey2vHNJPAYfrRPOs81mA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [House Party](https://open.spotify.com/album/67Fig18sgK6uebGB6CaNw5) | 3:17 | 2025-09-18 | 2025-10-10 |
 | [How This Ends](https://open.spotify.com/track/2sBmi7DdkifJWgCDpuF6YL) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [How This Ends](https://open.spotify.com/album/2NaFfIJV7kiIatOKiZSp3U) | 3:01 | 2025-12-04 |  |
 | [Howweroll](https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ) | [Howweroll](https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz) | 2:35 | 2025-12-11 |  |
@@ -564,8 +566,6 @@
 | [Time to Party](https://open.spotify.com/track/08lKWR8JNqZdlNOvyE7O1s) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [club slash 006 \- Time to Party](https://open.spotify.com/album/0plQH92WSIv5QjX0ooqNmV) | 4:10 | 2025-07-17 | 2025-08-09 |
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-17 | 2025-08-15 |
 | [Touch It](https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Touch It](https://open.spotify.com/album/3gTF2ONDns1Byk5PO0YMdL) | 3:03 | 2025-10-09 | 2025-11-08 |
-| [Track 2](https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
-| [Track 9](https://open.spotify.com/track/5x7QUCDBNDkyzcLBbMdR9z) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
 | [Traffic Jam \- Code Rood Remix](https://open.spotify.com/track/605Hfbi7qsYr7kWYOq9xso) | [5NAPBACK](https://open.spotify.com/artist/0ERCrnTOTP6m7KbCLTliEj), [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45), [Code Rood](https://open.spotify.com/artist/4bdCXQ4wEcfojdlPl0Vup5) | [Traffic Jam \(Code Rood Remix\)](https://open.spotify.com/album/3Ig9S3c7Hur5IlOdL2O3LN) | 3:20 | 2025-08-07 | 2025-09-27 |
 | [Tribe](https://open.spotify.com/track/5jG4avZVfcHI6GHrfTpi5z) | [D\-Rashid](https://open.spotify.com/artist/3BAbtGcpq9F6a7TJyw9krT), [VIBR](https://open.spotify.com/artist/0vZNK5zgaqO82oSJH3XCRU) | [Tribe](https://open.spotify.com/album/6DVZhAyHJktQauGOD7mHoG) | 2:49 | 2025-10-23 | 2025-11-08 |
 | [Truth, Peace, Love, Acid](https://open.spotify.com/track/2gxrSR8QROUH669XjI4VI0) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Truth, Peace, Love, Acid](https://open.spotify.com/album/7A7x2wJL7tfD8ADAsxChsp) | 3:19 | 2025-08-28 | 2025-09-12 |

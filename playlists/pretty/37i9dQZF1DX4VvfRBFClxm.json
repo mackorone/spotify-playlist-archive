@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1468341,
+  "num_followers": 1468295,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -623,8 +623,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -703,8 +703,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 199391,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
+      "duration_ms": 213920,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "This Town",
         "url": "https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 232600,
       "name": "This Town",
       "url": "https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "S.O.S.: Save Our Soul",
-        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 278146,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Optimist",
         "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 224278,
       "name": "Love is Pain",
       "url": "https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "S.O.S.: Save Our Soul",
+        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 278146,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Mercy (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 221200,
       "name": "Mercy - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Can't Help Falling In Love",
-        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Higher Power (Acoustic Version)",
         "url": "https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 214427,
       "name": "Higher Power - Acoustic Version",
       "url": "https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lego House - Single",
-        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Lego House",
-      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "You Signed Up For This",
         "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 208320,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/084opnma7Z8lJ8RQMTsMdt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lego House - Single",
+        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Lego House",
+      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Lay It on Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 201561,
+      "name": "Lay It on Me - Acoustic",
+      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "About U: One Year On",
         "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 190057,
       "name": "Cheap Date",
       "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Lay It on Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 201561,
-      "name": "Lay It on Me - Acoustic",
-      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+        "name": "Dream (Acoustic)",
+        "url": "https://open.spotify.com/album/5Me78hMJtqwiroQEDoFGYh"
       },
       "artists": [
         {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
         }
       ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+      "duration_ms": 198693,
+      "name": "Dream - Acoustic",
+      "url": "https://open.spotify.com/track/67l1tytshju3Ily8uIAVKH"
     }
   ],
   "unique_name": "Acoustic Hits",

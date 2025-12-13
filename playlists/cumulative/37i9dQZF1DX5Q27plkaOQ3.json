@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 152571,
       "name": "BAD4U",
       "url": "https://open.spotify.com/track/10TDa5eJxZ79C9UsE7CIGp"
@@ -4143,6 +4143,28 @@
     },
     {
       "album": {
+        "name": "Candy Shop Remix (feat. Olivia)",
+        "url": "https://open.spotify.com/album/2hZMNkORYtip8Avb4wtqeZ"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Candy Shop Remix (feat. Olivia)",
+      "url": "https://open.spotify.com/track/3sZky3MDf3hY6ZTO94gWbe"
+    },
+    {
+      "album": {
         "name": "Capoz Web",
         "url": "https://open.spotify.com/album/0Iz73MwTurBTebzLb9Fppu"
       },
@@ -5624,7 +5646,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 144535,
       "name": "DABADABADABADABA",
       "url": "https://open.spotify.com/track/3VxkYtmVCInFfhkbsaMg0B"
@@ -7388,7 +7410,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 160615,
       "name": "Drown",
       "url": "https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ"
@@ -8368,7 +8390,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 161708,
       "name": "F.Y.U.",
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
@@ -10868,7 +10890,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 227210,
       "name": "Happier By Now",
       "url": "https://open.spotify.com/track/0qq33nVMNHelvjRGhTKPVH"
@@ -11040,7 +11062,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 170339,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2eYQw2SkWD4tw4U5TUMnOI"
@@ -25038,7 +25060,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 150857,
       "name": "Uncaged",
       "url": "https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ"

@@ -4,7 +4,7 @@
 
 > 
 
-789 songs - 2 day 1 hr 29 min
+794 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2:28](https://open.spotify.com/track/2Uq0EF2YXoDnaDoZAoIvHH) | [Pylon'](https://open.spotify.com/artist/4rvEhTjUZetMhNkbCVLZ7L) | [2:28](https://open.spotify.com/album/2Kk8EGak4uTMROZ8KYIolk) | 3:01 | 2025-08-03 |  |
 | [3 Years](https://open.spotify.com/track/5ntM7UAbItGgtdxRZr5L8L) | [Romance Mechanics](https://open.spotify.com/artist/6FD1635mI0fLD5sisbSOwf) | [3 Years](https://open.spotify.com/album/3Mj0iUWyfFb96MckAxb7pX) | 3:41 | 2025-03-18 |  |
 | [5AM](https://open.spotify.com/track/7skTrzUyNfGhVKCvVVT9gS) | [Marccon](https://open.spotify.com/artist/3Wjbb98nW9w8jQRsFqgqtE) | [Bruma](https://open.spotify.com/album/6y2UuNa93pCoKYwn3wCm2w) | 4:33 | 2025-04-24 |  |
+| [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 | 2025-12-12 |  |
 | [A bird of passage](https://open.spotify.com/track/7jKTfChau2O81uF7ao7iVf) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Impartments](https://open.spotify.com/album/4WVCTDY3bZDiTnK5246kRT) | 7:06 | 2025-04-29 |  |
 | [A Memory To Discard](https://open.spotify.com/track/1iEmE9AcekIhVpkYH5ey8h) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Buzzing Gently](https://open.spotify.com/album/5XNrh4o48GVluuIJOzRs7m) | 3:08 | 2025-06-12 |  |
 | [A Million Voices](https://open.spotify.com/track/26oIvwYJVkb2zAt1h7WIcy) | [Nekoticat](https://open.spotify.com/artist/3gpf34quiyNgkZgUrIrzJV) | [A Million Voices](https://open.spotify.com/album/1F8UPluQ7WFQa0zIAghAeX) | 3:21 | 2025-02-07 |  |
@@ -37,12 +38,14 @@
 | [All to Myself](https://open.spotify.com/track/3ab98g9DEtGkuLe4LPrblG) | [Patient](https://open.spotify.com/artist/0g8OBOtUriN73QZa47tjLY), [Matthew Zagorski](https://open.spotify.com/artist/7esUDRDjTCYJNRvxU1q8n4) | [Fever Dreams: Stage One](https://open.spotify.com/album/7fZdkoWoeLvbOnkBUnImGF) | 3:30 | 2024-12-12 |  |
 | [Alpha Orionis](https://open.spotify.com/track/5H5PkEi8lsJofyPFUOs10E) | [Brian Levitch Orchestra](https://open.spotify.com/artist/3Z1zOpwddL8xt3Ccpnq6gw) | [Astronomy](https://open.spotify.com/album/0lNC1TqmqQO35R4lfGLPCH) | 4:36 | 2025-05-15 |  |
 | [Already Lost](https://open.spotify.com/track/6MFWwyRhJmqbpsO1VtuuKV) | [Jack Hyphen](https://open.spotify.com/artist/5PhIhy7qymyD1DZyTDaUUq) | [Already Lost](https://open.spotify.com/album/4v1mbmGAgbiwfcEQiOZjB8) | 3:03 | 2025-07-02 |  |
+| [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 | 2025-12-12 |  |
 | [Altum](https://open.spotify.com/track/4UaZhYRefyUG4wwY5UmAhx) | [Marccon](https://open.spotify.com/artist/3Wjbb98nW9w8jQRsFqgqtE) | [Nihil](https://open.spotify.com/album/2QGlKLGVZXZe54Hp4Y82m3) | 6:41 | 2025-10-16 |  |
 | [Among The Stars](https://open.spotify.com/track/3OBAmjoej4kRQGg6iKCs2k) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q) | [Among The Stars](https://open.spotify.com/album/6Rj05LTjkIxOGz58x54ziy) | 3:51 | 2024-12-12 |  |
 | [América](https://open.spotify.com/track/4odUsuUpZFMxkEbSkvo0yv) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [América](https://open.spotify.com/album/5xoxI8AuE6ySWj3irVrUkJ) | 2:30 | 2025-08-03 |  |
 | [Anestesia](https://open.spotify.com/track/7eX57UJQrI6fcKK37YR1RI) | [DiesAnEra](https://open.spotify.com/artist/1vkZQqIzmnGmBKzvqysLgw) | [Grudge](https://open.spotify.com/album/4cdCxXVKW5Il1OUGq4iWZG) | 5:10 | 2024-12-12 |  |
 | [Angel](https://open.spotify.com/track/6ocPC3yXhpMdzdOAgiju6y) | [Skies Turn Black](https://open.spotify.com/artist/4sCElMDKCwtdjhP4Ib4gC3) | [Angel](https://open.spotify.com/album/5W9CyC9Z4na5p4yJ0AudRR) | 4:04 | 2025-07-02 |  |
 | [Angel I Needed](https://open.spotify.com/track/3LqNRK1nuPz2yGFE7i4rr8) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2) | [Angel I Needed](https://open.spotify.com/album/0vnpKc0zQlLKzPRlIJxZwv) | 3:07 | 2024-12-12 |  |
+| [Angelus Furor](https://open.spotify.com/track/7tzajWlUdUrhdSx4X1SB8a) | [Fire and Tears](https://open.spotify.com/artist/0OT0MSuwhoLbE5SC3dMBC1) | [Legions of the Fallen](https://open.spotify.com/album/7dRhnzbDSIJe8YodIT6G7Y) | 4:38 | 2025-12-12 |  |
 | [Angry Demeanor](https://open.spotify.com/track/4Y0988glkOw6htawXQIUtZ) | [Daniel Whitehead](https://open.spotify.com/artist/0QNSng16ziXqG8Ke1PFtAN) | [Moments Between](https://open.spotify.com/album/5DLM5DYug0qRj1xb8wZ79Q) | 3:04 | 2025-04-24 |  |
 | [Anitya](https://open.spotify.com/track/3gAY2oiEDApvv4Qra5JkWA) | [Story Over Night](https://open.spotify.com/artist/0xD1rWlMwDqNGOggf8B7uB) | [Anitya](https://open.spotify.com/album/3fpVPwneQbTQXlH5GBOD8A) | 3:05 | 2025-11-24 |  |
 | [Another Me](https://open.spotify.com/track/6yRW9K6Ra063o6iEFoudjp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Another Me](https://open.spotify.com/album/4Rzrxe2plr3iRS4Chm2kOW) | 3:52 | 2024-12-12 |  |
@@ -187,6 +190,7 @@
 | [Duelo](https://open.spotify.com/track/6QbCjuW1FTqvbxgF7xlHc3) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Duelo](https://open.spotify.com/album/14gzvNFcKZKwnB1NNU4SWG) | 2:57 | 2025-03-18 |  |
 | [Dunia Fantasi](https://open.spotify.com/track/0N2ayn3ERH5Kqw8omdqRHA) | [GiantKilling](https://open.spotify.com/artist/5YvSmdlCri6XRIOFAaVMtl) | [DEMOCRASH!T](https://open.spotify.com/album/2fQdrbfHXBxbxudSATfa3h) | 6:20 | 2025-10-09 |  |
 | [Earth Music](https://open.spotify.com/track/32R25ieUaEujfOUMyotW4d) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9), [akaFayaven](https://open.spotify.com/artist/18pLFv41vMDF3xdE7ZKnjr) | [What Happens On Earth...](https://open.spotify.com/album/6BcrIJf4D3A53w6gjgaC28) | 3:11 | 2025-10-09 |  |
+| [Echoes](https://open.spotify.com/track/1AVKALpjBXkLrXlKwaugEN) | [ElectricDust](https://open.spotify.com/artist/315lu2eEs9iMeyfZFGpiz7) | [Echoes](https://open.spotify.com/album/14wRsCKTqFRUJIB13EAJS8) | 5:33 | 2025-12-12 |  |
 | [Eddie Guerrero](https://open.spotify.com/track/0LuX9JhrTXQByE8ftz96Jf) | [Its Always You](https://open.spotify.com/artist/08b1HKb35zVurF7lsVeZG1) | [Eddie Guerrero](https://open.spotify.com/album/6z7Ts4tUEXM9b7NSwu5k0Y) | 3:08 | 2024-12-12 |  |
 | [Egy Szeptemberi Nap Ål\-Ban](https://open.spotify.com/track/3kLiwUz445pLtycIgvtYtF) | [Braxius](https://open.spotify.com/artist/0jAbr92jH9OCTnufQLIb9h) | [É\(V\)Szak](https://open.spotify.com/album/0wWWCtCvJn3lthI0NojDNw) | 4:14 | 2024-12-12 |  |
 | [El Alfa](https://open.spotify.com/track/3EPrbMNXaLfHDZDx1Y02kP) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [El Alfa](https://open.spotify.com/album/1yslhKGXUO7EsQXAbP19BC) | 2:39 | 2025-06-29 |  |
@@ -231,6 +235,7 @@
 | [Flowers Remain In Plastic](https://open.spotify.com/track/5y5LMYBAjrDPzYeCkwvY1N) | [7 Jester Of Spades](https://open.spotify.com/artist/0m7BGVfjBqaZT8AmsPlYxS) | [Na Zelenom Stolcu U Svemiru](https://open.spotify.com/album/68VxcLGCSEBBLpeqOejA8I) | 3:22 | 2025-03-18 |  |
 | [FOMO](https://open.spotify.com/track/0MMrcXzqZdHl5kHmrgRrvG) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [FOMO](https://open.spotify.com/album/0DxNk6u3q7w0mP9AhZzJ52) | 2:34 | 2025-09-10 |  |
 | [FOOL OF QUESTIONS](https://open.spotify.com/track/47ixtfoY5V7nrhfYiSbCyO) | [BLACK SABAG](https://open.spotify.com/artist/5ZUruVNQEwlw2U610skIch) | [FOOL OF QUESTIONS](https://open.spotify.com/album/380bk9Es83bNIzFzI05ZWx) | 3:07 | 2025-04-24 |  |
+| [Footsteps in the Attic](https://open.spotify.com/track/6A9Af4UA9xj6VvNOSIIOSG) | [Jason Keisling](https://open.spotify.com/artist/11BnYiy4JkEXwZUVGBVnRH) | [Footsteps in the Attic](https://open.spotify.com/album/1pvDBcD1qAZzpPcaugxHFp) | 3:13 | 2025-12-12 |  |
 | [Forage For Porridge](https://open.spotify.com/track/04XrtXFB2uDOMhP12V5bZT) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [Last Woman Left At The Market](https://open.spotify.com/album/5QwDMazOp31hcNanUG7MCx) | 4:09 | 2024-12-20 |  |
 | [Forsaken](https://open.spotify.com/track/5ik2HDngeQadfsaFFhr3gO) | [Pure](https://open.spotify.com/artist/5S9M2wbMQSxMPAYrUPoKD9) | [Vita Brevis](https://open.spotify.com/album/3njZIESKpv4aKmqLUKkNFV) | 4:04 | 2024-12-12 |  |
 | [fourplay](https://open.spotify.com/track/0mQ3h7cH2DdRgWIpN35SSa) | [Four Stars](https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG) | [fourplay](https://open.spotify.com/album/7pjRhNHiI9TEUo2P4FQuPi) | 3:00 | 2025-09-16 |  |

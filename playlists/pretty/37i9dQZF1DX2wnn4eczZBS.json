@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11044,
+  "num_followers": 11048,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-12-11 23:00:26",
       "album": {
+        "name": "Videotheek (Recht Uit Een Film)",
+        "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 218704,
+      "name": "Videotheek (Recht Uit Een Film)",
+      "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
+    },
+    {
+      "added_at": "2025-12-11 23:00:26",
+      "album": {
         "name": "Boterham",
         "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 127562,
       "name": "Boterham",
       "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Videotheek (Recht Uit Een Film)",
-        "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 218704,
-      "name": "Videotheek (Recht Uit Een Film)",
-      "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
     },
     {
       "added_at": "2025-12-11 23:00:26",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-11 23:00:26",
       "album": {
-        "name": "Abrikoos",
-        "url": "https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp"
-      },
-      "artists": [
-        {
-          "name": "Dave Budha",
-          "url": "https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Abrikoos",
-      "url": "https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
         "name": "Maskers",
         "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 265997,
       "name": "dichtbij, veraf",
       "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
+    },
+    {
+      "added_at": "2025-12-11 23:00:26",
+      "album": {
+        "name": "Abrikoos",
+        "url": "https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp"
+      },
+      "artists": [
+        {
+          "name": "Dave Budha",
+          "url": "https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Abrikoos",
+      "url": "https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO"
     },
     {
       "added_at": "2025-12-11 23:00:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-12-11 23:00:26",
       "album": {
-        "name": "Spijt Is Iets Voor Later",
-        "url": "https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Spijt Is Iets Voor Later",
-      "url": "https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
         "name": "narcose",
         "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 173816,
       "name": "narcose",
       "url": "https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6"
+    },
+    {
+      "added_at": "2025-12-11 23:00:26",
+      "album": {
+        "name": "Spijt Is Iets Voor Later",
+        "url": "https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Spijt Is Iets Voor Later",
+      "url": "https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0"
     },
     {
       "added_at": "2025-12-11 23:00:26",
@@ -847,22 +847,18 @@
     {
       "added_at": "2025-12-11 23:00:26",
       "album": {
-        "name": "Marco Polo",
-        "url": "https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4"
+        "name": "De Lucht",
+        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
       },
       "artists": [
         {
-          "name": "De Zweefclub",
-          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
-        },
-        {
-          "name": "Vic Willems",
-          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 227494,
-      "name": "Marco Polo",
-      "url": "https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX"
+      "duration_ms": 166663,
+      "name": "WijTwee",
+      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
     }
   ],
   "unique_name": "indie.nl",

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Say She She
 
-331 songs - 20 hr 22 min
+332 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Free](https://open.spotify.com/track/7uz2uui0tboZulmc5TdjTV) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Sledgendary](https://open.spotify.com/artist/5NoEz2x1F5WsQ225GJtvBJ) | [Free](https://open.spotify.com/album/4meOyw0LxSchM8wARkfNnZ) | 3:50 | 2022-02-18 | 2023-02-11 |
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 | 2023-04-09 |
 | [Free Yourself \(Again\) \[Extended Vocal Mix\]](https://open.spotify.com/track/60FOtCEqN449Xtpyb2QkgW) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Nick Reach Up](https://open.spotify.com/artist/5yd1f7VGZpZ6aKRkr5iWAw), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Free Yourself \(Again\) \(Remixes\)](https://open.spotify.com/album/5IGVPpol8exxGRy7GjDFAI) | 7:05 | 2022-06-03 | 2023-05-27 |
-| [Georgia](https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Georgia](https://open.spotify.com/album/1zoFGgKPdJ171wRnukDPBb) | 3:21 | 2023-05-19 |  |
+| [Georgia](https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Georgia](https://open.spotify.com/album/1zoFGgKPdJ171wRnukDPBb) | 3:21 | 2023-05-19 | 2025-12-13 |
 | [Get With You Tonight](https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Get With You Tonight](https://open.spotify.com/album/6Oo7dbPYNo8qTQfd9iE7AT) | 3:44 | 2022-10-21 | 2024-08-17 |
 | [Gimme Love](https://open.spotify.com/track/32MJWgGagVzCGmXC85jzWD) | [aloe.401](https://open.spotify.com/artist/0hCbj8C1be4UO4iFhzXtF6), [Jackson Jones](https://open.spotify.com/artist/0yPtdsN518sLtDLbd4BnkH) | [Gimme Love](https://open.spotify.com/album/62cDR2ihVBvdVCFh9MhuIb) | 3:05 | 2022-05-27 | 2023-09-02 |
 | [Give Me Your Love](https://open.spotify.com/track/6QUNymj6kTcUelNwJofuF0) | [Luke Delite](https://open.spotify.com/artist/3cBXq2Zo29hMzveMGVPDzL), [Michelle Weeks](https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru) | [Give Me Your Love](https://open.spotify.com/album/7IjDwMYbG7qWBo2IkAlMgl) | 3:17 | 2023-07-07 | 2024-04-19 |
@@ -221,6 +221,7 @@
 | [Only Direction](https://open.spotify.com/track/7vfIujNURf69jVWWTfxu3N) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Ride Away](https://open.spotify.com/album/735E1oxxzqMBQ8mxL2ZGf1) | 3:08 | 2023-03-17 | 2023-04-09 |
 | [Only Tonight](https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Only Tonight](https://open.spotify.com/album/4FgOstRvfyEsrUcdSd5uaM) | 3:01 | 2024-04-12 |  |
 | [Only U \- Original Mix](https://open.spotify.com/track/3TTEzp4OfO0nKcBlO8NstK) | [1Farshad](https://open.spotify.com/artist/3wsKwPBWcpDMfNaVDUYpM0) | [Only U](https://open.spotify.com/album/4rR53leHib9wW0G4C8wFM0) | 3:14 | 2021-08-20 | 2022-10-22 |
+| [Open Sky](https://open.spotify.com/track/08nryBa5EmqQYNOlJEMbng) | [Jivefunkadelic](https://open.spotify.com/artist/4gOkiobVrWR36e3lXDOVCg) | [Open Sky](https://open.spotify.com/album/4tKY5Jc5ZZVmBxKK2VN9Is) | 4:24 | 2025-12-12 |  |
 | [Out of Your Mind](https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Songs I Wish I'd Written: Vol\. 5](https://open.spotify.com/album/2OXgwJiuLHrIdmYKKhO5gg) | 4:24 | 2023-02-17 | 2025-08-09 |
 | [Outta My Mind](https://open.spotify.com/track/64Esl8jMGgdq66evUBKeJ2) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Outta My Mind](https://open.spotify.com/album/6oMNE87tErgAFfZjVYEjYo) | 3:29 | 2024-08-09 | 2024-09-07 |
 | [Over You](https://open.spotify.com/track/5Rp5SPoEHJswNskrofuysE) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Over You](https://open.spotify.com/album/7dl8uSvgqm2HlGL3a0X2Yn) | 6:37 | 2022-01-07 | 2022-10-29 |

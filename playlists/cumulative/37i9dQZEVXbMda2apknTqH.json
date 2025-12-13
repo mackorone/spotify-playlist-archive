@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -1710,9 +1710,9 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 85266,
-      "name": "Carol of the Bells",
+      "name": "Carol of the Bells (From \"Home Alone\" Soundtrack)",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -5274,7 +5274,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 204963,
       "name": "I Got Better",
       "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
@@ -5510,7 +5510,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -6072,7 +6072,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -6452,6 +6452,28 @@
       "duration_ms": 157492,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/3ra4PQCtSVULClEqj2XXf7"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
       "album": {
@@ -7176,7 +7198,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 175333,
       "name": "Mele Kalikimaka (Merry Christmas)",
       "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
@@ -7816,7 +7838,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 168134,
       "name": "NOBODY'S GIRL",
       "url": "https://open.spotify.com/track/3B2ZpJeewPvhAkjXtTkdtJ"
@@ -8430,7 +8452,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -9428,7 +9450,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
@@ -10198,7 +10220,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
@@ -10536,7 +10558,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -12929,6 +12951,24 @@
     },
     {
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4MQOInul4Fa1ymK6ocq0jM"
+    },
+    {
+      "album": {
         "name": "Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
       },
@@ -13158,7 +13198,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-14",
-  "description": "Uplift your spirit with these faith-filled folk melodies. Cover: Amanda Nolan",
+  "description": "Uplift your spirit with these faith-filled folk melodies. Cover: Land of Color",
   "name": "Faith & Folk",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 176672,
       "name": "444",
       "url": "https://open.spotify.com/track/13guW1X33I82iJyez9u2OS"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 493714,
       "name": "At The Center",
       "url": "https://open.spotify.com/track/3TBG3ZlZqsp94O1ao19ljQ"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 138400,
       "name": "back to life",
       "url": "https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 142500,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 291714,
       "name": "Blood Stained Cross",
       "url": "https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 167371,
       "name": "Cold Blooded - Acoustic",
       "url": "https://open.spotify.com/track/6U5C2r8NpjgDCN87RFAyZR"
@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Don't Miss It",
+        "url": "https://open.spotify.com/album/1JCtzOCHls5nw2ZZi0rDUW"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195608,
+      "name": "Don't Miss It",
+      "url": "https://open.spotify.com/track/4oARfHBqPe7kmCTqfm5lq1"
+    },
+    {
+      "album": {
         "name": "Dopamine and Jesus",
         "url": "https://open.spotify.com/album/4Y4rMsVeJAuiICzHEngfEN"
       },
@@ -643,6 +661,60 @@
     },
     {
       "album": {
+        "name": "Every Now & Then",
+        "url": "https://open.spotify.com/album/1gTRX2lDj1pVZvaIS6TSuy"
+      },
+      "artists": [
+        {
+          "name": "Ethan Nathaniel",
+          "url": "https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149298,
+      "name": "Every Now & Then",
+      "url": "https://open.spotify.com/track/7aEVTVSrder389tC4hkkYN"
+    },
+    {
+      "album": {
+        "name": "Far Far",
+        "url": "https://open.spotify.com/album/334ovjV48rjW7uZAv395fV"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155463,
+      "name": "Far Far",
+      "url": "https://open.spotify.com/track/3HJv7EgAFZQJrNGAZQemi4"
+    },
+    {
+      "album": {
+        "name": "Feelings & Faith",
+        "url": "https://open.spotify.com/album/7Mz2yGQcHWZGmKvkKr9Zlx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Corbin",
+          "url": "https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288155,
+      "name": "Feelings & Faith",
+      "url": "https://open.spotify.com/track/0a8b1GJQu0ku5143xPOAqu"
+    },
+    {
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/1W52hcrFDgiCA7vxRuWazJ"
       },
@@ -654,7 +726,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 348929,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/6B87JckufEOGt1b9z2DUlB"
@@ -780,7 +852,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 187303,
       "name": "good grief!",
       "url": "https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7"
@@ -892,7 +964,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 194332,
       "name": "Heavenly Places",
       "url": "https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC"
@@ -962,6 +1034,24 @@
       "duration_ms": 219000,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/5rheLVvZebhd8Y7NS8qgqy"
+    },
+    {
+      "album": {
+        "name": "holding you",
+        "url": "https://open.spotify.com/album/0qeJ95tzY4JPRXXfU6w09N"
+      },
+      "artists": [
+        {
+          "name": "Meyta",
+          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143538,
+      "name": "holding you",
+      "url": "https://open.spotify.com/track/4ocIC700ilDATjzcPQBu3Z"
     },
     {
       "album": {
@@ -1052,7 +1142,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 189857,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/7qCGZcGe3LOd4Ibhnszaqc"
@@ -1092,10 +1182,46 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 209745,
       "name": "i can see you in everything",
       "url": "https://open.spotify.com/track/2wjLk7IS4ahV7NnAkTplRt"
+    },
+    {
+      "album": {
+        "name": "I Don't Know Where To Start",
+        "url": "https://open.spotify.com/album/4cvAl3K8YDqzWmxBQl83jY"
+      },
+      "artists": [
+        {
+          "name": "Mountain People Worship",
+          "url": "https://open.spotify.com/artist/4PpHP5z3A0xsd2JU09LmDr"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338490,
+      "name": "I Don't Know Where To Start",
+      "url": "https://open.spotify.com/track/61HBiheuO2JnbbftS4rSr5"
+    },
+    {
+      "album": {
+        "name": "i got peace",
+        "url": "https://open.spotify.com/album/21C0MBqSLCKb2LLVuklfjR"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140760,
+      "name": "i got peace",
+      "url": "https://open.spotify.com/track/6w255BQUkpOHVmmnCLMVft"
     },
     {
       "album": {
@@ -1262,7 +1388,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 281748,
       "name": "In The Ether",
       "url": "https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea"
@@ -1280,7 +1406,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 230000,
       "name": "In The Mire",
       "url": "https://open.spotify.com/track/67MYv7TcTnC2gPpXrCR077"
@@ -1378,7 +1504,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 183532,
       "name": "LEMONADE (FOLK)",
       "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
@@ -1421,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "lighthouse",
+        "url": "https://open.spotify.com/album/58YX8l1NtPeQsr7WfTXL7k"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253884,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/1VcH8TZ6JxLRvOmqPzCqgu"
+    },
+    {
+      "album": {
         "name": "love me as i am",
         "url": "https://open.spotify.com/album/2BXPkOwk3VgKSVQwghsDDn"
       },
@@ -1436,6 +1580,24 @@
       "duration_ms": 302251,
       "name": "love me as i am (Live from Two Palms)",
       "url": "https://open.spotify.com/track/7yOftAlQPfh83xOT0FHBVL"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/6Z23ZPPX4xFxt7VTkhdUqK"
+      },
+      "artists": [
+        {
+          "name": "Noah Baker",
+          "url": "https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/4MeX3f2lEmUtKjr282jXIU"
     },
     {
       "album": {
@@ -1504,7 +1666,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 137250,
       "name": "not alone",
       "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
@@ -1739,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/3xvTSZGbpB9Nm5IizKfBrJ"
+      },
+      "artists": [
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252323,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/46yQOmkGXt4mDTR9gH4bh4"
+    },
+    {
+      "album": {
         "name": "Sing to the Lord - Live",
         "url": "https://open.spotify.com/album/2PzA92dFa7knfjOrYKggnx"
       },
@@ -1754,6 +1934,24 @@
       "duration_ms": 165176,
       "name": "Sing to the Lord - Live",
       "url": "https://open.spotify.com/track/5U72MP3C5YibqEs9hkm1xn"
+    },
+    {
+      "album": {
+        "name": "You Hold It All",
+        "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Skin And Bone",
+      "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
     },
     {
       "album": {
@@ -1794,7 +1992,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 208000,
       "name": "Sparrows - Acoustic",
       "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
@@ -1939,6 +2137,42 @@
     },
     {
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/7wtPj6xMVB7Bp3ojKG5k6x"
+      },
+      "artists": [
+        {
+          "name": "John Long",
+          "url": "https://open.spotify.com/artist/3MvG2GuTUyc26loK7bjclg"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286336,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/2SsKKBjgtKjOhsrKNeM5nN"
+    },
+    {
+      "album": {
+        "name": "The Cross Once Was a Tree",
+        "url": "https://open.spotify.com/album/1XKTgbCFGPsg9Xk3N5Vvd4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269233,
+      "name": "The Cross Once Was a Tree",
+      "url": "https://open.spotify.com/track/72e6iXRqXnyb66UGLHti02"
+    },
+    {
+      "album": {
         "name": "The Fence",
         "url": "https://open.spotify.com/album/7lEbC8i3ZWrsCPgvMHUHXP"
       },
@@ -1976,6 +2210,24 @@
       "duration_ms": 204000,
       "name": "The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/06XwBbs5yjVtjHA1vcWbyL"
+    },
+    {
+      "album": {
+        "name": "The Man I Could Be",
+        "url": "https://open.spotify.com/album/6iJEVynFX3iB3z2zohedvN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "The Man I Could Be",
+      "url": "https://open.spotify.com/track/1qV7E6ySEKvA07R3gtREZZ"
     },
     {
       "album": {
@@ -2051,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "This is what you sound like by the way",
+        "url": "https://open.spotify.com/album/0cHh8BEpzguxKx4AEWbrUl"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "This is what you sound like by the way",
+      "url": "https://open.spotify.com/track/7IYa2RsBSDK39MHIkDlplf"
+    },
+    {
+      "album": {
         "name": "This Man Called Jesus",
         "url": "https://open.spotify.com/album/55O53aC5Kp6lpWMdQw2iHS"
       },
@@ -2102,7 +2372,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 167704,
       "name": "Today",
       "url": "https://open.spotify.com/track/4L5YU3yv5kl0Mz7t4IfNlm"
@@ -2178,6 +2448,24 @@
       "duration_ms": 139595,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/7moDLPBLOul0Kg9SG17Ovl"
+    },
+    {
+      "album": {
+        "name": "Unlike Anything Else",
+        "url": "https://open.spotify.com/album/4o51hE5KQFS9j86RbcsFWI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Armstrong",
+          "url": "https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137274,
+      "name": "Unlike Anything Else",
+      "url": "https://open.spotify.com/track/0Trizx3u37AblSR9b7QknM"
     },
     {
       "album": {
@@ -2343,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Who Would Have Thought",
+        "url": "https://open.spotify.com/album/1VM7kjcGp2mrP3knQjcW5U"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Diaz",
+          "url": "https://open.spotify.com/artist/2SSd3iKn7O8FpQjeTkCP3n"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194331,
+      "name": "Who Would Have Thought",
+      "url": "https://open.spotify.com/track/42ohgRoM2b7D9Ds2GqcQpt"
+    },
+    {
+      "album": {
         "name": "Wild Love",
         "url": "https://open.spotify.com/album/275Z9BtFjpnochiAR6YAF0"
       },
@@ -2462,10 +2768,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 238231,
       "name": "You Hold It All",
       "url": "https://open.spotify.com/track/0nXxQnl6Yf63nbugP2tvAK"
+    },
+    {
+      "album": {
+        "name": "You're the Hope",
+        "url": "https://open.spotify.com/album/15iwaxAFT5cWs92U7VnEtE"
+      },
+      "artists": [
+        {
+          "name": "Haddon",
+          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241750,
+      "name": "You're the Hope",
+      "url": "https://open.spotify.com/track/5rAsBleTCIf6Ago6XZoc13"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0I2w6UmIBm1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ft2Y1RF4jG.md) - [plain]
 
 > pov: you're wearing a fluffy pink dress in a John Hughes movie
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,982 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,024 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ft2Y1RF4jG.md) - [plain]
 | 57 | [Together In Electric Dreams \- Remastered 2003 / From "Electric Dreams" Original Motion Picture Soundtrack](https://open.spotify.com/track/0Ytxje4D5iXTHN3MOCC5jS) | [Phil Oakey](https://open.spotify.com/artist/6ne5YmZH7oCXcZUBsY66sn), [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO) | [Philip Oakey & Giorgio Moroder](https://open.spotify.com/album/2VL7fCZeDWVJAWpIhlRoDm) | 3:52 |
 | 58 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 59 | [Maniac](https://open.spotify.com/track/1xPSDf8z4dH46gkvlLtvDO) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance Original Soundtrack From The Motion Picture](https://open.spotify.com/album/5rdy0MyO9GklJMgqfAJOSQ) | 4:04 |
-| 60 | [Please Please Please Let Me Get What I Want](https://open.spotify.com/track/6En5PwlpE1H8eNKInsN58n) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Pretty In Pink](https://open.spotify.com/album/0Q0SN4tLsKMec6pAD4EzGY) | 1:51 |
+| 60 | [Please Please Please Let Me Get What I Want](https://open.spotify.com/track/6En5PwlpE1H8eNKInsN58n) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Pretty In Pink \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Q0SN4tLsKMec6pAD4EzGY) | 1:51 |
 | 61 | [We Belong Together](https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 1:56 |
 | 62 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 63 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 |

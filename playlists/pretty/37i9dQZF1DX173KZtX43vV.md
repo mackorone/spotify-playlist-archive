@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: M Huncho
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,987 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,024 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 2 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
 | 3 | [Black Jeep](https://open.spotify.com/track/3JadDlLa2L3vrGs8DXsWao) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Black Jeep](https://open.spotify.com/album/0GapUYcDxeItfst1KafpmB) | 1:48 |
 | 4 | [Recently Deleted](https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:43 |
-| 5 | [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [](https://open.spotify.com/album/null) | 2:51 |
+| 5 | [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:51 |
 | 6 | [Bellingham](https://open.spotify.com/track/5ADKlijj1VChfluBVbK7WG) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Bellingham](https://open.spotify.com/album/2sYhWXdK36j3u3BCiGD7sD) | 2:39 |
 | 7 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 8 | [CC Walk](https://open.spotify.com/track/19awCIIk23cmyvUk2MjCrt) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Yesterday Was Once Tomorrow](https://open.spotify.com/album/4bEaQ9dDZqvsLm2PjYKSrT) | 2:56 |
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 11 | [VET](https://open.spotify.com/track/3WrGCvUlj1r2pXJ8VgejXQ) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [VET](https://open.spotify.com/album/0XBl1ryxXPcGJbPLzIw7fA) | 2:20 |
 | 12 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
 | 13 | [Growing Up](https://open.spotify.com/track/3afeitE7piK1pD8AGrccLl) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Growing Up](https://open.spotify.com/album/0x7mxcYxOFfmj6x5T0JJVr) | 3:14 |
-| 14 | [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 2:22 |
+| 14 | [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 3:23 |
 | 15 | [Roll Alone](https://open.spotify.com/track/11lcv4htXgtnCnRpxh0sZi) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Roll Alone](https://open.spotify.com/album/6tnTPfF27aFxyljlThizSY) | 2:34 |
-| 16 | [Track 7](https://open.spotify.com/track/7m3ByccI7ylP805A07Gr0g) | [Deca OTA](https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb) | [](https://open.spotify.com/album/null) | 0:00 |
+| 16 | [New Creation](https://open.spotify.com/track/7m3ByccI7ylP805A07Gr0g) | [Deca OTA](https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb), [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [The Human Condition](https://open.spotify.com/album/78oaC4ZYNN6NCzJ0TSxNp2) | 2:25 |
 | 17 | [askeladd](https://open.spotify.com/track/5RvUqHb8YrOvy4V5MWDbX8) | [Kwákz](https://open.spotify.com/artist/2ZNbtfRwBDKN2k8drx3BrX) | [askeladd](https://open.spotify.com/album/4qkITEJJsPI2goRAmui95r) | 2:03 |
 | 18 | [Precognition](https://open.spotify.com/track/06nyrZz7wEijSlZXxXg5EJ) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Precognition](https://open.spotify.com/album/08LAG64GAPO5Xb3DEmlK2M) | 2:57 |
 | 19 | [Realign](https://open.spotify.com/track/7yLYmP8jdEuTQiJD2qlDch) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Realign](https://open.spotify.com/album/650zxNU9Z5rX6IKhRoaXqu) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,198 likes - 138 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,367 likes - 138 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 8 | [Christmas at Hogwarts](https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:55 |
 | 9 | [Gumption](https://open.spotify.com/track/207Bvb5saweIULXphE94Y8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:45 |
 | 10 | [The Nutcracker Suite](https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Nutcracker and the Four Realms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY) | 3:59 |
-| 11 | [Overture \- \(The Nightmare Before Christmas\)](https://open.spotify.com/track/2tzKOvqBZIpUeQnBHEI5Q3) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 1:47 |
-| 12 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/6cbnkujtCzLCoyOtOyhO74) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:06 |
-| 13 | [Finale \(from the motion picture, "Home Alone 2: Lost In New York\)](https://open.spotify.com/track/2SIuzuio78aB01RGY90d59) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone 2: Lost In New York \(Original Score\)](https://open.spotify.com/album/104xIjS9kSulivvCeIHWQS) | 3:55 |
+| 11 | [Epilogue \- From "Frozen"/Score](https://open.spotify.com/track/6cbnkujtCzLCoyOtOyhO74) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:06 |
+| 12 | [Finale \(from the motion picture, "Home Alone 2: Lost In New York\)](https://open.spotify.com/track/2SIuzuio78aB01RGY90d59) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone 2: Lost In New York \(Original Score\)](https://open.spotify.com/album/104xIjS9kSulivvCeIHWQS) | 3:55 |
+| 13 | [Overture \- \(The Nightmare Before Christmas\)](https://open.spotify.com/track/2tzKOvqBZIpUeQnBHEI5Q3) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 1:47 |
 | 14 | [Entry into the Great Hall and the Banquet](https://open.spotify.com/track/0UDSwgomgI5bK1x1eYeBez) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:42 |
 | 15 | [A Christmas Carol Main Title](https://open.spotify.com/track/1swBDEKTSMyTbhNc3KVwSZ) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [A Christmas Carol](https://open.spotify.com/album/35N2paA3Tb44f0a3beEU3V) | 4:21 |
 | 16 | [Maestro](https://open.spotify.com/track/4SimUIFxXh5N6VsF33oMo7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:53 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 137 | [Snow Scene](https://open.spotify.com/track/7aX3yA8NGtHqo7TjLYFdg4) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Father Of The Bride \(Music From The Motion Picture\)](https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa) | 1:32 |
 | 138 | [Antarctica](https://open.spotify.com/track/77DzKSTUqfrIxc1Y776aHB) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Penguins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lnDyf5b6lGAlBfAU2ak4k) | 0:49 |
 
-Snapshot ID: `AAAAANSNjbydAJSNkUd9B42NWqwdNJFV`
+Snapshot ID: `AAAAAI4emYpWqgyzyU0wtWp7pGo5czhU`

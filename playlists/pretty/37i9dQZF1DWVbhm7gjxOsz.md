@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,447 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,520 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 46 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
 | 47 | [I Do Love You](https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 2:57 |
 | 48 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
-| 49 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
-| 50 | [The One Who Really Loves You \- Single Version](https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:27 |
+| 49 | [The One Who Really Loves You \- Single Version](https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:27 |
+| 50 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
 | 51 | [Hey There Lonely Girl](https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [I Love You](https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r) | 3:36 |
 | 52 | [Don't Let No One Get You Down](https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 4:00 |
 | 53 | [In The Rain](https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:29 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 101 | [Daddy's Home](https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI) | [Shep And The Limelites](https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf) | [All the Hits and More](https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc) | 2:54 |
 | 102 | [Confessin a Feeling](https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis) | [Sly, Slick & Wicked](https://open.spotify.com/artist/1OXS79e5AMBp2DKWcCbOUp) | [Super Slow Jams Vol\. 2 \(Live\)](https://open.spotify.com/album/6oW2SrZ4ZQHby7KOxiPa5i) | 6:54 |
 | 103 | [Talk To Me](https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN) | [Sunny & The Sunglows](https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O) | [All Time Favorites: Sunny & the Sunglows](https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2) | 2:44 |
-| 104 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
-| 105 | [The One Who Really Loves You \- Album Version / Mono](https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Smash Hits Of '62](https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh) | 2:23 |
+| 104 | [The One Who Really Loves You \- Album Version / Mono](https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Smash Hits Of '62](https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh) | 2:23 |
+| 105 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
 | 106 | [Those Oldies But Goodies Remind Me Of You \(Rerecorded\)](https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I) | [Little Caesar & the Romans](https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX) | [Blue Eyes Crying In the Rain](https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC) | 2:59 |
 | 107 | [Porque Te Quiero](https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo) | [La Mission](https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG), [Orlando Torriente](https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno) | [Songs from La Mission \(Original Motion Soundtrack\)](https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ) | 4:11 |
 | 108 | [Angel Baby \(Spanglish\)](https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [The Chicano Alliance](https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1) | 3:34 |

@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con CA7RIEL y Paco Amoroso.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline.
 
-962 songs - 2 day 3 hr 53 min
+963 songs - 2 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-01 | 2023-10-14 |
 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 | 2022-10-27 | 2023-01-11 |
 | [BF](https://open.spotify.com/track/1IPEjtyzuk1K3U2QmpyIgw) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BF](https://open.spotify.com/album/7blDathKAvoJoCVZFTUQLg) | 2:21 | 2024-01-12 | 2024-05-19 |
-| [Bien Bien](https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Bien Bien](https://open.spotify.com/album/4XZScJixPo8QOp3G5RrCNR) | 2:02 | 2025-10-24 |  |
+| [Bien Bien](https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Bien Bien](https://open.spotify.com/album/4XZScJixPo8QOp3G5RrCNR) | 2:02 | 2025-10-24 | 2025-12-13 |
 | [BIGSHORTYS](https://open.spotify.com/track/50cQxtYpWuqViXC9b7PnzI) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [PISTOLA](https://open.spotify.com/album/2ha5bvXlmL8TSKuR5qf5GY) | 3:06 | 2025-03-07 | 2025-04-05 |
 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 | 2023-09-01 | 2023-09-30 |
 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 | 2024-02-23 | 2024-06-29 |
@@ -865,6 +865,7 @@
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2023-09-29 | 2023-10-14 |
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2022-03-21 | 2022-05-26 |
 | [Through The Eye](https://open.spotify.com/track/0choCf37clNqjpUvxGnLmw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Four° In Winter \(Deluxe\)](https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq) | 3:21 | 2022-02-09 | 2022-07-29 |
+| [tiempo pasa](https://open.spotify.com/track/4q0E9LdUvQdNR2bSm3kkIV) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [VERANO SAUDADE](https://open.spotify.com/album/4NiMrAqxTakrdJi0DNGwFd) | 3:34 | 2025-12-12 |  |
 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 | 2025-01-24 |  |
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2022-07-22 | 2023-02-17 |
 | [Tira La Puerta](https://open.spotify.com/track/0RyZbvuv6h5AeKXi1AYvJs) | [Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Tira La Puerta](https://open.spotify.com/album/31vwz8em3IHKspVCw9hC3x) | 2:34 | 2021-12-02 | 2022-01-25 |

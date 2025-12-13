@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 48134,
+  "num_followers": 48135,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Double Rainbow",
-        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 282600,
       "name": "Take The Coltrane",
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "First Wish",
-      "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Trio 64",
@@ -819,6 +803,22 @@
       "duration_ms": 275133,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "First Wish",
+      "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Empathy",
         "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 270666,
       "name": "Let's Go Back To The Waltz",
       "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1259,26 +1259,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Sonny Side Up",
-        "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 340960,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1303,18 +1295,26 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+        "name": "Sonny Side Up",
+        "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
+      "duration_ms": 340960,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
     },
     {
       "added_at": "2019-10-04 16:01:14",

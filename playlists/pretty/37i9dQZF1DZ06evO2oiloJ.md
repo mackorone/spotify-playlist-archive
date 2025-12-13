@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,450 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,525 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 23 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
 | 24 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
 | 25 | [Call Your Friends](https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:33 |
-| 26 | [By Your Side](https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:14 |
-| 27 | [What's Wrong](https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 2:35 |
+| 26 | [What's Wrong](https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 2:35 |
+| 27 | [By Your Side](https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:14 |
 | 28 | [Gone Till November](https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:41 |
 | 29 | [Lost In Love](https://open.spotify.com/track/593a80uHcKk6zlG9uecQ53) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:43 |
 | 30 | [Dark Conversation](https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:24 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 37 | [Close Enough to Hurt](https://open.spotify.com/track/1WPszJN4Em99es2kpiaUxt) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:15 |
 | 38 | [By Myself \(feat\. Rod Wave & Rylo Rodriguez\)](https://open.spotify.com/track/4pnwBTwGbXdZYgPhYJPRsr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:17 |
 | 39 | [Alone](https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:11 |
-| 40 | [Voicemail \(feat\. Rod Wave\)](https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Voicemail \(feat\. Rod Wave\)](https://open.spotify.com/album/1lxBTSaU3PS7NqFuN5cIA6) | 4:32 |
+| 40 | [What's Love??](https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:58 |
 | 41 | [Green Light](https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:01 |
-| 42 | [What's Love??](https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:58 |
+| 42 | [Voicemail \(feat\. Rod Wave\)](https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Voicemail \(feat\. Rod Wave\)](https://open.spotify.com/album/1lxBTSaU3PS7NqFuN5cIA6) | 4:32 |
 | 43 | [Westside Connection](https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Westside Connection](https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG) | 2:44 |
 | 44 | [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 |
 | 45 | [OMDB](https://open.spotify.com/track/7Aece36KsB5z5EskkAoFp4) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 3:05 |
 
-Snapshot ID: `aTi4AAAAAADbq5RxiLx7os+OucPpVddh`
+Snapshot ID: `aToJgAAAAABBiP5/wLV7yr5Zth9cO+wN`

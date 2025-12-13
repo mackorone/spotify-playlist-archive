@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Fejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,478 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,530 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vazhikatti](https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Daleema](https://open.spotify.com/artist/0jlxYQ9CNS8IT8epEELwnA) | [Vazhikatti](https://open.spotify.com/album/1yYiqvaSkcpQAD3JlTQBao) | 2:22 |
+| 1 | [Vazhikatti \- Kizhakku Suryan](https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Daleema](https://open.spotify.com/artist/0jlxYQ9CNS8IT8epEELwnA) | [Vazhikatti \(Kizhakku Suryan\)](https://open.spotify.com/album/1yYiqvaSkcpQAD3JlTQBao) | 2:22 |
 | 2 | [SHERIYA](https://open.spotify.com/track/3mpHzsOufcQoVMjpZPc2Kd) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [SHERIYA](https://open.spotify.com/album/2nRL1WRRHLRvBQf0k4afL6) | 3:11 |
 | 3 | [Kulasthree](https://open.spotify.com/track/578WOWpCtKkbowPTyB4jJd) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Kulasthree](https://open.spotify.com/album/7KH8U9NwaR7QLqv0A2hY4I) | 3:19 |
 | 4 | [Neon Ride \(From "Officer On Duty"\)](https://open.spotify.com/track/4cK4HVmv6VkF1fYf9q7o9X) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u), [Ramya RamC](https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD) | [Neon Ride \(From "Officer On Duty"\)](https://open.spotify.com/album/0lSIMeXjsUG2HA4AqdKBkj) | 3:11 |

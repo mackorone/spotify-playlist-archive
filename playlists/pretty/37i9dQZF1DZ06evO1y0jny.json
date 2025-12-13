@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACwkZq9UdFhbGJPAhFTN9xh",
+  "snapshot_id": "aToJgAAAAACHdazgcBEUT7ylr571LAoS",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 212415,
-      "name": "No \u02bb\u0100nela U\u02bbilani, He Inoa",
-      "url": "https://open.spotify.com/track/4GpEb52SHnvTBEZNG07UbD"
+      "duration_ms": 184724,
+      "name": "Maui",
+      "url": "https://open.spotify.com/track/7cZpEshCy8Ncbd6jIDXbux"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 184724,
-      "name": "Maui",
-      "url": "https://open.spotify.com/track/7cZpEshCy8Ncbd6jIDXbux"
+      "duration_ms": 212415,
+      "name": "No \u02bb\u0100nela U\u02bbilani, He Inoa",
+      "url": "https://open.spotify.com/track/4GpEb52SHnvTBEZNG07UbD"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
       "duration_ms": 150487,
       "name": "Ulunui Waltz (Reimagined) [feat. Keauhou]",
       "url": "https://open.spotify.com/track/4ZqhG1g8joMt52tGGpnybU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lei N\u0101honoapi\u02bbilani: N\u0101 Mele Hou",
-        "url": "https://open.spotify.com/album/2AS9LbYMeRpZ2vgFEdv3I5"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 188841,
-      "name": "Honokowai",
-      "url": "https://open.spotify.com/track/3vEK9J9FuhBMAK9koYYbQZ"
     }
   ],
   "unique_name": "This Is Keauhou",

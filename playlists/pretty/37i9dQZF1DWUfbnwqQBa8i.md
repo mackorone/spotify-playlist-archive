@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 
 > All the best music from New Classical in 2025\. Cover: Alice Sara Ott
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,223 likes - 93 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,301 likes - 93 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 | 92 | [Debussy: Arabesque No\. 1, L\. 66](https://open.spotify.com/track/0Fmb1NhrUD4UNEitq0BrKj) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Debussy: Arabesque No\. 1, L\. 66](https://open.spotify.com/album/2Fz5qE8UWfhfviYireJaD7) | 6:43 |
 | 93 | [The Four Seasons, Violin Concerto in F Minor, Op\. 8 No\. 4, RV 297 "Winter": I\. Allegro non molto](https://open.spotify.com/track/0RhpOl4ewdFHJEnk5tURXW) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM), [Manchester Camerata](https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/3spDlUKcgciOYAxRWmt086) | 3:08 |
 
-Snapshot ID: `AAAAAI/8bP3tiMYgstsDu7vHuWWYKJlx`
+Snapshot ID: `AAAAACBaUTMSLoSENgUOs/oD9ivTn2Bv`

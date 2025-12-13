@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,170 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,205 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 59 | [Chevy Van](https://open.spotify.com/track/31S6oGx81hVIjWz6cu5oNw) | [Sammy Johns](https://open.spotify.com/artist/5L2UqkzpfZD5OpdA6fSfVH) | [Sammy Johns](https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z) | 2:59 |
 | 60 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
 | 61 | [He Got You](https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:31 |
-| 62 | [This Night Won't Last Forever](https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [Dialogue](https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK) | 4:01 |
-| 63 | [Fountain of Sorrow \- Remastered](https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Late for the Sky \(Remastered\)](https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP) | 6:52 |
+| 62 | [Fountain of Sorrow \- Remastered](https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Late for the Sky \(Remastered\)](https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP) | 6:52 |
+| 63 | [This Night Won't Last Forever](https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [Dialogue](https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK) | 4:01 |
 | 64 | [Oh Lori](https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [The Best Of The Alessi Brothers](https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY) | 3:19 |
 | 65 | [Shannon](https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj) | [Henry Gross](https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a) | [Release](https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza) | 3:53 |
 | 66 | [Burn Down The Mission](https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 6:22 |

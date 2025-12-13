@@ -5163,6 +5163,28 @@
     },
     {
       "album": {
+        "name": "Jam #1",
+        "url": "https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR"
+      },
+      "artists": [
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163965,
+      "name": "Jam #01 - Tropa do Mant\u00e9m",
+      "url": "https://open.spotify.com/track/3GX6ZbsVyiZHa9DoNZ8S54"
+    },
+    {
+      "album": {
         "name": "Jaqueta Dior",
         "url": "https://open.spotify.com/album/78LrA3Z9XNCHQWH3tLb3um"
       },
@@ -11146,7 +11168,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 324413,
       "name": "Viz\u00e3o de Cria 3",
       "url": "https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT"

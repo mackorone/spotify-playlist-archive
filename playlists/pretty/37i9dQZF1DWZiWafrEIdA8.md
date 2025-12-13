@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,195 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,201 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 28 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |
 | 29 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 |
 | 30 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 |
-| 31 | [비누](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [비누](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 |
-| 32 | [just talking to myself](https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.1\] just talking to myself](https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim) | 2:49 |
+| 31 | [just talking to myself](https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.1\] just talking to myself](https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim) | 2:49 |
+| 32 | [비누](https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [비누](https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs) | 3:02 |
 | 33 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |
 | 34 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 |
 | 35 | [Right Now \(Feat\. Crush\)](https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Right Now](https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN) | 3:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 45 | [Never Ending Story \(Feat\. Dynamicduo\)](https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 3:54 |
 | 46 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 |
 | 47 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 |
-| 48 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 |
-| 49 | [Action! \(Feat\. GRAY\)](https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Action!](https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw) | 3:10 |
+| 48 | [Action! \(Feat\. GRAY\)](https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Action!](https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw) | 3:10 |
+| 49 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 |
 | 50 | [Trip](https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hannah](https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q) | [Trip](https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj) | 3:53 |
 
 Snapshot ID: `AAAAACEkx2MOoEG9JjWeZ3K70QdyyH9/`

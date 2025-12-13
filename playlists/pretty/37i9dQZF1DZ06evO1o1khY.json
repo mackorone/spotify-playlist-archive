@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 42461,
+  "num_followers": 42482,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABojvwuXOWIQ1G/HpPordlP",
+  "snapshot_id": "aToJgAAAAABXas69UZ2Gi6H46DTCXbeZ",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Typa",
+        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Typa",
+      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -99,8 +115,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Typa",
-        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
       "artists": [
         {
@@ -108,9 +144,9 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 124137,
-      "name": "Typa",
-      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn"
     },
     {
       "added_at": null,
@@ -143,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
     },
     {
       "added_at": null,
@@ -399,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+        "name": "MARCH",
+        "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
       },
       "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Redbone (with GloRilla)",
-      "url": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
+      "duration_ms": 170666,
+      "name": "MARCH",
+      "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MARCH",
-        "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
       "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 170666,
-      "name": "MARCH",
-      "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
+      "duration_ms": 132000,
+      "name": "Redbone (with GloRilla)",
+      "url": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 174000,
       "name": "Pop It (GloRilla, Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL"
     },
     {
       "added_at": null,

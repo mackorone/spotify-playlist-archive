@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Colour On The Wall",
+        "url": "https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj"
+    },
+    {
+      "album": {
         "name": "Eon",
         "url": "https://open.spotify.com/album/4LUTndEHE6DgiOAiHN5hgQ"
       },
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 207982,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ"
@@ -3582,7 +3600,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 252503,
       "name": "Marking My Time - BADBADNOTGOOD Edit",
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
@@ -6078,7 +6096,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 200000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"

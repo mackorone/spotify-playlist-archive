@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,241 likes - 42 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,262 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,20 +27,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 17 | [Trying](https://open.spotify.com/track/2mWp5olnLmpzAReIGK18dA) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:56 |
 | 18 | [Banks](https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Among Friends](https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT) | 3:41 |
 | 19 | [Yours If You Want It](https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Life Is A Highway: Refueled Duets](https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M) | 3:19 |
-| 20 | [Son Of A Gun](https://open.spotify.com/track/2QM5kNCm26szq86xVJoauS) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:55 |
-| 21 | [Going 'Round](https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:33 |
+| 20 | [Going 'Round](https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:33 |
+| 21 | [Son Of A Gun](https://open.spotify.com/track/2QM5kNCm26szq86xVJoauS) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:55 |
 | 22 | [Damn Good Time](https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:41 |
 | 23 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 |
-| 24 | [Know You Like That](https://open.spotify.com/track/3J13eOBVaFS1ltmQ4i0yGW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:56 |
-| 25 | [Selfish](https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:12 |
+| 24 | [Selfish](https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:12 |
+| 25 | [Know You Like That](https://open.spotify.com/track/3J13eOBVaFS1ltmQ4i0yGW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:56 |
 | 26 | [Part Of It](https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:08 |
 | 27 | [Need To Not](https://open.spotify.com/track/1nJ9J9k4fOJZVU8CmvNv4o) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:02 |
-| 28 | [Her Way Or The Highway](https://open.spotify.com/track/59SCat3LTL5d1SBOBRB43D) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:52 |
-| 29 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 |
+| 28 | [Leaving New Orleans](https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:30 |
+| 29 | [Her Way Or The Highway](https://open.spotify.com/track/59SCat3LTL5d1SBOBRB43D) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:52 |
 | 30 | [Short Fuse](https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:49 |
-| 31 | [Leaving New Orleans](https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:30 |
-| 32 | [Learn The Hard Way](https://open.spotify.com/track/0iigBOIOsjNlHdlwmS5t2O) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:48 |
-| 33 | [Detours](https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Detours](https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj) | 3:31 |
+| 31 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 |
+| 32 | [Detours](https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Detours](https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj) | 3:31 |
+| 33 | [Learn The Hard Way](https://open.spotify.com/track/0iigBOIOsjNlHdlwmS5t2O) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:48 |
 | 34 | [Whiskey Weak](https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:45 |
 | 35 | [Ruin My Weekend](https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 2:41 |
 | 36 | [Cool Anymore](https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cool Anymore](https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL) | 3:20 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 41 | [Buy Dirt](https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Among Friends](https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT) | 2:46 |
 | 42 | [Trouble Town](https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Trouble Town](https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF) | 3:04 |
 
-Snapshot ID: `aTi4AAAAAADUkpVhL5nvLipIDGY2rCUw`
+Snapshot ID: `aToJgAAAAABWR6rTz9NTJdbiVo/VN2hH`

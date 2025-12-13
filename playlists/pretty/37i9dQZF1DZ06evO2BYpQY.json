@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80307,
+  "num_followers": 80316,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACUdbLjKQw4YLj1s5IIHfea",
+  "snapshot_id": "aToJgAAAAAC/rR4Aa0fAXtW/QWfkpN6x",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wall - Live In Berlin",
-        "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
       "artists": [
         {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        },
-        {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 397000,
-      "name": "Mother - Live In Berlin",
-      "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
+      "duration_ms": 334960,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
     },
     {
       "added_at": null,
@@ -259,18 +251,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
+        "name": "The Wall - Live In Berlin",
+        "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
       },
       "artists": [
         {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        },
+        {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 334960,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
+      "duration_ms": 397000,
+      "name": "Mother - Live In Berlin",
+      "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
     },
     {
       "added_at": null,

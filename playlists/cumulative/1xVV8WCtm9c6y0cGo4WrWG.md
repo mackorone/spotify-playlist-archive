@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Dave
 
-449 songs - 22 hr 48 min
+450 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 | 2025-07-04 | 2025-07-12 |
 | [Momma Don't Worry \(feat\. Future, Lil Baby\)](https://open.spotify.com/track/6pHiM8b3nWPHCl2riM2465) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Tha Carter VI \(Bonus\)](https://open.spotify.com/album/0QxgFnhDjSnZNaaHUZ5kW7) | 3:51 | 2025-06-13 |  |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-11-03 | 2023-12-09 |
+| [MR RECOUP](https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:45 | 2025-12-12 |  |
 | [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 | 2025-06-06 |  |
 | [My Love \(feat\. Veeze & Rylo Rodriguez\)](https://open.spotify.com/track/10MpbqJvhf6Lqi7YaFFra9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [My Love \(feat\. Veeze & Rylo Rodriguez\)](https://open.spotify.com/album/3G8qXEDKJI9MGdanP7FuMX) | 3:19 | 2025-01-10 | 2025-06-08 |
 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 | 2023-11-03 | 2024-02-19 |

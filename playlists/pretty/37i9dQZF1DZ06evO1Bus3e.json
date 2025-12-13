@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12505,
+  "num_followers": 12506,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAC3hIuweNJOtPL+GuinrKT4",
+  "snapshot_id": "aToJgAAAAAB0+THfsRBl8uPItb1mg46I",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente Chaka",
-        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
+        "name": "BELLAGIO",
+        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Gente Chaka",
-      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
+      "duration_ms": 158066,
+      "name": "BELLAGIO",
+      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
     },
     {
       "added_at": null,
@@ -307,18 +299,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BELLAGIO",
-        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
+        "name": "Gente Chaka",
+        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
         }
       ],
-      "duration_ms": 158066,
-      "name": "BELLAGIO",
-      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
+      "duration_ms": 212400,
+      "name": "Gente Chaka",
+      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
     },
     {
       "added_at": null,

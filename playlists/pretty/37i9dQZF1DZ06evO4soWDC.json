@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAB0jZ38EaTx0kTBcmL2Az+C",
+  "snapshot_id": "aToJgAAAAABUU+4VJIdznZbmt4y5sA2v",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Get Sad, See Mates",
+      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 187101,
+      "name": "Remiss of Me",
+      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
       },
@@ -436,89 +484,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Party Scene",
-      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 187101,
-      "name": "Remiss of Me",
-      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 176518,
-      "name": "Get Sad, See Mates",
-      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "'Til Forever",
-        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "'Til Forever",
-      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
       "duration_ms": 204533,
       "name": "Rinse and Repeat",
       "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Like a Charm",
-      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
     },
     {
       "added_at": null,
@@ -539,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "'Til Forever",
+        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "'Til Forever",
+      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Like a Charm",
+      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ReWiggled",
         "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 81016,
       "name": "The Shimmie Shake",
       "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 123726,
-      "name": "K.D.R",
-      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yossarian",
         "url": "https://open.spotify.com/album/3XWw9cnaoW4nulHsP03f9c"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 191395,
       "name": "Yossarian",
       "url": "https://open.spotify.com/track/2O678VIw4c052ZW0Ar2KXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 220850,
+      "name": "Death Rattle",
+      "url": "https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528"
     },
     {
       "added_at": null,
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 220850,
-      "name": "Death Rattle",
-      "url": "https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528"
+      "duration_ms": 183662,
+      "name": "Benthos",
+      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 190200,
       "name": "Guillotines in Arbour Park",
       "url": "https://open.spotify.com/track/1YeLt5s1urg85IfzKqXsQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 183662,
-      "name": "Benthos",
-      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
     }
   ],
   "unique_name": "This Is Luca Brasi",

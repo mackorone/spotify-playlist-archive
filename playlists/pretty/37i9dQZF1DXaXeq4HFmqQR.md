@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,854 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,857 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 20 | [Tu no me convienes](https://open.spotify.com/track/0MV8SfyhjWAM6XED64LYU4) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Dolores](https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox) | 2:31 |
 | 21 | [Lo que siento](https://open.spotify.com/track/4Mb76g48JCUm7QXa9hgubF) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Lo que siento](https://open.spotify.com/album/6TOz62eybIRIzp9l6KP5vV) | 3:37 |
 | 22 | [A Cambio](https://open.spotify.com/track/12TROHXanz03JmgRDBkZhD) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [A Cambio](https://open.spotify.com/album/1XbfJW8GOflbRmMkuCYp9S) | 3:25 |
-| 23 | [Lo Que Soñamos Vivir](https://open.spotify.com/track/2Q7qDmYdMxGqWWfJON4XlF) | [Alejandra Paniagua](https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Lo Que Soñamos Vivir](https://open.spotify.com/album/4zJuDHVRGKhdympQfTqBK9) | 3:30 |
-| 24 | [Cámara Lenta](https://open.spotify.com/track/3Phkpm54EHflUG3z0jOhid) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Los Días](https://open.spotify.com/album/0DSBtXfbEulz3zDVrClVbR) | 3:04 |
+| 23 | [Cámara Lenta](https://open.spotify.com/track/3Phkpm54EHflUG3z0jOhid) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Los Días](https://open.spotify.com/album/0DSBtXfbEulz3zDVrClVbR) | 3:04 |
+| 24 | [Lo Que Soñamos Vivir](https://open.spotify.com/track/2Q7qDmYdMxGqWWfJON4XlF) | [Alejandra Paniagua](https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Lo Que Soñamos Vivir](https://open.spotify.com/album/4zJuDHVRGKhdympQfTqBK9) | 3:30 |
 | 25 | [Canción por Palestina](https://open.spotify.com/track/4DRMMG3B7Dj4sk0cGCZDYj) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Canción por Palestina](https://open.spotify.com/album/2KvvlWa9WaabIbhN6kybuY) | 2:44 |
-| 26 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 |
-| 27 | [10 DÍAS](https://open.spotify.com/track/4jQIka89UCTFBueFA0kK0U) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [10 DÍAS](https://open.spotify.com/album/4ZZhbCgb0uC3Ro5m4t9Zrt) | 3:21 |
+| 26 | [10 DÍAS](https://open.spotify.com/track/4jQIka89UCTFBueFA0kK0U) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [10 DÍAS](https://open.spotify.com/album/4ZZhbCgb0uC3Ro5m4t9Zrt) | 3:21 |
+| 27 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 |
 | 28 | [Color de Rosa ✿](https://open.spotify.com/track/4C23Imuml0iFxTWSSbYSeX) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Cómo Enamorarse con el Corazón Partío](https://open.spotify.com/album/2HoYvQucdu79TEF25BekcW) | 3:20 |
-| 29 | [Indeleble](https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB) | [Alfilera](https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW) | [Detrás de las Palabras](https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW) | 3:34 |
-| 30 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
+| 29 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
+| 30 | [Indeleble](https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB) | [Alfilera](https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW) | [Detrás de las Palabras](https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW) | 3:34 |
 | 31 | [Cuándo y Dónde](https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Luz Elena Mendoza](https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv) | [Cuándo y Dónde](https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf) | 3:14 |
 | 32 | [Ya no llueve en mi cumpleaños](https://open.spotify.com/track/4w7BwpA6plrRgzuXdem5Hs) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Esto lo hice sin querer](https://open.spotify.com/album/79FMNMRaLeMIwuWgaTvokU) | 3:25 |
 | 33 | [Un año más \- Bolero](https://open.spotify.com/track/6HsYqeuGn0l8BMxxIKdMQw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Kumbita](https://open.spotify.com/album/1ZE3Gm8Xr0FDOVRhWcqz5d) | 4:38 |

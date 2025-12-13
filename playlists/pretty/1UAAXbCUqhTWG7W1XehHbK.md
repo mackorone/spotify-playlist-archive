@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 144 songs - 8 hr 23 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 146 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 142 | [Eerie Todd](https://open.spotify.com/track/6whH6etmbTlFgATsxMF7oC) | [Opal Tribe](https://open.spotify.com/artist/1bBQKUoCtoYlgz24976Jvd) | [Eerie Todd](https://open.spotify.com/album/51YZe3vuCfsYdtqJnHMxTd) | 4:30 |
 | 143 | [The Hummingbird](https://open.spotify.com/track/4efXbrQXTZmXPZCIBKhfBa) | [Sia Vaiz](https://open.spotify.com/artist/3KXDHgGTsVxS9tVl3bVX64) | [The Hummingbird](https://open.spotify.com/album/3abO1C1HoLQxF79SIoqMOg) | 3:05 |
 | 144 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 |
+| 145 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 |
+| 146 | [Tangerine Dream](https://open.spotify.com/track/0JwjzbKBP6poHooDgqhlCZ) | [ALRIGHT](https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx) | [Tangerine Dream](https://open.spotify.com/album/51D2TTeRC7Slr7pAz6BbSc) | 2:27 |
 
-Snapshot ID: `AAADbjrtAWOktt90ayfu0LBTZ+G68mmx`
+Snapshot ID: `AAADcCzA0HnhKCHlNcPCKozDTY8nuMfz`

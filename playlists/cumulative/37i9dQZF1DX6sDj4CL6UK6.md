@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: When Chai Met Toast
 
-374 songs - 21 hr 24 min
+375 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [High Horse](https://open.spotify.com/track/57TCZJvvp9aR2gc6NTD4OB) | [Viv & Shaz](https://open.spotify.com/artist/0HcVwSFeNSlLHDaIbod2xf), [Vivienne Pocha](https://open.spotify.com/artist/2fUE5kssQWjZs704BulUUI), [Shazneen Arethna](https://open.spotify.com/artist/7sCO08Lf7f0FHy2KEEZ5lk) | [High Horse](https://open.spotify.com/album/1BuuweRpEy3kExoCcPhZzV) | 3:39 | 2022-05-25 | 2023-01-13 |
 | [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 | 2023-10-27 | 2025-01-21 |
 | [Hold Me](https://open.spotify.com/track/3EnsM1Y8cEb6OLDloYhss6) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Swing](https://open.spotify.com/album/08w80ZQxYfFGVrT5p7F8xU) | 2:43 | 2023-05-24 | 2024-06-22 |
-| [Holdin' On \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/3YMSHuBdFQuoFCXYu4xYlz) | [Adi Rao](https://open.spotify.com/artist/67aHUUVIizUykU8Y4NFFp1) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 2:56 | 2025-09-12 |  |
+| [Holdin' On \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/3YMSHuBdFQuoFCXYu4xYlz) | [Adi Rao](https://open.spotify.com/artist/67aHUUVIizUykU8Y4NFFp1) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 2:56 | 2025-09-12 | 2025-12-13 |
 | [Holding On To The Hope](https://open.spotify.com/track/24IgBHkgObOvSD4A2IgW0y) | [The Colour Compound](https://open.spotify.com/artist/4KtxCWu3CoqSSHtdmdiwpu) | [Holding On To The Hope](https://open.spotify.com/album/4J7eyBtkz33Em3qI5FD1g9) | 3:22 | 2022-04-28 | 2022-05-26 |
 | [Holding Onto History](https://open.spotify.com/track/5LJPsV27A8aIPAanwLgeAx) | [krishaa](https://open.spotify.com/artist/5rZ7vrAU9rGpRtgdlpjklV) | [Holding Onto History](https://open.spotify.com/album/0yyRIcVGq7BwnvP3CN2RpU) | 4:15 | 2022-03-25 | 2022-05-23 |
 | [Honey Bee](https://open.spotify.com/track/7KfecH9A9sikQcFhHrfaA8) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Honey Bee](https://open.spotify.com/album/2EJPiGw5V1dJciKQaK7jd6) | 3:39 | 2022-03-25 | 2022-05-26 |
@@ -151,6 +151,7 @@
 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 | 2023-04-30 | 2024-05-06 |
 | [Horizon](https://open.spotify.com/track/668RvyqOKeNMjetr6jz32p) | [Peekay](https://open.spotify.com/artist/2QRt3WqRMTnQXu6mgGnqKl) | [Horizon](https://open.spotify.com/album/0RR1QdtiNk7g6hBonGWZaA) | 3:49 | 2023-12-15 | 2024-01-06 |
 | [Horoscope](https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 4:03 | 2022-03-25 | 2022-05-23 |
+| [Hourglass](https://open.spotify.com/track/2XoGeM2c6R2UFz8SKnJ0WV) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Hourglass](https://open.spotify.com/album/2XYwu6Gzx44CvbVCdjhWGE) | 2:56 | 2025-12-12 |  |
 | [I Blew It!](https://open.spotify.com/track/4oCjAPvthe32TJH2gnEiYz) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [I Blew It!](https://open.spotify.com/album/1s9C8rJXcs5ddGa2BXhFls) | 3:11 | 2024-05-31 | 2024-08-23 |
 | [I Can't Go Back To Sleep](https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [I Can't Go Back To Sleep](https://open.spotify.com/album/7F52Qrxl2V5moUvEHf5hAc) | 4:38 | 2022-03-25 | 2022-06-30 |
 | [I for Little Things](https://open.spotify.com/track/5FPR2368qwMCNyA8hIV8cK) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:45 | 2024-11-22 | 2025-08-30 |

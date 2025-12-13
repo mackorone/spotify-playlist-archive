@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-336 songs - 19 hr 21 min
+338 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [I See You](https://open.spotify.com/track/5ELuNlN9ug1xAzk5ei3rp8) | [JeezJesus](https://open.spotify.com/artist/6nJMtDSZZ41lwEf3XG1Sit) | [I See You](https://open.spotify.com/album/5CzqsMvOiw7kI45rOxN4MH) | 3:18 | 2025-10-31 | 2025-12-10 |
 | [I Wanna Leave](https://open.spotify.com/track/7bME0upKK5b32DwGNE7kP7) | [Hana Piranha](https://open.spotify.com/artist/0duS5yd1MThbpAipiGOpcC) | [I Wanna Leave](https://open.spotify.com/album/6AUYweQsxrLaQ9KUJNWOMw) | 4:06 | 2025-12-04 |  |
 | [I Will Take You To Hell](https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:00 | 2025-12-10 |  |
+| [I'm so Stressed](https://open.spotify.com/track/0fhfihLeBe1EHIan5vUVxI) | [JeezJesus](https://open.spotify.com/artist/6nJMtDSZZ41lwEf3XG1Sit) | [Somewhere Between Love & Misery](https://open.spotify.com/album/0PZNlTvpn3WT3lL6df0vWy) | 3:26 | 2025-12-12 |  |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2025-11-14 | 2025-12-10 |
 | [III \. Crown of Salt and Flame](https://open.spotify.com/track/2dmF4qdYGlNTj7NqUOCWSW) | [MER](https://open.spotify.com/artist/7CvljdGrUIw9LLpCelscEN) | [The Way of the Rose](https://open.spotify.com/album/3JexvhBHllJq5Yne04ebXD) | 4:12 | 2025-11-06 | 2025-12-10 |
 | [Imissu](https://open.spotify.com/track/15CvBByDXbUN9AYtREvXoo) | [IllSaved](https://open.spotify.com/artist/6dj4UBb595l76a4xIjIVHQ) | [Imissu](https://open.spotify.com/album/1K3x52wGJowbJgD40LqJQI) | 2:54 | 2025-12-08 |  |
@@ -199,6 +200,7 @@
 | [Northern Exposure](https://open.spotify.com/track/5n317q7FbwiLzPv3V75g3c) | [High Wasted Genes](https://open.spotify.com/artist/2wEqBI8GfibxbVN6XRgMBC) | [Northern Exposure](https://open.spotify.com/album/5apcLtBbZJ8q89x0sTeRly) | 4:30 | 2025-10-27 | 2025-12-10 |
 | [Nothing To Say](https://open.spotify.com/track/31koy7libiolbDXN0ZQozQ) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:44 | 2025-08-03 |  |
 | [notwhatiexpected](https://open.spotify.com/track/2tGn18N8m9HsjUoGaFnMtk) | [SUNPRAYER](https://open.spotify.com/artist/2VjHiKZv3FNnnVCXL97e4s), [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [depresso espresso](https://open.spotify.com/album/27g0aGZYUMPb6H7kLM2a7x) | 2:55 | 2025-11-16 | 2025-12-10 |
+| [Novocaine](https://open.spotify.com/track/3aAsG5hK6ip6Kh2q5Z4ikT) | [Stereogarcia](https://open.spotify.com/artist/3QaSLsSItR9AYbjYA8ZQNt) | [The Broken Homeland Sons](https://open.spotify.com/album/5Qpq8vcWkqmAGBt5CPfinY) | 4:24 | 2025-12-12 |  |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-10 |  |
 | [On The Run](https://open.spotify.com/track/182G73eUtTppSaqS7X9Tv2) | [XXX Smut](https://open.spotify.com/artist/1eusvoPqnUbdL0nNgQ4hgv), [Todd Hogan](https://open.spotify.com/artist/11t6B3gdxHdRCS6kUHH7Mf) | [Fuck Milk Got Beer](https://open.spotify.com/album/4w00V58UjpWPN7WtByA5Ea) | 2:23 | 2025-11-29 |  |
 | [On Your Left](https://open.spotify.com/track/6Q6yfXDK0zeODwrQzotkPm) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:22 | 2025-08-03 |  |

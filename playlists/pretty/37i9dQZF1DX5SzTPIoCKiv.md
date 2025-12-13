@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Josiah Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,802 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,216 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 49 | [To Save My Life](https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation](https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q) | 3:20 |
 | 50 | [Saved By Love \- 2025 Remaster](https://open.spotify.com/track/4KVb2TJQjwsx1dHHvOaibY) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Journey](https://open.spotify.com/album/7Is1pUIU9tckbwfq5FXrZc) | 4:41 |
 
-Snapshot ID: `AAAAABce/cwAwJdN2nBXp9JNZVyH0Ru8`
+Snapshot ID: `AAAAAN/prSISAivmqC/mPXAE4MDsS//b`

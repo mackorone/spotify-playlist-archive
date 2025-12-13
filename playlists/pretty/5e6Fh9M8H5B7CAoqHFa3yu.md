@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,712 songs - 4 day 8 hr 2 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,716 songs - 4 day 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1720,5 +1720,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1710 | [Algo Contigo](https://open.spotify.com/track/4dio9a7xk81pZX1WZuOh0J) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Algo Contigo](https://open.spotify.com/album/2PmZzeSRdNacwv3UjeLEBa) | 2:50 |
 | 1711 | [Snowlight Flow](https://open.spotify.com/track/7nYW3ZTYXEum4WFemqwzny) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Snowlight Flow](https://open.spotify.com/album/6WLJt8scSsjWpotB18RLkG) | 2:53 |
 | 1712 | [Upwood Radio](https://open.spotify.com/track/1IeQdgV1Lf8MN5Z0ICZIPI) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Upwood Radio](https://open.spotify.com/album/1xjavmAznuIFkQZeE9mxXz) | 3:35 |
+| 1713 | [Verso il Mare è Natale](https://open.spotify.com/track/1NBWtqcysS0hOBZrgJLZAU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Verso il Mare è Natale](https://open.spotify.com/album/0x3trmflU8tn0O2WfAibmO) | 3:01 |
+| 1714 | [Y Grita](https://open.spotify.com/track/7bSY9NtCoYbCjHKy0unjEF) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Y Grita](https://open.spotify.com/album/6VsGcYvyC0v5zVfar45RcY) | 2:21 |
+| 1715 | [Diciembre](https://open.spotify.com/track/7HcTfuD0J46PbGGfeUHW0p) | [Samuel Calderón](https://open.spotify.com/artist/6VFOsXn6LfGB6MMdQzvs4l) | [Diciembre](https://open.spotify.com/album/5v8BbfUJ1ruR9vpEoKpV6S) | 3:09 |
+| 1716 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 |
 
-Snapshot ID: `AAAHiHKPZfpm1f63j6KXaKHnnmleCIOE`
+Snapshot ID: `AAAHjPaLwSefh7EGzGgCnXv+OEa0Ldni`

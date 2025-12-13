@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Fúria, Muse Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,140 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,137 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 43 | [Hiphop X Funk](https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS) | [Hiphop X Funk](https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8) | 2:29 |
 | 44 | [Santo de Casa](https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:22 |
 | 45 | [Vou Nessa](https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl) | [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Vou Nessa](https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq) | 3:46 |
-| 46 | [Tecnologia do Gueto](https://open.spotify.com/track/1dqocTcib7nOJqzYaPDsks) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf) | [Marketing de Favela](https://open.spotify.com/album/3rTtqp9GS8cNJUaM63TUk8) | 3:22 |
-| 47 | [CHAMPAGNE & BAUNILHA](https://open.spotify.com/track/1bxzOedscREbvW1fluFp1w) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [ISSO É AREN!](https://open.spotify.com/album/0piJA5RMDtb6hP527gOYRK) | 3:05 |
+| 46 | [CHAMPAGNE & BAUNILHA](https://open.spotify.com/track/1bxzOedscREbvW1fluFp1w) | [AREN](https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [ISSO É AREN!](https://open.spotify.com/album/0piJA5RMDtb6hP527gOYRK) | 3:05 |
+| 47 | [Tecnologia do Gueto](https://open.spotify.com/track/1dqocTcib7nOJqzYaPDsks) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf) | [Marketing de Favela](https://open.spotify.com/album/3rTtqp9GS8cNJUaM63TUk8) | 3:22 |
 | 48 | [PRE SSÃO](https://open.spotify.com/track/0Of8oYzJxw1oVNnNReoWJb) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [BaraNoBeat](https://open.spotify.com/artist/2t0RfNR4PYzK2NniyjiImN), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7) | [BÊNÇÃOS OU MALDIÇÕES](https://open.spotify.com/album/31BmAGV92vMcjD8hwvPBUo) | 2:21 |
 | 49 | [100Pena](https://open.spotify.com/track/403Prh7O2Lycea21emaQLC) | [EZE ODT](https://open.spotify.com/artist/3bblo79bAUwY3qKupiP3xf), [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [100Pena](https://open.spotify.com/album/2IsF0Ts1GViwoLSw8KxB8v) | 3:25 |
 | 50 | [Sensações](https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Sensações](https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a) | 2:46 |

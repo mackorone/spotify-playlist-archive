@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85684,
+  "num_followers": 85687,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "CRAZY (Party Remixes 1)",
-        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "CRAZY (Party Remixes 1)",
+        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 217307,
-      "name": "Wanna Be Loved",
-      "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Whatever She Wants",
         "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 188332,
-      "name": "XO (Only If You Say Yes)",
-      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
+      "duration_ms": 192751,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -783,22 +783,6 @@
       "duration_ms": 220393,
       "name": "In Between",
       "url": "https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192751,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -827,18 +811,18 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+        "name": "ROMANCE : UNTOLD",
+        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 198066,
-      "name": "I Am Not Okay",
-      "url": "https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6"
+      "duration_ms": 188332,
+      "name": "XO (Only If You Say Yes)",
+      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "KEEP UP // FROSTBITE",
-        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 133226,
-      "name": "KEEP UP",
-      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
+      "duration_ms": 198066,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -891,6 +875,22 @@
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
       "added_at": "2024-11-25 16:13:36",

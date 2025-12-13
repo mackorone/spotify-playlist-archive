@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-366 songs - 22 hr 19 min
+367 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 | 2023-11-09 |  |
 | [Cayetano Baila](https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 2:49 | 2024-10-17 | 2025-11-17 |
 | [Ceniza Fria](https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:01 | 2023-11-09 | 2024-04-19 |
-| [Ceniza Fría](https://open.spotify.com/track/3q15KHRykWDh4IzLuVj8sc) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Éxitos los Chiches Vallenatos](https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU) | 4:01 | 2023-12-20 |  |
+| [Ceniza Fría](https://open.spotify.com/track/3q15KHRykWDh4IzLuVj8sc) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Éxitos los Chiches Vallenatos](https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU) | 4:01 | 2023-12-20 | 2025-12-13 |
 | [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva, Vol\. 1](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 | 2023-12-20 | 2025-12-01 |
 | [Charanga Campesina](https://open.spotify.com/track/4BA2lQbc6Vn4RJHgGA2L7s) | [Calixto Ochoa y Su Conjunto](https://open.spotify.com/artist/1kgaDKoI7QF74We1cb2MB3) | [Joyas Corraleras, Vol\. 2](https://open.spotify.com/album/6Zda4UxMAzImw72uSWkSfc) | 2:41 | 2025-09-09 | 2025-10-04 |
 | [Chipi Chipi](https://open.spotify.com/track/0mKerpg4ZxmC8uLmD70JZ8) | [Victor Piñero](https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx) | [A Los 30 Años de Victor Piñero](https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G) | 2:31 | 2025-11-20 |  |
@@ -209,6 +209,7 @@
 | [Las Dos Camisas](https://open.spotify.com/track/5WBONPqKLcu4Mhd6qNyJ6M) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Al Que Le Gusta...Le Sabe](https://open.spotify.com/album/6rl4jrERozHBK1svCyNUyJ) | 4:05 | 2024-11-01 |  |
 | [Las Tapas](https://open.spotify.com/track/4cH62g06fG7WsLuxiyNaD7) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 3:46 | 2025-09-09 | 2025-10-04 |
 | [Limoncito Con Ron](https://open.spotify.com/track/1zuYAoErXNMglROSHkY50S) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [De Regreso \- Tropical y Original](https://open.spotify.com/album/16UOHeOPrpAQ9rwoY8hHFH) | 4:20 | 2024-09-01 | 2025-07-09 |
+| [Linda](https://open.spotify.com/track/7MLex61Szt77tNNnF4CRqE) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Linda](https://open.spotify.com/album/5iokP9D0XddoVfhjNMg7UK) | 2:58 | 2025-12-12 |  |
 | [Lloraras](https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [Traicionera \(Baile Total\)](https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH) | 3:42 | 2023-11-09 |  |
 | [Lloró Mi Corazón](https://open.spotify.com/track/309yPN4LyUkr1rHXQgfsAD) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 3:46 | 2025-09-09 | 2025-10-04 |
 | [Loco por Amor](https://open.spotify.com/track/1nO699U6HsTjHvYYX0Crh5) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Con el Triunfo en las Manos](https://open.spotify.com/album/2p1zJS35lacTNCUNKtYbNG) | 2:51 | 2023-02-03 | 2024-09-02 |

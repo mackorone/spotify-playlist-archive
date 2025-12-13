@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 554935,
+  "num_followers": 555034,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAuTOV3UpX5XYwUslndjk9T",
+  "snapshot_id": "aToJgAAAAAAja6DhXag8fSdb93rIcisV",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (World Tour Edition)",
-        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 233389,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Nothing",
         "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172867,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
-        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 230373,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/2sskPqYKNXCIgiu6vBPuYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 208053,
       "name": "Start The Healing",
       "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 230373,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/2sskPqYKNXCIgiu6vBPuYH"
     },
     {
       "added_at": null,

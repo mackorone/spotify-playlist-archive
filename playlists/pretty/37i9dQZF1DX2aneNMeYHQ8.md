@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Goldie Boutilier
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,215 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,180 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 78 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 79 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 80 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
-| 81 | [Mistakes](https://open.spotify.com/track/5Pdy7tkX4AjEEN9zlAlWUu) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Mistakes / Fairview Feeling](https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr) | 3:18 |
-| 82 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 |
-| 83 | [Everything I Wanted](https://open.spotify.com/track/0QoIbKcVeph4Kcxtr5RaJr) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/0iAjJKNZy9lzj5hkumY0U9) | 3:49 |
+| 81 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 |
+| 82 | [Everything I Wanted](https://open.spotify.com/track/0QoIbKcVeph4Kcxtr5RaJr) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/0iAjJKNZy9lzj5hkumY0U9) | 3:49 |
+| 83 | [Mistakes](https://open.spotify.com/track/5Pdy7tkX4AjEEN9zlAlWUu) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Mistakes / Fairview Feeling](https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr) | 3:18 |
 | 84 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 |
 | 85 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
 | 86 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 89 | [Rodeo Clown](https://open.spotify.com/track/1x1z2qHf13S4nD4ozEEH02) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Rodeo Clown](https://open.spotify.com/album/6YNY1oQOY3NjjKHvKM5wIm) | 3:21 |
 | 90 | [Violet](https://open.spotify.com/track/1ges2nnhkzi5rNTjsO4vze) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 3:41 |
 | 91 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
-| 92 | [Brand New](https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:31 |
-| 93 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 |
+| 92 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 |
+| 93 | [Brand New](https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:31 |
 | 94 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 95 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
 | 96 | [Scared](https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Scared](https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju) | 3:27 |
 | 97 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 |
-| 98 | [Old Tape \(feat\. Adam Granduciel\) \- Single Edit](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
-| 99 | [Delilah](https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 4:23 |
+| 98 | [Delilah](https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa) | 4:23 |
+| 99 | [Old Tape \(feat\. Adam Granduciel\) \- Single Edit](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
 | 100 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 |
 
 Snapshot ID: `AAAAAM/KXEOul58q66EUXYKTZQYKC21Q`

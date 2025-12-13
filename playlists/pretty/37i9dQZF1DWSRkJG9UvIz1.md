@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,808 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,794 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 34 | [Bossanova](https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Bossanova](https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh) | 3:21 |
 | 35 | [Nó](https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj) | [Dan Abranches](https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Flor de Laranjeira](https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl) | 3:30 |
 | 36 | [Quarta Feira](https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN) | [Quarta Feira](https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur) | 2:54 |
-| 37 | [SEM MALDADE](https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [SEM MALDADE](https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ) | 2:50 |
-| 38 | [Maris](https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E) | [JORGE](https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP) | [Maris](https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27) | 4:39 |
+| 37 | [Maris](https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E) | [JORGE](https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP) | [Maris](https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27) | 4:39 |
+| 38 | [SEM MALDADE](https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [SEM MALDADE](https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ) | 2:50 |
 | 39 | [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 |
 | 40 | [Ameixa](https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Fejuca](https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj) | [Ameixa](https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz) | 4:06 |
 | 41 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |

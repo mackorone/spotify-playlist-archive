@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,369 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,375 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 51 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
 | 52 | [Eu Tenho uma Promessa \- Ao Vivo](https://open.spotify.com/track/2M9yqk3MLhe1oYnWhxkOwY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Tenho uma Promessa \(Ao Vivo\)](https://open.spotify.com/album/4aqGlblyh993tK9y4juEa9) | 4:31 |
 | 53 | [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 |
-| 54 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
-| 55 | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG) | 5:04 |
+| 54 | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG) | 5:04 |
+| 55 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
 | 56 | [Santo \- Ao Vivo](https://open.spotify.com/track/0uXHdrHWe2bY686YKpVqF2) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/1RyOM2VBjuXp7PAwuhiMJS) | 9:39 |
 | 57 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
 | 58 | [Deus Proverá \- Ao Vivo](https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Proverá \(Ao Vivo\)](https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6) | 5:32 |

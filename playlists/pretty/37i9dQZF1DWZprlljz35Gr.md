@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,092 likes - 74 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,090 likes - 74 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 7 | [Illa Mind](https://open.spotify.com/track/0Ar5CznZQoRoST0WGIE2wK) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz), [Marvel Years](https://open.spotify.com/artist/6X2cD6Y4zRNwn8ZkYPHKe6) | [Never Not Blue](https://open.spotify.com/album/4tjfLoQBrwN7JoUOkqEpyH) | 3:10 |
 | 8 | [Fatboy](https://open.spotify.com/track/4AE3o0Zl933eTmA2FV0LPF) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 3:27 |
 | 9 | [Beauty Beats](https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m) | [Beats Antique](https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm) | [Collide](https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52) | 3:45 |
-| 10 | [Stand Together \- Original Mix](https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 4:15 |
+| 10 | [Stand Together](https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 4:15 |
 | 11 | [Tale of A.G\. Smith](https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o) | [Deja Booze](https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2) | 3:37 |
 | 12 | [Back Against The Wall](https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV) | [Euphoria](https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ) | [Precious Time](https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8) | 5:19 |
 | 13 | [A Blues Thang](https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv) | [Basement Freaks](https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ) | [Funk from the Trunk](https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl) | 3:23 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 45 | [FaiBless](https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:19 |
 | 46 | [Heavy On My Heart](https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf) | [Caiti Baker](https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P) | [Heavy On My Heart](https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf) | 3:30 |
 | 47 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 |
-| 48 | [This Is For Everyone \- Original Mix](https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 3:49 |
+| 48 | [This Is For Everyone](https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 3:49 |
 | 49 | [Sure Thing](https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:20 |
 | 50 | [Swamp Thang](https://open.spotify.com/track/4ONemlKmTMmNpuFecLr4r6) | [The Soul Of John Black](https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS) | [The Good Girl Blues](https://open.spotify.com/album/19oQwLtdfzcxPDu7U686QG) | 2:47 |
 | 51 | [Hard Times](https://open.spotify.com/track/59BxFbIj5255ABXtdIJq66) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Stone Cold Ohio](https://open.spotify.com/album/4S7HXl3wcX5K2QBgjj79ci) | 4:21 |

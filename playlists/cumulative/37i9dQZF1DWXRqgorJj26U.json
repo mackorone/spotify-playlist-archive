@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock legends & epic songs that continue to inspire generations. Cover: Ozzy Osbourne",
+  "description": "Rock legends & epic songs that continue to inspire generations. Cover: Pink Floyd",
   "name": "Rock Classics",
   "tracks": [
+    {
+      "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371413,
+      "name": "\"Heroes\" - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
     {
       "album": {
         "name": "Agents Of Fortune",
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 296200,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
@@ -2249,24 +2267,6 @@
     },
     {
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "date_added": "2022-01-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 259839,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/0K6yUnIKNsFtfIpTgGtcHm"
@@ -4330,7 +4330,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 168440,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/1Ly0ssAgeM7YqdHptao8Oe"
@@ -6645,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "Wish You Were Here 50",
+        "url": "https://open.spotify.com/album/3jlnaVYWc3QEqwCtdYCDS7"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338266,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3l9u6a1jn2naA3xYyT0WGe"
+    },
+    {
+      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
       },
@@ -6656,7 +6674,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 338466,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"

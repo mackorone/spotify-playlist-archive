@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Nusantara Beat",
+        "url": "https://open.spotify.com/album/2sbFG9DBvAaju0TcE3AHw9"
+      },
+      "artists": [
+        {
+          "name": "Nusantara Beat",
+          "url": "https://open.spotify.com/artist/6iQZl7RmTVznyFCrML933x"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333424,
+      "name": "Bakar",
+      "url": "https://open.spotify.com/track/0fj6jEifZnrIGWclN346Qh"
+    },
+    {
+      "album": {
         "name": "In Conclusion (Ben Gomori Edits)",
         "url": "https://open.spotify.com/album/6gw4pWgDD2gF2b5R80MYcD"
       },
@@ -7576,7 +7594,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 304333,
       "name": "Juicy Fruit",
       "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"

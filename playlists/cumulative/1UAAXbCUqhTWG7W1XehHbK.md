@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-141 songs - 8 hr 12 min
+143 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Kids \(RIP\)](https://open.spotify.com/track/2UUYPE6hks3x7B66zdKuCK) | [Orange Glow](https://open.spotify.com/artist/7LU23GRAcBWaPfLNg9H63d) | [Kids \(RIP\)](https://open.spotify.com/album/4H0jCJ3KDz1xEkXkaEFTg0) | 3:04 | 2025-11-14 |  |
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-11-19 |  |
 | [Landscrape](https://open.spotify.com/track/27OQnffoLFnBccU5uAtlOu) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Rummage](https://open.spotify.com/album/1dov4lqj9OLuBvIrRa9XMe) | 2:38 | 2025-10-02 |  |
+| [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 | 2025-12-12 |  |
 | [Longlist](https://open.spotify.com/track/1sW8K2lXzHIXH19gT1OToP) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Hometown](https://open.spotify.com/album/1D8nC9VavWlypXWsPomp0Z) | 4:31 | 2025-10-03 |  |
 | [Lost Treasure](https://open.spotify.com/track/4eEpb5RY5a7ShP6MysMpiY) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [Lost Treasure](https://open.spotify.com/album/0cVssofpvNMlCU8H0RYUbi) | 1:39 | 2025-12-06 |  |
 | [Love On The Brain](https://open.spotify.com/track/6YrIDvPwRNEf2CDsQxbMma) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV), [N Castillo](https://open.spotify.com/artist/1E7el4DK1FhfE6VIL07Bxa), [Lena Kurosaki](https://open.spotify.com/artist/55UCDOAn6DVoTRJhUUmoUK) | [Love On The Brain](https://open.spotify.com/album/1Fd7U1tzEhGhHJO74JTuRG) | 3:28 | 2025-10-09 |  |
@@ -123,6 +124,7 @@
 | [Super\-Heróis](https://open.spotify.com/track/6LDXpZyQXfT3YhQeDFuaSn) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heróis](https://open.spotify.com/album/1QLpxqo89sJiEJa0IEbEtx) | 3:19 | 2025-10-27 |  |
 | [Sweet](https://open.spotify.com/track/5vAGu3ICXxbTEK390kM0mQ) | [Larochelle](https://open.spotify.com/artist/16vZNpQon0yfpec96FdUVY) | [Deux II](https://open.spotify.com/album/3C9ScLyZdjp6OjWRMrix2R) | 3:36 | 2025-09-25 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-09-04 |  |
+| [Tangerine Dream](https://open.spotify.com/track/0JwjzbKBP6poHooDgqhlCZ) | [ALRIGHT](https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx) | [Tangerine Dream](https://open.spotify.com/album/51D2TTeRC7Slr7pAz6BbSc) | 2:27 | 2025-12-12 |  |
 | [Tant Pis Pour Toi](https://open.spotify.com/track/2oxvhILb15VnXzfDWdoNq9) | [Loussiné](https://open.spotify.com/artist/3zLxLK1oV8PCGYcwAF09Un) | [Tant Pis Pour Toi](https://open.spotify.com/album/4oRkPURAwCVEOcVINon90p) | 2:35 | 2025-09-17 |  |
 | [tears of gratitude](https://open.spotify.com/track/7AYR8wIPevYJw0G7omdYNc) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [moving forward!](https://open.spotify.com/album/2XlM5L9aWA82ghgUiCk1hw) | 5:13 | 2025-10-28 |  |
 | [The Ending](https://open.spotify.com/track/5DrBMJKB8t24QQtCGwaGDw) | [Clone](https://open.spotify.com/artist/6T85YbQ0phuSY1uw4Q4FyG) | [The Ending](https://open.spotify.com/album/1hSEioHb7AhPeLVRLwURKk) | 3:10 | 2025-09-05 |  |

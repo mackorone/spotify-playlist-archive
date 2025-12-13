@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 387538,
+  "num_followers": 387530,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Rey De Corazones",
+        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
+      },
+      "artists": [
+        {
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "El Maestro Con Sus 16 Exitos",
         "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 278106,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Rey De Corazones",
-        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
-      },
-      "artists": [
-        {
-          "name": "Manny Manuel",
-          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 302320,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Ultimate Merengue Party 2000",
         "url": "https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 281760,
       "name": "Morena Ven",
       "url": "https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 302320,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Manuel, Solo Y Con Los Sabrosos Del Merengue",
-        "url": "https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH"
-      },
-      "artists": [
-        {
-          "name": "Los Sabrosos Del Merengue",
-          "url": "https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW"
-        }
-      ],
-      "duration_ms": 286333,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 304693,
       "name": "Llego Tu Marido",
       "url": "https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Manuel, Solo Y Con Los Sabrosos Del Merengue",
+        "url": "https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH"
+      },
+      "artists": [
+        {
+          "name": "Los Sabrosos Del Merengue",
+          "url": "https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW"
+        }
+      ],
+      "duration_ms": 286333,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Canta Manny Manuel",
-        "url": "https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK"
-      },
-      "artists": [
-        {
-          "name": "Los Sabrosos Del Merengue",
-          "url": "https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW"
-        }
-      ],
-      "duration_ms": 287013,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Estelares De",
         "url": "https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 219600,
       "name": "La Fosforera",
       "url": "https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Canta Manny Manuel",
+        "url": "https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK"
+      },
+      "artists": [
+        {
+          "name": "Los Sabrosos Del Merengue",
+          "url": "https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW"
+        }
+      ],
+      "duration_ms": 287013,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1335,6 +1335,22 @@
       "duration_ms": 379053,
       "name": "Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon",
       "url": "https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Con Mucho Swing",
+        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 206602,
+      "name": "Te Odio y Te Quiero",
+      "url": "https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1995,18 +2011,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/6HoHMYmzsLU76TOqNJdfcf"
+        "name": "20 Aniversario, Vol. 2",
+        "url": "https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac"
       },
       "artists": [
         {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 235826,
-      "name": "Buscando Tus Besos",
-      "url": "https://open.spotify.com/track/0OONd4OG3OBVLGBfrsdmCp"
+      "duration_ms": 229840,
+      "name": "Mi Tonto Amor",
+      "url": "https://open.spotify.com/track/1cbKTag8YEQdIsP3yXuUjr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2059,22 +2075,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 Aniversario, Vol. 2",
-        "url": "https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Mi Tonto Amor",
-      "url": "https://open.spotify.com/track/1cbKTag8YEQdIsP3yXuUjr"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3"
       },
@@ -2091,6 +2091,22 @@
       "duration_ms": 261333,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 Aniversario, Vol. 2",
+        "url": "https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "Morena Ven",
+      "url": "https://open.spotify.com/track/4UFHihOI0xnuk7yG9ZnvAH"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2143,22 +2159,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 Aniversario, Vol. 2",
-        "url": "https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "Morena Ven",
-      "url": "https://open.spotify.com/track/4UFHihOI0xnuk7yG9ZnvAH"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "La Cartita",
         "url": "https://open.spotify.com/album/68mEpO3bp4lsLlC6auxCWD"
       },
@@ -2171,6 +2171,22 @@
       "duration_ms": 291735,
       "name": "Soy Dominicano",
       "url": "https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 267373,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2227,22 +2243,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 267373,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "America Sin Queja",
         "url": "https://open.spotify.com/album/1FmuFhJTU6xH7uqazo1mfG"
       },
@@ -2271,6 +2271,22 @@
       "duration_ms": 236146,
       "name": "Borron y Cuenta Nueva",
       "url": "https://open.spotify.com/track/1ZCorCTva79hxDM4v7BzHH"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 291506,
+      "name": "El Loco Y La Luna",
+      "url": "https://open.spotify.com/track/4CX2taCdwBYyhx8d7wYwaW"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2307,22 +2323,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 291506,
-      "name": "El Loco Y La Luna",
-      "url": "https://open.spotify.com/track/4CX2taCdwBYyhx8d7wYwaW"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "El Duro",
         "url": "https://open.spotify.com/album/4qxrLBXemtIN9pUphKSCfb"
       },
@@ -2351,6 +2351,22 @@
       "duration_ms": 220316,
       "name": "Alza Tu Copa",
       "url": "https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Todo Es Para Ti",
+      "url": "https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2387,22 +2403,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Todo Es Para Ti",
-      "url": "https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "El Gran Mayimbe",
         "url": "https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC"
       },
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Jard\u00edn Prohibido",
-        "url": "https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM"
+        "name": "Indetenibles",
+        "url": "https://open.spotify.com/album/3GZNzx7s4rnSySH0QEQsDL"
       },
       "artists": [
         {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 256173,
-      "name": "Noche de Fantasia",
-      "url": "https://open.spotify.com/track/7i9CXLMIX9jY4InTyEhYnL"
+      "duration_ms": 251720,
+      "name": "Cometa Blanca",
+      "url": "https://open.spotify.com/track/6pRGEhJG6X2rn1CDKvMAs3"
     }
   ],
   "unique_name": "Merengue Cl\u00e1sico",

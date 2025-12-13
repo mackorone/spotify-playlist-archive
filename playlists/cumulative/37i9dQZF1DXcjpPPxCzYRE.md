@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-464 songs - 1 day 2 hr 24 min
+465 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/3LChzqpjz7F8niPmwuJ6q3) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 2:43 | 2024-02-08 | 2024-02-16 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/4mKqiS1UBOZ6hGpUXokcsN) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 2:43 | 2024-02-08 | 2024-03-03 |
 | [Aqua](https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Aqua](https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm) | 2:33 | 2024-11-21 | 2024-12-24 |
-| [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 | 2024-06-21 |  |
+| [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 | 2024-06-21 | 2025-12-13 |
 | [Arrival of the Birds](https://open.spotify.com/track/0Gr2XQOIMaaUH86iOrWGur) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery of the Flamingos \(Original Soundtrack\)](https://open.spotify.com/album/1XkXmvhIZzIZDIg70zaLMW) | 2:37 | 2022-11-11 | 2024-04-19 |
 | [Arrival of the Birds](https://open.spotify.com/track/1xRCmlU2GyzGem2vw4glxK) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4) | [The Crimson Wing: Mystery Of The Flamingos](https://open.spotify.com/album/48zPKXSCFOdMlgTaeVQn5u) | 2:38 | 2024-04-11 |  |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2024-03-22 | 2024-04-12 |
@@ -220,6 +220,7 @@
 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 |  |
 | [La Espiral](https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 4:30 | 2025-10-03 |  |
 | [La Jarrita del Tiempo](https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [La Jarrita del Tiempo](https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd) | 4:01 | 2025-09-18 |  |
+| [La jugada maestra](https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A) | [Amateur](https://open.spotify.com/artist/0CD9lsggFxmq6NRO2EUiZ2) | [La jugada maestra](https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn) | 5:28 | 2025-12-04 |  |
 | [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 | 2025-01-03 | 2025-09-19 |
 | [La quiero a morir](https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g) | [Laura Durand](https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j) | [La quiero a morir](https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx) | 4:15 | 2025-09-18 |  |
 | [La torre](https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [La torre](https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm) | 1:42 | 2025-10-30 |  |

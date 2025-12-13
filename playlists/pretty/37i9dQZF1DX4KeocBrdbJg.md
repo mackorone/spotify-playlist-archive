@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > las mejores canciones del internet en 2025 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,150 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,102 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 18 | [OHNANA](https://open.spotify.com/track/482PEx8hfMHSsuGtHd960A) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:36 |
 | 19 | [Pelotero A La Bola](https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh), [Airam Paez](https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X) | [Pelotero A La Bola](https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6) | 2:36 |
 | 20 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 3:21 |
-| 21 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
-| 22 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
+| 21 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
+| 22 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 23 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
 | 24 | [PONTE LOKITA](https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [PONTE LOKITA](https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx) | 3:03 |
 | 25 | [CORA DE HIELO](https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q) | [CORA DE HIELO](https://open.spotify.com/album/2ktxw6j04fB9NmqOv5ck0z) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 49 | [TUTA](https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 2:01 |
 | 50 | [La Sin Sentimientos](https://open.spotify.com/track/2bHJApowIgaWMnohasLUvF) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [BLANKO](https://open.spotify.com/artist/2tsxhfhrjoqKy2okihHP0x) | [Ruido, El Silencio y Yo](https://open.spotify.com/album/5hdcFOmZmRSilC72c0g7wP) | 2:59 |
 
-Snapshot ID: `AAAAAEvOCnQbg4jnNbSzT5KCPPr+fH8j`
+Snapshot ID: `AAAAANcWGZBK+0mPWx1JXdCXtB/IdOZq`

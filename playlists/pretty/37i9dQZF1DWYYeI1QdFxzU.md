@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,483 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,470 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 40 | [Ry](https://open.spotify.com/track/01hyJrAHoH26GHSWzKLeXB) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 5:32 |
 | 41 | [Final Form \(feat\. Colouring\)](https://open.spotify.com/track/2XbxSzIr6aFndjmUykvzTW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Final Form \(feat\. Colouring\)](https://open.spotify.com/album/4WQUxUk5X5juYuMfVTAQV6) | 5:11 |
 | 42 | [+1](https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [+1](https://open.spotify.com/album/4FvSyKog587pT37wscO9L5) | 3:23 |
-| 43 | [Sorrow Stutter](https://open.spotify.com/track/0HL6bNzpulo1DRLmPGG6uV) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Sorrow Stutter](https://open.spotify.com/album/39RPb0ePvso317NSsRmoNX) | 2:50 |
-| 44 | [Do It For You](https://open.spotify.com/track/4ZxdIXCycwS16uEaO4Mlby) | [Moses Ideka](https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s), [phil](https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY) | [Do It For You](https://open.spotify.com/album/7pX0QNJsro8DaVrCBjVQHq) | 3:34 |
-| 45 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
-| 46 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 |
+| 43 | [Do It For You](https://open.spotify.com/track/4ZxdIXCycwS16uEaO4Mlby) | [Moses Ideka](https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s), [phil](https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY) | [Do It For You](https://open.spotify.com/album/7pX0QNJsro8DaVrCBjVQHq) | 3:34 |
+| 44 | [Sorrow Stutter](https://open.spotify.com/track/0HL6bNzpulo1DRLmPGG6uV) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Sorrow Stutter](https://open.spotify.com/album/39RPb0ePvso317NSsRmoNX) | 2:50 |
+| 45 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 |
+| 46 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 |
 | 47 | [One Last Time](https://open.spotify.com/track/4Oz7IIaDnrNXpzNWWSNt6W) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [One Last Time](https://open.spotify.com/album/55A6vOF7lOl0RghquUwmh2) | 3:51 |
 | 48 | [A Tune for Us](https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [A Tune for Us](https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27) | 5:53 |
 | 49 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 |

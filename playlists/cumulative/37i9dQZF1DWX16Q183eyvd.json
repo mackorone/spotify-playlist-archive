@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
+  "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Mega Ran",
   "name": "Hip-Hop & R&B for Kids",
   "tracks": [
     {
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 152728,
       "name": "Let's Go Outside!",
       "url": "https://open.spotify.com/track/60OVUOnq7n370eLiDY3agd"
@@ -3218,6 +3218,24 @@
       "duration_ms": 205893,
       "name": "Three Little Birds (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/4lWJMQSOJIWSodi3Oe6Few"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star (R&B Mix)",
+        "url": "https://open.spotify.com/album/5Q3Iil7zkkHuleuTAi5G18"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160281,
+      "name": "Twinkle Twinkle Little Star (R&B Mix)",
+      "url": "https://open.spotify.com/track/7N08aWRnOachynM7GX6nJj"
     },
     {
       "album": {

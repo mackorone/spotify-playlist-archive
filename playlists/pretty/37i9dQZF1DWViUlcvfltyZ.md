@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Naska in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,378 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,391 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 5 | [Eii](https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Eii](https://open.spotify.com/album/2DIUrFaBndxT7h1k8tfPAw) | 2:20 |
 | 6 | [GETCHA! \(with Nic Cester, Jet & Chad Smith\) \- prod\. Tom Morello](https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 3:02 |
 | 7 | [Torre Velasca](https://open.spotify.com/track/6mndwtQ1j1YZ4gbRmLEkQX) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [FIVE EGGS](https://open.spotify.com/album/6Pv0otbP9L0QWHxBvtBlpC) | 3:05 |
-| 8 | [Track 2](https://open.spotify.com/track/7mdSW1dFRCDJb4jokcZTdS) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Daniel J](https://open.spotify.com/track/7mdSW1dFRCDJb4jokcZTdS) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [404DEI \(Errore degli Dei\)](https://open.spotify.com/album/538nuDVXhyOoEEGNCVMdYu) | 3:30 |
 | 9 | [incredibly stupidly fighting myself](https://open.spotify.com/track/4hzbHQQfdHdXmxNJPMP6HW) | [CORE MATO](https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC) | [incredibly stupidly fighting myself](https://open.spotify.com/album/7z9CcUGhsuL6lUIq4a3xwz) | 2:33 |
 | 10 | [Tragedy](https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Tragedy](https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt) | 2:40 |
 | 11 | [Unica parte](https://open.spotify.com/track/2z1GP2wdIJxOXyigmjVvwo) | [Fitza](https://open.spotify.com/artist/55USAUiYquxBZIn1UJN0BM) | [Unica parte](https://open.spotify.com/album/70dTI4aZJFEjIliXicF5t2) | 3:52 |

@@ -1,32 +1,44 @@
 {
-  "description": "Chill r&b. Cover: Karri",
-  "num_followers": 2367839,
+  "description": "Chill r&b. Cover: Lekan",
+  "num_followers": 2367900,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADyc7u54y+8rd8TbUGsJaNz8+oyt",
+  "snapshot_id": "AAAAAIzfT2eeQWFx1EPpDNlfci6BkxUZ",
   "tracks": [
     {
-      "added_at": "2025-12-05 05:41:30",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "SLIDER II",
-        "url": "https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or"
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH"
       },
       "artists": [
         {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 249937,
-      "name": "is this love",
-      "url": "https://open.spotify.com/track/4qAp1newwblIcqcEBXbilL"
+      "duration_ms": 159130,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
+    },
+    {
+      "added_at": "2025-11-21 09:24:23",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
       "added_at": "2025-11-14 13:05:32",
@@ -43,6 +55,22 @@
       "duration_ms": 167965,
       "name": "By Now",
       "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2025-11-21 09:24:23",
@@ -63,22 +91,6 @@
       "duration_ms": 170013,
       "name": "Nights In The Sun (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
-    },
-    {
-      "added_at": "2025-11-21 09:24:23",
-      "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
       "added_at": "2025-10-10 08:45:03",
@@ -135,6 +147,26 @@
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2025-12-05 05:41:30",
+      "album": {
+        "name": "SLIDER II",
+        "url": "https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 249937,
+      "name": "is this love",
+      "url": "https://open.spotify.com/track/4qAp1newwblIcqcEBXbilL"
     },
     {
       "added_at": "2025-12-05 05:41:30",
@@ -205,20 +237,40 @@
       "url": "https://open.spotify.com/track/2lOgVpqPPfaK4I0ukHByzr"
     },
     {
-      "added_at": "2025-11-21 09:24:23",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px"
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/74q87qVm0cZ9jOiS1n4n3e"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir"
+      "duration_ms": 153636,
+      "name": "Cowboy/Cowgirl",
+      "url": "https://open.spotify.com/track/4CZyHieOIQceXQUB24M5tW"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 186716,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb"
     },
     {
       "added_at": "2025-07-18 04:51:03",
@@ -291,6 +343,26 @@
       "duration_ms": 182649,
       "name": "U Can\u2019t Remember - feat. Queen Naija",
       "url": "https://open.spotify.com/track/5sNoJlQmDaW1e3qSko6PzV"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Everybody Got Somebody",
+        "url": "https://open.spotify.com/album/3lJx06968UaIZU1u80Lq9u"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Death Do Us Part (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/5tot8CpUTFLoGDEhGRd8WN"
     },
     {
       "added_at": "2025-10-31 04:00:40",
@@ -371,6 +443,42 @@
       "duration_ms": 256615,
       "name": "Out The Window",
       "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "LYIN: Remix Pack",
+        "url": "https://open.spotify.com/album/3IxdYOCNd5sD1PsLzj8us4"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "LYIN (feat. TA Thomas)",
+      "url": "https://open.spotify.com/track/317VQsXiqvzQjUp9DDuIAh"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2025-10-17 04:47:43",
@@ -475,6 +583,22 @@
       "duration_ms": 211384,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/0hT4SkjlHOO5GjboDHaMkJ"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "The Burnout",
+        "url": "https://open.spotify.com/album/3d1OX2PYnY8npzYm7Y3Rhn"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 249462,
+      "name": "Become",
+      "url": "https://open.spotify.com/track/1H3B3MtjUbP5YTt0Jv0BDY"
     },
     {
       "added_at": "2025-11-21 09:24:23",
@@ -699,6 +823,22 @@
       "duration_ms": 275333,
       "name": "feels like love",
       "url": "https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO"
+    },
+    {
+      "added_at": "2025-11-21 09:24:23",
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir"
     },
     {
       "added_at": "2025-11-07 08:28:10",
@@ -1451,22 +1591,6 @@
       "duration_ms": 470500,
       "name": "Sins Of The Father (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4sR1YmFteF3r6axe0ms915"
-    },
-    {
-      "added_at": "2025-10-24 08:57:48",
-      "album": {
-        "name": "Cumulus / Memory",
-        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 407765,
-      "name": "Cumulus / Memory",
-      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
     },
     {
       "added_at": "2025-08-29 19:03:11",
@@ -2677,26 +2801,6 @@
       "url": "https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK"
     },
     {
-      "added_at": "2025-01-31 10:12:57",
-      "album": {
-        "name": "Waiting On You (feat. Tone Stith)",
-        "url": "https://open.spotify.com/album/1fuINvuJbtiNvH3N6oNYhr"
-      },
-      "artists": [
-        {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 150280,
-      "name": "Waiting On You (feat. Tone Stith)",
-      "url": "https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL"
-    },
-    {
       "added_at": "2025-08-29 19:03:11",
       "album": {
         "name": "DB",
@@ -3221,26 +3325,6 @@
       "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
     },
     {
-      "added_at": "2025-03-14 05:43:52",
-      "album": {
-        "name": "So Beautiful",
-        "url": "https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 227649,
-      "name": "So Beautiful",
-      "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
-    },
-    {
       "added_at": "2025-06-27 04:00:49",
       "album": {
         "name": "Serenity",
@@ -3303,26 +3387,6 @@
       "duration_ms": 224226,
       "name": "Halfway Love 2",
       "url": "https://open.spotify.com/track/5fR5ffcBxTSPL3ja5j2HTn"
-    },
-    {
-      "added_at": "2025-02-07 07:29:18",
-      "album": {
-        "name": "WONDERLOVE",
-        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        },
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        }
-      ],
-      "duration_ms": 257974,
-      "name": "MHMM (with RIMON)",
-      "url": "https://open.spotify.com/track/5MDbtupR6oy8loU6Njp8jf"
     },
     {
       "added_at": "2025-06-06 04:50:22",
@@ -4035,22 +4099,6 @@
       "duration_ms": 160476,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x"
-    },
-    {
-      "added_at": "2025-04-25 06:19:53",
-      "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/2UXiL0cLQUmjkXucZAzZy7"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/7jCqzvwMkTgQiA1Xt2crwn"
     },
     {
       "added_at": "2025-01-31 10:12:57",

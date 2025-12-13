@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Laci Kaye Booth
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,592 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,593 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 38 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
 | 39 | [to each their dot](https://open.spotify.com/track/11eKa0oyt1z0UxKCHm7X5k) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [to each their dot & This Morning I Am Born Again](https://open.spotify.com/album/6rK6Jcl92woyPMyECfN24L) | 3:06 |
 | 40 | [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 |
-| 41 | [Be Gentle With Me](https://open.spotify.com/track/4kvxVBDtSLM9xKvde5lpO8) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 2:34 |
-| 42 | [Poetic](https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Poetic](https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8) | 3:48 |
-| 43 | [Don't Ruin Flowers](https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Don't Ruin Flowers](https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN) | 3:04 |
-| 44 | [Break Up With Me](https://open.spotify.com/track/0ualOeipm7OUuUDHe7UUUC) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Break Up With Me](https://open.spotify.com/album/3c31zFKjajk8rpg9No0iuW) | 2:39 |
-| 45 | [Bolo Blues](https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Bolo Blues](https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn) | 2:30 |
+| 41 | [Don't Ruin Flowers](https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Don't Ruin Flowers](https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN) | 3:04 |
+| 42 | [Be Gentle With Me](https://open.spotify.com/track/4kvxVBDtSLM9xKvde5lpO8) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 2:34 |
+| 43 | [Bolo Blues](https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Bolo Blues](https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn) | 2:30 |
+| 44 | [Poetic](https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Poetic](https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8) | 3:48 |
+| 45 | [Break Up With Me](https://open.spotify.com/track/0ualOeipm7OUuUDHe7UUUC) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Break Up With Me](https://open.spotify.com/album/3c31zFKjajk8rpg9No0iuW) | 2:39 |
 | 46 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
 | 47 | [Misery Loves Company](https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:16 |
 | 48 | [Holy Ground](https://open.spotify.com/track/5wZNss9iqUHm8ZKt1IlIrO) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Holy Ground](https://open.spotify.com/album/61KllsNNfR7b6N4XyKDeBS) | 5:28 |

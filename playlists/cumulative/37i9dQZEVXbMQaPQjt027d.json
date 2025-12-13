@@ -3586,7 +3586,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 197539,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
@@ -4648,7 +4648,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 136666,
       "name": "hoeveel is genoeg?",
       "url": "https://open.spotify.com/track/6plH5W7vwtIfl2fA7U43Mx"
@@ -6345,6 +6345,28 @@
     },
     {
       "album": {
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "Lights On (feat. Ms Dynamite) - Single Mix",
+      "url": "https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw"
+    },
+    {
+      "album": {
         "name": "Links, Rechts, Voor, Achteren",
         "url": "https://open.spotify.com/album/00uujAN17QzDJlV60yJmRo"
       },
@@ -6632,10 +6654,28 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
+    },
+    {
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273010,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
     },
     {
       "album": {
@@ -6650,7 +6690,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 198386,
       "name": "Love Takes Miles",
       "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
@@ -8574,7 +8614,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -11480,7 +11520,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 238426,
       "name": "Vrij Zijn",
       "url": "https://open.spotify.com/track/193D3ISokx1YTkK8fW8rVi"
@@ -12290,7 +12330,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 191719,
       "name": "Wij zeggen Nee, Nee, Nee, tegen een AZC! - Hardcore Mix",
       "url": "https://open.spotify.com/track/1hPxhJSI15tAQWbJyocv85"
@@ -12801,6 +12841,24 @@
     },
     {
       "album": {
+        "name": "Swingen Als Een Kangeroe",
+        "url": "https://open.spotify.com/album/7ea5VLi3yT3l9AX8uJL19C"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Schipper",
+          "url": "https://open.spotify.com/artist/09XCwwPW3ldegs71mNP58k"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Zes Mooie Ballen",
+      "url": "https://open.spotify.com/track/16vkN4vYcnfOAiGg3je77D"
+    },
+    {
+      "album": {
         "name": "Zie De Maan Schijnt Door De Bomen",
         "url": "https://open.spotify.com/album/5Tmqel0Xs5toFGA5uW3Ikt"
       },
@@ -12926,7 +12984,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
@@ -12948,7 +13006,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

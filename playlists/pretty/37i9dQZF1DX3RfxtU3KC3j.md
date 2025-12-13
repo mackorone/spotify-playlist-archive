@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Pera x Rana Türkyılmaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,843 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,821 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sar](https://open.spotify.com/track/7aQOJQ2UjcpbVzFbtUpi31) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Sar](https://open.spotify.com/album/51A9DqO0EH2onh4Mvylbtl) | 3:23 |
 | 2 | [Denize Baktım](https://open.spotify.com/track/1LcEQyifLT6WLI4kdsdHwn) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j), [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Denize Baktım](https://open.spotify.com/album/0XUXiJPTtvE3LHjwI0axd5) | 4:24 |
 | 3 | [Nereye Böyle](https://open.spotify.com/track/2T4CP5cuBszzVSPBq1INKK) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Nereye Böyle](https://open.spotify.com/album/6MWv53wol1ZgPnQIJbCkav) | 3:11 |
-| 4 | [Eyvahlar Olsun](https://open.spotify.com/track/5tRX2KvG4P3vOmUGF72G4W) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [](https://open.spotify.com/album/null) | 2:56 |
+| 4 | [Eyvahlar Olsun](https://open.spotify.com/track/5tRX2KvG4P3vOmUGF72G4W) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 2:56 |
 | 5 | [Faydası Yok](https://open.spotify.com/track/0dZMdGV6f7sJgJMzduDa7N) | [Yakup](https://open.spotify.com/artist/2whj83JLtxpbUQXJPAcgMR) | [Faydası Yok](https://open.spotify.com/album/4Uj8Rwpa1DnQFbhxgrwc5U) | 4:59 |
 | 6 | [DUY BENİ](https://open.spotify.com/track/66y3M8tq4Z68Icj5AUxGXT) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [DUY BENİ](https://open.spotify.com/album/2UtJx2ShcVRUtXgu14rgtI) | 2:31 |
 | 7 | [ÖLEBİLİRİM](https://open.spotify.com/track/0laGInMWhmNMeegLyvPGJv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA), [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [ÖLEBİLİRİM](https://open.spotify.com/album/6ZCMo546GVlHvwaN87DAUN) | 3:15 |

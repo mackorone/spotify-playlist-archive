@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,439 likes - 99 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,437 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |
 | 2 | [Say Nothing](https://open.spotify.com/track/4XFitOZjhnQw66LVvd3EfW) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Say Nothing](https://open.spotify.com/album/3XkbLaT1UrPtCThjFE9FAX) | 3:08 |
 | 3 | [So High \- Busy P Remix](https://open.spotify.com/track/3mDeFLUpZAhmlH6NCEXkOK) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Busy P](https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV) | [So High \(Busy P Remix\)](https://open.spotify.com/album/6dP8ujYnirHG0KctJyi0Ce) | 5:08 |
 | 4 | [So What](https://open.spotify.com/track/4lbw4UTqmRfaloAXATTAlv) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [So What](https://open.spotify.com/album/0pQN6r0qDkx5Ldry2jZiD8) | 9:38 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 22 | [17](https://open.spotify.com/track/6FGRQe1cKxeSpqdnFl0sef) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [17](https://open.spotify.com/album/2rkp7BbzK6UDfm7GStvfpc) | 4:11 |
 | 23 | [Imperfect Circuit](https://open.spotify.com/track/4NbkQ2CViXL4orFuynWgV5) | [Jon Sable](https://open.spotify.com/artist/7fK4fTHz2dA1hlBe3ZhoRh) | [Imperfect Circuit](https://open.spotify.com/album/6qyn5YEeah0tVxZONoEyvL) | 5:52 |
 | 24 | [Special Kind Of Love](https://open.spotify.com/track/3mOjBsolw1gZMRYgyG37Rd) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5) | [Special Kind Of Love](https://open.spotify.com/album/408mv7nIdCRvpHILS33avO) | 3:35 |
-| 25 | [Track 2](https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [](https://open.spotify.com/album/null) | 0:00 |
+| 25 | [Don't Know Why](https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Give You My Luv EP](https://open.spotify.com/album/09YemHqZAksPmmdu0tbOpG) | 3:00 |
 | 26 | [Booting Up](https://open.spotify.com/track/4Khr7zjXwhCc7TGKeE7moo) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Booting Up](https://open.spotify.com/album/5NjLtHJlnd1PnPiV4nnxDr) | 5:55 |
 | 27 | [Can't Stand To Lose](https://open.spotify.com/track/1B9d8ZjvuP8606pNK2EhE6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/5JxGAWjebWYCnQwnT4DO11) | 4:52 |
 | 28 | [Three Dot](https://open.spotify.com/track/34j5OD6lAAO2LrwiMLTJXQ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Three Dot](https://open.spotify.com/album/1fpDxLGsE3DyWw641lVaMH) | 3:42 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 36 | [Hands Up](https://open.spotify.com/track/03YgRfPfmhYmyBsO7Krmjm) | [Save Me The Trouble](https://open.spotify.com/artist/3qRE812oXiyzvUZyo7csj7), [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T) | [NU SKIN](https://open.spotify.com/album/4yCQ2Xlehh6toBa3v6RgbQ) | 4:31 |
 | 37 | [Nobody \(Like You\)](https://open.spotify.com/track/2ua4P7zVjvyDp54hhGEALs) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao) | [The Music](https://open.spotify.com/album/3uzHlXHPBgf7qQaz5dOi7e) | 2:06 |
 | 38 | [思惟 \- Albino Sound Remix](https://open.spotify.com/track/7mQcODCpsWaCOO4wnkZhBm) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [Ryu NAKASHIMA](https://open.spotify.com/artist/4C1YIkrF9cfQ4KdH0zeT9G), [Albino Sound](https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0) | [Keep in Touch \- Sounds of Summer 2025 Remixes](https://open.spotify.com/album/7r0adXqc55qEh7TQrZzkik) | 4:36 |
-| 39 | [Cigarettes](https://open.spotify.com/track/2iOJRyb1WwNPNdiEwrM2bv) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [Isaiah Michael Davis](https://open.spotify.com/artist/68mJqoC3ozybysPjguTd7j) | [](https://open.spotify.com/album/null) | 3:27 |
+| 39 | [Cigarettes](https://open.spotify.com/track/2iOJRyb1WwNPNdiEwrM2bv) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [Isaiah Michael Davis](https://open.spotify.com/artist/68mJqoC3ozybysPjguTd7j) | [Swordfish](https://open.spotify.com/album/0WDJYBUOl1HGeGsIYspOp1) | 3:27 |
 | 40 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:51 |
 | 41 | [Can’t Stop \- KiNK Remix](https://open.spotify.com/track/55V8yyVFw9oMSy3nOQPTom) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Can’t Stop \(KiNK Remix\)](https://open.spotify.com/album/4nQKyGv9FxhpB6zsIKEOEC) | 4:52 |
 | 42 | [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 |

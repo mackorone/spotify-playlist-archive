@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-858 songs - 1 day 20 hr 27 min
+859 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-24 | 2025-01-22 |
 | [Arcade \(Spotify Singles\)](https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Arcade \(Spotify Singles\)](https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy) | 2:39 | 2025-05-29 | 2025-06-22 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-10 | 2025-01-22 |
-| [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 | 2025-11-27 |  |
+| [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 | 2025-11-27 | 2025-12-13 |
 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 | 2025-11-06 |  |
 | [Aura](https://open.spotify.com/track/6vDsO1Ug0fvFXtRETzBR5s) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Aura](https://open.spotify.com/album/21Xr4muAVzOvBUnjZxhUMZ) | 2:57 | 2025-06-05 | 2025-07-11 |
 | [Avalon](https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Avalon](https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE) | 2:16 | 2024-11-15 | 2025-02-25 |
@@ -612,6 +612,7 @@
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-21 | 2025-05-23 |
 | [Rick Ross Pt\. 2](https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Rick Ross Pt\. 2](https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE) | 2:18 | 2024-09-11 | 2024-10-07 |
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-24 | 2025-10-10 |
+| [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-11 |  |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 | 2025-04-11 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-07-01 | 2024-08-17 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-01 | 2024-07-27 |

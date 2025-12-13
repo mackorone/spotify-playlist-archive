@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ilusion Eterno en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ivan Cornejo en portada.
 
-549 songs - 1 day 6 hr 19 min
+550 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Esta Noche](https://open.spotify.com/track/6FJbKBPUiFVPC4e5S3uesc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Esta Noche](https://open.spotify.com/album/1uVGFC7Zio3Sc4UTfz4Y7Y) | 3:09 | 2022-04-11 | 2022-07-29 |
 | [Estas En Mi Pasado](https://open.spotify.com/track/62PeKIJQiist979Q2GBrFc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:55 | 2022-07-22 | 2023-01-14 |
 | [Este Sentimiento](https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Este Sentimiento](https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc) | 3:16 | 2023-01-13 | 2023-06-17 |
-| [Estoy Aqui](https://open.spotify.com/track/33tPQDN6hpQ2knusgbe0Jl) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Estoy aqui](https://open.spotify.com/album/2jml7yRfOtF5Mv1zfrxIaO) | 3:24 | 2025-10-24 |  |
+| [Estoy Aqui](https://open.spotify.com/track/33tPQDN6hpQ2knusgbe0Jl) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Estoy aqui](https://open.spotify.com/album/2jml7yRfOtF5Mv1zfrxIaO) | 3:24 | 2025-10-24 | 2025-12-13 |
 | [Estrella](https://open.spotify.com/track/0NCrz2B9J7MvKQmnbNTqV8) | [GueroX](https://open.spotify.com/artist/7woSBJR4DYUTwRl9cZEREo) | [Estrella](https://open.spotify.com/album/0igQZcl0TRHpYVu23XsKCs) | 3:28 | 2025-11-14 | 2025-12-06 |
 | [Estrella Fugaz](https://open.spotify.com/track/2FxON8ngyrUEfIuigYyS76) | [Doble Infame](https://open.spotify.com/artist/6wK8afTRnGKhlVuYsOLHM7), [Impacto SH](https://open.spotify.com/artist/0EeKTPKRCKZgSdYGQlyrZy) | [Estrella Fugaz](https://open.spotify.com/album/5iB0786XybYiVxYwOTa9h6) | 3:33 | 2023-03-03 | 2023-04-29 |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-11-22 |  |
@@ -521,6 +521,7 @@
 | [Van Gogh](https://open.spotify.com/track/3jJYaJNx3bEQgZysUYHVoI) | [Yahir Tarin](https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ) | [Van Gogh](https://open.spotify.com/album/6KkgZKhAaAQOmuXJa5i8PM) | 3:16 | 2025-06-06 | 2025-08-02 |
 | [Vas A Llorar](https://open.spotify.com/track/6lF45hzdxt6Z2hQf1zzyOl) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente](https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV) | 3:05 | 2025-01-10 | 2025-03-11 |
 | [Vas A Olvidarte](https://open.spotify.com/track/3owQ1hV6hn0sQmjRDFmyRe) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [772 </3](https://open.spotify.com/album/2P6TMN431iln4GxB1SlSo0) | 3:47 | 2023-06-02 | 2023-07-08 |
+| [ven a mi casa esta navidad](https://open.spotify.com/track/3ELI7WxrRSvTuzWnVuUT4H) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ven a mi casa esta navidad](https://open.spotify.com/album/3aAKIMnGWS3onBBquYKECS) | 3:16 | 2025-12-12 |  |
 | [Verbo](https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Verbo](https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp) | 2:48 | 2025-01-17 | 2025-05-10 |
 | [vete de una vez](https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [vete de una vez](https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2) | 3:40 | 2025-09-19 | 2025-10-18 |
 | [Volver Al Futuro](https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Volver Al Futuro](https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6) | 3:24 | 2024-05-31 | 2025-10-25 |

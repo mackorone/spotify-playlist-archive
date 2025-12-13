@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-802 songs - 1 day 16 hr 4 min
+803 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Lost](https://open.spotify.com/track/5hOe51orNiMhr6kDgJXFkf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [VIANI](https://open.spotify.com/artist/3qGToEQXzaFZGBZoCHqQN2) | [Lost](https://open.spotify.com/album/24P0Q4kK2uSvzWOIRu5oKD) | 2:52 | 2023-01-20 | 2023-04-28 |
 | [Lost](https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Lost](https://open.spotify.com/album/1LOfcHJVo5BMjcn0qQmRz7) | 2:37 | 2023-08-08 | 2024-01-25 |
 | [Lost In The Middle](https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Lost In The Middle](https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN) | 4:02 | 2023-05-19 | 2023-08-28 |
+| [Lost pt\. II](https://open.spotify.com/track/3jhJ6y8VdPP7foKdjW5QNA) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Lost pt\. II](https://open.spotify.com/album/7bBpRXwXfHeSNqDSsCUqQr) | 3:06 | 2025-12-12 |  |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 | 2023-04-28 |
 | [Love Letter](https://open.spotify.com/track/1HAFtDbZYkYoqDSmTdIGxt) | [m3gatron](https://open.spotify.com/artist/6dKmSxQAjW9bjedEGhsIzj) | [Love Letter](https://open.spotify.com/album/7ltRABgT2mNpJtQMG0uvZu) | 1:23 | 2025-03-07 |  |
 | [Love U](https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Keep](https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr) | 3:58 | 2024-01-16 | 2024-08-28 |

@@ -4,7 +4,7 @@
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-82 songs - 7 hr 2 min
+83 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 | 2022-05-25 |  |
 | [I Want My Baby Back](https://open.spotify.com/track/466Nltju0Om75oImtmEyR5) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:00 | 2022-05-25 |  |
 | [I'll Never See Heaven Again](https://open.spotify.com/track/6Tc8ylJyphdbGoZiW4OxQK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 4:45 | 2022-05-29 | 2024-05-26 |
+| [I'm Always Thinking About You](https://open.spotify.com/track/62vbkUH43O7M9fPMtyVbbq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [A Little More Magic](https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm) | 5:20 | 2025-12-13 |  |
 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 | 2022-05-25 |  |
 | [If You Know Like I Know](https://open.spotify.com/track/1tvX5f5hOIEQRbw4g08mt1) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:03 | 2022-05-25 | 2022-05-27 |
 | [In My Time](https://open.spotify.com/track/4IB3mrQpsbQiJ8tOId1rlm) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [BILL SCHNEE](https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 3:51 | 2022-05-25 |  |
@@ -73,7 +74,7 @@
 | [The More I Get, the More I Want](https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:24 | 2022-05-25 |  |
 | [The Whole Town's Laughing at Me](https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:27 | 2022-05-25 |  |
 | [This Is the Last Time](https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 6:28 | 2022-05-25 |  |
-| [This One's for You](https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [This One's For You](https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol) | 6:18 | 2022-05-25 |  |
+| [This One's for You](https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [This One's For You](https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol) | 6:18 | 2022-05-25 | 2025-12-13 |
 | [Through the Falling Rain \(Love Story\)](https://open.spotify.com/track/0iVUnf5EMHZRRsKUssVhE2) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 4:58 | 2022-05-25 |  |
 | [To Be Free to Be Who We Are \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 5:08 | 2022-05-25 |  |
 | [To Be True \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 4:39 | 2022-05-25 |  |

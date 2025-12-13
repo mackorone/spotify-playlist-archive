@@ -4,7 +4,7 @@
 
 > Prome, 22simba e Flaco G in cover della playlist con il futuro del rap italiano 📈
 
-2,179 songs - 3 day 20 hr 13 min
+2,181 songs - 3 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [AMERICA LATINA](https://open.spotify.com/track/13y76NfspTHFqkRHrpCT9T) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [AMERICA LATINA](https://open.spotify.com/album/3oEWPhDzR4ekbxLLAsjqKN) | 2:18 | 2025-05-22 | 2025-06-20 |
 | [AMERICANO](https://open.spotify.com/track/7xLX65sZLad3qrbUrWQpZU) | [BOYKA](https://open.spotify.com/artist/5hyCOPb9QIcCpZb3KJ5Glu) | [AMERICANO](https://open.spotify.com/album/2n2JoNZ17FSNLU3p8JG2jV) | 2:23 | 2024-04-03 | 2024-04-12 |
 | [AMG](https://open.spotify.com/track/3vXCF2W05QjzgIcRfmuGdq) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [AMG](https://open.spotify.com/album/253q9ai7SJzI4JxMAKtTN6) | 2:29 | 2023-06-29 | 2024-01-12 |
+| [Amica sopra al tavolo \(feat\. Abby 6ix\)](https://open.spotify.com/track/4UMe5hRNllMSVnmy7XMWAw) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Amica sopra al tavolo \(feat\. Abby 6ix\)](https://open.spotify.com/album/2TFqQcA8VvUQwU8zMwWu9h) | 2:49 | 2025-12-12 |  |
 | [Amigo \(feat\. Néza\)](https://open.spotify.com/track/3noL2g1plR2OC4fSk4Wu5m) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Ninho De La Calle](https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB) | 2:11 | 2024-02-29 | 2024-05-03 |
 | [Ammunition](https://open.spotify.com/track/3DcrKNoscDYe5NBQXpcuTY) | [Datkid](https://open.spotify.com/artist/0mrS7wImQSucxAJWj22pe2) | [Ammunition](https://open.spotify.com/album/0iqtV9gbf9frYVXHPINDIb) | 2:33 | 2025-12-04 |  |
 | [AMMÒ](https://open.spotify.com/track/00GgIQHKgPpplvmVKGQtpN) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [AMMÒ](https://open.spotify.com/album/6X5CMh0Bs3EJRTfvDqkvFI) | 2:35 | 2023-12-14 | 2024-01-05 |
@@ -1070,7 +1071,7 @@
 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 | 2023-04-20 | 2023-07-07 |
 | [LIBERTÉ](https://open.spotify.com/track/5u4NUZyZvf6arLqD9Jafqq) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [LIBERTÉ](https://open.spotify.com/album/6ZhsNjSYYUnurNdUDtjObS) | 2:30 | 2024-04-18 | 2024-05-16 |
 | [lipgloss](https://open.spotify.com/track/43J1dnrDwNWDGfXBZhnfYb) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [lipgloss](https://open.spotify.com/album/04bo4aK6Isi0l0RfG4TqaG) | 2:12 | 2022-07-14 | 2022-07-22 |
-| [LIPGLOSS](https://open.spotify.com/track/3s9XbAdYehEKUvt8uAmJlM) | [Jasmin407](https://open.spotify.com/artist/028PeMF9C0Ycn6wJRd1P7F) | [LIPGLOSS](https://open.spotify.com/album/69BK4CLkHBZim36AA6JKxk) | 1:12 | 2025-12-11 |  |
+| [LIPGLOSS](https://open.spotify.com/track/3s9XbAdYehEKUvt8uAmJlM) | [Jasmin407](https://open.spotify.com/artist/028PeMF9C0Ycn6wJRd1P7F) | [LIPGLOSS](https://open.spotify.com/album/69BK4CLkHBZim36AA6JKxk) | 2:11 | 2025-12-11 |  |
 | [Lit](https://open.spotify.com/track/1p3rGzmahJE7aA32Eyvfw8) | [Lil Manzi](https://open.spotify.com/artist/0c3nNEzSsJIRjBsLhujxaH) | [Lit](https://open.spotify.com/album/3TAg7d1RuFSqeWwKQt3dL8) | 1:52 | 2022-10-13 | 2022-11-08 |
 | [Lo Faccio Lo Stesso](https://open.spotify.com/track/3CBjMT0NwzW9e8NkBR1EUt) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Lo Faccio Lo Stesso](https://open.spotify.com/album/3HCzc4jRvGBvAUNLILsUu7) | 1:45 | 2023-11-16 | 2023-11-28 |
 | [Lo Stesso](https://open.spotify.com/track/2A0EUXa2zHTa1Q8FiQyGHg) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Lo Stesso](https://open.spotify.com/album/44zfpYsiEhviYMwOPo3lXN) | 2:41 | 2024-07-26 | 2024-10-11 |
@@ -1404,6 +1405,7 @@
 | [NOTTI FREDDE](https://open.spotify.com/track/0FW9UnyHsySQEU2lei3K1q) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [NOTTI FREDDE](https://open.spotify.com/album/6tI528644uJc7vshtOzN9E) | 2:50 | 2025-10-02 | 2025-10-31 |
 | [NU DRIPP](https://open.spotify.com/track/6N15A2vFeoJeaUJRpk3QPT) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [NU DRIPP](https://open.spotify.com/album/2syalLOEGttlEPnBcHary3) | 1:09 | 2025-06-05 | 2025-06-25 |
 | [Nueva Obsesión \(160\)](https://open.spotify.com/track/0h3RNZ9dUAVrlqxJpDSdxs) | [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [Nueva Obsesión \(160\)](https://open.spotify.com/album/6WBkDIDZxkIOo3juYr9zKT) | 3:03 | 2023-07-13 | 2023-07-21 |
+| [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 | 2025-12-12 |  |
 | [NUMERO 10](https://open.spotify.com/track/0D2aNZZMJ0EbBcxVzPzTXl) | [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [NUMERO 10](https://open.spotify.com/album/6tBFWliuA5s3QVRNQM2wfF) | 2:05 | 2023-07-03 | 2023-08-04 |
 | [Nun Spartì a Furtun](https://open.spotify.com/track/6qEflsLNK1PGsfOWNbfbVB) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ) | [Nun Spartì a Furtun](https://open.spotify.com/album/5wZRgkUPSZ0iXD8YxZCVHd) | 3:05 | 2024-10-02 | 2024-10-25 |
 | [Nuova era](https://open.spotify.com/track/4bjcPwz8RJIxapApBK2fTx) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Nuova era](https://open.spotify.com/album/7aP13AigzST5tDroNYRsyL) | 2:11 | 2023-01-26 | 2023-02-24 |

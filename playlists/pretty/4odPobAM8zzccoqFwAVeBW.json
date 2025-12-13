@@ -6,8 +6,160 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABJ2WVwzmUP9C/f7OgHltUHlr+ulU1g",
+  "snapshot_id": "AABJ7hLU5VCOEPPLOJYPyfaazJGCbgOA",
   "tracks": [
+    {
+      "added_at": "2025-12-12 08:42:47",
+      "album": {
+        "name": "Choreography",
+        "url": "https://open.spotify.com/album/3ZJ06BUPjdSkPR0om12qFg"
+      },
+      "artists": [
+        {
+          "name": "abentis",
+          "url": "https://open.spotify.com/artist/5RL9kiDO5CPzSw1xdTkzt0"
+        }
+      ],
+      "duration_ms": 390500,
+      "name": "Choreography",
+      "url": "https://open.spotify.com/track/49PjPoYEOp7FVNhlkttKi4"
+    },
+    {
+      "added_at": "2025-12-12 08:44:15",
+      "album": {
+        "name": "UNDER THE WATER",
+        "url": "https://open.spotify.com/album/4adzg5QYNcOYVKjN9MLGdu"
+      },
+      "artists": [
+        {
+          "name": "Blush Puppy",
+          "url": "https://open.spotify.com/artist/1629PB7RC2q35b9H3mkMAr"
+        }
+      ],
+      "duration_ms": 188467,
+      "name": "UNDER THE WATER",
+      "url": "https://open.spotify.com/track/234LECnSssPAn1UNGp6w0y"
+    },
+    {
+      "added_at": "2025-12-12 08:43:08",
+      "album": {
+        "name": "Chaos and Order",
+        "url": "https://open.spotify.com/album/7BGyUlYUd3mmnZkeP24qS0"
+      },
+      "artists": [
+        {
+          "name": "B E N N",
+          "url": "https://open.spotify.com/artist/5mdL6HD58VA7I20wk6qNWp"
+        },
+        {
+          "name": "Ying",
+          "url": "https://open.spotify.com/artist/7zuM412QimQ9xPmv8ZOYXf"
+        }
+      ],
+      "duration_ms": 197297,
+      "name": "Chaos and Order",
+      "url": "https://open.spotify.com/track/2CfjhDjtGcie3DuteAQOP0"
+    },
+    {
+      "added_at": "2025-12-12 08:43:45",
+      "album": {
+        "name": "This Din",
+        "url": "https://open.spotify.com/album/39gL54KfgO1dqulTSTiKKP"
+      },
+      "artists": [
+        {
+          "name": "Luxury Apartments",
+          "url": "https://open.spotify.com/artist/1gviuaKGrudlFwnpsvXqPd"
+        }
+      ],
+      "duration_ms": 110923,
+      "name": "This Din",
+      "url": "https://open.spotify.com/track/5dH4JExfpa6ifzv9Cf45uF"
+    },
+    {
+      "added_at": "2025-12-12 08:46:27",
+      "album": {
+        "name": "Tar",
+        "url": "https://open.spotify.com/album/6b3Zc7hyJ1CxIENQHREujv"
+      },
+      "artists": [
+        {
+          "name": "Nourishment",
+          "url": "https://open.spotify.com/artist/50yKAYaU0fwsHb5hgZFdbe"
+        }
+      ],
+      "duration_ms": 204776,
+      "name": "Morbid Exaltation",
+      "url": "https://open.spotify.com/track/6hZRCetFsSytt4kwDQCJjO"
+    },
+    {
+      "added_at": "2025-12-12 08:46:11",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/4jXZ0cQJd6fwx9l51Fu69E"
+      },
+      "artists": [
+        {
+          "name": "Total Revolt Of All Limbs",
+          "url": "https://open.spotify.com/artist/7KQmvV539SnNcZmSJxIHXB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/19ZmlpBYackLysrolsBFF5"
+    },
+    {
+      "added_at": "2025-12-12 08:42:35",
+      "album": {
+        "name": "DRIVE-THRU/pharmacy",
+        "url": "https://open.spotify.com/album/4RWZnrkBJc65DgHV5b2Vij"
+      },
+      "artists": [
+        {
+          "name": "DoorHead",
+          "url": "https://open.spotify.com/artist/7exrbRcxYpQ4P6wgIwGztI"
+        }
+      ],
+      "duration_ms": 296742,
+      "name": "o69r",
+      "url": "https://open.spotify.com/track/3Syc0KZUtg8od4Bz47n2w3"
+    },
+    {
+      "added_at": "2025-12-12 08:44:00",
+      "album": {
+        "name": "Alchemy (Maximum Joy Mix)",
+        "url": "https://open.spotify.com/album/2DAytlAY6iZVA2ugLX7qxg"
+      },
+      "artists": [
+        {
+          "name": "Janine Rainforth",
+          "url": "https://open.spotify.com/artist/2XcF0nhy3zPf7zUrJRQ9rn"
+        },
+        {
+          "name": "Maximum Joy",
+          "url": "https://open.spotify.com/artist/4nJZjFnTJ5BkZwYe7ZGhUG"
+        }
+      ],
+      "duration_ms": 292258,
+      "name": "Alchemy - Maximum Joy Mix",
+      "url": "https://open.spotify.com/track/47t8odCDGFih0pCuQU08Xp"
+    },
+    {
+      "added_at": "2025-12-12 08:46:53",
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/2aWvKVuxjuQtHsZn477eAz"
+      },
+      "artists": [
+        {
+          "name": "Disemboweler",
+          "url": "https://open.spotify.com/artist/3QxV1mbw3a0pG26kL2i8r6"
+        }
+      ],
+      "duration_ms": 101376,
+      "name": "CORDON SANITAIRE",
+      "url": "https://open.spotify.com/track/3P7qq6UXQX80HqkhJ3146M"
+    },
     {
       "added_at": "2025-12-04 20:44:44",
       "album": {
@@ -231,22 +383,6 @@
       "duration_ms": 239432,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/1hCjlLe22hXXDKGgbdZ8Sf"
-    },
-    {
-      "added_at": "2025-12-04 20:44:24",
-      "album": {
-        "name": "Theme From Oblivion",
-        "url": "https://open.spotify.com/album/479tQk4Ssz9rZ5w9cK357b"
-      },
-      "artists": [
-        {
-          "name": "UKofA",
-          "url": "https://open.spotify.com/artist/1IKEC9aCZrGCt1wJJ3zsO2"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Theme from Oblivion",
-      "url": "https://open.spotify.com/track/6uQj8t3jh9MGgyOBtp5LwA"
     },
     {
       "added_at": "2025-12-04 20:45:14",
@@ -847,86 +983,6 @@
       "duration_ms": 178926,
       "name": "Kiss The Ring",
       "url": "https://open.spotify.com/track/6r9Ftnu15QjG7nKntrbcar"
-    },
-    {
-      "added_at": "2025-11-24 09:23:58",
-      "album": {
-        "name": "Rugby Team/Red Horizons",
-        "url": "https://open.spotify.com/album/7dBtalwFpUATo0KGD5XTHr"
-      },
-      "artists": [
-        {
-          "name": "Robo",
-          "url": "https://open.spotify.com/artist/3U041FxU4RcB1Bo1EsGYLX"
-        }
-      ],
-      "duration_ms": 192959,
-      "name": "Rugby Team",
-      "url": "https://open.spotify.com/track/0gSIKnKhnN9dV6Kk1Wi0Ef"
-    },
-    {
-      "added_at": "2025-11-24 09:25:18",
-      "album": {
-        "name": "For A Little Bit",
-        "url": "https://open.spotify.com/album/1ETDEyvNWRHYgoHVkXVazz"
-      },
-      "artists": [
-        {
-          "name": "Cass & George",
-          "url": "https://open.spotify.com/artist/2S7kmyN13aYysqQUgupRob"
-        }
-      ],
-      "duration_ms": 225591,
-      "name": "For A Little Bit",
-      "url": "https://open.spotify.com/track/5OqrHyAF56FucAUObxVWHr"
-    },
-    {
-      "added_at": "2025-11-24 09:25:49",
-      "album": {
-        "name": "Einstein on the Beach",
-        "url": "https://open.spotify.com/album/4ZmWtDKfiVUYm2NyCWigf5"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Ictus",
-          "url": "https://open.spotify.com/artist/4TPBEoa4FARrw4o8S9b2nJ"
-        },
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        },
-        {
-          "name": "Collegium Vocale Gent",
-          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
-        },
-        {
-          "name": "Tom De Cock",
-          "url": "https://open.spotify.com/artist/0GEcSEtjSofmLAScFXyqS9"
-        }
-      ],
-      "duration_ms": 1213241,
-      "name": "Einstein on the Beach: Night Train",
-      "url": "https://open.spotify.com/track/1ZVUzAq0DCGxdDoTXQA2wF"
-    },
-    {
-      "added_at": "2025-11-24 09:26:14",
-      "album": {
-        "name": "Egregious Defilement",
-        "url": "https://open.spotify.com/album/3sbcIx4xkMcRYNCJXZIu5j"
-      },
-      "artists": [
-        {
-          "name": "Decrepit Altar",
-          "url": "https://open.spotify.com/artist/76BxlJYEGx8QRRrl9c3OfP"
-        }
-      ],
-      "duration_ms": 501565,
-      "name": "The Festering Depths",
-      "url": "https://open.spotify.com/track/0AbnMs8PAKzRTDuEW0ofQt"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

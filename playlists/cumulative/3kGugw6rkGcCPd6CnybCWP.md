@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-87 songs - 4 hr 53 min
+90 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Bacardi Love.](https://open.spotify.com/track/6P8S17uPnnLSEf2XPtDPbJ) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Bacardi Love.](https://open.spotify.com/album/4qK19G4ytKA2L8MYT6u2JQ) | 1:53 | 2025-11-07 |  |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 |  |
 | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/album/3WPYj0X3qC3jPwzyr3jekD) | 4:15 | 2025-10-17 | 2025-12-12 |
+| [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-12 |  |
 | [Chapiteau](https://open.spotify.com/track/06e4iSfNG6XVts53EnG91O) | [Neona](https://open.spotify.com/artist/3VE3HoeJRsX7NetnHwDSlp) | [Chapiteau](https://open.spotify.com/album/2o4zfUINIDlrpyMzk2d1Lm) | 2:17 | 2025-11-01 |  |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-09 |  |
 | [Coca Cola](https://open.spotify.com/track/3SZmF1bX0bCw5U0rKZHq8P) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Coca Cola](https://open.spotify.com/album/6N7sdx1gFiQvvzuFdVmyMl) | 3:30 | 2025-10-30 | 2025-12-12 |
@@ -22,6 +23,7 @@
 | [Days, Years & Months](https://open.spotify.com/track/45nZXh0QNDfot6DifudLZe) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Days, Years & Months](https://open.spotify.com/album/1U63ykUIU3haPpDKQtNvZB) | 5:19 | 2025-10-27 | 2025-12-02 |
 | [Dead in a Ditch \(Reloaded\)](https://open.spotify.com/track/3wjMvlboeH5EQofd0XNfWL) | [Tiny Banshee](https://open.spotify.com/artist/4TjpNiCPSovZ6SSIYrQeoN) | [Small\. Loud\. and Haunted.](https://open.spotify.com/album/5NTWQ6aTCeWkG7OzNiU2gb) | 2:23 | 2025-11-01 |  |
 | [Demons Move In Shadows](https://open.spotify.com/track/4zqdjaBlB7Ob2bo1MiAPXu) | [Numsig](https://open.spotify.com/artist/1Ws1YsRvDtL3gqKgrbY0Ju) | [Demons Move In Shadows](https://open.spotify.com/album/4E41VvlBG39lwOv13sCdPw) | 3:01 | 2025-10-24 | 2025-12-02 |
+| [Different Way Home](https://open.spotify.com/track/6eGTAZZz8DC0ZXDpK0ub87) | [The Casbahs](https://open.spotify.com/artist/41Op3ON8O72S14pbBEJ6bd) | [Different Way Home](https://open.spotify.com/album/6yZz5dt5wZDrdE4QtXsqy0) | 3:21 | 2025-12-12 |  |
 | [Don't Be The Victim](https://open.spotify.com/track/3GfM3bTP0qnoD43WPBBeqD) | [Elli Hart](https://open.spotify.com/artist/6TeYsug4ZJPQF4FdFm2Cc0) | [Don't Be The Victim](https://open.spotify.com/album/7JDzrgzkJcP4O53rugLCCZ) | 3:44 | 2025-11-09 |  |
 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 | 2025-12-02 |  |
 | [Don't Look Down](https://open.spotify.com/track/2rChoCLrXcHGrLW5l4lya6) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Don't Look Down](https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH) | 3:42 | 2025-11-21 |  |
@@ -65,6 +67,7 @@
 | [Phone Addiction](https://open.spotify.com/track/20lqNTuwAQPf2IQMBi4KYa) | [The Nouveau](https://open.spotify.com/artist/1ltzwAbvKdW4KhvTHmEvf4) | [Phone Addiction](https://open.spotify.com/album/7AMN0yf800pU8eMbC7NMmf) | 2:30 | 2025-11-13 |  |
 | [Polaroid](https://open.spotify.com/track/6EDdWIIOStvysXHsMSpIUb) | [The Dogwood](https://open.spotify.com/artist/4tTo9dVmw8bT7GFAzRNxPv) | [The Dogwood](https://open.spotify.com/album/3irhwWwqeNRizO3LaoRoWB) | 3:08 | 2025-10-24 | 2025-12-02 |
 | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/track/7AzxTnwsUBw23TfOKpGk71) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/album/3oEjpwbZUee3pVdJ6CG7yh) | 3:35 | 2025-11-02 |  |
+| [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 |  |
 | [Satellite](https://open.spotify.com/track/0DubPnJ1rX0O1dIBiAihPZ) | [Cold Equations](https://open.spotify.com/artist/2axEJPob8hT3XbjX72Npii) | [Satellite](https://open.spotify.com/album/6yjxqvOUnOQRiIpi4MtEHN) | 4:11 | 2025-10-27 | 2025-12-02 |
 | [SATISFIED](https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg) | [Mike Manos](https://open.spotify.com/artist/6pdy7rMEZXFowM5Z2gu6yA) | [SATISFIED](https://open.spotify.com/album/4wl2aolRxxD08ItnHxsovn) | 2:59 | 2025-10-30 | 2025-12-12 |
 | [Serene](https://open.spotify.com/track/2n3tPMnCBMR7d1uZxrUtqT) | [Redam](https://open.spotify.com/artist/0KfO6Tzsb8sOkQ84khWyrd) | [Serene](https://open.spotify.com/album/4HyhWK0yZzMSiL1d0GNSfQ) | 3:23 | 2025-11-11 |  |

@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 156400,
       "name": "Allow It",
       "url": "https://open.spotify.com/track/4b6cxtbIeT6OwZSZkWUYuQ"
@@ -2124,6 +2124,32 @@
       "duration_ms": 147000,
       "name": "another round",
       "url": "https://open.spotify.com/track/1s5IADCwuIRFqMJXEMvb9d"
+    },
+    {
+      "album": {
+        "name": "Another Shade Of Blue",
+        "url": "https://open.spotify.com/album/1FX1sSCbNPFPFocQaMWcfJ"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        },
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116896,
+      "name": "Another Shade Of Blue",
+      "url": "https://open.spotify.com/track/1YsyucUIxAIfZ26703ho1I"
     },
     {
       "album": {
@@ -11704,7 +11730,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 71316,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/5iPB9VskHHAsEcpOf4dpxw"
@@ -13728,7 +13754,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 99300,
       "name": "Fishizens",
       "url": "https://open.spotify.com/track/56YpXPDyWRzgElEKvTGTif"
@@ -25034,7 +25060,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 116470,
       "name": "midnight blossom",
       "url": "https://open.spotify.com/track/5XqoHXuFbGXB5Cc1A7tyuU"
@@ -25812,6 +25838,24 @@
       "duration_ms": 157714,
       "name": "Moonlight Kite",
       "url": "https://open.spotify.com/track/0s1qfJj2RT5O5FKXYWpcKu"
+    },
+    {
+      "album": {
+        "name": "Moonlit Amble",
+        "url": "https://open.spotify.com/album/5nE535uLbfyapfrSEqDIst"
+      },
+      "artists": [
+        {
+          "name": "Osian Lewis",
+          "url": "https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135640,
+      "name": "Moonlit Amble",
+      "url": "https://open.spotify.com/track/3outpCyCXNCdvLd77QrOZr"
     },
     {
       "album": {
@@ -41107,6 +41151,24 @@
     },
     {
       "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/7Mo9ehcANJfdoWZWFtIh7V"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135882,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/31KifM78wjPdCgy5a00YgZ"
+    },
+    {
+      "album": {
         "name": "To The Fullest",
         "url": "https://open.spotify.com/album/2ILrvIq9Jwf6RU8ntqOqFM"
       },
@@ -44456,6 +44518,28 @@
       "duration_ms": 123023,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/5ILbhqsO5WuftyYmETBlCv"
+    },
+    {
+      "album": {
+        "name": "whispers in blue",
+        "url": "https://open.spotify.com/album/58Nz2l1XiEPjctCvC4r6EQ"
+      },
+      "artists": [
+        {
+          "name": "swiftly",
+          "url": "https://open.spotify.com/artist/6cfk21YEPJx5qIv6PSaEa7"
+        },
+        {
+          "name": "drowsy",
+          "url": "https://open.spotify.com/artist/0GlXvaYL6TY3zsZPQBk9sd"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105945,
+      "name": "whispers in blue",
+      "url": "https://open.spotify.com/track/3O4vbTa8XoHthsVVFv4vYf"
     },
     {
       "album": {

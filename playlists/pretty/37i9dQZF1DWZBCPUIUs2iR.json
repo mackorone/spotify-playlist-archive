@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 776490,
+  "num_followers": 776574,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "As Good As I Once Was",
-      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
-    },
-    {
-      "added_at": "2025-11-03 22:12:33",
-      "album": {
         "name": "A Lot About Livin' (And A Little 'Bout Love)",
         "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 148160,
       "name": "Chattahoochee",
       "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
+    },
+    {
+      "added_at": "2025-11-03 22:12:33",
+      "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "As Good As I Once Was",
+      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
       "added_at": "2025-11-03 22:12:33",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-11-03 22:12:33",
       "album": {
-        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "High Cotton",
-      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
-    },
-    {
-      "added_at": "2025-11-03 22:12:33",
-      "album": {
         "name": "No Holdin' Back",
         "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 235920,
       "name": "It's Just a Matter of Time",
       "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+    },
+    {
+      "added_at": "2025-11-03 22:12:33",
+      "album": {
+        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "High Cotton",
+      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
     },
     {
       "added_at": "2025-11-03 22:12:33",

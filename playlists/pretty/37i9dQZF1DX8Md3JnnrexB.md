@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,106 likes - 87 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,112 likes - 87 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 14 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 |
 | 15 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
 | 16 | [Until You Come Back To Me \- Acoustic Version](https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Soul Organic \(20th Anniversary Edition\)](https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI) | 3:08 |
-| 17 | [A Warm Summer Night](https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 6:04 |
-| 18 | [When She Was My Girl](https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Tonight](https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i) | 3:26 |
+| 17 | [When She Was My Girl](https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Tonight](https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i) | 3:26 |
+| 18 | [A Warm Summer Night](https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 6:04 |
 | 19 | [A Woman Needs Love \(Just Like You Do\)](https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 4:09 |
 | 20 | [Ever Changing Times \(feat\. Michael McDonald\)](https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Jewels In The Crown](https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi) | 5:10 |
 | 21 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |

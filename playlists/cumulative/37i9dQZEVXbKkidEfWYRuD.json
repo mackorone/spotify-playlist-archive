@@ -32753,6 +32753,32 @@
     },
     {
       "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0440\u0430\u0437",
+        "url": "https://open.spotify.com/album/6uRgI9h0LfMvx4lNU4z2C0"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        },
+        {
+          "name": "Balsam",
+          "url": "https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0440\u0430\u0437",
+      "url": "https://open.spotify.com/track/0gdPLFJwig0jLsCHO7339e"
+    },
+    {
+      "album": {
         "name": "\u0411\u043b\u0438\u0436\u0435 Part2",
         "url": "https://open.spotify.com/album/01uAUykKCf6D42apWGMxhk"
       },
@@ -33660,7 +33686,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -37322,7 +37348,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 185739,
       "name": "\u0422\u044c\u043e\u0442\u044f",
       "url": "https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF"
@@ -38298,7 +38324,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 163000,
       "name": "\u0425\u0442\u043e \u044f\u043a\u0449\u043e \u043d\u0435 \u043c\u0438",
       "url": "https://open.spotify.com/track/191XHBxla6n4hyz7x3NssJ"

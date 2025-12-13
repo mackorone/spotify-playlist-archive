@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-182 songs - 8 hr 58 min
+184 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2023-08-07 |  |
 | [Not Getting Better](https://open.spotify.com/track/0l1w6Ukv7YBrkgcppMcseq) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Not Getting Better](https://open.spotify.com/album/02Fi5JDPyEl2LzZByBaFj4) | 3:15 | 2025-08-29 |  |
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2024-02-23 |  |
+| [novacane](https://open.spotify.com/track/2Mwxsd8Ig18YTEgfKCEUZq) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [novacane](https://open.spotify.com/album/4bxbwWyRr6WRwLi9RYHSSl) | 2:18 | 2025-12-12 |  |
 | [Oh So Sorry Pt\. 2](https://open.spotify.com/track/6oOnw6lWk4BAcboVGJnaLm) | [PVLN](https://open.spotify.com/artist/7uCAdx7vj3t6T1ZSq25WIa), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Oh So Sorry Pt\. 2](https://open.spotify.com/album/2cmHAjAYDMgfjYuelT3Pgg) | 2:34 | 2025-02-21 | 2025-03-29 |
 | [Over You](https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Over You](https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4) | 2:50 | 2024-03-29 |  |
 | [OVERDOSE](https://open.spotify.com/track/1l01kuUEldP5Kyyvojimcz) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH) | [OVERDOSE](https://open.spotify.com/album/3YSXz5KuYL23igFminEAKL) | 1:38 | 2024-04-26 |  |
@@ -179,6 +180,7 @@
 | [U GIRL](https://open.spotify.com/track/2znuxY5ZpfJaOP3xMKkg2s) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu) | [U GIRL / WHEN U WRONG](https://open.spotify.com/album/01ZqXsoZ8oiB3lYUzURfxt) | 2:25 | 2024-02-23 |  |
 | [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 | 2025-08-08 | 2025-08-23 |
 | [Unblock Me](https://open.spotify.com/track/6ZT674Cs5Q9xYBHXRnDrEU) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Unblock Me](https://open.spotify.com/album/3xSkCADlFm3G6ZkWZQt4hO) | 2:44 | 2024-02-23 |  |
+| [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used To Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 | 2025-12-12 |  |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2023-08-07 | 2023-11-05 |
 | [Walk Away](https://open.spotify.com/track/6mhMFztI38c0CZr8CEnPrD) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [Natsukashii](https://open.spotify.com/album/2OWpkUitUjxj93YBZZBrAt) | 2:00 | 2024-02-23 |  |
 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 | 2023-08-18 | 2025-11-08 |

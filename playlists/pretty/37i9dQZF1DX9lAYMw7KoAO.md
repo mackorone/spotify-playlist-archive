@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Editor's Picks: The Best of African Gospel in 2025   Cover: <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=Q9gh2cz5QxeZQAlr1WUPiw>Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,769 likes - 50 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,912 likes - 50 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Deep in Worship](https://open.spotify.com/track/0DQYWBK4RXTo25ZysyoP0h) | [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [Deep in Worship](https://open.spotify.com/album/70HahFhjvxf1xJPf6hyYRF) | 10:39 |
 | 50 | [OKE ORIMILI](https://open.spotify.com/track/6FWnclDFzD2OpVMLCw2JXF) | [Amb\. Sis\. Chinyere Udoma](https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6) | [OKE ORIMILI](https://open.spotify.com/album/1ufXY1xtxcxUiS02RCtKeS) | 8:08 |
 
-Snapshot ID: `AAAAAIm91CEyRstqaz5j1p7Khh2nIMQO`
+Snapshot ID: `AAAAALQxa9idnPZJ+KOQnX/Rkh0595PO`

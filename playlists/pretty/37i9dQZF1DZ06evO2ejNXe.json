@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1649,
+  "num_followers": 1650,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABGLn1z9e0SGAyjakAXEBeh",
+  "snapshot_id": "aToJgAAAAAAV3jKT91mBIzI8/vutoyt6",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 203426,
-      "name": "El Chango Lloron",
-      "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
+      "duration_ms": 204600,
+      "name": "Dale Biberon",
+      "url": "https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Dale Biberon",
-      "url": "https://open.spotify.com/track/4Ld6hcn4xMtetpzPEMD3Jt"
+      "duration_ms": 203426,
+      "name": "El Chango Lloron",
+      "url": "https://open.spotify.com/track/3wBuwyiOOn3SDWJASq4bHR"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK MAMBO",
-        "url": "https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 196125,
-      "name": "OK MAMBO",
-      "url": "https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 206933,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OK MAMBO",
+        "url": "https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 196125,
+      "name": "OK MAMBO",
+      "url": "https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 257266,
       "name": "El Reloj De Mi Corazon",
       "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Se Ha Dado Cuenta",
-        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Caliente",
         "url": "https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 177782,
       "name": "Cosa Caliente",
       "url": "https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Se Ha Dado Cuenta",
+        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
     },
     {
       "added_at": null,

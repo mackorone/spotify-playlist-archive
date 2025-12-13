@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 46042,
+  "num_followers": 46045,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
+        "name": "Le Canzoni La Nostra Storia",
+        "url": "https://open.spotify.com/album/1knxIimFXSLzDsvgXwE7VY"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/6ljOLXDHJ7zPFfxZzG9vUM"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
         "name": "Un'estate al mare / Bing bang being [Digital 45]",
         "url": "https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 138920,
       "name": "24 mila baci",
       "url": "https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
-        "name": "Le Canzoni La Nostra Storia",
-        "url": "https://open.spotify.com/album/1knxIimFXSLzDsvgXwE7VY"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/6ljOLXDHJ7zPFfxZzG9vUM"
     },
     {
       "added_at": "2025-05-02 09:12:30",

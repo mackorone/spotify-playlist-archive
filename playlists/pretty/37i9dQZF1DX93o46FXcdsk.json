@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 49041,
+  "num_followers": 49063,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -731,18 +731,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Verschil Moet Er Zijn",
-        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
+        "name": "Lange Nachten, Korte Dagen",
+        "url": "https://open.spotify.com/album/5zGatNPECcHQZyLwSLEFDN"
       },
       "artists": [
         {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        },
+        {
+          "name": "Eva De Roovere",
+          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Dansplaat",
-      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
+      "duration_ms": 223533,
+      "name": "Slaap Lekker (Fantastig Toch)",
+      "url": "https://open.spotify.com/track/0zVNMXvvuzVCHWAO4qU0rC"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -779,6 +783,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Verschil Moet Er Zijn",
+        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
+      },
+      "artists": [
+        {
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Totzoverder (Het Beste Van 3JS)",
         "url": "https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 208560,
       "name": "Watermensen",
       "url": "https://open.spotify.com/track/5i0GCe9HKoiKi8WbFZRTqi"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Lange Nachten, Korte Dagen",
-        "url": "https://open.spotify.com/album/5zGatNPECcHQZyLwSLEFDN"
-      },
-      "artists": [
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
-        },
-        {
-          "name": "Eva De Roovere",
-          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Slaap Lekker (Fantastig Toch)",
-      "url": "https://open.spotify.com/track/0zVNMXvvuzVCHWAO4qU0rC"
     },
     {
       "added_at": "2020-02-10 14:27:21",

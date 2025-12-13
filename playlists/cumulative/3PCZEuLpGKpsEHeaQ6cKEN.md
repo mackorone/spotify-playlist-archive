@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,671 songs - 3 day 16 hr 51 min
+1,672 songs - 3 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Forever \(Stay Like This\)](https://open.spotify.com/track/7pUtuvFh9SMtFozqwsPHnl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\)](https://open.spotify.com/album/1HyxYCoQk0T8iIHKE5fkEm) | 2:32 | 2024-01-11 | 2024-01-19 |
 | [Forever \(Stay Like This\) \- Club Mix](https://open.spotify.com/track/4aVn9tnx8amD8HG3gp40vb) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Forever \(Stay Like This\) \[Club Mix\]](https://open.spotify.com/album/1E2RjeM23UYiaVqCdnfHAN) | 2:52 | 2024-01-26 | 2024-08-31 |
 | [Forever \- Filatov & Karas Remix](https://open.spotify.com/track/4zkHtkJufGHzfnlfY5D9cU) | [Nash & Pepper](https://open.spotify.com/artist/3jmsH1gZKmD7P1NpqeLJbf), [Filatov & Karas](https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO) | [Forever \(Filatov & Karas Remix\)](https://open.spotify.com/album/3b96dSiIBj8OiKau5QuIYp) | 3:09 | 2022-07-21 | 2022-12-02 |
+| [Forever In My Mind](https://open.spotify.com/track/7LBAUl1tzn5B55m0kvccMT) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Forever In My Mind](https://open.spotify.com/album/5WBewKWRpmbRNIkZ92yafK) | 2:23 | 2025-12-12 |  |
 | [Forever Man \(How Many Times\) \- Les Bisous Remix](https://open.spotify.com/track/2ODtL972CFsy8RupnO4Jzx) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [Forever Man \(How Many Times\) \[Les Bisous Remix\]](https://open.spotify.com/album/78Mw8V3DKdda02gxaEoLtb) | 2:42 | 2023-12-07 | 2024-06-08 |
 | [Forever Young](https://open.spotify.com/track/0HhdZCm9q5Yp37EVSAkHrX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [roman](https://open.spotify.com/artist/0n8Tw6tFO2hKvVl4KdzOa6) | [Forever Young](https://open.spotify.com/album/6cyiGrbhJ4vxHfiU5wgdUw) | 2:47 | 2025-05-23 | 2025-05-30 |
 | [forever, for now \(feat\. riley biederer\)](https://open.spotify.com/track/3Lh4hk4TO9lKLV1uz1Ctd2) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [forever, for now \(feat\. riley biederer\)](https://open.spotify.com/album/7kXtJjpsQNnpPhgnD8Ky2l) | 2:38 | 2022-07-21 | 2022-11-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7853,
+  "num_followers": 7855,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABJOJna84fo5i5YuMGT/Du7",
+  "snapshot_id": "aToJgAAAAACuHqbQPm/Gs9RF07fJHfpB",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Holy",
-        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 267318,
-      "name": "Holy Holy",
-      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 184500,
       "name": "Ashewo",
       "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 267318,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
     },
     {
       "added_at": null,
@@ -580,13 +580,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "HI Idibia",
-          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 237740,
-      "name": "Oyi (feat. HI Idibia)",
-      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
+      "duration_ms": 225827,
+      "name": "We Must Groove (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUKU GOOGLE AM",
-        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "KUKU GOOGLE AM",
-      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unstoppable International",
         "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "HI Idibia",
+          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
         }
       ],
-      "duration_ms": 225827,
-      "name": "We Must Groove (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
+      "duration_ms": 237740,
+      "name": "Oyi (feat. HI Idibia)",
+      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salary 4 Life",
-        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 153027,
-      "name": "Salary 4 Life",
-      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oya Come Make We Go",
         "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 259773,
       "name": "Oya Come Make We Go",
       "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salary 4 Life",
+        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 153027,
+      "name": "Salary 4 Life",
+      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Realness Over Hype",
+        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
+      },
+      "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "See God",
+      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d"
       },
@@ -823,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realness Over Hype",
-        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
-      },
-      "artists": [
-        {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "See God",
-      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
         }
       ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
     },
     {
       "added_at": null,
@@ -875,30 +875,6 @@
       "duration_ms": 236564,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "The Kabal",
-          "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
-        }
-      ],
-      "duration_ms": 193939,
-      "name": "Disguise",
-      "url": "https://open.spotify.com/track/0x3l5qTKFn7vaL5VnjhgC1"
     },
     {
       "added_at": null,
@@ -927,6 +903,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "The Kabal",
+          "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
+        }
+      ],
+      "duration_ms": 193939,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/0x3l5qTKFn7vaL5VnjhgC1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
         }
       ],
-      "duration_ms": 296693,
-      "name": "U No Holy Pass",
-      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
       "added_at": null,
@@ -963,6 +963,30 @@
       "duration_ms": 210840,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 212498,
+      "name": "Abeg Abeg (feat. 2Baba & Timaya)",
+      "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
     },
     {
       "added_at": null,
@@ -991,30 +1015,6 @@
       "duration_ms": 154529,
       "name": "Mad Over Hills",
       "url": "https://open.spotify.com/track/3Q60LbnG9q7GvSZoz267FN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 212498,
-      "name": "Abeg Abeg (feat. 2Baba & Timaya)",
-      "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
     }
   ],
   "unique_name": "This Is 2Baba",

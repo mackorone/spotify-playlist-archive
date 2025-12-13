@@ -1,12 +1,12 @@
 {
   "description": "Las rom\u00e1nticas de hoy con las de siempre. Foto: Carla Morrison & Pablo Albor\u00e1n",
-  "num_followers": 1989594,
+  "num_followers": 1989477,
   "original_name": "Pop Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0VDyXLxS0CacGFU+8kcvXI4MAU",
+  "snapshot_id": "AAAAAPWJfnYRBGj8yfeQNRjcXJ6p3ZlP",
   "tracks": [
     {
       "added_at": "2025-12-05 05:00:17",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 192866,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Tanto (Edici\u00f3n Premium)",
-        "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 233895,
-      "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
-      "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Tanto (Edici\u00f3n Premium)",
+        "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 233895,
+      "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
+      "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
-      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 237440,
       "name": "En cambio no",
       "url": "https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "El Mismo Aire - con Pablo Albor\u00e1n",
+      "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Vamos a Darnos Tiempo",
-      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Drama Y Luz",
         "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 291866,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Vamos a Darnos Tiempo",
+      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Siempre En Mi Mente",
-        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 234320,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Siempre En Mi Mente",
+        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 288946,
       "name": "Yo Te Amo",
       "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Quiero Dormir Cansado",
+      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Desde Andalucia",
         "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 325466,
       "name": "Asi Fue",
       "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Lo Pasado Pasado",
-        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Lo Que No Fue No Ser\u00e1",
-      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "No Hay Imposibles",
         "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
@@ -1399,6 +1383,38 @@
       "duration_ms": 263666,
       "name": "Me Enamor\u00e9 de Ti",
       "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Las Mejores Baladas del Pop",
+        "url": "https://open.spotify.com/album/1lit3xZhA3MycWXFCqnWFR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5qRwSoEIzmNOo8XlSscM8y"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Lo Pasado Pasado",
+        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Las Mejores Baladas del Pop",
-        "url": "https://open.spotify.com/album/1lit3xZhA3MycWXFCqnWFR"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5qRwSoEIzmNOo8XlSscM8y"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Animal Nocturno",
         "url": "https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "El Privilegio De Amar",
-        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "El Privilegio De Amar",
-      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -1551,22 +1535,6 @@
       "duration_ms": 298293,
       "name": "Me Va a Extra\u00f1ar (Unchain My Heart)",
       "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1587,6 +1555,38 @@
       "duration_ms": 187358,
       "name": "Lejos de la Ciudad - con Camilo",
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "El Privilegio De Amar",
+        "url": "https://open.spotify.com/album/6Gz4ADhuPTy6CeyL52Ks2f"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "El Privilegio De Amar",
+      "url": "https://open.spotify.com/track/3NGG1do9lT815M5REcCzzm"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Dejame Llorar",
-      "url": "https://open.spotify.com/track/3dH0WIQ1noUsRvA4OtHSrl"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 223786,
       "name": "Te Fuiste de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0832pFK9N12P1B0nuaUb2Z"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Dejame Llorar",
+      "url": "https://open.spotify.com/track/3dH0WIQ1noUsRvA4OtHSrl"
     }
   ],
   "unique_name": "Pop Rom\u00e1ntico",

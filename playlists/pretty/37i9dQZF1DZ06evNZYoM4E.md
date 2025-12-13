@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,682 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,691 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 49 | [Buona Sera / Oh Marie \- Live](https://open.spotify.com/track/4TuIZQYLVAQMUorEEH0FOm) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [De Hazes 100](https://open.spotify.com/album/06eur57GeYWvei9L0hlduF) | 4:27 |
 | 50 | [Droomland \- Live](https://open.spotify.com/track/5lqvbixZHS30HYud97yhF6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 3:26 |
 
-Snapshot ID: `aTi4AAAAAABAvMGJ5v8nHpF93S3YpqMK`
+Snapshot ID: `aToJgAAAAAAn1jbl2w4+L4P9LsbdWnw3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > O Trap Mais Caro apresenta..\. O Melhor do Trap 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,569 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,632 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 49 | [Fodo Com As Modelo](https://open.spotify.com/track/5x7uB5325nUffxqi8sFbTe) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Rare Kidd](https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Bisqui](https://open.spotify.com/artist/2TLX5U1HoPlgzky1SstRWJ) | [NOVA ORDEM MIXTAPE](https://open.spotify.com/album/2fKKRlr8lS6ttFgoTKcYpo) | 4:13 |
 | 50 | [T BUM](https://open.spotify.com/track/1GwIdru4LQrMAVVflX7H1k) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [T BUM](https://open.spotify.com/album/0hE66nDoXCyqof92HyomEn) | 2:46 |
 
-Snapshot ID: `AAAAAD2i9dMqznwwAK1hcEy32DPfeVxM`
+Snapshot ID: `AAAAAN3Erg+/FcSi6tiXLq1gAh1kBvfm`

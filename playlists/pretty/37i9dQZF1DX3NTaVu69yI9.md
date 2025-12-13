@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NTaVu69yI9.md) - [plain]
 
 > 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,896 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,891 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NTaVu69yI9.md) - [plain]
 | 14 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 |
 | 15 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 16 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
-| 17 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
-| 18 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
+| 17 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
+| 18 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 19 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
 | 20 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 |
 | 21 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NTaVu69yI9.md) - [plain]
 | 72 | [Get With U](https://open.spotify.com/track/4JHCLFKkuvNMb67DYuAjUU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Get With U](https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI) | 1:58 |
 | 73 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 |
 | 74 | [Another Lifetime](https://open.spotify.com/track/48WTGGIeSFD5ZMF51Rm4Y9) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:29 |
-| 75 | [Butterfly](https://open.spotify.com/track/4qkVALwOxCIEZ7I5gkZ3m4) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Butterfly](https://open.spotify.com/album/4nTs6mHKBGIvSJTL1IXE5i) | 2:40 |
-| 76 | [weak when ur around](https://open.spotify.com/track/3UWkbO4emEOu9YUeOGq3vU) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 2:49 |
+| 75 | [weak when ur around](https://open.spotify.com/track/3UWkbO4emEOu9YUeOGq3vU) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dead](https://open.spotify.com/album/5cEJ9XTxsUKterwl1nAm2I) | 2:49 |
+| 76 | [Butterfly](https://open.spotify.com/track/4qkVALwOxCIEZ7I5gkZ3m4) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Butterfly](https://open.spotify.com/album/4nTs6mHKBGIvSJTL1IXE5i) | 2:40 |
 | 77 | [sangria](https://open.spotify.com/track/79tTcoeAq2Dt2qlH3CHm3m) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [sangria](https://open.spotify.com/album/471tZhJ4qENGSLxm3QCO3G) | 3:10 |
 | 78 | [Good Together](https://open.spotify.com/track/5a3MulSI25BDyBGg1Gsfpz) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/0aWcnOSntyOxzNCxBksLW6) | 3:48 |
 | 79 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:10 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NTaVu69yI9.md) - [plain]
 | 95 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 |
 | 96 | [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 |
 | 97 | [you're my world](https://open.spotify.com/track/7tjLhVohcthjLc72nXrWT2) | [atlas](https://open.spotify.com/artist/395RUhnuJcbFdgp6nYZsih) | [you're my world](https://open.spotify.com/album/0inAP4HjOoiNZw5A1gC2LU) | 2:37 |
-| 98 | [Always Been You](https://open.spotify.com/track/1kAbF9Ef1gwga8Wx9GgFJ2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 2:47 |
-| 99 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
+| 98 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
+| 99 | [Always Been You](https://open.spotify.com/track/1kAbF9Ef1gwga8Wx9GgFJ2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 2:47 |
 | 100 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
 
 Snapshot ID: `AAAAAFGnzzvSV88GPRlJBfIRFz26CACN`

@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-168 songs - 10 hr 52 min
+169 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,11 @@
 | [Alergica](https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:56 | 2023-02-17 |  |
 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 | 2023-02-17 |  |
 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 | 2023-02-17 | 2025-05-01 |
-| [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 | 2023-02-17 |  |
+| [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 | 2023-02-17 | 2025-12-13 |
 | [Angelitos](https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB) | [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl), [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0) | [Angelitos](https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF) | 2:23 | 2025-05-02 |  |
 | [Aspiradora](https://open.spotify.com/track/5pF1fRrOEv9pYSWNnb4ow1) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 5:01 | 2023-12-08 | 2024-01-13 |
 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 | 2023-02-17 | 2024-04-19 |
+| [Ay Mami! \(feat\. Pablo Rojas, DJ Acres\)](https://open.spotify.com/track/1Jn46nlw3HGA75rOVU1va1) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw), [Pablo Rojas](https://open.spotify.com/artist/2LTIaVNDpBXpl4OQzuhGCy), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ) | [Ay Mami! \(feat\. Pablo Rojas, DJ Acres\)](https://open.spotify.com/album/1CVN4hkTTwhPrRmpOi2sq5) | 2:13 | 2025-12-12 |  |
 | [Baba](https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA) | [Ekathé](https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Baba](https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN) | 3:55 | 2025-05-30 |  |
 | [Back to Life](https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD) | [Eco \(feat\. Funky Torinos\)](https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH) | 4:46 | 2023-02-17 |  |
 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 | 2023-02-17 | 2025-08-29 |

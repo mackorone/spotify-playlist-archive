@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-781 songs - 2 day 3 hr 39 min
+782 songs - 2 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Unlimited](https://open.spotify.com/track/3aQpI7roTQjQ4vPVxTZex2) | [Winter Amadin](https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [Unlimited](https://open.spotify.com/album/2W01P4GVXwonD30GbVK5JB) | 4:16 | 2025-10-03 | 2025-10-17 |
 | [Very Very Good God](https://open.spotify.com/track/02jGwsFU2OjT4PgGN6nAHf) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [Very Very Good God](https://open.spotify.com/album/0i7EG2XXGexq6fAL6Kd8wW) | 5:50 | 2025-08-29 | 2025-10-17 |
 | [Victory](https://open.spotify.com/track/4xcMv1iV07YxiEjRPUCHYz) | [Rudo Chakwera](https://open.spotify.com/artist/7sFPtEKL22dH7skEk2Zjt2), [Minister Michael Mahendere](https://open.spotify.com/artist/6v0zo3IWc6Tdfs1AievsNZ) | [Victory](https://open.spotify.com/album/5gxghaLdPLVS5jqgLnA4SH) | 4:11 | 2024-07-26 | 2025-02-28 |
+| [VICTORY PARADE](https://open.spotify.com/track/3MByijQAgmA5Hw9jrza9cf) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb) | [VICTORY PARADE](https://open.spotify.com/album/0moivP8CnSdu05d9pShi4y) | 2:51 | 2025-12-12 |  |
 | [Vyote Vyangu](https://open.spotify.com/track/34wSbg3s4fFm7ItUuc5KCn) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Vyote Vyangu](https://open.spotify.com/album/5SQ1UjFzy7DzRJ5J9UiHpT) | 3:06 | 2025-12-05 |  |
 | [W.O.W \(Walking On Water\) \- Reprise](https://open.spotify.com/track/1xpO4efGhPiVhXMdxGfV29) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [W.O.W \(Walking On Water\) \[Reprise\]](https://open.spotify.com/album/5ferhImBZxXX8CSe2f7Gf8) | 8:04 | 2023-09-29 | 2023-10-09 |
 | [Wabwino](https://open.spotify.com/track/2CnBRKSQmsH87eU0nZylci) | [Rudo Chakwera](https://open.spotify.com/artist/7sFPtEKL22dH7skEk2Zjt2), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [Wabwino](https://open.spotify.com/album/1qgfsNnYLjJRs6tQk5HjKL) | 3:39 | 2025-06-27 |  |

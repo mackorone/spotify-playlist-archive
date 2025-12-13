@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,601 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,670 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 50 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 51 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
 | 52 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
-| 53 | [Becoming the Bull](https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD) | 3:42 |
-| 54 | [Mouths Like Sidewinder Missles](https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:44 |
+| 53 | [Mouths Like Sidewinder Missles](https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:44 |
+| 54 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
 | 55 | [Boiled Frogs](https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:57 |
-| 56 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
+| 56 | [Becoming the Bull](https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD) | 3:42 |
 | 57 | [I'm Not A Thief, I'm A Treasure Hunter](https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A) | [A Skylit Drive](https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9) | [Wires...And The Concept Of Breathing](https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd) | 3:18 |
 | 58 | [Ambrosia](https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [On Frail Wings Of Vanity And Wax](https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa) | 3:05 |
 | 59 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 86 | [In the Belly of a Shark](https://open.spotify.com/track/0khj70h8pejNRukEhOn86O) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves \(new version\)](https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx) | 2:41 |
 | 87 | [Counting 5\-4\-3\-2\-1](https://open.spotify.com/track/33xbEG22XelcyasHEq6mfw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:19 |
 | 88 | [House of Cards](https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [From Them, Through Us, To You](https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f) | 3:36 |
-| 89 | [Surrender Your Sons](https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:40 |
-| 90 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
+| 89 | [The Party Song](https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [I'm Only A Man](https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq) | 3:31 |
+| 90 | [Surrender Your Sons](https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [The Anti Mother](https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4) | 4:40 |
 | 91 | [Ink](https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:35 |
 | 92 | [Medicating](https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw) | [Boys Night Out](https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ) | [Trainwreck](https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P) | 4:00 |
 | 93 | [Escape Artists Never Die](https://open.spotify.com/track/34RIandjffS6fEMitjZnvF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:17 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAclcqu0Aeu5em2KFaKrJ+v",
+  "snapshot_id": "aToJgAAAAABH9M4bW5z72PEHBSf41J8n",
   "tracks": [
     {
       "added_at": null,
@@ -490,11 +490,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 144746,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
+      "duration_ms": 254333,
+      "name": "The Last Poets",
+      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
     },
     {
       "added_at": null,
@@ -570,15 +574,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 254333,
-      "name": "The Last Poets",
-      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
+      "duration_ms": 144746,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambrosia",
-        "url": "https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj"
-      },
-      "artists": [
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
-        },
-        {
-          "name": "King Kay",
-          "url": "https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Perfect Peace",
-      "url": "https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What's A Diamond To A Baby - The Remixes Vol. 1",
         "url": "https://open.spotify.com/album/6dP1NZlwdwdzrfnlkNlrTv"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 254000,
       "name": "Uh Huh Okay (Remix)",
       "url": "https://open.spotify.com/track/5haqYf5lnZ8urUL7riUe2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambrosia",
+        "url": "https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj"
+      },
+      "artists": [
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        },
+        {
+          "name": "King Kay",
+          "url": "https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg"
     },
     {
       "added_at": null,

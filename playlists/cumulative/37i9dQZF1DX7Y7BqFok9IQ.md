@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-384 songs - 1 day 0 hr 55 min
+385 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Can't Go Back](https://open.spotify.com/track/1UakN2FvjlCtktr5C7eKTU) | [Eric Steckel](https://open.spotify.com/artist/1Nszrfn8SpD5v19xCpaVbk) | [Polyphonic Prayer](https://open.spotify.com/album/1UDIrNUj89EZLk6sxDMQEo) | 4:55 | 2020-10-16 | 2025-10-25 |
 | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/track/2Q7MG9T0kCEEJmDpaKP4be) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Chris Robertson](https://open.spotify.com/artist/1GdMYXxQLiGQCdZZd153HL) | [Catch Me If You Can \(feat\. Chris Robertson\)](https://open.spotify.com/album/52SxUXwHjJNNBLvSlmbBjC) | 3:32 | 2021-07-16 | 2024-03-09 |
 | [Cause We've Ended as Lovers](https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 5:42 | 2024-05-24 | 2024-07-06 |
+| [Chevrolet](https://open.spotify.com/track/4VAKEOsaRTSeI2SNa9bEeN) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Chevrolet](https://open.spotify.com/album/4iNDYhHxLAUWyit4oRHMum) | 2:52 | 2025-12-12 |  |
 | [Chevrolet](https://open.spotify.com/track/4icURV4pUCDz0C3T5n4fzk) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Chevrolet](https://open.spotify.com/album/50AUhOEi0tTqeVGBuW9VMh) | 2:29 | 2022-05-20 | 2022-06-11 |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 | 2021-03-05 |  |
 | [Come Around](https://open.spotify.com/track/3D5VPTHeG5pvXm8uFILonz) | [The Retrograde](https://open.spotify.com/artist/6R2UeI1q0BcAu70RDbrJ6c) | [That's The Spirit!](https://open.spotify.com/album/2ew22HhN2j6LN8MoxUqxkG) | 2:59 | 2024-06-21 |  |
@@ -149,7 +150,7 @@
 | [Hippies On Acid](https://open.spotify.com/track/4IdcUbuVe9VN6lnFJqCeIk) | [7Horse](https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr) | [The Last Resort](https://open.spotify.com/album/0ihKlGpDF5aXScqrJu7zUZ) | 3:45 | 2022-07-15 | 2024-04-19 |
 | [Hold On](https://open.spotify.com/track/5nGFMlY6LFLZqDHVvp9V0C) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Hold On](https://open.spotify.com/album/6E373gXnC4nkguSCezMOBy) | 3:46 | 2023-10-20 | 2024-03-09 |
 | [Hold on It](https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Hold on It](https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r) | 4:11 | 2020-10-16 |  |
-| [Hole In Your Soul](https://open.spotify.com/track/5s1cN2AJDr3QnHzwvRHh5b) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Hole In Your Soul](https://open.spotify.com/album/7wJnNE79u2gUD5zEFuAWqs) | 6:28 | 2024-10-25 |  |
+| [Hole In Your Soul](https://open.spotify.com/track/5s1cN2AJDr3QnHzwvRHh5b) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Hole In Your Soul](https://open.spotify.com/album/7wJnNE79u2gUD5zEFuAWqs) | 6:28 | 2024-10-25 | 2025-12-13 |
 | [Holy Fire](https://open.spotify.com/track/57h5BBMhju3L84Vruq34oX) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [The Lucky Strokes](https://open.spotify.com/album/4S5JMPHzFFEPql78r26qux) | 3:55 | 2023-10-13 |  |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-10-16 | 2023-03-05 |
 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 | 2020-10-16 | 2023-04-26 |

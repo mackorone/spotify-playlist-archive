@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,663 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,673 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 19 | [Blink Twice](https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Blink Twice](https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx) | 2:33 |
 | 20 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
 | 21 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 |
-| 22 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 |
-| 23 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
+| 22 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
+| 23 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 |
 | 24 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 25 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 |
 | 26 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 57 | [fire sign fuck u](https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE) | [SANJ](https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4) | [Poster Child](https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe) | 2:26 |
 | 58 | [one last fucc](https://open.spotify.com/track/1cGDDTx0HKg1ydelOa3Fkf) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [one last fucc](https://open.spotify.com/album/2doYY3cdRUHPG4nJam6aQX) | 3:54 |
 | 59 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 |
-| 60 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
-| 61 | [TRIGGER HAPPY](https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [TRIGGER HAPPY](https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU) | 3:39 |
+| 60 | [TRIGGER HAPPY](https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [TRIGGER HAPPY](https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU) | 3:39 |
+| 61 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 | 62 | [cut my tongue](https://open.spotify.com/track/7L47uCaC1eus1QhkrzjlyT) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [cut my tongue](https://open.spotify.com/album/6tGJ69kZvMdlR676WPcWIR) | 3:01 |
 | 63 | [i deserve better](https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [i deserve better](https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4) | 3:26 |
 | 64 | [Ultimatum \(object blue Remix\)](https://open.spotify.com/track/6ySFBxFefRusBYLcX27lK9) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi), [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [Ultimatum \(object blue Remix\)](https://open.spotify.com/album/0RnFLMvhwhdjHxxYC9vleb) | 3:13 |

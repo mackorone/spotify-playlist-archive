@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Klassik Frescobar",
-  "num_followers": 241302,
+  "num_followers": 241348,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Funky Business",
-        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
-      },
-      "artists": [
-        {
-          "name": "Fimba",
-          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Funky Business",
-      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Back Bend (Remix)",
         "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 185538,
       "name": "Back Bend (Remix)",
       "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Funky Business",
+        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
+      },
+      "artists": [
+        {
+          "name": "Fimba",
+          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Funky Business",
+      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Red, White, Black",
-        "url": "https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 231874,
-      "name": "Carnival (feat. Machel Montano)",
-      "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Erupt",
         "url": "https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 198000,
       "name": "Erupt",
       "url": "https://open.spotify.com/track/48y8ZvIDhRd1iU7hffnzL2"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Red, White, Black",
+        "url": "https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 231874,
+      "name": "Carnival (feat. Machel Montano)",
+      "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
     },
     {
       "added_at": "2025-08-29 14:56:22",

@@ -1695,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "30 Anos no Brasil (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263787,
+      "name": "Sejam Um / Respostas / Os Olhos Seus / Ele Escolheu os Cravos / Um Santu\u00e1rio Cheio da Tua Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/6B0P04VpaNk9pwygCVltgr"
+    },
+    {
+      "album": {
         "name": "Sonhos",
         "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
       },
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 245119,
       "name": "Tua Face",
       "url": "https://open.spotify.com/track/20ULhBcBQ0WYvTRNXUdNrt"

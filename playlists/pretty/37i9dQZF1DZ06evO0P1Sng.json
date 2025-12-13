@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8227,
+  "num_followers": 8228,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAd3gvneOvIVQdM4fAyJViw",
+  "snapshot_id": "aToJgAAAAAAAmXaj8KIB+eKoGmPiT9ZP",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Priv\u00ea",
+        "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Priv\u00ea",
+      "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encrenqueira",
         "url": "https://open.spotify.com/album/0zEQ45hjcWKDS2DYZazdIu"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 171125,
       "name": "Encrenqueira",
       "url": "https://open.spotify.com/track/2T6s33kOlJhdLpfgAYS5Ey"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Priv\u00ea",
-        "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Priv\u00ea",
-      "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MC de Batalha",
-        "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
+        "name": "Outro Lugar",
+        "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
       },
       "artists": [
         {
@@ -668,13 +668,13 @@
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
         }
       ],
-      "duration_ms": 188420,
-      "name": "MC de Batalha",
-      "url": "https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ"
+      "duration_ms": 153623,
+      "name": "Outro Lugar",
+      "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Lugar",
-        "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
+        "name": "MC de Batalha",
+        "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
       },
       "artists": [
         {
@@ -728,13 +728,13 @@
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
         }
       ],
-      "duration_ms": 153623,
-      "name": "Outro Lugar",
-      "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
+      "duration_ms": 188420,
+      "name": "MC de Batalha",
+      "url": "https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ"
     },
     {
       "added_at": null,
@@ -799,54 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetisas no Topo 4",
-        "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
-        },
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "prodbymvfa",
-          "url": "https://open.spotify.com/artist/2FJxiMBUFCPXN1ZVYHGSDa"
-        }
-      ],
-      "duration_ms": 414703,
-      "name": "Poetisas no Topo 4",
-      "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetas No Topo 3.3, Pt. 1",
         "url": "https://open.spotify.com/album/0Y6sQBLqax8F8uvVLvFXkP"
       },
@@ -907,6 +859,54 @@
       "duration_ms": 1147406,
       "name": "Poetas No Topo 3.3, Pt. 1",
       "url": "https://open.spotify.com/track/67vfgPDV3JirBIMpeUzqYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poetisas no Topo 4",
+        "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "prodbymvfa",
+          "url": "https://open.spotify.com/artist/2FJxiMBUFCPXN1ZVYHGSDa"
+        }
+      ],
+      "duration_ms": 414703,
+      "name": "Poetisas no Topo 4",
+      "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
     },
     {
       "added_at": null,
@@ -1139,38 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Minutos",
-        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "2 Minutos",
-      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
         "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
       },
@@ -1231,30 +1199,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00cdBORA",
-        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
+        "name": "2 Minutos",
+        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },
       "artists": [
         {
-          "name": "funBABE",
-          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
         }
       ],
-      "duration_ms": 205717,
-      "name": "V\u00cdBORA",
-      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
+      "duration_ms": 215520,
+      "name": "2 Minutos",
+      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
     },
     {
       "added_at": null,
@@ -1279,6 +1251,34 @@
       "duration_ms": 198454,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V\u00cdBORA",
+        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
+      },
+      "artists": [
+        {
+          "name": "funBABE",
+          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "V\u00cdBORA",
+      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
     },
     {
       "added_at": null,
@@ -1371,6 +1371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sua Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "duration_ms": 131584,
+      "name": "Sua Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -1399,8 +1419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sua Inten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/2dkUeDD9bV30laGNKoUp11"
       },
       "artists": [
         {
@@ -1408,33 +1428,21 @@
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 131584,
-      "name": "Sua Inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azzy (Ao Vivo no REP Festival)",
-        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
-      },
-      "artists": [
-        {
-          "name": "REP Festival",
-          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
         },
         {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+          "name": "Valey",
+          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
+        },
+        {
+          "name": "NERESZZ",
+          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
         }
       ],
-      "duration_ms": 106882,
-      "name": "Poesia Ac\u00fastica #11: Nada Mudou - Ao Vivo no REP Festival",
-      "url": "https://open.spotify.com/track/1KL1zF41NMIFaqiq9tBZOs"
+      "duration_ms": 150329,
+      "name": "Tipo Uma Dan\u00e7a",
+      "url": "https://open.spotify.com/track/0ZaxU6AbRDT3TSRO5RhCDr"
     },
     {
       "added_at": null,

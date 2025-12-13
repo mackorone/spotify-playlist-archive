@@ -1,6 +1,6 @@
 {
   "description": "Bald gehts wieder auf zur H\u00fctten Gaudi!",
-  "num_followers": 480159,
+  "num_followers": 480298,
   "original_name": "Apr\u00e8s Ski Party 2025",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-12-05 11:36:18",
       "album": {
+        "name": "Es ist Zeit",
+        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Tirol",
+      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
+    },
+    {
+      "added_at": "2025-12-05 11:36:18",
+      "album": {
         "name": "So Bist Du",
         "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2025-12-05 11:36:18",
       "album": {
-        "name": "Es ist Zeit",
-        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Tirol",
-      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
-    },
-    {
-      "added_at": "2025-12-05 11:36:18",
-      "album": {
         "name": "Hey Macarena!",
         "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
       },
@@ -367,26 +367,6 @@
       "duration_ms": 164769,
       "name": "Hey Macarena!",
       "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
-    },
-    {
-      "added_at": "2025-12-05 11:36:18",
-      "album": {
-        "name": "Gianna",
-        "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
-      },
-      "artists": [
-        {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
-        },
-        {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
-        }
-      ],
-      "duration_ms": 155215,
-      "name": "Gianna",
-      "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
     },
     {
       "added_at": "2025-12-05 11:36:18",
@@ -415,22 +395,22 @@
     {
       "added_at": "2025-12-05 11:36:18",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+        "name": "Gianna",
+        "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
         },
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
         }
       ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+      "duration_ms": 155215,
+      "name": "Gianna",
+      "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
     },
     {
       "added_at": "2025-12-05 11:36:18",
@@ -447,6 +427,26 @@
       "duration_ms": 137125,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "added_at": "2025-12-05 11:36:18",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     },
     {
       "added_at": "2025-12-05 11:36:18",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-12-05 11:36:18",
       "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
-    },
-    {
-      "added_at": "2025-12-05 11:36:18",
-      "album": {
         "name": "Mama Laudaaa",
         "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 215976,
       "name": "Mama Laudaaa",
       "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
+    },
+    {
+      "added_at": "2025-12-05 11:36:18",
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
     },
     {
       "added_at": "2025-12-05 11:36:18",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-12-05 11:36:18",
       "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
-    },
-    {
-      "added_at": "2025-12-05 11:36:18",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2025-12-05 11:36:18",
+      "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2025-12-05 11:36:18",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-12-05 11:36:18",
       "album": {
-        "name": "Mozart (Ciao Niveau)",
-        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 172637,
-      "name": "Mozart (Ciao Niveau)",
-      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
-    },
-    {
-      "added_at": "2025-12-05 11:36:18",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 184160,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2025-12-05 11:36:18",
+      "album": {
+        "name": "Mozart (Ciao Niveau)",
+        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 172637,
+      "name": "Mozart (Ciao Niveau)",
+      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
     },
     {
       "added_at": "2025-12-05 11:36:18",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-12-05 11:36:18",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2025-12-05 11:36:18",
-      "album": {
         "name": "Oberteil",
         "url": "https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 149976,
       "name": "Oberteil",
       "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
+    },
+    {
+      "added_at": "2025-12-05 11:36:18",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2025-12-05 11:36:18",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-12-05 11:36:18",
       "album": {
-        "name": "Gartenh\u00fctte",
-        "url": "https://open.spotify.com/album/3WA4M3aLKt1MOeW7f3b6dr"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 163260,
-      "name": "Gartenh\u00fctte",
-      "url": "https://open.spotify.com/track/4c5CmXIlx8ur2SVBEyghOs"
-    },
-    {
-      "added_at": "2025-12-05 11:36:18",
-      "album": {
         "name": "Mut zur Katastrophe (Gold Edition)",
         "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 226133,
       "name": "Regenbogenfarben",
       "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
+    },
+    {
+      "added_at": "2025-12-05 11:36:18",
+      "album": {
+        "name": "Gartenh\u00fctte",
+        "url": "https://open.spotify.com/album/3WA4M3aLKt1MOeW7f3b6dr"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Gartenh\u00fctte",
+      "url": "https://open.spotify.com/track/4c5CmXIlx8ur2SVBEyghOs"
     },
     {
       "added_at": "2025-12-05 11:36:18",

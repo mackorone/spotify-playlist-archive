@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 163093,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 166386,
       "name": "Christmas Time Is Here - Vocal",
       "url": "https://open.spotify.com/track/06Pfxmp9TtC2H00apclouT"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 68760,
       "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
@@ -5288,8 +5288,8 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
-      "duration_ms": 150266,
+      "date_removed": null,
+      "duration_ms": 153797,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
       "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
     },
@@ -6426,7 +6426,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -7712,7 +7712,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -12765,6 +12765,24 @@
     },
     {
       "album": {
+        "name": "Donny Hathaway",
+        "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD"
+    },
+    {
+      "album": {
         "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
       },
@@ -12918,7 +12936,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb"
@@ -13478,7 +13496,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -13496,8 +13514,8 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
-      "duration_ms": 229640,
+      "date_removed": null,
+      "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
@@ -13977,6 +13995,24 @@
     },
     {
       "album": {
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
+    },
+    {
+      "album": {
         "name": "What Did I Miss?",
         "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
       },
@@ -14214,7 +14250,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

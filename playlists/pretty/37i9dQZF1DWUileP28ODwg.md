@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 ### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: Joseph Habedank
+> Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,167 likes - 79 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,244 likes - 79 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lord of the Dance](https://open.spotify.com/track/4j18e9RtZIctujKELsaSKD) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [The Great Adventure: A Tribute to Steven Curtis Chapman](https://open.spotify.com/album/7dmmwgOIlByeSUHL4sposx) | 4:11 |
-| 2 | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/track/1RSBlcNeG579dFOfEB8hYy) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/album/5WXIrCrFe92GUyV0lF55fh) | 6:33 |
-| 3 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 |
-| 4 | [Dear Jesus](https://open.spotify.com/track/669PG7je3XBT9PP7POGGiW) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dear Jesus](https://open.spotify.com/album/32xd5BR4HpHJhlyJ4OfENw) | 3:26 |
-| 5 | [Homesick For Heaven](https://open.spotify.com/track/2Oz1rooRd8K1uINofVYgrZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:10 |
-| 6 | [Have Your Way](https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversations](https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0) | 3:02 |
-| 7 | [History](https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [The Truth](https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j) | 3:01 |
-| 8 | [Fly Away](https://open.spotify.com/track/2UqdshYSXOarPWkOyo7x2S) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Villain](https://open.spotify.com/album/6zoeMcphndW35UHwxgBILr) | 2:48 |
-| 9 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 |
-| 10 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 |
-| 11 | [Wait For Me](https://open.spotify.com/track/58iKOSsOb6TTd5FAI8Tw3Q) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves](https://open.spotify.com/album/3KqoANpOMDWpx9C4JbMNQG) | 3:43 |
-| 12 | [What An Awesome God](https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [What An Awesome God](https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc) | 3:31 |
-| 13 | [Let It Be A Hallelujah](https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Let It Be A Hallelujah](https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc) | 3:58 |
-| 14 | [My Family](https://open.spotify.com/track/5FjpyEnGS7PbM9YXcllENi) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [My Family](https://open.spotify.com/album/44DKKlkJe7qIEAjK3qsyTS) | 3:46 |
-| 15 | [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 |
+| 1 | [If God Lives Here](https://open.spotify.com/track/38mlXMe2Sixjbv3ysYfeUL) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [If God Lives Here](https://open.spotify.com/album/0LUnzgdbzekvEuOKHBpHlU) | 3:50 |
+| 2 | [Lord of the Dance](https://open.spotify.com/track/4j18e9RtZIctujKELsaSKD) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [The Great Adventure: A Tribute to Steven Curtis Chapman](https://open.spotify.com/album/7dmmwgOIlByeSUHL4sposx) | 4:11 |
+| 3 | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/track/1RSBlcNeG579dFOfEB8hYy) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Hard Fought Hallelujah \(with Jon Batiste & Jelly Roll\)](https://open.spotify.com/album/5WXIrCrFe92GUyV0lF55fh) | 6:33 |
+| 4 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 |
+| 5 | [Dear Jesus](https://open.spotify.com/track/669PG7je3XBT9PP7POGGiW) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Dear Jesus](https://open.spotify.com/album/32xd5BR4HpHJhlyJ4OfENw) | 3:26 |
+| 6 | [Where Would I Be](https://open.spotify.com/track/3IsymeG164xqab7pmeblhi) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Where Would I Be](https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K) | 3:12 |
+| 7 | [Homesick For Heaven](https://open.spotify.com/track/2Oz1rooRd8K1uINofVYgrZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:10 |
+| 8 | [Have Your Way](https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Honest Conversations](https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0) | 3:02 |
+| 9 | [History](https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [The Truth](https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j) | 3:01 |
+| 10 | [Fly Away](https://open.spotify.com/track/2UqdshYSXOarPWkOyo7x2S) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [The Villain](https://open.spotify.com/album/6zoeMcphndW35UHwxgBILr) | 2:48 |
+| 11 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 |
+| 12 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 |
+| 13 | [What An Awesome God](https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [What An Awesome God](https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc) | 3:31 |
+| 14 | [Let It Be A Hallelujah](https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Let It Be A Hallelujah](https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc) | 3:58 |
+| 15 | [My Family](https://open.spotify.com/track/5FjpyEnGS7PbM9YXcllENi) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [My Family](https://open.spotify.com/album/44DKKlkJe7qIEAjK3qsyTS) | 3:46 |
 | 16 | [When A Cowboy Prays](https://open.spotify.com/track/5El4el5fJrMq0onm31WEDo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [When A Cowboy Prays](https://open.spotify.com/album/331sTX4A9LVS7dydeAaZR2) | 3:57 |
 | 17 | [Get Behind Me \(feat\. Zach Williams\)](https://open.spotify.com/track/1TQoteChnevdwvlnOzYmDB) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Get Behind Me \(feat\. Zach Williams\)](https://open.spotify.com/album/5cWfdqq6E688gmDTSWgHXP) | 3:13 |
 | 18 | [Say It That Way](https://open.spotify.com/track/2ySEQMJMCHuV1afLRhKl6B) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Say It That Way](https://open.spotify.com/album/71wNiGMvXe4dUP7DSfToHW) | 3:55 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 78 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 | 79 | [Set Me Free](https://open.spotify.com/track/5uYR8Fm4aTxx3zmTy7XJnf) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Set Me Free](https://open.spotify.com/album/74yVQv7tnnKINqKgYtwRdP) | 3:31 |
 
-Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`
+Snapshot ID: `AAAAAHKgqCyIU219/J30GXf+6XeOZZHU`

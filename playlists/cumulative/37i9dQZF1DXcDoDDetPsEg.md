@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Sasha Keable
 
-1,680 songs - 3 day 12 hr 22 min
+1,682 songs - 3 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Been A Minute](https://open.spotify.com/track/6XLhGACqeNj0WR1kCRc2po) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Been A Minute](https://open.spotify.com/album/0OzEJkpwtapBQPuYlPcOvy) | 3:35 | 2024-03-28 | 2024-04-26 |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-03-08 | 2023-03-09 |
 | [Bella](https://open.spotify.com/track/3iSgrKma1x5hoMrY3HL4bY) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Bella](https://open.spotify.com/album/1Mvex53YBzYORFFs8dCF6N) | 1:44 | 2023-02-24 | 2023-04-09 |
+| [Bellingham](https://open.spotify.com/track/5ADKlijj1VChfluBVbK7WG) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Bellingham](https://open.spotify.com/album/2sYhWXdK36j3u3BCiGD7sD) | 2:39 | 2025-12-12 |  |
 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 | 2024-09-06 | 2025-01-03 |
 | [Ben10](https://open.spotify.com/track/4fppyITSfCSeyqVqFv5OAk) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Ben10](https://open.spotify.com/album/5UR14pXM7hcP9O0Lt5GBGS) | 2:51 | 2023-01-27 | 2023-02-25 |
 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 | 2024-06-21 | 2024-08-30 |
@@ -980,6 +981,7 @@
 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 | 2023-09-16 | 2023-09-19 |
 | [Monitoring Me](https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Monitoring Me](https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV) | 2:24 | 2024-10-04 | 2024-12-13 |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-03-08 | 2024-03-09 |
+| [More Fire More Flamez](https://open.spotify.com/track/5EfOaTaMSYbgs6SWlTuml2) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [More Fire More Flamez](https://open.spotify.com/album/0mNOVd463MJxAqDV36xp7G) | 3:10 | 2025-12-12 |  |
 | [More Money More Problems](https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [More Money More Problems](https://open.spotify.com/album/01EayXsvhd2wpvIcryfkEO) | 2:57 | 2023-08-10 | 2023-09-15 |
 | [More Than A Woman](https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 3:49 | 2023-09-16 | 2023-09-19 |
 | [More Vibes More Money](https://open.spotify.com/track/1T3MTW0MbHv3uXwezXjTm0) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [More Vibes More Money](https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7) | 3:08 | 2023-07-20 | 2023-09-08 |

@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-216 songs - 11 hr 33 min
+217 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Blanca Navidad](https://open.spotify.com/track/5Xq4nzlFsZquI7FWC6jKSD) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm), [Sebastian Mejia](https://open.spotify.com/artist/7xq2FaukGCkFGhIiEAhht7) | [Blanca Navidad](https://open.spotify.com/album/4904fDA6uZSSeHrBs6xJNF) | 2:08 | 2022-12-13 | 2022-12-19 |
 | [Blanca Navidad](https://open.spotify.com/track/0q2BYFO6ilmH7noQfXIGVZ) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Una Navidad Con Matisse](https://open.spotify.com/album/3B994PoU9wHZrxXFdUDOTo) | 2:40 | 2023-11-17 | 2024-12-07 |
 | [Blanca Navidad](https://open.spotify.com/track/2xGe2LMmUtPcHIQbHBynYa) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [Noel Es Navidad \(Deluxe\)](https://open.spotify.com/album/3xSNVFvU4c5wMtsIXsA2T5) | 3:25 | 2021-12-15 | 2022-11-17 |
-| [blanca navidad](https://open.spotify.com/track/7rFtxRjriQtDsNdxXhU6mo) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [sometimes nice, sometimes naughty...](https://open.spotify.com/album/0xUFbpqD7FlAbDuxzTmEPJ) | 3:03 | 2024-12-13 |  |
+| [blanca navidad](https://open.spotify.com/track/7rFtxRjriQtDsNdxXhU6mo) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [sometimes nice, sometimes naughty...](https://open.spotify.com/album/0xUFbpqD7FlAbDuxzTmEPJ) | 3:03 | 2024-12-13 | 2025-12-13 |
 | [Blanca Navidad](https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Blanca Navidad](https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc) | 2:29 | 2021-12-15 | 2022-12-14 |
 | [Blanca Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Blanca Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/6XOvqTL0wI3ToELKzrULfH) | 2:39 | 2022-11-25 | 2024-12-07 |
 | [Burrito Sabanero](https://open.spotify.com/track/1f6KVDUrTzBTYzCfjAh5mp) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Jonny Alvear](https://open.spotify.com/artist/6aCb9Ypr9OmEx1YEs6ZYy4) | [¡Feliz Navidad!](https://open.spotify.com/album/0M3p54IgNDKl6R1eNvvTZh) | 2:57 | 2022-11-08 | 2022-11-26 |
@@ -100,6 +100,7 @@
 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 | 2022-11-25 | 2022-12-19 |
 | [Joy To The World \- Spanglish Version](https://open.spotify.com/track/6fOZc9dM4SKMbOX2EZ0lpf) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Joy To The World \(Spanglish Version\)](https://open.spotify.com/album/3qxMkK4ZsRocl6aQeP4yKb) | 2:26 | 2024-12-06 | 2025-12-06 |
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-12-19 |  |
+| [La Navidad Comenzó](https://open.spotify.com/track/0EUjKWaJ3CgAWbNDJ2DkDd) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [La Navidad Comenzó](https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2) | 3:19 | 2025-12-12 |  |
 | [Last Christmas \(Spanish Version\)](https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:15 | 2022-11-25 |  |
 | [Last Christmas \- Versión Español](https://open.spotify.com/track/7kKvFQDrREKrsDc1Dmx3CG) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Last Christmas \(Versión Español\)](https://open.spotify.com/album/76KZzbhufZs8y12v5mBE5w) | 3:21 | 2022-12-19 | 2025-11-30 |
 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 | 2023-11-21 |  |

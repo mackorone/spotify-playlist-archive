@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 52576,
+  "num_followers": 52577,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAC9DT1XW7oovzgI/+cJX433",
+  "snapshot_id": "aToJgAAAAAB8eVBgyL84d+k1QDO3lwDY",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Too Long at the Fair - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 271133,
       "name": "I\u2019m In The Mood - feat. Bonnie Raitt",
       "url": "https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Too Long at the Fair - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dog Ear",
+        "url": "https://open.spotify.com/album/4QY53gmPaPnWAIHFiENYhK"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 254688,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/51tNPtfL97T3VIzWdRfKEL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takin' My Time",
         "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
@@ -631,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Knuckles",
-        "url": "https://open.spotify.com/album/5Kj6CtezpoXJaIuuyDE9T3"
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
       },
       "artists": [
-        {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 254688,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/3KvkxLG3qIKnvRKsiBaiKl"
+      "duration_ms": 221626,
+      "name": "Love Sneakin' Up On You",
+      "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+        "name": "Songs from the Rainbow Room 1972 (Live)",
+        "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Love Sneakin' Up On You",
-      "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
+      "duration_ms": 187533,
+      "name": "Can't Find My Way Home - Live",
+      "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 244560,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs from the Rainbow Room 1972 (Live)",
-        "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Can't Find My Way Home - Live",
-      "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 347840,
+      "name": "Blame it On Me",
+      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay Awake (Various Interpretations Of Music From Vintage Disney Films)",
         "url": "https://open.spotify.com/album/48eR76ue3eFPCJdBppIWQ0"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 347840,
-      "name": "Blame it On Me",
-      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "Too Soon To Tell",
-      "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
         "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
       },
@@ -871,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
       "artists": [
         {
@@ -880,9 +864,29 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 163266,
-      "name": "Papa Come Quick (Jody And Chico)",
-      "url": "https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4"
+      "duration_ms": 225866,
+      "name": "Too Soon To Tell",
+      "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

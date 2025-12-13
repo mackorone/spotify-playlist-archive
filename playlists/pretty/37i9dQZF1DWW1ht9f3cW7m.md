@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🥤<br/>cover: Deyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,559 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,558 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 20 | [mR.mELoDramAtiC](https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 2:52 |
 | 21 | [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 |
 | 22 | [Mirrors](https://open.spotify.com/track/30w5os7ladZ34SgGQ12lp4) | [Sam Wray](https://open.spotify.com/artist/16HPxfwlonJEzCp2w3NV7i) | [Mirrors](https://open.spotify.com/album/3b8RdHwaQ3w9sRYOlLTSNb) | 3:46 |
-| 23 | [Almost Got It Right](https://open.spotify.com/track/30tUbC6LrMOX0icUADAsXg) | [Izzy S.O](https://open.spotify.com/artist/6Se0jZxqI5RrVRaI45Ablx) | [](https://open.spotify.com/album/null) | 2:20 |
+| 23 | [Almost Got It Right](https://open.spotify.com/track/30tUbC6LrMOX0icUADAsXg) | [Izzy S.O](https://open.spotify.com/artist/6Se0jZxqI5RrVRaI45Ablx) | [Quest To Be Perfect](https://open.spotify.com/album/4nUolxrI4zD0f0eQjKHlsi) | 2:20 |
 | 24 | [play pretend](https://open.spotify.com/track/3AW95VmDCQZUI0TsmQPYKT) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [play pretend](https://open.spotify.com/album/13zB1MosqxYPwu4fwBIqtg) | 2:56 |
 | 25 | [Alright, Alright](https://open.spotify.com/track/3coi1T3U5MsiisKkQX9Oza) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Alright, Alright](https://open.spotify.com/album/5LD82ktd0nOVBwwCbFOSJo) | 3:55 |
 | 26 | [Mistakes](https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Mistakes](https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT) | 3:35 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 32 | [Hell](https://open.spotify.com/track/4urDfXfIUt3X4INidnIA4R) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Hell](https://open.spotify.com/album/3A1NxlNj94ve9GwUdp9bXs) | 3:33 |
 | 33 | [Fault Line](https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Fault Line](https://open.spotify.com/album/4oaZCFbDFPktNYKJrTlXf3) | 3:11 |
 | 34 | [Boundaries](https://open.spotify.com/track/3Fv7SlnWvwZgVMyBdAPkGR) | [seegz](https://open.spotify.com/artist/7sgYueUDoDPfAyobvj9dzY), [Josie Beth](https://open.spotify.com/artist/0tx30QHS1hiavYhtFV2PQE) | [Boundaries](https://open.spotify.com/album/1x3nseG1qIkHG0TX7yuoKi) | 3:33 |
-| 35 | [Track 3](https://open.spotify.com/track/00mrOygK9z6mXXJRG6RoBv) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [](https://open.spotify.com/album/null) | 0:00 |
+| 35 | [fishing with you](https://open.spotify.com/track/00mrOygK9z6mXXJRG6RoBv) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [nine lives](https://open.spotify.com/album/60wgsbQ2hH6vFyjflvGWGg) | 2:02 |
 | 36 | [Home Depot](https://open.spotify.com/track/5lkSqkCNFdAfFVsimBQBea) | [Christian Cherry](https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK) | [Home Depot](https://open.spotify.com/album/0uhE6GVGaoVuxcuOrUuGRa) | 2:36 |
 | 37 | [The Desire To Be Perfect](https://open.spotify.com/track/5U0CEs4WVWQoeH9E042oxO) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [The Desire To Be Perfect](https://open.spotify.com/album/46QVXQcmn6ivn1cCnHxR6J) | 3:29 |
 | 38 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 |

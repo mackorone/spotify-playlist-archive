@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to for 2026\. Updated weekly!
 
-511 songs - 1 day 4 hr 28 min
+513 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Dawn](https://open.spotify.com/track/7esdk109ThJBwprFrSKiSd) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Dawn](https://open.spotify.com/album/6oeQKGYA47kunjB7X7KRy2) | 3:07 | 2020-12-18 | 2021-03-06 |
 | [Decision](https://open.spotify.com/track/7ClE91ZjLxV5do8bAAxDe0) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Decision](https://open.spotify.com/album/6ROv3mZKa3CV0dijCxqteV) | 2:23 | 2021-03-11 | 2021-09-04 |
 | [Deep of You](https://open.spotify.com/track/5lRzNBSLgUQFZhJrEYGqPN) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Deep of You](https://open.spotify.com/album/4NHJ2mh1eCDCU83wFQAEJT) | 2:36 | 2025-02-07 |  |
+| [Deeper](https://open.spotify.com/track/04KiE1HQJjNQU8koN8rsVs) | [Soulflow](https://open.spotify.com/artist/6YaiytTo7ird6rLHP2BxYL) | [Deeper](https://open.spotify.com/album/5r3iln7n1nXTp5ZoEa95Ne) | 3:24 | 2025-12-12 |  |
 | [Delta](https://open.spotify.com/track/47LQEI2udisu7sRC9dYU4l) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Delta / Bartok EP](https://open.spotify.com/album/1xGvbgezgfzeFTndnwfY2U) | 3:24 | 2020-09-13\* | 2021-06-12 |
 | [Demons \- Massane Remix](https://open.spotify.com/track/5f4qquwjZzEXIdua2FId7b) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Demons](https://open.spotify.com/album/0P2mWEmLyOtXeallz8cGXz) | 4:03 | 2021-04-24 |  |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2022-12-02 | 2023-04-01 |
@@ -343,6 +344,7 @@
 | [Problems](https://open.spotify.com/track/74UR9DSYWKvgTj27NubXAH) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Problems](https://open.spotify.com/album/5BWWHRNKa8C8F04vwCygO7) | 2:46 | 2022-03-18 | 2023-04-01 |
 | [Problems](https://open.spotify.com/track/7wKzj1b8YKPuZELfVDz708) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:39 | 2020-11-14 | 2022-09-10 |
 | [promises](https://open.spotify.com/track/3wSXfnuFcZbQANW1Tfz1Fr) | [abelon](https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui) | [promises](https://open.spotify.com/album/5B4pFxcPcjkNDSgPNke2II) | 2:15 | 2025-09-26 |  |
+| [Pull Me In, Pull Me In, Can't Escape](https://open.spotify.com/track/1Z9m35e1blfGEKMqbj4ltg) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [Pull Me In, Pull Me In, Can't Escape](https://open.spotify.com/album/5tGQNp8IJ74EBO93XaBevH) | 2:45 | 2025-12-12 |  |
 | [Push It](https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Push It](https://open.spotify.com/album/2SX0qBoYe3jmkpFP6L8QBu) | 2:33 | 2025-11-14 |  |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-03-31 | 2024-02-24 |
 | [Radical \(feat\. Totally Enormous Extinct Dinosaurs\) \- Edit](https://open.spotify.com/track/5hladndw7yw0iSImREt8bq) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Radical \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1qovNEQPQNxlOd7w2udLaX) | 3:57 | 2020-09-13\* | 2021-03-06 |

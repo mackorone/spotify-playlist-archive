@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Divididos",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 No Te Va Gustar con Ciro y Los Persas.",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Peces Raros - Spotify Sessions",
+        "url": "https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256965,
+      "name": "Cicuta - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3CV9QpKGJJxtimW0jDOODi"
+    },
+    {
+      "album": {
         "name": "Jet Love",
         "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 258906,
       "name": "Colmena",
       "url": "https://open.spotify.com/track/3didqbZlbcOd3tEaLreWtp"
@@ -5447,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "Peces Raros - Spotify Sessions",
+        "url": "https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303886,
+      "name": "Nada para siempre - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD"
+    },
+    {
+      "album": {
         "name": "El Modo",
         "url": "https://open.spotify.com/album/6R8nNkYZRPw5XeNquzkDbm"
       },
@@ -5766,7 +5802,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 195107,
       "name": "Nos siguen pegando abajo",
       "url": "https://open.spotify.com/track/23EmcF8T8n8ianLaLAzTWJ"
@@ -7543,6 +7579,28 @@
     },
     {
       "album": {
+        "name": "Todo Mal",
+        "url": "https://open.spotify.com/album/6rU5EkjlufVgIjSEXym1UZ"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257356,
+      "name": "Todo Mal",
+      "url": "https://open.spotify.com/track/3tekuAWJgcjclAmlB3P8tA"
+    },
+    {
+      "album": {
         "name": "Todo Se Quema",
         "url": "https://open.spotify.com/album/5RVbgOgc59Pz2cA0BM57wK"
       },
@@ -7744,7 +7802,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 206265,
       "name": "Tu Raz\u00f3n de Ser",
       "url": "https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF"

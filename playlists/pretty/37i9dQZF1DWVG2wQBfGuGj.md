@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,211 likes - 213 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,244 likes - 213 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 212 | [Channels](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Channels](https://open.spotify.com/album/236zd3ADvrLVkUqSzJzzNf) | 2:06 |
 | 213 | [Both Of Us](https://open.spotify.com/track/5l3ScH72LOQpXQ8qsO1SQc) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Both Of Us](https://open.spotify.com/album/7M0VVSuVALkcjbLNgHKZEl) | 2:42 |
 
-Snapshot ID: `AAAAAIlYDP6JIJQ/L8vO1gkPRX1L4XH6`
+Snapshot ID: `AAAAAGFxGsMOCgAA3yvm6RHLfMEhslou`

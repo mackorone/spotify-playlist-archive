@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Tenille Arts",
+  "description": "The home of Canadian country music. Cover: Brett Kissel",
   "name": "North Country",
   "tracks": [
     {
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 219929,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/1KunqIj5qXEYbB8aBCY5bb"
@@ -2190,6 +2190,28 @@
       "duration_ms": 240187,
       "name": "Family First",
       "url": "https://open.spotify.com/track/6Wwr6c7cF6xPvqTbGGBk9I"
+    },
+    {
+      "album": {
+        "name": "Farmer",
+        "url": "https://open.spotify.com/album/13nnrjheHl13arW3ICHMxW"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190480,
+      "name": "Farmer",
+      "url": "https://open.spotify.com/track/0jbVLGFKiT6lDtO1hFfGLV"
     },
     {
       "album": {
@@ -4824,6 +4846,24 @@
       "duration_ms": 174133,
       "name": "Man Like Mine",
       "url": "https://open.spotify.com/track/1imsA3Jc3y82WnwtZU24rq"
+    },
+    {
+      "album": {
+        "name": "Man Outta Me",
+        "url": "https://open.spotify.com/album/4ZWQHVRMLBrwJc3CU1VsiJ"
+      },
+      "artists": [
+        {
+          "name": "Savannah Jade",
+          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209942,
+      "name": "Man Outta Me",
+      "url": "https://open.spotify.com/track/51nRWKX2GqMu4h5B0jqlqJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,020 likes - 149 songs - 8 hr 28 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,025 likes - 154 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,5 +157,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 147 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 |
 | 148 | [Lost Without You](https://open.spotify.com/track/66FFJv3Y8Xn9ENKQMXZW0Z) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [Lost Without You](https://open.spotify.com/album/3heC4MS7ewE0kXYJQdskbD) | 3:05 |
 | 149 | [Chance It](https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Chance It](https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH) | 2:56 |
+| 150 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 |
+| 151 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 |
+| 152 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 |
+| 153 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 |
+| 154 | [Xmas](https://open.spotify.com/track/0T8M5XbkqHUB99ZkbZDOHD) | [Andrea Bardelli](https://open.spotify.com/artist/0sjMrTuxISK7GfQRKy8FEE) | [The poets work at night](https://open.spotify.com/album/1mNoFSF448LaNDXIFThFnA) | 5:08 |
 
-Snapshot ID: `AAANqJ0RXGPjiDcYjuzW3WEpBq2dNAyF`
+Snapshot ID: `AAANrU5ZsFWpmKAsOWL7Ja5uvmb8p7cW`

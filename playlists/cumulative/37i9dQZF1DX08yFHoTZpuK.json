@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Don't Cry (feat. Sagiri S\u00f3l)",
+        "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
+      },
+      "artists": [
+        {
+          "name": "80KIDZ",
+          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
+        },
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266909,
+      "name": "Don't Cry - feat. Sagiri S\u00f3l",
+      "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
+    },
+    {
+      "album": {
         "name": "DOSHABURI (feat. JUMADIBA) [PAS TASTA Remix]",
         "url": "https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR"
       },
@@ -980,7 +1002,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 206390,
       "name": "UPDOWN",
       "url": "https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh"

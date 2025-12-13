@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,879 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,882 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No One](https://open.spotify.com/track/5J72L91na30WRBYaCokV8i) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [No One](https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD) | 4:04 |
 | 2 | [Never Alone](https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Vincent Vossen](https://open.spotify.com/artist/50SCzzclPLasHTR2YuLJA7) | [Never Alone](https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW) | 3:39 |
-| 3 | [Track 9](https://open.spotify.com/track/5x7QUCDBNDkyzcLBbMdR9z) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [House On Fire](https://open.spotify.com/track/5x7QUCDBNDkyzcLBbMdR9z) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [So Far](https://open.spotify.com/album/4ph2JlJubDNUoqj6ceA6WV) | 2:48 |
 | 4 | [Broken Angel \(This is Lonely Club\)](https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Quantum Beats](https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu) | 2:51 |
 | 5 | [Hello](https://open.spotify.com/track/15aqhgN9LLd7TvuF367e57) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hello](https://open.spotify.com/album/0Ep3CUwcbfWRyKLiTWvEKk) | 2:54 |
 | 6 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 | 7 | [So High](https://open.spotify.com/track/51WRwsEmGhVo8EYy07TDjo) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [So High](https://open.spotify.com/album/6zhG5gxzqCrSt6Ip7st6Bm) | 3:45 |
 | 8 | [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 |
 | 9 | [Seelenf\*cker](https://open.spotify.com/track/7fx06lQhSj6VPZyOzNPMs9) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Seelenf\*cker](https://open.spotify.com/album/6N4rnVWRSscD9bWCExrbWv) | 2:42 |
-| 10 | [Track 2](https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [Don't Know Why](https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Give You My Luv EP](https://open.spotify.com/album/09YemHqZAksPmmdu0tbOpG) | 3:00 |
 | 11 | [Don't Turn Your Back](https://open.spotify.com/track/1bb6p0xbMmSIXvRVoVGBdR) | [Divasi](https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY), [Pancake](https://open.spotify.com/artist/7M6h1JhS7foMdSJenq7Fj3), [Olav Basoski](https://open.spotify.com/artist/6FyRbuLLpPFzeI63apcfLi) | [Don't Turn Your Back](https://open.spotify.com/album/1qraSZcPftAiIaxkGMFeQX) | 2:35 |
 | 12 | [Lighter](https://open.spotify.com/track/3ztOJXuFziWj9skEUKo4fK) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Lighter](https://open.spotify.com/album/1ZbHau8C1Hcx6mRmKBaPtN) | 2:50 |
 | 13 | [Lost In The Night](https://open.spotify.com/track/3miusIwRKEZRC6t4JrGv34) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Lost In The Night](https://open.spotify.com/album/72iApYi698JxsnRBaYKvIh) | 3:25 |

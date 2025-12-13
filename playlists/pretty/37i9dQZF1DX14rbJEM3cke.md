@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,363 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,366 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 84 | [Monochrome](https://open.spotify.com/track/2YAZEyMTGG5T0bnCvdj02o) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Monochrome](https://open.spotify.com/album/585fmGPcfDitwps5X44ljB) | 2:32 |
 | 85 | [COOKIE](https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [COOKIE](https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK) | 2:31 |
 | 86 | [try again](https://open.spotify.com/track/1MyG8JxwY3hosoRPgpuWJ1) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [WHEN IT'S ALL OVER](https://open.spotify.com/album/77ae55sz3o6xw9kiLBH8Yb) | 4:14 |
-| 87 | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/track/2PzygCxvCYzsIyc50VStxD) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/album/6E0GwKl75NuFkeh6WoFI03) | 3:07 |
+| 87 | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/track/2PzygCxvCYzsIyc50VStxD) | [Carter Benjamin](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/album/6E0GwKl75NuFkeh6WoFI03) | 3:07 |
 | 88 | [Ours](https://open.spotify.com/track/1B7XSl075FcGoHjnHMoiIK) | [Oarts](https://open.spotify.com/artist/2rFOTt38op2IreMwRrLc2f) | [Ours](https://open.spotify.com/album/17mEEi35ueNfguWoDRt8Tb) | 4:13 |
 | 89 | [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 |
 | 90 | [Everyone I please hates me](https://open.spotify.com/track/1KaZWvFJELretod1Gk98nS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [I'm cool...I guess](https://open.spotify.com/album/5duNYF5T14CMxB4V3ps9lA) | 4:44 |

@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "a star is born",
+        "url": "https://open.spotify.com/album/1WwCbQwxgYlPrFdrbwl4x8"
+      },
+      "artists": [
+        {
+          "name": "pencil dreaming",
+          "url": "https://open.spotify.com/artist/1OLbfsyTtWjJoUivXVFS58"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130188,
+      "name": "a star is born",
+      "url": "https://open.spotify.com/track/41J645oZAvRnUFoeOAcp4L"
+    },
+    {
+      "album": {
         "name": "Lullabies on Music Box",
         "url": "https://open.spotify.com/album/1hDnsG6Lx0x4J2Q8pdJTo1"
       },
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 137555,
       "name": "bed time",
       "url": "https://open.spotify.com/track/0KZ1vXjd46nN3tC0MKTaVr"
@@ -3191,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "Make A Wish",
+        "url": "https://open.spotify.com/album/43ews709BnAqZHgPIEFlRs"
+      },
+      "artists": [
+        {
+          "name": "Lila Novelle",
+          "url": "https://open.spotify.com/artist/188g9y5y767vPnvVRVnvQW"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Make A Wish",
+      "url": "https://open.spotify.com/track/1EPmp7l8pTEJupWZRDNdgG"
+    },
+    {
+      "album": {
         "name": "Mandy's Song (Music Box Version)",
         "url": "https://open.spotify.com/album/4pfxpWd0pyC41zU8P33MAp"
       },
@@ -4192,7 +4228,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 85306,
       "name": "Rest Your Head on My Shoulder",
       "url": "https://open.spotify.com/track/6dj1sdJpygoCS6ELlLF6QV"
@@ -4498,7 +4534,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 92208,
       "name": "Sleeping Angel",
       "url": "https://open.spotify.com/track/4HC4pGvGPUomA1m4409wrY"
@@ -5078,6 +5114,24 @@
       "duration_ms": 87606,
       "name": "Sunset Lullaby",
       "url": "https://open.spotify.com/track/60AqMQkQK1fYuW0JwvG0eA"
+    },
+    {
+      "album": {
+        "name": "Sunset Song",
+        "url": "https://open.spotify.com/album/5PCVX8Fgyd9jqlDsZr71e0"
+      },
+      "artists": [
+        {
+          "name": "Kilian Skoog",
+          "url": "https://open.spotify.com/artist/2TWJuWpcdDRbLwOBOEe3OK"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99140,
+      "name": "Sunset Song",
+      "url": "https://open.spotify.com/track/202UvEtmaaAsgtyfKeN0sI"
     },
     {
       "album": {
@@ -5812,7 +5866,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 129644,
       "name": "Trunki the Elephant",
       "url": "https://open.spotify.com/track/5YTya2koWLgRd2mfKmDfdj"
@@ -5938,10 +5992,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 67711,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/7lElQ1zwjKaEfINWBT4ATx"
+    },
+    {
+      "album": {
+        "name": "Upon A Star",
+        "url": "https://open.spotify.com/album/38lYJHUvg1IkxqzxeTrMot"
+      },
+      "artists": [
+        {
+          "name": "Sophie Am\u00e9lie",
+          "url": "https://open.spotify.com/artist/6Y0kBLpIF0wNkwrrVviWWF"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132096,
+      "name": "Upon A Star",
+      "url": "https://open.spotify.com/track/4qxSwyFxXQvM92Dz93B5U7"
     },
     {
       "album": {
@@ -6068,6 +6140,24 @@
       "duration_ms": 90000,
       "name": "When I Grow Up",
       "url": "https://open.spotify.com/track/1yHO01kk4jbiTeaEcIRfiY"
+    },
+    {
+      "album": {
+        "name": "When the moon smiles",
+        "url": "https://open.spotify.com/album/6wDAwNGfxEfjCssjxuvc96"
+      },
+      "artists": [
+        {
+          "name": "Michael Andersen",
+          "url": "https://open.spotify.com/artist/5gmOxTV1V68gGvOXDTopig"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150056,
+      "name": "When the moon smiles",
+      "url": "https://open.spotify.com/track/3LJh4L2Fo7Q5Qzv3HDp3cC"
     },
     {
       "album": {

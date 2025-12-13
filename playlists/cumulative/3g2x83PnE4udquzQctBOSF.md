@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-425 songs - 1 day 1 hr 19 min
+427 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blow Up](https://open.spotify.com/track/0jqGd9d5oznIGULDS2aCja) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Blow up EP](https://open.spotify.com/album/0syFv4l0BXK1zID0jy2jIb) | 3:04 | 2024-07-07 |  |
 | [Body Chalk](https://open.spotify.com/track/0QE8eb7vXTb4WHbVBwu4Ql) | [Toyzz](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Body Chalk](https://open.spotify.com/album/12EVz1TFhTPxEr7QRFQsZq) | 2:50 | 2024-02-04 | 2024-03-25 |
 | [Body Close](https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Body Close](https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH) | 3:39 | 2023-07-02 | 2023-07-31 |
+| [Body Groove 25 \- Lumiere Radio Remix](https://open.spotify.com/track/2ZXNFQ6SLl1DGTUg9VHq6N) | [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt), [Lumiere](https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj) | [Body Groove 25](https://open.spotify.com/album/0BfQKQ0JstHBsRTvKrSKe1) | 3:20 | 2025-12-12 |  |
 | [Body Move](https://open.spotify.com/track/30DlzqpYluEkK82ysCsWVH) | [Aidan Rudd](https://open.spotify.com/artist/0Sk7ICzr5YpQ2b9N7zPSdD) | [Body Move](https://open.spotify.com/album/62yPsxxcVys0acKI9ZSVHM) | 3:45 | 2023-06-11 | 2023-07-03 |
 | [Body Shake](https://open.spotify.com/track/5vNQ6XnOHTP9yiKwj0n6zy) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O), [EVEL!N](https://open.spotify.com/artist/1pqFkN9ZxGGNAoqa8CmSCF) | [Body Shake](https://open.spotify.com/album/59GcH5wN5kj61dPPWtE8cl) | 3:32 | 2023-05-21 | 2023-06-19 |
 | [Boom](https://open.spotify.com/track/7AJy67TqJVYSSlp4z01H4d) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Boom](https://open.spotify.com/album/07XMRuimaG7X1vbryMOpib) | 2:28 | 2024-01-14 | 2024-03-11 |
@@ -291,6 +292,7 @@
 | [No Stoppin'](https://open.spotify.com/track/4MqZA9u2BDdFheypDOjAxU) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [No Stoppin'](https://open.spotify.com/album/5n5T2dugUpP3orPV6aWYRh) | 3:02 | 2023-07-16 | 2023-08-20 |
 | [NVRBE](https://open.spotify.com/track/5VhcagXIZLl89yVBMKXcdX) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Again](https://open.spotify.com/album/3UfZC0DQt2irfvnUWQ8yhW) | 5:25 | 2023-08-06 | 2023-09-26 |
 | [ON YA MARK](https://open.spotify.com/track/70CWkjPF4ETV62o5Hu82SD) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [ON YA MARK](https://open.spotify.com/album/2LTSKqCad4wS9IAWkswsFe) | 6:31 | 2024-04-14 | 2024-07-08 |
+| [Only Love Matters \- Part 1 \- London](https://open.spotify.com/track/6P45k6uEzsbuXlL6t1qEha) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only Love Matters \(Part 1 \- London\)](https://open.spotify.com/album/0nlGjAwuEminR5Nd1i6Cij) | 2:17 | 2025-12-12 |  |
 | [Operator](https://open.spotify.com/track/4g46R8Fz2YR77jXZjw8PJA) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Operator](https://open.spotify.com/album/6k7OxcVJipXt5Y7ySOeNjH) | 5:54 | 2024-03-10 | 2024-04-15 |
 | [Orient Express](https://open.spotify.com/track/293qKOjripajaL2vyZnJkX) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Orient Express](https://open.spotify.com/album/2ZeA0rOASQLqhn8WSKCNqT) | 2:46 | 2023-02-19 | 2023-03-20 |
 | [Outer Space](https://open.spotify.com/track/4acZoDcg5neM4mAtVsTQSK) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Just What The World Needs EP](https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX) | 4:03 | 2023-01-29 | 2023-02-20 |

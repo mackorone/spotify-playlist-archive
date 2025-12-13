@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "AFTER TASTE",
+        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247968,
+      "name": "AFTER TASTE",
+      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
+    },
+    {
+      "album": {
         "name": "HOME EP",
         "url": "https://open.spotify.com/album/06wZxbyxypr1BVQEopXXtx"
       },
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 178700,
       "name": "Present",
       "url": "https://open.spotify.com/track/6haW837EW4wauotPmhUVAM"

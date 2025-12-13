@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,212 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,213 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 |
-| 2 | [Mystery Train \- feat\. Wez Atlas](https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas\)](https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4) | 3:41 |
+| 1 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
+| 2 | [sou](https://open.spotify.com/track/0umAUNIad7XeqVWRBmSurY) | [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [29](https://open.spotify.com/album/0reRYB6Jdat0UMAtvrfkSl) | 3:27 |
 | 3 | [Hachikō](https://open.spotify.com/track/3Aj0zsny1zlTLevRxfEEKc) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:30 |
 | 4 | [Eureka](https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Eureka](https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL) | 3:31 |
 | 5 | [DEVOTION](https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:54 |
-| 6 | [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 |
+| 6 | [Mystery Train \- feat\. Wez Atlas](https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas\)](https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4) | 3:41 |
 | 7 | [Velvet Love](https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Velvet Petals](https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA) | 3:20 |
 | 8 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
 | 9 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
@@ -26,25 +26,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 16 | [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 |
 | 17 | [Wonderwall](https://open.spotify.com/track/1DadkoAI2gicYJfindPY20) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies...1994\-2009](https://open.spotify.com/album/6L5KBi1wt0rv1rA88kS1W4) | 4:19 |
 | 18 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
-| 19 | [ça pik un peu quand même](https://open.spotify.com/track/5pbOI0KItebrpL6UeQKs7A) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5iYukIto4dPaIxDVzgiq2p) | 2:17 |
+| 19 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 |
 | 20 | [アルコール](https://open.spotify.com/track/6dGZVFHH89faJ5cVm0rvFT) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [アルコール](https://open.spotify.com/album/1GroYMvealvEMklwge2hF2) | 3:21 |
 | 21 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
-| 22 | [Take Care Terry](https://open.spotify.com/track/5fZVNQ7VbWpH6fTjh1HZ08) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w) | [Take Care Terry](https://open.spotify.com/album/2IVfHyrBqB8TzptyU8r4Cb) | 3:04 |
-| 23 | [Regulus](https://open.spotify.com/track/0TLKzbTXx16qNwcKVGEqVl) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Regulus](https://open.spotify.com/album/05YySEyYLLFh7QI4kVEwt1) | 3:22 |
+| 22 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
+| 23 | [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 |
 | 24 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 25 | [Telepono](https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Telepono](https://open.spotify.com/album/1NXEADwt5YkBNS9FTCaxAo) | 3:38 |
-| 26 | [Knights of Jahannam](https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Knights of Jahannam / Soma Gospel](https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz) | 3:29 |
-| 27 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
+| 26 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
+| 27 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 28 | [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 |
 | 29 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 |
-| 30 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 |
-| 31 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 |
+| 30 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/224NGC6XAr74nyYDgYCTHj) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 |
+| 31 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 32 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 3:23 |
 | 33 | [a hiatus](https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:47 |
 | 34 | [Itsumo](https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Itsumo](https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5) | 4:11 |
 | 35 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 |
 | 36 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 |
-| 37 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
+| 37 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 |
 | 38 | [New Romantic \- English Version](https://open.spotify.com/track/2pX3BJ8Dth7FycBchBZPmh) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [New Romantic](https://open.spotify.com/album/0CTUBmq4C8SGei4uMG8TpY) | 2:55 |
 | 39 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 40 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 49 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 50 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 
-Snapshot ID: `AAAAAGnlDfQbaZD+cAqmtun9V01zPnIL`
+Snapshot ID: `AAAAABPy5fVR9S1UyigWFfqSbV4x4Eco`

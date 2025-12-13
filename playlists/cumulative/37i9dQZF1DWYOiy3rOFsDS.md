@@ -2,9 +2,9 @@
 
 ### [Boleros Pop](https://open.spotify.com/playlist/37i9dQZF1DWYOiy3rOFsDS)
 
-> Romance a la antigüita con Tufic y Daphne Michelle en portada.
+> Romance a la antigüita con Tornillo y Tony Aguirre en portada.
 
-388 songs - 22 hr 14 min
+389 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Corcovado](https://open.spotify.com/track/0kSrEKOaCDnmrCb9Y5jJbI) | [Andrés Volkov](https://open.spotify.com/artist/17JlqqdDMFkn0NLCYCZ3Xw) | [Corcovado](https://open.spotify.com/album/3jgcqUrpue41VM7LRLvfDO) | 2:51 | 2022-02-22 | 2022-04-19 |
 | [Cuando Los Malandros Lloran](https://open.spotify.com/track/2Hz67xjPicg9Xdq7K8FfDG) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Cuando Los Malandros Lloran](https://open.spotify.com/album/1BOErcw8iZR9VkUyeF7flO) | 2:23 | 2021-11-24 | 2023-02-13 |
 | [Cuando No Hay Nada Que Hablar](https://open.spotify.com/track/2RZ316OxGfbTPIrzIfvk7j) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Las Mujeres de Manzanero..\. Mis Nuevos Boleros](https://open.spotify.com/album/4vCLdaO8JOFjxfuN3qEwEe) | 3:52 | 2021-10-16 | 2022-07-28 |
-| [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 | 2022-11-04 |  |
+| [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 | 2022-11-04 | 2025-12-13 |
 | [Deje de Amar](https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo) | [Felipe Muñiz](https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deje de Amar](https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou) | 3:12 | 2021-10-16 | 2025-07-12 |
 | [Delincuente](https://open.spotify.com/track/1vsKgB7rS86FRBsyKUnbI8) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Delincuente](https://open.spotify.com/album/2JZwcjDHswmrrCJSY790sr) | 2:38 | 2024-10-11 | 2024-11-28 |
 | [DELIRIO DE GRANDEZA](https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:35 | 2022-04-04 | 2023-01-28 |
@@ -389,6 +389,7 @@
 | [Vuélveme a Besar](https://open.spotify.com/track/3jtP57fo4iuQfOPK4zuO0a) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Fabiola Roudha](https://open.spotify.com/artist/1zy1aRv5QcHeNCA3jyTp71) | [Vuélveme a Besar](https://open.spotify.com/album/3qDEmh2LqhM3wAHr4ANqSB) | 2:43 | 2025-03-14 |  |
 | [Y \- En vivo](https://open.spotify.com/track/6QbEENozheS46xQY56acH9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:42 | 2021-10-16 | 2024-02-17 |
 | [Ya Sé](https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam Vol\. 1](https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU) | 4:35 | 2021-10-16 | 2023-02-22 |
+| [Yo Le Entregaba Todo](https://open.spotify.com/track/6YRxq1KjETvOkdmBQvMt2h) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Como Es Arriba, Es Abajo](https://open.spotify.com/album/5D2wY1ByIhPOlN5Q2sOQkH) | 3:13 | 2025-12-12 |  |
 | [Yo Nunca Te Mentí](https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [COMO ARRUINARTE LA VIDA \(con una herida prohibida\)](https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc) | 3:16 | 2024-06-28 |  |
 | [Yo Sé Que Te Acordarás](https://open.spotify.com/track/2PLbWfR7PRGrT8qUfAR2qf) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Yo Sé Que Te Acordarás](https://open.spotify.com/album/2KKD5l6Ton7E2deqIdpPTe) | 3:02 | 2025-11-28 |  |
 | [¿Dime Por Qué?](https://open.spotify.com/track/0oFZrc1s8CxgPSEd4w4Re6) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Dani Labbé](https://open.spotify.com/artist/6IrVQYWf9tt8rqkpPHw4at) | [¿Dime Por Qué?](https://open.spotify.com/album/3vPbH3GdSlx4rWYjGROpHU) | 3:19 | 2025-03-14 | 2025-05-31 |

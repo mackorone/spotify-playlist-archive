@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,801 likes - 44 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,804 likes - 44 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 43 | [Shady](https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:49 |
 | 44 | [No Thanks](https://open.spotify.com/track/7sf18eK8GKYiffwszSB3mS) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:40 |
 
-Snapshot ID: `aTi4AAAAAAA1zI5iJYgUbRT7d/C8vzen`
+Snapshot ID: `aToJgAAAAAAWHhHayeI4RuEcsBIf2rQV`

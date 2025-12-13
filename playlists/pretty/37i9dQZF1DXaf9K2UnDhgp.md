@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree with Fall Out Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,844 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,201 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 99 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4MT3U8IqKyw2lFh0mcvQGJ) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/2GRbDYDYPVQyXZ2Vg9037w) | 2:37 |
 | 100 | [Oh My Christmas Tree](https://open.spotify.com/track/4GARaubo2Crixv8UVOIAe7) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Happy Holiday!](https://open.spotify.com/album/3OM6XAmkfIl5mSmTnyekOO) | 4:12 |
 
-Snapshot ID: `AAAAAF+s7zc6FYZZw2BFwWKLYI/6CdFM`
+Snapshot ID: `AAAAAMVtrSFXq6THj+xBOmurE0dF7wyb`

@@ -74,7 +74,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 475000,
       "name": "Abide",
       "url": "https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 485396,
       "name": "Be Enthroned (Live)",
       "url": "https://open.spotify.com/track/3OzQn19XAveO8ZbKH1YPOA"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 334340,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 333574,
       "name": "Holy Ground",
       "url": "https://open.spotify.com/track/7L73QNGkvyi7rX6zJ0fcwO"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 453980,
       "name": "House Of Miracles - Live",
       "url": "https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 494232,
       "name": "I Just Love You - Live",
       "url": "https://open.spotify.com/track/4LMGJcpVESW2RdUGyfy1Xy"
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 344933,
       "name": "In Each Grain of Sand (Live)",
       "url": "https://open.spotify.com/track/6tZ1vMQc957RRrNTjuQ4RJ"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 590437,
       "name": "Isn't He (This Jesus) [feat. Natalie Grant]",
       "url": "https://open.spotify.com/track/0AiQLGevpr9XOc9kIRjyuB"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 283813,
       "name": "Jesus Only You",
       "url": "https://open.spotify.com/track/49ZCM955HL02dceJnsK3oK"
@@ -2490,6 +2490,10 @@
         {
           "name": "Capital City Music",
           "url": "https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH"
+        },
+        {
+          "name": "Dion Davis",
+          "url": "https://open.spotify.com/artist/14jNstS0l1VyQ8S5zfCYLr"
         }
       ],
       "date_added": "2020-09-04",
@@ -2570,7 +2574,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 279284,
       "name": "Lift My Eyes",
       "url": "https://open.spotify.com/track/528yeDtBCd7bv0emBJIin6"
@@ -2697,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Rediscovery",
+        "url": "https://open.spotify.com/album/5WKbd9lbctdAXcjwK2X4PV"
+      },
+      "artists": [
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297231,
+      "name": "Loved By Love",
+      "url": "https://open.spotify.com/track/2fGaAHVN3P45yLBLAjd3mi"
+    },
+    {
+      "album": {
         "name": "Mention Of Your Name",
         "url": "https://open.spotify.com/album/1jAhwQDRVeCX1f80Woc8ST"
       },
@@ -2726,7 +2748,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 326706,
       "name": "Mention of Your Name",
       "url": "https://open.spotify.com/track/4AyrksLYxy1R8X8IDukI0h"
@@ -3064,7 +3086,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 231772,
       "name": "No Other",
       "url": "https://open.spotify.com/track/4ZmCl1A4EJPBlPhcJ1SHRO"
@@ -3348,7 +3370,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293986,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/1tk77A21RXGJK1JaT3QkU2"
@@ -4064,7 +4086,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 349480,
       "name": "Shepherd (Studio)",
       "url": "https://open.spotify.com/track/4qsUMYIkHAioeRgw2KuXg9"
@@ -4424,7 +4446,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 349525,
       "name": "Surrounded (Fight My Battles) [Live]",
       "url": "https://open.spotify.com/track/4GlWqYw49fgrRiB0YzfyMO"
@@ -4464,7 +4486,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 241213,
       "name": "Take Courage (Radio Version)",
       "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
@@ -4616,7 +4638,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 425184,
       "name": "The Way (New Horizon)",
       "url": "https://open.spotify.com/track/0x9e3L5wMrST4Xi20XUJPw"
@@ -4732,7 +4754,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 320683,
       "name": "This Is Love - Live",
       "url": "https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx"
@@ -4870,7 +4892,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 422626,
       "name": "Wait Upon the Lord (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/54ssR8bIVLOi4S1KH9lcS6"
@@ -5002,7 +5024,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 150760,
       "name": "We Just Want to Worship (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/4NyBP8P9C6J6o1yxCeXhCB"
@@ -5126,7 +5148,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 288640,
       "name": "When You Walk Into The Room",
       "url": "https://open.spotify.com/track/4lZ59872CRyvLpJ5Y9XwlF"
@@ -5300,7 +5322,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 417230,
       "name": "Yeshua (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/07GcGWXI5TzXpW87pkzV78"
@@ -5380,7 +5402,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 362746,
       "name": "You Deserve It All",
       "url": "https://open.spotify.com/track/7yqDyoAzXsz3YYLnwR3ilc"
@@ -5500,7 +5522,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 317205,
       "name": "You're Not Finished Yet (feat. Maggie Reed)",
       "url": "https://open.spotify.com/track/76rzgH7XsfoozW4A8Xo1fz"

@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18872,
+  "num_followers": 18873,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADGgufyCWJdNqtduCkUURAC",
+  "snapshot_id": "aToJgAAAAABmFi6b/7vgNElc+GAQOCyu",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208822,
+      "name": "Slide (with Gunna)",
+      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -299,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
+        "name": "No More Parties (Remix)",
+        "url": "https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX"
       },
       "artists": [
         {
@@ -308,13 +328,13 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 208822,
-      "name": "Slide (with Gunna)",
-      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
+      "duration_ms": 192880,
+      "name": "No More Parties - Remix",
+      "url": "https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa"
     },
     {
       "added_at": null,
@@ -339,26 +359,6 @@
       "duration_ms": 164586,
       "name": "Pink Money (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No More Parties (Remix)",
-        "url": "https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "No More Parties - Remix",
-      "url": "https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa"
     },
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tomboy (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 190355,
+      "name": "Tomboy (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Die 4 Respect",
         "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 245621,
       "name": "Impatient (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomboy (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L"
-      },
-      "artists": [
-        {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 190355,
-      "name": "Tomboy (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
     },
     {
       "added_at": null,
@@ -991,22 +991,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Karlae",
+          "url": "https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Overthinking (with H.E.R.)",
-      "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
+      "duration_ms": 189813,
+      "name": "I Like (feat. Karlae & Coi Leray)",
+      "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
     }
   ],
   "unique_name": "This Is Coi Leray",

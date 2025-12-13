@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,245 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,325 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 20 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
 | 21 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
 | 22 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
-| 23 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
-| 24 | [Kabhi Yaadon Mein Aaun](https://open.spotify.com/track/1VO2GtGchLJmnJFQZZlEux) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Tere Bina](https://open.spotify.com/album/6tAeHypxJQaHd3RAkEmNaJ) | 6:07 |
+| 23 | [Kabhi Yaadon Mein Aaun](https://open.spotify.com/track/1VO2GtGchLJmnJFQZZlEux) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Tere Bina](https://open.spotify.com/album/6tAeHypxJQaHd3RAkEmNaJ) | 6:07 |
+| 24 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
 | 25 | [Kehdoon Tumhen \(Close To U\)](https://open.spotify.com/track/2up5kZEADyiPGQNDhgdDVl) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Ramona](https://open.spotify.com/artist/4AlZlo4zQrs1xVL37oZsIl), [Blazee](https://open.spotify.com/artist/0DfkTmaYSHh3urEl71R9A0), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [The Return Of Daddy Mix](https://open.spotify.com/album/3XureElTa0Ra4VRxbn72oa) | 4:56 |
 | 26 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
 | 27 | [Nain Se Naino Ko Mila](https://open.spotify.com/track/5dU0yXUXYjP1e6e2s6OSh2) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 4:12 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 30 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 |
 | 31 | [Kya Soorat Hai](https://open.spotify.com/track/2uGLo0jNB0LNDX5yHkZhFR) | [Bombay Vikings](https://open.spotify.com/artist/0IOJyZSSqmto4oze5nSCo0) | [Kya Surat Hai](https://open.spotify.com/album/2bQctlBwJyk3uL2jG8f3bN) | 3:53 |
 | 32 | [Let the Music Play](https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5) | [Shamur](https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP) | [Shardana](https://open.spotify.com/album/52Ipw9FNpnNTJOjbuPaQBg) | 3:41 |
-| 33 | [Piya Re Piya Re](https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Salaam \- Nusrat Fateh Ali Khan](https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl) | 7:44 |
-| 34 | [Let's Work It out \(feat\. Jahaziel\)](https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6) | [Storyteller](https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9) | 4:05 |
+| 33 | [Let's Work It out \(feat\. Jahaziel\)](https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6) | [Storyteller](https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9) | 4:05 |
+| 34 | [Piya Re Piya Re](https://open.spotify.com/track/2q3D4sdAMJSJRS9t6oaBRo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Salaam \- Nusrat Fateh Ali Khan](https://open.spotify.com/album/2Kd3ERDAIRn0DLJGzxu3dl) | 7:44 |
 | 35 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
 | 36 | [Kabhi Nahee](https://open.spotify.com/track/3zeTPFtnlR72qRnBH3g2xd) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 3:39 |
 | 37 | [Saade Dil Te Chhuriyan Chaliyan](https://open.spotify.com/track/4MmlE62E59WSZtH90Kbu5C) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 3:12 |

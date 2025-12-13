@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Hofe.
 
-656 songs - 1 day 10 hr 2 min
+656 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [TECHNO TRISTE](https://open.spotify.com/track/3DMPD8rUJLfEzKjllHBlyd) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [SORA](https://open.spotify.com/album/3AIudzhhrjUs38gc5iSUKn) | 3:44 | 2024-10-10 | 2025-08-08 |
 | [Tengo que despertar](https://open.spotify.com/track/0gM4UMvAiejJuZpUdeSdoO) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Tengo que despertar](https://open.spotify.com/album/7xNOkKfCRJPQ17Yy7oc23y) | 2:44 | 2024-10-31 | 2024-11-29 |
 | [Tesla Bat Sutan](https://open.spotify.com/track/7GNK3l3XHZ3Kcp8tnfoNRB) | [Merina Gris](https://open.spotify.com/artist/7MoqcWOPD6BEKF85fxvwuD), [Gorka Urbizu](https://open.spotify.com/artist/1hjMHFON1S6koeM9Ae4aWo) | [Tesla Bat Sutan](https://open.spotify.com/album/4Cng3u9vN69WRAj56KNtsu) | 3:24 | 2025-09-18 |  |
+| [The KKK Took My Baby Away](https://open.spotify.com/track/09mJBhJoLEvCSYq3J1xX4a) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Los Telepáticos](https://open.spotify.com/album/0v5ANQwTATWQSM4E5yCAze) | 2:32 | 2025-12-11 |  |
 | [The Last of Us](https://open.spotify.com/track/2WxZ92Q1q5NPbdJbJx7k8q) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [The Last of Us](https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw) | 4:30 | 2024-06-27 | 2024-08-16 |
 | [Tiemblo](https://open.spotify.com/track/5H8Fn7NsXgnl6dE1xDfLIH) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [LOS CUBATAS](https://open.spotify.com/artist/7eoNELRjjconqEphiOWOo6) | [Tiemblo](https://open.spotify.com/album/1PSEn4CRyTbik6Q24ItUpb) | 2:44 | 2024-06-27 | 2024-11-08 |
 | [TIEMBLO](https://open.spotify.com/track/4uqnehVpFI8ykMOhzlgfpV) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [TIEMBLO](https://open.spotify.com/album/1KiAXR3Eu85qGm2m7vQ11p) | 2:10 | 2024-06-27 | 2024-07-20 |
@@ -593,7 +594,6 @@
 | [Todos menos tú](https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [I\-Ace](https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0) | [Todos menos tú](https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S) | 2:50 | 2024-06-27 | 2024-09-20 |
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-30 | 2025-03-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-10-31 |
-| [Track 9](https://open.spotify.com/track/09mJBhJoLEvCSYq3J1xX4a) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 | 2024-11-15 |

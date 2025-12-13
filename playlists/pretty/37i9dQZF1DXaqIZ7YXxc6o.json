@@ -1,12 +1,12 @@
 {
-  "description": "Your weekly dose of new dance. Cover: KU\u010cKA",
-  "num_followers": 148409,
+  "description": "Your weekly dose of new dance. Cover: Cosmo's Midnight",
+  "num_followers": 148405,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKcONY4SRFjlj5lR2uxLN8T+A+An",
+  "snapshot_id": "AAAAAIvpCtu5qZ9ZXVqddaXQvkg2KGaE",
   "tracks": [
     {
       "added_at": "2025-12-11 13:00:25",
@@ -183,8 +183,28 @@
     {
       "added_at": "2025-12-11 13:00:25",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "DON\u2019T KILL THE PARTY (Wax Motif Remix)",
+        "url": "https://open.spotify.com/album/54pqqhRnzxuGflyeOTxGlV"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 223664,
+      "name": "DON'T KILL THE PARTY (Wax Motif Remix)",
+      "url": "https://open.spotify.com/track/7IsXMpfdOXgr8sS3a9AbcV"
+    },
+    {
+      "added_at": "2025-12-11 13:00:25",
+      "album": {
+        "name": "Start Again EP",
+        "url": "https://open.spotify.com/album/573A0oWNSumOlQ8HtePqLU"
       },
       "artists": [
         {
@@ -192,8 +212,8 @@
           "url": "https://open.spotify.com/artist/270lBB4c4WBLdrzQKgrXDI"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 154160,
+      "name": "Gruving On",
       "url": "https://open.spotify.com/track/4ilo4iwiF1t6Y5qahAc46N"
     },
     {
@@ -555,7 +575,7 @@
     {
       "added_at": "2025-12-11 13:00:25",
       "album": {
-        "name": "Substance (feat. FAANGS)",
+        "name": "Substance",
         "url": "https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA"
       },
       "artists": [
@@ -573,7 +593,7 @@
         }
       ],
       "duration_ms": 160496,
-      "name": "Substance (feat. FAANGS)",
+      "name": "Substance",
       "url": "https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf"
     },
     {

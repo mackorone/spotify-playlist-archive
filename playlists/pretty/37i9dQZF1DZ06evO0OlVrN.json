@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7991,
+  "num_followers": 7992,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABJcrAsWL6i/58veJLrArug",
+  "snapshot_id": "aToJgAAAAACYIPSgK0cg9X3sVAvVxsXK",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estamos en Algo",
-        "url": "https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3"
+        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 173781,
-      "name": "Estamos en Algo",
-      "url": "https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU"
+      "duration_ms": 143438,
+      "name": "La Criminal",
+      "url": "https://open.spotify.com/track/3PfaTmK3xqxw5HMVautCvf"
     },
     {
       "added_at": null,
@@ -603,6 +603,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estamos en Algo",
+        "url": "https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 173781,
+      "name": "Estamos en Algo",
+      "url": "https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Cruel Dolor",
+      "url": "https://open.spotify.com/track/2Jtbo4ClBvVEPuRFzG9SIu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
         "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
@@ -612,9 +644,25 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 143438,
-      "name": "La Criminal",
-      "url": "https://open.spotify.com/track/3PfaTmK3xqxw5HMVautCvf"
+      "duration_ms": 113606,
+      "name": "Mi Talism\u00e1n",
+      "url": "https://open.spotify.com/track/6HEo5xk1E0orU26VsdPyPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 127649,
+      "name": "Vagando Voy",
+      "url": "https://open.spotify.com/track/5TV0CzAeiTbKY2mcsdDmkJ"
     },
     {
       "added_at": null,
@@ -655,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disco de Oro",
-        "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 127649,
-      "name": "Vagando Voy",
-      "url": "https://open.spotify.com/track/5TV0CzAeiTbKY2mcsdDmkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
         "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
@@ -680,41 +712,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 113606,
-      "name": "Mi Talism\u00e1n",
-      "url": "https://open.spotify.com/track/6HEo5xk1E0orU26VsdPyPS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Cruel Dolor",
-      "url": "https://open.spotify.com/track/2Jtbo4ClBvVEPuRFzG9SIu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos Llorar por Amor",
-        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 169240,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
+      "duration_ms": 140329,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/2SdeCCCwRMGmQx3XQdOVj9"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
-        "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
+        "name": "20 Exitos Llorar por Amor",
+        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 140329,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/2SdeCCCwRMGmQx3XQdOVj9"
+      "duration_ms": 169240,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Mujer de Cabaret",
-      "url": "https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
         "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 184424,
       "name": "Capullito de Rosa",
       "url": "https://open.spotify.com/track/0kZORMFZARYAScvlFfkz3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Mujer de Cabaret",
+      "url": "https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

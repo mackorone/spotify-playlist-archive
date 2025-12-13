@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 344 likes - 55 songs - 3 hr 18 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 360 likes - 66 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,16 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 53 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 |
 | 54 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 |
 | 55 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 |
+| 56 | [Hardly Know Her](https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [Hardly Know Her](https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE) | 3:09 |
+| 57 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 |
+| 58 | [help](https://open.spotify.com/track/0GL1VRnWrizG4gRqEA6bFN) | [1bed](https://open.spotify.com/artist/4u3OTdGtad4UJc5nKD15oq) | [help](https://open.spotify.com/album/2FXsrNcATB6Wrgvg32Fzp7) | 1:26 |
+| 59 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 |
+| 60 | [Billionaire](https://open.spotify.com/track/1QZgcNDUg4TjD0bgRadlK9) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Billionaire](https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4) | 3:50 |
+| 61 | [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 |
+| 62 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 |
+| 63 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 |
+| 64 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 |
+| 65 | [No Rules](https://open.spotify.com/track/32BWKxssN2iziIF4WDZQxJ) | [S E B A S T I E N](https://open.spotify.com/artist/0m4wcDJ60vbHFh7UdkP8lz) | [No Rules](https://open.spotify.com/album/3KDyUV7Mw2Desfa0acNlog) | 3:59 |
+| 66 | [Broken Language](https://open.spotify.com/track/0uCHsMKYhxCawnnPZvLLUV) | [Never Mind](https://open.spotify.com/artist/5Cghtk7bBFeh8ylFr8HX7C) | [Do You Remember Me at All?](https://open.spotify.com/album/3T5ZGHyqLY2jqJr4e5E1Nt) | 6:26 |
 
-Snapshot ID: `AAACF4mLyn5KAqMIx51LIoaZ4WCOr3lM`
+Snapshot ID: `AAACIvqT3KqvZQpOCwk7VGcDnwrvtbNy`

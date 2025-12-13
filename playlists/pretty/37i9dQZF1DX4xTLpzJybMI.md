@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xTLpzJybMI.md) - [plain]
 
 > The baddest & talented Korean female rappers \(Cover: MIRANI\(미란이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 224 likes - 116 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 227 likes - 116 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,860 likes - 104 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,344 likes - 104 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 103 | [And So I Grow](https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [And So I Grow](https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy) | 3:38 |
 | 104 | [Heavy](https://open.spotify.com/track/3D84aC9RWEI1S6SgnKMUBe) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Heavy](https://open.spotify.com/album/4BTcDzYMWrRP5V4LPffX9d) | 3:48 |
 
-Snapshot ID: `AAAAAKW6w0iRP4RXl7ERyWx2Qb+pG/1h`
+Snapshot ID: `AAAAANrOVbvrkcBeKgKE7dQo8KCnS5Gj`

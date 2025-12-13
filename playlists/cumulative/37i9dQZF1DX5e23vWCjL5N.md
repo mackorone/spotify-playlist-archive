@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Sotto il cappuccio: Gemitaiz
 
-338 songs - 17 hr 17 min
+339 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Addio \(feat\. Salmo\)](https://open.spotify.com/track/1lCR4Zwyp1JFGhXVjlFfts) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Canerandagio](https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR) | 2:44 | 2025-08-28 |  |
 | [Altezza cielo \(feat\. Kid Yugi\)](https://open.spotify.com/track/0GtGhO25XJZIwVVQzfOxVy) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:41 | 2025-06-05 |  |
 | [AMEN](https://open.spotify.com/track/4MIObv6jXdHuf3EGDg3Lap) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:02 | 2023-09-14 | 2023-11-29 |
+| [Amica sopra al tavolo \(feat\. Abby 6ix\)](https://open.spotify.com/track/4UMe5hRNllMSVnmy7XMWAw) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Amica sopra al tavolo \(feat\. Abby 6ix\)](https://open.spotify.com/album/2TFqQcA8VvUQwU8zMwWu9h) | 2:49 | 2025-12-12 |  |
 | [Amici](https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Scialla Semper](https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX) | 3:00 | 2022-04-15 |  |
 | [Amici](https://open.spotify.com/track/24LOH9TdyAsSqASnyfY3Xn) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper](https://open.spotify.com/album/4HzX5H3PFVQk1nAlzLG29r) | 3:00 | 2023-06-01 | 2024-04-19 |
 | [Amici O Nemici](https://open.spotify.com/track/6FQdZ2MywYwiXe2eKNeGXi) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:32 | 2022-04-15 | 2022-11-17 |
@@ -104,7 +105,7 @@
 | [Dedicated \(feat\. Noyz Narcos\)](https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:56 | 2025-06-04 |  |
 | [DELLAMORTE DELLAMORE \(feat\. Salmo & Sally Cruz\)](https://open.spotify.com/track/6UbCKZweTOFGyRZLDV2oRo) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [Incubi](https://open.spotify.com/album/10SKT9rzO48WQRmzzmjstN) | 3:24 | 2025-11-13 |  |
 | [Dentro di me](https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Dentro di me](https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if) | 2:37 | 2024-02-22 | 2024-03-29 |
-| [Dio Non C'è](https://open.spotify.com/track/6zWGONZ4N03Yknef4scWZa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:51 | 2025-12-12 |  |
+| [Dio Non C'è \(feat\. Alessandra Amoroso\)](https://open.spotify.com/track/6zWGONZ4N03Yknef4scWZa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:51 | 2025-12-12 |  |
 | [DM \(feat\. Tedua\)](https://open.spotify.com/track/3Rc5bO1LQjlVPalGDwTsMa) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 3:06 | 2024-10-10 | 2024-12-14 |
 | [DOLCEVITA](https://open.spotify.com/track/3aSeeZMwVQViHVXHXWPMc4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 | 2024-09-19 | 2025-05-17 |
 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 | 2024-10-24 |  |

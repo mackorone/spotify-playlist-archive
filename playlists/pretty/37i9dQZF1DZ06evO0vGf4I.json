@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1632650,
+  "num_followers": 1632697,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAG8GiAEVI6qoUnanLJLnbY",
+  "snapshot_id": "aToJgAAAAAByiZA1GKqY/FW4P68si1xw",
   "tracks": [
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 314836,
-      "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
-      "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 228759,
       "name": "ZEZE (feat. Travis Scott & Offset)",
       "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 314836,
+      "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+      "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
     },
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Stuff (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Stuff (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N"
     },
     {
       "added_at": null,

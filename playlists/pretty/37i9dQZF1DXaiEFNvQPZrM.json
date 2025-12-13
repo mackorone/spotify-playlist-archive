@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 819476,
+  "num_followers": 819515,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-09-26 04:00:16",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
-    },
-    {
-      "added_at": "2025-09-26 04:00:16",
-      "album": {
         "name": "Time Marches On",
         "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
       },
@@ -439,18 +423,34 @@
     {
       "added_at": "2025-09-26 04:00:16",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 263760,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+    },
+    {
+      "added_at": "2025-09-26 04:00:16",
+      "album": {
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "On My Way to You",
+      "url": "https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU"
     },
     {
       "added_at": "2025-09-26 04:00:16",
@@ -471,18 +471,18 @@
     {
       "added_at": "2025-09-26 04:00:16",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 213306,
-      "name": "On My Way to You",
-      "url": "https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU"
+      "duration_ms": 263760,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
     },
     {
       "added_at": "2025-09-26 04:00:16",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-09-26 04:00:16",
       "album": {
-        "name": "Put Yourself In My Place",
-        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Maybe It Was Memphis",
-      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
-    },
-    {
-      "added_at": "2025-09-26 04:00:16",
-      "album": {
         "name": "On the Other Hand - All the Number Ones",
         "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 186746,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+    },
+    {
+      "added_at": "2025-09-26 04:00:16",
+      "album": {
+        "name": "Put Yourself In My Place",
+        "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Maybe It Was Memphis",
+      "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
     },
     {
       "added_at": "2025-09-26 04:00:16",

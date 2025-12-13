@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7121,
+  "num_followers": 7123,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACJ/q7E+kd/B9Cc8TXN9jT6",
+  "snapshot_id": "aToJgAAAAABvY1dvbFFe8n+BVMTzAPqV",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Tanner Alexander",
-          "url": "https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP"
-        }
-      ],
-      "duration_ms": 227794,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butterfly (New Anthem)",
         "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 227246,
       "name": "Butterfly (New Anthem)",
       "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Tanner Alexander",
+          "url": "https://open.spotify.com/artist/41lO2rd2y2DXgZfoZ85MgP"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,

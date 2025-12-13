@@ -5579,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "Odalar So\u011fuk",
+        "url": "https://open.spotify.com/album/3HIGefGhLWPy6XgqLzVj6t"
+      },
+      "artists": [
+        {
+          "name": "Funda Arar",
+          "url": "https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179766,
+      "name": "Odalar So\u011fuk",
+      "url": "https://open.spotify.com/track/5Fb3ND9grQeAY9hb9WKE4v"
+    },
+    {
+      "album": {
         "name": "Olmaz Senden",
         "url": "https://open.spotify.com/album/63Phykg9euTwthd6h3rAKE"
       },
@@ -6748,7 +6766,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 148551,
       "name": "Taksi",
       "url": "https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp"

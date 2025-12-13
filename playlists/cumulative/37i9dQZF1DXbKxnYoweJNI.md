@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: JOYCE 就以斯
 
-3,730 songs - 9 day 1 hr 59 min
+3,731 songs - 9 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1302,7 +1302,7 @@
 | [井底之蛙](https://open.spotify.com/track/3uCzFFrKRUrI9hsDEWfl6A) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [井底之蛙](https://open.spotify.com/album/7cP7cfrvKytdj1IgE4Vyd6) | 4:06 | 2024-08-08 | 2024-09-06 |
 | [交情](https://open.spotify.com/track/7IFDMIdxj33A5hfVcKLoQP) | [Rar](https://open.spotify.com/artist/65pfJuu4wWYwISviMEYziJ) | [交情](https://open.spotify.com/album/2oi7sYgTaOCyOMyMu5VbJ9) | 1:41 | 2025-08-28 | 2025-10-24 |
 | [享受曖昧](https://open.spotify.com/track/3erPJSvDrvXjrIkTgbkqYu) | [Damon孟緯](https://open.spotify.com/artist/5O0FEgp6EeIw3XteK0ipac), [TJing](https://open.spotify.com/artist/2LyF7PROoSh8dtcgNVF9gt) | [享受曖昧](https://open.spotify.com/album/36cO2xw0KBGvpmy3zKJ7OR) | 4:18 | 2024-10-24 | 2024-11-01 |
-| [亲爱的朋友](https://open.spotify.com/track/0JxV2uECccOavbNmgzC8nB) | [Young](https://open.spotify.com/artist/6LRxoz0ZQgZgpPH0UdEAO7) | [亲爱的朋友](https://open.spotify.com/album/3hzucdMtGzoPesnZZyisck) | 2:26 | 2025-12-11 |  |
+| [亲爱的朋友](https://open.spotify.com/track/0JxV2uECccOavbNmgzC8nB) | [建坤YOUNG](https://open.spotify.com/artist/6LRxoz0ZQgZgpPH0UdEAO7) | [亲爱的朋友](https://open.spotify.com/album/3hzucdMtGzoPesnZZyisck) | 2:26 | 2025-12-11 |  |
 | [人人都愛嘻哈樂](https://open.spotify.com/track/3qe4QsRZ08TrR97Jd3k9cv) | [夏之禹](https://open.spotify.com/artist/10esTG0IGz8y6o4WRMkhlZ), [Dizkar](https://open.spotify.com/artist/4D7p9lfzPO5MydS79xCVRx), [Dough\-Boy](https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX), [DJ Soulark](https://open.spotify.com/artist/3N4l7DHuoRvTH4kimSYZlg) | [人人都愛嘻哈樂](https://open.spotify.com/album/6jaVvfiUUIKMDToipFnsIM) | 3:33 | 2025-09-11 | 2025-10-10 |
 | [人去樓空](https://open.spotify.com/track/0im069CBRQOVVkelqRY9lv) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [人去樓空](https://open.spotify.com/album/0lWarxfdGvlxkw7XHg9vdk) | 4:34 | 2025-07-03 | 2025-07-25 |
 | [人啊人啊 ft\. 舒米恩](https://open.spotify.com/track/6idZFz4pxW8RqVfSkMYPFa) | [黃宇寒 Han](https://open.spotify.com/artist/58na39JAZ12nojYGPuqdWg), [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [Ngai](https://open.spotify.com/album/2LUEWD0WmdIXogqNRTtMhZ) | 3:51 | 2025-09-25 | 2025-10-10 |
@@ -1628,7 +1628,7 @@
 | [危險](https://open.spotify.com/track/3s8wpIAhxHVVLlmj3VZJn2) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD) | [危險](https://open.spotify.com/album/0Pvu7X3gIhFhHf01bkj1gV) | 3:03 | 2025-05-08 | 2025-06-06 |
 | [即刻行動START NOW](https://open.spotify.com/track/6yavELt3nEiiOZnUriXhMJ) | [顏維霆](https://open.spotify.com/artist/7z5vpyVnwLfoegUqaeWsHu), [許晉嘉](https://open.spotify.com/artist/3RrweK7Pp3oH1RKH8x9oMu) | [即刻行動START NOW](https://open.spotify.com/album/1PRlp7ANBku4TTPw68u79x) | 3:24 | 2025-12-11 |  |
 | [即興](https://open.spotify.com/track/5YMeBLhEHPAAwPg87JgzAu) | [黃雨勳](https://open.spotify.com/artist/6TwanpBr3fIrx6ITQM9kc0) | [魔法列車二部曲](https://open.spotify.com/album/4CXmeDjQ2cBtGtsAF29eXk) | 5:03 | 2025-02-06 | 2025-03-07 |
-| [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w), [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM) | 3:32 | 2025-11-27 |  |
+| [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R) | [8lak 張鈞](https://open.spotify.com/artist/5XV6qqcjxpGfkWv72sOTMq), [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM) | 3:32 | 2025-11-27 |  |
 | [厚重的習慣 Faded Lines](https://open.spotify.com/track/2vLUVZ6DfAPVmzOCV8VW9w) | [林桉 Anzio](https://open.spotify.com/artist/00oWwzDpQoaT3UbK6N5qUM) | [厚重的習慣 Faded Lines](https://open.spotify.com/album/7KAosHFyUlj5C2NjeuwyGK) | 4:11 | 2024-10-31 | 2024-11-22 |
 | [厝鳥仔崽](https://open.spotify.com/track/7g6DMvlgdAYUXDKZltOj4T) | [江念庭](https://open.spotify.com/artist/1YDAhxjMkyaHb9CdnEOVtH) | [厝鳥仔崽](https://open.spotify.com/album/0bk2shAetiVvE6wt08CnbK) | 4:05 | 2025-04-24 | 2025-05-09 |
 | [原來 Hindsight](https://open.spotify.com/track/7Hrl6J2JQTrGD5NC55kHq6) | [林海盛 Hysen](https://open.spotify.com/artist/79T2oyY34OmRIf1D02tNZY) | [原來 Hindsight](https://open.spotify.com/album/77ingCGMFjvtPb8UFLy0vB) | 3:55 | 2024-09-05 | 2024-09-27 |
@@ -2708,6 +2708,7 @@
 | [比寂寞更寂寞](https://open.spotify.com/track/3V8BlbC8buCxHJWklH3XTP) | [蘇震洋](https://open.spotify.com/artist/5DItYO8Z3UtWAQee1DxfJD) | [不晚](https://open.spotify.com/album/6kiKPrLMe5l5uBVZuQ1v9S) | 3:55 | 2025-06-05 | 2025-06-13 |
 | [比拉波](https://open.spotify.com/track/1kHchdp6dXt0V1KN9lhmD5) | [Yoku Walis 幽谷瓦歷斯](https://open.spotify.com/artist/2f3gOSmEfLMmsNIl7ScKtz) | [Klalay 見蝶](https://open.spotify.com/album/6P4w8Sl3lUTAG4WLPbqADT) | 2:52 | 2024-12-19 | 2024-12-27 |
 | [比昨天更想念你](https://open.spotify.com/track/4TxUh6TXsiwrBqj5D1GkFC) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [比昨天更想念你](https://open.spotify.com/album/5PWabj8sF2Z8vw23XPWBEg) | 3:15 | 2025-08-14 | 2025-09-05 |
+| [毛線球](https://open.spotify.com/track/7Ld5sx1EKPFcRmrJ2reWk4) | [木木子](https://open.spotify.com/artist/4hLziS7Moaq74kUGX7GHGt) | [毛線球](https://open.spotify.com/album/29NK67MmPYl6WrVPj7guzP) | 3:46 | 2025-12-11 |  |
 | [毛線球少女 Yarn](https://open.spotify.com/track/4z4wb1p7KpEI9mCjKxs8YP) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [毛線球少女 Yarn](https://open.spotify.com/album/3cDNDcNVxkuq4GV4Nw6qXJ) | 3:32 | 2024-09-26 | 2024-11-15 |
 | [水](https://open.spotify.com/track/3lGSaI8RsmZ31XCz0ZeUu4) | [李竺芯](https://open.spotify.com/artist/0qI7jcxX3CFiafnkAe7Rjp) | [Suí 水](https://open.spotify.com/album/4iS0XEUs3Gr8YbYpA7SuC3) | 2:39 | 2025-01-02 | 2025-01-24 |
 | [水做的](https://open.spotify.com/track/5mNrtFODOf3AOQgri4G8CG) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [水做的](https://open.spotify.com/album/2aafYNsOGHRxbkLqic4rAw) | 2:38 | 2025-07-24 | 2025-08-15 |
@@ -3647,7 +3648,7 @@
 | [靚仔糾纏](https://open.spotify.com/track/66D5vXFG7HrseY34pqVSpO) | [王士榛](https://open.spotify.com/artist/7f7WNsb6RjoEVn6lJpMCWD) | [靚仔糾纏](https://open.spotify.com/album/6DdS73CR29YQ4743KKad2o) | 3:14 | 2025-01-23 | 2025-02-07 |
 | [靜靜](https://open.spotify.com/track/3BrQ39Oo1LaA9V571AgECF) | [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [靜靜](https://open.spotify.com/album/6ObIKXliy5PpA4oBXLJoL0) | 4:14 | 2025-05-01 | 2025-05-16 |
 | [靜音鍵](https://open.spotify.com/track/3ZSZYBHxq3ilUsTCGxs02K) | [stancsz](https://open.spotify.com/artist/3Yd1ranaGvAK5wtC7muHIV) | [靜音鍵](https://open.spotify.com/album/4jy72QtIGB4QogSDuVyIQp) | 3:54 | 2025-08-21 | 2025-08-29 |
-| [靠很近](https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [](https://open.spotify.com/album/null) | 3:37 | 2025-12-11 |  |
+| [靠很近](https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [才華換桃花](https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD) | 3:37 | 2025-12-11 |  |
 | [靠近 mudalrep](https://open.spotify.com/track/7oBbqXzgRdArFhFCaWRFOg) | [桑布伊](https://open.spotify.com/artist/0Ot0iFI0JTxh3XUS3vRo8Z) | [靠近 mudalrep](https://open.spotify.com/album/67V81N2olXmm5ZMK1rjA5E) | 6:05 | 2024-10-24 | 2024-11-29 |
 | [靠近一点！](https://open.spotify.com/track/4hHWrmEHvE1eRpwCvcumdC) | [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [靠近一点！](https://open.spotify.com/album/0EAYFu1kD503xowhb2BIi4) | 2:45 | 2025-08-28 | 2025-09-26 |
 | [面面相覷](https://open.spotify.com/track/5CSZ16QzIMfn5o1foOYry1) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [面面相覷](https://open.spotify.com/album/2arlptaoqAS4Bh8ROxSkWh) | 3:57 | 2024-09-05 | 2024-09-27 |

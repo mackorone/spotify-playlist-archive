@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,294 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,397 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 19 | [O Holy Night](https://open.spotify.com/track/4c4LylLvTh91IhwQgSXPRc) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:56 |
 | 20 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
 | 21 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
-| 22 | [‘tis the damn season](https://open.spotify.com/track/4GBkffrtA51p17JH35irGA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:49 |
-| 23 | [Present Without A Bow](https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:50 |
+| 22 | [Present Without A Bow](https://open.spotify.com/track/0Pj9cTJcWbrDPjtCKx4Ody) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:50 |
+| 23 | [‘tis the damn season](https://open.spotify.com/track/4GBkffrtA51p17JH35irGA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:49 |
 | 24 | [Silent Night](https://open.spotify.com/track/4iTfml41SOUBHXgMUHLUVV) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:11 |
 | 25 | [Coldest Winter](https://open.spotify.com/track/7GZ4WYixf0D6DWvvi60yTM) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:28 |
 | 26 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 37 | [What Do The Lonely Do At Christmas?](https://open.spotify.com/track/4qXgtbu9ZIAhcWVKCwOL72) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:27 |
 | 38 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:07 |
 | 39 | [River](https://open.spotify.com/track/3OHTX3Kf5qOOPwGepi5xe8) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Music From The Netflix Original Series The Politician](https://open.spotify.com/album/5Gik4usNaiTLBzBimuIEpJ) | 4:07 |
-| 40 | [Whatever Happened To Christmas?](https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Jimmy Joyce Singers](https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:06 |
-| 41 | [2000 Miles](https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [2000 Miles](https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w) | 3:15 |
+| 40 | [2000 Miles](https://open.spotify.com/track/5v1SC5d3F8VHwqkXx53f7d) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [2000 Miles](https://open.spotify.com/album/0Uk9J6k7ZV1SCsezKHCg6w) | 3:15 |
+| 41 | [Whatever Happened To Christmas?](https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Jimmy Joyce Singers](https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:06 |
 | 42 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
 | 43 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
 | 44 | [Christmas is The Only Time I'm Home](https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas is The Only Time I'm Home](https://open.spotify.com/album/1WuDKfHUB50Uz5bbv0Rn4Z) | 3:20 |

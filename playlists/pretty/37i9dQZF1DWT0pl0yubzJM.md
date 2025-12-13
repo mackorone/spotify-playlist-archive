@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,746 likes - 35 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,749 likes - 35 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 18 | [SE QUE NO/REKEBRA](https://open.spotify.com/track/1S8nrL6kv2sVdmcVkBBJAM) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:21 |
 | 19 | [Montañas de Agua](https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trance Zomba](https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS) | 3:29 |
 | 20 | [La Bomba](https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [San Cipriano](https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9) | 2:43 |
-| 21 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 |
-| 22 | [Fabrico Cuero](https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 2:58 |
+| 21 | [Fabrico Cuero](https://open.spotify.com/track/6N2wExoJG3MQe331rSTPAT) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 2:58 |
+| 22 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 |
 | 23 | [Microman](https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 3:54 |
 | 24 | [Suficiente](https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Suficiente](https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI) | 4:04 |
 | 25 | [Travesia](https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 5:18 |
-| 26 | [Tarde de Cansancio](https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:08 |
-| 27 | [Jubilados Violentos](https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 3:19 |
+| 26 | [Jubilados Violentos](https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Fabrico Cuero](https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B) | 3:19 |
+| 27 | [Tarde de Cansancio](https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:08 |
 | 28 | [Rockstar](https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn) | 4:29 |
 | 29 | [Mate](https://open.spotify.com/track/38qMdBT2CM35RT35f5FOUE) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 3:11 |
 | 30 | [Post Crucifixion](https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 3:48 |

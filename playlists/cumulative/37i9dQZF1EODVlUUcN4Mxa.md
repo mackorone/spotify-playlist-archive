@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#172 \- Lauren Jenkins, Harry Potter, Singing with Willie Nelson, Fake I.D.](https://open.spotify.com/episode/1VXUuPSqzuW4ocEP7bhSlf) | [Bobbycast](https://open.spotify.com/show/7zgK2qWutftJ75ODQy5wuH) | [Bobbycast](https://open.spotify.com/album/7zgK2qWutftJ75ODQy5wuH) | 1:06:05 | 2020-11-27 |  |
+| [\#172 \- Lauren Jenkins, Harry Potter, Singing with Willie Nelson, Fake I.D.](https://open.spotify.com/episode/1VXUuPSqzuW4ocEP7bhSlf) | [Bobby Bones Presents: The Bobbycast](https://open.spotify.com/show/7zgK2qWutftJ75ODQy5wuH) | [Bobby Bones Presents: The Bobbycast](https://open.spotify.com/album/7zgK2qWutftJ75ODQy5wuH) | 1:06:05 | 2020-11-27 |  |
 | [019  Ella Fitzgerald \- Sings the Gershwin Song Book](https://open.spotify.com/episode/3ne1wQAfU2YLTqgyaV3dm6) | [1001 Album Club](https://open.spotify.com/show/7f5Rdm6RukUPsWFtxlEfOb) | [1001 Album Club](https://open.spotify.com/album/7f5Rdm6RukUPsWFtxlEfOb) | 16:00 | 2020-11-27 |  |
 | [Blue Hawaii](https://open.spotify.com/track/06zMm73RxNxnGxtwZWFP6K) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 2:37 | 2020-11-27 |  |
 | [Dead Rock Stars 23: Elvis Presley](https://open.spotify.com/episode/7lC5X98eRVLwvon6X4VBSe) | [Dead Rock Stars](https://open.spotify.com/show/1mY3RxMurcLto0rqscD18V) | [Dead Rock Stars](https://open.spotify.com/album/1mY3RxMurcLto0rqscD18V) | 53:42 | 2020-11-27 |  |

@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap nacional\. Foto:  LEALL
 
-1,291 songs - 2 day 19 hr 1 min
+1,292 songs - 2 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1068,6 +1068,7 @@
 | [Segunda Chance](https://open.spotify.com/track/4pMuVA8t24Gnbu95a11thE) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [Segunda Chance](https://open.spotify.com/album/0uDDj3QQ7ziTjKTzwW5kuc) | 2:44 | 2025-07-11 | 2025-09-20 |
 | [Segunda\-Feira](https://open.spotify.com/track/58cIKactbGI7tTiofjuAfV) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Maracutaia](https://open.spotify.com/album/035MBEIrdWYh7WdY6mdLiS) | 2:35 | 2022-10-14 | 2022-11-12 |
 | [Segundo Ato](https://open.spotify.com/track/5Gk1KldhtgyPljF4xrwboT) | [Bukola 2Tey](https://open.spotify.com/artist/5f1QJrsEhB9YmuBUDpj3Iy), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Pra Nós Mesmos](https://open.spotify.com/album/71V5lh1S26Wj6Lfh5nTJ1z) | 3:13 | 2024-03-01 | 2024-03-23 |
+| [Selva de Concreto](https://open.spotify.com/track/1LLauwAF6l38cOfOHgd6Zq) | [Santa Lua](https://open.spotify.com/artist/2V0vATW2yKL22tIg9BiQSm), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Selva de Concreto](https://open.spotify.com/album/0CmrKCkRsTiqWhz5TmK4Bm) | 3:36 | 2025-12-12 |  |
 | [Sem Atalho](https://open.spotify.com/track/5lhxZoQguq2TqCWPuBwwl8) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Sem Atalho](https://open.spotify.com/album/2Qn8qSlpMIBfjomk22PrlC) | 2:16 | 2024-02-16 | 2024-02-24 |
 | [Sem Bala Contada](https://open.spotify.com/track/2yTuoDzpNuo2hiQvxFrD4f) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sem Bala Contada](https://open.spotify.com/album/4WlO7hqFv8sn7QYJ6Dm03S) | 2:47 | 2024-03-29 | 2024-10-05 |
 | [Sem Deixar de Ser Real](https://open.spotify.com/track/69qD7kkAGef6nlwlpOboBi) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Jardim do Flow](https://open.spotify.com/artist/2W3TOALh7Kfmhv41e38zuo), [Noturno84](https://open.spotify.com/artist/2IAQ16hFlr5cupvLMVG6e4) | [Sem Deixar de Ser Real](https://open.spotify.com/album/4ZXWHkJYbI3B5iucs1aXGv) | 2:39 | 2022-10-14 | 2022-10-29 |

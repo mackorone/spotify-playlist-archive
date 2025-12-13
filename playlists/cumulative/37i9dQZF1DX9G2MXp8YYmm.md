@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Hazar Altın
 
-450 songs - 22 hr 36 min
+451 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Neyleyim](https://open.spotify.com/track/4DP9EEtBGAzmsM8URT7MIw) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Neyleyim](https://open.spotify.com/album/7afUZVEM8lLALmNbi9ejgh) | 3:32 | 2025-09-04 | 2025-09-10 |
 | [NOLDUYSA OLDU](https://open.spotify.com/track/4JygvKkVjhgA2v5MNFqeEP) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [NOLDUYSA OLDU](https://open.spotify.com/album/2szyZK8995Knlb6krlCSw9) | 2:31 | 2024-09-05 | 2024-12-17 |
 | [O Kapı Kapandı](https://open.spotify.com/track/6pvgDOs4Ekl7UiF76yXEek) | [Ege Balkiz](https://open.spotify.com/artist/2lny2DY0mKzdgAwIx0WD4H) | [O Kapı Kapandı](https://open.spotify.com/album/4eCD2ParWU9MPOsmspFXoy) | 2:52 | 2025-11-06 | 2025-11-14 |
+| [Odalar Soğuk](https://open.spotify.com/track/5Fb3ND9grQeAY9hb9WKE4v) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Odalar Soğuk](https://open.spotify.com/album/3HIGefGhLWPy6XgqLzVj6t) | 2:59 | 2025-12-11 |  |
 | [Olmaz Senden](https://open.spotify.com/track/3uhGsSTBXOncVptR9nEOvJ) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Olmaz Senden](https://open.spotify.com/album/63Phykg9euTwthd6h3rAKE) | 2:56 | 2024-12-05 | 2024-12-15 |
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2024-06-27 | 2025-08-01 |
 | [Olur Ya](https://open.spotify.com/track/0zhme0rfZ6NNA8dXeOt1RP) | [Hazar Altın](https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ), [Çağrı Çelik](https://open.spotify.com/artist/7wqnPyXma7EKSYt4CVzNjq) | [Olur Ya](https://open.spotify.com/album/5RAWvHoS2fKwKzU1sK1zYk) | 2:47 | 2025-03-20 | 2025-08-01 |
@@ -362,7 +363,7 @@
 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 | 2025-09-25 | 2025-10-10 |
 | [Sur](https://open.spotify.com/track/5o8AA7rdZceZFV3hK1s5zT) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Sur](https://open.spotify.com/album/7iepaVJHrulbWXaXnuSxNt) | 3:04 | 2025-02-13 | 2025-02-21 |
 | [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-23 | 2025-12-11 |
-| [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 |  |
+| [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 | 2025-12-13 |
 | [Tam Da Şu Anda](https://open.spotify.com/track/3FmRJPzylI6fuDIso7jejM) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Tam Da Şu Anda](https://open.spotify.com/album/0iFTqZJlHdCMSSfPTMQ0Kt) | 2:19 | 2025-05-01 |  |
 | [Tane Tane](https://open.spotify.com/track/0vaQeqqDD8f6Bx5IZWg2Ld) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [\#SOLO](https://open.spotify.com/album/0JZ9dahUOYdeNATgNMLvwS) | 2:40 | 2025-11-13 |  |
 | [Tanrıçalar Memleketi \- Yenge](https://open.spotify.com/track/1Ryq7tkaCuKbwNvE62Nhgm) | [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI) | [Sana Rağmen](https://open.spotify.com/album/12l5mGd9dNfG2BsFYQ76gE) | 3:14 | 2025-02-06 | 2025-03-03 |

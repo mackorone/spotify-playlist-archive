@@ -4,7 +4,7 @@
 
 > Per te che sai cos'è la gangsta shit: Paky è tornato ⛓️
 
-952 songs - 1 day 19 hr 26 min
+953 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Diario del Bando 2](https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Diario del Bando 2](https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8) | 2:43 | 2023-04-27 | 2023-06-09 |
 | [DIE YOUNG \(feat\. Vale Pain & Kid Yugi\)](https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 2:45 | 2023-04-13 | 2023-05-05 |
 | [Digos](https://open.spotify.com/track/1sLjCHcKLdLK1c7oVMwT01) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Angels & Demons](https://open.spotify.com/album/4xsXRhVYeGFS5RpTM5nroP) | 2:29 | 2024-12-19 | 2025-05-01 |
-| [Dio Non C'è](https://open.spotify.com/track/6zWGONZ4N03Yknef4scWZa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:51 | 2025-12-12 |  |
+| [Dio Non C'è \(feat\. Alessandra Amoroso\)](https://open.spotify.com/track/6zWGONZ4N03Yknef4scWZa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:51 | 2025-12-12 |  |
 | [Diretto al Top](https://open.spotify.com/track/7fnqPrisSobHY5vsTrnqpB) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Diretto al Top](https://open.spotify.com/album/4vYfCxce8wPlHFlnpA9e06) | 2:28 | 2023-05-25 | 2023-06-16 |
 | [Dissennatori \(feat\. Artie 5ive\)](https://open.spotify.com/track/5qV4HuHG5pJYrIIvfAuo55) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Osama 2](https://open.spotify.com/album/3hTj9C1jqATON2UDb4vvzz) | 2:47 | 2024-09-26 | 2024-11-15 |
 | [DITO MEDIO](https://open.spotify.com/track/5MjHC1wB1VcL0axxtpbm24) | [LILCR](https://open.spotify.com/artist/5EZfXEHoaMCQlOypUeHbjf), [MELONS EL PEJOR](https://open.spotify.com/artist/1zS4HaqYyWVRkvcgKFIgy8) | [DITO MEDIO](https://open.spotify.com/album/5jLy4sMWLYqWPmA8gdq2dW) | 2:50 | 2025-05-29 | 2025-07-18 |
@@ -624,6 +624,7 @@
 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 | 2023-03-09 | 2023-06-22 |
 | [Nu cuofn ‘e sord](https://open.spotify.com/track/4JkMzHPcaI9QJweua55aHf) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:51 | 2024-08-29 | 2024-09-06 |
 | [NU PARL, NU SENT, NU VEC](https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:14 | 2024-07-04 | 2024-10-04 |
+| [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 | 2025-12-12 |  |
 | [NUM3RI \(feat\. Glocky\)](https://open.spotify.com/track/0i6x6pVFNiagt0WorX0fAC) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:17 | 2025-01-09 | 2025-02-07 |
 | [NUN SE VER \(feat\. Guè\)](https://open.spotify.com/track/2Buy0H2VxXZ8bmTp1fH5UA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:38 | 2023-01-05 | 2023-03-18 |
 | [Nuovo Inizio \(feat\. Shiva\)](https://open.spotify.com/track/3Fg8eOwcv5ctsjYYajBzFk) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:51 | 2024-11-14 | 2025-05-09 |

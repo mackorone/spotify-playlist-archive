@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Meme del Real en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Nunca Jam\u00e1s en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 234306,
       "name": "Amnesia - Sonando desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/78X18gL8xZrvgIXOt9A2eh"
@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Extra\u00f1o",
+        "url": "https://open.spotify.com/album/54i4V2Yio2efyy2VsG7iMe"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179994,
+      "name": "Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6tDg9EgAn68aFzcrVsd32V"
+    },
+    {
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/3kZvskU8KnmX8ZMJnSKJj4"
       },
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 245128,
       "name": "Invencibles",
       "url": "https://open.spotify.com/track/40xJUJrqsFacqj2OGBtW2g"
@@ -3122,7 +3140,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 199270,
       "name": "Las chingadas ganas de llorar",
       "url": "https://open.spotify.com/track/1NNx5a7BoQrKym6DKxmTAI"
@@ -3541,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Mexas en Texas",
+        "url": "https://open.spotify.com/album/2oKfl0U7ogxgMz85yzbZAg"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161941,
+      "name": "Mexas en Texas",
+      "url": "https://open.spotify.com/track/0k7yVRgr59ErbHuRS73Ilf"
+    },
+    {
+      "album": {
         "name": "Mexicale\u00f1o Swing",
         "url": "https://open.spotify.com/album/0XvdfdJfAHGRhU1FJVcTtE"
       },
@@ -3684,7 +3720,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 211567,
       "name": "Mira",
       "url": "https://open.spotify.com/track/5kJTUOD787zyo9RRbqfugD"
@@ -5256,7 +5292,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 237324,
       "name": "Secuaz - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
@@ -6315,6 +6351,24 @@
     },
     {
       "album": {
+        "name": "Un Brindis al Sol",
+        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251408,
+      "name": "Un Brindis al Sol",
+      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
+    },
+    {
+      "album": {
         "name": "Unidad y Movimiento",
         "url": "https://open.spotify.com/album/00HVYMnMR4wOeW2q7qcoxB"
       },
@@ -6326,7 +6380,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 231750,
       "name": "Unidad y Movimiento",
       "url": "https://open.spotify.com/track/7j86mErJ38bHz57shaf6Yr"
@@ -6522,6 +6576,24 @@
       "duration_ms": 183882,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
+    },
+    {
+      "album": {
+        "name": "Voy a curarme de ti",
+        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253285,
+      "name": "Voy a curarme de ti",
+      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
     },
     {
       "album": {

@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Auch",
+        "url": "https://open.spotify.com/album/6eeLPlVw9wMj6vS5OoR98P"
+      },
+      "artists": [
+        {
+          "name": "CCINNI",
+          "url": "https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312633,
+      "name": "Auch",
+      "url": "https://open.spotify.com/track/2ZoyaD9MIlhZU6fijYxUjz"
+    },
+    {
+      "album": {
         "name": "Aurial",
         "url": "https://open.spotify.com/album/2v2fMVosY2tKlA9gbgJGw6"
       },

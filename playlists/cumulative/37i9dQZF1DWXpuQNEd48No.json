@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "All About Haryana",
+        "url": "https://open.spotify.com/album/1Xs2tjoAvDxHcOoEVX1hzo"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130697,
+      "name": "All About Haryana",
+      "url": "https://open.spotify.com/track/61JJBeeJ4JZMSisdVWaFYe"
+    },
+    {
+      "album": {
         "name": "Always On",
         "url": "https://open.spotify.com/album/4o33a4tRo3BC2L5g7dfuKa"
       },
@@ -1994,7 +2016,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 190240,
       "name": "CHILL MODE",
       "url": "https://open.spotify.com/track/5dEdUKBOp6jnioCToIEles"
@@ -2590,7 +2612,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 93919,
       "name": "DATT JA",
       "url": "https://open.spotify.com/track/3NmB8tmeEpUYj4Q0fhFckK"
@@ -3502,7 +3524,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 100909,
       "name": "Farishtey",
       "url": "https://open.spotify.com/track/4fSsIfi3B5iaIxkuqc5o4L"
@@ -5082,7 +5104,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 183052,
       "name": "Immortal OG",
       "url": "https://open.spotify.com/track/0XHeNKizIygJFRoJAMxAUK"
@@ -7310,6 +7332,28 @@
       "duration_ms": 205360,
       "name": "My Name Speaks",
       "url": "https://open.spotify.com/track/0DJjbAaiJK6NFiMaDTFe5y"
+    },
+    {
+      "album": {
+        "name": "My Ride",
+        "url": "https://open.spotify.com/album/1WN1x4ciEi6jp4Do6v3RfK"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/5FR97TscVyRwmBXzP7aoXL"
+        },
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "My Ride",
+      "url": "https://open.spotify.com/track/4lmgYq3pBWERL7ZWqMtfU9"
     },
     {
       "album": {
@@ -9783,6 +9827,32 @@
     },
     {
       "album": {
+        "name": "Swaad Lere",
+        "url": "https://open.spotify.com/album/2hA5S1UHPIj1Mx9bQX97Q8"
+      },
+      "artists": [
+        {
+          "name": "Ranjha Litani",
+          "url": "https://open.spotify.com/artist/4CjFkANVvhctPlfQZ41gql"
+        },
+        {
+          "name": "Raaga Litani",
+          "url": "https://open.spotify.com/artist/0AyPAjWPEon23K96YW8kFV"
+        },
+        {
+          "name": "Riyaazi",
+          "url": "https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194361,
+      "name": "Swad Lere",
+      "url": "https://open.spotify.com/track/5ugzr0gigMbPsVw7ucU5oL"
+    },
+    {
+      "album": {
         "name": "System (Ab Machega Huddang)",
         "url": "https://open.spotify.com/album/3LQVfvyKAMWATj7lzrFra8"
       },
@@ -10220,6 +10290,24 @@
       "duration_ms": 210375,
       "name": "Tera Zikar",
       "url": "https://open.spotify.com/track/414OupIl3BJSJCNP9lBbQY"
+    },
+    {
+      "album": {
+        "name": "Tere Seher Me",
+        "url": "https://open.spotify.com/album/2Z9i77ADvCT632gEbzFF3R"
+      },
+      "artists": [
+        {
+          "name": "Sunny Yaduvanshi",
+          "url": "https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132927,
+      "name": "Tere Seher Me",
+      "url": "https://open.spotify.com/track/07wQ6avcQbxsBarI75yPIi"
     },
     {
       "album": {

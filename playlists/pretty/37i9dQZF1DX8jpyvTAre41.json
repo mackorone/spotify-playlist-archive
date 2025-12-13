@@ -1,13 +1,97 @@
 {
-  "description": "The best rock songs of the moment. Cover: cleopatrick",
-  "num_followers": 194393,
+  "description": "The best rock songs of the moment. Cover: Softcult",
+  "num_followers": 194386,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKoa/+GDQDxXdSdGMFSRPECVwbi5",
+  "snapshot_id": "AAAAAMIR4WRXQp7bu1bb2BBGyh3ukzoz",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:01:28",
+      "album": {
+        "name": "Queen of Nothing",
+        "url": "https://open.spotify.com/album/6EU1TLfLxJ9pGLD66Gy8aB"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 181315,
+      "name": "Queen Of Nothing",
+      "url": "https://open.spotify.com/track/5S03UZD1PCeuXyBWZ9Ugml"
+    },
+    {
+      "added_at": "2025-12-12 05:01:28",
+      "album": {
+        "name": "ANTIDOTE",
+        "url": "https://open.spotify.com/album/4Uc2ErLyAbWIK9qPqHMj5n"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 183965,
+      "name": "ANTIDOTE",
+      "url": "https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ"
+    },
+    {
+      "added_at": "2025-12-12 05:01:28",
+      "album": {
+        "name": "Pain.",
+        "url": "https://open.spotify.com/album/47a7Io7rkP9CQk58cI4zeL"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 119351,
+      "name": "Pain.",
+      "url": "https://open.spotify.com/track/2O5vBKNXCGyuxIcLPnwT1h"
+    },
+    {
+      "added_at": "2025-12-12 05:01:28",
+      "album": {
+        "name": "They Were Always Here",
+        "url": "https://open.spotify.com/album/6qL50fXDRthHQTp9O24say"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        }
+      ],
+      "duration_ms": 190428,
+      "name": "Make a Mess",
+      "url": "https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp"
+    },
+    {
+      "added_at": "2025-12-12 05:01:28",
+      "album": {
+        "name": "GO BIG OR GO HOME",
+        "url": "https://open.spotify.com/album/1QdUJ9LPNwQXCIgeCs7HKf"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "duration_ms": 153318,
+      "name": "LIKE ME LIKE THAT",
+      "url": "https://open.spotify.com/track/04uBUXTAYNMUVr61CEakiq"
+    },
     {
       "added_at": "2025-12-05 05:01:35",
       "album": {
@@ -23,6 +107,22 @@
       "duration_ms": 189847,
       "name": "SEVENTEEN",
       "url": "https://open.spotify.com/track/4RvawFof8a3euSxGe832wt"
+    },
+    {
+      "added_at": "2025-12-12 05:01:28",
+      "album": {
+        "name": "TRUEST SOUND",
+        "url": "https://open.spotify.com/album/4vgOZlNSwFsfgDsRuuswS1"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "duration_ms": 240917,
+      "name": "TRUEST SOUND",
+      "url": "https://open.spotify.com/track/6g7VwSBcKm5kOef5AJMsKd"
     },
     {
       "added_at": "2025-12-05 05:01:35",

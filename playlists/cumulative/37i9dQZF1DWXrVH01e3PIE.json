@@ -3791,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "EL GOAT",
+        "url": "https://open.spotify.com/album/4cCb3BFRYWZfXLunORVs63"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "EL GOAT",
+      "url": "https://open.spotify.com/track/4SZBrCkhd9OH4NkpRauQqP"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -4600,7 +4618,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 132294,
       "name": "Fruto",
       "url": "https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45"
@@ -8583,6 +8601,24 @@
     },
     {
       "album": {
+        "name": "HARDRIVE",
+        "url": "https://open.spotify.com/album/2zGD6lm3X4u0Hxb0ga4PgI"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113817,
+      "name": "Parking",
+      "url": "https://open.spotify.com/track/66OMqce4O6467egID73392"
+    },
+    {
+      "album": {
         "name": "Party en el Barrio (feat. Duki)",
         "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
       },
@@ -10332,7 +10368,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 169614,
       "name": "SONIDO DEL A\u00d1O",
       "url": "https://open.spotify.com/track/1QNifxPOa17DtmPn54Ac4d"

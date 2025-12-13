@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best of Black music in 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100,939 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,353 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 76 | [Chameleon](https://open.spotify.com/track/6ZX8Dh04ShacilhbwGXU20) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [But What The Hell Do I Know](https://open.spotify.com/album/58abhdpbXJ8ywjj25HhbSB) | 2:26 |
 | 77 | [23:42](https://open.spotify.com/track/3RGFF7tZXh55Ko1PSORA1Y) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV) | 3:01 |
 | 78 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 |
-| 79 | [POSER](https://open.spotify.com/track/6YZgG0625IOsB2s4xAZJCB) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [AMERIKA’S NEXT TOP PARTY!](https://open.spotify.com/album/08YX6S7IDTCyXjFd5PthPn) | 2:19 |
+| 79 | [POSER](https://open.spotify.com/track/6YZgG0625IOsB2s4xAZJCB) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [AMERIKA’S NEXT TOP PARTY!](https://open.spotify.com/album/08YX6S7IDTCyXjFd5PthPn) | 2:23 |
 | 80 | [GMFU](https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [GMFU](https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd) | 1:55 |
 | 81 | [Hvn High](https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 3:14 |
 | 82 | [Vacay](https://open.spotify.com/track/0hFZRMipuQbyfLfXSH7EHd) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:22 |

@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-883 songs - 1 day 13 hr 57 min
+885 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 | 2023-08-21 |  |
 | [A Gentle Unveiling](https://open.spotify.com/track/4aqoweh2VMAN97l1D4bou2) | [Elias Gianni](https://open.spotify.com/artist/3EfwobKa9Zi0V1aciFv95m) | [A Gentle Unveiling](https://open.spotify.com/album/4Ihvh7Jjjbejkxw6CACar8) | 2:44 | 2025-07-07 |  |
 | [A Moment Kept](https://open.spotify.com/track/5FMrE3j18DzCImNlAaFKs8) | [Renza Cael](https://open.spotify.com/artist/7gWwANi7JS0FmATXrdD2AL) | [A Moment Kept](https://open.spotify.com/album/1X7AUSIHodZDYLSr0iZ447) | 3:34 | 2025-11-04 |  |
+| [A Moment of Peace](https://open.spotify.com/track/3rVwDrLrVPL5igVD1jdInR) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [A Moment of Peace](https://open.spotify.com/album/39E4FKykNiCeUheicVL3On) | 2:14 | 2025-12-12 |  |
 | [A Moment Remembered](https://open.spotify.com/track/5aQ3Vs1ricTtkI9MKqdvZx) | [Darkuro](https://open.spotify.com/artist/5kdikzk6FOGKJkOJY1Pzrh) | [A Moment Remembered](https://open.spotify.com/album/1F8KdJXJoSgozXKUdwm4YT) | 3:00 | 2025-05-20 | 2025-06-05 |
 | [A Part Of Us](https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [A Part Of Us](https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI) | 1:57 | 2023-04-03 | 2023-08-22 |
 | [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2021-12-13 | 2022-04-07 |
@@ -209,6 +210,7 @@
 | [Dorénevant](https://open.spotify.com/track/7lUXTcOSlWXNGN25wj7iNf) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Dorénevant](https://open.spotify.com/album/68K0s9E4y7TKDuKZb5zs2Z) | 2:28 | 2022-08-29 | 2024-01-03 |
 | [Dovetail](https://open.spotify.com/track/25UlllA0GGWjKK8ndbBk57) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Dovetail](https://open.spotify.com/album/5Ak0Ffw2LmbrMaKPZsqWKJ) | 2:01 | 2023-04-11 | 2025-05-22 |
 | [Down The Line](https://open.spotify.com/track/25DsngbeW7QvMTuPJBy8ww) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Down The Line](https://open.spotify.com/album/5dx9rLR3Lqfx8zh6XWklKw) | 2:26 | 2023-05-03 |  |
+| [Dream Circuit](https://open.spotify.com/track/1wOdW7AiECp30vfaW0fKis) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Dream Circuit](https://open.spotify.com/album/3HNTgIBfw9ugBTwRJHp8WA) | 2:14 | 2025-12-12 |  |
 | [Dream In Color](https://open.spotify.com/track/6Jl2hMsoSdY0RsfJZuGt9P) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Dream In Color](https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU) | 2:39 | 2021-12-13 | 2022-12-22 |
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2021-12-13 | 2022-01-19 |
 | [Dream Until the First Rays of Dawn](https://open.spotify.com/track/1YrmdTAZdNa2uzxKttTXq6) | [Dravde](https://open.spotify.com/artist/48hcGoeqRficiqH0Egd2Kc) | [Dream Until the First Rays of Dawn](https://open.spotify.com/album/3XlmyE8Y0HKjOHAG4qXLrl) | 2:35 | 2021-12-13 | 2022-07-22 |

@@ -2,15 +2,16 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  SABRI
+> Stripped back vibes\. Cover:  TAVE & Tia Gordon
 
-305 songs - 17 hr 44 min
+309 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(un\)Folded](https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [\(un\)Folded](https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw) | 4:46 | 2025-08-01 |  |
 | [\*\*CUDN’T B ME\*\* \- Piano Acoustic](https://open.spotify.com/track/3tyFz7eYgDpaCdQseEQh6A) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [\*\*CUDN’T B ME \(AIN’T TAKEN EM BACK PACK\)\*\*](https://open.spotify.com/album/3Tpn3nbRhqWKuthA92nrUi) | 2:29 | 2025-07-04 |  |
 | [24HRS \- Acoustic](https://open.spotify.com/track/5lrtJGxswNUHomvQDNoc2W) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [THE AFTERHOURS \(24HRS REMIX BUNDLE\)](https://open.spotify.com/album/1PeKXYEl4kDFH2adMyhOTW) | 2:53 | 2025-12-05 |  |
+| [28 Degrees In Houston \- Acoustic](https://open.spotify.com/track/1snIH5F1BcCT0ASu8iKImP) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [28 Degrees In Houston \(Acoustic\)](https://open.spotify.com/album/2xySHe99qRHvo8DFbzsVlr) | 2:18 | 2025-12-12 |  |
 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 | 2025-02-21 |  |
 | [4EVER](https://open.spotify.com/track/1Jn4ikm3OMIii8DvdiRT2b) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Formed](https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc) | 3:17 | 2025-05-16 |  |
 | [5 a.m.](https://open.spotify.com/track/4HshkkI4dKm0ntQOBGA2mn) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [CARO](https://open.spotify.com/artist/0ItFoYHbLasAv34QofCyGl) | [Uncentered](https://open.spotify.com/album/4W2pmNWJLvFLDiGlxZ9oHO) | 4:40 | 2021-12-09 | 2022-01-26 |
@@ -94,6 +95,7 @@
 | [First Began \- Acoustic Version](https://open.spotify.com/track/5NIg1z3gZebnURrsDOlfmO) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 3:33 | 2021-12-09 | 2023-04-09 |
 | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/track/6DTJgb33ibZl2pElkWqUfm) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/album/2ECyJoQ4tFw87gsjmQMoOq) | 4:47 | 2021-12-09 | 2023-06-30 |
 | [Floods \- Live](https://open.spotify.com/track/4GBjdj1z74h8RVr1Us6YFc) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Spotify Singles](https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4) | 4:24 | 2021-12-09 |  |
+| [Fly Away \(feat\. Tia Gordon\) \- Acoustic](https://open.spotify.com/track/4ZuqYS5JvFf63b5C3w8OEy) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Fly Away \(feat\. Tia Gordon\) \[Acoustic\]](https://open.spotify.com/album/56dsT4NaBu8p9pMrCtAlAc) | 2:34 | 2025-12-12 |  |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2021-12-09 |  |
 | [Free \- Acoustic Version](https://open.spotify.com/track/2Rn92MnXejzNAoVU74nm2F) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Free \(Acoustic Version\)](https://open.spotify.com/album/4Od7QH0SgdhW7R4KMsdlrh) | 4:09 | 2025-06-06 |  |
 | [Gentlemen Don't](https://open.spotify.com/track/6qz64OVGikyW6lgiGabdzJ) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Thankful](https://open.spotify.com/album/2yhzbRsA4dOr3OV5gzHXqt) | 3:08 | 2021-12-09 | 2022-01-14 |
@@ -267,6 +269,7 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-09 | 2022-07-29 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 | 2022-11-03 | 2023-11-10 |
 | [Talk In The Morning \- Acoustic](https://open.spotify.com/track/4E9xdYBKevFHZVfX91w3tP) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning \(Acoustic\)](https://open.spotify.com/album/1ZboNHs3k8AGSjAOgCNYLC) | 3:24 | 2021-12-09 | 2023-11-10 |
+| [Tangled \(Stripped\)](https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Tangled \(Stripped\)](https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp) | 2:52 | 2025-12-12 |  |
 | [Thank You For A Lovely Time \- Raphael Saadiq Version](https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Thank You For A Lovely Time \(Raphael Saadiq Version\)](https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH) | 3:55 | 2025-08-01 |  |
 | [The Most \- Acoustic](https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [The Most \(Acoustic\)](https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm) | 2:59 | 2024-08-09 |  |
 | [The Reason Why \- Guitar Acoustic](https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Reason Why \(Acoustics\)](https://open.spotify.com/album/5IF22Rph1d2GA3cTlhCQoh) | 3:09 | 2021-12-09 | 2023-04-09 |
@@ -282,6 +285,7 @@
 | [Top Down](https://open.spotify.com/track/63KFl9SvRTthIFYuhuyrre) | [Angela Muñoz](https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Top Down](https://open.spotify.com/album/1NyWDpNSqupryYOEeGdvFz) | 2:23 | 2021-12-09 | 2023-08-31 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 |  |
 | [Traingazing \- Acoustic](https://open.spotify.com/track/2dOBsJnZHmGAr0yQgDo56E) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing \(Acoustic\)](https://open.spotify.com/album/2DivG16jdGu2jpZolWodUc) | 3:18 | 2021-12-09 | 2023-08-31 |
+| [Trinity \(feat\. Mali Music & Cory Henry\) \- Acoustic](https://open.spotify.com/track/6yZ3wb8wycYGdgvxBpyWLF) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Trinity \(feat\. Mali Music & Cory Henry\) \[Acoustic\]](https://open.spotify.com/album/1GdMY6psabsFeI8N16o5PL) | 3:50 | 2025-12-12 |  |
 | [Trust in You](https://open.spotify.com/track/0IkYVycXDkR8MajBTvu90Q) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Trust in You](https://open.spotify.com/album/6C4xpz6DTzUBpu2l5udCrg) | 3:09 | 2022-11-03 | 2022-11-13 |
 | [Trust in You](https://open.spotify.com/track/1pZjiq5wv1HLMX8RsWVVsr) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Light Will Find You](https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7) | 3:09 | 2022-06-16 | 2023-07-11 |
 | [Trust in You](https://open.spotify.com/track/2MUKRBgYAQC6Wyi7htkrm8) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Trust in You](https://open.spotify.com/album/7j7lLvqDSAEMLjz9aH0G68) | 3:09 | 2021-12-09 | 2022-07-29 |

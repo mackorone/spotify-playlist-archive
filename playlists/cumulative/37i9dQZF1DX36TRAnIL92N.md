@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-294 songs - 1 day 0 hr 17 min
+295 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Sanctum \(feat\. Marion Di Napoli\)](https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Marion Di Napoli](https://open.spotify.com/artist/0EEWddjwQo2f8eL6wNSa9C) | [Sanctum EP](https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4) | 5:51 | 2024-12-09 | 2025-06-07 |
 | [Saw of Olympus](https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Saw of Olympus](https://open.spotify.com/album/3vBR2vYlNvcqwYdpUfzsOn) | 4:32 | 2022-07-05 | 2022-08-27 |
 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 | 2022-07-05 |  |
+| [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 | 2025-12-12 |  |
 | [Scriptio Continua](https://open.spotify.com/track/5RkVKl0tsoVSXTigQ4bS0a) | [Brennen Grey](https://open.spotify.com/artist/342JB4Bfj8Q7qdOraq3nMz), [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Scriptio Continua](https://open.spotify.com/album/6LvAgGpJbpzHEC44b080ZN) | 3:56 | 2023-09-08 | 2023-10-04 |
 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 | 2023-04-07 | 2025-02-01 |
 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 | 2025-11-14 |  |
@@ -294,7 +295,7 @@
 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 | 2025-03-21 |  |
 | [With You \- Edit](https://open.spotify.com/track/0TJ2TCxM2bZSvorERc211K) | [Noemi Black](https://open.spotify.com/artist/7aduJdjVqq0HB0NKxxLewT) | [With You](https://open.spotify.com/album/12hjUaYiyK6xe4oz2lllu5) | 3:28 | 2022-11-17 | 2022-12-08 |
 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:21 | 2025-04-25 |  |
-| [YKSI](https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [YKSI](https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD) | 3:53 | 2025-06-06 |  |
+| [YKSI](https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [YKSI](https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD) | 3:53 | 2025-06-06 | 2025-12-13 |
 | [You and I](https://open.spotify.com/track/46JpvZt7EH9Rd865RIrgVo) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [You and I](https://open.spotify.com/album/2oDydewOb2mjCJzL4V1YzP) | 6:02 | 2022-10-21 | 2022-10-29 |
 | [You Are Mine \- Original Mix](https://open.spotify.com/track/3P1U26uNScZlDt2QD02YS5) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [You Are Mine EP](https://open.spotify.com/album/7FpzZ4YR2MyNwcN8uQYaX8) | 6:54 | 2022-10-21 | 2023-04-12 |
 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 | 2022-08-15 | 2025-02-19 |

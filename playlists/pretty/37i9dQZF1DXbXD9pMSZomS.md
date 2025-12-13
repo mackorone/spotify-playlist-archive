@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,432 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,519 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 6 | [Redbud](https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Redbud](https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5) | 4:00 |
 | 7 | [wandering](https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ), [limedisx.](https://open.spotify.com/artist/5NGCRjAltWbKLm8yD4RNRO) | [wandering](https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl) | 3:16 |
 | 8 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
-| 9 | [Shy \- Aguava Remix](https://open.spotify.com/track/7d79740Liavq38J1JDXkCz) | [PIANIKA](https://open.spotify.com/artist/6ESkBVPwRTv9Tn9WyrNoQC), [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Shy \(Aguava Remix\)](https://open.spotify.com/album/72Dk90mT6aqQh0Q4qTonkZ) | 3:21 |
-| 10 | [What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [What Sade said](https://open.spotify.com/album/6B0ulryUPr8fPvRYl2B5wN) | 3:45 |
+| 9 | [What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [What Sade said](https://open.spotify.com/album/6B0ulryUPr8fPvRYl2B5wN) | 3:45 |
+| 10 | [Shy \- Aguava Remix](https://open.spotify.com/track/7d79740Liavq38J1JDXkCz) | [PIANIKA](https://open.spotify.com/artist/6ESkBVPwRTv9Tn9WyrNoQC), [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Shy \(Aguava Remix\)](https://open.spotify.com/album/72Dk90mT6aqQh0Q4qTonkZ) | 3:21 |
 | 11 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
 | 12 | [A Vibe Thing](https://open.spotify.com/track/22nTQWFdnEhqXnV9g5eFAa) | [DJ Merci](https://open.spotify.com/artist/0aWG9QV2R47xsBMYaDSaPj) | [A Vibe Thing](https://open.spotify.com/album/7FHRfmURdeXSTCbvKXiNJN) | 5:44 |
 | 13 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 27 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 |
 | 28 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 |
 | 29 | [Remember](https://open.spotify.com/track/1TwttAopOacjIhnuePJm3s) | [SI\-FI](https://open.spotify.com/artist/2IZuUOaBZX6lMmbRK1GLcv) | [Remember](https://open.spotify.com/album/5nfXfGq3r2FklAjuT34QIQ) | 4:36 |
-| 30 | [The Hills](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Hills / True Fours](https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp) | 2:40 |
-| 31 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
+| 30 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
+| 31 | [The Hills](https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Hills / True Fours](https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp) | 2:40 |
 | 32 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
 | 33 | [U Will Change My Mind](https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [U Will Change My Mind](https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV) | 3:54 |
-| 34 | [I'm In Love](https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1) | [Social Lovers](https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL) | [I'm In Love](https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze) | 4:32 |
-| 35 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
-| 36 | [Iced Coffee](https://open.spotify.com/track/6rxQMY5SxOpSO1neanphxY) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Iced Coffee](https://open.spotify.com/album/6TftWZf2uvREyJaKLlTL47) | 2:37 |
-| 37 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
+| 34 | [Iced Coffee](https://open.spotify.com/track/6rxQMY5SxOpSO1neanphxY) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Iced Coffee](https://open.spotify.com/album/6TftWZf2uvREyJaKLlTL47) | 2:37 |
+| 35 | [I'm In Love](https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1) | [Social Lovers](https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL) | [I'm In Love](https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze) | 4:32 |
+| 36 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
+| 37 | [Polar Circle](https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Polar Circle](https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB) | 1:57 |
 | 38 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
 | 39 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
 | 40 | [33](https://open.spotify.com/track/5pCp2f52YPxF489Qq4wm7V) | [Kcik](https://open.spotify.com/artist/701mrkwQWqwpcRjfCNwZ1u) | [The Best of Kcik, Vol\. 3](https://open.spotify.com/album/0HbLbiu70ekJZTnxzdif85) | 5:26 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 43 | [I Knew It](https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS), [Latas](https://open.spotify.com/artist/7qBJkCFXBU9wEAFxFUrvDb) | [I Knew It](https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei) | 3:44 |
 | 44 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
 | 45 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
-| 46 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
-| 47 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
+| 46 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
+| 47 | [Far From Home](https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [We Should Chill On The Windowsill More](https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK) | 5:26 |
 | 48 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
 | 49 | [Tokyo](https://open.spotify.com/track/4h6tda5DdPSH9uv4uErGW8) | [Jaycc](https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN) | [Tokyo](https://open.spotify.com/album/66gnUJrIEaAoE0gN94oxlL) | 2:31 |
 | 50 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 57 | [Alone Girl](https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Alone Girl](https://open.spotify.com/album/4v4E87v7TwXmwdgnceN6F8) | 3:08 |
 | 58 | [Everytime \- Girls of the Internet Remix](https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Everytime \(Girls of the Internet Remix\)](https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P) | 3:41 |
 | 59 | [I Feel](https://open.spotify.com/track/1qH5nKFpXgCScs0qgTNy8J) | [David Bulay](https://open.spotify.com/artist/3pFXVVUZNqLmnaa3AGyTOF) | [Loyal](https://open.spotify.com/album/3oIBQxoXN4Ek9dzmVdVtCE) | 3:27 |
-| 60 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
+| 60 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |
 
-Snapshot ID: `AAAAAEsa/Ss4Wx50l9hoi6eciko7IK+b`
+Snapshot ID: `AAAAAG7MxoT/1Jl/SQVdrzWDAQm42Ti0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,558 likes - 174 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,550 likes - 174 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 2 | [2 GUNS UPP SOM JUL](https://open.spotify.com/track/0TwQ0wgj8AdeaEdwDq3h30) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [2 GUNS UPP SOM JUL](https://open.spotify.com/album/3623NxWE2MSXMaPHjRhpnR) | 1:55 |
 | 3 | [Gustav Vasa](https://open.spotify.com/track/3WBQ9oA5DgpgV96ETEB7xP) | [ALAN MAX](https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Gustav Vasa](https://open.spotify.com/album/5XEkX79dGdKwXd8NEwyWqU) | 2:28 |
 | 4 | [Uppoffringar](https://open.spotify.com/track/6IrDsxJQb7VyYkEooUWrm9) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Uppoffringar](https://open.spotify.com/album/01n4JFTIjhjyrcoQVDEFEX) | 2:23 |
-| 5 | [Woah](https://open.spotify.com/track/1vhXsBxTRk0n4L9g7vwMsJ) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [](https://open.spotify.com/album/null) | 2:34 |
+| 5 | [Woah](https://open.spotify.com/track/1vhXsBxTRk0n4L9g7vwMsJ) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [Det blir inte alltid som man tänkt sig](https://open.spotify.com/album/630WY4FmTKOvS6zOXXtpFV) | 2:34 |
 | 6 | [låga](https://open.spotify.com/track/7es9iv9YMsxztdD7aja93s) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [nero](https://open.spotify.com/album/1XZSjSMXZkyWSl7le1bS8H) | 2:18 |
 | 7 | [Låt Mig Berätta](https://open.spotify.com/track/6SkvXCOaOERANcAsuJO6ov) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Låt Mig Berätta](https://open.spotify.com/album/6UIi7bFEVJisxiUXx7v8de) | 2:35 |
 | 8 | [Precis Som Förut](https://open.spotify.com/track/1hT0fnLv0as7OR2O1l4TEo) | [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3) | [Precis Som Förut](https://open.spotify.com/album/6C0Krdgt2q9MB3IuYzqUef) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de diciembre 2025\. Cover: Romeo Santos & Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,018 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,592 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 |
 | 50 | [PIRRI](https://open.spotify.com/track/4PKnU6PICOeVRSJYVYDBDz) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [PIRRI](https://open.spotify.com/album/4DWUUTlu2iKVG56uK3WIhB) | 3:12 |
 
-Snapshot ID: `AAAAAD8LnTlbWA6yhl2BhDe3Cn3Elxxy`
+Snapshot ID: `AAAAAKE9W3wqsISRnokDJ1LKdCR1wasv`

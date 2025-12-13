@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 36 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 35 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 28 | [You Mean Everything](https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [You Mean Everything](https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K) | 3:52 |
 | 29 | [Young \(Belane\)](https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:33 |
 | 30 | [Cool Ethan](https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 5:16 |
-| 31 | [Complicated](https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Complicated \(feat\. Heights\)](https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01) | 3:32 |
-| 32 | [Fight or Run](https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Wildheart Dreaming](https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc) | 3:12 |
+| 31 | [Fight or Run](https://open.spotify.com/track/1bkRlqgIqGHsthK66ot39Q) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Wildheart Dreaming](https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc) | 3:12 |
+| 32 | [Complicated](https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Complicated \(feat\. Heights\)](https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01) | 3:32 |
 | 33 | [Distant Memory](https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:30 |
-| 34 | [Weather Warning](https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Weather Warning](https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF) | 4:10 |
+| 34 | [Gum](https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:19 |
 | 35 | [Scatterbrain](https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:15 |
-| 36 | [Gum](https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:19 |
 
-Snapshot ID: `aTi4AAAAAABvyWEPj/3CNDlanf5scm5z`
+Snapshot ID: `aToJgAAAAABYUitG+qweB0zK+Nfn5YqF`

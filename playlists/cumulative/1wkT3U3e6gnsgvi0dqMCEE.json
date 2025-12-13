@@ -5605,6 +5605,24 @@
     },
     {
       "album": {
+        "name": "A Beautiful Lie",
+        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
+    },
+    {
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,522 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,542 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 32 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
 | 33 | [Talisman](https://open.spotify.com/track/4XxbBFfKlXY2E5PN3dHAfz) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:16 |
 | 34 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
-| 35 | [Let Me Go](https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:13 |
-| 36 | [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 |
+| 35 | [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 |
+| 36 | [Let Me Go](https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:13 |
 | 37 | [Kids in Love \(feat\. The Night Game\)](https://open.spotify.com/track/5nmHl233yo8XJvaNfdKAWU) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 4:23 |
 | 38 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 |
 | 39 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 60 | [Sun Is Shining](https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2) | [Sun Is Shining \(Remixes\)](https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs) | 4:10 |
 | 61 | [Spellbound \(feat\. Veba\)](https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Veba](https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ) | [Northern Sulphuric Soul](https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9) | 5:44 |
 | 62 | [Steamworks](https://open.spotify.com/track/4STp2ydjOO3OfSaRUa4n6Z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Beams \(Deluxe\)](https://open.spotify.com/album/6ivvGq9dhnlDHoEdHrWzsQ) | 4:35 |
-| 63 | [Chase the Sun](https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [Non Zero Sumness Plus One](https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD) | 3:53 |
-| 64 | [Raindrops](https://open.spotify.com/track/7KwhOs8qcEWcXJP0eKR4Bm) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Scars](https://open.spotify.com/album/1pDAZ6iRky6Vmv9xDJezoc) | 4:09 |
+| 63 | [Raindrops](https://open.spotify.com/track/7KwhOs8qcEWcXJP0eKR4Bm) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Scars](https://open.spotify.com/album/1pDAZ6iRky6Vmv9xDJezoc) | 4:09 |
+| 64 | [Chase the Sun](https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [Non Zero Sumness Plus One](https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD) | 3:53 |
 | 65 | [Drop The Pressure](https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:15 |
 | 66 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |
 | 67 | [Ordinary Pleasure](https://open.spotify.com/track/5MhdCkaa1vj51vaFTc3qia) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/1k6jh0c0c0mMCXPGT5D8LY) | 3:03 |

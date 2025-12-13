@@ -1391,6 +1391,28 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde el Hangar",
+        "url": "https://open.spotify.com/album/1C9TBlicNWqtn9FnIVeabt"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "El piloto y su estilo",
+          "url": "https://open.spotify.com/artist/0NxSoJPiEHe3f1lDo277Cc"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "Cuadro Lavado - En Vivo",
+      "url": "https://open.spotify.com/track/1CHpU2asEkt3d1iRcKhimB"
+    },
+    {
+      "album": {
         "name": "Cuando Los Hombres Lloran",
         "url": "https://open.spotify.com/album/0wL6K5Tee6JIF3rxBv9GH2"
       },
@@ -2084,7 +2106,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 149346,
       "name": "El Anonimo",
       "url": "https://open.spotify.com/track/1teRpnRo534fWUj6uDwVkr"
@@ -3117,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "#TB...Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187578,
+      "name": "Estoy Enamorado De Ti",
+      "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
+    },
+    {
+      "album": {
         "name": "Pa' Miar el Higado, Vol. 2",
         "url": "https://open.spotify.com/album/5b0ULrWiyOhQtSm91ZK1xp"
       },
@@ -3182,7 +3222,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 156565,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/4CofaCmGu47CFIxsRMAOKz"
@@ -3472,7 +3512,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 224378,
       "name": "Hermosura de Mujer",
       "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
@@ -4040,7 +4080,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 183296,
       "name": "La L\u00e1mpara",
       "url": "https://open.spotify.com/track/1Kdl4dgQeoTFE1B6KBaclB"
@@ -4058,7 +4098,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 169933,
       "name": "La Mal Pagadora",
       "url": "https://open.spotify.com/track/5OtKohCIOvdG6DTkfALU2h"
@@ -4318,6 +4358,24 @@
       "duration_ms": 178252,
       "name": "Lejos Estamos Mejor",
       "url": "https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E"
+    },
+    {
+      "album": {
+        "name": "Mi Ultima Bohemia (En Vivo)",
+        "url": "https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167520,
+      "name": "Linda Guerita",
+      "url": "https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS"
     },
     {
       "album": {
@@ -4812,7 +4870,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 150700,
       "name": "Me Voy Lejos (En Vivo)",
       "url": "https://open.spotify.com/track/65G6WRVvnM2V4ih2cayh4W"
@@ -4892,6 +4950,24 @@
       "duration_ms": 172200,
       "name": "Mi Entorno",
       "url": "https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y"
+    },
+    {
+      "album": {
+        "name": "Asi o Mas Norte\u00f1os",
+        "url": "https://open.spotify.com/album/3hxu13g3iTKzO1X6UZg4YD"
+      },
+      "artists": [
+        {
+          "name": "Hnos Escobedo",
+          "url": "https://open.spotify.com/artist/4XvmETtqty8bAoyh7EEDLn"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172554,
+      "name": "Mi Flor de Naranjo",
+      "url": "https://open.spotify.com/track/6OI8jHKRIuRDax1q1BdngM"
     },
     {
       "album": {
@@ -4982,7 +5058,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 267066,
       "name": "Migajero",
       "url": "https://open.spotify.com/track/7DKnuyS5fAoUkLGoaLCTUR"
@@ -5098,7 +5174,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 217894,
       "name": "Mujer Alegre",
       "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
@@ -5196,6 +5272,24 @@
       "duration_ms": 181394,
       "name": "No Estoy Muerto",
       "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+    },
+    {
+      "album": {
+        "name": "Borrachera Fito Shyruka (En Vivo)",
+        "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204233,
+      "name": "No Logr\u00e9 Olvidarte (En Vivo)",
+      "url": "https://open.spotify.com/track/2qRbKZfPKgZATmDidvnchM"
     },
     {
       "album": {
@@ -5848,7 +5942,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 194005,
       "name": "Pero te vas arrepentir",
       "url": "https://open.spotify.com/track/47k6ZQCTA4j3frsegfVT0V"
@@ -5946,6 +6040,28 @@
       "duration_ms": 188373,
       "name": "Pong\u00e1monos De Acuerdo",
       "url": "https://open.spotify.com/track/24AQa9DkSsiRILa2se6Mht"
+    },
+    {
+      "album": {
+        "name": "Puras Pa' Tomar Vol.1 (En Vivo)",
+        "url": "https://open.spotify.com/album/03LCGIUYnwjxMEugeG46Xe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237243,
+      "name": "Por Alguien - En Vivo",
+      "url": "https://open.spotify.com/track/217KJnIY8u26j5Fn2vcMRj"
     },
     {
       "album": {
@@ -6142,7 +6258,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 239836,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/0zXXrJVCD1jNCyfff77WYh"
@@ -6160,7 +6276,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 224490,
       "name": "Pueblito",
       "url": "https://open.spotify.com/track/11CLUu5OqX6I0QZFTom8zD"
@@ -6294,6 +6410,24 @@
       "duration_ms": 160392,
       "name": "Que Chulos Ojos",
       "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
+    },
+    {
+      "album": {
+        "name": "Desde El Expendio (En Vivo)",
+        "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201505,
+      "name": "Que Iron\u00eda",
+      "url": "https://open.spotify.com/track/7MPNbGlgwJrfMoTDffoyX8"
     },
     {
       "album": {
@@ -6659,6 +6793,28 @@
     },
     {
       "album": {
+        "name": "Chapayeka (En Vivo)",
+        "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Se Mam\u00f3 El Becerro (En Vivo)",
+      "url": "https://open.spotify.com/track/7lYAjjR4S3JxcYZgpELmMD"
+    },
+    {
+      "album": {
         "name": "Se Volvieron Locos",
         "url": "https://open.spotify.com/album/4LvndqvFdW4HsmC93jEeqY"
       },
@@ -6678,7 +6834,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 160714,
       "name": "Se Volvieron Locos",
       "url": "https://open.spotify.com/track/7eUCC5cLcQVQVuE9JP0phS"
@@ -6855,6 +7011,28 @@
     },
     {
       "album": {
+        "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn \"El Gallo\"",
+          "url": "https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3"
+        },
+        {
+          "name": "Los Dukes De Sonora",
+          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315271,
+      "name": "Siempre Siempre - Quiero Charlar Con la Muerte",
+      "url": "https://open.spotify.com/track/56LBqVtsxMgSaVJxzX9HIw"
+    },
+    {
+      "album": {
         "name": "El Le\u00f3n",
         "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
@@ -6888,6 +7066,28 @@
       "duration_ms": 149546,
       "name": "Sin Equipaje",
       "url": "https://open.spotify.com/track/0bVtKbzLzlwV1IPPFqIWWy"
+    },
+    {
+      "album": {
+        "name": "Chapayeka (En Vivo)",
+        "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Manuel El Indio Ortega",
+          "url": "https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Sin Fortuna (En Vivo)",
+      "url": "https://open.spotify.com/track/5gUGD4wY6mnqLJtMCArXJ0"
     },
     {
       "album": {
@@ -7356,7 +7556,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 177346,
       "name": "Te vi venir",
       "url": "https://open.spotify.com/track/37ELDkWCHvpfcRHUQCqhEw"
@@ -7400,7 +7600,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 213667,
       "name": "TENGO MI VICIO",
       "url": "https://open.spotify.com/track/2w7icrqLX1OhriYtS7n9Q1"
@@ -7544,7 +7744,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 144899,
       "name": "Tres Vueltas",
       "url": "https://open.spotify.com/track/4FSYDWGB7NtJF5Bi25kv00"
@@ -8500,7 +8700,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 200849,
       "name": "Ya Nos Va Mejor",
       "url": "https://open.spotify.com/track/6OXp9rUM32eWH8nd9TPDBp"

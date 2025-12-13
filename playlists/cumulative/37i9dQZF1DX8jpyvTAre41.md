@@ -2,9 +2,9 @@
 
 ### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The best rock songs of the moment\. Cover: cleopatrick
+> The best rock songs of the moment\. Cover: Softcult
 
-1,503 songs - 3 day 12 hr 29 min
+1,509 songs - 3 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 | 2025-08-15 | 2025-08-22 |
 | [ANOTHER DAY](https://open.spotify.com/track/6P3ulqMerWlqHoITMV3Qbk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [ANOTHER DAY](https://open.spotify.com/album/1ltYGci13XpnGRY7552qnD) | 3:38 | 2025-09-26 |  |
 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 | 2025-10-31 |  |
+| [ANTIDOTE](https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ANTIDOTE](https://open.spotify.com/album/4Uc2ErLyAbWIK9qPqHMj5n) | 3:03 | 2025-12-12 |  |
 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-13 | 2025-09-19 |
 | [ANY MINUTE NOW](https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [ANY MINUTE NOW](https://open.spotify.com/album/5qiwaNjoefoKyNv0iMXc16) | 3:12 | 2025-11-14 |  |
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-05-31 | 2024-10-19 |
@@ -767,6 +768,7 @@
 | [Like A Drug](https://open.spotify.com/track/5VDiBRQ6k1RW7H6HGcyme8) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Like A Drug](https://open.spotify.com/album/4KFtddTAu8FBQ5bwymJxZv) | 3:32 | 2022-04-01 | 2022-08-06 |
 | [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 | 2022-09-09 | 2023-05-04 |
 | [Like A Woman Can](https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:22 | 2025-08-08 | 2025-10-10 |
+| [LIKE ME LIKE THAT](https://open.spotify.com/track/04uBUXTAYNMUVr61CEakiq) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [GO BIG OR GO HOME](https://open.spotify.com/album/1QdUJ9LPNwQXCIgeCs7HKf) | 2:33 | 2025-12-12 |  |
 | [limbo](https://open.spotify.com/track/1jjZSKkkm71iFGjTFVtHxs) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [limbo](https://open.spotify.com/album/19n6SzmWCHrTAnFxFaSXla) | 3:08 | 2025-10-24 |  |
 | [Limerence](https://open.spotify.com/track/4ePRLYhdtPjS0d6Ai0Ibwi) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Dilworth](https://open.spotify.com/album/1DmUukUnrzc984oVIyUhFR) | 2:43 | 2025-06-20 | 2025-09-12 |
 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 | 2022-10-28 | 2023-09-23 |
@@ -811,6 +813,7 @@
 | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [MAD \(feat\. Ice Nine Kills\)](https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j) | 3:18 | 2025-11-07 |  |
 | [Magical Thinking](https://open.spotify.com/track/5dkhw3KEwufj4WXk5RsFPH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Magical Thinking](https://open.spotify.com/album/2ZuaDhfl1Kp6VPU9ngGmpj) | 3:41 | 2022-09-23 | 2022-10-22 |
 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 | 2024-08-23 | 2025-02-15 |
+| [Make a Mess](https://open.spotify.com/track/0crhkNZJhowGwML5s7TYGp) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [They Were Always Here](https://open.spotify.com/album/6qL50fXDRthHQTp9O24say) | 3:10 | 2025-12-12 |  |
 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 | 2025-03-14 | 2025-04-26 |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-07 | 2024-06-29 |
 | [make up sex \(feat\. blackbear\)](https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:02 | 2022-03-25 | 2022-04-16 |
@@ -984,6 +987,7 @@
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-03-01 | 2024-05-25 |
 | [Overrated](https://open.spotify.com/track/680ito0q2VR63AUPlSOigm) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Overrated](https://open.spotify.com/album/1ErCE3HK4Kg91MFOLz7CI3) | 2:45 | 2024-12-13 | 2025-05-10 |
 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 | 2023-06-30 | 2024-06-08 |
+| [Pain.](https://open.spotify.com/track/2O5vBKNXCGyuxIcLPnwT1h) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Pain.](https://open.spotify.com/album/47a7Io7rkP9CQk58cI4zeL) | 1:59 | 2025-12-12 |  |
 | [Pale Horse](https://open.spotify.com/track/1dk1uBTlxYMQ6PSj5zskZg) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Bright as Blasphemy](https://open.spotify.com/album/4UfWCai5kezrUuom68hwHt) | 4:37 | 2025-08-15 | 2025-08-22 |
 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2023-07-14 | 2024-03-09 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-12-31 | 2022-02-05 |
@@ -1038,6 +1042,7 @@
 | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-03-03 | 2023-05-20 |
 | [PURGE ft\. Siiickbrain](https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PURGE ft\. Siiickbrain](https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1) | 2:37 | 2022-04-01 | 2022-04-07 |
 | [Push and Shove](https://open.spotify.com/track/2YK8RnQAEHgpgNk8yXi1VC) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Push and Shove](https://open.spotify.com/album/3FijYSpdP7dLFv4JzFbyrr) | 2:31 | 2022-03-04 | 2022-04-02 |
+| [Queen Of Nothing](https://open.spotify.com/track/5S03UZD1PCeuXyBWZ9Ugml) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Queen of Nothing](https://open.spotify.com/album/6EU1TLfLxJ9pGLD66Gy8aB) | 3:01 | 2025-12-12 |  |
 | [Rabbit Run \- From the "Caught Stealing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1uA4NmAjuQIaM2hcOzftFx) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Caught Stealing Movie](https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo) | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39PWEXZY2QbMCp1f31mPmL) | 3:46 | 2025-08-01 | 2025-09-19 |
 | [Rags](https://open.spotify.com/track/412DgnJV3OyVDSC62kSMgO) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Rags](https://open.spotify.com/album/3caDFJoWMdSlWjPDtEghOh) | 2:48 | 2025-03-28 | 2025-07-26 |
 | [Rain, Hearts And Fire](https://open.spotify.com/track/7p1npRNbFIXcYcNc02K2rm) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here \(Deluxe\)](https://open.spotify.com/album/5548ROx9ZxjJ2iXCq9DLI6) | 3:35 | 2024-11-08 | 2024-12-14 |
@@ -1354,6 +1359,7 @@
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-21 | 2025-06-28 |
 | [Trouble Found Me](https://open.spotify.com/track/0SBn12c077mPjplOyBcGK6) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Trouble Found Me](https://open.spotify.com/album/603STn9jyMs4UDW87CgKvQ) | 3:03 | 2023-02-24 | 2023-04-29 |
 | [Trouble’s Coming](https://open.spotify.com/track/6voIJ7OWwRabSZDC77D5Hp) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:48 | 2021-12-31 | 2022-02-19 |
+| [TRUEST SOUND](https://open.spotify.com/track/6g7VwSBcKm5kOef5AJMsKd) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [TRUEST SOUND](https://open.spotify.com/album/4vgOZlNSwFsfgDsRuuswS1) | 4:00 | 2025-12-12 |  |
 | [Truth Be Told](https://open.spotify.com/track/1N61QLRTGgzb97qTd03KhZ) | [Skye Wallace](https://open.spotify.com/artist/6BBaTzjSoI3KGH2c5yyCae) | [Truth Be Told](https://open.spotify.com/album/58rMecu5z9tfXa3Vambk9c) | 4:03 | 2022-01-14 | 2022-04-09 |
 | [Try](https://open.spotify.com/track/2rHdNroEBCbFWRcFUYA5xf) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Try](https://open.spotify.com/album/5wAxHn7b2DKqExY9mF06KK) | 2:37 | 2025-01-10 | 2025-02-22 |
 | [try again](https://open.spotify.com/track/0S09s70YzPQOKChK4ybdMZ) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [try again](https://open.spotify.com/album/5mB0WqDGxpdEvhvEgZlUOL) | 4:14 | 2023-04-07 | 2023-05-06 |

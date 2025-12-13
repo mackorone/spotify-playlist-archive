@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11334,
+  "num_followers": 11335,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAPzaf91iu+1G3T/uQ4KxaO",
+  "snapshot_id": "aToJgAAAAACCEKzP0MXEmJ+lzBDR5cTI",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "eye2eye (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "eye2eye - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 298666,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "eye2eye (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "eye2eye - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
     },
     {
       "added_at": null,
@@ -514,15 +514,11 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
         }
       ],
-      "duration_ms": 266160,
-      "name": "Your Way (feat. Day Wave)",
-      "url": "https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s"
+      "duration_ms": 176266,
+      "name": "It All Started With A Feeling",
+      "url": "https://open.spotify.com/track/01LPPn0zlhtWefUkXK6e58"
     },
     {
       "added_at": null,
@@ -683,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
         "url": "https://open.spotify.com/album/32uCBCbvYtW2kqSQbaoj4C"
       },
@@ -715,6 +695,22 @@
       "duration_ms": 186363,
       "name": "Tennis Skirt (feat. Ella Boh) (Demo)",
       "url": "https://open.spotify.com/track/6Y77YLQpPg7NOY8f9UlnCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
     },
     {
       "added_at": null,

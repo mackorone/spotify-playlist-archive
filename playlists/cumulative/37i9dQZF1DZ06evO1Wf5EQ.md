@@ -4,11 +4,12 @@
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-91 songs - 3 hr 0 min
+92 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Surprise](https://open.spotify.com/track/44g4FlOQjnoAWDCthdYaZ5) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:39 | 2023-12-13 | 2024-01-03 |
+| [A Lead](https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:02 | 2025-12-13 |  |
 | [A Perfect Dinner](https://open.spotify.com/track/5nYsEif2J6p4qhKzBHBVS7) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:33 | 2023-12-13 | 2025-04-10 |
 | [A Small Gift](https://open.spotify.com/track/5YRQowiQMndi1StwMi44KS) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:48 | 2024-05-05 | 2024-05-18 |
 | [Alice](https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:58 | 2024-08-23 |  |

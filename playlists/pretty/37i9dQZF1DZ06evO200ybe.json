@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 122891,
+  "num_followers": 122912,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAqc+w3T6k4qbGeXBnhrFcK",
+  "snapshot_id": "aToJgAAAAABtq9UfdO8m21rPFW3BNkIo",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 303973,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2"
+      "duration_ms": 197426,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
       "artists": [
         {
@@ -232,25 +232,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 197426,
-      "name": "That Ole Devil Called Love",
-      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "You're Mine, You!",
-      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
+      "duration_ms": 303973,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2"
     },
     {
       "added_at": null,
@@ -267,6 +251,22 @@
       "duration_ms": 284546,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "You're Mine, You!",
+      "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 179573,
-      "name": "You're My Thrill",
-      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+      "duration_ms": 179573,
+      "name": "You're My Thrill",
+      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 473666,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
+      "duration_ms": 252640,
+      "name": "I've Grown Accustomed To Her Face",
+      "url": "https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB"
     },
     {
       "added_at": null,
@@ -576,25 +576,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 252640,
-      "name": "I've Grown Accustomed To Her Face",
-      "url": "https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "While My Lady Sleeps (take 10) - Alternate Take",
-      "url": "https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d"
+      "duration_ms": 473666,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "While My Lady Sleeps (take 10) - Alternate Take",
+      "url": "https://open.spotify.com/track/2ISbOB1Xu6F3YlyP5n6J9d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Most Important Jazz Album Of 1964/65",
         "url": "https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 282280,
       "name": "Soultrane",
       "url": "https://open.spotify.com/track/6FAaA71foLB96CYdirZO3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker & Strings",
-        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/3dV42xSB7JYqvYdmP3Bolo"
     },
     {
       "added_at": null,
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+        "name": "Chet Baker & Strings",
+        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+      "duration_ms": 176160,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/3dV42xSB7JYqvYdmP3Bolo"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 255466,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/2WRLJSbs3O6VuU4yTHMapa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": null,

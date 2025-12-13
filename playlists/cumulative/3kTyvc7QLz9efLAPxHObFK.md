@@ -4,7 +4,7 @@
 
 > 
 
-2,727 songs - 5 day 21 hr 58 min
+2,728 songs - 5 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Bitch Smacking!](https://open.spotify.com/track/7bIcQj4Kp2hwQaj8ktUP2u) | [Mass Destruct!on](https://open.spotify.com/artist/2GGFOZQrDYZAJEpfqWsTuA) | [I Am Frenchcore 17](https://open.spotify.com/album/1lP6w1X3W0D2n10O4widhr) | 3:55 | 2025-03-22 |  |
 | [Bite The Bullet](https://open.spotify.com/track/4zh1cV69dw5HvykJnn83G9) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Bite The Bullet](https://open.spotify.com/album/2prLw2WZ5ZW9Ae6ewRoslf) | 2:52 | 2024-07-05 |  |
 | [BIYF](https://open.spotify.com/track/2hSvnFgEnPeBpamTT6uKrI) | [Hard Instruction](https://open.spotify.com/artist/21TDOQY5YjnoGhYRPGGbtT) | [BIYF](https://open.spotify.com/album/23bpWrc7BYWRksui9A8maN) | 2:37 | 2024-03-10 |  |
+| [BKJN](https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [BKJN](https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv) | 2:18 | 2025-12-12 |  |
 | [Black Altar](https://open.spotify.com/track/3nxknuaDAVIm9GJXz42eVs) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Black Altar](https://open.spotify.com/album/5aMkiqcIQ5L5dTSDtUdHbA) | 3:16 | 2023-05-20 |  |
 | [BLACK HOLE](https://open.spotify.com/track/6Y1Tfjr061t8Nw8VWFnlW6) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [BLACK HOLE](https://open.spotify.com/album/2lQcmqlp3Aeyc6VcsOvhWE) | 2:57 | 2023-10-06 |  |
 | [BLACK HOLE](https://open.spotify.com/track/2zHjYnNKADys8LidsZUIjG) | [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a) | [BLACK HOLE](https://open.spotify.com/album/4s4jnEYCM5gQalByOEXQqo) | 2:53 | 2022-09-09 |  |

@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "FREEFLOW",
+        "url": "https://open.spotify.com/album/2PFPZWlJSnZc6Y3JrbD1wd"
+      },
+      "artists": [
+        {
+          "name": "Aditya Varnan",
+          "url": "https://open.spotify.com/artist/2MGGx9UcLUWKotM5btqsBZ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150752,
+      "name": "FREEFLOW",
+      "url": "https://open.spotify.com/track/0h9zZg7N2tkWhqqeqsetwJ"
+    },
+    {
+      "album": {
         "name": "Gangasita",
         "url": "https://open.spotify.com/album/24H6GWiEpRZJfBrK490lG5"
       },
@@ -2079,6 +2097,28 @@
     },
     {
       "album": {
+        "name": "Iyayo",
+        "url": "https://open.spotify.com/album/6o6KM3MqkhEUyHipha6x90"
+      },
+      "artists": [
+        {
+          "name": "Pitako",
+          "url": "https://open.spotify.com/artist/2882PEr9t0Cy1ae3L0RdwI"
+        },
+        {
+          "name": "Paal Booti",
+          "url": "https://open.spotify.com/artist/0MTxJ9OWf1sj81GwWc3nAG"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149485,
+      "name": "Iyayo",
+      "url": "https://open.spotify.com/track/1xErJrl1bRvsm4E8TZCL7b"
+    },
+    {
+      "album": {
         "name": "Jilla (Original Music Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3D6qVncbJK9etDCBZs1lx6"
       },
@@ -2124,7 +2164,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 135449,
       "name": "JOLLY",
       "url": "https://open.spotify.com/track/1mFyUXPVmSjw8ZoD8C67ht"
@@ -3235,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "NAAN",
+        "url": "https://open.spotify.com/album/0wEiEhjzHXpcuv37KGdfxB"
+      },
+      "artists": [
+        {
+          "name": "YOGI.SRI",
+          "url": "https://open.spotify.com/artist/2XqSqbGQru7bsNP2k6sRpQ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194308,
+      "name": "NAAN",
+      "url": "https://open.spotify.com/track/0Gbbr0ceLLKn0xTFqERdZ7"
+    },
+    {
+      "album": {
         "name": "Jagame Thandhiram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07"
       },
@@ -3696,6 +3754,24 @@
       "duration_ms": 287391,
       "name": "Paadatha Pattellam (From \"Rudhran\")",
       "url": "https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW"
+    },
+    {
+      "album": {
+        "name": "Pache Maina",
+        "url": "https://open.spotify.com/album/1YwTbLR9QBOy15XzpFQKZP"
+      },
+      "artists": [
+        {
+          "name": "Buggimaan",
+          "url": "https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Pache Maina",
+      "url": "https://open.spotify.com/track/4sJa409jzHjBeLV6whtfUt"
     },
     {
       "album": {
@@ -4350,7 +4426,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 140799,
       "name": "SAAVADI - From \"Black Air Force Activity!\"",
       "url": "https://open.spotify.com/track/24UEpVOML1TOhNkFmItc0Z"
@@ -4804,7 +4880,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 203076,
       "name": "Suna Pana (feat. Jeruson)",
       "url": "https://open.spotify.com/track/5oFUweeBMoGCLs0UzqQ5Yj"

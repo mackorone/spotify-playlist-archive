@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino.
 
-338 songs - 1 day 8 hr 13 min
+339 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Artificial](https://open.spotify.com/track/39nxr5EypgH8Vm1N3qRlyR) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/4DC4DlQlgsMYVTjj9osEgg) | 3:13 | 2024-06-28 | 2024-07-27 |
 | [Assemble](https://open.spotify.com/track/6eK1oTcuQ8WcFOlHFZGKWG) | [Zagitar](https://open.spotify.com/artist/1sLDL9ECqXb7hLQVsykf8d) | [Assemble EP](https://open.spotify.com/album/73okAAeBYmmguLGfgl8GHb) | 7:10 | 2020-09-04 | 2023-11-18 |
 | [Astroboy](https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha) | [Ivan Aliaga](https://open.spotify.com/artist/67UXfHRkdnXZ5rh1Ick7Ay) | [FGIX](https://open.spotify.com/album/5NIWox3JztNgZDNsyu5wZl) | 7:40 | 2020-09-04 | 2023-11-18 |
+| [Auch](https://open.spotify.com/track/2ZoyaD9MIlhZU6fijYxUjz) | [CCINNI](https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp) | [Auch](https://open.spotify.com/album/6eeLPlVw9wMj6vS5OoR98P) | 5:12 | 2025-12-12 |  |
 | [Aurial](https://open.spotify.com/track/65xdN7QgXmJ1nb9IP3vOPX) | [motty](https://open.spotify.com/artist/6rJaeIeEwGvYH6PyIMz0WG), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Aurial](https://open.spotify.com/album/2v2fMVosY2tKlA9gbgJGw6) | 3:06 | 2024-07-26 | 2025-08-29 |
 | [Back To The Old School](https://open.spotify.com/track/0lOGclvTM8Eo2EcEu3GdbX) | [DJ JMP](https://open.spotify.com/artist/2geAfV62NcOizrpcKg01Pk) | [Back To The Old School](https://open.spotify.com/album/3vUnrVdQYByao4bTIvg1hK) | 5:30 | 2025-12-09 |  |
 | [Bailarina \- Pyura Remix](https://open.spotify.com/track/3FlSY7bo72ON7rHBgtBMGX) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Bailarina \(Pyura Remix\)](https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3) | 5:16 | 2024-04-12 | 2025-07-11 |

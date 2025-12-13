@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,725 songs - 8 day 5 hr 30 min
+3,728 songs - 8 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1482,12 +1482,14 @@
 | [Heavy rotation](https://open.spotify.com/track/3w5HwOS8yI6LNRyyozLTmR) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn), [This Is The Foo](https://open.spotify.com/artist/16m07khUclQ389ERyc1Sj8) | [Musica buona](https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7) | 3:18 | 2025-06-06 |  |
 | [Hellbound](https://open.spotify.com/track/2GWalOSix9H9UgsDJRiQNS) | [Couching Distance](https://open.spotify.com/artist/6jGzXAWsNR1ylxmLK2z4G1) | [Hellbound](https://open.spotify.com/album/1Ff628nCaqhnmWgsfyAQzA) | 2:51 | 2025-05-23 |  |
 | [Hello My Past](https://open.spotify.com/track/1BBuJShNH2aIaZr8b2Y1wy) | [A.G.S](https://open.spotify.com/artist/0ugmYHUqz52xFstzJELWOu) | [Hello My Past](https://open.spotify.com/album/0OsQCln9enQM9DlWGFGbfV) | 3:49 | 2025-01-28 |  |
+| [Help Me](https://open.spotify.com/track/08w0tzlysH3JZuzA46SLMe) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Help Me](https://open.spotify.com/album/79lQhXbWbjmao6F1MnCZ5X) | 4:02 | 2025-12-12 |  |
 | [Here Comes a Regular \- 2008 Remaster](https://open.spotify.com/track/5Yc1rQKy4uv4QJFJTPHEiu) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 4:48 | 2025-11-05 |  |
 | [Here We Go Again](https://open.spotify.com/track/5r2dkJRYfNL5J44hStrMMo) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Here We Go Again](https://open.spotify.com/album/35dcJeV99v2EVji43iuVD4) | 3:25 | 2025-10-15 |  |
 | [Hereabout](https://open.spotify.com/track/2kwYwmYdgfwPzF9VSkUQCY) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Hereabout](https://open.spotify.com/album/6nPmGhuPFmTDMLWwHpJVng) | 3:44 | 2024-09-24 |  |
 | [Hermit New PostAtomic \(Remastered 2025\)](https://open.spotify.com/track/7pOXV31VGpHJIlY5FeA4jq) | [Kings of Subhumans](https://open.spotify.com/artist/3EPriYoQ0wrrE6SC65weG9) | [Forever Emerging](https://open.spotify.com/album/3r2umy8tBFen0QaRCv0mWm) | 3:29 | 2025-06-05 |  |
 | [Hesitation.](https://open.spotify.com/track/0RiKxb9EhXL8eaR2BYGNc4) | [Alessandra Brewer](https://open.spotify.com/artist/30vaNT4Hqg7xZ8curffL0s) | [Allure.](https://open.spotify.com/album/63dBpHnLs1PVpbpJLqun5B) | 3:48 | 2025-12-04 |  |
 | [Hey Motherfucker](https://open.spotify.com/track/35iFfx0EkYrClb5nuZVoSs) | [Escape Artist Lovers](https://open.spotify.com/artist/6C5G4YRhQLa6pB7RSf59lQ) | [Hey Motherfucker](https://open.spotify.com/album/2LWsE510YqfiAIjWhaziJ6) | 2:39 | 2025-12-04 |  |
+| [Hidden Love](https://open.spotify.com/track/1lJaX742mJqBWcHimk70UY) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Hidden Love](https://open.spotify.com/album/3FbgJD5QIG3YaDSk6fsJ1n) | 3:23 | 2025-12-12 |  |
 | [Hide inside](https://open.spotify.com/track/5LwBqIpcnMDxtp3ww1qnTb) | [Ovi Caloni](https://open.spotify.com/artist/0inPbbC0PnvOpFPui3KQK7) | [Hide inside](https://open.spotify.com/album/3P8mKFvMQ4fLdqSvZnax8W) | 3:58 | 2025-10-01 |  |
 | [High](https://open.spotify.com/track/6WIUxTiuNlQ0Xcaer3SQJY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:34 | 2025-09-17 |  |
 | [High \(another\)](https://open.spotify.com/track/5DJ9wG6Jsv7lxvXeIfHFnm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:00 | 2025-09-17 |  |
@@ -1825,6 +1827,7 @@
 | [Lies](https://open.spotify.com/track/1CFz7iArda7eZFP8AzupaY) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Lies](https://open.spotify.com/album/1iEclpMGY9VCLYyemLmNf8) | 3:00 | 2025-10-06 |  |
 | [Life after Life](https://open.spotify.com/track/0tYKDh5aqTSHoh23bABNFv) | [Yoga Meditation](https://open.spotify.com/artist/6bXLqExfY3jgaJU0Uuyhd2) | [Life after Life](https://open.spotify.com/album/5mujw1NjOxoqgsyXmEX3Cq) | 8:24 | 2025-06-04 |  |
 | [Life for Today](https://open.spotify.com/track/4hdBi4istnjBHQWxLiBdmo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Life for Today \(single\)](https://open.spotify.com/album/5eINJa2PGmNl1msOo4TnwS) | 2:25 | 2025-05-27 |  |
+| [Life Is Beautiful](https://open.spotify.com/track/4uUybQP3xXImQqJ4gxJOmY) | [C\_J](https://open.spotify.com/artist/2YVPBrRzDMRfRimq2jCUxD) | [Life Is Beautiful](https://open.spotify.com/album/4tXUxUM2PDXb2Dt2SYoET3) | 4:22 | 2025-12-12 |  |
 | [Life Is Good](https://open.spotify.com/track/1SoBDJYPt5eBxtEk4qtFQZ) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 3:08 | 2025-06-05 |  |
 | [Life is not Fair](https://open.spotify.com/track/5tLbWK2BOXL6LWASpOTjqB) | [J3mob](https://open.spotify.com/artist/0P2ZL7GBqnec5yxbZDBULK) | [Throwing Paint at the Wall](https://open.spotify.com/album/229Dep2dkn7qmhde1naalV) | 3:02 | 2025-05-16 |  |
 | [Life Must Go On](https://open.spotify.com/track/6NREVVbzpJgpRfEmQCPxPe) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Life Must Go On](https://open.spotify.com/album/43QlQLCUn4dbQBPhJJnDXh) | 3:21 | 2025-05-30 |  |

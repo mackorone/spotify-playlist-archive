@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 585892,
+  "num_followers": 585945,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAADmqhlyOfBGBRKbNSzwK1x",
+  "snapshot_id": "aToJgAAAAABLyGDQx9boqqTMp/uUjq7L",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 175062,
-      "name": "You're Gonna Make Me Lonesome When You Go",
-      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Through The Open Window: The Bootleg Series Vol. 18 (Highlights)",
         "url": "https://open.spotify.com/album/7KcszWpAtYB3YDEK88QFWf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 203564,
       "name": "Ramblin' Round - Take 2",
       "url": "https://open.spotify.com/track/519EkVJxIYpOQSOOk7uCQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 175062,
+      "name": "You're Gonna Make Me Lonesome When You Go",
+      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 261138,
-      "name": "Meet Me in the Morning",
-      "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 162436,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 261138,
+      "name": "Meet Me in the Morning",
+      "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 357546,
-      "name": "Ballad of a Thin Man",
-      "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 305089,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 357546,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
     },
     {
       "added_at": null,
@@ -716,25 +716,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 170980,
-      "name": "Love Minus Zero",
-      "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 249116,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC"
+      "duration_ms": 169122,
+      "name": "She Belongs to Me",
+      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
       "duration_ms": 272685,
       "name": "Man in the Long Black Coat",
       "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 249116,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC"
     },
     {
       "added_at": null,
@@ -780,25 +780,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 169122,
-      "name": "She Belongs to Me",
-      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 454005,
-      "name": "Visions of Johanna",
-      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
+      "duration_ms": 170980,
+      "name": "Love Minus Zero",
+      "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 180478,
       "name": "Ring Them Bells",
       "url": "https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 454005,
+      "name": "Visions of Johanna",
+      "url": "https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Iis Dahlia
 
-285 songs - 22 hr 45 min
+286 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Cinta Yang Rumit](https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Rumit](https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA) | 4:05 | 2023-11-17 | 2024-05-24 |
 | [Cinta Yang Terhenti](https://open.spotify.com/track/7lcS9giUFAV05bDS9p6iMJ) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz), [Puspa Indah](https://open.spotify.com/artist/0LYzIcn5DmkymXiqbn6Oq8) | [Cinta Yang Terhenti](https://open.spotify.com/album/5ZpE6y69xl91WE9gB0eNNg) | 5:01 | 2025-02-07 |  |
 | [Cinta Yang Tulus \- Acoustic Version](https://open.spotify.com/track/3y4Dbets2ktIyPYdkLiTPl) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Tulus \(Acoustic Version\)](https://open.spotify.com/album/2rD3h2v9YzyoVkRKFrjuMB) | 4:45 | 2024-01-26 | 2024-03-15 |
+| [Cintaku Bagaikan Debu](https://open.spotify.com/track/1vQVN93s74I2n419kA2EDj) | [Cut Zuhra](https://open.spotify.com/artist/5MvCyicKyQABmOA2hN5rU1) | [Cintaku Bagaikan Debu](https://open.spotify.com/album/3plqGSdms1e9t04FQFrJ5i) | 4:31 | 2025-12-12 |  |
 | [Cuma Kamu](https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu](https://open.spotify.com/album/7mrO78qasVB2HQ17sywB3u) | 4:04 | 2021-08-23 | 2025-03-21 |
 | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/track/5qfF8hoLmH6wCeHZzhqz4l) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu \(feat\. Via Vallen\)](https://open.spotify.com/album/4JGs61xAzqTVHt8xURldZ8) | 4:04 | 2021-08-23 | 2024-04-19 |
 | [Dalan Liyane](https://open.spotify.com/track/0500gMP5UyLXs1HSuLOnBD) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Dalan Liyane](https://open.spotify.com/album/2uXWRk8gpYuaYI7LkaD8NS) | 4:04 | 2021-08-23 | 2023-02-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Our editors' picks for the best AfroGospel songs of the year! Cover: CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,852 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,891 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 74 | [Everyday](https://open.spotify.com/track/2IyLPEJDhUiZA4rq9JS4MT) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Everyday](https://open.spotify.com/album/79hHuR77jAO4mBAfm51KaE) | 3:31 |
 | 75 | [Sweet To Me](https://open.spotify.com/track/6ozgeplqAyC6kxNGHMWAnb) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Exploit Music](https://open.spotify.com/artist/3AZbgSiJKTULHcQAFZex4B) | [Sweet To Me](https://open.spotify.com/album/1ggCdgKIMCutzZ9mc9omhm) | 2:40 |
 
-Snapshot ID: `AAAAACtR9VRe23WvioT4I+Pgb5UPZU/R`
+Snapshot ID: `AAAAAP09BTym2fs6MK1PbpkbfpwNH2px`

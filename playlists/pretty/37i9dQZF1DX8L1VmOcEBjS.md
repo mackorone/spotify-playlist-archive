@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8L1VmOcEBjS.md) - [plain]
 
 > Our editors' picks for the best Latin songs of the year! \#SpotifyWrapped Cover:  Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,507 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,746 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8L1VmOcEBjS.md) - [plain]
 | 49 | [La Tirana](https://open.spotify.com/track/7kIscz1L13DAvoDg0hFgWf) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:04 |
 | 50 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
 
-Snapshot ID: `AAAAAHrl1CC63Es+dlqtV9Z7x8SQW+F2`
+Snapshot ID: `AAAAAAA5k92p+ysi3YOdbABpDlUlIgbs`

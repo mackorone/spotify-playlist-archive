@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16 Candles](https://open.spotify.com/track/7qvB5smqDwXVlMQ86W6XeJ) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [16 Candles](https://open.spotify.com/album/5vUGgKV0bpOQ645bszOfZq) | 2:28 | 2024-01-10 |  |
-| [Burning](https://open.spotify.com/track/5hRpKNogEPwDNdDKYYTtmJ) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:20 | 2025-04-20 | 2025-08-22 |
+| [Burning](https://open.spotify.com/track/5hRpKNogEPwDNdDKYYTtmJ) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:20 | 2025-04-20 |  |
 | [butterflies](https://open.spotify.com/track/5I9Syg73cBY7r4POeccPzy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:24 | 2024-01-10 |  |
 | [Closer](https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Closer](https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL) | 3:27 | 2024-01-10 |  |
 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-23 |  |
@@ -29,7 +29,7 @@
 | [HELP](https://open.spotify.com/track/27UPUoSlHZUo11BTf5dKeJ) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HELP](https://open.spotify.com/album/6CydFdcFJFwqV5yXUR8LRb) | 2:16 | 2024-01-10 |  |
 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 | 2025-11-09 |  |
 | [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 | 2025-02-16 |  |
-| [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 | 2025-04-20 |  |
+| [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 | 2025-04-20 | 2025-12-13 |
 | [i don't forgive you](https://open.spotify.com/track/6D2HY29PYcdXCicrs55Icx) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:44 | 2024-01-10 |  |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2024-01-10 |  |
 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2024-01-10 |  |

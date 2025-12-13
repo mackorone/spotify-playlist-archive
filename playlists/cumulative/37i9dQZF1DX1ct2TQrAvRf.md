@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover \- San T
+> India's Rap Scene\. Cover \- Shinda Kahlon & AP Dhillon
 
-359 songs - 19 hr 21 min
+360 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Flex](https://open.spotify.com/track/1BjFMR7Cb8yaQyOsZBszML) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Flex](https://open.spotify.com/album/0jpun7yb7Ve0nSJsrTVt1C) | 3:20 | 2023-03-27 | 2023-04-20 |
 | [Free Smoke](https://open.spotify.com/track/3b1Gq1KcPR45uepbK0N8tA) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [Free Smoke](https://open.spotify.com/album/2IqZu1Iicgvc3bLoVkPZRa) | 2:42 | 2023-03-27 | 2023-04-20 |
 | [Fuck Them](https://open.spotify.com/track/6iF1UgWYMiDzlBfvamTNdP) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:50 | 2024-08-26 | 2024-11-16 |
-| [FUKUYAMA](https://open.spotify.com/track/7ne0g89uU1mbB4bIGva2dG) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [FUKUYAMA](https://open.spotify.com/album/73cUP2Zeq51c0RQ3dt8Wxy) | 3:40 | 2025-12-05 |  |
+| [FUKUYAMA](https://open.spotify.com/track/7ne0g89uU1mbB4bIGva2dG) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [FUKUYAMA](https://open.spotify.com/album/73cUP2Zeq51c0RQ3dt8Wxy) | 3:40 | 2025-12-05 | 2025-12-13 |
 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 | 2024-03-22 | 2024-05-17 |
 | [Gaadi 150](https://open.spotify.com/track/0qNMptHdkQuZsWKxZ8rmW2) | [Vikram Sarkar](https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Gaadi 150](https://open.spotify.com/album/1Xp8PesszaBmk58MKYwgfy) | 2:34 | 2025-06-27 | 2025-07-05 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-03-27 | 2023-04-20 |
@@ -143,6 +143,7 @@
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-27 | 2023-04-20 |
 | [High On Me](https://open.spotify.com/track/3HoyK88FbiUoYF6DSZZ4MJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 2:55 | 2024-08-26 | 2025-02-01 |
 | [Hisaab](https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:26 | 2024-02-15 | 2024-11-05 |
+| [HITMEN](https://open.spotify.com/track/55fywmOZl9v3jNDRR3b5f2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [HITMEN](https://open.spotify.com/album/1UQybZyBYcj5BigzmChthe) | 2:55 | 2025-12-12 |  |
 | [HMM](https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [HMM](https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi) | 3:04 | 2024-02-05 | 2025-01-25 |
 | [Holiday \- A COLORS SHOW](https://open.spotify.com/track/2tAiZZyBxokqPnzpT21KW8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Holiday \- A COLORS SHOW](https://open.spotify.com/album/1dZMt7jaoSorJUUyFejkGR) | 2:58 | 2025-05-30 | 2025-06-21 |
 | [Hood Life](https://open.spotify.com/track/4G2sLmmGsJijWVEXAMEYCs) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Hood Life](https://open.spotify.com/album/0dccjW1yvarOZfmhiI91XU) | 3:17 | 2025-01-24 | 2025-05-24 |

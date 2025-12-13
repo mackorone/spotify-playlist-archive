@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Sienna Spiro
 
-1,217 songs - 2 day 14 hr 3 min
+1,219 songs - 2 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2025-02-13 | 2025-05-02 |
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-07-21 | 2023-11-10 |
 | [CHRONICALLY CAUTIOUS](https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CHRONICALLY CAUTIOUS](https://open.spotify.com/album/418zZ5Y7Wds4r6JiIU0WEL) | 1:59 | 2023-03-01 | 2023-04-28 |
+| [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 | 2025-12-12 |  |
 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-28 | 2025-09-26 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-26 | 2025-08-08 |
 | [Close To Me](https://open.spotify.com/track/6AkZ0fSKRzw9CSM3oDqPsD) | [Typh Barrow](https://open.spotify.com/artist/1LyPW0dCTQJJSfF8FIHKlM) | [Close To Me](https://open.spotify.com/album/5dHKt4Mp3iIL8SrtoiAIKd) | 3:01 | 2025-10-16 |  |
@@ -394,7 +395,7 @@
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-02-24 | 2023-04-14 |
 | [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-07-25 | 2024-11-08 |
 | [ghosting](https://open.spotify.com/track/4HZ871AMnHNaI4C0XnkCar) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [ghosting](https://open.spotify.com/album/0YH5HG326jgub6RwcyfLgP) | 2:18 | 2023-02-24 | 2023-04-07 |
-| [Ghosts](https://open.spotify.com/track/20Rjl0NnWdKHv1OwKA7gid) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Ghosts](https://open.spotify.com/album/2PWoBl1aTMVU93FZDQKF8S) | 3:47 | 2025-09-18 |  |
+| [Ghosts](https://open.spotify.com/track/20Rjl0NnWdKHv1OwKA7gid) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Ghosts](https://open.spotify.com/album/2PWoBl1aTMVU93FZDQKF8S) | 3:47 | 2025-09-18 | 2025-12-13 |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-20 | 2024-01-13 |
 | [Ginger](https://open.spotify.com/track/4j7m2rt1NTlZGpdgzm7kCu) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Ginger](https://open.spotify.com/album/5KCMGGVIX1Vn8iuGaLd3Af) | 2:33 | 2025-07-03 | 2025-08-29 |
 | [Girl In The Mirror](https://open.spotify.com/track/0EUG6aR5MMgsw5tJ89gson) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Girl In The Mirror](https://open.spotify.com/album/7MohXA18YgyFLQThDzZa7Z) | 3:48 | 2024-01-12 | 2024-03-01 |
@@ -404,6 +405,7 @@
 | [Girls](https://open.spotify.com/track/0ThIuFzm7uSwW2I7h8TsA9) | [Lena Hessels](https://open.spotify.com/artist/6YBkOQlHylyrItGxWofF64) | [Girls](https://open.spotify.com/album/3mwP8aHuhWmB4ZOWzvaHkG) | 2:16 | 2025-02-20 | 2025-05-02 |
 | [girls like me don't cry](https://open.spotify.com/track/4bSMUfnzyMd9z3SaFoMQfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 3:33 | 2023-06-01 | 2023-08-22 |
 | [girls will b girls](https://open.spotify.com/track/1fnwW4qRPdAPkhRqncgh5o) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [girls will b girls](https://open.spotify.com/album/2dAEsiFQQXwJDiTnJcrC5y) | 2:29 | 2025-07-10 | 2025-10-24 |
+| [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-12 |  |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-10 | 2023-11-10 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-01 | 2025-07-11 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-08-15 |
@@ -1173,7 +1175,7 @@
 | [when you call me \(bby\)](https://open.spotify.com/track/74zHtCNlUNPg70ADkqbX6A) | [Anna\-Rose Clayton](https://open.spotify.com/artist/12QHr622V8nZ38fZ34dENS) | [when you call me \(bby\)](https://open.spotify.com/album/7aR2wIeSOyiGp9qF505yjC) | 2:32 | 2024-11-14 | 2025-01-31 |
 | [Where do we go now?](https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:03 | 2023-03-02 | 2023-04-07 |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-02-24 | 2023-03-04 |
-| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-18 |  |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-18 | 2025-12-13 |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-10 | 2025-01-07 |
 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 | 2023-02-24 | 2023-03-18 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-25 | 2024-10-01 |

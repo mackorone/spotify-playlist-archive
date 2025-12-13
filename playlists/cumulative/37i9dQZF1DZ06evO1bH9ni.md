@@ -4,7 +4,7 @@
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-119 songs - 6 hr 4 min
+120 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,13 +106,14 @@
 | [Pa' Que No Me Cuenten](https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Pa' Que No Me Cuenten](https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa) | 2:07 | 2024-07-05 | 2025-02-25 |
 | [Pepón](https://open.spotify.com/track/54Sblif2irWwPyCNGRAAuD) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:49 | 2022-06-01 | 2024-02-27 |
 | [Por Alguien Como Tú](https://open.spotify.com/track/1pavM6Yx6cQ4pRWE5KD6zb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Por Alguien Como Tú](https://open.spotify.com/album/2t2Q5bomEhtzOrsLZepfjZ) | 3:16 | 2022-06-01 | 2023-01-16 |
-| [Presente](https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Presente](https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8) | 2:25 | 2025-04-07 |  |
+| [Presente](https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Presente](https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8) | 2:25 | 2025-04-07 | 2025-12-13 |
 | [Ranchero de Más](https://open.spotify.com/track/4z6wOysi4P2lQhl2lCJZXO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Ranchero de Más](https://open.spotify.com/album/7uBBrLqp1FIE39OSoSXmwY) | 3:10 | 2023-03-11 | 2024-02-15 |
 | [Resulta \- En Vivo](https://open.spotify.com/track/3FRadPSJWTQtWykeVZwRPO) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Banda los Populares del Llano](https://open.spotify.com/artist/2lZQRzi0ru5O82CCXxpMAr) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/3fBoL5DJZ81GttTIpPXFF8) | 4:03 | 2022-06-01 | 2022-10-30 |
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/1kQgmAckrkKVEqbHpi3yi2) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 2:55 | 2023-12-14 |  |
 | [Se Me Soltó El Hocico](https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Se Me Soltó El Hocico](https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc) | 2:55 | 2023-01-18 | 2023-12-15 |
 | [Sigo En Prisión](https://open.spotify.com/track/47N02SRDyk1438N5pFaPi9) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sigo En Prisión](https://open.spotify.com/album/7DMzDeren09X0cTH2riSNt) | 2:37 | 2023-05-07 | 2023-12-14 |
 | [Sigo Vivo](https://open.spotify.com/track/7rPC4wLWe8A1puq0sJUaCI) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sigo Vivo](https://open.spotify.com/album/3lm9z9Dmci1VrFHBeEANxf) | 3:11 | 2025-05-07 | 2025-07-10 |
+| [Sin Foto de Perfil](https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Foto de Perfil](https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF) | 2:51 | 2025-12-13 |  |
 | [Somos Arrieros](https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:58 | 2022-06-01 |  |
 | [Te Deseo Lo Mejor](https://open.spotify.com/track/0r8VAv8wyvxJn27Nj0pQqs) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Para Impresionarte](https://open.spotify.com/album/7eGycMt5EqdBqy493oTwbC) | 2:29 | 2025-01-03 |  |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/2uAqlWmMNq1CJSezD2b2Fj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Te Vas a Arrepentir](https://open.spotify.com/album/0EcTd4rBSHWuk8bp86vk06) | 3:51 | 2022-06-01 | 2023-09-13 |

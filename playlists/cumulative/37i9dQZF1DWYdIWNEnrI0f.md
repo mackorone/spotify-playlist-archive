@@ -4,7 +4,7 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-54 songs - 2 hr 40 min
+55 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [June](https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Consider The Flowers](https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy) | 2:24 | 2025-10-24 |  |
 | [just forget](https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS) | 3:55 | 2025-10-24 |  |
 | [NEIGHBORHOOD](https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 1:40 | 2025-10-24 |  |
+| [Nitnoi](https://open.spotify.com/track/4kwmLBF0lsSxAz2dVGrU8M) | [Morning Breakfast](https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Morning Breakfast Vol.3](https://open.spotify.com/album/1cjUD5hSrQcU93KdOw5q8H) | 3:38 | 2025-12-12 |  |
 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 | 2025-10-24 |  |
 | [ole](https://open.spotify.com/track/5GktrSt0vCcZjJALP61bak) | [fat jon](https://open.spotify.com/artist/5Fmr3KeGe2IAVFmMxUq1sD) | [samurai champloo music record departure](https://open.spotify.com/album/1sY71XLUTXSayYmvfayYKA) | 3:27 | 2025-10-24 |  |
 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 | 2025-10-24 |  |
@@ -47,7 +48,7 @@
 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 | 2025-10-24 |  |
 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2025-10-24 | 2025-11-11 |
 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-10-24 |  |
-| [Scintillate](https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Scintillate](https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq) | 2:53 | 2025-11-07 |  |
+| [Scintillate](https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Scintillate](https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq) | 2:53 | 2025-11-07 | 2025-12-13 |
 | [So Real \(Instrumental\)](https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [So Real \(Instrumental\)](https://open.spotify.com/album/1Zm3xiOYcPdj0yGcoFqeAR) | 3:08 | 2025-10-24 |  |
 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 | 2025-10-24 |  |
 | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV) | 4:31 | 2025-10-24 |  |

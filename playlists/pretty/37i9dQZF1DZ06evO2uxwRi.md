@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,072 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,077 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
-| 2 | [All Downhill From Here](https://open.spotify.com/track/6PAoCw99yAkmpeXmY8IIUE) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:12 |
-| 3 | [Crazy For You](https://open.spotify.com/track/48WfbySqOU08wXUOqKpd5a) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:20 |
+| 2 | [Crazy For You](https://open.spotify.com/track/48WfbySqOU08wXUOqKpd5a) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:20 |
+| 3 | [All Downhill From Here](https://open.spotify.com/track/6PAoCw99yAkmpeXmY8IIUE) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:12 |
 | 4 | [A Thousand Years](https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 4:00 |
 | 5 | [Hit Or Miss](https://open.spotify.com/track/2JGfAzStXQ1VEo6H4l6rSR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:22 |
-| 6 | [The Glory Of Love](https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:19 |
-| 7 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
+| 6 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
+| 7 | [The Glory Of Love](https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:19 |
 | 8 | [Understatement](https://open.spotify.com/track/4191ROqtYiS10furYDAv05) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:11 |
 | 9 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 |
-| 10 | [Let It Go](https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:16 |
-| 11 | [Iris](https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:15 |
+| 10 | [Iris](https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:15 |
+| 11 | [Let It Go](https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:16 |
 | 12 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:30 |
 | 13 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 |
-| 14 | [Laugh It Off](https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Laugh It Off](https://open.spotify.com/album/2DW58f8XYdAaEu24mCLA85) | 3:38 |
-| 15 | [King Of Wishful Thinking](https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 |
+| 14 | [King Of Wishful Thinking](https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 |
+| 15 | [Laugh It Off](https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Laugh It Off](https://open.spotify.com/album/2DW58f8XYdAaEu24mCLA85) | 3:38 |
 | 16 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 |
 | 17 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
 | 18 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Party On Apocalypse](https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:23 |
 | 50 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
 
-Snapshot ID: `aTi4AAAAAABtKXqU0EdxvewPRN7MWRXw`
+Snapshot ID: `aToJgAAAAABX0YrWX/upSOu6CR54TFN6`

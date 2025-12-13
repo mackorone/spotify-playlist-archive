@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino, con Yami Safdie en portada.",
+  "description": "Los \u00e9xitos del pop latino, con Becky G en portada.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -338,6 +338,24 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
+    {
+      "album": {
+        "name": "36 Vidas",
+        "url": "https://open.spotify.com/album/2ptkMLdvJ813famENmU1Iz"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "36 Vidas",
+      "url": "https://open.spotify.com/track/7zfvPN6Rth5yp1u0QbOglc"
     },
     {
       "album": {
@@ -5680,7 +5698,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 184716,
       "name": "GIMME MORE",
       "url": "https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ"
@@ -5884,6 +5902,24 @@
       "duration_ms": 152820,
       "name": "Ha Pasado Tiempo",
       "url": "https://open.spotify.com/track/5Kv3akRvvVxd4c1GDHYhdO"
+    },
+    {
+      "album": {
+        "name": "Hablamos Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0WZ1WllMllTkMjmOV14ew3"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI"
     },
     {
       "album": {
@@ -7132,7 +7168,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -12011,6 +12047,28 @@
     },
     {
       "album": {
+        "name": "S I S T E M A S O L A R",
+        "url": "https://open.spotify.com/album/5gHEHOCroFkwv3XylaARdH"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186128,
+      "name": "S I S T E M A S O L A R",
+      "url": "https://open.spotify.com/track/1h0DRnMU0D0o82eMGEoV5Z"
+    },
+    {
+      "album": {
         "name": "S91",
         "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
       },
@@ -12598,7 +12656,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 200464,
       "name": "Si quisieras",
       "url": "https://open.spotify.com/track/5Xmi97kZbwHR19OQrBjBrc"
@@ -13341,7 +13399,7 @@
     },
     {
       "album": {
-        "name": "TE PROMETO",
+        "name": "TE PROMETO (el fin de una era)",
         "url": "https://open.spotify.com/album/7KrMkMxOngZKgsH3HJnbrC"
       },
       "artists": [
@@ -13354,7 +13412,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182032,
-      "name": "TE PROMETO",
+      "name": "TE PROMETO - el fin de una era",
       "url": "https://open.spotify.com/track/6RhG3YBwA0JiyqkEN8aHbP"
     },
     {

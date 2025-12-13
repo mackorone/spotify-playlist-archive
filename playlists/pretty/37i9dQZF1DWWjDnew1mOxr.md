@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Music that means it\. Cover: Tom A\. Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,597 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,595 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 57 | [ASA](https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [ASA](https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv) | 2:31 |
 | 58 | [You Change with the Seasons](https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Get Away from the Feeling](https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC) | 3:50 |
 | 59 | [Do You Want It?](https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Do You Want It?](https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4) | 3:10 |
-| 60 | [Dirty White](https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Dirty White Lies](https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0) | 2:59 |
+| 60 | [Millionaires](https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 3:00 |
 | 61 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 |
-| 62 | [Millionaires](https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 3:00 |
+| 62 | [Dirty White](https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Dirty White Lies](https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0) | 2:59 |
 | 63 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 |
 | 64 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
 | 65 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
@@ -83,16 +83,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 73 | [Personality Test](https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Personality Test](https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S) | 2:20 |
 | 74 | [Inaction](https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Inaction](https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9) | 3:06 |
 | 75 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 |
-| 76 | [behind those tears](https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [caught up in delusion](https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3) | 3:59 |
-| 77 | [The Bends \(Here We Go Again\)](https://open.spotify.com/track/1YMzNSD0V93Q3F4suliR0a) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [The Bends \(Here We Go Again\)](https://open.spotify.com/album/05E9fCGbWWqcwZz1Kb83G5) | 3:54 |
+| 76 | [The Bends \(Here We Go Again\)](https://open.spotify.com/track/1YMzNSD0V93Q3F4suliR0a) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [The Bends \(Here We Go Again\)](https://open.spotify.com/album/05E9fCGbWWqcwZz1Kb83G5) | 3:54 |
+| 77 | [behind those tears](https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [caught up in delusion](https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3) | 3:59 |
 | 78 | [Girl From NYC](https://open.spotify.com/track/5gDsBfQ1NcP9IvYScLHxgk) | [Brògeal](https://open.spotify.com/artist/5E4chIX5W6JvTVtXXzG8TK) | [Girl From NYC](https://open.spotify.com/album/7DVBWjUq7ZEPeWONK3CLkD) | 2:18 |
 | 79 | [Adrenaline](https://open.spotify.com/track/2fgktVdVpJnMcsrCtkzGm0) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Ballad Of A Bystander](https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ) | 3:00 |
 | 80 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
 | 81 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
 | 82 | [Bliss](https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi), [Fears](https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT) | [Bliss](https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu) | 3:51 |
-| 83 | [Afternoon](https://open.spotify.com/track/76Ae2kmof1uEsE0uMmE5tC) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 2:05 |
-| 84 | [Calypso Blue](https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt) | [The Cheap Thrills](https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz) | [Mind Metro](https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2) | 3:52 |
-| 85 | [Gravestone](https://open.spotify.com/track/2WSY9RWtQ1CTnadExfLubq) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Gravestone](https://open.spotify.com/album/3Cx0kxwDoDBpWSMPjWlw7h) | 3:55 |
+| 83 | [Gravestone](https://open.spotify.com/track/2WSY9RWtQ1CTnadExfLubq) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Gravestone](https://open.spotify.com/album/3Cx0kxwDoDBpWSMPjWlw7h) | 3:55 |
+| 84 | [Afternoon](https://open.spotify.com/track/76Ae2kmof1uEsE0uMmE5tC) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 2:05 |
+| 85 | [Calypso Blue](https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt) | [The Cheap Thrills](https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz) | [Mind Metro](https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2) | 3:52 |
 | 86 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 |
 | 87 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
 | 88 | [Masquerade](https://open.spotify.com/track/4ZrWs0G2sN9qimhkbQzEr1) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/55PAmXeH8DbLOizqAqzeC8) | 3:08 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 93 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
 | 94 | [Breadline](https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Breadline](https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1) | 3:14 |
 | 95 | [Hole In My Home](https://open.spotify.com/track/39Dd3JAlz0IxRVtfB0mR3J) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 3:32 |
-| 96 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
-| 97 | [Let's Leave Together](https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Death & Love, Pt\. 1](https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK) | 3:20 |
+| 96 | [Let's Leave Together](https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Death & Love, Pt\. 1](https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK) | 3:20 |
+| 97 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
 | 98 | [Billy Flynn of Bethnal Green](https://open.spotify.com/track/3xbLLoMcP67h6fwYMB4kV7) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Billy Flynn of Bethnal Green](https://open.spotify.com/album/1MFLk8zuA3pC7TxOG3rG6Q) | 4:48 |
-| 99 | [Thinking About You](https://open.spotify.com/track/1eDkgAb10MpvfquvlvVxqW) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:07 |
-| 100 | [Circles](https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 4:06 |
+| 99 | [Circles](https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 4:06 |
+| 100 | [Thinking About You](https://open.spotify.com/track/1eDkgAb10MpvfquvlvVxqW) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:07 |
 
 Snapshot ID: `AAAAAO0cOtHoqGvJppbIh4vlx63Vn7bQ`

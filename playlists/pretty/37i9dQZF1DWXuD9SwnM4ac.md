@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: This Is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,332 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,352 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SF & GG](https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [](https://open.spotify.com/album/null) | 1:40 |
+| 1 | [SF & GG](https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB) | 1:40 |
 | 2 | [loud 2](https://open.spotify.com/track/2HqnY3ChfahU4q6Xbf0UsK) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [loud 2](https://open.spotify.com/album/2UtlB0koMP2bMjGkKvDl6y) | 3:16 |
 | 3 | [95](https://open.spotify.com/track/6YPKnFbLT4i08pAbeCjus1) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [95](https://open.spotify.com/album/4o9f5C3BreXh63IaY0zld0) | 3:23 |
 | 4 | [Break It Down](https://open.spotify.com/track/3DMRkPRD5W4Qu6VYMI3z9k) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Break It Down](https://open.spotify.com/album/40JyJZ1axUsGx77flis6hd) | 3:13 |

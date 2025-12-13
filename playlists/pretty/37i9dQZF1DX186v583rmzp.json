@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 9221854,
+  "num_followers": 9223035,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 253533,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "93 'til Infinity",
-        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Mischief",
-          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "93 'Til Infinity",
-      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Me Against The World",
         "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 280000,
       "name": "Dear Mama",
       "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "93 'til Infinity",
+        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Mischief",
+          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "93 'Til Infinity",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "No Way Out (2014 Remaster)",
         "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 306560,
       "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
-      },
-      "artists": [
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        }
-      ],
-      "duration_ms": 291266,
-      "name": "Protect Ya Neck",
-      "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Ready to Die (The Remaster)",
         "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         }
       ],
-      "duration_ms": 226133,
-      "name": "Electric Relaxation",
-      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
+      "duration_ms": 291266,
+      "name": "Protect Ya Neck",
+      "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -607,6 +591,22 @@
       "duration_ms": 259000,
       "name": "I Get Around",
       "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "Electric Relaxation",
+      "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
-      },
-      "artists": [
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "When I B On Tha Mic",
-      "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 268706,
       "name": "One More Chance / Stay with Me - Remix; 2007 Remaster",
       "url": "https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
+      },
+      "artists": [
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "When I B On Tha Mic",
+      "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Supa Dupa Fly",
+        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Rain (Supa Dupa Fly)",
+      "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Only Built 4 Cuban Linx...",
         "url": "https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 253226,
       "name": "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
       "url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Supa Dupa Fly",
-        "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "The Rain (Supa Dupa Fly)",
-      "url": "https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Dah Shinin'",
-        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Bucktown",
-      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Life In 1472 (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 254253,
       "name": "Money Ain't a Thang (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Dah Shinin'",
+        "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
+      },
+      "artists": [
+        {
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Bucktown",
+      "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
     },
     {
       "added_at": "2024-06-28 10:14:13",

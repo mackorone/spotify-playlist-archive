@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80292,
+  "num_followers": 80294,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "St\u00f8v Og Stjerner",
-        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "V\u00e5r Beste Dag",
-      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Svarte Skyer",
         "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 180328,
       "name": "Svarte Skyer",
       "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "St\u00f8v Og Stjerner",
+        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "V\u00e5r Beste Dag",
+      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
+        "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
+        "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
+      },
+      "artists": [
+        {
+          "name": "Anita Skorgan",
+          "url": "https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4"
+        }
+      ],
+      "duration_ms": 193079,
+      "name": "Det begynner \u00e5 bli et liv",
+      "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 178160,
       "name": "Badebussen",
       "url": "https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
-        "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
-        "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
-      },
-      "artists": [
-        {
-          "name": "Anita Skorgan",
-          "url": "https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4"
-        }
-      ],
-      "duration_ms": 193079,
-      "name": "Det begynner \u00e5 bli et liv",
-      "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Ta m\u00e6 tilbake",
-        "url": "https://open.spotify.com/album/39qaA2S36UMbg2iIUZ3LkC"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Ta m\u00e6 tilbake",
-      "url": "https://open.spotify.com/track/2NciC5G8wXqlv9SxZAfppN"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Club 7",
         "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 260778,
       "name": "Club 7",
       "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "Ta m\u00e6 tilbake",
+        "url": "https://open.spotify.com/album/39qaA2S36UMbg2iIUZ3LkC"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Ta m\u00e6 tilbake",
+      "url": "https://open.spotify.com/track/2NciC5G8wXqlv9SxZAfppN"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
-        "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
+        "name": "Aldri i livet",
+        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
       },
       "artists": [
         {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
         }
       ],
-      "duration_ms": 209420,
-      "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
-      "url": "https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX"
+      "duration_ms": 188796,
+      "name": "Aldri i livet",
+      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
     }
   ],
   "unique_name": "Norske viser",

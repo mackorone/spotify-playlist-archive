@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-824 songs - 2 day 0 hr 36 min
+825 songs - 2 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 | 2024-07-27 | 2024-09-08 |
 | [Get A Little](https://open.spotify.com/track/0iYhuqssVOv8NDfphMEv0E) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [Weasels Ripped My Flesh](https://open.spotify.com/album/7zINPoNwb8ArQgUbq0wlUw) | 2:33 | 2025-09-25 | 2025-11-15 |
 | [getting to know each other](https://open.spotify.com/track/5u9enQ4xSQ6qqYako0x73k) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [piano1](https://open.spotify.com/album/6vzLvVkKjaoe4LXQQULCFG) | 3:25 | 2024-10-25 | 2024-11-14 |
+| [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 | 2025-12-12 |  |
 | [Gift](https://open.spotify.com/track/7FgePu0nqCf8rkafQOeHV7) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/72GG3m2QVQ4pQ5Ipi07oO4) | 5:01 | 2024-02-02 | 2024-03-10 |
 | [Giftbearer](https://open.spotify.com/track/0klcGedsbrNB2hx6YN8pJJ) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [In The Falling Dark](https://open.spotify.com/album/60VKXUmkuvPBIbahpkgqMD) | 4:41 | 2024-01-09 | 2024-03-10 |
 | [Ginkgo](https://open.spotify.com/track/1IIib8LL2ADqopmFiVBA9L) | [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [Lucky Static](https://open.spotify.com/album/75M9grejgc2G3mjkmishDj) | 3:39 | 2025-11-14 |  |

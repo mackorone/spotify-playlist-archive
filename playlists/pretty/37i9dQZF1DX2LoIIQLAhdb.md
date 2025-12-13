@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Low Jay x Maud Elka x Says'z
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,070 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,115 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 5 | [Baby Boy \(feat\. Kali Uchis\)](https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 3:07 |
 | 6 | [FAKE WOMAN \- Et alors ? \(feat\. Ronisia\)](https://open.spotify.com/track/6xDjeDqSYuB0POIAqg17Vu) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [FAKE WOMAN \- Et alors ? \(feat\. Ronisia\)](https://open.spotify.com/album/1BmdMPpiybIGsrJLQD7kLx) | 3:07 |
 | 7 | [Discret](https://open.spotify.com/track/6eNd2xLnFgbcbb7Yv2OSLp) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Discret](https://open.spotify.com/album/1gJUwC37VZGJGxZSmFtYRY) | 3:08 |
-| 8 | [Milano](https://open.spotify.com/track/1bbeAoQbNXUid6UDl2c6z5) | [7iaa](https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl) | [](https://open.spotify.com/album/null) | 3:06 |
+| 8 | [Milano](https://open.spotify.com/track/1bbeAoQbNXUid6UDl2c6z5) | [7iaa](https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl) | [Mélodrame](https://open.spotify.com/album/6HjEdlcxHogq71Tr64FqJF) | 3:06 |
 | 9 | [LA NUIT](https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [MONSIEUR SAUDADE II](https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt) | 3:53 |
 | 10 | [Grand Spectacle](https://open.spotify.com/track/19ugVSsCGrQFSR6YAkH78k) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Grand Spectacle](https://open.spotify.com/album/7HtSug4AGg6dRZ0qTwotlP) | 3:08 |
 | 11 | [Les Mots](https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Les Mots](https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF) | 3:26 |

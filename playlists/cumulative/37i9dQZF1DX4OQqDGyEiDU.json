@@ -5500,7 +5500,7 @@
       },
       "artists": [
         {
-          "name": "\u3059\u308a\u3043",
+          "name": "THREEE",
           "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
         }
       ],
@@ -6901,6 +6901,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30f3\u30c7\u30df\u30c3\u30af",
+        "url": "https://open.spotify.com/album/63xiINuJgwLhkFXhh6pYag"
+      },
+      "artists": [
+        {
+          "name": "THREEE",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "\u30c6\u30ec\u30ad\u30e3\u30b9\u30bf\u30fc\u30d3\u30fc\u30dc\u30fc\u30a4 - long ver.",
+      "url": "https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr"
+    },
+    {
+      "album": {
         "name": "pandemic",
         "url": "https://open.spotify.com/album/6KTTXEM3HpdEv4iAmyKPZJ"
       },
@@ -6916,24 +6934,6 @@
       "duration_ms": 164500,
       "name": "\u30c6\u30ec\u30ad\u30e3\u30b9\u30bf\u30fc\u30d3\u30fc\u30dc\u30fc\u30a4 - long ver.",
       "url": "https://open.spotify.com/track/34PWkiTDmG9lAJ3leUGOri"
-    },
-    {
-      "album": {
-        "name": "\u30d1\u30f3\u30c7\u30df\u30c3\u30af",
-        "url": "https://open.spotify.com/album/63xiINuJgwLhkFXhh6pYag"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u308a\u3043",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
-        }
-      ],
-      "date_added": "2022-06-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164500,
-      "name": "\u30c6\u30ec\u30ad\u30e3\u30b9\u30bf\u30fc\u30d3\u30fc\u30dc\u30fc\u30a4 - long ver.",
-      "url": "https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr"
     },
     {
       "album": {

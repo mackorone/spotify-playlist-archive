@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Charli xcx ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,127 likes - 311 songs - 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,211 likes - 311 songs - 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 310 | [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 |
 | 311 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 |
 
-Snapshot ID: `AAAAAD85O0iBlEpQRNxrMhsFbd2OHKgg`
+Snapshot ID: `AAAAALdC9uBlZZ5w/mPjSu8Qsemm8iqm`

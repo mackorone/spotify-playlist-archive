@@ -6,10 +6,430 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTJKsAAAAAD+AJov2BHZ8Y6eNZU3Ci+x",
+  "snapshot_id": "aTuFMAAAAACOxMLl2DksDDWXoCCNSUR0",
   "tracks": [
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
+        "url": "https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+        }
+      ],
+      "duration_ms": 244149,
+      "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
+      "url": "https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 222656,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Afterlife (Gunship Remix) - Spotify Singles",
+        "url": "https://open.spotify.com/album/3LyTuSkt83krM3FPHOyzHl"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        },
+        {
+          "name": "Gunship",
+          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
+        }
+      ],
+      "duration_ms": 255435,
+      "name": "Afterlife (Gunship Remix) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0SOyTeewK1hwBvNuPONbwr"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Happy When We're Bleeding",
+        "url": "https://open.spotify.com/album/56lQiDoRLgP1iooVnHdK2E"
+      },
+      "artists": [
+        {
+          "name": "Thrower",
+          "url": "https://open.spotify.com/artist/563msWfnOhof3DsIthMsp2"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Happy When We're Bleeding",
+      "url": "https://open.spotify.com/track/51os4ElOTnn3JFWaojBLSQ"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Old School Roots & Reggae (DJ Mix)",
+        "url": "https://open.spotify.com/album/04zXLwdCgED1P7aG6R5zps"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 128220,
+      "name": "Mr. Chatterbox - Mixed",
+      "url": "https://open.spotify.com/track/24bIyXo7xa3fUePvGkX48n"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Will nicht - MUSS! / On Collision Course",
+        "url": "https://open.spotify.com/album/2AedCHJ1WXloffyh8lRrYJ"
+      },
+      "artists": [
+        {
+          "name": "Die Krupps",
+          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
+        },
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        },
+        {
+          "name": "John Bechdel",
+          "url": "https://open.spotify.com/artist/2f5y18EI0g43sJuLMuAzvg"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "On Collision Course - John Bechdel Electro Remix",
+      "url": "https://open.spotify.com/track/1Apqnd5l2EcrWMVyeZZiRr"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "The Room Where She Died",
+        "url": "https://open.spotify.com/album/5ffrx8rdsJkx4rv1bEDQGI"
+      },
+      "artists": [
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 518053,
+      "name": "The Room Where She Died",
+      "url": "https://open.spotify.com/track/5ewOOKwMxZguGtaXckCuX4"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Ragnarok's Daughter",
+        "url": "https://open.spotify.com/album/7761h3L8yqOHXRxzSoq2zV"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 63220,
+      "name": "Hellfire Gala",
+      "url": "https://open.spotify.com/track/4jCjoGFLjjaHs3pZ1v3DWw"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Synth Utopia Vol.2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0CqNuv590o2y7IIRhutNCg"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "La fete sauvage (Part 1)",
+      "url": "https://open.spotify.com/track/06WFGcUiYQCctdEa19pNqY"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Satisfaction Skank",
+        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 199488,
+      "name": "Satisfaction Skank",
+      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Song Of Darkness",
+        "url": "https://open.spotify.com/album/7oNRuKbR8HbZ2XvXoVJNl4"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "duration_ms": 248016,
+      "name": "Song Of Darkness",
+      "url": "https://open.spotify.com/track/4S3eOwn7QFbBTeSTgQepBt"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Let The Bedtimes Roll: Lullaby renditions of The Offspring",
+        "url": "https://open.spotify.com/album/3Zpe0AzYr4q5AJ7GkrkzjQ"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 106057,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7bb2epE948lHy3ap2DnAnx"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Escalera de Algod\u00f3n",
+        "url": "https://open.spotify.com/album/4CBttMklGVqmQeTHeqvzyd"
+      },
+      "artists": [
+        {
+          "name": "Hijos de las Hojas",
+          "url": "https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM"
+        },
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Gloria Allel",
+          "url": "https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX"
+        },
+        {
+          "name": "Fer Maquehue",
+          "url": "https://open.spotify.com/artist/7rwJA64BVr51w5QRTW3146"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Escalera de Algod\u00f3n",
+      "url": "https://open.spotify.com/track/3YWD3mzig5lxHQdAVttUyh"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Pirates & Kings",
+        "url": "https://open.spotify.com/album/5nJzVdT4eTiKALSUvj6SIL"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        },
+        {
+          "name": "Warkings",
+          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "Pirates & Kings",
+      "url": "https://open.spotify.com/track/1p4xEz6fyTjXq1BVvIGoHg"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "A Great Big Holiday Jam",
+        "url": "https://open.spotify.com/album/0wtV67bYC8i5LqjHaQS5l7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 140230,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/5TVask89GOhta6P5TtBRw8"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Avatar - The Final Incarnation -",
+        "url": "https://open.spotify.com/album/2m2b32krMNh0QJDoHpbdU6"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 320724,
+      "name": "Avatar - The Final Incarnation -",
+      "url": "https://open.spotify.com/track/3pVsVG4BRX4orlvLpL42rj"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Set The Dark On Fire",
+        "url": "https://open.spotify.com/album/01HD6tyj6KkoKKAbtHkxmb"
+      },
+      "artists": [
+        {
+          "name": "Edenbridge",
+          "url": "https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "Set The Dark On Fire",
+      "url": "https://open.spotify.com/track/5aVu1Y1b3drWHKreaCVKIy"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Christmas Is Here",
+        "url": "https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Christmas Is Here",
+      "url": "https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Fall Away (Dusk)",
+        "url": "https://open.spotify.com/album/4gpzcfiqkMatb1aZtbgG3J"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Fall Away (Dusk)",
+      "url": "https://open.spotify.com/track/4HDwR23dLTJZSSnIzTOftP"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Volver A Los 17",
+        "url": "https://open.spotify.com/album/3GUw1EQ7ZHtIeeTZQRWydq"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 289968,
+      "name": "Volver A Los 17",
+      "url": "https://open.spotify.com/track/0RWSFR0G88A9wF9Ibn2zPX"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "A State of Trance Year Mix 2025 (Mixed by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/11hKL1GmHT30riBDSoNLoE"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Libby Whitehouse",
+          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
+        }
+      ],
+      "duration_ms": 81307,
+      "name": "Sleepless Nights (Mixed)",
+      "url": "https://open.spotify.com/track/7njA7Y8dF4abRZhGTWFwsq"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Nothin'",
         "url": "https://open.spotify.com/album/6BieAhfPQAUAISRIaNP5ER"
@@ -25,7 +445,119 @@
       "url": "https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Shine On You Crazy Diamond (Pts. 1-9, New Stereo Mix)",
+        "url": "https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 1525826,
+      "name": "Shine On You Crazy Diamond - Pts. 1-9, New Stereo Mix",
+      "url": "https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 314071,
+      "name": "Last Legal Drug",
+      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Anthology 4",
+        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Real Love (2025 Mix)",
+      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Warning (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/02aHyiT3M89F7bDbv8mF5J"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 201214,
+      "name": "Waiting - Otis Mix",
+      "url": "https://open.spotify.com/track/4Y9uKlCmKjubxXV0XDsyjW"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Frozen (Londinium Version)",
+        "url": "https://open.spotify.com/album/2I4m0DsGUFYsH4If1oyn9E"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Frozen - Londinium Version",
+      "url": "https://open.spotify.com/track/6nUC38GpbIcQRXR4Ru2ruq"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Parasocial Christ",
+        "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 200963,
+      "name": "Parasocial Christ",
+      "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Te Matar\u00e9 Con Amor",
+        "url": "https://open.spotify.com/album/2ZsrhtMsIdu4aIduT0sWHv"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "duration_ms": 92038,
+      "name": "Marginados Al Poder",
+      "url": "https://open.spotify.com/track/11jKguF1asgdO7DS0rWMfN"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Wild Woman (Lainey Wilson Version)",
         "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
@@ -49,7 +581,7 @@
       "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Coming Home Live",
         "url": "https://open.spotify.com/album/3Tty06Fr9eZvkUjTOASgIh"
@@ -65,435 +597,91 @@
       "url": "https://open.spotify.com/track/0Ap9yr1lMq8rWDRFHv2EjB"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "The Fate of Ophelia (The Chainsmokers Remix)",
-        "url": "https://open.spotify.com/album/264e9sevSUiitcQeM1y1C5"
+        "name": "Around The World In A Day (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/0BUD9C9CnIrrGtvJjoBbYQ"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 546871,
+      "name": "Pop Life - Extended Version",
+      "url": "https://open.spotify.com/track/1bIL0zAcvAFH6e0LWY1abW"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "If I Fall",
+        "url": "https://open.spotify.com/album/3w7TANY41mLA2KPlP1qU2u"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "If I Fall",
+      "url": "https://open.spotify.com/track/46VdAAtIim1n7CxdSoGf1g"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Journeyman: Deluxe Edition",
+        "url": "https://open.spotify.com/album/3triHNgkqNq847Mh3yObWq"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Higher Power - Bonus Track",
+      "url": "https://open.spotify.com/track/60K9R1x9cGRWQlLj08Mhrj"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Raw",
+        "url": "https://open.spotify.com/album/5b5958SO4AvG2pgYhGugBt"
+      },
+      "artists": [
+        {
+          "name": "Blame",
+          "url": "https://open.spotify.com/artist/52G1MFu7fYUeiGDoM4Hv59"
         },
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Hopes Die Last",
+          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
         }
       ],
-      "duration_ms": 175841,
-      "name": "The Fate of Ophelia - The Chainsmokers Remix",
-      "url": "https://open.spotify.com/track/3JNaLxAymiSUMrmjOarjeo"
+      "duration_ms": 178153,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/20BkbXBTXyxg9OxZExEb5L"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "Forged in Chaos",
-        "url": "https://open.spotify.com/album/2pETvgUv0zfLUhJc8igYN0"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
       },
       "artists": [
         {
-          "name": "Harmony My Strength",
-          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 65780,
-      "name": "Golden Flare",
-      "url": "https://open.spotify.com/track/7rZSIlfVAIVLSgCECh5Hu3"
+      "duration_ms": 216646,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "A to H",
-        "url": "https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130511,
-      "name": "Cigarette Girl",
-      "url": "https://open.spotify.com/track/5WQ6T2qB3FTdgrFUxscm2t"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Pacifiques Biches",
-        "url": "https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu"
-      },
-      "artists": [
-        {
-          "name": "Florian Pellissier Quintet",
-          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Only Fan",
-      "url": "https://open.spotify.com/track/33y7jKAaOAk0rIzd9Ky3I3"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Beyond The Pines (Lofi)",
-        "url": "https://open.spotify.com/album/3Xapq4YoavbCG02PKbjPCe"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        },
-        {
-          "name": "Less Gravity",
-          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
-        }
-      ],
-      "duration_ms": 259977,
-      "name": "Beyond The Pines (Lofi)",
-      "url": "https://open.spotify.com/track/63sFuVbTTmc7qz04mVyveT"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Keeper of the Cosmic Staff",
-        "url": "https://open.spotify.com/album/0m7tSKgIGTUxezvjPPg0Pr"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Motion",
-          "url": "https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0"
-        },
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 63460,
-      "name": "Nimbus",
-      "url": "https://open.spotify.com/track/1rKMCgELu6ToKjnIbKS5IS"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/0QF6UHva2a77FIQzQYfAdG"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 213431,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/6tDDZYCUpdvolompjrdNTq"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Death Grip",
-        "url": "https://open.spotify.com/album/6n1U087z2JRZ5jnMRzeUrI"
-      },
-      "artists": [
-        {
-          "name": "Lionheart",
-          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
-        },
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 105245,
-      "name": "Death Grip",
-      "url": "https://open.spotify.com/track/6iRBgknW6YEpv8CpP6LTrF"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "The Last Ship (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ITQq1FrdjSUxkw0VktNr6"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 358655,
-      "name": "Island Of Souls - 2025",
-      "url": "https://open.spotify.com/track/5cRAOIsrKdHYnUdEeiUkEe"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Mu\u00e9rdeme",
-        "url": "https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Mu\u00e9rdeme",
-      "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/0r0IbgTzFxE6g0i347BbVe"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 326515,
-      "name": "Caminos",
-      "url": "https://open.spotify.com/track/1m3gng22zF25U4tkdU8xGa"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "DARKEST SIDE OF EARTH",
-        "url": "https://open.spotify.com/album/5QGlRJpyXZd4bD6IT2VG7P"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "DARKEST SIDE OF EARTH",
-      "url": "https://open.spotify.com/track/0b3djX1yBqJfYqeBfjRvML"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Et DIEU cr\u00e9a KADJA",
-        "url": "https://open.spotify.com/album/3WQfNCMdwxOQeoqwHEJCrJ"
-      },
-      "artists": [
-        {
-          "name": "Kadja",
-          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
-        },
-        {
-          "name": "Black M",
-          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
-        },
-        {
-          "name": "bel canto",
-          "url": "https://open.spotify.com/artist/2PI3gO1kONdc4q7YYCs5ph"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "R\u00eaves, peines et r\u00e9alit\u00e9s",
-      "url": "https://open.spotify.com/track/6Nzlbp1Ef3AxLtuBVcE0M4"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Dream On",
-        "url": "https://open.spotify.com/album/3OPRoENiKX9PZFZJhVOBWb"
-      },
-      "artists": [
-        {
-          "name": "Songboy",
-          "url": "https://open.spotify.com/artist/0gtH2SOGkdmf5Gc6GEkViB"
-        },
-        {
-          "name": "Vangelis Solen",
-          "url": "https://open.spotify.com/artist/4FcFmEzHSbqBvalGdCO1LU"
-        },
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 290120,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/2SVic8Gf6PDMyLaots5JYp"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "En esos d\u00edas de los \u00b490",
-        "url": "https://open.spotify.com/album/4NV0JUMTjU7cyCvsngeKC2"
-      },
-      "artists": [
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
-        }
-      ],
-      "duration_ms": 262886,
-      "name": "Tu propia primavera (Versi\u00f3n 2025)",
-      "url": "https://open.spotify.com/track/04EjHVNamHzW2Ss3rXOXIB"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Shine On You Crazy Diamond (Pts. 1-9, New Stereo Mix)",
-        "url": "https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 1525826,
-      "name": "Shine On You Crazy Diamond - Pts. 1-9, New Stereo Mix",
-      "url": "https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
-        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 314071,
-      "name": "Last Legal Drug",
-      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Warning (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/02aHyiT3M89F7bDbv8mF5J"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 201214,
-      "name": "Waiting - Otis Mix",
-      "url": "https://open.spotify.com/track/4Y9uKlCmKjubxXV0XDsyjW"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Anthology 4",
-        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Real Love (2025 Mix)",
-      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Frozen (Londinium Version)",
-        "url": "https://open.spotify.com/album/2I4m0DsGUFYsH4If1oyn9E"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Frozen - Londinium Version",
-      "url": "https://open.spotify.com/track/6nUC38GpbIcQRXR4Ru2ruq"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Parasocial Christ",
-        "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "Parasocial Christ",
-      "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Black And Blue (2025 Mix)",
-        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "Hand Of Fate - 2025 Mix",
-      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Te Matar\u00e9 Con Amor",
-        "url": "https://open.spotify.com/album/2ZsrhtMsIdu4aIduT0sWHv"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 92038,
-      "name": "Marginados Al Poder",
-      "url": "https://open.spotify.com/track/11jKguF1asgdO7DS0rWMfN"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "SICK SICK SICK",
         "url": "https://open.spotify.com/album/0wNYlsugxGT1Ky9yu5QWo2"
@@ -521,91 +709,43 @@
       "url": "https://open.spotify.com/track/7gQOCzvF4Yeej974BIwmGa"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "Around The World In A Day (Deluxe Expanded Edition)",
-        "url": "https://open.spotify.com/album/0BUD9C9CnIrrGtvJjoBbYQ"
+        "name": "The Fate of Ophelia (The Chainsmokers Remix)",
+        "url": "https://open.spotify.com/album/264e9sevSUiitcQeM1y1C5"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 546871,
-      "name": "Pop Life - Extended Version",
-      "url": "https://open.spotify.com/track/1bIL0zAcvAFH6e0LWY1abW"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Journeyman: Deluxe Edition",
-        "url": "https://open.spotify.com/album/3triHNgkqNq847Mh3yObWq"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Higher Power - Bonus Track",
-      "url": "https://open.spotify.com/track/60K9R1x9cGRWQlLj08Mhrj"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 216646,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Raw",
-        "url": "https://open.spotify.com/album/5b5958SO4AvG2pgYhGugBt"
-      },
-      "artists": [
-        {
-          "name": "Blame",
-          "url": "https://open.spotify.com/artist/52G1MFu7fYUeiGDoM4Hv59"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Hopes Die Last",
-          "url": "https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         }
       ],
-      "duration_ms": 178153,
-      "name": "Raw",
-      "url": "https://open.spotify.com/track/20BkbXBTXyxg9OxZExEb5L"
+      "duration_ms": 175841,
+      "name": "The Fate of Ophelia - The Chainsmokers Remix",
+      "url": "https://open.spotify.com/track/3JNaLxAymiSUMrmjOarjeo"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "If I Fall",
-        "url": "https://open.spotify.com/album/3w7TANY41mLA2KPlP1qU2u"
+        "name": "A to H",
+        "url": "https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 250120,
-      "name": "If I Fall",
-      "url": "https://open.spotify.com/track/46VdAAtIim1n7CxdSoGf1g"
+      "duration_ms": 130511,
+      "name": "Cigarette Girl",
+      "url": "https://open.spotify.com/track/5WQ6T2qB3FTdgrFUxscm2t"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/6Vchu5Bbi4C0nUNSprj6lD"
@@ -621,7 +761,63 @@
       "url": "https://open.spotify.com/track/12NyC360WQb7BPQIrC2mqN"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Pacifiques Biches",
+        "url": "https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu"
+      },
+      "artists": [
+        {
+          "name": "Florian Pellissier Quintet",
+          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Only Fan",
+      "url": "https://open.spotify.com/track/33y7jKAaOAk0rIzd9Ky3I3"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Beyond The Pines (Lofi)",
+        "url": "https://open.spotify.com/album/3Xapq4YoavbCG02PKbjPCe"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        },
+        {
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
+        }
+      ],
+      "duration_ms": 259977,
+      "name": "Beyond The Pines (Lofi)",
+      "url": "https://open.spotify.com/track/63sFuVbTTmc7qz04mVyveT"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Recollections",
+        "url": "https://open.spotify.com/album/69uCpLoN3IHze3a80Q2lZu"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 268182,
+      "name": "Holding Back The Years - Recollections 2025",
+      "url": "https://open.spotify.com/track/4zO8ComXNM1iWduQUwAm4F"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "We Are The World (Remastered)",
         "url": "https://open.spotify.com/album/1WIXeACAExhr1gXIV1TL6d"
@@ -713,7 +909,7 @@
       "url": "https://open.spotify.com/track/1izz8IdjjrLYsn5xdqxs9y"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "MI A\u00d1O G\u00d3TICO",
         "url": "https://open.spotify.com/album/5npzqycxX70BQyBA0cWs4E"
@@ -737,23 +933,27 @@
       "url": "https://open.spotify.com/track/3dGFLMTw4RLDMHYTsLhyMZ"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "Recollections",
-        "url": "https://open.spotify.com/album/69uCpLoN3IHze3a80Q2lZu"
+        "name": "Keeper of the Cosmic Staff",
+        "url": "https://open.spotify.com/album/0m7tSKgIGTUxezvjPPg0Pr"
       },
       "artists": [
         {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+          "name": "Cassandra Motion",
+          "url": "https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0"
+        },
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
         }
       ],
-      "duration_ms": 268182,
-      "name": "Holding Back The Years - Recollections 2025",
-      "url": "https://open.spotify.com/track/4zO8ComXNM1iWduQUwAm4F"
+      "duration_ms": 63460,
+      "name": "Nimbus",
+      "url": "https://open.spotify.com/track/1rKMCgELu6ToKjnIbKS5IS"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "La Vasectom\u00eda",
         "url": "https://open.spotify.com/album/4zOB6IGY8BqAbGqSbMEE1V"
@@ -773,23 +973,79 @@
       "url": "https://open.spotify.com/track/24rV77RfxWuaLQQxMtSbb8"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "Fairytale of New York",
-        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/0QF6UHva2a77FIQzQYfAdG"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
         }
       ],
-      "duration_ms": 194153,
-      "name": "Fairytale of New York",
-      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
+      "duration_ms": 213431,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/6tDDZYCUpdvolompjrdNTq"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/6n1U087z2JRZ5jnMRzeUrI"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 105245,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/6iRBgknW6YEpv8CpP6LTrF"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "The Last Ship (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ITQq1FrdjSUxkw0VktNr6"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 358655,
+      "name": "Island Of Souls - 2025",
+      "url": "https://open.spotify.com/track/5cRAOIsrKdHYnUdEeiUkEe"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Mu\u00e9rdeme",
+        "url": "https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Mu\u00e9rdeme",
+      "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Aquelarre",
         "url": "https://open.spotify.com/album/0BhTECS5bTMUmj1be3VEMG"
@@ -829,43 +1085,23 @@
       "url": "https://open.spotify.com/track/0TsCXQbFXaWUNMMYZJIYMJ"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "Ashes to the Sea (Orchestral Version)",
-        "url": "https://open.spotify.com/album/6APnAXgibJedijbKQDIw2s"
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
       },
       "artists": [
         {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 216250,
-      "name": "Ashes to the Sea - Orchestral Version",
-      "url": "https://open.spotify.com/track/4zrSCz3oW8gDBO1foYHba3"
+      "duration_ms": 194153,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
-      "album": {
-        "name": "Gracias A La Vida",
-        "url": "https://open.spotify.com/album/2jo9GIbUqggDcC88cIQ3hQ"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 272616,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0XF6F0GTEdurOJFI26qOxV"
-    },
-    {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "DIFFERENT",
         "url": "https://open.spotify.com/album/05wtK6ULJXpypJ9jGt6BGv"
@@ -885,31 +1121,39 @@
       "url": "https://open.spotify.com/track/1ucWy5mopUuiCU4Gibjw8K"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "Destiny (Remixes)",
-        "url": "https://open.spotify.com/album/1VcivT4MmZCylGiipYLcUd"
+        "name": "DARKEST SIDE OF EARTH",
+        "url": "https://open.spotify.com/album/5QGlRJpyXZd4bD6IT2VG7P"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        },
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
         }
       ],
-      "duration_ms": 162461,
-      "name": "Destiny - HILLS Remix",
-      "url": "https://open.spotify.com/track/4xBPAr5iLmeNK2NvOOP3JQ"
+      "duration_ms": 208615,
+      "name": "DARKEST SIDE OF EARTH",
+      "url": "https://open.spotify.com/track/0b3djX1yBqJfYqeBfjRvML"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/0r0IbgTzFxE6g0i347BbVe"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 326515,
+      "name": "Caminos",
+      "url": "https://open.spotify.com/track/1m3gng22zF25U4tkdU8xGa"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "ENIAG FOREVER",
         "url": "https://open.spotify.com/album/3vcMYi4XWP5fQVnvIcaPQZ"
@@ -933,39 +1177,31 @@
       "url": "https://open.spotify.com/track/6ff9ZYSsFW9T5Z95UJo7Qs"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
-        "name": "California Christmas",
-        "url": "https://open.spotify.com/album/2wCTHnAFOdHBTUphoBXcb8"
+        "name": "Destiny (Remixes)",
+        "url": "https://open.spotify.com/album/1VcivT4MmZCylGiipYLcUd"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Alan Doyle",
-          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
         },
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        },
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        },
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
         }
       ],
-      "duration_ms": 230335,
-      "name": "California Christmas",
-      "url": "https://open.spotify.com/track/4ZCAz5L5de4JIiWcIZkrz8"
+      "duration_ms": 162461,
+      "name": "Destiny - HILLS Remix",
+      "url": "https://open.spotify.com/track/4xBPAr5iLmeNK2NvOOP3JQ"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Marriana",
         "url": "https://open.spotify.com/album/3HSi4TrooEX1qpLORKcKgV"
@@ -981,7 +1217,7 @@
       "url": "https://open.spotify.com/track/62V7uDQh4yxeO20brTzTs2"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "VSQ Performs KPOP Demon Hunters",
         "url": "https://open.spotify.com/album/6UyihtSsacro4ywDxLb8cB"
@@ -997,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6VGcggej7rQ9WHcHEybGAD"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "TDA",
         "url": "https://open.spotify.com/album/0MBPSfrNu0CMeJEcnAg4lM"
@@ -1013,7 +1249,23 @@
       "url": "https://open.spotify.com/track/45qOl52tDn94NhSCTfX7xt"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
+      "album": {
+        "name": "En esos d\u00edas de los \u00b490",
+        "url": "https://open.spotify.com/album/4NV0JUMTjU7cyCvsngeKC2"
+      },
+      "artists": [
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "duration_ms": 262886,
+      "name": "Tu propia primavera (Versi\u00f3n 2025)",
+      "url": "https://open.spotify.com/track/04EjHVNamHzW2Ss3rXOXIB"
+    },
+    {
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Tao Skillz",
         "url": "https://open.spotify.com/album/7GX2lU8tSNPh6MyqszWG23"
@@ -1037,7 +1289,7 @@
       "url": "https://open.spotify.com/track/5mTaphXr1YWauZ9j9xqu6a"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Tormentos",
         "url": "https://open.spotify.com/album/6UkIPjg718wd1XSAj72r35"
@@ -1065,7 +1317,7 @@
       "url": "https://open.spotify.com/track/35P03YcjxEtGaHU0jYjjVL"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Protect the Light (Hi wo Mamoru) [from \"SPY x FAMILY\"] [Spanish Version]",
         "url": "https://open.spotify.com/album/0FdHaVkrDNRMWBe5Bf4L33"
@@ -1081,7 +1333,7 @@
       "url": "https://open.spotify.com/track/70S5LMzmI1vLyYuhdBpkSA"
     },
     {
-      "added_at": "2025-12-05 03:00:00",
+      "added_at": "2025-12-12 03:00:00",
       "album": {
         "name": "Que Generosa sos mi Tierra",
         "url": "https://open.spotify.com/album/4osB9i1g3VXRiwLeOFBEyq"

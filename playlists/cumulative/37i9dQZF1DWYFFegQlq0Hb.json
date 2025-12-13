@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Chained Chase",
+        "url": "https://open.spotify.com/album/0rtRF0cLGhKMLUsbfH1rKz"
+      },
+      "artists": [
+        {
+          "name": "Who-ya Extended",
+          "url": "https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Chained Chase",
+      "url": "https://open.spotify.com/track/3zsNRpuT0jBMgd6v3o6nye"
+    },
+    {
+      "album": {
         "name": "JUJUTSU KAISEN 0 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU"
       },

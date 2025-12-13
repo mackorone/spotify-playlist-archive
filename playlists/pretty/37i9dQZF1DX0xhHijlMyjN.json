@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 329499,
+  "num_followers": 329459,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,26 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Judy Santos",
+          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Obsesion",
+      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Judy Santos",
-          "url": "https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Obsesion",
-      "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 229848,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 229848,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
-      },
-      "artists": [
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 223111,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 203049,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 223111,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "The King Of Dance",
         "url": "https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Samba de Janeiro",
         "url": "https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "September",
-      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Coraz\u00f3n Latino",
         "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 209946,
       "name": "Ave Mar\u00eda",
       "url": "https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 184693,
       "name": "Ella Elle L A",
       "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Yo Quiero Bailar",
-        "url": "https://open.spotify.com/album/1Z3oRjE6kaIhj9GS0IFwxF"
-      },
-      "artists": [
-        {
-          "name": "Sonia Y Selena",
-          "url": "https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Yo Quiero Bailar",
-      "url": "https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Ese d\u00eda piensa en m\u00ed",
         "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 311866,
       "name": "Dolores se llamaba Lola",
       "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Yo Quiero Bailar",
+        "url": "https://open.spotify.com/album/1Z3oRjE6kaIhj9GS0IFwxF"
+      },
+      "artists": [
+        {
+          "name": "Sonia Y Selena",
+          "url": "https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Yo Quiero Bailar",
+      "url": "https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "La Luna y el Toro (Made In Spain)",
-        "url": "https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10"
-      },
-      "artists": [
-        {
-          "name": "El Matador",
-          "url": "https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG"
-        }
-      ],
-      "duration_ms": 267386,
-      "name": "La Luna y el Toro",
-      "url": "https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Noelia",
         "url": "https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 235733,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "La Luna y el Toro (Made In Spain)",
+        "url": "https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10"
+      },
+      "artists": [
+        {
+          "name": "El Matador",
+          "url": "https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG"
+        }
+      ],
+      "duration_ms": 267386,
+      "name": "La Luna y el Toro",
+      "url": "https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Lo Mejor De Los Payos",
         "url": "https://open.spotify.com/album/5tQa4jvBXDzlaB7ebZb0UG"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 199466,
       "name": "Mar\u00eda Isabel",
       "url": "https://open.spotify.com/track/6y1b0YZufCb63Mnv3fnlBY"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
+      },
+      "artists": [
+        {
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Gloria!",
-        "url": "https://open.spotify.com/album/2JpDKOMTykF3Z1dbTCO6CK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279626,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/34js2TOQm9tf6xhefJ97HI"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Ni jaulas ni peceras",
         "url": "https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 191333,
       "name": "No me llames iluso",
       "url": "https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Gloria!",
+        "url": "https://open.spotify.com/album/2JpDKOMTykF3Z1dbTCO6CK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 279626,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/34js2TOQm9tf6xhefJ97HI"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Tomalacate",
+        "url": "https://open.spotify.com/album/0tp5aBBT7GRafCQt0Nvgi2"
+      },
+      "artists": [
+        {
+          "name": "Pap\u00e1 Levante",
+          "url": "https://open.spotify.com/artist/4gb13Uvpvz0EFEHtmYdgDf"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Me Pongo Colorada",
+      "url": "https://open.spotify.com/track/4AA1JmBpy3Bx5ZLAnJxOto"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "SEX AND LOVE",
         "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
       },
@@ -2355,22 +2371,6 @@
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/0bEA0mMgXheXnahvIbIQfg"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Tomalacate",
-        "url": "https://open.spotify.com/album/0tp5aBBT7GRafCQt0Nvgi2"
-      },
-      "artists": [
-        {
-          "name": "Pap\u00e1 Levante",
-          "url": "https://open.spotify.com/artist/4gb13Uvpvz0EFEHtmYdgDf"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Me Pongo Colorada",
-      "url": "https://open.spotify.com/track/4AA1JmBpy3Bx5ZLAnJxOto"
     },
     {
       "added_at": "2025-07-02 10:54:22",

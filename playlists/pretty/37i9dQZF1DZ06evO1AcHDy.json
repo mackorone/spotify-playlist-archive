@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37575,
+  "num_followers": 37577,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABYJH5TcEDCTYKj7Qa33caA",
+  "snapshot_id": "aToJgAAAAAAQyAebd/s8JqwevAs9a8Jd",
   "tracks": [
     {
       "added_at": null,
@@ -127,18 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+        "name": "TRUE MAGIC",
+        "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
       },
       "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+      "duration_ms": 210785,
+      "name": "saving flowers",
+      "url": "https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ"
     },
     {
       "added_at": null,
@@ -159,22 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRUE MAGIC",
-        "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
       "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 210785,
-      "name": "saving flowers",
-      "url": "https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ"
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kiss Me (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 201733,
       "name": "Kiss Me (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where U Are",
+        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Where U Are",
+      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Free (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 182813,
       "name": "I'm Free (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where U Are",
-        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Where U Are",
-      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
     },
     {
       "added_at": null,

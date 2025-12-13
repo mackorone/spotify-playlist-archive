@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "I Heard the Bells",
+        "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        },
+        {
+          "name": "Cindy Morgan",
+          "url": "https://open.spotify.com/artist/5iZweZ1uY4DshuBUYN6Fn4"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149853,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
+    },
+    {
+      "album": {
         "name": "I Heard The Bells on Christmas Day",
         "url": "https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe"
       },
@@ -696,7 +718,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 195666,
       "name": "Just One Stocking",
       "url": "https://open.spotify.com/track/3TP9RhnXEYT8YiiR4l7Ksb"

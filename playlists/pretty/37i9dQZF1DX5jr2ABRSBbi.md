@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslouchejte naplno nejvýraznější tvorbu žen z roku 2025! Cover: Sara Rikas
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,428 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,432 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Mením sa](https://open.spotify.com/track/2nusQS07f8DQPvoARvfMF5) | [Anika Iris](https://open.spotify.com/artist/6qwBbYT3f2M1pZ1SKcsBDc) | [Mením sa](https://open.spotify.com/album/2iVU3KRL6jgbah9XWegwTJ) | 3:22 |
 | 50 | [Z nuly na sto](https://open.spotify.com/track/5rGxp0TEwD6Cnnzg3EmKAk) | [ELIZABETH KOPECKA](https://open.spotify.com/artist/4bp0VqiC1SbgLXMp1vDcD8) | [Z nuly na sto](https://open.spotify.com/album/0fsV5698g4F5mil8D49c7L) | 2:40 |
 
-Snapshot ID: `AAAAAP5NejkXBPj95qrR03gmBy6Ka2db`
+Snapshot ID: `AAAAAOLELfq2s5fgcV4I5LrNvNiWWVl2`

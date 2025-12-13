@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,608 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,571 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 65 | [Shake](https://open.spotify.com/track/31esElEZXBtCb5bqHBYMit) | [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX) | [WHERE AM I](https://open.spotify.com/album/0ZvLPpDFux0HwcR1Orttd9) | 3:18 |
 | 66 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 |
 | 67 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 |
-| 68 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 |
-| 69 | [Piece Of Your Heart](https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb) | 2:32 |
+| 68 | [Piece Of Your Heart](https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb) | 2:32 |
+| 69 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 |
 | 70 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
 | 71 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 |
 | 72 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |

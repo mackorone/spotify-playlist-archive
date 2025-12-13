@@ -4,7 +4,7 @@
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-77 songs - 3 hr 49 min
+78 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bailemos un Vals](https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj) | [José Velez](https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm) | [Lo Mejor de José Velez](https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8) | 3:07 | 2023-05-05 |  |
 | [Beg, Steal Or Borrow](https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [The Albums 1970\-73](https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj) | 2:47 | 2023-05-05 |  |
 | [Boom Bang a Bang](https://open.spotify.com/track/0vaRIQTdMIEnXjhWlVS95p) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [I'm A Tiger](https://open.spotify.com/album/2NAohbSqpmgjGzzyesr5lW) | 2:22 | 2023-05-05 |  |
+| [Brez besed \- Evrovizija 1966](https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK) | [Berta Ambroz](https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq) | [Brez besed](https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9) | 2:45 | 2025-03-14 |  |
 | [Congratulations \- 1998 Remaster](https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Singles Collection](https://open.spotify.com/album/6YZb35WBIM7ZlJf782E6gO) | 2:35 | 2023-05-05 |  |
 | [Dansevise](https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM) | [Grethe Ingmann](https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs), [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [16 Hits](https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN) | 2:57 | 2023-05-05 |  |
 | [Det börjar verka kärlek, banne mej](https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Festivalfavoriter 1](https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m) | 2:46 | 2023-05-05 |  |
@@ -78,7 +79,7 @@
 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 | 2023-05-05 |  |
 | [Uno Per Tutte](https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk) | [Emilio Pericoli](https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ) | [Solino](https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb) | 2:58 | 2023-05-05 |  |
 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 | 2023-05-05 |  |
-| [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 | 2023-05-05 |  |
+| [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 | 2023-05-05 | 2025-12-13 |
 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 | 2023-05-05 |  |
 | [Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo](https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av) | 2:48 | 2023-05-05 |  |
 | [Wunder gibt es immer wieder](https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Wunder gibt es immer wieder](https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw) | 3:32 | 2023-05-05 |  |

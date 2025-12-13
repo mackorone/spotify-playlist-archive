@@ -2,9 +2,9 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la Calle a la Cima con Tainy & KAROL G.
+> De la Calle a la Cima con El Bogueto,  Anuel AA, Fuerza Regida y Yung Beef.
 
-637 songs - 1 day 11 hr 7 min
+638 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [AL CALLAO'](https://open.spotify.com/track/110wwp2SRousmXjvx8zIoI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 4:02 | 2023-08-25 | 2024-03-30 |
 | [ALAKRAN](https://open.spotify.com/track/2Yc3MHpZ9R5UCIz78E20AQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 1:30 | 2024-02-08 | 2024-03-30 |
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2021-12-31 | 2022-04-23 |
-| [ALO](https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [ALO](https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW) | 3:08 | 2025-10-31 |  |
+| [ALO](https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [ALO](https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW) | 3:08 | 2025-10-31 | 2025-12-13 |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2025-04-11 | 2025-06-07 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-12-31 | 2024-09-21 |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-05-19 | 2023-08-19 |
@@ -137,6 +137,7 @@
 | [CUANDO](https://open.spotify.com/track/64vKyzRjkcmTUntwsLxo0m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 3:06 | 2025-05-30 | 2025-07-05 |
 | [Cuando No Era Cantante](https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:31 | 2025-01-10 | 2025-02-15 |
 | [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 | 2025-05-30 |  |
+| [Cuando No Era Cantante \- Remix](https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Cuando No Era Cantante \(Remix\)](https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ) | 5:27 | 2025-12-12 |  |
 | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 | 2024-06-28 | 2025-01-11 |
 | [Cuarentena](https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cuarentena](https://open.spotify.com/album/6gNn20ucl04E91XvLdMc1Z) | 2:11 | 2021-12-31 | 2022-02-05 |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-03-31 | 2023-04-29 |

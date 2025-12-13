@@ -3509,6 +3509,28 @@
     },
     {
       "album": {
+        "name": "Easily",
+        "url": "https://open.spotify.com/album/3mwiS1oLVriXWEkinO2Ib1"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF"
+        },
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182125,
+      "name": "Easily",
+      "url": "https://open.spotify.com/track/5y4UnA1BOuxp2J0vbO575R"
+    },
+    {
+      "album": {
         "name": "Easy Baby",
         "url": "https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw"
       },
@@ -4254,7 +4276,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 189143,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4GMUD85aZfNVgvAbHppkQk"

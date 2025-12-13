@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 484248,
+  "num_followers": 484263,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACFYOBndozLhBf4fYdNRMq4",
+  "snapshot_id": "aToJgAAAAAAwxrKyow+iGnxuPVKpQR5Y",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psycho Circus",
-        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 330360,
-      "name": "Psycho Circus",
-      "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 226773,
       "name": "Shock Me",
       "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 330360,
+      "name": "Psycho Circus",
+      "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Nothin' To Lose",
-      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dressed To Kill (2025 Remaster)",
         "url": "https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178669,
       "name": "C'mon And Love Me - 2025 Remaster",
       "url": "https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Nothin' To Lose",
+      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
     },
     {
       "added_at": null,

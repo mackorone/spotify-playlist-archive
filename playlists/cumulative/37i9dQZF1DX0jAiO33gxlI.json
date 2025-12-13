@@ -26101,6 +26101,32 @@
     },
     {
       "album": {
+        "name": "Selva de Concreto",
+        "url": "https://open.spotify.com/album/0CmrKCkRsTiqWhz5TmK4Bm"
+      },
+      "artists": [
+        {
+          "name": "Santa Lua",
+          "url": "https://open.spotify.com/artist/2V0vATW2yKL22tIg9BiQSm"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216189,
+      "name": "Selva de Concreto",
+      "url": "https://open.spotify.com/track/1LLauwAF6l38cOfOHgd6Zq"
+    },
+    {
+      "album": {
         "name": "Sem Atalho",
         "url": "https://open.spotify.com/album/2Qn8qSlpMIBfjomk22PrlC"
       },

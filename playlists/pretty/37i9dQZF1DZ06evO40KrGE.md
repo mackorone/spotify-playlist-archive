@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,490 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,494 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 47 | [Escolhidas](https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Hellen Miranda](https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r) | [Escolhidas](https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC) | 4:07 |
 | 48 | [Deus Velará por Ti](https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:00 |
 | 49 | [Marca o Meu Coração](https://open.spotify.com/track/61aeQsEdTS9jNUYjtbnnh9) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Marca o Meu Coração](https://open.spotify.com/album/1MKcpoNwxkKkkYKVpQFKeg) | 4:49 |
-| 50 | [O Noivo Vem](https://open.spotify.com/track/40FqywjgcTzbLZF2UOx2ys) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Noivo Vem](https://open.spotify.com/album/24uDcnwb1PpcMDXy5VsrRx) | 4:19 |
+| 50 | [Campeões da Luz](https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 3:47 |
 
-Snapshot ID: `aTi4AAAAAACTXzSogukwz+ubgApKhTIK`
+Snapshot ID: `aToJgAAAAADPZuvAMc/od/rBvYqBAnjA`

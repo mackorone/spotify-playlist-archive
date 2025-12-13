@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,206,076 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206,188 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It Just Won't Do](https://open.spotify.com/track/4bEbJeUHEzV6vjgTzZc84r) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [It Just Won't Do](https://open.spotify.com/album/3gIUCKXyygej72zQmDV9fz) | 3:05 |
-| 2 | [Substance \(feat\. FAANGS\)](https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Substance \(feat\. FAANGS\)](https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA) | 2:40 |
+| 2 | [Substance](https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Substance](https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA) | 2:40 |
 | 3 | [Inner Eye](https://open.spotify.com/track/6bMKul9Q0MnJo7yiwQcH1z) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Inner Eye](https://open.spotify.com/album/3tvUkmE3T7aAlXlO8cXsii) | 3:21 |
 | 4 | [I WISH \(RUBACK REMIX\)](https://open.spotify.com/track/4FrWeBnRRBBAIQw1RbHugb) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [I WISH \(RUBACK REMIX\)](https://open.spotify.com/album/57DKTfJ3HpPK3GUk4qISH8) | 4:17 |
 | 5 | [Go Back](https://open.spotify.com/track/00wJPHKCBlCTUxP6KuVSiT) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Go Back](https://open.spotify.com/album/4hB27f2YOy4SLCk71mm2r5) | 2:44 |

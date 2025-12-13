@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 
 > <a href="spotify:user:spotify:playlist:37i9dQZF1DWXQXM7agvwjO">.ORG</a>  presents Asian Indie songs we loved the most in 2025\. \#SpotifyWrapped Cover: ena mori
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,511 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,533 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 | 74 | [Fill My Empty Soul](https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Fill My Empty Soul](https://open.spotify.com/album/46kdOcGtnWMPDLcmRmdEjg) | 3:26 |
 | 75 | [Centuries](https://open.spotify.com/track/4jN3sOY5Ie7N2gJg69eI74) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Centuries](https://open.spotify.com/album/1CzGE2ha6P0u2l1YE1ng2K) | 2:55 |
 
-Snapshot ID: `AAAAAM9ylZ6Zut5A4iUny5ySzT8YWyZO`
+Snapshot ID: `AAAAABruGTU4EevauQ9t4la395R/peQk`

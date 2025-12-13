@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 222000,
       "name": "Aakhri Baat",
       "url": "https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je"
@@ -5434,7 +5434,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 186051,
       "name": "Tere Saath",
       "url": "https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e"
@@ -6202,7 +6202,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 203392,
       "name": "Yun Hi Kahin",
       "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
@@ -6282,6 +6282,28 @@
       "duration_ms": 195148,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6"
+    },
+    {
+      "album": {
+        "name": "Zulfein",
+        "url": "https://open.spotify.com/album/0QLo84H5SAMrfwo6t1pkeS"
+      },
+      "artists": [
+        {
+          "name": "Mehul Mahesh",
+          "url": "https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD"
+        },
+        {
+          "name": "Dj AYnik",
+          "url": "https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198831,
+      "name": "Zulfein",
+      "url": "https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN"

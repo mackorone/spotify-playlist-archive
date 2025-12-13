@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 
 > Soothing strings for our sleepy little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,596 likes - 115 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,591 likes - 115 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

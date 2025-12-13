@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 345904,
+  "num_followers": 345973,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "High Adventure",
-        "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Heart to Heart",
-      "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "If That's What It Takes",
         "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 235333,
       "name": "I Gotta Try",
       "url": "https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "High Adventure",
+        "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Bowling In Paris",
-        "url": "https://open.spotify.com/album/6jMjThGNjDvWlYKDYQVYqB"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Parked Cars",
-      "url": "https://open.spotify.com/track/065U4wb8kPKuY3XqpIk5zg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "No Fun Aloud",
         "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 245306,
       "name": "I Found Somebody",
       "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Bowling In Paris",
+        "url": "https://open.spotify.com/album/6jMjThGNjDvWlYKDYQVYqB"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Parked Cars",
+      "url": "https://open.spotify.com/track/065U4wb8kPKuY3XqpIk5zg"
     },
     {
       "added_at": "2023-03-30 14:38:10",

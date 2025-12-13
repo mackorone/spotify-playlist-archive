@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73736,
+  "num_followers": 73738,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAB3P1JhuN/iUja9dhd9dWaO",
+  "snapshot_id": "aToJgAAAAACxZJLU1VMbiQg7GD6222lF",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 263082,
-      "name": "Cora\u00e7\u00e3o que Sangra",
-      "url": "https://open.spotify.com/track/41AZy4CW6HyXc3eBG3S16J"
+      "duration_ms": 290249,
+      "name": "Suas Digitais",
+      "url": "https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 290249,
-      "name": "Suas Digitais",
-      "url": "https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV"
+      "duration_ms": 263082,
+      "name": "Cora\u00e7\u00e3o que Sangra",
+      "url": "https://open.spotify.com/track/41AZy4CW6HyXc3eBG3S16J"
     },
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+        "name": "Liberta-me",
+        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
       "artists": [
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 324522,
-      "name": "N\u00e3o \u00e9 Tarde",
-      "url": "https://open.spotify.com/track/1FrncXJGmRTpAGksXoR9k8"
+      "duration_ms": 301255,
+      "name": "Rasgando o Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l"
     },
     {
       "added_at": null,
@@ -427,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberta-me",
-        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
       "artists": [
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 301255,
-      "name": "Rasgando o Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l"
+      "duration_ms": 324522,
+      "name": "N\u00e3o \u00e9 Tarde",
+      "url": "https://open.spotify.com/track/1FrncXJGmRTpAGksXoR9k8"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 Anos no Brasil (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 232214,
+      "name": "Tempo de Crescer / Cacos Pelo Ch\u00e3o / Ele \u00e9 Por Mim / Vaso de Alabastro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elm0HTj8WhCED9LZdiNT2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liberta-me",
         "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 267633,
       "name": "Peniel",
       "url": "https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Anos no Brasil (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 232214,
-      "name": "Tempo de Crescer / Cacos Pelo Ch\u00e3o / Ele \u00e9 Por Mim / Vaso de Alabastro - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Elm0HTj8WhCED9LZdiNT2"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liberta-me",
+        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 297261,
+      "name": "Liberta-me",
+      "url": "https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -915,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberta-me",
-        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+        "name": "30 Anos no Brasil (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh"
       },
       "artists": [
         {
@@ -924,25 +940,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 297261,
-      "name": "Liberta-me",
-      "url": "https://open.spotify.com/track/6kNhJ3xdVnPeZKyo3Umjql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meu Bem Maior",
-        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 218128,
-      "name": "Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6hpoiNQJcl8rVg3xaxBZzI"
+      "duration_ms": 263787,
+      "name": "Sejam Um / Respostas / Os Olhos Seus / Ele Escolheu os Cravos / Um Santu\u00e1rio Cheio da Tua Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/6B0P04VpaNk9pwygCVltgr"
     },
     {
       "added_at": null,
@@ -963,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
+        "name": "Meu Bem Maior",
+        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 245119,
-      "name": "Tua Face",
-      "url": "https://open.spotify.com/track/20ULhBcBQ0WYvTRNXUdNrt"
+      "duration_ms": 218128,
+      "name": "Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6hpoiNQJcl8rVg3xaxBZzI"
     }
   ],
   "unique_name": "This Is Fernanda Brum",

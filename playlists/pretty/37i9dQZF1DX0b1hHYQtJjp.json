@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: Olivia Dean",
-  "num_followers": 942758,
+  "num_followers": 942817,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANKXp5GlxCxqGZkonsCzmWok9pcG",
+  "snapshot_id": "AAAAAIwanVvYZgkilSbsgiMMJOmwOKos",
   "tracks": [
     {
       "added_at": "2025-12-05 05:40:57",
@@ -23,6 +23,38 @@
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2025-12-12 05:00:47",
+      "album": {
+        "name": "Give Me Something (for Arknights Endfield)",
+        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 162789,
+      "name": "Give Me Something (for Arknights Endfield)",
+      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
+    },
+    {
+      "added_at": "2025-12-05 05:40:57",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "added_at": "2025-12-05 05:40:57",
@@ -115,6 +147,22 @@
       "duration_ms": 169081,
       "name": "Still Don't Care",
       "url": "https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo"
+    },
+    {
+      "added_at": "2025-12-12 05:00:47",
+      "album": {
+        "name": "COMPASS",
+        "url": "https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 166461,
+      "name": "COMPASS",
+      "url": "https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq"
     },
     {
       "added_at": "2025-12-05 05:40:57",
@@ -363,6 +411,22 @@
       "duration_ms": 232771,
       "name": "If The World Burns Down",
       "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
+    },
+    {
+      "added_at": "2025-12-12 05:00:47",
+      "album": {
+        "name": "La2",
+        "url": "https://open.spotify.com/album/19BZpYYCzIumql4eLapP7V"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "La2",
+      "url": "https://open.spotify.com/track/2jGgMQVMd5k1r3T7zr6J2F"
     },
     {
       "added_at": "2025-12-05 05:40:57",
@@ -639,22 +703,6 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
-    },
-    {
-      "added_at": "2025-12-05 05:40:57",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "added_at": "2025-12-05 05:40:57",
@@ -1143,22 +1191,6 @@
     {
       "added_at": "2025-12-05 05:40:57",
       "album": {
-        "name": "DON'T LOOK BACK",
-        "url": "https://open.spotify.com/album/35g9KM2dlpOr0Yt0GETQht"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 208876,
-      "name": "DON'T LOOK BACK",
-      "url": "https://open.spotify.com/track/4QT5M24iwORnhXx6oQ4Ksb"
-    },
-    {
-      "added_at": "2025-12-05 05:40:57",
-      "album": {
         "name": "Thick Skin",
         "url": "https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI"
       },
@@ -1207,22 +1239,6 @@
     {
       "added_at": "2025-12-05 05:40:57",
       "album": {
-        "name": "be a bitch",
-        "url": "https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 184406,
-      "name": "be a bitch",
-      "url": "https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU"
-    },
-    {
-      "added_at": "2025-12-05 05:40:57",
-      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -1235,26 +1251,6 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
-    },
-    {
-      "added_at": "2025-12-05 05:40:57",
-      "album": {
-        "name": "Love Is Like",
-        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 174911,
-      "name": "Love Is Like (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
     }
   ],
   "unique_name": "Just Good Music",

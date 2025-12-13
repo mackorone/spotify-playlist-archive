@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,264 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,677 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
-| 2 | [Track 1](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |
 | 3 | [Recently Deleted](https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:43 |
-| 4 | [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [](https://open.spotify.com/album/null) | 2:51 |
+| 4 | [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:51 |
 | 5 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
 | 6 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 7 | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot) | 4:04 |

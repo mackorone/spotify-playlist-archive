@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,748 likes - 100 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,928 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 25 | [Endless Nights](https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/39G4Sh25irfylUiwli0abu) | 2:58 |
 | 26 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 |
 | 27 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
-| 28 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
-| 29 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 |
+| 28 | [Still Moment](https://open.spotify.com/track/2vAqcKkTSGUAkpu2kRKorM) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 5:43 |
+| 29 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
 | 30 | [Sea Waves](https://open.spotify.com/track/6lY4tHBKd7aVQW7X4TXtxt) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:13 |
 | 31 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
 | 32 | [Savasana](https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50) | [Kai Franz](https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE) | [Surya Namaskar](https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj) | 15:18 |
 | 33 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
 | 34 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Mira Leafling](https://open.spotify.com/artist/5BYS7QRM7jcBlEOtjMVgHv), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
-| 35 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
-| 36 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
-| 37 | [Yoga Dream](https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Yoga Dream](https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq) | 3:29 |
+| 35 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
+| 36 | [Yoga Dream](https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Yoga Dream](https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq) | 3:29 |
+| 37 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
 | 38 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
 | 39 | [Sacred Breath](https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Sacred Breath](https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813) | 3:12 |
 | 40 | [Savasana](https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya) | [Sintrano](https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI) | [Savasana](https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41) | 2:11 |

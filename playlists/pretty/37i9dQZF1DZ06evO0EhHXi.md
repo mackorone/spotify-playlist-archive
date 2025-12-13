@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,299 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,322 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 6 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2j3PFZXmenUxgjjBUIod7F) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Animal Boy](https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh) | 3:53 |
 | 7 | [Baby, I Love You](https://open.spotify.com/track/29imR7dda5XqwPRFmby7HS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 3:44 |
 | 8 | [The KKK Took My Baby Away \- 1999 Remaster](https://open.spotify.com/track/0N8c4Yf3gp8KnngZggvpqi) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 2:30 |
-| 9 | [Beat on the Brat \- 2016 Remaster](https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:31 |
-| 10 | [I Don't Want to Grow Up](https://open.spotify.com/track/1mJ7yK70zjY1VCaRP04ot4) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:44 |
+| 9 | [I Don't Want to Grow Up](https://open.spotify.com/track/1mJ7yK70zjY1VCaRP04ot4) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:44 |
+| 10 | [Beat on the Brat \- 2016 Remaster](https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:31 |
 | 11 | [Rockaway Beach \- 2017 Remaster](https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:06 |
 | 12 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
 | 13 | [Needles and Pins \- 2018 Remaster](https://open.spotify.com/track/53rN8CcgrWP6DZcuQ4Q4og) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:21 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 36 | [She Talks to Rainbows](https://open.spotify.com/track/0GVcm9IeiuWWOQk3yXI7yx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 3:14 |
 | 37 | [Tomorrow She Goes Away](https://open.spotify.com/track/18Fp3CwLWbtrDf8KKckDlf) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:40 |
 | 38 | [Out of Time](https://open.spotify.com/track/78j8gwBS0Lf36M1yqRG6kJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Acid Eaters](https://open.spotify.com/album/784AdNOgrGhD6suxBrSd9P) | 2:41 |
-| 39 | [Gimme Gimme Shock Treatment \- 2017 Remaster](https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:44 |
-| 40 | [Spiderman](https://open.spotify.com/track/2JcUB7LyS4MDI5fvSWU6se) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [The Chrysalis Years Anthology](https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ) | 1:56 |
+| 39 | [Spiderman](https://open.spotify.com/track/2JcUB7LyS4MDI5fvSWU6se) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [The Chrysalis Years Anthology](https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ) | 1:56 |
+| 40 | [Gimme Gimme Shock Treatment \- 2017 Remaster](https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:44 |
 | 41 | [Take It as It Comes](https://open.spotify.com/track/1vfd5QkEplKvTtS9UJHpwo) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 2:07 |
 | 42 | [I'm Against It \- 2018 Remaster](https://open.spotify.com/track/0VPvLrFJby7clnTauyU8Ah) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z) | 2:09 |
-| 43 | [Pinhead \- 2017 Remaster](https://open.spotify.com/track/3UieIbEtb7evYcdNgKczEa) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:43 |
-| 44 | [The Crusher](https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:27 |
+| 43 | [The Crusher](https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:27 |
+| 44 | [Pinhead \- 2017 Remaster](https://open.spotify.com/track/3UieIbEtb7evYcdNgKczEa) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:43 |
 | 45 | [Censorshit](https://open.spotify.com/track/0hfsk5X8VPsaxip5cptvn1) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 3:10 |
 | 46 | [Chinese Rock \- 1999 Remaster](https://open.spotify.com/track/7hLzIknDV5aHHcEib9h5nY) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:28 |
 | 47 | [Durango 95 \- Live](https://open.spotify.com/track/2o8YxKjziubadspvVN20eS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loco Live](https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ) | 0:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [I Remember You \- 2017 Remaster](https://open.spotify.com/track/5eY9JlxpqN4d9OgUZwmFi3) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(2017 Remaster\)](https://open.spotify.com/album/1RBiytzhzGEKwqbovsjqPO) | 2:20 |
 | 50 | [Main Man](https://open.spotify.com/track/2nwIivilfmxMpS6ixp8CdM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Mondo Bizarro](https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ) | 3:28 |
 
-Snapshot ID: `aTi4AAAAAACZRAO8pIVESu2mDUeILNYV`
+Snapshot ID: `aToJgAAAAACgISsPyTx16ESV+wJkSYTT`

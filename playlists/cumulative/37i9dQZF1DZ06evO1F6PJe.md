@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-211 songs - 18 hr 13 min
+212 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Hanging On A Loser](https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 4:17 | 2022-08-05 | 2023-12-14 |
 | [Happier Times](https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:40 | 2024-09-09 |  |
 | [Heartache Follows Wherever I Go](https://open.spotify.com/track/6DZ0ye2dTWMsb5guCRvFSO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 4:33 | 2024-10-14 | 2025-03-08 |
-| [Heartbreaker](https://open.spotify.com/track/45QXWki69ZZxsibCk1bXf3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Heartbreaker](https://open.spotify.com/album/5PbaYl5vwZdLXijvKB6aTA) | 3:15 | 2025-12-05 |  |
+| [Heartbreaker](https://open.spotify.com/track/45QXWki69ZZxsibCk1bXf3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Heartbreaker](https://open.spotify.com/album/5PbaYl5vwZdLXijvKB6aTA) | 3:15 | 2025-12-05 | 2025-12-13 |
 | [Hey Baby \(New Rising Sun\)](https://open.spotify.com/track/7jXnX1JaHzrhbC56N5VwlX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades Of Blue \(Overdrive\)](https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg) | 1:19 | 2024-10-14 | 2024-12-31 |
 | [Hold On Loosely](https://open.spotify.com/track/3Vq8wBBUJgatW2fQKyfs4n) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Hold On Loosely](https://open.spotify.com/album/3sW8zDAYpgztuFiQQpr9H4) | 4:44 | 2024-07-21 | 2025-03-20 |
 | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ) | 3:58 | 2023-09-09 | 2023-11-11 |
@@ -178,6 +178,7 @@
 | [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 | 2023-01-15 | 2023-04-26 |
 | [The Ballad of John Henry](https://open.spotify.com/track/1jIerjgmmIjYoiRaf0DaM0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:26 | 2022-08-05 | 2023-03-27 |
 | [The Ballad Of John Henry \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/3mYfuwaHVNnkPJn0b5uFmA) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 7:18 | 2024-06-30 | 2024-07-19 |
+| [The Fan \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/1v7UVjK1YnakfvqKVfcaYX) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Fuego!](https://open.spotify.com/album/4HsrGYiNfVExh00imfThhF) | 7:55 | 2025-12-13 |  |
 | [The Ghost Of Macon Jones](https://open.spotify.com/track/1Js7KQKwCxn8ecdYVP5bty) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:24 | 2022-10-29 | 2023-04-24 |
 | [The Ghost Of Macon Jones](https://open.spotify.com/track/6kqPxNCsODUHqipFNYYNZL) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:24 | 2022-08-05 | 2022-10-30 |
 | [The Heart That Never Waits](https://open.spotify.com/track/4sb2JUFkGwT9jfzM7lcQBI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 5:51 | 2022-08-05 | 2023-04-16 |

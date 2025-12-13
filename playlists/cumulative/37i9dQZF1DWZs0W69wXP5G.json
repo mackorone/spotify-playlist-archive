@@ -1441,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "For Good",
+        "url": "https://open.spotify.com/album/6dE6tWXLEinXB6VaFccD5t"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260675,
+      "name": "For Good",
+      "url": "https://open.spotify.com/track/3oFQ5DiJOnkLeAycsoryop"
+    },
+    {
+      "album": {
         "name": "Beauty and the Beast: A 30th Celebration (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N"
       },
@@ -2146,7 +2164,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 461638,
       "name": "In The Heights",
       "url": "https://open.spotify.com/track/7oMr1IBlYwnb1jZh6of8kN"

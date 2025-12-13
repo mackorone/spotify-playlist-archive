@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: TEED",
+  "description": "New music off the beaten track. Cover: Pool",
   "name": "OFF POP",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197324,
+      "name": "45",
+      "url": "https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM"
+    },
+    {
+      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU"
       },
@@ -306,6 +324,24 @@
       "duration_ms": 221748,
       "name": "6am",
       "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "album": {
+        "name": "9 2 5",
+        "url": "https://open.spotify.com/album/7fcAtgPyAJesJXdQJKp4or"
+      },
+      "artists": [
+        {
+          "name": "Pool",
+          "url": "https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214427,
+      "name": "9 2 5",
+      "url": "https://open.spotify.com/track/0zVvwndLDY0fqiRxhaKu5a"
     },
     {
       "album": {
@@ -15650,7 +15686,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 207906,
       "name": "MOVEMENT",
       "url": "https://open.spotify.com/track/31sJ3wOwiCIZu1iMLJVv8t"
@@ -15672,7 +15708,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 179826,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/4KUKQ8aslaoNIAEFmI8cUs"
@@ -19367,6 +19403,28 @@
     },
     {
       "album": {
+        "name": "Satisfaction Skank",
+        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199488,
+      "name": "Satisfaction Skank",
+      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
+    },
+    {
+      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE"
       },
@@ -20334,7 +20392,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 202051,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/7qswPWI3L8gFJ9xVYm9Po8"
@@ -22403,6 +22461,28 @@
     },
     {
       "album": {
+        "name": "Talk It Over (Kirecko Remix)",
+        "url": "https://open.spotify.com/album/6tEg7Kx8Clw2Dt5HInF6Ug"
+      },
+      "artists": [
+        {
+          "name": "The Planetoids",
+          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
+        },
+        {
+          "name": "Kirecko",
+          "url": "https://open.spotify.com/artist/6qYTwQ5B3CNXfJx5wWttSq"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220731,
+      "name": "Talk It Over - Kirecko Remix",
+      "url": "https://open.spotify.com/track/64BNu0l4Lr5sgOg9GGAK2V"
+    },
+    {
+      "album": {
         "name": "Tangerine (Roosevelt Remix)",
         "url": "https://open.spotify.com/album/2XYqsS5wPQIbQ872hW0umK"
       },
@@ -23938,7 +24018,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 184167,
       "name": "Treat Yourself",
       "url": "https://open.spotify.com/track/55yBtybjHTl4criqkcwdZf"

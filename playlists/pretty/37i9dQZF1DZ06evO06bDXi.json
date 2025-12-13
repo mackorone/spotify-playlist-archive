@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14539,
+  "num_followers": 14542,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABnI8+ba3vRL/MYB3eVONss",
+  "snapshot_id": "aToJgAAAAADNln/Y3e71jmQZQ/6q9U5s",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Solo Violin Sonatas",
-        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 946800,
-      "name": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: V. Chaconne",
-      "url": "https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S"
+      "duration_ms": 318973,
+      "name": "Prelude and Allegro in the style of Pugnani",
+      "url": "https://open.spotify.com/track/6xRMRhHfCurZcsEudMb7RR"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
       },
       "artists": [
         {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 318973,
-      "name": "Prelude and Allegro in the style of Pugnani",
-      "url": "https://open.spotify.com/track/6xRMRhHfCurZcsEudMb7RR"
+      "duration_ms": 946800,
+      "name": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: V. Chaconne",
+      "url": "https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Solo Violin Sonatas",
-        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: I. Adagio",
-      "url": "https://open.spotify.com/track/3sf6l4HQPrR3lNvaR42Sgy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 222853,
       "name": "Confluence",
       "url": "https://open.spotify.com/track/2UrNvw9b6LKFLGbVVSHHVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: I. Adagio",
+      "url": "https://open.spotify.com/track/3sf6l4HQPrR3lNvaR42Sgy"
     },
     {
       "added_at": null,
@@ -1063,6 +1063,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Chiyo's Prayer",
+      "url": "https://open.spotify.com/track/0GVKpQYmaaFcm2plMqmRSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cinema Serenade II - \"The Golden Age\"",
         "url": "https://open.spotify.com/album/2IZ2iUEtTifqUkwx5oCeFy"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 212573,
       "name": "Tara's Theme (From \"Gone with the Wind\" 1939)",
       "url": "https://open.spotify.com/track/2snz7Wi9ImuxwqHlcBNFrB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Chiyo's Prayer",
-      "url": "https://open.spotify.com/track/0GVKpQYmaaFcm2plMqmRSG"
     },
     {
       "added_at": null,
@@ -1155,6 +1155,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 164013,
+      "name": "The Garden Meeting",
+      "url": "https://open.spotify.com/track/1gyZVY9EM1DWwGg89tbHcS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivaldi: Le quattro stagioni",
         "url": "https://open.spotify.com/album/6C6a2lqcgoIHMtTpTAOT5z"
       },
@@ -1179,30 +1203,6 @@
       "duration_ms": 218693,
       "name": "The Four Seasons, Winter, Violin Concerto in F Minor, RV 297, Op. 8 No. 4: I. Allegro non molto",
       "url": "https://open.spotify.com/track/0nsFJ7idRy2Jpe6aW6XQYy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 164013,
-      "name": "The Garden Meeting",
-      "url": "https://open.spotify.com/track/1gyZVY9EM1DWwGg89tbHcS"
     },
     {
       "added_at": null,

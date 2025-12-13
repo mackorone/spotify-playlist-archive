@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Lova",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Bleu Jeans Bleu",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -344,6 +344,24 @@
       "duration_ms": 290513,
       "name": "Besoin de personne",
       "url": "https://open.spotify.com/track/4dJUQN4NEO3k5LiUtdQb1b"
+    },
+    {
+      "album": {
+        "name": "Blonde \u00e0 personne",
+        "url": "https://open.spotify.com/album/2AfLb4XJFWhiFs3ODg1SbI"
+      },
+      "artists": [
+        {
+          "name": "Alice Bro",
+          "url": "https://open.spotify.com/artist/2EgU3uf1M88Fz6Iz7HHk4o"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Blonde \u00e0 personne",
+      "url": "https://open.spotify.com/track/3kvaIljDaI3rGbUkHfRd6r"
     },
     {
       "album": {
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 125826,
       "name": "De l\u2019Abitibi \u00e0 la Gasp\u00e9sie",
       "url": "https://open.spotify.com/track/0wiTImzk8GbAM2a8MJHdSX"
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 168916,
       "name": "Hier et toujours",
       "url": "https://open.spotify.com/track/2heMkdMg4rNFOpi0asAEGi"
@@ -2287,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Jeans t-shirt",
+        "url": "https://open.spotify.com/album/3sYY3y9tfrhyMZfOfebiNH"
+      },
+      "artists": [
+        {
+          "name": "Bleu Jeans Bleu",
+          "url": "https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198635,
+      "name": "Jeans t-shirt",
+      "url": "https://open.spotify.com/track/512uvLkvueZs41nvJTJ5f7"
+    },
+    {
+      "album": {
         "name": "Jouer",
         "url": "https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg"
       },
@@ -2634,6 +2670,24 @@
       "duration_ms": 135500,
       "name": "La protagoniste",
       "url": "https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA"
+    },
+    {
+      "album": {
+        "name": "La sainte paix",
+        "url": "https://open.spotify.com/album/6fuWGNvpn1IBmgF78qoV2I"
+      },
+      "artists": [
+        {
+          "name": "Philippe Tremblay",
+          "url": "https://open.spotify.com/artist/1nqrEgQ7FWkBe0WqdJxrZ0"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182449,
+      "name": "La sainte paix",
+      "url": "https://open.spotify.com/track/40SlVGqkKaZW2pFNSvxWj0"
     },
     {
       "album": {
@@ -3388,7 +3442,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 141980,
       "name": "M'en revenant de Sainte-H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/7KXsKkbwNcdl1PEN8Y4oQa"
@@ -3706,6 +3760,24 @@
       "duration_ms": 243164,
       "name": "Moucherons",
       "url": "https://open.spotify.com/track/7MKcEo1tspRup4Ci2uDK2k"
+    },
+    {
+      "album": {
+        "name": "Notre chez Nous",
+        "url": "https://open.spotify.com/album/3vhk5iBXhXlthsJMUgqtgP"
+      },
+      "artists": [
+        {
+          "name": "Jeunes r\u00eaveurs",
+          "url": "https://open.spotify.com/artist/1tuBg1N91RQQ5boP7N9UYY"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "My lady",
+      "url": "https://open.spotify.com/track/3hPuz7OkmKyXDBwKZPyZoC"
     },
     {
       "album": {
@@ -4104,7 +4176,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 222187,
       "name": "Parfaite",
       "url": "https://open.spotify.com/track/2GP3VhE1kaZR4FupxwbHJo"
@@ -4924,7 +4996,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 274346,
       "name": "Tadoussac",
       "url": "https://open.spotify.com/track/3tKQk6JcXTG3OSWDNuMczl"
@@ -5402,6 +5474,24 @@
       "duration_ms": 183092,
       "name": "Une rose \u00e0 la fois",
       "url": "https://open.spotify.com/track/7ARU11M9zMJyCnF9FMXeNS"
+    },
+    {
+      "album": {
+        "name": "Une \u00c9toile Populaire",
+        "url": "https://open.spotify.com/album/1ofUqw6kqy2qy8H2psC2Bv"
+      },
+      "artists": [
+        {
+          "name": "Joseph Carr\u00e9",
+          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233343,
+      "name": "Une \u00c9toile Populaire",
+      "url": "https://open.spotify.com/track/59KRgHAUeUq1jSdvNPL07f"
     },
     {
       "album": {

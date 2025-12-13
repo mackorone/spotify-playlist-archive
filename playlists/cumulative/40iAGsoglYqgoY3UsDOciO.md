@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-446 songs - 21 hr 37 min
+447 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Cheeseburger Jesus](https://open.spotify.com/track/5ZkVRlvQQeNjB6fhtFXS0W) | [Cheeseburger Mike](https://open.spotify.com/artist/7rxwIRpVz5CdXOfOvnOmpX) | [Cheeseburger Jesus](https://open.spotify.com/album/5qHdCUYHBmcLIAN0R0ovda) | 3:15 | 2024-10-07 |  |
 | [CHILL](https://open.spotify.com/track/23uqMKResD0QnTaeBwDKpV) | [winterkhai](https://open.spotify.com/artist/6ziwWKlhLwUFw0oxFHF0MI) | [CHILL](https://open.spotify.com/album/1JG11VA9pdNOI2zqAUueZL) | 1:26 | 2024-09-08 |  |
 | [Choppin' It Up](https://open.spotify.com/track/3n4jvOUgp6nn9GLuOCUEiZ) | [Chethelyricist](https://open.spotify.com/artist/4TwUA7gy6CqnMJgiEYKmbj) | [Choppin' It Up](https://open.spotify.com/album/4c3jO9kSApT4lz2boL0kV2) | 2:24 | 2024-08-06 |  |
+| [Christmas in Tha Hood](https://open.spotify.com/track/60MyC7swQn3EX4N16tWsCx) | [Ill Slim Collin](https://open.spotify.com/artist/6QmYQPrILpatGcjIQthHGl), [Blackwater Kaos](https://open.spotify.com/artist/7yY7WVqmm1I9e4ES6H81uS), [Desert Rose](https://open.spotify.com/artist/7A6bQSz6W0eWxgXL7TLYPg) | [Christmas in Tha Hood](https://open.spotify.com/album/072ydZagb8RYYeBbiAe0n8) | 3:56 | 2025-12-12 |  |
 | [Chrome Heart](https://open.spotify.com/track/1QUn8JoCo8z0mBmBmLzFzd) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [Chrome Heart](https://open.spotify.com/album/2tml7vycSw6GZYC7YTEJvQ) | 2:19 | 2024-09-05 |  |
 | [Chrome Heart](https://open.spotify.com/track/5agRTLnRP0jfuKGgyehtKW) | [Stivio](https://open.spotify.com/artist/0HBIEAjd75EfNCPxI8o4sQ) | [Chrome Heart](https://open.spotify.com/album/7wSzrEvXTEH3i5izGStF83) | 2:56 | 2024-08-13 |  |
 | [City Lights](https://open.spotify.com/track/7yfavewPcZm3t1XV1HJxU7) | [Stefano Pesapane](https://open.spotify.com/artist/1pqq2ysQTQXlFJ23ePR8L8) | [City Lights](https://open.spotify.com/album/1b1B3W2TKvWqsLs6hr94qt) | 4:00 | 2025-11-27 |  |

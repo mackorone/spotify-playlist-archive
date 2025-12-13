@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAPHswZicWCWx8GsXyH5u00",
+  "snapshot_id": "aToJgAAAAAD8LHMXRVpKkVGvg+QUSQqf",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Thread",
-        "url": "https://open.spotify.com/album/3rGSecU761CP81l0L1jYUL"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 210600,
-      "name": "Dream Thread",
-      "url": "https://open.spotify.com/track/7gftYIVFAeewcn8hhqjme2"
+      "duration_ms": 210946,
+      "name": "Dream thread",
+      "url": "https://open.spotify.com/track/6ut60olD9HU9G5FX7tPrKq"
     },
     {
       "added_at": null,
@@ -87,22 +87,6 @@
       "duration_ms": 274093,
       "name": "any if",
       "url": "https://open.spotify.com/track/45qMrc2dLU0KaQKQVOanA2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Nonfiction Nook",
-      "url": "https://open.spotify.com/track/4EZlQjbaaXfdB5ZQK3YzeI"
     },
     {
       "added_at": null,
@@ -135,6 +119,22 @@
       "duration_ms": 274560,
       "name": "Kimi no Tonaride",
       "url": "https://open.spotify.com/track/6S1hf9077yCXY9T40wS1fM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Nonfiction Nook",
+      "url": "https://open.spotify.com/track/4EZlQjbaaXfdB5ZQK3YzeI"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Fringed Iris",
-      "url": "https://open.spotify.com/track/7CaTlVGMnrPE9Ry8oWTNPH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Velvet - from CrosSing",
         "url": "https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 308786,
       "name": "Esquisse",
       "url": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Fringed Iris",
+      "url": "https://open.spotify.com/track/7CaTlVGMnrPE9Ry8oWTNPH"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 264760,
-      "name": "Fly-High-Five!",
-      "url": "https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc"
+      "duration_ms": 241160,
+      "name": "INNOCENT",
+      "url": "https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 241160,
-      "name": "INNOCENT",
-      "url": "https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6"
+      "duration_ms": 264760,
+      "name": "Fly-High-Five!",
+      "url": "https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 200346,
-      "name": "From Fate",
-      "url": "https://open.spotify.com/track/2WYzjKXWdWVaYEihavKdlS"
+      "duration_ms": 295200,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 295200,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0XEDEl9QWJhr0dSyp0frlF"
+      "duration_ms": 236760,
+      "name": "Fleeting Time",
+      "url": "https://open.spotify.com/track/1geDmYNUUF5lYQz8NsJZtC"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 253040,
       "name": "illminate",
       "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 236760,
-      "name": "Fleeting Time",
-      "url": "https://open.spotify.com/track/1geDmYNUUF5lYQz8NsJZtC"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Me Five!",
+        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "FLAMES",
+      "url": "https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 231866,
       "name": "DEAD or CALL MY NAME",
       "url": "https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me Five!",
-        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Unchained mind",
-      "url": "https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 258252,
       "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me Five!",
+        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Unchained mind",
+      "url": "https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me Five!",
-        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "FLAMES",
-      "url": "https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u307f\u3061\u304f\u3055",
         "url": "https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS"
       },
@@ -787,30 +771,6 @@
       "duration_ms": 293733,
       "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30de\u30f3\u30ac\uff1d\u8d85\u30f4\u30a1\u30a4\u30d6\u30eb (feat. \u7dd2\u65b9\u6075\u7f8e & \u9b3c\u982d\u660e\u91cc)",
-        "url": "https://open.spotify.com/album/2zczWnJd08hK0nGsaoOHWA"
-      },
-      "artists": [
-        {
-          "name": "ANCHOR",
-          "url": "https://open.spotify.com/artist/2fviXTiNm3w2YSp6qYdnlh"
-        },
-        {
-          "name": "Megumi Ogata",
-          "url": "https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH"
-        },
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 232216,
-      "name": "\u30de\u30f3\u30ac\uff1d\u8d85\u30f4\u30a1\u30a4\u30d6\u30eb (feat. \u7dd2\u65b9\u6075\u7f8e & \u9b3c\u982d\u660e\u91cc)",
-      "url": "https://open.spotify.com/track/2Nfu4bapsMgcsaT0G8MgSv"
     },
     {
       "added_at": null,

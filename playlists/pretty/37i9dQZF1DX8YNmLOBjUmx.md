@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,146 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,374 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

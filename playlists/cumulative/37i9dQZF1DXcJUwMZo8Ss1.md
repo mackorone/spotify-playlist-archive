@@ -4,7 +4,7 @@
 
 > The hottest tracks in the UAE\. Cover: Tyla
 
-220 songs - 12 hr 19 min
+221 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Exes](https://open.spotify.com/track/2hDjH7ZzGAoe5z9cSBDnBu) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Exes](https://open.spotify.com/album/1XemQjFtuyYlpK4f1hIs3g) | 3:55 | 2025-09-10 | 2025-09-25 |
 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 | 2025-10-13 | 2025-12-09 |
 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 | 2024-10-25 | 2025-05-06 |
+| [FA9LA](https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [فصلة](https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw) | 1:45 | 2025-12-12 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:56 | 2025-01-08 | 2025-05-06 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-10-20 |  |
 | [For A Reason](https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:00 | 2025-09-24 | 2025-11-04 |

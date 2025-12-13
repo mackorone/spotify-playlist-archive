@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 575612,
+  "num_followers": 575697,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACh2FpabTnW8htpTRmcCV5i",
+  "snapshot_id": "aToJgAAAAAAWsUeVBGsXnmqTAciPXRKx",
   "tracks": [
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 259208,
-      "name": "Which Witch",
-      "url": "https://open.spotify.com/track/0vza2CsUtpjydQVV2E4TOm"
+      "duration_ms": 218613,
+      "name": "Girl With One Eye",
+      "url": "https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM"
     },
     {
       "added_at": null,
@@ -400,15 +400,15 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 248422,
-      "name": "Perfume and Milk",
-      "url": "https://open.spotify.com/track/2R0HZcJCaamgHlY5gdNIi7"
+      "duration_ms": 263936,
+      "name": "Witch Dance",
+      "url": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 218613,
-      "name": "Girl With One Eye",
-      "url": "https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM"
+      "duration_ms": 259208,
+      "name": "Which Witch",
+      "url": "https://open.spotify.com/track/0vza2CsUtpjydQVV2E4TOm"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 274853,
+      "name": "No Light, No Light",
+      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EDM Party",
         "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 264574,
       "name": "You Got The Love (Mark Knight Remix) / One",
       "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 274853,
-      "name": "No Light, No Light",
-      "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
     },
     {
       "added_at": null,

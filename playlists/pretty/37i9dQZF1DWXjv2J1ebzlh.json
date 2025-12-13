@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 127431,
+  "num_followers": 127450,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
+      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Alegria, Alegria!!!",
         "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
       },
@@ -663,22 +683,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
         }
       ],
-      "duration_ms": 214933,
-      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
-      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+      "duration_ms": 140426,
+      "name": "Gente Aberta",
+      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -703,22 +719,6 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Gente Aberta",
-      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
+        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
         "url": "https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 340591,
       "name": "Gorof (Elixir)",
       "url": "https://open.spotify.com/track/3ny55ZJcTqFLIcuXPzOpBF"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
-        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 139360,
-      "name": "Figa De Guin\u00e9",
-      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "DEIRA",
         "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 163183,
       "name": "Allah Yihmeeki",
       "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/3EUxtYagZRbXB7is7UjSg7"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Quarteto Em Cy",
-        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Em Cy",
-          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
-        }
-      ],
-      "duration_ms": 161106,
-      "name": "Tudo Que Voce Podia Ser",
-      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 295080,
       "name": "Mujer Divina",
       "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Quarteto Em Cy",
+        "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+        }
+      ],
+      "duration_ms": 161106,
+      "name": "Tudo Que Voce Podia Ser",
+      "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 126500,
-      "name": "Iko Iko",
-      "url": "https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Mandrill Cuts 003",
         "url": "https://open.spotify.com/album/67iRN3rCbkf99MLcgZbInw"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 256359,
       "name": "Rico Coco",
       "url": "https://open.spotify.com/track/2PeL87VR4IqFzr2oyBvNnm"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Iko Iko",
+      "url": "https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Cantiga De Longe",
         "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 170666,
       "name": "Zum-Zum",
       "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2025-03-14 13:51:12",

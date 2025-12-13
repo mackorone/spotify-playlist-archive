@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: Tems",
+  "description": "New music from your favorite women.  Cover: Taner\u00e9lle",
   "name": "Queen",
   "tracks": [
     {
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "A Flex",
+        "url": "https://open.spotify.com/album/61P9h0u3yy6QLm0rzgySkP"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217168,
+      "name": "A Flex",
+      "url": "https://open.spotify.com/track/5ZCHyDAi6AxYFvYAp5DPr9"
+    },
+    {
+      "album": {
         "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
         "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
       },
@@ -164,6 +182,24 @@
       "duration_ms": 280973,
       "name": "A Long Walk",
       "url": "https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL"
+    },
+    {
+      "album": {
+        "name": "DUMBCRAZYSTUPID",
+        "url": "https://open.spotify.com/album/1qkNLazBzKTGxkWC2XsuQ3"
+      },
+      "artists": [
+        {
+          "name": "AKIA",
+          "url": "https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178650,
+      "name": "A Minute",
+      "url": "https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S"
     },
     {
       "album": {
@@ -967,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "The Burnout",
+        "url": "https://open.spotify.com/album/3d1OX2PYnY8npzYm7Y3Rhn"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249462,
+      "name": "Become",
+      "url": "https://open.spotify.com/track/1H3B3MtjUbP5YTt0Jv0BDY"
+    },
+    {
+      "album": {
         "name": "Bed of Roses",
         "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
       },
@@ -1138,6 +1192,24 @@
       "duration_ms": 171782,
       "name": "Blame It On Me",
       "url": "https://open.spotify.com/track/5Cm2KMs2vNukKNVJ1H1Epo"
+    },
+    {
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/55V4fiGjaQdSEshPbZL7Ij"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174740,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6gnBph4YxYhytTAwfZi6TE"
     },
     {
       "album": {
@@ -1798,7 +1870,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 282000,
       "name": "Comeback",
       "url": "https://open.spotify.com/track/1ns5o3vQ9MfB6Q52VZpmz1"
@@ -2358,7 +2430,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 274506,
       "name": "Drown In My Love (with Foggieraw)",
       "url": "https://open.spotify.com/track/5EYCjU03bSkeKxOoypvuD3"
@@ -3351,6 +3423,32 @@
     },
     {
       "album": {
+        "name": "Finally Over It (The Afterparty)",
+        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230646,
+      "name": "Go Girl (with Latto & Doja Cat)",
+      "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/79wXLaskxKX6Nh5rs3yMO9"
       },
@@ -4019,6 +4117,28 @@
     },
     {
       "album": {
+        "name": "I Just Called",
+        "url": "https://open.spotify.com/album/4l0YYtW5kxgILLTUMA3RJ6"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183176,
+      "name": "I Just Called",
+      "url": "https://open.spotify.com/track/1ArttydEA3A8dNa28t0Oj6"
+    },
+    {
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/5COOaPOnTPmAzwrZIqbFoP"
       },
@@ -4404,6 +4524,32 @@
       "duration_ms": 381133,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME"
+    },
+    {
+      "album": {
+        "name": "Is It Alright?",
+        "url": "https://open.spotify.com/album/11yXUNSZaMGeg7HVH4Qfor"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196548,
+      "name": "Is It Alright?",
+      "url": "https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc"
     },
     {
       "album": {
@@ -5123,6 +5269,28 @@
     },
     {
       "album": {
+        "name": "LYIN: Remix Pack",
+        "url": "https://open.spotify.com/album/3IxdYOCNd5sD1PsLzj8us4"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181374,
+      "name": "LYIN (feat. TA Thomas)",
+      "url": "https://open.spotify.com/track/317VQsXiqvzQjUp9DDuIAh"
+    },
+    {
+      "album": {
         "name": "Made For Me",
         "url": "https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv"
       },
@@ -5590,6 +5758,24 @@
       "duration_ms": 264266,
       "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
       "url": "https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS"
+    },
+    {
+      "album": {
+        "name": "Never Been to the Parties",
+        "url": "https://open.spotify.com/album/2L4H4SK26xLW6x7JjG9OjK"
+      },
+      "artists": [
+        {
+          "name": "Tiara Thomas",
+          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291437,
+      "name": "Never Been to the Parties",
+      "url": "https://open.spotify.com/track/2yYj3utfIB8M10IoCwTYuj"
     },
     {
       "album": {
@@ -7176,7 +7362,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 215090,
       "name": "Saddest Song - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5vKw4XkWMAlFXmsXiIZC8d"
@@ -7426,6 +7612,24 @@
       "duration_ms": 98026,
       "name": "Session 32",
       "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
+    },
+    {
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/7xcwQDkqoz5xDpgx5KmMpx"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/65P4otXfzcWfo031JVtwDU"
     },
     {
       "album": {
@@ -8164,6 +8368,24 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+    },
+    {
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "album": {
@@ -9292,6 +9514,24 @@
       "duration_ms": 335310,
       "name": "When I'm in Your Arms",
       "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+    },
+    {
+      "album": {
+        "name": "On the Move",
+        "url": "https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt"
+      },
+      "artists": [
+        {
+          "name": "Binta",
+          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "When The Money Comes",
+      "url": "https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum"
     },
     {
       "album": {

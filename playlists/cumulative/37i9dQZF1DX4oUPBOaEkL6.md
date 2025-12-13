@@ -2,9 +2,9 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Peso Pluma, Tito Double P
+> The hottest Latin hits in the US! Cover: Romeo Santos, Prince Royce
 
-777 songs - 1 day 18 hr 21 min
+778 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 | 2024-03-22 | 2024-07-27 |
 | [Kbron y Medio](https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Kbron y Medio](https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax) | 4:18 | 2024-06-07 | 2024-07-06 |
 | [KELOIDE](https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz) | 2:59 | 2025-06-20 | 2025-10-18 |
-| [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 | 2024-11-22 |  |
+| [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 | 2024-11-22 | 2025-12-13 |
 | [KTM](https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [KTM](https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF) | 6:06 | 2024-04-05 | 2024-05-03 |
 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 | 2023-07-10 | 2023-08-02 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-16 | 2023-04-29 |
@@ -545,6 +545,7 @@
 | [PICASSO](https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:36 | 2025-05-23 | 2025-07-05 |
 | [Pienso En Ella](https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC) | 2:39 | 2024-09-20 | 2024-10-19 |
 | [Pika Pika](https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Pika Pika](https://open.spotify.com/album/6gBAfpYNwF9cuUE5uKqegt) | 2:27 | 2025-03-21 | 2025-04-26 |
+| [Pikito](https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Pikito](https://open.spotify.com/album/5lGdVKuivIsUF4bNSqAUQe) | 3:24 | 2025-12-12 |  |
 | [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 | 2024-12-28 | 2025-01-15 |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-04-12 | 2022-05-26 |
 | [Players \- Tokischa Remix](https://open.spotify.com/track/3CiqiUV5zVJ2f80qHMyAKZ) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Players \(Tokischa Remix\)](https://open.spotify.com/album/0ifEUZF2u0CAeQOtpQIBVx) | 2:24 | 2023-04-03 | 2023-05-27 |

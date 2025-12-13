@@ -1,6 +1,6 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 1048304,
+  "num_followers": 1048378,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAANfq2bxWnYV5OYfmOztIzFHfG+TT",
   "tracks": [
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 215906,
       "name": "Scar Tissue",
       "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Maybe You've Been Brainwashed Too",
-        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
-      },
-      "artists": [
-        {
-          "name": "New Radicals",
-          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 329733,
       "name": "Californication",
       "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Maybe You've Been Brainwashed Too",
+        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
+      },
+      "artists": [
+        {
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -527,6 +527,30 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 301520,
+      "name": "I'll Be Missing You (feat. Faith Evans, 112)",
+      "url": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 226933,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
-        "name": "Bad Boy's 10th Anniversary- The Hits",
-        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        },
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 301520,
-      "name": "I'll Be Missing You (feat. Faith Evans, 112)",
-      "url": "https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
         }
       ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -803,6 +787,22 @@
       "duration_ms": 249520,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 327426,
-      "name": "Just Another Day",
-      "url": "https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 222013,
       "name": "Hand in My Pocket - 2015 Remaster",
       "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 327426,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Marc Cohn",
-        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
-      },
-      "artists": [
-        {
-          "name": "Marc Cohn",
-          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Walking in Memphis",
-      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 249493,
       "name": "You Oughta Know - 2015 Remaster",
       "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Marc Cohn",
+        "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
+      },
+      "artists": [
+        {
+          "name": "Marc Cohn",
+          "url": "https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Walking in Memphis",
+      "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
+        "name": "Supposed Former Infatuation Junkie",
+        "url": "https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Thank U",
+      "url": "https://open.spotify.com/track/3CVDronuSnhguSUguPoseM"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
         "name": "On A Day Like Today",
         "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 204893,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
-        "name": "Supposed Former Infatuation Junkie",
-        "url": "https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Thank U",
-      "url": "https://open.spotify.com/track/3CVDronuSnhguSUguPoseM"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Vagabond Heart (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "Have I Told You Lately - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "Jennifer Paige",
         "url": "https://open.spotify.com/album/4OwmsF9YyOVMrPVbOcZzCz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 200293,
       "name": "Crush",
       "url": "https://open.spotify.com/track/7aOGFnnVDivtRO1PrYhx64"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Vagabond Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "Have I Told You Lately - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
     },
     {
       "added_at": "2024-06-03 14:37:59",

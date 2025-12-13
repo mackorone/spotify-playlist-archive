@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Yami Safdie & Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,348 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,400 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 55 | [solo por hoy](https://open.spotify.com/track/5m8u5YdRWmUQDSnWqLOvWy) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [solo por hoy](https://open.spotify.com/album/2vuts65UMH6sMDCAhGa6eF) | 3:01 |
 | 56 | [Hielo al Vino](https://open.spotify.com/track/6YwNbkObXK6lUcgWis1vhC) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Hielo al Vino](https://open.spotify.com/album/2iSgr6F1bwC1Gjk5a5dmxG) | 2:53 |
 | 57 | [Por Ese Hombre](https://open.spotify.com/track/1stm0GYHeqE0TLREIQ2vtn) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Por Ese Hombre](https://open.spotify.com/album/4h3BqE5RLSLpFHQKNMIfTI) | 4:19 |
-| 58 | [Todo el Día Así](https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo el Día Así](https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR) | 3:35 |
-| 59 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
+| 58 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
+| 59 | [Todo el Día Así](https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo el Día Así](https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR) | 3:35 |
 | 60 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 |
 | 61 | [Trepando Paredes](https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Trepando Paredes](https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC) | 3:53 |
 | 62 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
-| 63 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 |
-| 64 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 |
+| 63 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 |
+| 64 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 |
 | 65 | [Nada es lo Mismo](https://open.spotify.com/track/2JriBiHousQyoPZxUFdjyL) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [Nada es lo Mismo](https://open.spotify.com/album/3C3jbzl4S0gAhKfGTrY3sk) | 3:04 |
 | 66 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 |
 | 67 | [Vas a Quedarte](https://open.spotify.com/track/17iUwHYy0hBp5NihnIZOi8) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Vas a Quedarte](https://open.spotify.com/album/6SN1BOm1W31FvPO9gi9fVw) | 3:19 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 72 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 |
 | 73 | [Desearía](https://open.spotify.com/track/7kWoPjENU4e10m1u0JJNEu) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Desearía](https://open.spotify.com/album/3mlt9U1oPcQiMWfG0iFngf) | 3:21 |
 | 74 | [Es ahora](https://open.spotify.com/track/1MWDhdadRnIK7APAKV0PfG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Es ahora](https://open.spotify.com/album/7KS2HnDSQ2O9pAyoSBEMwF) | 3:26 |
-| 75 | [Te Sigo Amando](https://open.spotify.com/track/56cW4aGMUfORDPGZ1ULknD) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Te Sigo Amando](https://open.spotify.com/album/36SZ9ohqiisWRZJrmqsZiE) | 3:12 |
-| 76 | [Las Leyes de La Vida](https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Las Leyes de La Vida](https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz) | 3:19 |
+| 75 | [Las Leyes de La Vida](https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Las Leyes de La Vida](https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz) | 3:19 |
+| 76 | [Te Sigo Amando](https://open.spotify.com/track/56cW4aGMUfORDPGZ1ULknD) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Te Sigo Amando](https://open.spotify.com/album/36SZ9ohqiisWRZJrmqsZiE) | 3:12 |
 | 77 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 |
 | 78 | [Detox](https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk) | 2:47 |
 | 79 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
 | 85 | [La Cobra](https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [La Cobra](https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP) | 3:08 |
 
-Snapshot ID: `AAAAAO8pKbiW0q2yDsDUFn+pY1N3uCgo`
+Snapshot ID: `AAAAAA9aT/xy4oLtW2XnDDyKIGl2+ama`

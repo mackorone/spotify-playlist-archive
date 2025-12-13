@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Menampilkan artis RADAR Indonesia 2025 teratas, Rony Parulian dan lagu\-lagu pilihan editor\.  Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,112 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,115 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 49 | [Lamunan Di Kota Itu II](https://open.spotify.com/track/2mWNTjU0DCB0QNHEkucRXF) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Lamunan Di Kota Itu II](https://open.spotify.com/album/2NE5OIGmKMF12hyBs5TUtA) | 4:08 |
 | 50 | [Menunggu Giliran](https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Sebelum Merayakan](https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si) | 3:38 |
 
-Snapshot ID: `AAAAAE65vNZp+1KFHibpMXPoG6nYBWUr`
+Snapshot ID: `AAAAAE0WsrSZUy14dBJiMpXswRrRaSVe`

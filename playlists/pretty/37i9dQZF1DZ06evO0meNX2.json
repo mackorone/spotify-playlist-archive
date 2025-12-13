@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 41671,
+  "num_followers": 41700,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADBrs0QxRXq062Jmy2oU7IE",
+  "snapshot_id": "aToJgAAAAAAR0PW7SuWBofPwtLrcDtVz",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dejame Dormir",
         "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 160500,
       "name": "Dejame Dormir",
       "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 223743,
-      "name": "Habemus Conciliaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -447,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Habemus Conciliaci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 223743,
+      "name": "Habemus Conciliaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -463,26 +463,6 @@
       "duration_ms": 178500,
       "name": "Mexican Flan",
       "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Norte a Sur",
-        "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 213926,
-      "name": "Tal Vez Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
     },
     {
       "added_at": null,
@@ -527,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Norte a Sur",
+        "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 213926,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 210968,
-      "name": "Si Yo Me Activo",
-      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 184789,
       "name": "AMOR PRISIONERO - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/0r9D3PXAe3Fpa22nWDEDU2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 210968,
+      "name": "Si Yo Me Activo",
+      "url": "https://open.spotify.com/track/20ujrHb2a79uFDJnmET4Rf"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 188655,
-      "name": "Blindado El Carro",
-      "url": "https://open.spotify.com/track/7DCqwMSct0rBmgG0v0FxNi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 191652,
       "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 188655,
+      "name": "Blindado El Carro",
+      "url": "https://open.spotify.com/track/7DCqwMSct0rBmgG0v0FxNi"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Hermanos",
+        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Los Hermanos",
+      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 246671,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/0TQjuQbF9O7wEZucVz4OT4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Hermanos",
-        "url": "https://open.spotify.com/album/4PuGOf57G5baJToJqDNSGS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Los Hermanos",
-      "url": "https://open.spotify.com/track/69IpqQ12TwdrzxA5jfUfpN"
     },
     {
       "added_at": null,

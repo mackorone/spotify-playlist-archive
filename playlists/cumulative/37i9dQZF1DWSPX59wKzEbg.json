@@ -935,6 +935,32 @@
     },
     {
       "album": {
+        "name": "The Blessing (Fireside Version)",
+        "url": "https://open.spotify.com/album/1QNPm4HAqTEtRpDbLN2ogp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320800,
+      "name": "The Blessing - Fireside Version",
+      "url": "https://open.spotify.com/track/7hwCpWhSKK6jwGdigoETuq"
+    },
+    {
+      "album": {
         "name": "Together At Christmas",
         "url": "https://open.spotify.com/album/1iVkt1eJVa6QnMVvVgn6al"
       },

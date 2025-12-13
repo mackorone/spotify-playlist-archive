@@ -4,7 +4,7 @@
 
 > De nieuwste releases Hollands & Volks\. Cover: Donnie, Sven Versteeg & LA$$A
 
-503 songs - 1 day 0 hr 21 min
+503 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Dit Is Jouw Dag](https://open.spotify.com/track/36LU5dMiHurVZwy8coXhoW) | [Arie Roubos](https://open.spotify.com/artist/5BtVr5MfZzGD0bIjNf4iXH) | [Dit Is Jouw Dag](https://open.spotify.com/album/4kAH8P3guM58dkLriEWQIV) | 3:10 | 2024-10-24 | 2025-01-07 |
 | [Dit Is Zo'n Dag](https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Dit Is Zo'n Dag](https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H) | 3:27 | 2025-04-11 | 2025-05-23 |
 | [Dit Rondje Is Van MIj](https://open.spotify.com/track/26AcURrM4jiWKsxunobOzG) | [Nick Koot](https://open.spotify.com/artist/37vpvndonxiNL37ndjI362) | [Dit Rondje Is Van Mij](https://open.spotify.com/album/0lU0J3oUE1aJbC9DigSxmW) | 2:42 | 2024-11-21 | 2025-03-14 |
+| [Doe Er Nog Maar Een Jaartje Bij](https://open.spotify.com/track/2JqytFQ2dvYvtQpw16vFuR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Nog Een Jaar Erbij](https://open.spotify.com/album/7KiNXWi7ZfVlnwKnG1FNpe) | 2:37 | 2025-12-11 |  |
 | [Doe Je Dansie](https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Doe Je Dansie](https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv) | 2:28 | 2025-04-17 | 2025-07-11 |
 | [Doe mij 'n rondje](https://open.spotify.com/track/36mfPdmT0HORyDrswBxDBQ) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Doe mij 'n rondje](https://open.spotify.com/album/2ZUSyVIh6uJPzfXkw25fLq) | 3:12 | 2024-06-13 | 2024-09-20 |
 | [Doei Doei Doei \- Radio Edit](https://open.spotify.com/track/1nKXc9iMEu550RRcl6CQaF) | [Sidney Jr](https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6) | [Doei Doei Doei \(Radio Edit\)](https://open.spotify.com/album/72uIicpCeRTsa5ek46Q5qd) | 2:48 | 2025-11-27 |  |
@@ -413,7 +414,6 @@
 | [Tot Aan De Morgen](https://open.spotify.com/track/38DKhsqtqPXgUTBKN65wTy) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Tot Aan De Morgen](https://open.spotify.com/album/1GyGAa4Pdhvyqs3tCnTENG) | 3:05 | 2024-06-13 | 2024-08-30 |
 | [Tot De Laatste Ronde](https://open.spotify.com/track/6WTsfNG6b9aesrGIhPdzXE) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Tot De Laatste Ronde](https://open.spotify.com/album/6TjRT3535sMujdTlci1iBy) | 2:51 | 2025-04-17 | 2025-08-08 |
 | [Tot In De Late Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [Wendy](https://open.spotify.com/artist/60MqrvbaYDybtfVD9J0HrR) | [Tot In De Late Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 | 2024-11-28 | 2025-02-28 |
-| [Track 4](https://open.spotify.com/track/2JqytFQ2dvYvtQpw16vFuR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
 | [Tranen van verdriet](https://open.spotify.com/track/4VDpZbdDERhCB5BbKWIsQe) | [Aukje Fijn](https://open.spotify.com/artist/24F7Q3t78T3UiunGmInQzG) | [Tranen van verdriet](https://open.spotify.com/album/4vnWiavaa1s7dfSfpjlCDq) | 3:12 | 2024-10-18 | 2024-11-29 |
 | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/album/0sTVCFY1xkJQNxNwzQ57GI) | 2:59 | 2024-06-13 | 2024-10-04 |
 | [Tranquilo](https://open.spotify.com/track/2MdohxuwIfNPtEdknrsv7z) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tranquilo](https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA) | 3:20 | 2025-06-05 | 2025-09-19 |

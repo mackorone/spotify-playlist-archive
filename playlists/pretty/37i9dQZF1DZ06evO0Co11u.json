@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 196131,
+  "num_followers": 196145,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAFxCFdyf0CmjsjcTdcaIUr",
+  "snapshot_id": "aToJgAAAAABil+aPiy3rZnoNYXSUGvOk",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/63qs0QjDLhV22OMdAxGaMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cheek To Cheek: The Complete Duet Recordings",
         "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 191053,
       "name": "Oops!",
       "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/63qs0QjDLhV22OMdAxGaMQ"
     },
     {
       "added_at": null,
@@ -331,62 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Let's Call The Whole Thing Off",
-      "url": "https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
-        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Thanks A Million - Single Version",
-      "url": "https://open.spotify.com/track/5YC4L8ovbwq4iwzk3Ng0hm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ella and Louis",
-        "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -420,25 +364,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 456493,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/5s9tKuZkMiDxY1b6WIzHtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Decca Singles 1935-1946",
-        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/3uhUzRxAWZpUWHGk8WiGq7"
+      "duration_ms": 251600,
+      "name": "Let's Call The Whole Thing Off",
+      "url": "https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh"
     },
     {
       "added_at": null,
@@ -456,9 +384,25 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 272773,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/5ElC7ec3IK5ONLImpQg6vz"
+      "duration_ms": 214226,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
+        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Thanks A Million - Single Version",
+      "url": "https://open.spotify.com/track/5YC4L8ovbwq4iwzk3Ng0hm"
     },
     {
       "added_at": null,
@@ -483,8 +427,48 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satch Plays Fats",
-        "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 456493,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/5s9tKuZkMiDxY1b6WIzHtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ella and Louis",
+        "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 272773,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/5ElC7ec3IK5ONLImpQg6vz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Decca Singles 1935-1946",
+        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 319293,
-      "name": "All That Meat And No Potatoes",
-      "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
+      "duration_ms": 178560,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/3uhUzRxAWZpUWHGk8WiGq7"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
       "duration_ms": 191360,
       "name": "Can Anyone Explain?",
       "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satch Plays Fats",
+        "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "All That Meat And No Potatoes",
+      "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+        "name": "Satchmo In Style (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Gordon Jenkins And Orchestra",
+          "url": "https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK"
         }
       ],
-      "duration_ms": 221173,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
+      "duration_ms": 194160,
+      "name": "When It's Sleepy Time Down South",
+      "url": "https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3"
     },
     {
       "added_at": null,
@@ -767,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Columbia & RCA Victor Live Recordings Vol. 3",
-        "url": "https://open.spotify.com/album/6caWTu3uR6ykaFv1asaqwG"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
@@ -776,9 +780,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Tenderly / You'll Never Walk Alone - Live at Newport Jazz Festival 1958",
-      "url": "https://open.spotify.com/track/6KUJBNvzTWLf6PBKkYze8P"
+      "duration_ms": 221173,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
     },
     {
       "added_at": null,
@@ -803,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Columbia & RCA Victor Live Recordings Vol. 3",
+        "url": "https://open.spotify.com/album/6caWTu3uR6ykaFv1asaqwG"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Tenderly / You'll Never Walk Alone - Live at Newport Jazz Festival 1958",
+      "url": "https://open.spotify.com/track/6KUJBNvzTWLf6PBKkYze8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -815,6 +835,22 @@
       "duration_ms": 119026,
       "name": "Give Me Your Kisses",
       "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Kiss Of Fire",
+      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
     },
     {
       "added_at": null,
@@ -835,22 +871,6 @@
       "duration_ms": 190976,
       "name": "The Frim Fram Sauce",
       "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Kiss Of Fire",
-      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
     },
     {
       "added_at": null,
@@ -887,22 +907,6 @@
       "duration_ms": 240040,
       "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volume 2: Heart Full Of Rhythm (1936-38)",
-        "url": "https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "The Skeleton In The Closet - Single Version",
-      "url": "https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

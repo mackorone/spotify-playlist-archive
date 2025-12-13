@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,329 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,387 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 10 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 |
 | 11 | [All Blues \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 11:32 |
 | 12 | [Louise](https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 6:47 |
-| 13 | [There Will Never Be Another You](https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1) | 3:28 |
-| 14 | [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 |
+| 13 | [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 |
+| 14 | [There Will Never Be Another You](https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1) | 3:28 |
 | 15 | [Take Five](https://open.spotify.com/track/09hcbtRcZV5CeeygqQiM5f) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 5:24 |
 | 16 | [Bye Bye Blackbird \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:54 |
 | 17 | [Too Close For Comfort](https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:52 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1138091,
+  "num_followers": 1138350,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAlDbOpzfGLYiq23XjQY8V1",
+  "snapshot_id": "aToJgAAAAAAWk6GUDf4ALuaHcPFQVmeU",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Peacekeeper",
-      "url": "https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (2015 Remaster)",
         "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 190106,
-      "name": "Albatross",
-      "url": "https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP"
+      "duration_ms": 250760,
+      "name": "Peacekeeper",
+      "url": "https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G"
     },
     {
       "added_at": null,
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 167840,
-      "name": "Monday Morning",
-      "url": "https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q"
+      "duration_ms": 190106,
+      "name": "Albatross",
+      "url": "https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 280933,
       "name": "No Questions Asked",
       "url": "https://open.spotify.com/track/356134ums8iF3GNIrheeYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Monday Morning",
+      "url": "https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "I'm so Afraid",
-      "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 283013,
       "name": "Sisters of the Moon - 2015 Remaster",
       "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "I'm so Afraid",
+      "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac's Greatest Hits",
-        "url": "https://open.spotify.com/album/4eBD6gIQk7KA2GTG5HzXes"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Need Your Love So Bad",
-      "url": "https://open.spotify.com/track/6J1NKcC7xlbz5yrATZZ1X0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 202400,
       "name": "Oh Well, Pt. 1 - 2013 Remaster",
       "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fleetwood Mac's Greatest Hits",
+        "url": "https://open.spotify.com/album/4eBD6gIQk7KA2GTG5HzXes"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Need Your Love So Bad",
+      "url": "https://open.spotify.com/track/6J1NKcC7xlbz5yrATZZ1X0"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Think About Me - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (2015 Remaster)",
         "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 274666,
       "name": "Over & Over - 2015 Remaster",
       "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Think About Me - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
     },
     {
       "added_at": null,

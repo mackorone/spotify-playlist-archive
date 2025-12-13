@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 
 > Crisp and refreshing
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,927 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,887 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 | 79 | [Loving You Is Easy](https://open.spotify.com/track/58KeGsuLVCSQ0Q72HFQENb) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Loving You Is Easy](https://open.spotify.com/album/2JCp1kF49ufLVygJ8ddaGw) | 3:22 |
 | 80 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
 
-Snapshot ID: `AAAAAKU+P72UiUcu4nS/N+XeogIU4q0C`
+Snapshot ID: `AAAAAApBpxJ+Cayw9kSziUynotwR/hjG`

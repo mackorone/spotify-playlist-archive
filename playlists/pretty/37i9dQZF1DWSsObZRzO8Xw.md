@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: LITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,246 likes - 130 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,331 likes - 130 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 63 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 |
 | 64 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 |
 | 65 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 |
-| 66 | [Jap'n Cazz](https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Stegosauro](https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N) | 3:25 |
-| 67 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
+| 66 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
+| 67 | [Jap'n Cazz](https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Stegosauro](https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N) | 3:25 |
 | 68 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 |
 | 69 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
 | 70 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 92 | [Gagarin](https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Gagarin](https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t) | 3:08 |
 | 93 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
 | 94 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
-| 95 | [100% Tree](https://open.spotify.com/track/194os0dWNuK2aZIgkJYMKE) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [Old Material, Larger](https://open.spotify.com/album/43WwZF6LGnqP9Pzl2Z7e8p) | 4:18 |
-| 96 | [You can go again](https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs) | [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Celebrities](https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt) | 4:07 |
-| 97 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
+| 95 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
+| 96 | [100% Tree](https://open.spotify.com/track/194os0dWNuK2aZIgkJYMKE) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [Old Material, Larger](https://open.spotify.com/album/43WwZF6LGnqP9Pzl2Z7e8p) | 4:18 |
+| 97 | [You can go again](https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs) | [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Celebrities](https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt) | 4:07 |
 | 98 | [Aquabus](https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od) | [Shaolin](https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E) | [Psych!](https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD) | 4:36 |
 | 99 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
 | 100 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 |

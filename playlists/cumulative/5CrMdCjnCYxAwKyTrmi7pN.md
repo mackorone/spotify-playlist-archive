@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-238 songs - 12 hr 57 min
+239 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [CANCELLED!](https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:31 | 2025-10-03 | 2025-11-08 |
 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-09-22 |  |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-07-17 |  |
-| [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 3:07 | 2025-10-10 |  |
+| [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 3:07 | 2025-10-10 | 2025-12-13 |
 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 | 2025-07-17 | 2025-09-23 |
 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 | 2025-10-20 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2025-07-17 | 2025-09-23 |
@@ -66,7 +66,7 @@
 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 | 2025-08-22 | 2025-09-23 |
 | [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 | 2025-12-08 |  |
 | [Firestone](https://open.spotify.com/track/698sDDemmuKfYlRTzE1isu) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Firestone](https://open.spotify.com/album/4TaWdHYdwbHPb7kaHK8zjL) | 3:03 | 2025-10-24 |  |
-| [First Original Thought](https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [First Original Thought](https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD) | 2:50 | 2025-09-26 |  |
+| [First Original Thought](https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [First Original Thought](https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD) | 2:50 | 2025-09-26 | 2025-12-13 |
 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 | 2025-11-17 |  |
 | [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 | 2025-08-22 | 2025-09-23 |
 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 | 2025-09-05 | 2025-09-23 |
@@ -156,6 +156,7 @@
 | [Pray](https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pray](https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL) | 2:58 | 2025-09-22 | 2025-10-18 |
 | [PRETTY GIRLS](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PRETTY GIRLS](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2025-07-17 | 2025-09-23 |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-07-17 | 2025-09-23 |
+| [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 | 2025-12-12 |  |
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-07-17 | 2025-08-06 |
 | [Returning To Myself](https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl) | 4:17 | 2025-09-22 | 2025-10-11 |
 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 | 2025-07-17 | 2025-10-18 |
@@ -207,7 +208,7 @@
 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-05 |  |
 | [Think Of Me](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Think Of Me](https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH) | 2:50 | 2025-07-17 | 2025-09-23 |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-09-22 | 2025-10-18 |
-| [This Isn’t Really Love](https://open.spotify.com/track/4Sz0Goi1fCmR2EKekNNNWu) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/40PHB87OjY3asWgjaA3KOo) | 3:24 | 2025-09-22 |  |
+| [This Isn’t Really Love](https://open.spotify.com/track/4Sz0Goi1fCmR2EKekNNNWu) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/40PHB87OjY3asWgjaA3KOo) | 3:24 | 2025-09-22 | 2025-12-13 |
 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 | 2025-10-10 |  |
 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 | 2025-10-10 |  |
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-07-18 | 2025-09-23 |

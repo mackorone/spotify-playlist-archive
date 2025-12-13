@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACyQWPUggDxG8i701Lfju0c",
+  "snapshot_id": "aToJgAAAAABT6VyIGm9GfM3SMFtw+Kjg",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 220636,
-      "name": "Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/1Tip6R4swhC7E6hgILBjrE"
+      "duration_ms": 250026,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/0lqNtjLgTJYScspOhJXxtx"
     },
     {
       "added_at": null,
@@ -99,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
       "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 250026,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/0lqNtjLgTJYScspOhJXxtx"
+      "duration_ms": 220636,
+      "name": "Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/1Tip6R4swhC7E6hgILBjrE"
     },
     {
       "added_at": null,

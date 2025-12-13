@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Editors pick the best songs from RADAR India in 2025\. Cover: W.i.S.H.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,107 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,120 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 49 | [Rok Na Paaya](https://open.spotify.com/track/35us9EhnZDfwGzgFnCAcBN) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Rok Na Payaa](https://open.spotify.com/album/4QE0cSTLMwgmQ7golxYdr9) | 3:48 |
 | 50 | [Nothing New](https://open.spotify.com/track/3i2RC3aBP8vYqgMrx2jZli) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [Epilogue One](https://open.spotify.com/album/2KvQJaq8CeVuTGLVIp1Frf) | 3:27 |
 
-Snapshot ID: `AAAAAIu0UZ19bZ3eGQNh/MdmiFLc51jl`
+Snapshot ID: `AAAAAPPikg9YLc8IMf0EFkK4AfeG25Xq`

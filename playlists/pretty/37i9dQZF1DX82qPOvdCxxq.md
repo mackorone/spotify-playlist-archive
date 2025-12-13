@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best faith\-based songs from new, independent artists in 2025, as chosen by our editors\. Cover: CéJae
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,989 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,027 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [Ruins](https://open.spotify.com/track/73FGCsBmHKattyXGwyCRX7) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs), [Graham Bright](https://open.spotify.com/artist/4ge64s0YP6PtLqOduvpYeg) | [Born Again, Again](https://open.spotify.com/album/1AIxf3iOrqaaDAqYZKyoCE) | 2:16 |
 | 100 | [Heaven](https://open.spotify.com/track/1PG8TMpkyzUXUSkMLqZ9To) | [Noah Baker](https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx) | [The Art of Losing It All](https://open.spotify.com/album/5DCQNWSvTIqn64zCpCGqw6) | 2:57 |
 
-Snapshot ID: `AAAAABPRRfkp5lbuvmx6YoZf7dVSKo2J`
+Snapshot ID: `AAAAAKlZgd3XXW+3Z+OR4CF/aLo6yQmW`

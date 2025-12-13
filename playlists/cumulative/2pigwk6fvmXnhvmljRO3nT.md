@@ -4,13 +4,14 @@
 
 > 
 
-8,217 songs - 20 day 21 hr 7 min
+8,218 songs - 20 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 0:00 | 2025-01-15 |  |
 | [](https://open.spotify.com/track/31JkYiqLugKOXh8wVrnGl8) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4xzLOVZQImmN2lhj5pmFrA) | 0:00 | 2025-07-27 |  |
 | [](https://open.spotify.com/track/697zIbTO0LMhupzGblYREm) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K) | 0:00 | 2024-12-05 |  |
+| ["Heroes" \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 | 2024-12-16 |  |
 | [\#longlivesteelo](https://open.spotify.com/track/2CNRu6NMtlCTNlrZ1NL6Hz) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [T'nah Apex](https://open.spotify.com/artist/5Y0eBjypjKL7Ahms0NaXVp) | [Summer Knights](https://open.spotify.com/album/16KdSB0v7RqYwRjylZCpfn) | 2:51 | 2025-01-03 |  |
 | [\#PROUDCATOWNERREMIX](https://open.spotify.com/track/7lNNRVIMZZ4dNSgwT28aWK) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 2:37 | 2025-01-15 |  |
 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 | 2025-01-15 |  |
@@ -2657,7 +2658,6 @@
 | [Hereditary](https://open.spotify.com/track/0fK60qLRIpyT05TXzoSBY0) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:03 | 2025-01-03 |  |
 | [HERMANOS](https://open.spotify.com/track/4BFteJu5Hv7XStDXghJbQ7) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/2vMpqIUldNe7m83WAUqIdC) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 4:25 | 2025-01-03 |  |
 | [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 | 2025-03-17 |  |
-| [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 | 2024-12-16 |  |
 | [Hey Ho](https://open.spotify.com/track/0i1x6mPiJrJ2pLlE9s94L0) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Lip](https://open.spotify.com/album/4URnSuDHWlAMwRc2oBTzYC) | 5:02 | 2025-05-17 |  |
 | [Hey Jane](https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:00 | 2025-01-15 |  |
 | [Hey Mama](https://open.spotify.com/track/46OFHBw45fNi7QNjSetITR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 5:05 | 2025-01-03 |  |
@@ -4478,6 +4478,7 @@
 | [Objects in the Mirror](https://open.spotify.com/track/64gyqTtDDel7B2NoEkOa0A) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off \(Deluxe Edition\)](https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN) | 4:19 | 2025-01-04 |  |
 | [Obstacles](https://open.spotify.com/track/2ynCjjrmED5CfiVn2ZLkUk) | [Syd Matters](https://open.spotify.com/artist/4kDmwaDsfY9hcvz7K0otLJ) | [Someday We Will Foresee Obstacles](https://open.spotify.com/album/3T5qThuaH5w6bDNCxZxv0X) | 3:28 | 2025-01-15 |  |
 | [Ocean Drive](https://open.spotify.com/track/1UyLFPOIG7E1OfamPQLOfD) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 3:47 | 2024-12-05 |  |
+| [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 | 2025-12-12 |  |
 | [Ocho Rios](https://open.spotify.com/track/5XUuMp2i5ojqcDOSusChqL) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:33 | 2024-12-14 |  |
 | [OD](https://open.spotify.com/track/7fheaybAcABeiuYU6VgDrQ) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 4:45 | 2025-01-15 |  |
 | [ODD FUTURE](https://open.spotify.com/track/7CFwSQV0rl9oGcvOfEDJCa) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/3gwSXVXDe4ZWk6pMZFWuIw) | 3:46 | 2025-01-15 |  |

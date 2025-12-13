@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Every family has its demons\. Curated by Lee Daniels, Cover: The Deliverance
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,746 likes - 38 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,750 likes - 38 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

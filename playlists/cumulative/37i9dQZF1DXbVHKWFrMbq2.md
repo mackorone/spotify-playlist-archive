@@ -4,7 +4,7 @@
 
 > canciones para chillear con Rigoberta Bandini & Zoe Gotusso
 
-183 songs - 9 hr 57 min
+185 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [De cabeza a pies](https://open.spotify.com/track/1CQ5RmaOyNaEpSm1zJDkZz) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [De cabeza a pies](https://open.spotify.com/album/6kxifQONbXoeQJDXQT8eqy) | 2:23 | 2023-10-26 | 2023-11-18 |
 | [Delfines](https://open.spotify.com/track/5LqVs6hiodD5YXRGV5rNzc) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Delfines](https://open.spotify.com/album/2wBW2z26H62mqXz6CA5eJL) | 4:38 | 2023-12-11 | 2024-01-26 |
 | [DESAFIANDO EL DESTINO](https://open.spotify.com/track/4rBQxFVwTnf99p818azSon) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:12 | 2023-10-17 |  |
-| [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 | 2025-05-16 |  |
+| [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 | 2025-05-16 | 2025-12-13 |
 | [Desenamórame](https://open.spotify.com/track/5ciqgtjBFAdTwbJJtMLjic) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Desenamórame](https://open.spotify.com/album/21B6mm6hnmEO3lassKflCw) | 3:16 | 2024-04-26 | 2024-05-25 |
 | [Deseo](https://open.spotify.com/track/3NeG4L63NUnmhdoUQygd2W) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [INEFABLE](https://open.spotify.com/album/3HJxFyRPL2rUb0wIE6KHlw) | 3:33 | 2025-06-20 | 2025-11-21 |
 | [Devuélvemela](https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Querida Yo](https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4) | 2:28 | 2025-11-28 |  |
@@ -97,6 +97,7 @@
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-10-17 |  |
 | [Live Sessions Vol\. 1 \- Ya Me Habré Ido](https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Live Sessions Vol\. 1 \- Ya Me Habré Ido](https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0) | 3:03 | 2024-03-01 | 2024-03-30 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2023-10-17 | 2024-03-30 |
+| [Loquero Viejo](https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Loquero Viejo](https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh) | 3:31 | 2025-12-12 |  |
 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2024-01-25 |  |
 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-10-17 |  |
 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 | 2024-04-05 |  |
@@ -114,8 +115,9 @@
 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 | 2024-04-12 | 2025-01-30 |
 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2023-10-17 |  |
 | [mitad](https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [mitad](https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp) | 2:52 | 2024-03-08 | 2024-03-30 |
-| [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2023-10-17 |  |
+| [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2023-10-17 | 2025-12-13 |
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-08 | 2025-04-25 |
+| [No es amor \- Reversión](https://open.spotify.com/track/3Rkcf3NJp5xmimazGcdtEi) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Fuimos los dos \(Reversiones\)](https://open.spotify.com/album/764PHfXbGVxwV3WK85DrNb) | 2:56 | 2025-12-12 |  |
 | [No hay nadie como tú](https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [No hay nadie como tú](https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF) | 3:05 | 2024-04-26 | 2024-05-25 |
 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 | 2024-08-29 | 2024-09-20 |
 | [no me dejes ir](https://open.spotify.com/track/7DSmAiyl2mJU5LAUggNhVB) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [no me dejes ir](https://open.spotify.com/album/69ZQKycDrLE7bxQvItohZO) | 2:52 | 2024-04-26 | 2024-05-25 |

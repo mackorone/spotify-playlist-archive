@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today featuring music from Courtney Marie Andrews
 
-797 songs - 2 day 1 hr 0 min
+799 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-02-14 | 2025-08-16 |
 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 | 2024-04-26 | 2025-02-15 |
 | [heaven from here \(with Penny and Sparrow\)](https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:03 | 2021-12-10 | 2022-01-22 |
+| [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 | 2025-12-12 |  |
 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 | 2025-04-04 |  |
 | [Help Me Remember](https://open.spotify.com/track/0u0MIKwM1AfCU8UAjnJ6aH) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Help Me Remember](https://open.spotify.com/album/70X4wmZSGoVBIxuFGfd7y4) | 4:55 | 2021-12-10 | 2022-06-04 |
 | [Hey Honey](https://open.spotify.com/track/3b6wfWCEwHRRhtop1sWcci) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Hey Honey](https://open.spotify.com/album/4lXLBLgRaNcTKr62Zt67UZ) | 3:41 | 2023-05-19 | 2024-03-02 |
@@ -503,6 +504,7 @@
 | [Nothing You Can Take From Me \(Boot\-Stompin' Version\) \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:13 | 2023-12-01 | 2024-02-17 |
 | [Now You Know](https://open.spotify.com/track/7bmitV7MwnQeTSkv9nhFli) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:14 | 2022-01-28 | 2022-03-12 |
 | [Nu\-Grape](https://open.spotify.com/track/2lHavDhFoVwqspUakBUCZe) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Jump for Joy](https://open.spotify.com/album/7lYiPw3WutdJKdKdpPFD1s) | 3:28 | 2023-09-01 | 2024-06-08 |
+| [Old Fort Steel Trail](https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Old Fort Steel Trail](https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a) | 2:29 | 2025-12-12 |  |
 | [Old Gods](https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Old Gods](https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk) | 3:46 | 2021-12-10 | 2022-04-23 |
 | [Older](https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:21 | 2024-05-31 | 2025-02-22 |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-16 | 2024-03-16 |

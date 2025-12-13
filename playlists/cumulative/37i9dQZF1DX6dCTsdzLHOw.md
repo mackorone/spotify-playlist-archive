@@ -4,7 +4,7 @@
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-77 songs - 4 hr 51 min
+78 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Every 27 Years](https://open.spotify.com/track/2oZBR0rdkFfgkyQ4lVShfd) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [IT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF) | 2:36 | 2024-03-26 |  |
 | [Freddy's Coming for You](https://open.spotify.com/track/0o1SKUvwGAFZ3km9ZMDXoT) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street: Original Motion Picture Score](https://open.spotify.com/album/0btrQddJBGxVVJXJCkv7Sm) | 4:28 | 2021-12-15 |  |
 | [Freddy's Coming For You](https://open.spotify.com/track/5jYaqMXbUXyUk9VQgOWR4K) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street \(Original Motion Picture Score\)](https://open.spotify.com/album/2zlfecPiJHlK9pBWOQNQVf) | 4:28 | 2021-12-15 | 2024-04-19 |
+| [Ghostbusters \- Piano & Strings Version](https://open.spotify.com/track/3beAE0QZgk8GIKy3epPfAS) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Ghostbusters \(Piano & Strings Version\)](https://open.spotify.com/album/0ngJtCl8z5tWE1ieojp3Tf) | 2:03 | 2025-12-12 |  |
 | [Grünewald](https://open.spotify.com/track/3fNqTSlT3TqSdZOdP4ARkO) | [Robin Carolan](https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn) | [Nosferatu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x) | 1:03 | 2024-11-26 |  |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2021-12-15 |  |
 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 | 2024-03-26 |  |

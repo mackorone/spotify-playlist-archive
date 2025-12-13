@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 30831,
+  "num_followers": 30836,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAN7Z7I+5LPAlAU1YKqzheN",
+  "snapshot_id": "aToJgAAAAADKYAAZBGXvoVAYzan+tIqR",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 163026,
-      "name": "How Many More Years",
-      "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+      "duration_ms": 163026,
+      "name": "How Many More Years",
+      "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
     },
     {
       "added_at": null,
@@ -388,6 +388,10 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
         },
@@ -396,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 175413,
-      "name": "Worried About My Baby",
-      "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
+      "duration_ms": 182276,
+      "name": "What A Woman",
+      "url": "https://open.spotify.com/track/0RA2ZUg2D4zakY3QE2fEUH"
     },
     {
       "added_at": null,
@@ -464,10 +468,6 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        },
-        {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
         },
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
-      "duration_ms": 182276,
-      "name": "What A Woman",
-      "url": "https://open.spotify.com/track/0RA2ZUg2D4zakY3QE2fEUH"
+      "duration_ms": 175413,
+      "name": "Worried About My Baby",
+      "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
     },
     {
       "added_at": null,

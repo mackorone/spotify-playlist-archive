@@ -4,7 +4,7 @@
 
 > Home to the greatest Pakistani hits 🎶 Cover: Asim Azhar
 
-268 songs - 18 hr 8 min
+269 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [OBVIOUS \(feat\. Hasan Raheem\)](https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:15 | 2024-12-28 |  |
 | [Oh Sahib \- Original Sountrack Of Abdullahpur Ka Devdas](https://open.spotify.com/track/6I8ImLg9xfoVRNmcV83mL6) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Oh Sahib \(Original Sountrack Of Abdullahpur Ka Devdas\)](https://open.spotify.com/album/29hYmprNyxMkCWXFDg15b7) | 3:14 | 2025-10-15 | 2025-12-03 |
 | [Over You](https://open.spotify.com/track/4owVDjd6lmgM1cV1E4Ic9v) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Over You](https://open.spotify.com/album/700ZlmqtXodluz8SUkpopv) | 2:57 | 2025-02-11 | 2025-03-29 |
+| [Paint](https://open.spotify.com/track/6iDZIZAMcX47BtsPXTW6d4) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [You paint me again “PURPLE”](https://open.spotify.com/album/0KUWZOvXO6Uvsih3zDpwYa) | 2:50 | 2025-12-12 |  |
 | [Pal Pal](https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal](https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS) | 2:27 | 2025-02-26 |  |
 | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/album/47HV1rQNbrAPcv15zgbTHy) | 3:28 | 2025-04-11 |  |
 | [Par Chanaa De](https://open.spotify.com/track/2y7fdOLYBFFbuuMs96KndV) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:06 | 2025-09-04 | 2025-10-14 |

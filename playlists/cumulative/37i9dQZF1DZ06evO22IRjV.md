@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 49 min
+121 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [CHEMY×STORY \- 『仮面ライダーガッチャード』主題歌](https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [CHEMY×STORY （『仮面ライダーガッチャード』主題歌）](https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh) | 3:06 | 2024-02-16 |  |
 | [CLOSER](https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 3:27 | 2025-08-25 |  |
 | [CLOSER](https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [CLOSER](https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb) | 3:29 | 2023-06-29 | 2025-07-20 |
-| [COLORS](https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:38 | 2022-06-09 |  |
+| [COLORS](https://open.spotify.com/track/6GbgS99JyMq7NMzvQNzD3U) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 3:38 | 2025-12-13 |  |
+| [COLORS](https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:38 | 2022-06-09 | 2025-12-13 |
 | [COLORS \-CODE GEASS OPENING MIX\-](https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [COLORS](https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB) | 1:33 | 2022-06-09 |  |
 | [COLORS \-New Mix\-](https://open.spotify.com/track/2yId85aVejyO6B22sjQSYj) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE \(Complete Edition\)](https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q) | 3:40 | 2022-06-09 | 2025-09-23 |
 | [Dark Shadow](https://open.spotify.com/track/1XB1YzhlrsNL7DFxLlFPYV) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 3:40 | 2022-07-19 | 2022-07-21 |

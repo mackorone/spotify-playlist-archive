@@ -4,7 +4,7 @@
 
 > Les meilleures musiques de l'année 2025 sélectionnées par la radio GRRIF\. <a href="http://www.grrif.ch">www.grrif.ch</a>
 
-300 songs - 17 hr 30 min
+301 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Love 2 Know](https://open.spotify.com/track/3xQZYoboPXrFVCTiloXAaF) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [La Fusion](https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66) | 4:00 | 2024-12-23 | 2025-12-12 |
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2024-12-23 | 2025-12-12 |
 | [Love On You](https://open.spotify.com/track/0xV1udwDCxDnX2srYNxRpl) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [This Must Be A PawPaw Rod EP](https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF) | 3:07 | 2024-12-23 | 2025-12-12 |
-| [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-12-11 |  |
+| [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-12-11 | 2025-12-13 |
 | [Low Sun](https://open.spotify.com/track/1siRw9E67ouBWsORObDuhZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:08 | 2024-12-23 | 2025-12-12 |
 | [Made In Britain](https://open.spotify.com/track/6m4Pd2KvEE8Q7I4DTVn5Qv) | [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ) | [Being Poor is Expensive](https://open.spotify.com/album/0jENGMvmnPYqxQ4M6qE022) | 4:14 | 2024-12-23 | 2025-12-12 |
 | [Mahal \- Edit](https://open.spotify.com/track/5hmdyjNLMxhrM15jXCCxan) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 2:16 | 2024-12-23 | 2025-12-12 |
@@ -278,6 +278,7 @@
 | [To The Moon](https://open.spotify.com/track/64afY5YbFg33CjQHymnjs4) | [Jimmy Whoo](https://open.spotify.com/artist/526SiOeohcxxzAqB1JCuQb), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [To The Moon](https://open.spotify.com/album/170hwizy890e0aJDe0iqSO) | 3:38 | 2023-12-18 | 2024-12-24 |
 | [TOURMALINE](https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:53 | 2025-12-11 |  |
 | [Trippy](https://open.spotify.com/track/6fKJFx1V6VFpc1Wx3vNVrT) | [Jordeaux](https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz) | [Trippy](https://open.spotify.com/album/1UAyhbR8KjmXuXSvA6taOC) | 2:19 | 2023-12-18 | 2024-12-24 |
+| [Two Cents](https://open.spotify.com/track/5ZLZldF14F2TT9FCiQhmXv) | [Alumni Cloud](https://open.spotify.com/artist/0CMLhpz46GdjoSIM9QKkgj) | [Two Cents](https://open.spotify.com/album/0CttI9Gaw1UTXiYE6jAqJi) | 3:44 | 2025-12-12 |  |
 | [UFO](https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx) | [UFOs](https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [UFO](https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C) | 4:33 | 2025-12-11 |  |
 | [Uknowhut?](https://open.spotify.com/track/6SuCQ2rCH0r91ji3eFXsnP) | [Stik Figa](https://open.spotify.com/artist/2EOYzFWSEZyYkMfWq7K6nj), [The Expert](https://open.spotify.com/artist/6Bz1kYQZJKvxEC9syJjsqS), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Uknowhut?](https://open.spotify.com/album/75VwxVOIFP3ECDPj8BxQtX) | 2:26 | 2023-12-18 | 2024-12-24 |
 | [Unbelievable Shenanigans](https://open.spotify.com/track/0qaa7HyyV26i1x8Tsnmw6R) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Hanni El Khatib](https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi) | [Black Hole Superette](https://open.spotify.com/album/63y5mkLctupacSr20e0O6j) | 4:16 | 2025-12-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Sofía Amores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,207 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,211 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 7 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
 | 8 | [Talk To Mi Nalga](https://open.spotify.com/track/7EFXU9W4gz4uuCdbVCgrZ5) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Talk To Mi Nalga](https://open.spotify.com/album/26d1TNHPLFuGLLxr5Ury0K) | 2:28 |
 | 9 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
-| 10 | [CULPA NUESTRA](https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [STRANGEL0VE](https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP) | [CULPA NUESTRA](https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po) | 2:22 |
+| 10 | [Full time papi](https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Full time papi](https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I) | 2:47 |
 | 11 | [muy buena suerte!](https://open.spotify.com/track/3svm7a4nFjzomdx3LPdUpI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [muy buena suerte!](https://open.spotify.com/album/57CGytyS2RkWvv18uxlLnI) | 3:16 |
-| 12 | [Full time papi](https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Full time papi](https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I) | 2:47 |
+| 12 | [CULPA NUESTRA](https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [STRANGEL0VE](https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP) | [CULPA NUESTRA](https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po) | 2:22 |
 | 13 | [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 |
 | 14 | [Bailando en diciembre](https://open.spotify.com/track/1PU6Hs8kWNHPQSBg34bMWy) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Bailando en diciembre](https://open.spotify.com/album/3GmfAgaMxbWItWwdBGQfzB) | 3:00 |
 | 15 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 31 | [Debería estar brillando](https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Debería estar brillando](https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq) | 2:32 |
 | 32 | [Castigo](https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Castigo](https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A) | 3:02 |
 | 33 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
-| 34 | [No soy Diosa](https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [No soy Diosa](https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz) | 2:11 |
+| 34 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 35 | [pies sin plomo](https://open.spotify.com/track/4CLP5XEbqjJAMbg03kO2S5) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [pies sin plomo](https://open.spotify.com/album/5wKYsfSm0ed3Dbe8AfoItZ) | 3:31 |
-| 36 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
+| 36 | [No soy Diosa](https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [No soy Diosa](https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz) | 2:11 |
 | 37 | [SUPERSEXY](https://open.spotify.com/track/4gh4JKvxobKDIJxqstLmyR) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [SUPERSEXY](https://open.spotify.com/album/4F8Wj7frMTPcPdVRASJ4BY) | 3:18 |
 | 38 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 39 | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/track/4k1copzAL7F5UiEbsq6AYX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/album/47zHBE2Fnlfezu7ZwX3mTw) | 2:54 |

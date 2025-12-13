@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 590980,
+  "num_followers": 591096,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABn15rclUTvJ0eCvDOssjqG",
+  "snapshot_id": "aToJgAAAAADsXMDSYN+d0B3CFfft+Mu3",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 317346,
-      "name": "Plainsong - Remastered",
-      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 253333,
       "name": "Charlotte Sometimes - Single Version",
       "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 317346,
+      "name": "Plainsong - Remastered",
+      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Staring At The Sea - The Singles",
-        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 141800,
-      "name": "Killing An Arab",
-      "url": "https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 203400,
       "name": "Fire In Cairo",
       "url": "https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Staring At The Sea - The Singles",
+        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 141800,
+      "name": "Killing An Arab",
+      "url": "https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9"
     },
     {
       "added_at": null,

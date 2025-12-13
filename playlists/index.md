@@ -1,4 +1,4 @@
-## Playlists \(9026\)
+## Playlists \(9028\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -151,6 +151,7 @@
 - [2010s Country](/playlists/pretty/37i9dQZF1DWXdiK4WAVRUW.md)
 - [2010s Hip\-Hop](/playlists/pretty/37i9dQZF1DX97h7ftpNSYT.md)
 - [2010s Summer Pop Throwbacks ☀️🦩🌴](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md)
+- [2010s Throwback Video Hits](/playlists/pretty/37i9dQZF1DXdpiXSzWC9nm.md)
 - [2010년대 베스트](/playlists/pretty/37i9dQZF1DX4winw66sZTE.md)
 - [2011](/playlists/pretty/0BXZJ6BiA151CzaMcTKPMN.md)
 - [2012](/playlists/pretty/7z2Wo5a21ENb24YGcEdoTE.md)
@@ -8913,6 +8914,7 @@
 - [最愛...周杰倫](/playlists/pretty/37i9dQZF1DWSBcxmKiZ0B8.md)
 - [最愛女聲](/playlists/pretty/37i9dQZF1DX9Sg2GTUELDO.md)
 - [歌うポップヒッツ \- Sing\-Along \-](/playlists/pretty/37i9dQZF1DWUnxWoAqoCag.md)
+- [正反対な君と僕 \- Music Inspirations \-](/playlists/pretty/37i9dQZF1DXd7OfGslpHp1.md)
 - [消除壓力](/playlists/pretty/37i9dQZF1DX8gS5vh05dnc.md)
 - [爵士情歌](/playlists/pretty/37i9dQZF1DWWcAe1qSHqUk.md)
 - [猫とお昼寝 Afternoon Catnap](/playlists/pretty/37i9dQZF1DX4bAcly2ZueH.md)

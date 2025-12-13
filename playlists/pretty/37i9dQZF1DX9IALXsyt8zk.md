@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(커버: 한로로\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,444 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,446 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

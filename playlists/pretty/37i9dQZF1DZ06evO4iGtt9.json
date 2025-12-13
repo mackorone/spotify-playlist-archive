@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8861,
+  "num_followers": 8866,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAC+eV/aDTcG6TuXIhElh31t",
+  "snapshot_id": "aToJgAAAAAB8WGVgRTQ/6fcj0IN8SQEZ",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ma\u0219e",
+        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Ma\u0219e",
+      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 203280,
       "name": "Dance",
       "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ma\u0219e",
-        "url": "https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Ma\u0219e",
-      "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245420,
-      "name": "Ogologomma",
-      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ODESHI",
         "url": "https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL"
       },
@@ -359,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Malonogede",
-      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "added_at": null,
@@ -391,6 +371,26 @@
       "duration_ms": 187213,
       "name": "Sanko",
       "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Malonogede",
+      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Onorato",
         "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
       },
@@ -459,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 220235,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Gra Gra",
-      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
         "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 194871,
       "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
       "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Chulo Bother Nobody",
+      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Chulo Bother Nobody",
-      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 272040,
       "name": "Dem Mama Anthem",
       "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,
@@ -659,18 +675,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+        "name": "BIG MAN TING",
+        "url": "https://open.spotify.com/album/7kxJkB0VVzWJDWPTHpQerA"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Skibii",
+          "url": "https://open.spotify.com/artist/5PJqLNoDatxzRgKaOxFjRn"
+        },
+        {
+          "name": "Teni Makanaki",
+          "url": "https://open.spotify.com/artist/1G96gJZtl9UQbu7wmKeBqT"
         }
       ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
+      "duration_ms": 177297,
+      "name": "BIG MAN TING",
+      "url": "https://open.spotify.com/track/6SUXIQBFePIsKoz7HMFGX4"
     },
     {
       "added_at": null,
@@ -715,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "SWEET US",
-      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samankwe",
         "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
       },
@@ -751,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah Blem Blem",
-        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
       },
       "artists": [
         {
@@ -760,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Ah Blem Blem",
-      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
     },
     {
       "added_at": null,
@@ -783,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like The Way",
-        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
+        "name": "Ah Blem Blem",
+        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
       },
       "artists": [
         {
@@ -792,9 +800,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 199933,
-      "name": "I Like The Way",
-      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
+      "duration_ms": 206160,
+      "name": "Ah Blem Blem",
+      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
     },
     {
       "added_at": null,
@@ -819,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Like The Way",
+        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
       },
@@ -839,46 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG MAN TING",
-        "url": "https://open.spotify.com/album/7kxJkB0VVzWJDWPTHpQerA"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Skibii",
-          "url": "https://open.spotify.com/artist/5PJqLNoDatxzRgKaOxFjRn"
-        },
-        {
-          "name": "Teni Makanaki",
-          "url": "https://open.spotify.com/artist/1G96gJZtl9UQbu7wmKeBqT"
-        }
-      ],
-      "duration_ms": 177297,
-      "name": "BIG MAN TING",
-      "url": "https://open.spotify.com/track/6SUXIQBFePIsKoz7HMFGX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "Sexy Ladies",
-      "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solidstar",
         "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 218305,
       "name": "My Body",
       "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "Sexy Ladies",
+      "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"
     },
     {
       "added_at": null,
@@ -923,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Than Them",
-        "url": "https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl"
+        "name": "Gift And Grace",
+        "url": "https://open.spotify.com/album/6rM9FXS15QeSFgYi6BQiCE"
       },
       "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 213921,
-      "name": "Better Than Them",
-      "url": "https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA"
+      "duration_ms": 272213,
+      "name": "God You Are 2 Much",
+      "url": "https://open.spotify.com/track/7o2BmnHlqzawV5z1DOyYlm"
     }
   ],
   "unique_name": "This Is Timaya",

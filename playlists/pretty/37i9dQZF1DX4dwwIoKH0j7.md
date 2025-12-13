@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dwwIoKH0j7.md) - [plain]
 
 > The most streamed artists in the USA in 2025\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,083 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,175 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dwwIoKH0j7.md) - [plain]
 | 49 | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [It Depends \(feat\. Bryson Tiller\)](https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP) | 4:31 |
 | 50 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 |
 
-Snapshot ID: `AAAAAP4w7uu68xs+atVRtITI/1SH0tIA`
+Snapshot ID: `AAAAACrZj0bqM298v7UukikEpQpvE1uF`

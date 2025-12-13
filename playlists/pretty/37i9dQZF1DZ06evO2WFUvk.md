@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,011 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,013 likes - 29 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 26 | [Together in the End](https://open.spotify.com/track/0pKvCo1G8Ym4m4RIQpctlo) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Together in the End](https://open.spotify.com/album/6B0OmAkBSS3pl32vOoZNtW) | 4:07 |
 | 27 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
 | 28 | [Euphoria Under the Stars](https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Euphoria Under the Stars](https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x) | 2:08 |
+| 29 | [Samambaila \- Original Mix](https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Take Me Higher](https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u) | 5:23 |
 
-Snapshot ID: `aTi4AAAAAAAhyoH7JfQeXfpt/5o7cmO0`
+Snapshot ID: `aToJgAAAAABEWflFRVnfhUnjmjpCvXeS`

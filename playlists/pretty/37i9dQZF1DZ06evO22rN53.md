@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,243 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,251 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 | 10 | [Hollow](https://open.spotify.com/track/6d0nwrhZwPGRy9RptimFW6) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hollow](https://open.spotify.com/album/4dVnjYdYgCGrdKoRG7dWn3) | 3:23 |
 | 11 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 |
 | 12 | [Off Balance](https://open.spotify.com/track/2CDiN7sx4xHa8H7360GAcJ) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Off Balance](https://open.spotify.com/album/7E8I4TyooemC9brsZzMP6w) | 3:10 |
-| 13 | [Contagious](https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Contagious](https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ) | 2:55 |
-| 14 | [Sink or Swim](https://open.spotify.com/track/5p3NmRvYDWBK3w6wTqd1rM) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i was.](https://open.spotify.com/album/2DlFgRZ2IjheWMpSg8o1Ao) | 2:47 |
+| 13 | [Sink or Swim](https://open.spotify.com/track/5p3NmRvYDWBK3w6wTqd1rM) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [i was.](https://open.spotify.com/album/2DlFgRZ2IjheWMpSg8o1Ao) | 2:47 |
+| 14 | [Contagious](https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Contagious](https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ) | 2:55 |
 | 15 | [Like The Moon](https://open.spotify.com/track/5IMIzerUwHmzMW9sgjWSj7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Like The Moon](https://open.spotify.com/album/0u1GmTFsk4E3hirXBetbpk) | 2:57 |
 | 16 | [A Little Less Lonely](https://open.spotify.com/track/1N3BYJL19J3XMmYaWHiifd) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [A Little Less Lonely](https://open.spotify.com/album/7kfHJlByAOz2DpsIetOsEh) | 3:14 |
 | 17 | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO) | 4:12 |
 | 18 | [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 |
 | 19 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 
-Snapshot ID: `aTi4AAAAAAAygyyq5QQW4FhYHFD/DFyA`
+Snapshot ID: `aToJgAAAAADpH74qjYYAbSC/ZpOLm3tq`

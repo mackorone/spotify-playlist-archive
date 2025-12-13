@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,358 songs - 2 day 21 hr 15 min
+1,359 songs - 2 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-06-27 | 2024-08-16 |
 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 | 2025-01-30 | 2025-03-07 |
 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 | 2025-03-13 | 2025-04-04 |
+| [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-11 |  |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-27 | 2025-04-25 |
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-06 | 2025-04-11 |
 | [Glow In The Dark](https://open.spotify.com/track/1V2ND6AWTXlzCnZ1s2klMH) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Glow In The Dark](https://open.spotify.com/album/4aA15kykB2RrixWL4m7MFP) | 2:58 | 2024-06-27 | 2024-08-16 |

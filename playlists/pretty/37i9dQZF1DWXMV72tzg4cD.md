@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMV72tzg4cD.md) - [plain]
 
 > Our editor’s picks for best songs of the year from the  <a href="https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF?si=b1a7961906bc422c">Oyster</a> playlist\. Cover: Yung Lean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMV72tzg4cD.md) - [plain]
 | 49 | [WHEN A GIRL CRIES](https://open.spotify.com/track/37HIcey6gtmW3nx5M2BGgE) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4X3ElGgS3Z62AZCvLgbTeB) | 3:18 |
 | 50 | [F.U.](https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:37 |
 
-Snapshot ID: `AAAAAMYK4URDj14p3luQ2zIi32n8yXE2`
+Snapshot ID: `AAAAAKVjJz6BZX0Z2ANWEsN/xkpn9mr9`

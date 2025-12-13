@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304986,
+      "name": "Undone - The Sweater Song",
+      "url": "https://open.spotify.com/track/5p48X3cAjKoPDSpNtSft4N"
+    },
+    {
+      "album": {
         "name": "Pop Music: The Modern Era 1976-1999",
         "url": "https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h"
       },
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 140226,
       "name": "Waiting For My Ruca",
       "url": "https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"

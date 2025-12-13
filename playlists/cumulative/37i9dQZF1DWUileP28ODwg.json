@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Joseph Habedank",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -5450,6 +5450,24 @@
       "duration_ms": 257027,
       "name": "I've Just Seen Too Much",
       "url": "https://open.spotify.com/track/1FEe1h5HsZ7Zemy9C8fw5k"
+    },
+    {
+      "album": {
+        "name": "If God Lives Here",
+        "url": "https://open.spotify.com/album/0LUnzgdbzekvEuOKHBpHlU"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230561,
+      "name": "If God Lives Here",
+      "url": "https://open.spotify.com/track/38mlXMe2Sixjbv3ysYfeUL"
     },
     {
       "album": {
@@ -11174,7 +11192,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 223478,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/58iKOSsOb6TTd5FAI8Tw3Q"
@@ -11702,10 +11720,32 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 192745,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1"
+    },
+    {
+      "album": {
+        "name": "Where Would I Be",
+        "url": "https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K"
+      },
+      "artists": [
+        {
+          "name": "Peter Burton",
+          "url": "https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192445,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/3IsymeG164xqab7pmeblhi"
     },
     {
       "album": {

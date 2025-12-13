@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,058 likes - 238 songs - 13 hr 45 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,058 likes - 240 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,17 +234,19 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 224 | [Wake Up Call \(feat\. F R E D U A of Bad Rabbits\)](https://open.spotify.com/track/1gx2AOizi4LUrSgFySLEM7) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR), [F R E D U A](https://open.spotify.com/artist/6QEn6c2h9fzN7TTGdUSxGs), [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR) | [GUTS](https://open.spotify.com/album/3F5Oy8DHLFQxqnfvwkOnS7) | 4:03 |
 | 225 | [51/50](https://open.spotify.com/track/2BShuIJijCPXorbwOpkZvv) | [GallowSaint](https://open.spotify.com/artist/7yfmYrqzRUJb9yDwem95dk) | [51/50](https://open.spotify.com/album/5TWyBHCkQjBD1xZuaBrOLC) | 2:44 |
 | 226 | [Dancing machine](https://open.spotify.com/track/7x7WL2BbEC5LQCPDMEFGMR) | [shirehead](https://open.spotify.com/artist/5bPUoqHpLmbCiSgtPSHL9b) | [Dancing machine](https://open.spotify.com/album/0JS42XNAennnRPLbIDb50R) | 2:57 |
-| 227 | [Bastards Reign](https://open.spotify.com/track/610FhcvhxP4AtrUShyKyPn) | [We Made God](https://open.spotify.com/artist/1WjKBxFohkwZBgXHiVlVg7) | [Select/Restart](https://open.spotify.com/album/7I464LAWOJzToXlIMt0JbA) | 2:54 |
-| 228 | [Pánta Rheî](https://open.spotify.com/track/6aTAAksUXVX0NuTEXu8lgm) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [Pánta Rheî](https://open.spotify.com/album/2MmdpSqXZ6KxVCcn8eXLcP) | 3:28 |
-| 229 | [I Hate My Boss](https://open.spotify.com/track/0ZJV1djLMg5sSPzRAEjyPB) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2), [javy kane](https://open.spotify.com/artist/37kqFI7nNKymyF7y8i6xff) | [I Hate My Boss](https://open.spotify.com/album/1PNI9QATW58PVTv8S0wFg7) | 3:00 |
-| 230 | [Be Fine](https://open.spotify.com/track/7lttj4mFsIhjaFYBiSJ1SF) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/18vgIsRwf4u17Vk7DNBOM1) | 3:21 |
-| 231 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 |
-| 232 | [untitled](https://open.spotify.com/track/5FZKydewgkZrAbMAajABTr) | [RADICALS](https://open.spotify.com/artist/3OXXG1ZWgcT4pVtHqt0MDy) | [untitled](https://open.spotify.com/album/0xNK6CW6YpxGOYUXa8BzSp) | 3:28 |
-| 233 | [Blurred Lines](https://open.spotify.com/track/7sXfJTOznJbICGUsKeMnjs) | [Red40](https://open.spotify.com/artist/2Etd7doNa5DY3N2TBNuqFV) | [Blurred Lines](https://open.spotify.com/album/0q8HHYUschGNtFK7iOTbMZ) | 3:05 |
-| 234 | [Self Defense](https://open.spotify.com/track/3XMMzreRK09nPiptIaQArd) | [BLFST](https://open.spotify.com/artist/3lk9j4pL4HTXJjBDs9Pje5) | [Self Defense](https://open.spotify.com/album/6CJ9mRl7IY07nypm4D0osV) | 3:19 |
-| 235 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 |
-| 236 | [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 |
-| 237 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 |
-| 238 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 |
+| 227 | [I'm so Stressed](https://open.spotify.com/track/0fhfihLeBe1EHIan5vUVxI) | [JeezJesus](https://open.spotify.com/artist/6nJMtDSZZ41lwEf3XG1Sit) | [Somewhere Between Love & Misery](https://open.spotify.com/album/0PZNlTvpn3WT3lL6df0vWy) | 3:26 |
+| 228 | [Novocaine](https://open.spotify.com/track/3aAsG5hK6ip6Kh2q5Z4ikT) | [Stereogarcia](https://open.spotify.com/artist/3QaSLsSItR9AYbjYA8ZQNt) | [The Broken Homeland Sons](https://open.spotify.com/album/5Qpq8vcWkqmAGBt5CPfinY) | 4:24 |
+| 229 | [Bastards Reign](https://open.spotify.com/track/610FhcvhxP4AtrUShyKyPn) | [We Made God](https://open.spotify.com/artist/1WjKBxFohkwZBgXHiVlVg7) | [Select/Restart](https://open.spotify.com/album/7I464LAWOJzToXlIMt0JbA) | 2:54 |
+| 230 | [Pánta Rheî](https://open.spotify.com/track/6aTAAksUXVX0NuTEXu8lgm) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [Pánta Rheî](https://open.spotify.com/album/2MmdpSqXZ6KxVCcn8eXLcP) | 3:28 |
+| 231 | [I Hate My Boss](https://open.spotify.com/track/0ZJV1djLMg5sSPzRAEjyPB) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2), [javy kane](https://open.spotify.com/artist/37kqFI7nNKymyF7y8i6xff) | [I Hate My Boss](https://open.spotify.com/album/1PNI9QATW58PVTv8S0wFg7) | 3:00 |
+| 232 | [Be Fine](https://open.spotify.com/track/7lttj4mFsIhjaFYBiSJ1SF) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/18vgIsRwf4u17Vk7DNBOM1) | 3:21 |
+| 233 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 |
+| 234 | [untitled](https://open.spotify.com/track/5FZKydewgkZrAbMAajABTr) | [RADICALS](https://open.spotify.com/artist/3OXXG1ZWgcT4pVtHqt0MDy) | [untitled](https://open.spotify.com/album/0xNK6CW6YpxGOYUXa8BzSp) | 3:28 |
+| 235 | [Blurred Lines](https://open.spotify.com/track/7sXfJTOznJbICGUsKeMnjs) | [Red40](https://open.spotify.com/artist/2Etd7doNa5DY3N2TBNuqFV) | [Blurred Lines](https://open.spotify.com/album/0q8HHYUschGNtFK7iOTbMZ) | 3:05 |
+| 236 | [Self Defense](https://open.spotify.com/track/3XMMzreRK09nPiptIaQArd) | [BLFST](https://open.spotify.com/artist/3lk9j4pL4HTXJjBDs9Pje5) | [Self Defense](https://open.spotify.com/album/6CJ9mRl7IY07nypm4D0osV) | 3:19 |
+| 237 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 |
+| 238 | [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 |
+| 239 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 |
+| 240 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 |
 
-Snapshot ID: `AAAIPnqDJTm9vV8tJ8wyEW+CT2vyyqw+`
+Snapshot ID: `AAAIQJSfjk2UaEeYHnd4RzHNdBKaRaQC`

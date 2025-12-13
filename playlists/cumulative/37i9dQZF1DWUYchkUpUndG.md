@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Minister GUC
 
-6,947 songs - 21 day 6 hr 36 min
+6,948 songs - 21 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6298,6 +6298,7 @@
 | [Victory Chant Acapella](https://open.spotify.com/track/39hLryXH6nYxXL9WJrA6oG) | [Wilson Yoko](https://open.spotify.com/artist/4nwO0LwvgkBgHevtv9kRpe) | [Victory Chant Acapella](https://open.spotify.com/album/2V3RMOgPnBgr9DRnrUQhIT) | 3:00 | 2025-02-07 | 2025-02-21 |
 | [Victory Dance](https://open.spotify.com/track/7clcwYTZgjgnAQ5DzPMgfd) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Victory Dance](https://open.spotify.com/album/55mOYKRWBsfuAKPHAaktY0) | 6:20 | 2023-11-10 | 2023-11-17 |
 | [victory hallelujah](https://open.spotify.com/track/3j9UxM18ghntpCPRCLkzia) | [Cyfa](https://open.spotify.com/artist/3fItFJEQGwuAIQhFy92rJ9), [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW) | [victory hallelujah](https://open.spotify.com/album/4cT7RwP8sauLXsVTLimh3n) | 2:30 | 2025-06-27 | 2025-07-04 |
+| [VICTORY PARADE](https://open.spotify.com/track/3MByijQAgmA5Hw9jrza9cf) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb) | [VICTORY PARADE](https://open.spotify.com/album/0moivP8CnSdu05d9pShi4y) | 2:51 | 2025-12-12 |  |
 | [Victory Praise](https://open.spotify.com/track/6qY1CgIDor0h5kAFqM4JU1) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Victory Praise](https://open.spotify.com/album/3fvX3HToy4NyQfl0tOYE3V) | 15:45 | 2023-07-28 | 2023-08-11 |
 | [Victory Song](https://open.spotify.com/track/40sjTKH9XM4BEToiQdbyIq) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Victory Song](https://open.spotify.com/album/74aVBnCplKOcQiXHPJ0jx4) | 2:56 | 2023-06-16 | 2023-06-30 |
 | [Victory song](https://open.spotify.com/track/6DhT4LdkIqL30Djc9CYWp5) | [Steve Elite](https://open.spotify.com/artist/47VkiDb1iXeoDfDrebngyk) | [Lifted](https://open.spotify.com/album/30GQ07p6FfsqIwYIkb6GZr) | 2:20 | 2025-11-21 | 2025-12-05 |

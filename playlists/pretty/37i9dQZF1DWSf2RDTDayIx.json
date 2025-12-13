@@ -1,12 +1,12 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2454827,
+  "num_followers": 2454871,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH1wBL7gULtxXgLwFt9rK/BkSGGc",
+  "snapshot_id": "AAAAAEf21uZfF/M7C8A266ckkVcjo8fH",
   "tracks": [
     {
       "added_at": "2025-12-05 05:00:13",
@@ -695,6 +695,30 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
+        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "duration_ms": 157205,
+      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
       },
@@ -723,30 +747,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
-        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        }
-      ],
-      "duration_ms": 157205,
-      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
-      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "The One (feat. Jocelyn Brown)",
         "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
       },
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -915,22 +915,22 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
+        "name": "Wings (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         },
         {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
         }
       ],
-      "duration_ms": 125806,
-      "name": "True",
-      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+      "duration_ms": 171904,
+      "name": "Wings (I Won't Let You Down)",
+      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -983,22 +983,22 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Wings (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
+        "name": "True",
+        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
       },
       "artists": [
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         },
         {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
         }
       ],
-      "duration_ms": 171904,
-      "name": "Wings (I Won't Let You Down)",
-      "url": "https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd"
+      "duration_ms": 125806,
+      "name": "True",
+      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
+        "name": "Can't Deny It",
+        "url": "https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Spriitzz",
+          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
         "name": "My Feelings For You (Mark Knight Remix)",
         "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
       },
@@ -1191,22 +1211,18 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Can't Deny It",
-        "url": "https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Spriitzz",
-          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 172727,
-      "name": "Can't Deny It",
-      "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -1227,22 +1243,6 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200207,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "Wahejo",
         "url": "https://open.spotify.com/album/5Ah7Urq5kw7C9wtw0sSnRQ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 145781,
       "name": "Wahejo",
       "url": "https://open.spotify.com/track/1QSZ1UM7skGd6gpNKAf42v"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200207,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Somersaults",
-        "url": "https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 174338,
-      "name": "Somersaults",
-      "url": "https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "heaven in your arms",
         "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 248415,
       "name": "heaven in your arms",
       "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
+        "name": "Somersaults",
+        "url": "https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 174338,
+      "name": "Somersaults",
+      "url": "https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -2471,26 +2471,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "All Day (feat. Non\u00f4)",
         "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
       },
@@ -2507,6 +2487,26 @@
       "duration_ms": 182653,
       "name": "All Day (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -2803,6 +2803,26 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
+        "name": "Good Feeling",
+        "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
+      },
+      "artists": [
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/6FP7mTrWQAcu2eQZ7AKbMU"
       },
@@ -2823,26 +2843,6 @@
       "duration_ms": 137250,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
-        "name": "Good Feeling",
-        "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
-      },
-      "artists": [
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
     },
     {
       "added_at": "2025-12-05 05:00:13",

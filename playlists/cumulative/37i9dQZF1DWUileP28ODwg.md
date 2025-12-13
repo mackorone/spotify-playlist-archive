@@ -2,9 +2,9 @@
 
 ### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: Joseph Habedank
+> Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams
 
-657 songs - 1 day 16 hr 26 min
+659 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [I've Got A Story \(feat\. Tori Kelly\)](https://open.spotify.com/track/36eSZRHIYEE1zFN3aAjjAN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:23 | 2025-04-11 | 2025-08-10 |
 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 | 2022-04-22 | 2023-10-07 |
 | [I've Just Seen Too Much](https://open.spotify.com/track/1FEe1h5HsZ7Zemy9C8fw5k) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [I've Just Seen Too Much](https://open.spotify.com/album/3prY1U770zxu2B8vCJ6iBe) | 4:17 | 2025-03-28 | 2025-04-29 |
+| [If God Lives Here](https://open.spotify.com/track/38mlXMe2Sixjbv3ysYfeUL) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [If God Lives Here](https://open.spotify.com/album/0LUnzgdbzekvEuOKHBpHlU) | 3:50 | 2025-12-12 |  |
 | [If God Wrote A Song](https://open.spotify.com/track/2B3fZRkEZiLR5vqpDxLYTy) | [Jaime Jamgochian](https://open.spotify.com/artist/589zPmnl9UayJxgJAyEmpo), [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [If God Wrote A Song](https://open.spotify.com/album/6zev25jw1cTXFrLwdMMbux) | 3:14 | 2024-06-07 | 2024-07-19 |
 | [If I Got Jesus](https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [If I Got Jesus](https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH) | 3:51 | 2024-05-10 | 2025-03-08 |
 | [If It Was Up To Me](https://open.spotify.com/track/3yLmdxMxuXSjCrTBu7fXcw) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [If It Was Up To Me](https://open.spotify.com/album/784ErOIk2KcqMfeXsurkyD) | 3:14 | 2025-04-11 | 2025-05-10 |
@@ -595,7 +596,7 @@
 | [Valor](https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [Valor](https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4) | 5:42 | 2023-10-06 | 2024-06-08 |
 | [Victory](https://open.spotify.com/track/5gmhL3SnmnGVVi0cBVh76Z) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Victory](https://open.spotify.com/album/5BKDT0aAoJfV1m4Cdym8Um) | 3:46 | 2025-02-28 | 2025-07-12 |
 | [Wait \- Radio Version](https://open.spotify.com/track/5e6dXG9W7VFpTbeaErPMyr) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait](https://open.spotify.com/album/4vaz0lbQo1hsa7rfUliz3R) | 3:44 | 2025-07-25 | 2025-10-25 |
-| [Wait For Me](https://open.spotify.com/track/58iKOSsOb6TTd5FAI8Tw3Q) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves](https://open.spotify.com/album/3KqoANpOMDWpx9C4JbMNQG) | 3:43 | 2025-09-26 |  |
+| [Wait For Me](https://open.spotify.com/track/58iKOSsOb6TTd5FAI8Tw3Q) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves](https://open.spotify.com/album/3KqoANpOMDWpx9C4JbMNQG) | 3:43 | 2025-09-26 | 2025-12-13 |
 | [Wake Up](https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Wake Up](https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe) | 3:57 | 2022-02-25 | 2023-10-07 |
 | [WALK ON WATER](https://open.spotify.com/track/5WbNxzVhvR4efwcUXB2goL) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WALK ON WATER](https://open.spotify.com/album/6xzXYjFhvyd0m3uVIQcT39) | 4:45 | 2022-02-25 | 2022-04-29 |
 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 | 2025-06-07 | 2025-10-19 |
@@ -623,7 +624,8 @@
 | [Where My Joy Comes From](https://open.spotify.com/track/2eWYnZD8g7x7vhNikDTjZa) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Where My Joy Comes From](https://open.spotify.com/album/7JGSP8J3mwi4VdF81Xwvos) | 2:39 | 2024-06-14 | 2024-08-31 |
 | [Where The Glory Is](https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 4:30 | 2022-10-01 | 2022-10-22 |
 | [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 | 2022-10-01 | 2024-04-19 |
-| [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 | 2025-11-07 |  |
+| [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 | 2025-11-07 | 2025-12-13 |
+| [Where Would I Be](https://open.spotify.com/track/3IsymeG164xqab7pmeblhi) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Where Would I Be](https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K) | 3:12 | 2025-12-12 |  |
 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 | 2023-10-06 | 2024-06-08 |
 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 | 2025-09-14 |  |
 | [While I Can](https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [While I Can](https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV) | 3:06 | 2023-10-06 | 2024-06-08 |

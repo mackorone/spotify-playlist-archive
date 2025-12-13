@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "Morning Breakfast Vol.3",
+        "url": "https://open.spotify.com/album/1cjUD5hSrQcU93KdOw5q8H"
+      },
+      "artists": [
+        {
+          "name": "Morning Breakfast",
+          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218703,
+      "name": "Nitnoi",
+      "url": "https://open.spotify.com/track/4kwmLBF0lsSxAz2dVGrU8M"
+    },
+    {
+      "album": {
         "name": "tender",
         "url": "https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA"
       },
@@ -806,7 +828,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 173367,
       "name": "Scintillate",
       "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"

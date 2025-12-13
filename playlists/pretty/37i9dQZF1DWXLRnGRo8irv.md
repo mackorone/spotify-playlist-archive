@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(커버: LE SSERAFIM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,031 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,034 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [DANCING ALONE](https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5) | 3:18 |
 | 50 | [Beat of My Heart](https://open.spotify.com/track/0a3yuKvRpU1QSW7cx5t36h) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 2:41 |
 
-Snapshot ID: `AAAAAEFx5wAJiebTGnrk0wbLGVOPtT5X`
+Snapshot ID: `AAAAAO3O8jkqbm/H2T+Xycea4OoymnlO`

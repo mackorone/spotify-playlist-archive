@@ -4,10 +4,11 @@
 
 > Feeling dramatic? All eyes on you\. Cover: James The Seventh
 
-534 songs - 1 day 4 hr 55 min
+535 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12 years](https://open.spotify.com/track/3CRTPnROcGKtDN4q9iQzae) | [MAKEUP](https://open.spotify.com/artist/0WtAdekiVjVPltE1vSm6w1) | [12 years](https://open.spotify.com/album/7hslY1w5qmPB7RbeBBr7Vl) | 5:56 | 2025-12-12 |  |
 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 | 2022-06-03 |  |
 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-07 | 2024-10-05 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-24 | 2025-09-24 |
@@ -539,7 +540,7 @@
 | [World Burn](https://open.spotify.com/track/3iISGrl3JKqPQ4GLqPjVkt) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:23 | 2022-06-03 | 2022-06-11 |
 | [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 | 2024-12-13 | 2025-09-13 |
 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 | 2022-05-17 | 2022-12-10 |
-| [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-21 |  |
+| [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-21 | 2025-12-13 |
 | [You Will Be Okay](https://open.spotify.com/track/4SMfF40pPXUfLWfYEbjcFm) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [You Will Be Okay](https://open.spotify.com/album/45llw4hD8YVsJCxPsRqkV7) | 2:02 | 2025-07-25 |  |
 | [ムダな君](https://open.spotify.com/track/3sIMrO5vLFloQSGzKSLqG9) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [ムダな君](https://open.spotify.com/album/6pc0CTguorvrE7kG3P404t) | 1:30 | 2022-06-14 | 2022-06-25 |
 

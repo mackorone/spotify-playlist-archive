@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Dembow de to el mundo pa to el mundo\. Foto: mhtresuno
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,206 likes - 90 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,205 likes - 90 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

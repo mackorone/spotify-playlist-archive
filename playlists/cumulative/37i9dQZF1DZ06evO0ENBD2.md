@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-125 songs - 8 hr 1 min
+126 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Spread Your Wings \- Remastered 2011](https://open.spotify.com/track/0nUCaKwNqO5whVAhEX1A1R) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 4:34 | 2022-10-05 |  |
 | [Spread Your Wings \- Remastered 2011](https://open.spotify.com/track/6hvFXQ9Kmsabx520Xlu5rK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 4:34 | 2025-03-27 | 2025-12-08 |
 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/1v870eS7JuHSeBNBFsVz3b) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:13 | 2025-03-27 | 2025-12-08 |
-| [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:13 | 2022-09-22 |  |
+| [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:13 | 2022-09-22 | 2025-12-13 |
+| [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2025-12-13 |  |
 | [The Invisible Man \- Remastered 2011](https://open.spotify.com/track/0h15VlXIzD1MwKwNi12ois) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Remastered Version\)](https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs) | 3:57 | 2025-04-27 | 2025-12-08 |
 | [The Invisible Man \- Remastered 2011](https://open.spotify.com/track/6VoiY3rukFPoqzP4AoGPU8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(2011 Remaster\)](https://open.spotify.com/album/3h6SV9wHJtNL1YswZUJs8V) | 3:57 | 2022-09-17 |  |
 | [The Night Comes Down \- 2024 Mix](https://open.spotify.com/track/4EEiMtxWNU7k0JHNZdloUI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Night Comes Down \(2024 Mix\)](https://open.spotify.com/album/6qifDKuIH45I8IJptMzH1d) | 4:21 | 2024-09-28 | 2024-11-03 |

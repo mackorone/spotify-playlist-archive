@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,051 likes - 211 songs - 12 hr 24 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,044 likes - 211 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,7 +190,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 180 | [Kenopsia](https://open.spotify.com/track/7kuQOJPzOCwwgyNZPwbT2R) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Kenopsia](https://open.spotify.com/album/7Bk3apD9KyVGope06Mf4jC) | 3:46 |
 | 181 | [The Feeling](https://open.spotify.com/track/634oslBYVxFz4xhc9T332m) | [Marc Gonen](https://open.spotify.com/artist/7xdcLkcWfAhUVQGmQFwoRf) | [Nocturnal 013](https://open.spotify.com/album/4PWmmWlQCvI9679sufia6g) | 3:59 |
 | 182 | [Fuse \- Eelke Kleijn Remix](https://open.spotify.com/track/0XVmO00eD5WXreA0LPS8px) | [Shelter Point](https://open.spotify.com/artist/154Kx4utAjEgGYu257wPvh), [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Chill Executive Officer \(CEO\), Vol\. 3 \[Selected by Maykel Piron\]](https://open.spotify.com/album/5E3FfLo4FlN9eDvO1OS1zA) | 3:44 |
-| 183 | [Greece 2000 \- Sebastian Davidson & Melosense Remix](https://open.spotify.com/track/4whgwSRacysvhTvLPJo2pt) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Chill Executive Officer \(CEO\), Vol\. 1 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4AJHyMtoG7OTH3R4fUzKr5) | 3:31 |
+| 183 | [Greece 2000 \- Sebastian Davidson & Melosense Remix](https://open.spotify.com/track/4whgwSRacysvhTvLPJo2pt) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Chill Executive Officer \(CEO\), Vol\. 1 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4AJHyMtoG7OTH3R4fUzKr5) | 3:31 |
 | 184 | [You Are A Traveler](https://open.spotify.com/track/0WYyQGmQy979roTvrVwlTb) | [Tidal Waves](https://open.spotify.com/artist/2dMbBvWelHuv0g26i8G2VH), [Luca Aprile](https://open.spotify.com/artist/149gSkst4bm3PyT2CR7lht) | [You Are A Traveler](https://open.spotify.com/album/4PUk9aHXSLwTdxKjICqBxj) | 3:02 |
 | 185 | [Leave U Here](https://open.spotify.com/track/1PitUEpajJb3g3zLpJHp0c) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Leave U Here](https://open.spotify.com/album/4OfZMe68ViqcQguGMwBxBJ) | 2:48 |
 | 186 | [We Are Together \- French Braids Remix](https://open.spotify.com/track/4bmlDOowCCCjJm3aQKiOfI) | [Planet Of Sound](https://open.spotify.com/artist/4ZdAf6hSgPoUKGUYcJKYWM), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [We Are Together \(French Braids Remix\)](https://open.spotify.com/album/5BHNkOwQe7FUKy2dth9paW) | 3:32 |

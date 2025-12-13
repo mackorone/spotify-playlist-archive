@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1183367,
+  "num_followers": 1183501,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2025-11-03 15:23:27",
       "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
+    },
+    {
+      "added_at": "2025-11-03 15:23:27",
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
-    },
-    {
-      "added_at": "2025-11-03 15:23:27",
-      "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
     },
     {
       "added_at": "2025-11-03 15:23:27",
@@ -151,22 +151,6 @@
     {
       "added_at": "2025-11-03 15:23:27",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2025-11-03 15:23:27",
-      "album": {
         "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 194306,
       "name": "The Lady Is A Tramp - Remastered 1998",
       "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
+    },
+    {
+      "added_at": "2025-11-03 15:23:27",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2025-11-03 15:23:27",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-11-03 15:23:27",
       "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
-    },
-    {
-      "added_at": "2025-11-03 15:23:27",
-      "album": {
         "name": "I Belong To You",
         "url": "https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 196320,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+    },
+    {
+      "added_at": "2025-11-03 15:23:27",
+      "album": {
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2025-11-03 15:23:27",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-11-03 15:23:27",
       "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "There's A Lull In My Life",
-      "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
-    },
-    {
-      "added_at": "2025-11-03 15:23:27",
-      "album": {
         "name": "Till There Was You",
         "url": "https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 233990,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C"
+    },
+    {
+      "added_at": "2025-11-03 15:23:27",
+      "album": {
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "There's A Lull In My Life",
+      "url": "https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8"
     },
     {
       "added_at": "2025-11-03 15:23:27",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-11-03 15:23:27",
       "album": {
-        "name": "Dino: The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Sway (Quien Sera) - 1997 - Remastered",
-      "url": "https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs"
-    },
-    {
-      "added_at": "2025-11-03 15:23:27",
-      "album": {
         "name": "My One And Only Thrill",
         "url": "https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 211893,
       "name": "Baby I'm A Fool",
       "url": "https://open.spotify.com/track/7ilWEHob3AYG3lAJlKEpDR"
+    },
+    {
+      "added_at": "2025-11-03 15:23:27",
+      "album": {
+        "name": "Dino: The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Sway (Quien Sera) - 1997 - Remastered",
+      "url": "https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs"
     },
     {
       "added_at": "2025-11-03 15:23:27",

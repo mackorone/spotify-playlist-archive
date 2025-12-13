@@ -1,29 +1,13 @@
 {
-  "description": "The hottest tracks in the United States. Cover: Tate McRae",
-  "num_followers": 1560282,
+  "description": "The hottest tracks in the United States. Cover: sombr",
+  "num_followers": 1560259,
   "original_name": "Hot Hits USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHbG88rIZBZynFv2ygr0ApSzRC4p",
+  "snapshot_id": "AAAAALSA3Lf/7PvCoX4XeVD87XMc4Hhw",
   "tracks": [
-    {
-      "added_at": "2025-11-21 05:00:23",
-      "album": {
-        "name": "SO CLOSE TO WHAT??? (deluxe)",
-        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 168134,
-      "name": "NOBODY'S GIRL",
-      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
-    },
     {
       "added_at": "2025-10-10 04:00:47",
       "album": {
@@ -43,6 +27,54 @@
     {
       "added_at": "2025-10-10 04:00:47",
       "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
@@ -57,20 +89,52 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-10-10 04:00:47",
+      "added_at": "2025-11-21 05:00:23",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "SO CLOSE TO WHAT??? (deluxe)",
+        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 168134,
+      "name": "NOBODY'S GIRL",
+      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
+    },
+    {
+      "added_at": "2025-10-17 04:00:51",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -105,68 +169,20 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-10-10 04:00:47",
+      "added_at": "2025-11-21 05:00:23",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
-      "added_at": "2025-10-17 04:00:51",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -235,22 +251,6 @@
     {
       "added_at": "2025-10-10 04:00:47",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -285,24 +285,20 @@
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
-      "added_at": "2025-11-21 05:00:23",
+      "added_at": "2025-10-10 04:00:47",
       "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Cold (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -323,6 +319,22 @@
     {
       "added_at": "2025-10-10 04:00:47",
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -335,6 +347,22 @@
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -355,6 +383,26 @@
     {
       "added_at": "2025-10-10 04:00:47",
       "album": {
+        "name": "Hell At Night (feat. Ella Langley)",
+        "url": "https://open.spotify.com/album/1Nn0cOJPNZqKJlkq4AgY2V"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Hell At Night (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
         "name": "Worst Way",
         "url": "https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn"
       },
@@ -367,38 +415,6 @@
       "duration_ms": 220558,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -435,6 +451,22 @@
     {
       "added_at": "2025-11-14 05:00:38",
       "album": {
+        "name": "Travelin' Soldier",
+        "url": "https://open.spotify.com/album/7Liu0RVrXQNZfnOAOlqQYv"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Travelin' Soldier",
+      "url": "https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz"
+    },
+    {
+      "added_at": "2025-11-14 05:00:38",
+      "album": {
         "name": "Die On This Hill",
         "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
       },
@@ -451,6 +483,22 @@
     {
       "added_at": "2025-10-10 04:00:47",
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
       },
@@ -463,70 +511,6 @@
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "NOT CUTE ANYMORE",
-        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 131997,
-      "name": "NOT CUTE ANYMORE",
-      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
-    },
-    {
-      "added_at": "2025-11-21 05:00:23",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 169974,
-      "name": "Writing's On The Wall",
-      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -549,36 +533,52 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2025-11-14 05:00:38",
-      "album": {
-        "name": "Travelin' Soldier",
-        "url": "https://open.spotify.com/album/7Liu0RVrXQNZfnOAOlqQYv"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Travelin' Soldier",
-      "url": "https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz"
-    },
-    {
       "added_at": "2025-10-10 04:00:47",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Pushing It Down and Praying",
+        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 169974,
+      "name": "Writing's On The Wall",
+      "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -617,50 +617,6 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "Hell At Night (feat. Ella Langley)",
-        "url": "https://open.spotify.com/album/1Nn0cOJPNZqKJlkq4AgY2V"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Hell At Night (feat. Ella Langley)",
-      "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
-    },
-    {
-      "added_at": "2025-11-21 05:00:23",
-      "album": {
-        "name": "Go Girl (with Latto & Doja Cat)",
-        "url": "https://open.spotify.com/album/4mJGv841R8jZDreWs82TE0"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 228278,
-      "name": "Go Girl (with Latto & Doja Cat)",
-      "url": "https://open.spotify.com/track/2dYNdsgKJOGevWKViCMT3V"
-    },
-    {
       "added_at": "2025-11-21 05:00:23",
       "album": {
         "name": "FEAR",
@@ -677,20 +633,24 @@
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
     },
     {
-      "added_at": "2025-10-31 04:00:42",
+      "added_at": "2025-10-10 04:00:47",
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 226283,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/1OtnMzmWT61Ht5QkRy3pGt"
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -707,6 +667,22 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "NOT CUTE ANYMORE",
+        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 131997,
+      "name": "NOT CUTE ANYMORE",
+      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -727,6 +703,22 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2025-10-10 04:00:47",
+      "album": {
+        "name": "Texas Forever",
+        "url": "https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 203822,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/1zM8S2pnIclcdTmrfFnWtX"
     },
     {
       "added_at": "2025-11-07 05:00:50",
@@ -805,40 +797,20 @@
       "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
     },
     {
-      "added_at": "2025-10-10 04:00:47",
+      "added_at": "2025-10-31 04:00:42",
       "album": {
-        "name": "Texas Forever",
-        "url": "https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe"
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 203822,
-      "name": "House Again",
-      "url": "https://open.spotify.com/track/1zM8S2pnIclcdTmrfFnWtX"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
-        "name": "Restless Mind",
-        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 286634,
-      "name": "Indigo (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/1OtnMzmWT61Ht5QkRy3pGt"
     },
     {
       "added_at": "2025-10-10 04:00:47",
@@ -871,6 +843,26 @@
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
+    },
+    {
+      "added_at": "2025-11-21 05:00:23",
+      "album": {
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Cold (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
     }
   ],
   "unique_name": "Hot Hits USA",

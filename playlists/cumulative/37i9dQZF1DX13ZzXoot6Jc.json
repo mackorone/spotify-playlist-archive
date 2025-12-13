@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
+      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 149426,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/2hLIuS8Izy0qxhD5TZE9JS"
@@ -1214,6 +1232,24 @@
       "duration_ms": 184173,
       "name": "Chevrolet (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
+    },
+    {
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "album": {
@@ -1774,7 +1810,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 170629,
       "name": "Didn't I?",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
@@ -2422,7 +2458,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 184706,
       "name": "girl you're taking home",
       "url": "https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl"
@@ -2584,7 +2620,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
@@ -4151,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Later Tonight",
+        "url": "https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "Later Tonight",
+      "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
+    },
+    {
+      "album": {
         "name": "Two Thousand Miles",
         "url": "https://open.spotify.com/album/1k2268Pzqb4R3WTlLd6qDP"
       },
@@ -4712,7 +4766,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 178141,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa"
@@ -4970,6 +5024,24 @@
       "duration_ms": 160706,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
+    },
+    {
+      "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
     },
     {
       "album": {
@@ -6882,7 +6954,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
@@ -7146,7 +7218,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 203550,
       "name": "The Devil I've Seen",
       "url": "https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2"
@@ -7164,7 +7236,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
@@ -7768,7 +7840,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 226936,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/2Y6U2OC9N1brRnTvhaoQdq"
@@ -7960,6 +8032,24 @@
       "duration_ms": 188482,
       "name": "We Ride",
       "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+    },
+    {
+      "album": {
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM"
     },
     {
       "album": {
@@ -8386,10 +8476,28 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 166040,
       "name": "Wind Up Missin\u2019 You",
       "url": "https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k"
+    },
+    {
+      "album": {
+        "name": "Waves On A Sunset",
+        "url": "https://open.spotify.com/album/4uQSVr1aW5JQIU1DmBXesv"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Wind Up Missin\u2019 You",
+      "url": "https://open.spotify.com/track/3EO58D1YpHnTvBy68gK8HE"
     },
     {
       "album": {

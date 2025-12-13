@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,626 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,668 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,23 +69,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 59 | [The Shining Kingdom](https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [The Shining Kingdom](https://open.spotify.com/album/0excbd15wol5jubCPOyTrT) | 2:36 |
 | 60 | [Yakamoz](https://open.spotify.com/track/5dhK3ux1ocYcxICMKtUwg1) | [Cotard Beatz](https://open.spotify.com/artist/7jmEQhBTQ9WVTdHmclo7GC), [Fırat Durak](https://open.spotify.com/artist/478TYt4lme8W8GuK7kXZLe) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:19 |
 | 61 | [Cherry Tree](https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Soothing Breeze](https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF) | 2:36 |
-| 62 | [Chinese Morning](https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Chinese Morning](https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh) | 2:54 |
-| 63 | [Maiko's Hope](https://open.spotify.com/track/0C10xhvGheFtaW61lkH8e3) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Maiko](https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0) | 3:28 |
-| 64 | [Jade Temple](https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [First Light Of Spring](https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH) | 2:20 |
-| 65 | [Autumn in Osaka](https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Autumn in Osaka](https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw) | 2:40 |
-| 66 | [Ancient Bond](https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Ancient Bond](https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5) | 2:44 |
-| 67 | [Phase](https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa) | [Howle](https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp) | [Phase](https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV) | 3:54 |
-| 68 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 |
-| 69 | [Yu Garden](https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 3:39 |
-| 70 | [to reach a person](https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:39 |
+| 62 | [Phase](https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa) | [Howle](https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp) | [Phase](https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV) | 3:54 |
+| 63 | [Chinese Morning](https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU) | [The Geek x Vrv](https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF) | [Chinese Morning](https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh) | 2:54 |
+| 64 | [Maiko's Hope](https://open.spotify.com/track/0C10xhvGheFtaW61lkH8e3) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Maiko](https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0) | 3:28 |
+| 65 | [Jade Temple](https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Coloured Rocks](https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t) | [First Light Of Spring](https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH) | 2:20 |
+| 66 | [Autumn in Osaka](https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Autumn in Osaka](https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw) | 2:40 |
+| 67 | [Ancient Bond](https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Ancient Bond](https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5) | 2:44 |
+| 68 | [Yu Garden](https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 3:39 |
+| 69 | [to reach a person](https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:39 |
+| 70 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 |
 | 71 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 |
 | 72 | [Yamete](https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1) | [Tosama Beats](https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg) | [Yamete](https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi) | 3:15 |
 | 73 | [Anata](https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:19 |
 | 74 | [Arisa](https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Hanagasumi](https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8) | 2:40 |
 | 75 | [Dozing](https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Dozing](https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg) | 2:26 |
 | 76 | [Red Lamps.](https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Red Lamps.](https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi) | 2:11 |
-| 77 | [Inevitability](https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 3:04 |
-| 78 | [Death Curse](https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 2:11 |
+| 77 | [Death Curse](https://open.spotify.com/track/3G6p8lXQ1qjQOzvZA1KB6A) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 2:11 |
+| 78 | [Inevitability](https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 3:04 |
 | 79 | [Mountain Trail](https://open.spotify.com/track/6V74ZQYUqoyePb0OWNu8hW) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Mountain Trail](https://open.spotify.com/album/7MKhgHTNGbgMlLXBxmQDKv) | 2:33 |
 | 80 | [endure pain](https://open.spotify.com/track/5jA3XlSxDfv4IZFltS6Mgj) | [samashi](https://open.spotify.com/artist/31VUMUK0O502Uw3YE3BPiV) | [Oldschool Memories](https://open.spotify.com/album/4KVVvtVBpXWvKCeRAtP1Bq) | 3:54 |
 | 81 | [Hatsukoi](https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:25 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 96 | [Ren'ai](https://open.spotify.com/track/2Vs4mAQUclWvqJWCwZNx8R) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Maiko](https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0) | 3:23 |
 | 97 | [My Friend](https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh) | [NKOHA](https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR) | [Despair](https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v) | 3:17 |
 | 98 | [Summer Breeze](https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF) | [Nuver](https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh), [Naga](https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1) | [Neverland](https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN) | 2:43 |
-| 99 | [Mamoritai](https://open.spotify.com/track/2MGWnzs81DVvCUi9HC6oWx) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [The Equilibrium](https://open.spotify.com/album/5gnvSc5zztBfd5SDEcVbv9) | 2:40 |
-| 100 | [Sakura Temple](https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sakura Temple](https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3) | 2:48 |
+| 99 | [Sakura Temple](https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Sakura Temple](https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3) | 2:48 |
+| 100 | [Mamoritai](https://open.spotify.com/track/2MGWnzs81DVvCUi9HC6oWx) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [The Equilibrium](https://open.spotify.com/album/5gnvSc5zztBfd5SDEcVbv9) | 2:40 |
 
 Snapshot ID: `AAAAAF8iDyRwBo6PXWpxEVZr3d/UY3RN`

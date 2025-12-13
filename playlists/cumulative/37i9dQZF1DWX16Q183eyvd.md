@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop & R&B for Kids](https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd)
 
-> Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
+> Push play on the coolest playlist around, and get ready to jump around\. Cover: Mega Ran
 
-183 songs - 8 hr 21 min
+184 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Koala](https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Koala](https://open.spotify.com/album/3tYTzaB6iZN4SsxQAhKnRF) | 2:15 | 2025-06-13 | 2025-08-02 |
 | [Kool Kids](https://open.spotify.com/track/2b9sTGqIWVTFVu7AUMQn7h) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:09 | 2021-11-19 | 2024-01-26 |
 | [Learn Your State Capitols](https://open.spotify.com/track/5GBH7uQ6hX7umS4Bl9RZ8J) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 4:38 | 2021-11-19 | 2023-04-09 |
-| [Let's Go Outside!](https://open.spotify.com/track/60OVUOnq7n370eLiDY3agd) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Let's Go Outside!](https://open.spotify.com/album/0bwGW9K4v1Cj2u0FKDt2aX) | 2:32 | 2025-11-28 |  |
+| [Let's Go Outside!](https://open.spotify.com/track/60OVUOnq7n370eLiDY3agd) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Let's Go Outside!](https://open.spotify.com/album/0bwGW9K4v1Cj2u0FKDt2aX) | 2:32 | 2025-11-28 | 2025-12-13 |
 | [Little Bird!](https://open.spotify.com/track/6aHbIDselnojx1BxnKIu56) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Little Bird!](https://open.spotify.com/album/6jPReyNmbGA8Y9dQw2yAHL) | 1:59 | 2025-10-24 | 2025-11-29 |
 | [LOL LAUGH OUT LOUD](https://open.spotify.com/track/1qhtoRTnYx6icGiwcKiT4j) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Carrie Clark](https://open.spotify.com/artist/3J1fapB3gyP3uAmKuqavh8) | [LOL LAUGH OUT LOUD](https://open.spotify.com/album/4glq20l2Wimpfi4Ac3KHXL) | 2:25 | 2024-01-30 | 2024-06-22 |
 | [Lovable and Capable \- All Star Remix](https://open.spotify.com/track/7qmhq9HB3avP0XWOMjhiXb) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Lovable and Capable \(All Star Remix\)](https://open.spotify.com/album/22wpa7n1zlx9PEvGLNIE2g) | 3:40 | 2024-01-30 | 2025-04-26 |
@@ -172,6 +172,7 @@
 | [This Old Man](https://open.spotify.com/track/33brRRHTjeMZVXzt4tDOzp) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/5jRkWa2bRjwJ6hdPrJ1odi) | 3:13 | 2023-10-10 | 2024-01-31 |
 | [This Old Man](https://open.spotify.com/track/7JaMhrgXmPSXDjVAVxrDav) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:13 | 2021-11-19 | 2023-11-04 |
 | [Three Little Birds \(feat\. Ziggy Marley\)](https://open.spotify.com/track/4lWJMQSOJIWSodi3Oe6Few) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection](https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok) | 3:25 | 2021-11-19 | 2024-01-31 |
+| [Twinkle Twinkle Little Star \(R&B Mix\)](https://open.spotify.com/track/7N08aWRnOachynM7GX6nJj) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Twinkle Twinkle Little Star \(R&B Mix\)](https://open.spotify.com/album/5Q3Iil7zkkHuleuTAi5G18) | 2:40 | 2025-12-12 |  |
 | [Veggie Dance \- Remix](https://open.spotify.com/track/2BBvcBwojcHlSTjp48I2SJ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Veggie Dance \(Remix\)](https://open.spotify.com/album/6icID5P2oWMMmr1nO2aJV2) | 1:52 | 2024-05-31 | 2024-07-06 |
 | [Veggie Dance \- Steamed Broccoli](https://open.spotify.com/track/2Ino5VIjhkchNGPk2WfQxO) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Veggie Dance](https://open.spotify.com/album/5rFResvBMH7atGl0pFSaUZ) | 1:45 | 2024-07-05 |  |
 | [Walk Tall](https://open.spotify.com/track/1uk67qKtIK0zYnuSHDYfRp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:16 | 2022-02-04 | 2022-10-13 |

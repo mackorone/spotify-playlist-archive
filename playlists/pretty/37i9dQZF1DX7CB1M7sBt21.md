@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,799 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,787 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 68 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 |
 | 69 | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ) | 2:25 |
 | 70 | [Monster](https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz) | 2:24 |
-| 71 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 |
-| 72 | [Wake Me Up In Paris](https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Wake Me Up In Paris](https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN) | 2:16 |
+| 71 | [Wake Me Up In Paris](https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Wake Me Up In Paris](https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN) | 2:16 |
+| 72 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 |
 | 73 | [Where Have You Been](https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Explicit\)](https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh) | 4:02 |
 | 74 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 |
 | 75 | [Take My Breath \- Single Version](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 |

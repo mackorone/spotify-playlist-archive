@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: RAYE",
-  "num_followers": 4042209,
+  "num_followers": 4042004,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNFXH2ID2yXsbQR6RCMLjxpGkfl",
+  "snapshot_id": "AAAAAM88f/Bk/MqGPn/Z84SJqPyqe0bZ",
   "tracks": [
     {
       "added_at": "2025-11-14 05:00:20",
@@ -305,6 +305,26 @@
       "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
     },
     {
+      "added_at": "2025-12-12 05:00:38",
+      "album": {
+        "name": "Superscar (SONIKKU Remix)",
+        "url": "https://open.spotify.com/album/7raylxJ3XFNzulLbbFuwnH"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        },
+        {
+          "name": "SONIKUU",
+          "url": "https://open.spotify.com/artist/6OTpU2ulcm9Xh1wKanHMOo"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "Superscar - SONIKKU Remix",
+      "url": "https://open.spotify.com/track/2DSo999j9b6tgCfWTBlj9t"
+    },
+    {
       "added_at": "2025-09-05 13:32:53",
       "album": {
         "name": "These Words",
@@ -327,26 +347,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Another Love (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "Another Love - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "Runaway (U & I)",
         "url": "https://open.spotify.com/album/4xrwP1XPbtzfBAahfstm0e"
       },
@@ -363,6 +363,26 @@
       "duration_ms": 147307,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Another Love (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "Another Love - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1567,26 +1587,6 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 117026,
-      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
     }
   ],
   "unique_name": "Pop Remix",

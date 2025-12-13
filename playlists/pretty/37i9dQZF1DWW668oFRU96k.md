@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Arkey
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,702 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,709 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thinking About You \(feat\. Arkey\)](https://open.spotify.com/track/1DwY5BtXvfysoSv37frTER) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Arkey](https://open.spotify.com/artist/1fJWJg5SkXjmFhnT4wf5QH) | [Thinking About You \(feat\. Arkey\)](https://open.spotify.com/album/0wucRfhZNVV29wCeusc9gr) | 3:16 |
 | 2 | [Glow](https://open.spotify.com/track/5tTfW9M90TbdDVkifbxzU0) | [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp) | [Glow](https://open.spotify.com/album/03B82PflMdmu0ciWHTmdRV) | 2:28 |
-| 3 | [Substance \(feat\. FAANGS\)](https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Substance \(feat\. FAANGS\)](https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA) | 2:40 |
+| 3 | [Substance](https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Substance](https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA) | 2:40 |
 | 4 | [Please Don't Go](https://open.spotify.com/track/6Fd57PEBw75ogKIpSLLzLB) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x) | [Please Don't Go](https://open.spotify.com/album/1QOGHugMrklZzJxHyLkyLR) | 2:24 |
 | 5 | [Cold Outside](https://open.spotify.com/track/6HYDxgaq7vsSD3PKs5VXmJ) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb), [NERIM](https://open.spotify.com/artist/1jxLUmvwunRwK7XNJ6Gh5F) | [Cold Outside](https://open.spotify.com/album/1CXQC3GHKvztZeiWWf98MX) | 2:34 |
 | 6 | [Disco Kissing](https://open.spotify.com/track/6MECIOnMn0h1mdJfey9BOx) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Disco Kissing](https://open.spotify.com/album/1lmSOfKZKwFR996kNlaEyQ) | 3:05 |

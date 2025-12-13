@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "O What A Season",
+        "url": "https://open.spotify.com/album/4NbbofeBMjz3QSU758xAmX"
+      },
+      "artists": [
+        {
+          "name": "London Community Gospel Choir",
+          "url": "https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169602,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/7xWLEzqFB6pXMM6TX1QYrD"
+    },
+    {
+      "album": {
         "name": "Celebrate Christmas",
         "url": "https://open.spotify.com/album/37wbUQgRAczmg3zhbxwHHf"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 230866,
       "name": "Christmas Is",
       "url": "https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM"

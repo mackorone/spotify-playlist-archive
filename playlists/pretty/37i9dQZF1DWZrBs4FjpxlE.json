@@ -1,13 +1,49 @@
 {
   "description": "we got you. Cover: Post Malone",
-  "num_followers": 130618,
+  "num_followers": 130673,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEhNSYV1bMMPhdVRSFsL1zNYEu+",
+  "snapshot_id": "AAAAAH9PEcA+r4u5oEpQ3TJgngZu/yNu",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:00:36",
+      "album": {
+        "name": "Used To Love",
+        "url": "https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 187218,
+      "name": "Used 2 Love",
+      "url": "https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9"
+    },
+    {
+      "added_at": "2025-12-12 05:00:36",
+      "album": {
+        "name": "novacane",
+        "url": "https://open.spotify.com/album/4bxbwWyRr6WRwLi9RYHSSl"
+      },
+      "artists": [
+        {
+          "name": "zown",
+          "url": "https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 138745,
+      "name": "novacane",
+      "url": "https://open.spotify.com/track/2Mwxsd8Ig18YTEgfKCEUZq"
+    },
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {

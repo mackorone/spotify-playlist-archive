@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,168,583 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,168,916 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 75 | [Queen Majesty \(aka Minstrel and Queen\)](https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:30 |
 | 76 | [Napoleon Solo](https://open.spotify.com/track/0xnpRZaTwiMcJWL8Sv1U2R) | [Lynn Taitt & The Jets](https://open.spotify.com/artist/2Fmwp5N1JzqKMTFtCryUuf) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:27 |
 | 77 | [Do It Right](https://open.spotify.com/track/2JROlfSYAfoMYYOPfgOPbS) | [The Three Tops](https://open.spotify.com/artist/79kei1hSypfSpVCg1tutz8) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:28 |
-| 78 | [Long Story](https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi) | [Rudy Mills](https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:11 |
-| 79 | [Things You Say You Love](https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
+| 78 | [Things You Say You Love](https://open.spotify.com/track/0jr4UlOgvaKOGWIWXKu5RX) | [The Jamaicans](https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
+| 79 | [Long Story](https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi) | [Rudy Mills](https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:11 |
 | 80 | [You Don't Care \(aka You'll Want Me Back\)](https://open.spotify.com/track/2Q5lnX5AiN6P9TPbfYtsBB) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:33 |
 | 81 | [What Will Your Mama Say](https://open.spotify.com/track/5UD98Sz4F4Jl2mtUsRPnxS) | [Clancy Eccles](https://open.spotify.com/artist/0YVtA75CDCz5FYqis7Kf8v) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
 | 82 | [It Comes And Goes](https://open.spotify.com/track/4no5L40P5kscy5YwVlf3s3) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:36 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 89 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
 | 90 | [I'm Still in Love](https://open.spotify.com/track/0fg0dCPd2fCYoNPoZ40h7z) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Sons of Jamaica](https://open.spotify.com/album/3SBDliOGQJ4XotoMsbEW1Z) | 3:45 |
 | 91 | [Could You Be Loved](https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:56 |
-| 92 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
-| 93 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
-| 94 | [Who Knows](https://open.spotify.com/track/0HBEM5CMp4Yg3Ne7orJzBX) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Ancient Future](https://open.spotify.com/album/4tQRcn0RsWRJDkvuW1baYs) | 3:28 |
-| 95 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
-| 96 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
+| 92 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
+| 93 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
+| 94 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
+| 95 | [Who Knows](https://open.spotify.com/track/0HBEM5CMp4Yg3Ne7orJzBX) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Ancient Future](https://open.spotify.com/album/4tQRcn0RsWRJDkvuW1baYs) | 3:28 |
+| 96 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
 | 97 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
 | 98 | [Sensimilea](https://open.spotify.com/track/21BiCaMzG9Lfs0Pj5ItwX0) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:20 |
 | 99 | [Everything I Own](https://open.spotify.com/track/5l1w4vYo1UJSauY3Sh5Dxi) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:45 |
-| 100 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
+| 100 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
 
 Snapshot ID: `AAAAABu+XjFQroHtiuGSSTSBelDADKoy`

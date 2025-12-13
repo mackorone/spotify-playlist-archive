@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  JERRY
+> Best of Punjabi Hip\-Hop! Cover:  Saabi Bhinder & Real Boss
 
-310 songs - 15 hr 19 min
+311 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Life for Hip\-Hop](https://open.spotify.com/track/3ZbYWJ1B5Fp7ZRCGKGepgZ) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:53 | 2025-02-28 |  |
 | [Lighter](https://open.spotify.com/track/7xPSRRceQoC0nJqfg5P60h) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:26 | 2024-07-26 | 2024-08-24 |
 | [Lock](https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Lock](https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ) | 2:55 | 2025-02-28 |  |
+| [Low Rider](https://open.spotify.com/track/54eRJjpGrbomPpChIlVYgy) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Low Rider](https://open.spotify.com/album/28BL2zT9xYHkzQILhHdRMv) | 3:05 | 2025-12-12 |  |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-12 |
 | [Mac 10](https://open.spotify.com/track/0Vgr2dVE3TNkCX9ClRmRNS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Mac 10](https://open.spotify.com/album/46I5K3RT1uGm8RZWlNoXpX) | 2:46 | 2024-09-28 | 2024-11-13 |
 | [Maddasa](https://open.spotify.com/track/6PwSJSOkmsnPsYl5o9Aicf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Maddasa](https://open.spotify.com/album/7DlAfq7u6KdeqmWVJ4cdrL) | 2:01 | 2024-11-11 | 2024-11-29 |
@@ -290,7 +291,7 @@
 | [Taur](https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Sidhuan De Munde](https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ) | 2:48 | 2023-03-18 | 2024-08-27 |
 | [Testosterone](https://open.spotify.com/track/2WM878T9VVtHp65vcAyIRz) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 2:27 | 2025-11-14 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-04-11 | 2025-07-19 |
-| [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 | 2025-10-03 |  |
+| [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 | 2025-10-03 | 2025-12-13 |
 | [The Finest](https://open.spotify.com/track/20NmNGHaPFHNWmNwsray0v) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:41 | 2025-01-24 |  |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-18 | 2024-04-06 |
 | [The Singh Anthem](https://open.spotify.com/track/3jf41pbEadrfqfbf58LdDo) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Warriors Honour](https://open.spotify.com/album/5iNzw2rmrjRPgoB4p9CbgN) | 3:44 | 2024-12-24 | 2025-03-08 |

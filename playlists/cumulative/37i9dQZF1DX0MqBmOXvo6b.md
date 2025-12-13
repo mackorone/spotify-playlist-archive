@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-756 songs - 1 day 8 hr 5 min
+758 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Hiraeth](https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Hiraeth](https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR) | 2:27 | 2024-12-04 |  |
 | [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 | 2025-06-04 |  |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2022-06-07 | 2023-10-05 |
+| [Home Beyond The Stars](https://open.spotify.com/track/2pwAMyYNW1jLjgnGXRSpzR) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [Home Beyond The Stars](https://open.spotify.com/album/1EkZf87J7ga4GSU5sT9eX1) | 2:21 | 2025-12-12 |  |
 | [Hope Remains](https://open.spotify.com/track/5MNa6Zx5BvwO1YeXxb0W04) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Hope Remains](https://open.spotify.com/album/5qWrilEui29XPFmyE9Agqk) | 2:49 | 2025-03-21 | 2025-09-17 |
 | [House of the Rising Sun](https://open.spotify.com/track/6exjuFon5neQuOyrqVoBgQ) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [House of the Rising Sun](https://open.spotify.com/album/3SAkKz7Km8eVzgnKk1bsPW) | 2:18 | 2024-11-12 | 2025-04-10 |
 | [How It Is](https://open.spotify.com/track/7ekVkcI3ZD4YJbbxpq9mPR) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [How It Is](https://open.spotify.com/album/7qF2w24bghB6K5g3DLXqw3) | 2:05 | 2022-06-07 | 2025-04-26 |
@@ -438,6 +439,7 @@
 | [Only Illusions](https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Only Illusions](https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B) | 2:26 | 2024-10-15 |  |
 | [Open Arms](https://open.spotify.com/track/30rZgjh8JUIu7DHdxWbaaZ) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Open Arms](https://open.spotify.com/album/0YkswIVwAsMXqvrZdxZ2sS) | 2:16 | 2022-06-07 | 2023-08-05 |
 | [Open Mind](https://open.spotify.com/track/7lz4IM1oPgxaCvs1R0xTHn) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Open Mind](https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB) | 2:02 | 2025-01-21 | 2025-11-13 |
+| [Open Window](https://open.spotify.com/track/3OBNyirkkJ5olw2qoLrOxg) | [Aurelian Juno](https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ) | [Open Window](https://open.spotify.com/album/3YiONYPqiN8RuWTgGY3wBE) | 2:26 | 2025-12-12 |  |
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-17 | 2025-04-26 |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2022-06-07 | 2022-10-05 |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-06-07 | 2025-04-26 |

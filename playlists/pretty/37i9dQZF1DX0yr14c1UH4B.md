@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > The ultimate songbook ⏳ feat\. Dolder
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,316 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,314 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 3 | [How Are You Doing](https://open.spotify.com/track/0SvJTgy6NVa8QgNdsB0z1z) | [Susie Mills](https://open.spotify.com/artist/2QmjpcdPJqL67ovh59ZAUZ) | [How Are You Doing](https://open.spotify.com/album/6gDut9lXWWOFn8rjwcCCYB) | 2:52 |
 | 4 | [The Rarest Hour](https://open.spotify.com/track/3ZlHYicAmVwPBB3bhyo85k) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Rarest Hour](https://open.spotify.com/album/4s5GdjDWH2ADhn8YGafhOT) | 4:05 |
 | 5 | [Good To You](https://open.spotify.com/track/3zdu34rdvgnMcBNfkV8NAL) | [Silvertwin](https://open.spotify.com/artist/7aqjHeupqqWY9tPApz26Mf) | [Good To You](https://open.spotify.com/album/7GBw62qxC9ANOi1B8RpHw5) | 3:47 |
-| 6 | [sticks and stones](https://open.spotify.com/track/6YUOUEBVYXnF4ZQRTDpORz) | [sean trelford](https://open.spotify.com/artist/4FFOqFgY6neszSElcfmV3i) | [](https://open.spotify.com/album/null) | 2:32 |
+| 6 | [sticks and stones](https://open.spotify.com/track/6YUOUEBVYXnF4ZQRTDpORz) | [sean trelford](https://open.spotify.com/artist/4FFOqFgY6neszSElcfmV3i) | [ulcer](https://open.spotify.com/album/0Dh5TLgHNhnu4RrPWXV6dY) | 2:32 |
 | 7 | [All My Mess](https://open.spotify.com/track/15BuvM6K93OWhahQAc2dTZ) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [All My Mess](https://open.spotify.com/album/4tjNlquixvFGICsSCr8V8v) | 2:52 |
 | 8 | [Boyfriend](https://open.spotify.com/track/4BTJx4a85WdIvtF6EbMVrr) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [To Be Needed At All](https://open.spotify.com/album/7AicQh8rXbOWMHhIFHG6Oc) | 3:15 |
 | 9 | [New Season](https://open.spotify.com/track/1XKkywB0E7fR6antkaTJVl) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [New Season](https://open.spotify.com/album/1ie78xa7IYAseGPHIfO8mO) | 1:56 |

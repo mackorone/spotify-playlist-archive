@@ -4804,7 +4804,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
@@ -8198,7 +8198,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 209187,
       "name": "DAM",
       "url": "https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P"
@@ -8905,6 +8905,52 @@
     },
     {
       "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        },
+        {
+          "name": "Charanjit Ahuja",
+          "url": "https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj"
+        },
+        {
+          "name": "Muhammad Sadiq",
+          "url": "https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD"
+        },
+        {
+          "name": "Ranjit Kaur",
+          "url": "https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY"
+        },
+        {
+          "name": "Babu Singh Maan",
+          "url": "https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155590,
+      "name": "Dhurandhar - Title Track",
+      "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
+    },
+    {
+      "album": {
         "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
         "url": "https://open.spotify.com/album/5FKHnXMAYzAkjMQviPEA74"
       },
@@ -8944,7 +8990,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
@@ -10966,7 +11012,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -17812,7 +17858,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -23400,7 +23446,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -34886,7 +34932,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

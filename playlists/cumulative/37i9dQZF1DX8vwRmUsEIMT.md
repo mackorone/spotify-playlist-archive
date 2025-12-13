@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Fred again..
 
-3,430 songs - 7 day 17 hr 57 min
+3,430 songs - 7 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1485,6 +1485,7 @@
 | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/track/47LjmQWMlFYmoVBTYiEFW7) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [I Love The Way \(feat\. LEVi & Toddla T\)](https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz) | 2:42 | 2024-09-27 | 2024-10-18 |
 | [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 | 2023-03-31 | 2023-05-03 |
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-03-29 | 2024-04-26 |
+| [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 | 2025-12-12 |  |
 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 | 2023-02-03 | 2023-03-08 |
 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 | 2024-10-10 | 2024-11-08 |
 | [I Need It Now](https://open.spotify.com/track/4jrhI63h2RzQpA4PgOAgGe) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [I Need It Now](https://open.spotify.com/album/3QwtmPuPBkUDuwN5ownyUu) | 3:05 | 2023-12-01 | 2024-01-13 |
@@ -1622,7 +1623,7 @@
 | [I’ve seen ur ex](https://open.spotify.com/track/5NsCrja8hjnneu6sqQld2j) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I’ve seen ur ex](https://open.spotify.com/album/5zumfHJnOknVV1xNWhUF54) | 3:27 | 2025-02-14 | 2025-03-28 |
 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 | 2024-01-12 | 2024-02-02 |
 | [J'adore](https://open.spotify.com/track/1ZiBudnpvQfopaxd8bbDLD) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [J'adore](https://open.spotify.com/album/0hBrxcpPgKQwXSh44trEzp) | 1:57 | 2023-04-13 | 2023-05-05 |
-| [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [](https://open.spotify.com/album/null) | 2:51 | 2025-12-12 |  |
+| [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:51 | 2025-12-12 |  |
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-03-14 | 2023-04-28 |
 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 | 2023-06-15 | 2023-08-05 |
 | [January 19](https://open.spotify.com/track/2iOIngyjdy2L7qONMfTHeD) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [January 19](https://open.spotify.com/album/28jjDEKDaLJW6ZT2FkVuZa) | 2:35 | 2025-05-30 | 2025-06-27 |
@@ -3106,7 +3107,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-01-24 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-22 | 2023-08-05 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 | 2023-03-18 |
-| [Track 1](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-12 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 | 2024-03-22 |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-17 | 2023-12-15 |
 | [TRAP ACADEMY](https://open.spotify.com/track/6onuQHyYUwmPs9syYJp5JL) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [ROAD 2 U2OPIA](https://open.spotify.com/album/2tqgwaLjmWJUq0PGiGdoae) | 1:57 | 2024-11-08 | 2024-11-29 |

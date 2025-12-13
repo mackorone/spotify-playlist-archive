@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Ricky Dillard & Ron Carter
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,719 likes - 80 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,727 likes - 80 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 79 | [On The Way](https://open.spotify.com/track/6LhDd3AM2XpMh8rrrjH4Tr) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [On The Way](https://open.spotify.com/album/5X4ovG4Er7iwCl6COKqpka) | 3:29 |
 | 80 | [Green Light](https://open.spotify.com/track/6D1RMZkJQvwb66Y413ykQN) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [Green Light](https://open.spotify.com/album/1tBPCE3UREXlSMxQy5K1ij) | 2:23 |
 
-Snapshot ID: `AAAAAAg5Da9Ra2BIxin6I0dXC9YAajvi`
+Snapshot ID: `AAAAAKI0OAKR97DffG3vGcOBta3q1efC`

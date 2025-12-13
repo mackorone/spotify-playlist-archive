@@ -2,7 +2,7 @@
 
 ### [2010s Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXaJDplEJVP32)
 
-> Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: Lauren Daigle
+> Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: MercyMe
 
 129 songs - 10 hr 8 min
 

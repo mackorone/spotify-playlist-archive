@@ -2,9 +2,9 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: Brandon Lake
+> The best mix of today's Christian music, all genres, worldwide\. Cover: SONDAE
 
-1,279 songs - 3 day 15 hr 0 min
+1,280 songs - 3 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Do It Again](https://open.spotify.com/track/6ZYrfrxalPRcUdSieUCkdM) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Do It Again](https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs) | 3:49 | 2025-06-06 | 2025-08-31 |
 | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 | 2025-10-03 |  |
 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 | 2023-11-10 | 2025-01-18 |
-| [Don't Know Why](https://open.spotify.com/track/1LqR0VHGBGhEjx3s5rIswo) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt), [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [On The Way](https://open.spotify.com/album/5IuyP9jnnlSSZEktHcCYfT) | 3:00 | 2025-09-12 |  |
+| [Don't Know Why](https://open.spotify.com/track/1LqR0VHGBGhEjx3s5rIswo) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt), [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [On The Way](https://open.spotify.com/album/5IuyP9jnnlSSZEktHcCYfT) | 3:00 | 2025-09-12 | 2025-12-13 |
 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 | 2025-10-24 | 2025-11-22 |
 | [Don't Lose Heart](https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Don't Lose Heart](https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2) | 3:31 | 2022-07-08 | 2022-10-15 |
 | [Don't Lose Heart](https://open.spotify.com/track/2RIjhcqCoUbl4D5y436PDy) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Don't Lose Heart](https://open.spotify.com/album/2cHZv5Cwg4lWvi6NVs0g0f) | 3:31 | 2023-02-17 | 2023-09-16 |
@@ -1284,6 +1284,7 @@
 | [Your Song](https://open.spotify.com/track/5SobIeMqDzWxrBpQPkx7Tj) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Roses](https://open.spotify.com/album/1KS8wbOx2wWw1ce0VdcMgV) | 3:29 | 2025-07-11 | 2025-09-13 |
 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 | 2025-04-18 | 2025-05-10 |
 | [Your World](https://open.spotify.com/track/2tgk4RT1YiWKiuWMmDLhf3) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Your World](https://open.spotify.com/album/2qaz1wPf35kHxD8q572mtS) | 3:16 | 2022-08-05 | 2023-02-18 |
+| [YOURS](https://open.spotify.com/track/0xu5VjV7kddmyDlGzWncCI) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [SIV](https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX) | [BOY](https://open.spotify.com/album/3GQjuxVsdoWLcbkC17O45F) | 3:24 | 2025-12-12 |  |
 | [Yours To Use](https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Yours To Use](https://open.spotify.com/album/55aVf2zLzytvTYuhlSsXYH) | 3:26 | 2022-12-02 | 2023-07-01 |
 | [Ángeles](https://open.spotify.com/track/2SNA4NiAcqq6W3vcrK0skc) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Me Siento Libre](https://open.spotify.com/album/7sdoXJL0QM5ybxdZfcd1lQ) | 3:26 | 2025-01-24 | 2025-02-22 |
 | [— \[DASH\]](https://open.spotify.com/track/18m4zA9001ngkgo3sau9aO) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [— \[DASH\]](https://open.spotify.com/album/5xdnf2Q7SRhqsSejRlvZaT) | 2:58 | 2024-04-05 | 2024-06-01 |

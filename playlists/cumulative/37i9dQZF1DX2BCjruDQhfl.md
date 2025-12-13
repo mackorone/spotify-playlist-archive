@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: Joshua J
 
-196 songs - 9 hr 0 min
+197 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [KILLING ME SOFTLY](https://open.spotify.com/track/78UwH2LoQ09TjzW9P8lLOk) | [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap) | [KILLING ME SOFTLY](https://open.spotify.com/album/1rLOSP5vlajVaVfcjuAxOP) | 2:14 | 2025-10-16 |  |
 | [Kinda Luv](https://open.spotify.com/track/2CT0nd9AEvf9LJxlwVgSN8) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Think Like a Man](https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX) | 2:41 | 2025-07-17 | 2025-10-29 |
 | [Kiss & Tell](https://open.spotify.com/track/55gQ5wbRGFjSG1t5LhzNBU) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Kiss & Tell](https://open.spotify.com/album/3fx8AMYbuKhoJjO1TK2AyX) | 3:05 | 2025-08-28 |  |
+| [Kom Je Halen](https://open.spotify.com/track/1jP8mOe5joQg5isHUTukcg) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander \(Deluxe\)](https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5) | 2:40 | 2025-12-12 |  |
 | [Koud](https://open.spotify.com/track/1cwRpIkyR9gFCDL0PVt0um) | [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [Koud](https://open.spotify.com/album/37Bo86mJGvWBCNy8rPa7FI) | 2:28 | 2025-07-17 |  |
 | [La Nuit](https://open.spotify.com/track/0IHhTBh6mjTSZgdYBYL9h6) | [Dé Panama](https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca), [imaye](https://open.spotify.com/artist/5dtgEFdUpmaxWJeZ5xdxKO), [DjangoBeats](https://open.spotify.com/artist/5S8jlJz9AU8D2LYdfjSNOi) | [La Nuit](https://open.spotify.com/album/6ZdxoZ0qFYApsefX3sEyPp) | 2:02 | 2025-07-17 | 2025-10-17 |
 | [LAAT JE MIJ](https://open.spotify.com/track/6oLQQ9dwrcvl5f1WRoA8Zk) | [Lina Ice](https://open.spotify.com/artist/12E9KrxnskvuhWQymejsPm) | [LAAT JE MIJ](https://open.spotify.com/album/4JzN0JyPBccxTU2Aw3mUbf) | 3:12 | 2025-07-17 | 2025-11-29 |
@@ -192,7 +193,7 @@
 | [Waist](https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/2zv3y2FXzqVJBiYZ6VMXVd) | 2:45 | 2025-11-23 |  |
 | [Wat Love Is](https://open.spotify.com/track/0W5vnpoyvVi2fIXG4qYD7g) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Wat Love Is](https://open.spotify.com/album/4d2K9x4XkqWwAvHOlb0tva) | 2:22 | 2025-07-17 |  |
 | [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 | 2025-11-14 |  |
-| [Waterkant](https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:02 | 2025-08-07 |  |
+| [Waterkant](https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:02 | 2025-08-07 | 2025-12-13 |
 | [Weg Van Je Gaan](https://open.spotify.com/track/2YS6svycx5gDp5S2xZNGAb) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [JFT](https://open.spotify.com/artist/0RiLlPi3La2ar2ybA3Z1po), [T4L](https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ) | [Weg Van Je Gaan](https://open.spotify.com/album/5VsDCGzAYjgjpRNM7itnYP) | 2:29 | 2025-11-13 |  |
 | [Weg Van Jou](https://open.spotify.com/track/0XnePMTynrwmAVlEVLgjLH) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [BACK2STEP Vol\. 1](https://open.spotify.com/album/1Ksw5xdfrutkRqxKRLQNAJ) | 2:18 | 2025-10-02 |  |
 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-09-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 11301,
+  "num_followers": 11303,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAA3IwRmbNrd/y67kPi0kQWa",
+  "snapshot_id": "aToJgAAAAAB5iEgaBWQn+WkbgBpf1bh9",
   "tracks": [
     {
       "added_at": null,
@@ -259,38 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "False Faces",
-      "url": "https://open.spotify.com/track/4GDKs7Uu9meQvHzXQNWLd1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 275240,
-      "name": "Brown Baby",
-      "url": "https://open.spotify.com/track/3awQsj2wDfaISFX47q9fTi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me and Mrs. Jones (1895 Jazz Remix)",
         "url": "https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs"
       },
@@ -311,6 +279,38 @@
       "duration_ms": 308103,
       "name": "Me and Mrs. Jones (1895 Jazz Remix)",
       "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 275240,
+      "name": "Brown Baby",
+      "url": "https://open.spotify.com/track/3awQsj2wDfaISFX47q9fTi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "False Faces",
+      "url": "https://open.spotify.com/track/4GDKs7Uu9meQvHzXQNWLd1"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'Em In",
-        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "I Trust You",
-      "url": "https://open.spotify.com/track/3tVh4RTBgccJae0eJXZdrU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 255053,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
+      "duration_ms": 253880,
+      "name": "I Trust You",
+      "url": "https://open.spotify.com/track/3tVh4RTBgccJae0eJXZdrU"
     },
     {
       "added_at": null,
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 177933,
-      "name": "Thank You (For This Blessing)",
-      "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
+      "duration_ms": 255053,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
     },
     {
       "added_at": null,
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Love Buddies",
-      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
+      "duration_ms": 177933,
+      "name": "Thank You (For This Blessing)",
+      "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
     },
     {
       "added_at": null,
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'Em In",
-        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 378346,
-      "name": "I Think I'll Stay Home Today",
-      "url": "https://open.spotify.com/track/7acTQ0sGLozR4ss0ipwAsi"
+      "duration_ms": 219320,
+      "name": "Love Buddies",
+      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
     },
     {
       "added_at": null,
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 287160,
-      "name": "The Whole Town's Talking",
-      "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
+      "duration_ms": 378346,
+      "name": "I Think I'll Stay Home Today",
+      "url": "https://open.spotify.com/track/7acTQ0sGLozR4ss0ipwAsi"
     },
     {
       "added_at": null,
@@ -551,22 +535,6 @@
       "duration_ms": 230440,
       "name": "Let's Fall In Love All Over Again",
       "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "One Man's Junk",
-      "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
     },
     {
       "added_at": null,
@@ -591,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "One Man's Junk",
+      "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 438986,
-      "name": "I Was Married",
-      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
+      "duration_ms": 287160,
+      "name": "The Whole Town's Talking",
+      "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+      "duration_ms": 438986,
+      "name": "I Was Married",
+      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'Em In",
-        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "We All Got A Mission",
-      "url": "https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 321013,
       "name": "America (We Need the Light)",
       "url": "https://open.spotify.com/track/3rCSyRKxjdX7l6QtIQmGhi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let 'Em In",
+        "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "We All Got A Mission",
+      "url": "https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ"
     },
     {
       "added_at": null,
@@ -811,26 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
       },
       "artists": [
         {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
           "name": "Billy Paul",
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 302642,
-      "name": "Love Train - Live",
-      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+      "duration_ms": 387426,
+      "name": "East",
+      "url": "https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37"
     },
     {
       "added_at": null,

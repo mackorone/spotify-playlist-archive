@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1389231,
+  "num_followers": 1389390,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAjIz5Iyyg2T/1BPgFEPeZP",
+  "snapshot_id": "aToJgAAAAADa0Wfu2YXeJMUCWQ7MF69s",
   "tracks": [
     {
       "added_at": null,
@@ -326,11 +326,15 @@
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 164386,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+      "duration_ms": 200120,
+      "name": "X SI VOLVEMOS",
+      "url": "https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe"
     },
     {
       "added_at": null,
@@ -398,15 +402,11 @@
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 200120,
-      "name": "X SI VOLVEMOS",
-      "url": "https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe"
+      "duration_ms": 164386,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
     },
     {
       "added_at": null,

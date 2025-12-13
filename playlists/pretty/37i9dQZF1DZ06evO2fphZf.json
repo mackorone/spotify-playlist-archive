@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAC1UZmadv4thQUBbf1iFHjR",
+  "snapshot_id": "aToJgAAAAAAhn+7AYV+4KxqIyFXGrfIX",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "trippin'",
+      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
       },
@@ -327,38 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "trippin'",
-      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 157199,
-      "name": "u should feel special",
-      "url": "https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hair down (with CHUNG HA)",
         "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 209060,
       "name": "hair down (with CHUNG HA)",
       "url": "https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 157199,
+      "name": "u should feel special",
+      "url": "https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 197557,
-      "name": "trust (feat. RINI)",
-      "url": "https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KAWASAKI (with Felip & th\u1ee7y)",
         "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 130666,
       "name": "KAWASAKI (with Felip & th\u1ee7y)",
       "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 197557,
+      "name": "trust (feat. RINI)",
+      "url": "https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ"
     },
     {
       "added_at": null,

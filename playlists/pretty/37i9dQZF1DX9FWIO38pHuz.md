@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Our editors' top picks for the best Funk songs of the year\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,701 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,717 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 49 | [Wrong Turn](https://open.spotify.com/track/3mWbe25jgcrW3YjeLLtbgP) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Jerry Léonide](https://open.spotify.com/artist/5Af1TsVHdJnJKt6R9kInBe), [Kevin Reveyrand](https://open.spotify.com/artist/6e8iJWw2WfJQjYmZPFmmra) | [Status Quo](https://open.spotify.com/album/0kbdRU8fGz15dmhPrWygqB) | 5:24 |
 | 50 | [Along The Coast](https://open.spotify.com/track/07Sa86wC3tmFwvLeshtUgb) | [Simon Oslender](https://open.spotify.com/artist/5VJSyBgSYK1K2b45QCSJsM), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun) | [Along The Coast](https://open.spotify.com/album/0aDqGYl1WzNPR0P9x4q3vq) | 6:04 |
 
-Snapshot ID: `AAAAAGX4HVkXQQFQeVFGhNpxUbbWfLU0`
+Snapshot ID: `AAAAAPg0tbumS7/9GVfM9+lJNU0b4z7P`

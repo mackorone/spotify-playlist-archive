@@ -8584,7 +8584,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 159000,
       "name": "Do It",
       "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
@@ -8602,7 +8602,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Do It",
       "url": "https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN"
@@ -10108,7 +10108,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -15247,6 +15247,24 @@
     },
     {
       "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "album": {
         "name": "I Wanna Love You",
         "url": "https://open.spotify.com/album/42JMHHp6OLv1VpeeDNfmLI"
       },
@@ -16796,7 +16814,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "Kasay",
       "url": "https://open.spotify.com/track/7qGwlBQIbgpv8Mj54sgFIk"
@@ -18764,7 +18782,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 109128,
       "name": "Losin' Streak",
       "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
@@ -18882,10 +18900,28 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
+    },
+    {
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273010,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
     },
     {
       "album": {
@@ -26110,7 +26146,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
@@ -26364,7 +26400,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 201853,
       "name": "Radio",
       "url": "https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr"
@@ -27668,7 +27704,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -33982,7 +34018,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 202499,
       "name": "Topa Topa",
       "url": "https://open.spotify.com/track/1qHWI1NYKH5GkyFO18p2Uq"
@@ -38593,6 +38629,24 @@
     },
     {
       "album": {
+        "name": "Zunge 2025",
+        "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199012,
+      "name": "\u00dcbers Meer",
+      "url": "https://open.spotify.com/track/2DAKLli7sZNOPHCFO9NSPs"
+    },
+    {
+      "album": {
         "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
         "url": "https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ"
       },
@@ -40628,6 +40682,28 @@
       "duration_ms": 206000,
       "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0435",
       "url": "https://open.spotify.com/track/3I4DeXZENnp9txN2za4Lyf"
+    },
+    {
+      "album": {
+        "name": "\u041a\u041e\u0420\u0423\u041f\u0426\u0418\u042f",
+        "url": "https://open.spotify.com/album/7sNtQ44rM51SQqaW5Ii8X3"
+      },
+      "artists": [
+        {
+          "name": "Gyoky",
+          "url": "https://open.spotify.com/artist/4EZoIglbasg5y5mpZd6BDY"
+        },
+        {
+          "name": "MOMO RECORDS",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162070,
+      "name": "\u041a\u041e\u0420\u0423\u041f\u0426\u0418\u042f",
+      "url": "https://open.spotify.com/track/4PGWxCgCejfAXEvoJQGogQ"
     },
     {
       "album": {

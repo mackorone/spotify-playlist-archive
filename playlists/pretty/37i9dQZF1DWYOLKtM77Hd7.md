@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,463 likes - 62 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,526 likes - 62 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

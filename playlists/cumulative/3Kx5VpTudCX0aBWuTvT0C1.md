@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-105 songs - 5 hr 55 min
+107 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2025-11-03 | 2025-12-09 |
 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 | 2025-12-06 |  |
 | [Noche Salvaje](https://open.spotify.com/track/2hKsTIIIv4MvrAmIy4sWWX) | [Break.Out](https://open.spotify.com/artist/5QYRdCdd7IpHlwrh5v2PPT) | [Noche Salvaje](https://open.spotify.com/album/5XQB8rZPholnVJusb803uP) | 3:21 | 2025-10-29 | 2025-12-09 |
+| [Not Real](https://open.spotify.com/track/2h0rNNxfeN6n18zEhb1uOA) | [FAIA LYN](https://open.spotify.com/artist/0PIi7hsIDjKPYH66SOko0H) | [Not Real](https://open.spotify.com/album/4kGbXFHPB46aYEtQTJ22HD) | 3:17 | 2025-12-12 |  |
 | [Not Supposed to Let You Know](https://open.spotify.com/track/7nOehwhib8wpPrvt4ZFF2f) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Not Supposed to Let You Know](https://open.spotify.com/album/3X5OMgdsTqKqo0ZZ4RO98k) | 3:41 | 2025-11-28 |  |
 | [NOV\. 7TH](https://open.spotify.com/track/5CfQglqzFQs8Lh4XFkB8Jz) | [BLACKPUNK!](https://open.spotify.com/artist/433Ag1dK5zyWGEe1T58RgZ), [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN), [Mr\. Starbeast](https://open.spotify.com/artist/2g5awxfkf1XlvYsNBjATI8) | [NOV\. 7TH](https://open.spotify.com/album/7vM9Lwq37Xqjbz01xW2Gii) | 3:17 | 2025-11-11 |  |
 | [One Of These Days \- remastered 2025](https://open.spotify.com/track/7h6DCnqTJ9vrdM37KTbgWl) | [Gerhardt](https://open.spotify.com/artist/3bTrjrXSZ9XiJQ6DWVwkui), [Alakazam](https://open.spotify.com/artist/0lzWfn3p4ETAIyw6qPxeCM) | [Into The Ballroom](https://open.spotify.com/album/5gjOyZSfhCGDrMj52xobDU) | 2:41 | 2025-11-13 |  |
@@ -95,6 +96,7 @@
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-21 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-09 |
 | [tiny thoughts](https://open.spotify.com/track/1Egax32yGqCIA0Fcw2PDDN) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:37 | 2025-11-24 |  |
+| [Too Close For Comfort](https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Too Close For Comfort](https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF) | 3:23 | 2025-12-12 |  |
 | [Trust](https://open.spotify.com/track/7HiWR4yqbGVU5CvMmy3HHT) | [Penny Rebels](https://open.spotify.com/artist/5kvexhqNjywDVmARMHFA7g) | [Trust](https://open.spotify.com/album/2gq88qxGS3TyrncBZYOwO1) | 1:54 | 2025-10-30 | 2025-12-09 |
 | [TU PEOR ENEMIGO](https://open.spotify.com/track/53uQB3TDPmEl5lNhUd5ddB) | [lorenzo](https://open.spotify.com/artist/0ZTHezz846ANN3ssdfozCD) | [TU PEOR ENEMIGO](https://open.spotify.com/album/3Tr8y87l1nOkNf27wxoC8t) | 3:39 | 2025-11-03 | 2025-12-09 |
 | [Una Señal](https://open.spotify.com/track/3MaxzGBdn5zDmrAziSGFu3) | [Joselu Toribio](https://open.spotify.com/artist/1LUaDb2TDUyN4MBowhnWqu) | [Una Señal](https://open.spotify.com/album/27m8pNmvR6GNsXzoLkN3sz) | 3:42 | 2025-11-12 |  |

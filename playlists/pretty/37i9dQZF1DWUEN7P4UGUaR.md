@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,024 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,035 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 24 | [Owawani](https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Owawani](https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq) | 2:38 |
 | 25 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
 | 26 | [Come and See \(Remix\)](https://open.spotify.com/track/15D677rtBhHsiLiva3Wjv3) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Afiba](https://open.spotify.com/artist/1eKnW8PmxRivaPkqgYinPz), [KWAKU HYDRO](https://open.spotify.com/artist/543kVDVPx8oHgDdbPs7Yjm) | [Come and See \(Remix\)](https://open.spotify.com/album/5aZIYtIubUJiX5GkqRgDNu) | 3:15 |
-| 27 | [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 |
+| 27 | [Nya Gyidi](https://open.spotify.com/track/2gzifUVRtwtwyoe3SzsN87) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Nya Gyidi](https://open.spotify.com/album/5E115qCQUZjWEIztqVtjDc) | 6:54 |
 | 28 | [FAKY3 ME](https://open.spotify.com/track/7Msv1XFUkPhVQSqj3QVZmW) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr), [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [FAKY3 ME](https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT) | 5:11 |
-| 29 | [Nya Gyidi](https://open.spotify.com/track/2gzifUVRtwtwyoe3SzsN87) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Nya Gyidi](https://open.spotify.com/album/5E115qCQUZjWEIztqVtjDc) | 6:54 |
+| 29 | [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 |
 | 30 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 |
 | 31 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
 | 32 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 36 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 |
 | 37 | [W'asem](https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 3:39 |
 | 38 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 |
-| 39 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
-| 40 | [Mile \(I Know\)](https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [Mile \(I Know\)](https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2) | 5:42 |
+| 39 | [Mile \(I Know\)](https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [Mile \(I Know\)](https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2) | 5:42 |
+| 40 | [VICTORY](https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [VICTORY](https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU) | 3:56 |
 | 41 | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Agbadza Gospel Medley II \(Live\)](https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I) | 8:33 |
 | 42 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
 | 43 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |

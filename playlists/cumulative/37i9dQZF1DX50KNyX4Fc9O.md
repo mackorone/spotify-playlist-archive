@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Holly Hebe, Chloe Parché
 
-2,388 songs - 5 day 3 hr 5 min
+2,389 songs - 5 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,6 +782,7 @@
 | [Give Her Your Heart](https://open.spotify.com/track/1uTE6dmsn9xwU4T8ybMQjj) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home Is Where The Heart Is](https://open.spotify.com/album/5skRNXLBAyYKaCJM2evpqK) | 3:24 | 2023-08-31 | 2023-10-13 |
 | [Give Me A Little](https://open.spotify.com/track/4HnEmULhZnWFWNjxNtHFjy) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Give Me A Little](https://open.spotify.com/album/3hMX8KBpQfxoCCIlElgHSd) | 3:01 | 2025-08-07 | 2025-10-04 |
 | [Give Me Nothing](https://open.spotify.com/track/6UHHNXSSnI8vfh1Q4MthBc) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [HER](https://open.spotify.com/album/4BLF6lgKiHXhxd04f9PYPk) | 3:27 | 2023-12-07 | 2024-01-19 |
+| [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-11 |  |
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 | 2025-08-22 |
 | [give urself 2 me](https://open.spotify.com/track/5kUpf2H6Ks1zkjnYI7QMNS) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [give urself 2 me](https://open.spotify.com/album/0NZp3jkHw7IMbopbHbnLqB) | 2:40 | 2024-04-11 | 2024-05-17 |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-08-10 | 2023-10-06 |

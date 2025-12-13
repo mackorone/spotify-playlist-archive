@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover: Kuami Eugene
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,222 likes - 81 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,263 likes - 81 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

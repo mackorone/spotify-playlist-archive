@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-299 songs - 12 hr 56 min
+301 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2023-04-03 |  |
 | [A burnished stone](https://open.spotify.com/track/0F8SuamdgugyK1UWMM2clz) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A burnished stone](https://open.spotify.com/album/002uBgCwLK0STGuPGxnsWj) | 1:52 | 2023-04-03 | 2023-08-22 |
 | [A Heap Of Broken Images](https://open.spotify.com/track/6BwKf64Z6sOKV0sF94jQZL) | [Kevin Lloyd](https://open.spotify.com/artist/2rxmb9Wqs2GFwtlCeaJkHx) | [A Heap Of Broken Images](https://open.spotify.com/album/4IJjuk9izSUymkjfhc9ZG1) | 3:08 | 2023-04-03 |  |
+| [A Moment of Peace](https://open.spotify.com/track/3rVwDrLrVPL5igVD1jdInR) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [A Moment of Peace](https://open.spotify.com/album/39E4FKykNiCeUheicVL3On) | 2:14 | 2025-12-12 |  |
 | [A Part Of Us](https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [A Part Of Us](https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI) | 1:57 | 2023-04-03 | 2023-08-22 |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2023-04-03 | 2025-04-26 |
 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 | 2024-09-24 |  |
@@ -173,6 +174,7 @@
 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 | 2023-04-03 | 2024-04-19 |
 | [Nederlag](https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/39AL4A5Eq7QEDW0TU36UzT) | 2:17 | 2024-04-15 | 2025-04-26 |
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2023-04-03 | 2024-09-04 |
+| [neige](https://open.spotify.com/track/4RfvDUXALHvfsgKZmjYlMp) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [neige](https://open.spotify.com/album/0NhFPYdhJgybam7LKK16EU) | 2:35 | 2025-12-12 |  |
 | [New Day](https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [New Day](https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl) | 2:51 | 2023-04-03 | 2025-04-26 |
 | [New Era For Me](https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [New Era For Me](https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4) | 2:37 | 2023-11-29 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2023-04-03 | 2025-04-26 |

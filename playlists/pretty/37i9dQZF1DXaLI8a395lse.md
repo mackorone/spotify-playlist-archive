@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461,526 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461,854 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 39 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 |
 | 40 | [A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 5:12 |
 | 41 | [If You Tolerate This Your Children Will Be Next](https://open.spotify.com/track/2VmyLy2HQlkevZYboXHM5O) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW) | 4:50 |
-| 42 | [The Boy With the Arab Strap](https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With the Arab Strap](https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ) | 5:14 |
-| 43 | [Let Forever Be](https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 3:56 |
+| 42 | [Let Forever Be](https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 3:56 |
+| 43 | [The Boy With the Arab Strap](https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With the Arab Strap](https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ) | 5:14 |
 | 44 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 45 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
 | 46 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 55 | [Steal My Sunshine \- Single Version](https://open.spotify.com/track/5Muvh0ooAJkSgBylFyI3su) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine EP](https://open.spotify.com/album/7xXKgIFgbBSdBAV4rDZ9yp) | 3:31 |
 | 56 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
 | 57 | [Block Rockin' Beats](https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Dig Your Own Hole](https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK) | 5:13 |
-| 58 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
-| 59 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 4:28 |
-| 60 | [History \- Remastered 2016](https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:26 |
+| 58 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 4:28 |
+| 59 | [History \- Remastered 2016](https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:26 |
+| 60 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
 | 61 | [My Favourite Game](https://open.spotify.com/track/7gjm1sq5ALU5svBSi9g178) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO) | 3:37 |
 | 62 | [Kinky Afro](https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Greatest Hits](https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh) | 3:59 |
 | 63 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 70 | [Mulder and Scully](https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 4:11 |
 | 71 | [Fine Time](https://open.spotify.com/track/5z6kCwTvyJb7MlgMPjXFy9) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:06 |
 | 72 | [A.M\. 180](https://open.spotify.com/track/1tMHDdJEz8MFrkPFgwFACG) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Under The Western Freeway](https://open.spotify.com/album/57FtCFNPyiqlltBLhFGDYi) | 3:20 |
-| 73 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
-| 74 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
+| 73 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
+| 74 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
 | 75 | [Gorecki](https://open.spotify.com/track/5VRkJsYcf9z4Wni19FxICi) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Lamb](https://open.spotify.com/album/5pMiACEneeuFtoFR9tEzOO) | 6:30 |
 | 76 | [Sandstorm](https://open.spotify.com/track/3knlIGVH97AywBzVtF1Rpy) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 2:41 |
 | 77 | [Baby Britain](https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:13 |

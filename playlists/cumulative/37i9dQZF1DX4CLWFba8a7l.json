@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Tripping Over Time",
+        "url": "https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176335,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH"
+    },
+    {
+      "album": {
         "name": "And We",
         "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
       },
@@ -616,7 +634,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 157027,
       "name": "Another World",
       "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 295378,
       "name": "Can You Swim?",
       "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
@@ -7440,7 +7458,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 147692,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
@@ -8688,7 +8706,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 192368,
       "name": "This Time For Real",
       "url": "https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum"
@@ -8920,24 +8938,6 @@
       "duration_ms": 227142,
       "name": "Touchy Subject",
       "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "date_added": "2025-12-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH"
     },
     {
       "album": {

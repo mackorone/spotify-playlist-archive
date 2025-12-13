@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-99 songs - 4 hr 42 min
+101 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,9 @@
 | [852 Hz Transcendent Traveler](https://open.spotify.com/track/2S0ZOGLofhySHpJG9eCMao) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [852 Hz Transcendent Traveler](https://open.spotify.com/album/2oUWVJSfPOOzUwIubGHETZ) | 2:23 | 2024-08-27 |  |
 | [852 Hz Way to Heaven](https://open.spotify.com/track/6sIzafjxwxzwkEcm2Qn23W) | [Revotek](https://open.spotify.com/artist/1N601SAkXZBk0x1A8NIrrD) | [852 Hz Way to Heaven](https://open.spotify.com/album/0CAXtBa1ASLi3yJJvWHNLm) | 2:30 | 2025-10-14 |  |
 | [852hz Awaken your Intuition](https://open.spotify.com/track/0alIWUlJRDiiyOmq1y4uB1) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 4:50 | 2023-11-30 |  |
+| [852Hz Clarity of the Soul](https://open.spotify.com/track/6ip5tP6v5KsRaabX5xbX1w) | [Mosaic Tiles](https://open.spotify.com/artist/0N6CxcY2aQYuRWl8HNkqWO) | [852Hz Clarity of the Soul](https://open.spotify.com/album/6ql1QniTd537KRdbGAW44f) | 2:30 | 2025-12-12 |  |
 | [852hz Return to Spiritual Order](https://open.spotify.com/track/2v07Tr7WeqbNTW2r037GEJ) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:08 | 2023-11-30 |  |
+| [A Breath Before Dawn 852 Hz](https://open.spotify.com/track/42Rcuj4WwXTYtViGcpxL4j) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [A Breath Before Dawn 852 Hz](https://open.spotify.com/album/1BraW45VssBwxcGuISb6BY) | 2:39 | 2025-12-12 |  |
 | [Ajna](https://open.spotify.com/track/4h4F7TC8bXOzxU34kMMhXL) | [Klangschalenmeditation](https://open.spotify.com/artist/6XUAMk67lcJtkJ6M9ikGF6) | [Chakrameditation](https://open.spotify.com/album/3lnoWrwdm2ynZoG6ESDO46) | 1:48 | 2023-03-10 | 2024-03-14 |
 | [Alignment 852 Hz](https://open.spotify.com/track/6yJXNUxkwtw0jXhy6a1Yrr) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:45 | 2023-03-10 |  |
 | [Always Wantage 852 Hz](https://open.spotify.com/track/3Tb302vmyJRURdIWVxrEf1) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Always Wantage 852 Hz](https://open.spotify.com/album/6MFzXwPnq37bJZfPHZjtLJ) | 2:27 | 2023-03-10 |  |

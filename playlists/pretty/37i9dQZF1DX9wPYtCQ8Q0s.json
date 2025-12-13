@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 318451,
+  "num_followers": 318424,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -658,19 +658,11 @@
         {
           "name": "DaBaby",
           "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 136366,
-      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -746,11 +738,19 @@
         {
           "name": "DaBaby",
           "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+      "duration_ms": 136366,
+      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "DO IT AGAIN (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 213206,
+      "name": "DO IT AGAIN (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 304000,
       "name": "Assault (Carro Forte)",
       "url": "https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "DO IT AGAIN (feat. 2Rare)",
-        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 213206,
-      "name": "DO IT AGAIN (feat. 2Rare)",
-      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
       "added_at": "2025-12-11 16:00:17",

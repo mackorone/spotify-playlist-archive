@@ -4,7 +4,7 @@
 
 > Becky G in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,411 songs - 5 day 3 hr 39 min
+2,412 songs - 5 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-15 | 2024-09-20 |
 | [Girotondo \(feat\. Gio Evan\)](https://open.spotify.com/track/4MVYJcHU7fFaZz0fALp4fc) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy), [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Piccola abitante di Saturno](https://open.spotify.com/album/0UQpvfjR1GJ7XnMI4ZRpmg) | 2:30 | 2025-04-24 | 2025-05-23 |
 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 | 2025-10-30 | 2025-11-14 |
+| [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-11 |  |
 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 | 2025-09-25 | 2025-10-17 |
 | [GLI OCCHI SU DI NOI \- \(from the Netflix Show “Too Hot To Handle: Italia”\)](https://open.spotify.com/track/2fZSuKQNtEG3hQClKxJf5R) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [GLI OCCHI SU DI NOI \(from the Netflix Show “Too Hot To Handle: Italia”\)](https://open.spotify.com/album/49j3e5RNmdpAD8avHQ9htf) | 2:46 | 2025-07-17 | 2025-08-29 |
 | [GLI SBANDATI HANNO PERSO](https://open.spotify.com/track/4MtjrbmBKdYRMTyEHqOUmM) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:14 | 2024-12-13 | 2025-01-17 |

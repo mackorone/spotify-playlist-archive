@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,697 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,690 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 47 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
 | 48 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
 | 49 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
-| 50 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
+| 50 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
 
 Snapshot ID: `AAAAAKmd2h2fPnvH8f3+42S78WJWq43u`

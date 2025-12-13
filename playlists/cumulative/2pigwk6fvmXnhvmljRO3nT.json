@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2024-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371413,
+      "name": "\"Heroes\" - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "album": {
         "name": "Summer Knights",
         "url": "https://open.spotify.com/album/16KdSB0v7RqYwRjylZCpfn"
       },
@@ -52979,24 +52997,6 @@
     },
     {
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "date_added": "2024-12-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "album": {
         "name": "Lip",
         "url": "https://open.spotify.com/album/4URnSuDHWlAMwRc2oBTzYC"
       },
@@ -88726,6 +88726,24 @@
       "duration_ms": 227880,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/1UyLFPOIG7E1OfamPQLOfD"
+    },
+    {
+      "album": {
+        "name": "The Mollusk",
+        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126946,
+      "name": "Ocean Man",
+      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
     },
     {
       "album": {

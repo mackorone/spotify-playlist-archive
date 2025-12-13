@@ -4,7 +4,7 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-60 songs - 4 hr 22 min
+61 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2025-10-24 |  |
 | [Crystal](https://open.spotify.com/track/77NlLyX4TCDrggCOI7Vtmt) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Crystal](https://open.spotify.com/album/71mVMiVEsfype5XwCGFkGU) | 2:50 | 2025-10-24 |  |
 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 | 2025-10-24 |  |
+| [Don't Cry \- feat\. Sagiri Sól](https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Don't Cry \(feat\. Sagiri Sól\)](https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA) | 4:26 | 2025-12-12 |  |
 | [DOSHABURI \(feat\. JUMADIBA\) \- PAS TASTA Remix](https://open.spotify.com/track/60iwtXuUHtepUcIHXiSrfv) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI \(feat\. JUMADIBA\) \[PAS TASTA Remix\]](https://open.spotify.com/album/7By1ykbXs5wNZ9VPty1ubR) | 2:58 | 2025-10-24 |  |
 | [Dried Seeds](https://open.spotify.com/track/2RztsryTvs1lwAWIUltZi8) | [Albino Sound](https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0) | [Black Lagoon](https://open.spotify.com/album/1imJsFRhPVOmaVzrqIATal) | 5:44 | 2025-10-24 |  |
 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 | 2025-10-24 |  |
@@ -56,7 +57,7 @@
 | [The Endless Lovers \- Pasocom Music Club Remix](https://open.spotify.com/track/53tuINhmAtikGpXPmNlUQO) | [CHERRYBOY FUNCTION](https://open.spotify.com/artist/5XekZo5tIoBmrTb0dsEXx0), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [suggested function EP\#5](https://open.spotify.com/album/06hsjkU7SE0WktfQskjDPX) | 5:54 | 2025-10-24 | 2025-11-08 |
 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 | 2025-10-24 |  |
 | [TRASHURE](https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [TRASHURE](https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U) | 2:41 | 2025-12-02 |  |
-| [UPDOWN](https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [UPDOWN](https://open.spotify.com/album/1NAekmeIgUBkIDOleDUnvX) | 3:26 | 2025-11-07 |  |
+| [UPDOWN](https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [UPDOWN](https://open.spotify.com/album/1NAekmeIgUBkIDOleDUnvX) | 3:26 | 2025-11-07 | 2025-12-13 |
 | [Walk Through The 8th \- DJ WADA Remix](https://open.spotify.com/track/231LOBMBTxZROggsyhV3d9) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Masaki Sakamoto](https://open.spotify.com/artist/0SnpRrNUq87R9ytNHgDbjT), [DJ Wada](https://open.spotify.com/artist/2RPVZCX4kne5nTAvqAH1hf) | [Walk Through The 8th \(Incl\. DJ WADA Remix\)](https://open.spotify.com/album/602TXtDh9LyAyVCl8Yejtb) | 6:05 | 2025-10-24 | 2025-11-15 |
 | [WANDALAND](https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [WANDALAND](https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j) | 2:39 | 2025-12-02 |  |
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-10-24 |  |

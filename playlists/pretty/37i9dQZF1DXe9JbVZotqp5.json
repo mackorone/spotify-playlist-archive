@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 682499,
+  "num_followers": 682523,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 231666,
       "name": "Again",
       "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+      "duration_ms": 229706,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -783,34 +767,34 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 267853,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "The Invisible Band",
-        "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
+        "name": "Science & Faith",
+        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
       },
       "artists": [
         {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+      "duration_ms": 252440,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -831,18 +815,34 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Science & Faith",
-        "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
+        "name": "The Invisible Band",
+        "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
         }
       ],
-      "duration_ms": 252440,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
+      "duration_ms": 228800,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 267853,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329649,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 208560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 329649,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 277502,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 189400,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 277502,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Leave a Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Simple Man - Acoustic",
-      "url": "https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 212933,
       "name": "Woman - Remastered 2010",
       "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Leave a Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Simple Man - Acoustic",
+      "url": "https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "The Seventh One",
-        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 269114,
-      "name": "Stop Loving You",
-      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
+      "duration_ms": 281226,
+      "name": "My Sweet Lord - Remastered 2014",
+      "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
     }
   ],
   "unique_name": "Easy Rock",

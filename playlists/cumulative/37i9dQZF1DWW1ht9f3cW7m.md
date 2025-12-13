@@ -4,7 +4,7 @@
 
 > peach is an indie pop playlist 🥤<br/>cover: Deyaz
 
-477 songs - 1 day 1 hr 40 min
+477 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [all of a sudden we move](https://open.spotify.com/track/1is4WyPrdz56pAcm4BQYsT) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [All of a sudden we move](https://open.spotify.com/album/0m7frKvrGaPlJK4tG1zNGj) | 4:01 | 2025-12-05 |  |
 | [All that !](https://open.spotify.com/track/3BqygYyah5UVTl9ZioclGu) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [All that !](https://open.spotify.com/album/0FVhNOU9SkNAb41HmkFff8) | 3:24 | 2025-05-01 | 2025-06-13 |
 | [Allegedly](https://open.spotify.com/track/7FuKEJqJTH3G86vZyqcwM4) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Allegedly](https://open.spotify.com/album/5yFMiV3EyqQtoCzRduZowR) | 2:48 | 2025-06-12 | 2025-07-11 |
-| [Almost Got It Right](https://open.spotify.com/track/30tUbC6LrMOX0icUADAsXg) | [Izzy S.O](https://open.spotify.com/artist/6Se0jZxqI5RrVRaI45Ablx) | [](https://open.spotify.com/album/null) | 2:20 | 2025-12-12 |  |
+| [Almost Got It Right](https://open.spotify.com/track/30tUbC6LrMOX0icUADAsXg) | [Izzy S.O](https://open.spotify.com/artist/6Se0jZxqI5RrVRaI45Ablx) | [Quest To Be Perfect](https://open.spotify.com/album/4nUolxrI4zD0f0eQjKHlsi) | 2:20 | 2025-12-12 |  |
 | [Alright, Alright](https://open.spotify.com/track/3coi1T3U5MsiisKkQX9Oza) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Alright, Alright](https://open.spotify.com/album/5LD82ktd0nOVBwwCbFOSJo) | 3:55 | 2025-11-07 |  |
 | [Always Almost Losing You](https://open.spotify.com/track/0MyZNBpfBQ6tMIT5o8DviW) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Always Almost Losing You](https://open.spotify.com/album/3QK8NXU2hlevgUC5Qyv76n) | 2:55 | 2025-09-11 |  |
 | [Amelie](https://open.spotify.com/track/70xEmD1pj1SzMDwGEsBIqj) | [Drive Thru](https://open.spotify.com/artist/3LQ7g2ERCrpEw16q34HcF8) | [Amelie](https://open.spotify.com/album/6cX0wcvYOyANX14cz9hm27) | 3:24 | 2025-08-28 | 2025-10-24 |
@@ -163,6 +163,7 @@
 | [Feel This Way](https://open.spotify.com/track/4fHWSFWaxdWn75gEYFq4DN) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Quantum](https://open.spotify.com/album/3wwYOqMfZVejIHfh1aGDQi) | 3:33 | 2025-11-07 |  |
 | [Feeling It All](https://open.spotify.com/track/3lMVLVBnxl7EifZcFBEzyC) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Feeling It All](https://open.spotify.com/album/0AfG7zqUpJSJV1VjvZqO28) | 3:20 | 2025-06-05 | 2025-08-15 |
 | [Feral](https://open.spotify.com/track/22iHFRz6uGaWpeThdeww09) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Feral](https://open.spotify.com/album/53fLgn5m83bKdJ1Bszg5en) | 3:04 | 2025-01-24 | 2025-05-10 |
+| [fishing with you](https://open.spotify.com/track/00mrOygK9z6mXXJRG6RoBv) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [nine lives](https://open.spotify.com/album/60wgsbQ2hH6vFyjflvGWGg) | 2:02 | 2025-12-12 |  |
 | [Five Thousand Miles](https://open.spotify.com/track/4xzv0BL6V897aDLDk9vgFk) | [remote](https://open.spotify.com/artist/5UBiyNOGQ38WLLtpL8ta5d) | [Five Thousand Miles](https://open.spotify.com/album/3lVGavtlcUEjYKy9lh5rgi) | 3:32 | 2025-06-26 | 2025-10-10 |
 | [flicker](https://open.spotify.com/track/3lsyFMtaOSfB70ueR5UeaN) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [flicker](https://open.spotify.com/album/2n9gFIJb9vyxlnz6YZR7pM) | 2:41 | 2025-11-28 |  |
 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 | 2025-04-12 | 2025-06-06 |
@@ -435,7 +436,6 @@
 | [to be free](https://open.spotify.com/track/2f526wBHCGx6u6HsbF0uAE) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [to be free](https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI) | 3:50 | 2025-01-24 | 2025-05-16 |
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 | 2025-05-02 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-27 |
-| [Track 3](https://open.spotify.com/track/00mrOygK9z6mXXJRG6RoBv) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-12 |  |
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-28 |  |
 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 | 2024-06-14 | 2024-07-13 |
 | [Tulips](https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Tulips](https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv) | 3:18 | 2024-06-14 | 2024-07-13 |

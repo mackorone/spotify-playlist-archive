@@ -1,13 +1,49 @@
 {
-  "description": "The home of Canadian country music. Cover: Tenille Arts",
-  "num_followers": 83413,
+  "description": "The home of Canadian country music. Cover: Brett Kissel",
+  "num_followers": 83416,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACer1qPlZwLZ8sgVAuQDeDKA8rq6",
+  "snapshot_id": "AAAAAEm3HUSHig6bKefWPy66zUIYqMH4",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Farmer",
+        "url": "https://open.spotify.com/album/13nnrjheHl13arW3ICHMxW"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Farmer",
+      "url": "https://open.spotify.com/track/0jbVLGFKiT6lDtO1hFfGLV"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Phone Call From Home",
+        "url": "https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 187119,
+      "name": "Phone Call From Home",
+      "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
+    },
     {
       "added_at": "2025-12-05 05:01:34",
       "album": {
@@ -27,38 +63,6 @@
     {
       "added_at": "2025-11-28 05:01:04",
       "album": {
-        "name": "Count On Me",
-        "url": "https://open.spotify.com/album/5ithF5SZhrIOImWRo7pB3m"
-      },
-      "artists": [
-        {
-          "name": "Brett Kissel",
-          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
-        }
-      ],
-      "duration_ms": 219929,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/1KunqIj5qXEYbB8aBCY5bb"
-    },
-    {
-      "added_at": "2025-11-14 12:09:53",
-      "album": {
-        "name": "Phone Call From Home",
-        "url": "https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 187119,
-      "name": "Phone Call From Home",
-      "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
-    },
-    {
-      "added_at": "2025-11-28 05:01:04",
-      "album": {
         "name": "That's Just Love For Ya",
         "url": "https://open.spotify.com/album/5pDtTHZty1ErXzu4r7k1Us"
       },
@@ -71,54 +75,6 @@
       "duration_ms": 188663,
       "name": "That's Just Love For Ya",
       "url": "https://open.spotify.com/track/50U3w2Cj9TRbX9Ea3Yju0L"
-    },
-    {
-      "added_at": "2025-11-28 05:01:04",
-      "album": {
-        "name": "Crumble",
-        "url": "https://open.spotify.com/album/5mblQYNXeC9Ob7bYSgNNh7"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        }
-      ],
-      "duration_ms": 170501,
-      "name": "Crumble",
-      "url": "https://open.spotify.com/track/2KlpiqavcINb8DaNR4mlxc"
-    },
-    {
-      "added_at": "2025-11-28 05:01:04",
-      "album": {
-        "name": "Must Be Listening",
-        "url": "https://open.spotify.com/album/6YX0AUv2zsKIlHtU4seeth"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Fisher",
-          "url": "https://open.spotify.com/artist/72fK1tR09pjiiGHJciVg73"
-        }
-      ],
-      "duration_ms": 173388,
-      "name": "Must Be Listening",
-      "url": "https://open.spotify.com/track/4Q7460eF0zC7PZN2voDMvy"
-    },
-    {
-      "added_at": "2025-11-14 12:09:53",
-      "album": {
-        "name": "The Hard Way (Deluxe)",
-        "url": "https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 154623,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
     },
     {
       "added_at": "2025-11-21 05:02:28",
@@ -141,20 +97,100 @@
       "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
     },
     {
-      "added_at": "2025-11-14 12:09:53",
+      "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Appaloosa",
-        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
+        "name": "Man Outta Me",
+        "url": "https://open.spotify.com/album/4ZWQHVRMLBrwJc3CU1VsiJ"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Savannah Jade",
+          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
         }
       ],
-      "duration_ms": 213137,
-      "name": "Oh My Days",
-      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
+      "duration_ms": 209942,
+      "name": "Man Outta Me",
+      "url": "https://open.spotify.com/track/51nRWKX2GqMu4h5B0jqlqJ"
+    },
+    {
+      "added_at": "2025-10-24 04:25:20",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
+    },
+    {
+      "added_at": "2025-11-28 05:01:04",
+      "album": {
+        "name": "Must Be Listening",
+        "url": "https://open.spotify.com/album/6YX0AUv2zsKIlHtU4seeth"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Fisher",
+          "url": "https://open.spotify.com/artist/72fK1tR09pjiiGHJciVg73"
+        }
+      ],
+      "duration_ms": 173388,
+      "name": "Must Be Listening",
+      "url": "https://open.spotify.com/track/4Q7460eF0zC7PZN2voDMvy"
+    },
+    {
+      "added_at": "2025-11-28 05:01:04",
+      "album": {
+        "name": "Crumble",
+        "url": "https://open.spotify.com/album/5mblQYNXeC9Ob7bYSgNNh7"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        }
+      ],
+      "duration_ms": 170501,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/2KlpiqavcINb8DaNR4mlxc"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "The Hard Way (Deluxe)",
+        "url": "https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 154623,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
+    },
+    {
+      "added_at": "2025-10-24 04:25:20",
+      "album": {
+        "name": "Both Can Be True",
+        "url": "https://open.spotify.com/album/2yGCgsPNGVlmmdmHDtQOnN"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 210215,
+      "name": "Both Can Be True",
+      "url": "https://open.spotify.com/track/18oBIkNn8F7ACUvppfjE8n"
     },
     {
       "added_at": "2025-11-28 05:01:04",
@@ -171,6 +207,22 @@
       "duration_ms": 218624,
       "name": "Back 40 Bible Verse",
       "url": "https://open.spotify.com/track/3zrMYDjtOWEDrku50OCE5g"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Appaloosa",
+        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 213137,
+      "name": "Oh My Days",
+      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
     },
     {
       "added_at": "2025-11-21 05:02:28",
@@ -221,20 +273,36 @@
       "url": "https://open.spotify.com/track/3e3qxcYhZmPL0GjUdNzjnK"
     },
     {
-      "added_at": "2025-10-24 04:25:20",
+      "added_at": "2025-11-14 12:09:53",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
+        "name": "The Encore Mixes",
+        "url": "https://open.spotify.com/album/4LPotAUEKa8MtLsTmy2yeC"
       },
       "artists": [
         {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
+      "duration_ms": 170741,
+      "name": "Drive Me Away - Dashboard Mix",
+      "url": "https://open.spotify.com/track/3COsBsMHY5UaB7slB7wno7"
+    },
+    {
+      "added_at": "2025-10-24 04:25:20",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
     },
     {
       "added_at": "2025-11-21 05:02:28",
@@ -271,22 +339,6 @@
       "duration_ms": 269800,
       "name": "Life At 19",
       "url": "https://open.spotify.com/track/04adbpnH6A7q8wnaaSadmb"
-    },
-    {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Both Can Be True",
-        "url": "https://open.spotify.com/album/2yGCgsPNGVlmmdmHDtQOnN"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 210215,
-      "name": "Both Can Be True",
-      "url": "https://open.spotify.com/track/18oBIkNn8F7ACUvppfjE8n"
     },
     {
       "added_at": "2025-10-10 00:01:13",
@@ -337,22 +389,6 @@
       "url": "https://open.spotify.com/track/4HCqSBVpd83ZcekvjuMbVc"
     },
     {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50"
-      },
-      "artists": [
-        {
-          "name": "Emmett Jerome",
-          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
-    },
-    {
       "added_at": "2025-11-21 05:02:28",
       "album": {
         "name": "Sober You Ain\u2019t Thinkin\u2019",
@@ -367,22 +403,6 @@
       "duration_ms": 177482,
       "name": "Sober You Ain\u2019t Thinkin\u2019",
       "url": "https://open.spotify.com/track/0r8QhXiZmVxEFVETQGVzN3"
-    },
-    {
-      "added_at": "2025-11-14 12:09:53",
-      "album": {
-        "name": "The Encore Mixes",
-        "url": "https://open.spotify.com/album/4LPotAUEKa8MtLsTmy2yeC"
-      },
-      "artists": [
-        {
-          "name": "Jess Moskaluke",
-          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
-        }
-      ],
-      "duration_ms": 170741,
-      "name": "Drive Me Away - Dashboard Mix",
-      "url": "https://open.spotify.com/track/3COsBsMHY5UaB7slB7wno7"
     },
     {
       "added_at": "2025-11-14 12:09:53",
@@ -437,6 +457,22 @@
       "url": "https://open.spotify.com/track/1V6ImmKDA2wOXfcJdAr4DW"
     },
     {
+      "added_at": "2025-10-17 04:01:39",
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1GIHpTihLalWrEw8qi07RJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "duration_ms": 155332,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS"
+    },
+    {
       "added_at": "2025-10-06 15:31:33",
       "album": {
         "name": "Taillight This Town",
@@ -483,22 +519,6 @@
       "duration_ms": 179218,
       "name": "Dead to Me",
       "url": "https://open.spotify.com/track/6cAgAl351adI4ETmE4pfnX"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1GIHpTihLalWrEw8qi07RJ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vanderzon",
-          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
-        }
-      ],
-      "duration_ms": 155332,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS"
     },
     {
       "added_at": "2025-11-21 05:02:28",

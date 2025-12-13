@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Ghostbusters (Piano & Strings Version)",
+        "url": "https://open.spotify.com/album/0ngJtCl8z5tWE1ieojp3Tf"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123134,
+      "name": "Ghostbusters - Piano & Strings Version",
+      "url": "https://open.spotify.com/track/3beAE0QZgk8GIKy3epPfAS"
+    },
+    {
+      "album": {
         "name": "Nosferatu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x"
       },

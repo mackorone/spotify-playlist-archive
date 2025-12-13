@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Juice Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,768 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,781 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 5 | [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 |
 | 6 | [罵醒我 \- Reimagined](https://open.spotify.com/track/7AELAaa9rhzehJlIfoYjJW) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [罵醒我 \(Reimagined\)](https://open.spotify.com/album/6kqSoZtOW6bS4otULJdcE2) | 3:59 |
 | 7 | [做我的初戀 \(純愛不插電\)](https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [做我的初戀（純愛不插電）](https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5) | 3:17 |
-| 8 | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w), [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM) | 3:32 |
+| 8 | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R) | [8lak 張鈞](https://open.spotify.com/artist/5XV6qqcjxpGfkWv72sOTMq), [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM) | 3:32 |
 | 9 | [無害](https://open.spotify.com/track/03zi4JcLh6q0T1EBMHWSYb) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [無害](https://open.spotify.com/album/3HgTssCjCwc9Gu7uhwMQ4J) | 3:07 |
 | 10 | [若無你我欲去佗位](https://open.spotify.com/track/76EfpqmO6JUL2TTR1SIGwz) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [若無你我欲去佗位](https://open.spotify.com/album/62aFcrZppdH6tQqYX5ncIQ) | 3:41 |
 | 11 | [浪漫主意](https://open.spotify.com/track/43OtONkkpQsJkOqZd6hdF0) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [浪漫主意](https://open.spotify.com/album/1obAdjTU5cy11BMIOpBHAo) | 3:31 |

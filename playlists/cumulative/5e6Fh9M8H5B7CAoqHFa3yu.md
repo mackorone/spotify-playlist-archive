@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,648 songs - 4 day 4 hr 6 min
+1,652 songs - 4 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Detroit Lights](https://open.spotify.com/track/5LpZ6xHg6CFgG9pGT3Spo7) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Detroit Lights](https://open.spotify.com/album/60PqwPtErtttJWCBVCuDis) | 3:08 | 2024-07-08 |  |
 | [Devil's Face](https://open.spotify.com/track/3DAmEvrVMtu73MjmKErOrt) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ) | 2:43 | 2024-03-04 |  |
 | [Devil's Night](https://open.spotify.com/track/79SZRWIbDwQeuGvgsAA0EC) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Infamous](https://open.spotify.com/album/2koeql9xhHIxUSOAld7KQ7) | 3:56 | 2024-03-04 |  |
+| [Diciembre](https://open.spotify.com/track/7HcTfuD0J46PbGGfeUHW0p) | [Samuel Calderón](https://open.spotify.com/artist/6VFOsXn6LfGB6MMdQzvs4l) | [Diciembre](https://open.spotify.com/album/5v8BbfUJ1ruR9vpEoKpV6S) | 3:09 | 2025-12-12 |  |
 | [Dictating Dub](https://open.spotify.com/track/5OtbxOeiDiGKQp5sw7Z9L9) | [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI), [Soulfyah Productions](https://open.spotify.com/artist/3xfPZ7qqVERUXCqG4R8iuo) | [Dubplate Situation](https://open.spotify.com/album/6k38XmcfFo4VVIviTFp2Gs) | 3:18 | 2024-05-03 |  |
 | [Dictator](https://open.spotify.com/track/62DJ1ZRjH1ndclw3JVQNSk) | [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI), [Soulfyah Productions](https://open.spotify.com/artist/3xfPZ7qqVERUXCqG4R8iuo) | [Dubplate Situation](https://open.spotify.com/album/6k38XmcfFo4VVIviTFp2Gs) | 3:18 | 2024-03-10 |  |
 | [Diferencias de guárdame las vacas](https://open.spotify.com/track/62ZoPRToEyIn2QtcVukAkF) | [Luis de Narváez](https://open.spotify.com/artist/4JMUY8vz7lmJsI6oaQ8G6Q), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música Antigua Para Cítola Y Vihuela](https://open.spotify.com/album/03xRLo5mXY5KsALtg92jCh) | 1:23 | 2025-08-12 |  |
@@ -811,6 +812,7 @@
 | [Launch](https://open.spotify.com/track/3cZixkhRsuOr4Zu9EwSCrD) | [iGL & Alecho](https://open.spotify.com/artist/0P7Ws2hOKvUgOadBq0nTXn) | [From A Droplet](https://open.spotify.com/album/2KkhkN4s5St2MqJNVeojam) | 4:48 | 2024-03-25 |  |
 | [Le Lacrime al Sale](https://open.spotify.com/track/1SbLbL6GMqVIVgwR8CU0Kc) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Le Lacrime al Sale](https://open.spotify.com/album/5kp3VIueUreQP4JD7maaUY) | 4:38 | 2025-06-14 |  |
 | [Leaving Babylon Behind](https://open.spotify.com/track/7BTgabbcnStUyObdMD5rbF) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Leaving Babylon Behind](https://open.spotify.com/album/4AnzOMT8dJ11pxrIx09IqG) | 3:25 | 2024-03-10 |  |
+| [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 | 2025-12-12 |  |
 | [Legal \- Professor Skank Remix](https://open.spotify.com/track/1xNI4yxzus7PVTJbauA8tA) | [Mr Zebre](https://open.spotify.com/artist/3y7HySXXsJL04wmIQfrEPD), [Rebel\-I](https://open.spotify.com/artist/5sk0yYZNTRXG1Ph14bpSVu) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:52 | 2024-03-23 |  |
 | [Lemon](https://open.spotify.com/track/1dBOiO81ysvIzqZpoUx99T) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [Lemon](https://open.spotify.com/album/4tQCTSjSTnPtZPTFgbxyuX) | 3:03 | 2025-07-23 |  |
 | [Lest I Go Astray](https://open.spotify.com/track/1VnGMx6nCM3sDpxLMVTYIq) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:30 | 2024-03-25 |  |
@@ -1536,6 +1538,7 @@
 | [Vershon](https://open.spotify.com/track/7bMIhgZ8h24RoRISroiyAj) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn), [Sammy Gold](https://open.spotify.com/artist/7iLvlwOs7UWVWw1VNoFa7l) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:40 | 2024-05-01 |  |
 | [Version](https://open.spotify.com/track/5MmzWvm6Qw6TkTvPloOrXO) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Follow The Bassline](https://open.spotify.com/album/090Dn5JbWzxVKvmeGGTtDi) | 3:26 | 2024-05-01 |  |
 | [Version 20](https://open.spotify.com/track/3d962VLzDaOA42O1sTOrvr) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Version 20](https://open.spotify.com/album/2bUYIrZkGqup6nbbxTPqqS) | 4:40 | 2024-11-30 |  |
+| [Verso il Mare è Natale](https://open.spotify.com/track/1NBWtqcysS0hOBZrgJLZAU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Verso il Mare è Natale](https://open.spotify.com/album/0x3trmflU8tn0O2WfAibmO) | 3:01 | 2025-12-12 |  |
 | [VERTIGO ROCK](https://open.spotify.com/track/0IHnjvD1P9RNnwOM7BxeEl) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [VERTIGO ROCK](https://open.spotify.com/album/7eAI024Vg4jx6H5u1CZipB) | 1:28 | 2025-03-06 |  |
 | [Vicky](https://open.spotify.com/track/4CFl9apNEnVSUGJyXWE4R6) | [Marzena Majcher](https://open.spotify.com/artist/6sHN6iLyhZVMg5w5t7Kdsj) | [Amateurs \(Original motion picture soundtrack\)](https://open.spotify.com/album/4Z8t4Qv9a3l39Nkq5HsoBa) | 2:44 | 2025-09-10 |  |
 | [Vindicta](https://open.spotify.com/track/5J45NNA2HrWzwnWJG3IsAG) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Vindicta](https://open.spotify.com/album/2Vn5fMsQhKkKOnkJisvOtA) | 4:23 | 2024-04-10 |  |
@@ -1602,6 +1605,7 @@
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2024-03-04 |  |
 | [WW3 Dub](https://open.spotify.com/track/1bJJoJLnnYsUaFREO4v0Jt) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:57 | 2024-03-23 |  |
 | [XanMan](https://open.spotify.com/track/2JAa6n5fsEVSQub0mYmUZy) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [XanMan](https://open.spotify.com/album/6qzidS9awVafvZeKvE8TOl) | 1:39 | 2025-10-21 |  |
+| [Y Grita](https://open.spotify.com/track/7bSY9NtCoYbCjHKy0unjEF) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Y Grita](https://open.spotify.com/album/6VsGcYvyC0v5zVfar45RcY) | 2:21 | 2025-12-12 |  |
 | [Ya no volverás](https://open.spotify.com/track/5AjrEpCiy4HbEJng7qfgVv) | [Ausbet](https://open.spotify.com/artist/5p0KDXXyKBVIGqGWQt546k) | [Ya no volverás](https://open.spotify.com/album/6LP4iOLLELE7kuxD4HJ9Am) | 4:41 | 2025-05-22 |  |
 | [Yes and No](https://open.spotify.com/track/7oDKwAmuiyDEvp67pmA7Ic) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O) | [The Royal We](https://open.spotify.com/album/50Yb3LgGiKflD75t0SPwrc) | 3:26 | 2025-07-02 |  |
 | [Yes Jah](https://open.spotify.com/track/6Rsuye9d9PwDtw5I6fU5NT) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Lost Transmissions](https://open.spotify.com/album/1IvD6MDub4gPiIz4VcZByo) | 3:41 | 2024-03-25 |  |

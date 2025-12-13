@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Out Of/Into",
+  "description": "New jazz for open minds. Cover: Joel Ross",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -13718,7 +13718,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 280639,
       "name": "Get Deep",
       "url": "https://open.spotify.com/track/4TdW6NTxwtGSFj0wHTG6sZ"
@@ -21132,7 +21132,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 208933,
       "name": "Mad Hope (feat. Louis Cole, Sam Gendel, Sam Wilkes)",
       "url": "https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1"
@@ -29799,6 +29799,24 @@
     },
     {
       "album": {
+        "name": "Scurry",
+        "url": "https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley Trio",
+          "url": "https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189548,
+      "name": "Scurry",
+      "url": "https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce"
+    },
+    {
+      "album": {
         "name": "Black Seeds",
         "url": "https://open.spotify.com/album/4WmLGgTomCRiHAlVLG48ol"
       },
@@ -33839,6 +33857,36 @@
     },
     {
       "album": {
+        "name": "Talking Drum",
+        "url": "https://open.spotify.com/album/3YRPgLHPObFfpBEUrcGThH"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306733,
+      "name": "Talking Drum",
+      "url": "https://open.spotify.com/track/0lLFgw2lZ6W2UVuITu4wAU"
+    },
+    {
+      "album": {
         "name": "Tamir (for Tamir Rice)",
         "url": "https://open.spotify.com/album/084BcVtp6wW6Tm7kE24keG"
       },
@@ -36408,7 +36456,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 390360,
       "name": "The Weirdos",
       "url": "https://open.spotify.com/track/72d2OHopugpvkGhYRJcrCw"
@@ -40388,6 +40436,24 @@
       "duration_ms": 410775,
       "name": "Wintry Mix",
       "url": "https://open.spotify.com/track/0AV8QoP3V7NxKRaYThhDHH"
+    },
+    {
+      "album": {
+        "name": "Wisdom Is Eternal (For Barry Harris)",
+        "url": "https://open.spotify.com/album/07PWUfIc6P2tDrzoEusUyx"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273190,
+      "name": "Wisdom Is Eternal (For Barry Harris)",
+      "url": "https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7"
     },
     {
       "album": {

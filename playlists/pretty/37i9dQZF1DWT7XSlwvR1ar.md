@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,122,397 likes - 125 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,122,285 likes - 125 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 66 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
 | 67 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
 | 68 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 |
-| 69 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
-| 70 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 |
-| 71 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
+| 69 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 |
+| 70 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
+| 71 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
 | 72 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
 | 73 | [Nick Of Time](https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Nick Of Time](https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX) | 4:10 |
 | 74 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 |
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 78 | [Forget About Us](https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Forget About Us](https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i) | 3:16 |
 | 79 | [Stay For Something](https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Stay For Something](https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS) | 3:36 |
 | 80 | [Children of the Empire](https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:03 |
-| 81 | [Gloria](https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Gloria Sparks](https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR) | 3:36 |
-| 82 | [I Found Out](https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:53 |
+| 81 | [I Found Out](https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:53 |
+| 82 | [Gloria](https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Gloria Sparks](https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR) | 3:36 |
 | 83 | [Regret Me](https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Regret Me](https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA) | 3:16 |
 | 84 | [German Cars](https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [German Cars](https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT) | 3:21 |
 | 85 | [Missing Home](https://open.spotify.com/track/29j2Y1N3vpyvm385G4TFSS) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Missing Home](https://open.spotify.com/album/7mb7CpPeL9DJCQGAEIbkHS) | 3:39 |
-| 86 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
-| 87 | [Sweet Unknown](https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:58 |
+| 86 | [Sweet Unknown](https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:58 |
+| 87 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
 | 88 | [Expectations](https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl) | 3:55 |
 | 89 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
 | 90 | [Superglue](https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:10 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 |
 | 100 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 |
 | 101 | [Yours in the Morning](https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Yours in the Morning](https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5) | 3:34 |
-| 102 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |
-| 103 | [This Year](https://open.spotify.com/track/0uk2K61goFiYbajsFToXU8) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX) | 3:14 |
+| 102 | [This Year](https://open.spotify.com/track/0uk2K61goFiYbajsFToXU8) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX) | 3:14 |
+| 103 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |
 | 104 | [Love Is Love](https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Love Is Love](https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45) | 3:06 |
 | 105 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
 | 106 | [Hollywood Forever Cemetery](https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 3:29 |

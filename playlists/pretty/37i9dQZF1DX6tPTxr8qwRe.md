@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- Mad Tsai on the cover
+> sweet\. sharp\. unbothered \- Eileen Alister on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,715 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,697 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HOUNDSOFHELL](https://open.spotify.com/track/0mWAqUgHBubNf7phC3hjA0) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [HOUNDSOFHELL](https://open.spotify.com/album/27hbVCgSKy5AQxv1yykYwJ) | 3:04 |
-| 2 | [mR.mELoDramAtiC](https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 2:52 |
-| 3 | [Claws](https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Claws](https://open.spotify.com/album/0w7WFXa2rHkGhXcfyCFSlc) | 2:47 |
-| 4 | [UNHINGED](https://open.spotify.com/track/03pMmhhwBbSoUuKdGpj9PG) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [UNHINGED](https://open.spotify.com/album/1HS3pbvrFKsK0pkM7UQApo) | 2:12 |
-| 5 | [ALL I SAW WAS YOU \(feat\. Jessica Baio\)](https://open.spotify.com/track/4wheipzDTRRuxDeTfjeeDE) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ALL I SAW WAS YOU \(feat\. Jessica Baio\)](https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp) | 3:05 |
-| 6 | [Trauma Olympics](https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Mind Your Business](https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu) | 2:04 |
-| 7 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
-| 8 | [avoidant little b <3](https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [avoidant little b <3](https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ) | 2:28 |
-| 9 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 |
-| 10 | [SPEAKERS](https://open.spotify.com/track/1A9xerPyv4MQJBpCvAqSeD) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [SPEAKERS](https://open.spotify.com/album/1jLXo9Y5IH2C9fnnnzdN84) | 2:01 |
-| 11 | [SERiAL KiLLER](https://open.spotify.com/track/5hAKpqv7L2bhzzQr4XDN6z) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [SERiAL KiLLER](https://open.spotify.com/album/0izQeMP2SyIqsD8vH3s3bi) | 2:52 |
-| 12 | [Predator](https://open.spotify.com/track/4Yw8f14VJifM5loeSSKlW0) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Predator](https://open.spotify.com/album/41U6YwMaGP6wdtRTZptEaG) | 1:55 |
-| 13 | [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 |
-| 14 | [WHEN IT'S ALL HAPPENING](https://open.spotify.com/track/5J5nNJuC002ukgXvjDseA6) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [WHEN IT'S ALL HAPPENING](https://open.spotify.com/album/3mlKuxtJkPzW4ijNL6BTbf) | 2:38 |
-| 15 | [Porcelana](https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:08 |
-| 16 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
-| 17 | [Medicine](https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Medicine](https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e) | 3:49 |
-| 18 | [Blood Guts & Pixie Dust](https://open.spotify.com/track/36MkP16YXxjCjpz7NMdfyW) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Blood Guts & Pixie Dust](https://open.spotify.com/album/6mtR02tgYD4EsPimDQERY1) | 3:26 |
-| 19 | [ALICE \- Red Queen Version](https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [ALICE \(Red Queen Version\)](https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2) | 2:28 |
-| 20 | [spiderwebs](https://open.spotify.com/track/3zkguegMPvaPcmHaUzIeN2) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [spiderwebs](https://open.spotify.com/album/1fGjcMkLO4Yh7tNVaisrPh) | 2:39 |
-| 21 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
+| 1 | [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 |
+| 2 | [HOUNDSOFHELL](https://open.spotify.com/track/0mWAqUgHBubNf7phC3hjA0) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [HOUNDSOFHELL](https://open.spotify.com/album/27hbVCgSKy5AQxv1yykYwJ) | 3:04 |
+| 3 | [mR.mELoDramAtiC](https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 2:52 |
+| 4 | [Claws](https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Claws](https://open.spotify.com/album/0w7WFXa2rHkGhXcfyCFSlc) | 2:47 |
+| 5 | [UNHINGED](https://open.spotify.com/track/03pMmhhwBbSoUuKdGpj9PG) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [UNHINGED](https://open.spotify.com/album/1HS3pbvrFKsK0pkM7UQApo) | 2:12 |
+| 6 | [ALL I SAW WAS YOU \(feat\. Jessica Baio\)](https://open.spotify.com/track/4wheipzDTRRuxDeTfjeeDE) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ALL I SAW WAS YOU \(feat\. Jessica Baio\)](https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp) | 3:05 |
+| 7 | [Trauma Olympics](https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Mind Your Business](https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu) | 2:04 |
+| 8 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
+| 9 | [avoidant little b <3](https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [avoidant little b <3](https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ) | 2:28 |
+| 10 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 |
+| 11 | [SPEAKERS](https://open.spotify.com/track/1A9xerPyv4MQJBpCvAqSeD) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [SPEAKERS](https://open.spotify.com/album/1jLXo9Y5IH2C9fnnnzdN84) | 2:01 |
+| 12 | [SERiAL KiLLER](https://open.spotify.com/track/5hAKpqv7L2bhzzQr4XDN6z) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [SERiAL KiLLER](https://open.spotify.com/album/0izQeMP2SyIqsD8vH3s3bi) | 2:52 |
+| 13 | [Predator](https://open.spotify.com/track/4Yw8f14VJifM5loeSSKlW0) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Predator](https://open.spotify.com/album/41U6YwMaGP6wdtRTZptEaG) | 1:55 |
+| 14 | [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 |
+| 15 | [WHEN IT'S ALL HAPPENING](https://open.spotify.com/track/5J5nNJuC002ukgXvjDseA6) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [WHEN IT'S ALL HAPPENING](https://open.spotify.com/album/3mlKuxtJkPzW4ijNL6BTbf) | 2:38 |
+| 16 | [Porcelana](https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:08 |
+| 17 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
+| 18 | [Medicine](https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Medicine](https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e) | 3:49 |
+| 19 | [Blood Guts & Pixie Dust](https://open.spotify.com/track/36MkP16YXxjCjpz7NMdfyW) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Blood Guts & Pixie Dust](https://open.spotify.com/album/6mtR02tgYD4EsPimDQERY1) | 3:26 |
+| 20 | [ALICE \- Red Queen Version](https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [ALICE \(Red Queen Version\)](https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2) | 2:28 |
+| 21 | [spiderwebs](https://open.spotify.com/track/3zkguegMPvaPcmHaUzIeN2) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [spiderwebs](https://open.spotify.com/album/1fGjcMkLO4Yh7tNVaisrPh) | 2:39 |
 | 22 | [Drama At The Disco](https://open.spotify.com/track/45ozmsRUaG5TFVDRu5OFlY) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Drama At The Disco](https://open.spotify.com/album/5d3XKHPGdddWfI92v5H8Q7) | 3:27 |
 | 23 | [If You’re Into That](https://open.spotify.com/track/4BkQq2ZQ5ziixtXfMS8Oab) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Roses](https://open.spotify.com/album/6SELPx1TMG3G328lQ9euY7) | 2:41 |
 | 24 | [TRY ME](https://open.spotify.com/track/5vkj0zwQTLCYG0fz7aXowq) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [TRY ME](https://open.spotify.com/album/27N2w3HCb9H5OkHtglr8Yp) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
 | 50 | [Crucify Me](https://open.spotify.com/track/6CRtl0zQVr5LxmFCVIqnjZ) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Crucify Me](https://open.spotify.com/album/0xklVGzqJfLr2w2IJeLyEB) | 2:20 |
 
-Snapshot ID: `AAAAAF2WfLwu32k5t/iWTQtp43Wc+bRC`
+Snapshot ID: `AAAAAMW6y/3bgzRmRmPzN9oTBkQJIDrN`

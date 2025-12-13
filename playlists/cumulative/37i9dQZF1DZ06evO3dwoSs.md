@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-147 songs - 9 hr 12 min
+148 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [M.I.N.E \(End This Way\)](https://open.spotify.com/track/4KwctVpNvYmbT6Pve7llRu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:05 | 2023-08-25 | 2024-02-26 |
 | [M.I.N.E \(End This Way\)](https://open.spotify.com/track/4kn8ZK9aWTfZDdPMIExcD8) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 4:05 | 2024-02-25 | 2025-09-11 |
 | [M.I.N.E \(End This Way\) \- 2025 VERSION](https://open.spotify.com/track/32DHKiafpMLVlJrZHrlUem) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 4:03 | 2025-09-11 |  |
+| [Mama Said Knock You Out](https://open.spotify.com/track/2TdpWCDMpjeNqrrLeZY4V5) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 2:47 | 2025-12-13 |  |
 | [Mama Said Knock You Out](https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 2:47 | 2023-09-15 | 2025-12-12 |
 | [Mama Said Knock You Out](https://open.spotify.com/track/5tGGvBpnjKJosBAmsb9eHX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 2:47 | 2022-05-30 | 2023-09-16 |
 | [My Nemesis](https://open.spotify.com/track/3YdGWVvW7iZtVhPkF375Dn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0) | 3:35 | 2023-11-10 | 2025-11-06 |

@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Alex Warren & Gigi Perez
 
-2,490 songs - 5 day 14 hr 3 min
+2,495 songs - 5 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 | 2024-02-23 | 2024-09-21 |
 | [Beautiful World](https://open.spotify.com/track/1AcLopklm3BN9tvIS1Qion) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Beautiful World](https://open.spotify.com/album/15yAjBjQkDIAmziw2vWmNP) | 1:52 | 2023-10-06 | 2023-11-18 |
 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 | 2024-11-15 | 2025-01-04 |
+| [bedbugs](https://open.spotify.com/track/3t0wHoNCslyfDAKFbITATo) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [bedbugs](https://open.spotify.com/album/4oRXbaSKfwSIECIt5bWiA5) | 3:38 | 2025-12-12 |  |
 | [Bedhead \(feat\. Anna Clendening\)](https://open.spotify.com/track/6HbXhn1ozap6E7PxtdzaZ0) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Flash](https://open.spotify.com/album/1zdQmQxGCIO3M3OJwejsvi) | 2:27 | 2020-05-01 | 2020-09-11 |
 | [bedroom walls](https://open.spotify.com/track/6juSWnv6yERefw1dM13Qyu) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bedroom walls](https://open.spotify.com/album/6cDZkG4uTrz3jlI3Bilapt) | 2:12 | 2021-06-05 | 2021-07-04 |
 | [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 | 2025-11-07 |  |
@@ -775,6 +776,7 @@
 | [Ghost](https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Ghost](https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ) | 3:58 | 2024-08-02 | 2024-11-02 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-09-14 | 2022-01-15 |
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2022-12-09 | 2023-04-29 |
+| [Ginger Tea](https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 2:37 | 2025-12-12 |  |
 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 | 2023-12-08 | 2024-04-27 |
 | [Girl In The Mirror](https://open.spotify.com/track/0EUG6aR5MMgsw5tJ89gson) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Girl In The Mirror](https://open.spotify.com/album/7MohXA18YgyFLQThDzZa7Z) | 3:48 | 2024-01-12 | 2024-01-27 |
 | [girl next door](https://open.spotify.com/track/4bd1V7nlKSW0pN2W13pFue) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [girl next door](https://open.spotify.com/album/7JpRzIRYmyEMbvCT2yWyBR) | 3:26 | 2024-07-05 | 2024-07-27 |
@@ -973,6 +975,7 @@
 | [I Can't Wait to Be British](https://open.spotify.com/track/2HAnmtm1N1twtiVRrLD4jQ) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [I Can't Wait to Be British](https://open.spotify.com/album/6QlIINO4XfjelShb0urw5g) | 3:25 | 2021-06-12 | 2021-07-10 |
 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 | 2024-12-06 | 2025-03-29 |
 | [I Could Lie Here Forever](https://open.spotify.com/track/50pIMDAN83q0IzMGtydvst) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [I Could Lie Here Forever / But Life Gets In The Way](https://open.spotify.com/album/54eVIlEmEqn9P5LCdTqdG3) | 2:45 | 2023-05-05 | 2023-06-24 |
+| [I Could Miss You Forever](https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [I Could Miss You Forever](https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx) | 3:37 | 2025-12-12 |  |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2021-05-22 | 2021-08-07 |
 | [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 | 2023-11-17 | 2023-12-30 |
 | [I Don't Care](https://open.spotify.com/track/3qR417vBrNd4Lf01eMVwWB) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw) | [I Don't Care](https://open.spotify.com/album/17GLkeQ4HyRAWfTDjzEKYP) | 3:45 | 2020-07-11 | 2020-10-09 |
@@ -1614,6 +1617,7 @@
 | [Over it Now](https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo) | [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [Over it Now](https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8) | 3:23 | 2025-08-29 | 2025-10-18 |
 | [Over the Moon](https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Over the Moon](https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef) | 4:16 | 2024-02-16 | 2024-04-27 |
 | [Over You](https://open.spotify.com/track/73sP0b1YZ74voCWVWbbueL) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Over You](https://open.spotify.com/album/6Gy9u1jVgnQWjW0bCJKnWD) | 3:00 | 2020-05-30 | 2020-07-24 |
+| [Overkill](https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Overkill](https://open.spotify.com/album/3UAhzKyLSrVek7nUGN7bnO) | 4:00 | 2025-12-12 |  |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-05 | 2024-07-16 |
 | [Pacemaker](https://open.spotify.com/track/3KkoTGEnBJY07r1atEBxbe) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Pacemaker](https://open.spotify.com/album/620asHETGznhXwYUUFP3TB) | 3:09 | 2025-05-02 | 2025-06-28 |
 | [Pages](https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pages](https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia) | 3:14 | 2024-03-08 | 2024-04-24 |
@@ -2160,6 +2164,7 @@
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-29 | 2023-12-09 |
 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 | 2025-10-24 |  |
 | [The Plan](https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [12 Notes \(Deluxe\) \[16 Notes\]](https://open.spotify.com/album/6ul4W8XzkvOeS1YgPfY3TF) | 2:49 | 2024-09-20 | 2024-11-09 |
+| [The Price](https://open.spotify.com/track/62EGmGmjAzX23NzkpIn00c) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Price](https://open.spotify.com/album/2OJcl3GrTfXg8hOXs99YJP) | 3:09 | 2025-12-12 |  |
 | [The Problem](https://open.spotify.com/track/1Fi7uWkIRqqhQDYhikP4lk) | [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [The Problem](https://open.spotify.com/album/3YbdZfUltFTmiUBFzKvP0m) | 3:23 | 2020-04-26\* | 2020-09-11 |
 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 | 2025-06-24 | 2025-09-20 |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-07 | 2024-03-16 |

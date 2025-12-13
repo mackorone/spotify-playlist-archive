@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "THAT'S SHOWBIZ BABY! THE ENCORE",
+        "url": "https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn"
+    },
+    {
+      "album": {
         "name": "Cinnamon",
         "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
       },
@@ -7184,7 +7202,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 227293,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/20Rjl0NnWdKHv1OwKA7gid"
@@ -7350,6 +7368,24 @@
       "duration_ms": 149421,
       "name": "girls will b girls",
       "url": "https://open.spotify.com/track/1fnwW4qRPdAPkhRqncgh5o"
+    },
+    {
+      "album": {
+        "name": "Give Me Something (for Arknights Endfield)",
+        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162789,
+      "name": "Give Me Something (for Arknights Endfield)",
+      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
     },
     {
       "album": {
@@ -21710,7 +21746,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

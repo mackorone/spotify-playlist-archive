@@ -3939,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "You paint me again \u201cPURPLE\u201d",
+        "url": "https://open.spotify.com/album/0KUWZOvXO6Uvsih3zDpwYa"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/6iDZIZAMcX47BtsPXTW6d4"
+    },
+    {
+      "album": {
         "name": "Pal Pal",
         "url": "https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS"
       },

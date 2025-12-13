@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5704,
+  "num_followers": 5705,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAUEx8guvUDUJ/wpeOvLNhW",
+  "snapshot_id": "aToJgAAAAAB8LUjWd3CEUbTVnA18qqk9",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Ain't Nothin",
-        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
-      },
-      "artists": [
-        {
-          "name": "ATM Danny",
-          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "It Ain't Nothin",
-      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaseya",
         "url": "https://open.spotify.com/album/4OdeR2lheGeHaYOR8Mvnwn"
       },
@@ -223,22 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newly",
-        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
+        "name": "It Ain't Nothin",
+        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
       },
       "artists": [
         {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "ATM Danny",
+          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
         },
         {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 177828,
-      "name": "Newly",
-      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
+      "duration_ms": 147169,
+      "name": "It Ain't Nothin",
+      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
     },
     {
       "added_at": null,
@@ -259,6 +239,26 @@
       "duration_ms": 120512,
       "name": "Good (feat. Larry June)",
       "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newly",
+        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 177828,
+      "name": "Newly",
+      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 221287,
       "name": "Boy (feat. P-Lo)",
       "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Should Know",
         "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 177000,
       "name": "Mack",
       "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
       },
       "artists": [
         {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
     },
     {
       "added_at": null,
@@ -1075,22 +1075,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
       "artists": [
         {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 144060,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     },
     {
       "added_at": null,

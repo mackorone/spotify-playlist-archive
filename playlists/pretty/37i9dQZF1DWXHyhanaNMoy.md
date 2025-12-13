@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Jayh✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,644 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,643 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

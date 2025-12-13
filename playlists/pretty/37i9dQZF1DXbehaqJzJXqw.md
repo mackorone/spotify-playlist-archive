@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,033 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,248 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 30 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 |
 | 31 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |
 | 32 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
-| 33 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
-| 34 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
+| 33 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
+| 34 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
 | 35 | [La Pluie Et Le Beau Temps](https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Élodie Frégé](https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii) | [I Could Be Happy](https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x) | 3:31 |
 | 36 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
 | 37 | [Tout Doucement](https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:23 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 47 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
 | 48 | [La javanaise](https://open.spotify.com/track/65iTlX5095wn9JwqlDaFt4) | [Juliette Gréco](https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ) | [No\. 8](https://open.spotify.com/album/5wM7VT1oyFSNxd03PW3IfM) | 2:29 |
 | 49 | [La noyée](https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:58 |
-| 50 | [J'ai Deux Amours](https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 2:56 |
-| 51 | [J’ai ta main](https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Nicolas Fiszman](https://open.spotify.com/artist/4d0roMzc4feODS6OCmkJ5d), [Denis Benarrosh](https://open.spotify.com/artist/324sdO7LUc6DgR2tLLWoCa), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trenet](https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ) | 3:14 |
+| 50 | [J’ai ta main](https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Nicolas Fiszman](https://open.spotify.com/artist/4d0roMzc4feODS6OCmkJ5d), [Denis Benarrosh](https://open.spotify.com/artist/324sdO7LUc6DgR2tLLWoCa), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trenet](https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ) | 3:14 |
+| 51 | [J'ai Deux Amours](https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 2:56 |
 | 52 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
 | 53 | [La mer opale](https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA) | [Coralie Clement](https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4) | [Salle des pas perdus](https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY) | 2:47 |
 | 54 | [Le Mal de Vivre](https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 6:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 79 | [Que rest\-t\-il de nos amours?](https://open.spotify.com/track/3WYTn5VlkWkdacjGRsGvSv) | [Trenet](https://open.spotify.com/artist/46rtisc5v3TLu5Bulmyj10), [Chauliac](https://open.spotify.com/artist/7qK2iIIASmqPi0RMEVbXn2), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door](https://open.spotify.com/album/1Qo0mVjKK1eEZ5vGFpRvbl) | 2:57 |
 | 80 | [Je Suis Seule Ce Soir](https://open.spotify.com/track/6g7lZAZ4vNyeswmaEFenlz) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/7aD6SxbDiyXAXoagiOxeO9) | 2:17 |
 
-Snapshot ID: `AAAAAAB0N6aOpSnjcdaqJk9bhIPxMS2C`
+Snapshot ID: `AAAAAKQgaxroAbxBg+5U6PATDkwTR4Q/`

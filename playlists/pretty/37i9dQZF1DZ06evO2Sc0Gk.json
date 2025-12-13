@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21070,
+  "num_followers": 21071,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADuV5cwMTyKrhMtKAczBTYh",
+  "snapshot_id": "aToJgAAAAAA93pZOHlkO60TfgvrfZj7R",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
         "url": "https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI"
       },
@@ -367,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
       "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 118938,
-      "name": "On D Low",
-      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": null,
@@ -403,6 +383,26 @@
       "duration_ms": 188172,
       "name": "Decline",
       "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 118938,
+      "name": "On D Low",
+      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
     },
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 162102,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 153962,
       "name": "Doyin",
       "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Short Skirt",
-      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e0\u00e0j\u00ed",
         "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 149741,
       "name": "F\u00e0\u00e0j\u00ed",
       "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Short Skirt",
+      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
     },
     {
       "added_at": null,

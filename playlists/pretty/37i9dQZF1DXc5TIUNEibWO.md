@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,891 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,902 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 12 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 |
 | 13 | [Agatha](https://open.spotify.com/track/0zM6h92IpK2GCcIVmrqaTq) | [Nana Kwame Ampadu](https://open.spotify.com/artist/2tne5cj1SZrx1Xm1lNEWzb) | [Evergreen Tunes, Vol\. 4](https://open.spotify.com/album/7acUZRPhxC1uP259oRu4NJ) | 9:30 |
 | 14 | [Poison](https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 5:49 |
-| 15 | [Abiba](https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s) | [The Collection](https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x) | 4:55 |
+| 15 | [Mawerekyekyere](https://open.spotify.com/track/2NuJo2kUwQUHmXtkou4anP) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 5:16 |
 | 16 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
-| 17 | [Mawerekyekyere](https://open.spotify.com/track/2NuJo2kUwQUHmXtkou4anP) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 5:16 |
+| 17 | [Abiba](https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s) | [The Collection](https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x) | 4:55 |
 | 18 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
 | 19 | [Mmobrowa](https://open.spotify.com/track/1UX48v0WSkBkq11mVKGNLd) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 6:22 |
 | 20 | [Mante Wo Nka](https://open.spotify.com/track/09jKaYjVrZjfWwW2IFdkEk) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Fre No Ma Me](https://open.spotify.com/album/0PWXKEWKKt6Usc7BoQCMiR) | 4:37 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 37 | [Juliana](https://open.spotify.com/track/2MvreSWPJVvtwk2ijWolDZ) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [Sweet Talks](https://open.spotify.com/album/7phBCJGc2TJGS9pYwbsOnu) | 5:52 |
 | 38 | [Asem Ben?](https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:26 |
 | 39 | [Asew](https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Asew](https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5) | 6:02 |
-| 40 | [Duke](https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h) | [Kantata](https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 5:34 |
-| 41 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |
+| 40 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |
+| 41 | [Duke](https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h) | [Kantata](https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 5:34 |
 | 42 | [Highlife Time](https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Rhythm On The Radio \- Oval Records Singles 1974\-1987](https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6) | 6:15 |
 | 43 | [Onyame Ehu Wo](https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI) | [K\. K\. Kabobo](https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq) | [My Sweetheart](https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ) | 5:22 |
 | 44 | [Sherry](https://open.spotify.com/track/0Lal2wxOG7u95l7hz6TYxO) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O), [Yoggi Doggi](https://open.spotify.com/artist/40hJgIb4amRIThJR0nAc6s) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:31 |

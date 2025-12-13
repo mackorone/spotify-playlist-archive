@@ -4,7 +4,7 @@
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-67 songs - 5 hr 0 min
+68 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [La chispa adecuada \(Bendecida 3\)](https://open.spotify.com/track/0JiwybZpLST3DzJawCbRtC) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 5:27 | 2024-05-26 |  |
 | [La chispa adecuada \(Bendecida 3\)](https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 5:27 | 2022-10-26 | 2025-08-08 |
 | [La espuma de Venus](https://open.spotify.com/track/2lZ0yhSadIy79IP5EDjMe2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:16 | 2022-10-26 |  |
-| [La herida](https://open.spotify.com/track/2aegLCwIWlVYvCjUf641Qr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 6:54 | 2022-10-26 |  |
+| [La herida](https://open.spotify.com/track/2aegLCwIWlVYvCjUf641Qr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 6:54 | 2022-10-26 | 2025-12-13 |
+| [La herida](https://open.spotify.com/track/5puKIFMq9smVFhOWGpG93y) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 6:54 | 2025-12-13 |  |
 | [La isla de las iguanas](https://open.spotify.com/track/6fiIgGcmSEQunpDJH4xvRj) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:19 | 2024-11-26 |  |
 | [La lluvia gris](https://open.spotify.com/track/3LWr1doKSH2hSfnE9kMX6U) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 4:22 | 2022-10-26 |  |
 | [La sirena varada](https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 4:17 | 2022-10-26 |  |

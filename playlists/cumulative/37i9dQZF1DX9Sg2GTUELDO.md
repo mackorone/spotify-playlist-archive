@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: Jaime 張天穎
 
-612 songs - 1 day 12 hr 20 min
+613 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [波爾多的單行詩](https://open.spotify.com/track/5PAM64YTBsTdDchKxo5yck) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [自然 i\-ness](https://open.spotify.com/album/3BYVpPH8dcsULPbVGuuTK9) | 3:01 | 2024-11-14 | 2025-09-12 |
 | [流浪密碼](https://open.spotify.com/track/7kdHVjVMGVlzpLLNRrzmMv) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [流浪密碼](https://open.spotify.com/album/3HvWFwcOwvXux92lcHAdAN) | 3:57 | 2025-02-13 |  |
 | [流着淚寫句號](https://open.spotify.com/track/62cwLUECml5Pj1kKi9nqxH) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [流着淚寫句號](https://open.spotify.com/album/3Bx3EhNHRUCtjNWeLnr5iR) | 4:32 | 2025-06-19 |  |
+| [流行病](https://open.spotify.com/track/2P4U0gut6AWKKdq8SF5iTO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [流行病](https://open.spotify.com/album/0elyzljgfEoOwbkqG3ZBAD) | 4:47 | 2025-12-04 |  |
 | [海](https://open.spotify.com/track/7tvyimDxHvyYVsgkN79hGs) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [海](https://open.spotify.com/album/7DkNxJtoAJKr8C1gzhZ3vU) | 4:35 | 2025-11-06 |  |
 | [海闊天空](https://open.spotify.com/track/0CYHV71dg3IlDpHnltqpRC) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [T.I.M.E.](https://open.spotify.com/album/425fsE4f3cdMheqvOFM9g4) | 4:26 | 2024-06-27 | 2025-09-12 |
 | [瀟灑](https://open.spotify.com/track/6zsl5xLmgDdU5SMeC0qIPn) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [瀟灑](https://open.spotify.com/album/1NQJbok16gU94G8KQqbwZv) | 3:44 | 2024-06-27 | 2025-09-12 |

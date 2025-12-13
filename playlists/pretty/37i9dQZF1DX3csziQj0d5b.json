@@ -1,12 +1,12 @@
 {
   "description": "Music to take the pain of homework away.",
-  "num_followers": 1894569,
+  "num_followers": 1894712,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALfwRJ+YBd9g5W5NZ5bCQuY4tct6",
+  "snapshot_id": "AAAAAE7Iv+hWH3jsSrEHkQ2qSSFOUwcR",
   "tracks": [
     {
       "added_at": "2024-12-09 15:36:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 200379,
-      "name": "ocean eyes",
-      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 219733,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 200379,
+      "name": "ocean eyes",
+      "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
     },
     {
-      "added_at": "2025-08-29 04:00:32",
-      "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
-    },
-    {
       "added_at": "2025-08-18 14:23:18",
       "album": {
         "name": "Guitar Songs",
@@ -1063,6 +1047,22 @@
       "duration_ms": 251186,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb"
+    },
+    {
+      "added_at": "2025-08-29 04:00:32",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "in all of my lonely nights",
-        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "in all of my lonely nights",
+        "url": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "If We Ever Broke Up",
         "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -2001,6 +2001,22 @@
       "url": "https://open.spotify.com/track/2JAYY8Ts7FruUCEXxE07Nt"
     },
     {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "THE VOID",
+        "url": "https://open.spotify.com/album/6k0ppS67Skg7t6I3KhHZvm"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "1989",
+      "url": "https://open.spotify.com/track/7kiZVrxh969aNPA7n8lpzz"
+    },
+    {
       "added_at": "2025-03-21 04:57:18",
       "album": {
         "name": "Almost, So Close, Maybe",
@@ -2017,22 +2033,6 @@
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
     },
     {
-      "added_at": "2025-08-01 04:00:27",
-      "album": {
-        "name": "clue / talk",
-        "url": "https://open.spotify.com/album/4eCNegZL2VLo8CrhUhzL1a"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "clue",
-      "url": "https://open.spotify.com/track/1ItaFV8IGkb33gXFI2c5Ps"
-    },
-    {
       "added_at": "2025-02-14 05:00:20",
       "album": {
         "name": "forever and a day",
@@ -2047,6 +2047,22 @@
       "duration_ms": 196551,
       "name": "forever and a day",
       "url": "https://open.spotify.com/track/4zGV9YkuYTKRVV6RXd2WvS"
+    },
+    {
+      "added_at": "2025-08-01 04:00:27",
+      "album": {
+        "name": "clue / talk",
+        "url": "https://open.spotify.com/album/4eCNegZL2VLo8CrhUhzL1a"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "clue",
+      "url": "https://open.spotify.com/track/1ItaFV8IGkb33gXFI2c5Ps"
     },
     {
       "added_at": "2025-05-30 04:00:36",
@@ -2129,22 +2145,6 @@
       "url": "https://open.spotify.com/track/51TIf6rPwW8m5jnsO5f37E"
     },
     {
-      "added_at": "2025-09-27 21:03:41",
-      "album": {
-        "name": "Two Years",
-        "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 172889,
-      "name": "Two Years",
-      "url": "https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG"
-    },
-    {
       "added_at": "2025-08-01 04:00:27",
       "album": {
         "name": "Monster",
@@ -2163,6 +2163,22 @@
       "duration_ms": 181230,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5zsIR7yDiJFkxvBZothyz0"
+    },
+    {
+      "added_at": "2025-09-27 21:03:41",
+      "album": {
+        "name": "Two Years",
+        "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 172889,
+      "name": "Two Years",
+      "url": "https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG"
     },
     {
       "added_at": "2025-03-21 04:00:41",
@@ -2455,22 +2471,6 @@
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     }
   ],
   "unique_name": "homework vibes",

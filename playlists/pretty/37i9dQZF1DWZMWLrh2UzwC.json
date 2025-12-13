@@ -1,13 +1,29 @@
 {
-  "description": "New music from Sufian Suhaimi, SAMSOL, Insomniacks, Khai Bahar, Yulia Kamelia, and more!",
-  "num_followers": 71357,
+  "description": "New music from Sufian Suhaimi, OneRepublic,  SAMSOL, Insomniacks, Khai Bahar, Yulia Kamelia, and more!",
+  "num_followers": 71428,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE5jq7fOEV88gc3VMQG8waRWgGDs",
+  "snapshot_id": "AAAAAK2/wumIGcgEe+4yN5oyVElYpsRo",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Give Me Something (for Arknights Endfield)",
+        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 162789,
+      "name": "Give Me Something (for Arknights Endfield)",
+      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
+    },
     {
       "added_at": "2025-12-11 16:00:21",
       "album": {
@@ -39,6 +55,26 @@
       "duration_ms": 222857,
       "name": "Demi Kebenaran - From 'Papa Zola The Movie'",
       "url": "https://open.spotify.com/track/0TVqD2ViVzNa59mQdWT34L"
+    },
+    {
+      "added_at": "2025-12-12 13:00:05",
+      "album": {
+        "name": "Ayuh Pulang",
+        "url": "https://open.spotify.com/album/06fWJJNQ2EcmxhTxVilqC5"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        },
+        {
+          "name": "Amir Jahari",
+          "url": "https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Ayuh Pulang",
+      "url": "https://open.spotify.com/track/0zt2mq9PSKnh3zEuxg4PfK"
     },
     {
       "added_at": "2025-12-11 16:00:21",
@@ -115,6 +151,26 @@
       "duration_ms": 244149,
       "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
       "url": "https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 198108,
+      "name": "DOG $HIT",
+      "url": "https://open.spotify.com/track/3o6Wg0EOBtWXPdufCes5Lj"
     },
     {
       "added_at": "2025-12-11 16:00:21",
@@ -227,17 +283,21 @@
     {
       "added_at": "2025-12-11 16:00:21",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "USB",
+        "url": "https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9"
       },
       "artists": [
         {
           "name": "Fred again..",
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Wallfacer",
+          "url": "https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 197999,
+      "name": "I Luv U",
       "url": "https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx"
     },
     {
@@ -495,6 +555,22 @@
     {
       "added_at": "2025-12-11 16:00:21",
       "album": {
+        "name": "Pache Maina",
+        "url": "https://open.spotify.com/album/1YwTbLR9QBOy15XzpFQKZP"
+      },
+      "artists": [
+        {
+          "name": "Buggimaan",
+          "url": "https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Pache Maina",
+      "url": "https://open.spotify.com/track/4sJa409jzHjBeLV6whtfUt"
+    },
+    {
+      "added_at": "2025-12-11 16:00:21",
+      "album": {
         "name": "Dusta",
         "url": "https://open.spotify.com/album/1Jvmgvvn6BqsvZ6EQ11IQJ"
       },
@@ -507,6 +583,22 @@
       "duration_ms": 216094,
       "name": "Dusta",
       "url": "https://open.spotify.com/track/0RSKGYzaF6YQCfiHmhhFWd"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "\u6c92\u6709\u7fc5\u8180\u7684\u4eba",
+        "url": "https://open.spotify.com/album/75tSlFKpM65HvzfCV8YJWL"
+      },
+      "artists": [
+        {
+          "name": "831",
+          "url": "https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM"
+        }
+      ],
+      "duration_ms": 254700,
+      "name": "\u6c92\u6709\u7fc5\u8180\u7684\u4eba",
+      "url": "https://open.spotify.com/track/67N1QPoNCIFE2DsHhs83Kf"
     },
     {
       "added_at": "2025-12-11 16:00:21",
@@ -523,6 +615,22 @@
       "duration_ms": 293821,
       "name": "\u5927\u5c0f\u5b69",
       "url": "https://open.spotify.com/track/3KmVHZGItxsn05PMXmSf8p"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "ALL EYES ON ME",
+        "url": "https://open.spotify.com/album/2cBIEBbIlsxcwlMmPQJ1dd"
+      },
+      "artists": [
+        {
+          "name": "Show Luo",
+          "url": "https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/3dulYuKk06Hs5CG2f5tDJX"
     },
     {
       "added_at": "2025-12-11 16:00:21",
@@ -859,6 +967,22 @@
       "duration_ms": 212000,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4BQ9FKqj1qNwrVYhCAz3oV"
+    },
+    {
+      "added_at": "2025-12-12 09:00:16",
+      "album": {
+        "name": "BURN PART.1",
+        "url": "https://open.spotify.com/album/7av4qtKNpEzK87yFu6kFBU"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "MIDNIGHT SKY",
+      "url": "https://open.spotify.com/track/2edpFQH2dVevhKbJyRQPLi"
     },
     {
       "added_at": "2025-12-11 16:00:21",
@@ -1215,7 +1339,7 @@
     {
       "added_at": "2025-12-11 16:00:21",
       "album": {
-        "name": "LETTER TO MY YN",
+        "name": "Letter To My YN",
         "url": "https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu"
       },
       "artists": [
@@ -1225,7 +1349,7 @@
         }
       ],
       "duration_ms": 191053,
-      "name": "LETTER TO MY YN",
+      "name": "Letter To My YN",
       "url": "https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl"
     },
     {
@@ -1291,6 +1415,22 @@
       "duration_ms": 364415,
       "name": "Dry Flower",
       "url": "https://open.spotify.com/track/3nuonIzI8KHOzcjgh6TJgJ"
+    },
+    {
+      "added_at": "2025-12-12 09:00:16",
+      "album": {
+        "name": "PULSEPHASE",
+        "url": "https://open.spotify.com/album/3Bl7sxTZ5nnIxkblxJ6gmp"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Backseat Promises",
+      "url": "https://open.spotify.com/track/1TIcSWViv0dea0exVZmSwr"
     },
     {
       "added_at": "2025-12-11 16:00:21",

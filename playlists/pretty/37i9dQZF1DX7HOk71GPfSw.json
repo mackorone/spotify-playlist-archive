@@ -1,12 +1,12 @@
 {
   "description": "we love you Danny Brown \ud83c\udf38",
-  "num_followers": 486718,
+  "num_followers": 486779,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkIIQpTFrkK8ao00onLav8qaRN/",
+  "snapshot_id": "AAAAABQYZsgCv+ohXrgXExzmqi64jZeh",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:35",
@@ -259,6 +259,38 @@
       "duration_ms": 136974,
       "name": "with u",
       "url": "https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "STARGIRL SYSTEM",
+        "url": "https://open.spotify.com/album/5KXUQYbJdOKos13LT6LcIl"
+      },
+      "artists": [
+        {
+          "name": "BBY GOOSE",
+          "url": "https://open.spotify.com/artist/6ECQtn213gfr2RnbL6x7pa"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "LUV IN AI <3",
+      "url": "https://open.spotify.com/track/4xJSHMFHcppRSMvugndnII"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "From Under The Thumb",
+        "url": "https://open.spotify.com/album/7xOBYiItB2KHV2PIz7wSEv"
+      },
+      "artists": [
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        }
+      ],
+      "duration_ms": 122506,
+      "name": "ded",
+      "url": "https://open.spotify.com/track/0XgOQ4VJNsEADpdxnsNSJu"
     },
     {
       "added_at": "2025-09-19 04:00:38",
@@ -1343,22 +1375,6 @@
       "duration_ms": 169856,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr"
-    },
-    {
-      "added_at": "2025-09-26 04:00:15",
-      "album": {
-        "name": "PARTY THRU THE NIGHT",
-        "url": "https://open.spotify.com/album/3lty5O4LcqYPJ9eFKKHlM5"
-      },
-      "artists": [
-        {
-          "name": "BBY GOOSE",
-          "url": "https://open.spotify.com/artist/6ECQtn213gfr2RnbL6x7pa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "PARTY THRU THE NIGHT",
-      "url": "https://open.spotify.com/track/6ZA3IdYr7VedrzR1t9qm2c"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -3539,22 +3555,6 @@
       "duration_ms": 158942,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/0vruJpT8IuvBxj9Z7Stm0w"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
-        "name": "@location",
-        "url": "https://open.spotify.com/album/5j0R8rL8HwF558PZbPHFkn"
-      },
-      "artists": [
-        {
-          "name": "Peterparker69",
-          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "@location",
-      "url": "https://open.spotify.com/track/0LZfOTFwtgIdWr7n2ngOty"
     }
   ],
   "unique_name": "hyperpop",

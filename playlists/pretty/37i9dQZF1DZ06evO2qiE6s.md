@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,159 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,162 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 33 | [Hit The Road To Dreamland](https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:51 |
 | 34 | [Under The Bridges Of Paris](https://open.spotify.com/track/7czkfORlDNyM7Ioo7BBSdF) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:46 |
 | 35 | [Come Back To Sorrento](https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:15 |
-| 36 | [Hey Brother, Pour The Wine](https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:37 |
-| 37 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:17 |
+| 36 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:17 |
+| 37 | [Hey Brother, Pour The Wine](https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:37 |
 | 38 | [Cha Cha Cha d´Amour](https://open.spotify.com/track/0GaVD2xG18kwPJpa8jfoeX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Cha Cha De Amor](https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n) | 2:18 |
 | 39 | [Goodnight Sweetheart](https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:10 |
 | 40 | [I Have But One Heart \('O Marenariello\) \- Remastered 1998](https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 3:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 45 | [Welcome to My World](https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:22 |
 | 46 | [C'est si bon](https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:55 |
 | 47 | [I've Grown Accustomed To Her Face \("My Fair Lady"\)](https://open.spotify.com/track/3nmwqhf7yG6FrBVpzn5q20) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This is Chris Botti \(International Version\)](https://open.spotify.com/album/0RjRrt5CCVXeh4IIyyHmDe) | 3:07 |
-| 48 | [The Naughty Lady Of Shady Lane](https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:56 |
-| 49 | [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 |
+| 48 | [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 |
+| 49 | [The Naughty Lady Of Shady Lane](https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:56 |
 | 50 | [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 |
 
-Snapshot ID: `aTi4AAAAAABrzmch0AMBwZENr9NqhoIH`
+Snapshot ID: `aToJgAAAAAAOJAG5As05UlgKvVuobVSF`

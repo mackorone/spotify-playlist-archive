@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,081 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,088 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 36 | [دوامات](https://open.spotify.com/track/7ys7eUYsciH8LefcobJ4hQ) | [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [دوامات](https://open.spotify.com/album/2PbNvLR2MHgirCervbyo8n) | 4:20 |
 | 37 | [Affon Mennik](https://open.spotify.com/track/62tYV2LYspoAS5vvZKB1EL) | [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas) | [Affon Mennik](https://open.spotify.com/album/3txVOVb4WHe4AzuvjMYrKn) | 3:20 |
 | 38 | [7ai](https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y) | [MoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bader Azem](https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D) | [Xvibe](https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7) | 2:47 |
-| 39 | [KHAYYALA](https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC) | [EQuBE](https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [KHAYYALA](https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg) | 3:09 |
-| 40 | [Awlaweeti](https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Awlaweeti](https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT) | 3:38 |
+| 39 | [Awlaweeti](https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Awlaweeti](https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT) | 3:38 |
+| 40 | [KHAYYALA](https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC) | [EQuBE](https://open.spotify.com/artist/1vKZWmYdp9BQAbtrX9ORuu), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [KHAYYALA](https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg) | 3:09 |
 | 41 | [Hadal Ahbek](https://open.spotify.com/track/0ymn3NBfT1W2QW0d7U5kHS) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/5NUgTQnW5TqzsqzDVEVITx) | 3:29 |
 | 42 | [Fil Atmeh](https://open.spotify.com/track/4E0PF1tlJgOK23UF03wWyK) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Fil Atmeh](https://open.spotify.com/album/3roVdMcbd4OF7q853JM8Gc) | 3:40 |
 | 43 | [Ya Bay](https://open.spotify.com/track/25dpNlHr9GTVBvIcUr9cWu) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Aziz Maraka](https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY) | 4:07 |

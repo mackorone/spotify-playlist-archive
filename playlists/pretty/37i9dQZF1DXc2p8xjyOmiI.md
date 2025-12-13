@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 HERNÁN TREJO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,272 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,305 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

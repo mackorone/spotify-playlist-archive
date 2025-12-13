@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 
 > ya quiero cantar ese que dice: porque nos toca aceptar ser sólo amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,440 likes - 21 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,828 likes - 21 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 | 20 | [Paz en Este Amor](https://open.spotify.com/track/16Im2QhKFPsK4mKOtcQ002) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Paz en Este Amor](https://open.spotify.com/album/4ink40ehZLl2rWbpy5V3FO) | 3:23 |
 | 21 | [Malditas Ganas](https://open.spotify.com/track/3skC4mUK23HjA5AaJV0fMw) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/1Vly14LQAZX1sW50JRV8dN) | 2:36 |
 
-Snapshot ID: `AAAAAOVtWuwqRHLiU1pvhI7PpM9oNwnL`
+Snapshot ID: `AAAAAI5kdr7dQLmwkmpoLQRvYUrw5iAH`

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,819 songs - 3 day 8 hr 43 min
+1,821 songs - 3 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A Little Journey](https://open.spotify.com/track/1ri5KgNPbiYHZEc4pYaKhB) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [A Little Journey](https://open.spotify.com/album/5hZI8dZFuOUmWn4Jlbb3Tb) | 2:00 | 2021-05-22 | 2022-10-14 |
 | [A mal tiempo, buena cara](https://open.spotify.com/track/7AV0Pso4qINIXP8skPMkjb) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [A mal tiempo, buena cara](https://open.spotify.com/album/39z5R1YULmmQgsnx0ARZNf) | 2:28 | 2021-03-09 | 2022-05-21 |
 | [A Midnight Sun](https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [A Midnight Sun](https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh) | 2:34 | 2023-08-21 | 2025-02-26 |
+| [A Moment of Peace](https://open.spotify.com/track/3rVwDrLrVPL5igVD1jdInR) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [A Moment of Peace](https://open.spotify.com/album/39E4FKykNiCeUheicVL3On) | 2:14 | 2025-12-12 |  |
 | [A Never Ending Cycle](https://open.spotify.com/track/135YvfJTQSpHZFPJSL5Iyc) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [A Never Ending Cycle](https://open.spotify.com/album/434VuhOw5djN69pXxMFyvI) | 3:10 | 2021-08-25 | 2022-02-03 |
 | [A New Day](https://open.spotify.com/track/3f3o11I6fICW22aTW3ZK2k) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [A New Day](https://open.spotify.com/album/1OUJJk70WJeyliPi5Hu3q9) | 2:18 | 2020-12-08 | 2022-05-27 |
 | [A New Path](https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [A New Path](https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw) | 1:53 | 2022-09-12 | 2023-11-21 |
@@ -403,6 +404,7 @@
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2021-03-09 | 2022-06-04 |
 | [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2020-12-01 | 2022-04-23 |
 | [Downstreams](https://open.spotify.com/track/0PfQd8JoZTLC7QmuSALrnH) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Downstreams](https://open.spotify.com/album/3BGgZ0ogCdoaejPURuwfbP) | 2:18 | 2019-05-26\* | 2021-01-26 |
+| [Dream Circuit](https://open.spotify.com/track/1wOdW7AiECp30vfaW0fKis) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Dream Circuit](https://open.spotify.com/album/3HNTgIBfw9ugBTwRJHp8WA) | 2:14 | 2025-12-12 |  |
 | [Dream Until the First Rays of Dawn](https://open.spotify.com/track/1YrmdTAZdNa2uzxKttTXq6) | [Dravde](https://open.spotify.com/artist/48hcGoeqRficiqH0Egd2Kc) | [Dream Until the First Rays of Dawn](https://open.spotify.com/album/3XlmyE8Y0HKjOHAG4qXLrl) | 2:35 | 2020-09-28 | 2022-05-27 |
 | [Dreaming Of You](https://open.spotify.com/track/64OSHlDi8TeihNzUMvc2Kv) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Dreaming Of You](https://open.spotify.com/album/4bYgaFEFfbcm0HjREyj7wY) | 2:53 | 2021-03-31 | 2022-10-04 |
 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/7IOW37zJgduauyHWdihAnl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland \(Solo Piano Version\)](https://open.spotify.com/album/4EfGCHPtOJN0nw3RWTKKRA) | 2:41 | 2020-04-14 | 2020-08-04 |

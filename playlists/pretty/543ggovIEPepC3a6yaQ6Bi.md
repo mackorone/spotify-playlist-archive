@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/543ggovIEPepC3a6yaQ6Bi.md) - [plain]
 
 > Geniet van de ultieme R&amp;B favorieten uit de jaren 90, 00s &amp; 2010s! Old school R&amp;B classics en throwback party jams van TLC, Usher, Aaliyah, Chris Brown, Mario, Jennifer Lopez,  Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, The Weeknd en meer\. De beste RnB Hits allertijden!
 
-[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 82,181 likes - 255 songs - 17 hr 29 min
+[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 82,165 likes - 255 songs - 17 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

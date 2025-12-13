@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,922 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,932 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 7 | [King Jesus](https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:48 |
 | 8 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:32 |
 | 9 | [God Did II](https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Did II](https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE) | 2:39 |
-| 10 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 |
-| 11 | [CAMPAIGN](https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [CAMPAIGN](https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy) | 2:49 |
+| 10 | [CAMPAIGN](https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [CAMPAIGN](https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy) | 2:49 |
+| 11 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 |
 | 12 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
 | 13 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 |
 | 14 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 33 | [Santo \(HLY FOREVER\)](https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Santo \(HLY FOREVER\)](https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf) | 2:46 |
 | 34 | [Danza](https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:23 |
 | 35 | [This Is Life](https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:27 |
-| 36 | [It Ain't Safe](https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 2:57 |
-| 37 | [Built For This](https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 2:53 |
+| 36 | [Built For This](https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 2:53 |
+| 37 | [It Ain't Safe](https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 2:57 |
 | 38 | [Graves](https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 4:20 |
 | 39 | [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 |
 | 40 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Start Right Here \(HGA Version\)](https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Start Right Here \(HGA Version\)](https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ) | 2:53 |
 | 50 | [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 |
 
-Snapshot ID: `aTi4AAAAAABDlufqvyokj8NUOEp64q6E`
+Snapshot ID: `aToJgAAAAAABDTIzVMbYyP2IJsdug9de`

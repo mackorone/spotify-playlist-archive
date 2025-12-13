@@ -4,7 +4,7 @@
 
 > With Yeat, Ken Carson, Autumn! and more
 
-75 songs - 2 hr 58 min
+77 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [BIG 3](https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Slimeto](https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4) | [BIG 3](https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu) | 2:02 | 2025-11-29 | 2025-12-08 |
 | [blood](https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [blood](https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM) | 2:18 | 2025-11-29 | 2025-12-12 |
 | [Blood On The Leaves \(Remix\)](https://open.spotify.com/track/1pxal7Zs5xxABW7Jf01RpL) | [1030Xhris](https://open.spotify.com/artist/7gfyemrwVrMbcKdxnjggaO), [yvngchris](https://open.spotify.com/artist/48jFxV79oOq1LYhYLtpVAV) | [Blood On The Leaves \(Remix\)](https://open.spotify.com/album/3bK84xF814GHAMKU2N1qH4) | 1:56 | 2025-11-29 |  |
+| [Boys Don’t Cry](https://open.spotify.com/track/0uNKyWtOudnH1fnNlwHywQ) | [YDG Breezy](https://open.spotify.com/artist/40wED5G8ggmynCzzr6Z9bM) | [Nightmare On Gardens St](https://open.spotify.com/album/5MUtxI5q19RNyq0ySlrBID) | 2:34 | 2025-12-13 |  |
 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 | 2025-11-29 |  |
 | [Chaser](https://open.spotify.com/track/36A5aim4D1Fo2vblwFssH9) | [Dayymein](https://open.spotify.com/artist/1AcrYxjl5ZAD7JABVwCERN) | [Chaser](https://open.spotify.com/album/50pOliJzSHi9CQz196Lyex) | 1:35 | 2025-11-29 | 2025-12-06 |
 | [CLARINET](https://open.spotify.com/track/6Asdj5WezdZgaVYDgQskjg) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [ME MILLIONTH DOLLAR // CLARINET](https://open.spotify.com/album/5UAziaXOwMZJaPtPOMFGLO) | 1:53 | 2025-11-29 |  |
@@ -50,7 +51,7 @@
 | [Never that](https://open.spotify.com/track/0D50kcPvpyuGG6aIWi48WA) | [kappaa!](https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu) | [Never that](https://open.spotify.com/album/4o9ltariIy117ZZ15zd9pq) | 2:43 | 2025-12-08 |  |
 | [Never Theirs](https://open.spotify.com/track/3tImnBbcBQK6pE0G28VAg6) | [YFG Trap](https://open.spotify.com/artist/42MiKfvv8YFBf9SdijIlci) | [Okay, Wait...](https://open.spotify.com/album/6gOcbSfYL9qCPAmN2c9LaI) | 2:16 | 2025-12-01 | 2025-12-08 |
 | [Nightcore 2](https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:02 | 2025-11-29 |  |
-| [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 |  |
+| [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 | 2025-12-13 |
 | [not enn a diss](https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO) | [Taewitdak](https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF) | [not enn a diss](https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL) | 1:21 | 2025-11-29 |  |
 | [Notre dame](https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:42 | 2025-12-12 |  |
 | [Opp's Hood](https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4) | [Backayarl](https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21) | [Never Lose](https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax) | 2:02 | 2025-12-06 | 2025-12-12 |
@@ -60,7 +61,8 @@
 | [POETRY](https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3) | [Lord Simmy](https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt) | [POETRY](https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz) | 2:12 | 2025-11-29 |  |
 | [Price I Pay](https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4) | [C Choppa](https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN) | [Price I Pay](https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS) | 2:41 | 2025-12-05 | 2025-12-09 |
 | [Pub Sub](https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Scarecrow](https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h) | 3:14 | 2025-11-29 |  |
-| [pullover](https://open.spotify.com/track/3sutTCSvKj2yg44bDlxeh4) | [RENACIDO](https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl) | [pullover](https://open.spotify.com/album/5gPtUIQ2sWCGhiN70fpvPM) | 3:14 | 2025-12-08 |  |
+| [pullover](https://open.spotify.com/track/25dCnQCi1BYk3Rg3DpAeUE) | [RENACIDO](https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl) | [Lost files Vol\. 2](https://open.spotify.com/album/6G62ygAvnWxyTYuindGrkC) | 3:14 | 2025-12-13 |  |
+| [pullover](https://open.spotify.com/track/3sutTCSvKj2yg44bDlxeh4) | [RENACIDO](https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl) | [pullover](https://open.spotify.com/album/5gPtUIQ2sWCGhiN70fpvPM) | 3:14 | 2025-12-08 | 2025-12-13 |
 | [ROZAY](https://open.spotify.com/track/6QNDtYEUe7VCx2PuyUS9aS) | [Kuhsigh](https://open.spotify.com/artist/32BCk4QYDIXJSqgrEvfwNq) | [ROZAY](https://open.spotify.com/album/1K79ej2VVyNJKYrQDbQthM) | 2:05 | 2025-11-29 | 2025-12-09 |
 | [Rubbin Off The Paint x New Flesh](https://open.spotify.com/track/6d42nLEA7M1HDs86A5IB2t) | [Srino n Fonda](https://open.spotify.com/artist/2PIEUOwnDW10QyRrbfFxBC) | [Rubbin Off The Paint x New Flesh](https://open.spotify.com/album/0CjOJ8rCpTr8EKc5fhjeSi) | 2:21 | 2025-11-29 | 2025-12-09 |
 | [sick](https://open.spotify.com/track/6IP5h91yInTxUqDBb9Buy3) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [!?](https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4) | 2:05 | 2025-11-29 |  |
@@ -71,10 +73,10 @@
 | [SØB](https://open.spotify.com/track/4nGVDgCX2QWDaM7tbkRTOM) | [YhungBrazy](https://open.spotify.com/artist/2ltchQPvrP8I9FT0DfmUMf), [B4byTk](https://open.spotify.com/artist/0WYRmKLUKVSnkw15uMGzrm) | [EXPERIMENT II](https://open.spotify.com/album/6p0WzwLsrGQOuJrKF8i19J) | 2:48 | 2025-11-29 | 2025-12-05 |
 | [Telephones](https://open.spotify.com/track/3rD9qqCHhKGUZqHeErKBf4) | [Curry B](https://open.spotify.com/artist/4gEmWKCVOfq7D3m4VibCs2) | [Telephones](https://open.spotify.com/album/7G6PCG8yjPJUvpp7jnoPZA) | 2:25 | 2025-11-29 |  |
 | [Temari](https://open.spotify.com/track/3Ys7Fme6fdeev4ROOnM8wo) | [craz3teki](https://open.spotify.com/artist/556amiCwJrWWDOfSGdOXuv) | [Reanimation](https://open.spotify.com/album/0ZNHiNd1m4BGl5yKlc7hg1) | 1:19 | 2025-12-08 |  |
-| [The Final Agenda](https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [The Final Agenda](https://open.spotify.com/album/3w5ew1faB4qurVIKGiBiW8) | 2:00 | 2025-11-30 | 2025-12-07 |
+| [The Final Agenda](https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [The Final Agenda](https://open.spotify.com/album/3w5ew1faB4qurVIKGiBiW8) | 2:00 | 2025-11-30 |  |
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |
 | [vetements jeans](https://open.spotify.com/track/3BQZLM6vMQWWZwMcx3kWeu) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [Denizlpsevv](https://open.spotify.com/artist/4pgSIfKXAJIobPChLgCBC2), [lznvrse](https://open.spotify.com/artist/7sVaqWeaXYCptHiY4fflgD) | [vetements jeans](https://open.spotify.com/album/0fVUcJ8RZDBxRFQqNR9qJ9) | 2:30 | 2025-11-29 | 2025-12-11 |
-| [vibe](https://open.spotify.com/track/5xOizHnjd92FNm6ruDUYSD) | [ixlvice](https://open.spotify.com/artist/2MjjoL0FkaOOpEE5CJhS64) | [vibe](https://open.spotify.com/album/7AyL6Ya7hNVtcQ7ShOlXSp) | 3:37 | 2025-12-06 |  |
+| [vibe](https://open.spotify.com/track/5xOizHnjd92FNm6ruDUYSD) | [ixlvice](https://open.spotify.com/artist/2MjjoL0FkaOOpEE5CJhS64) | [vibe](https://open.spotify.com/album/7AyL6Ya7hNVtcQ7ShOlXSp) | 3:37 | 2025-12-06 | 2025-12-13 |
 | [Voices In My Head](https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Voices In My Head](https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74) | 2:45 | 2025-11-29 |  |
 | [WAR 1](https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My) | 2:33 | 2025-11-29 |  |
 | [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 |  |

@@ -1,13 +1,33 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 348654,
+  "num_followers": 348701,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEYRvvWDcFeB5HvTP5b+Qwn/nfPg",
+  "snapshot_id": "AAAAAPVM/QrB6zp4wLtRhutjYcyq9cCI",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Blame It On The Moon",
+        "url": "https://open.spotify.com/album/2UBLrV1nUoxMq8n8pYQPRC"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Blame It On The Moon",
+      "url": "https://open.spotify.com/track/1dVkXJh3lQnnybKKbKyT65"
+    },
     {
       "added_at": "2025-12-05 05:00:16",
       "album": {
@@ -1163,26 +1183,6 @@
       "duration_ms": 251729,
       "name": "Party Head",
       "url": "https://open.spotify.com/track/5mjKQzWQb4IaGonP5fP9OB"
-    },
-    {
-      "added_at": "2023-05-23 18:23:26",
-      "album": {
-        "name": "Look At Me",
-        "url": "https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        },
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 233056,
-      "name": "Look At Me",
-      "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
     },
     {
       "added_at": "2024-02-09 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155890,
+  "num_followers": 155891,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADAK+YF2aZLFMZZ+b/JdoXV",
+  "snapshot_id": "aToJgAAAAABLeXR0M5SRxgk2+Q8VU/Z1",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00caXTASE",
-        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
+        "name": "18K",
+        "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
       },
       "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA"
         },
         {
-          "name": "LOthief",
-          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         }
       ],
-      "duration_ms": 196213,
-      "name": "5\u00aa DIMENS\u00c3O",
-      "url": "https://open.spotify.com/track/2ZBAoshSsVrgOzabiQKhBS"
+      "duration_ms": 284117,
+      "name": "Meu Mundo",
+      "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
     },
     {
       "added_at": null,
@@ -323,34 +331,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "18K",
-        "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
+        "name": "\u00caXTASE",
+        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
       },
       "artists": [
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/09bMYbg60r42iQsG8afMnA"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         },
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "LOthief",
+          "url": "https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn"
         }
       ],
-      "duration_ms": 284117,
-      "name": "Meu Mundo",
-      "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
+      "duration_ms": 196213,
+      "name": "5\u00aa DIMENS\u00c3O",
+      "url": "https://open.spotify.com/track/2ZBAoshSsVrgOzabiQKhBS"
     },
     {
       "added_at": null,
@@ -703,34 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebradas",
-        "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 250588,
-      "name": "Quebradas",
-      "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dono das Esquinas",
         "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
@@ -755,30 +727,6 @@
       "duration_ms": 240000,
       "name": "Carro Forte",
       "url": "https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        },
-        {
-          "name": "MATHINVOKER",
-          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
-        }
-      ],
-      "duration_ms": 176795,
-      "name": "SEXY",
-      "url": "https://open.spotify.com/track/0ReqDOp3nbS49HRy4BrmkY"
     },
     {
       "added_at": null,
@@ -839,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00caXTASE",
-        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
       "artists": [
         {
@@ -848,17 +796,45 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
         }
       ],
-      "duration_ms": 154746,
-      "name": "VIBE",
-      "url": "https://open.spotify.com/track/7hhWcIKJmHyh2OHFNV4B4M"
+      "duration_ms": 176795,
+      "name": "SEXY",
+      "url": "https://open.spotify.com/track/0ReqDOp3nbS49HRy4BrmkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebradas",
+        "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 250588,
+      "name": "Quebradas",
+      "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
     },
     {
       "added_at": null,
@@ -887,6 +863,30 @@
       "duration_ms": 169411,
       "name": "De Marola",
       "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00caXTASE",
+        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 154746,
+      "name": "VIBE",
+      "url": "https://open.spotify.com/track/7hhWcIKJmHyh2OHFNV4B4M"
     },
     {
       "added_at": null,
@@ -995,6 +995,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/5isez0graYpGdX8l0Zyqra"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "ci\u00fame bobo - b\u00f4nus track",
+      "url": "https://open.spotify.com/track/5GSfUru7qGr2sr3lvaUcJN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00caXTASE",
         "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 204373,
       "name": "LITTLE BABY",
       "url": "https://open.spotify.com/track/6kTMNktsL1XZOqnXNOmYqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/5isez0graYpGdX8l0Zyqra"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "ci\u00fame bobo - b\u00f4nus track",
-      "url": "https://open.spotify.com/track/5GSfUru7qGr2sr3lvaUcJN"
     },
     {
       "added_at": null,
@@ -1171,22 +1171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "carta aberta",
-        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 262258,
-      "name": "carta aberta",
-      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 247701,
       "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
       "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "carta aberta",
+        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 262258,
+      "name": "carta aberta",
+      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
     },
     {
       "added_at": null,
@@ -1359,38 +1359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cara do Crime 4 (Acendo a Flor)",
-        "url": "https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6"
+        "name": "Confia: Sonho de Cria - Trilha Sonora",
+        "url": "https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf"
       },
       "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
         }
       ],
-      "duration_ms": 308243,
-      "name": "A Cara do Crime 4 (Acendo a Flor)",
-      "url": "https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE"
+      "duration_ms": 170861,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/1UQhXpOKXJeNu1HNolwbZy"
     },
     {
       "added_at": null,

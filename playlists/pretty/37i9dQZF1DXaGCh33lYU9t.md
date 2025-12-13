@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGCh33lYU9t.md) - [plain]
 
 > The biggest festive anthems ❄️ Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,046 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,454 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

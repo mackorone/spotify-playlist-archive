@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,059 songs - 2 day 4 hr 46 min
+1,060 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-04 | 2024-08-02 |
 | [Hush Baby, Hurry Slowly](https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir) | 2:44 | 2025-10-23 | 2025-11-14 |
 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-05 | 2025-01-10 |
+| [Hyvänpäiväntutut](https://open.spotify.com/track/4cuTbzakxCV05eZydN4Inf) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvänpäiväntutut](https://open.spotify.com/album/618cHLDsjL1S9kvLL6pN23) | 3:26 | 2025-12-12 |  |
 | [Hyväuskoinen \(Vain elämää kausi 16\)](https://open.spotify.com/track/2LT3ikZrl9qzbYpoWlby4s) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Hyväuskoinen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7xlPk3qE972zgOxgIWQkWx) | 3:29 | 2025-10-02 | 2025-10-10 |
 | [Häitä pidelly](https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Häitä pidelly](https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB) | 3:02 | 2024-07-02 | 2024-09-20 |
 | [Hän](https://open.spotify.com/track/4gmir4Q2IHvYB94pPP1TYW) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Hän](https://open.spotify.com/album/4f2MOfbDo4XYLKkrrmknrB) | 3:01 | 2025-02-06 | 2025-02-28 |
@@ -618,7 +619,7 @@
 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-09-05 | 2024-10-18 |
 | [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 | 2025-01-09 | 2025-02-27 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-27 | 2025-05-16 |
-| [Next Summer](https://open.spotify.com/track/71GABxN1QMc3RbtKqhYvXb) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 2:45 | 2025-08-28 |  |
+| [Next Summer](https://open.spotify.com/track/71GABxN1QMc3RbtKqhYvXb) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 2:45 | 2025-08-28 | 2025-12-13 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-07-02 | 2024-07-05 |
 | [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 | 2025-01-08 | 2025-03-21 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-09-05 | 2024-09-27 |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124680,
+  "num_followers": 124672,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU6m3EgQf6gjS9ls311jnHa5rhdDVn",
+  "snapshot_id": "AAAU7dXePpQfVtBsJuro+HbSiuFlvlVz",
   "tracks": [
+    {
+      "added_at": "2025-12-12 14:46:41",
+      "album": {
+        "name": "LA Beast",
+        "url": "https://open.spotify.com/album/09hkGHi52PcqHs5VPDoZZI"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Bliss",
+          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
+        }
+      ],
+      "duration_ms": 496725,
+      "name": "LA Beast",
+      "url": "https://open.spotify.com/track/10oJ63fBqGd5lNlnXLpEsp"
+    },
     {
       "added_at": "2025-12-11 15:20:15",
       "album": {
@@ -1127,186 +1147,6 @@
       "duration_ms": 244285,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2hxlj6BdJA603Ahho8fLDH"
-    },
-    {
-      "added_at": "2025-09-24 14:59:48",
-      "album": {
-        "name": "I'm Back",
-        "url": "https://open.spotify.com/album/6yBawDUWNs7bHfj4lwBQFe"
-      },
-      "artists": [
-        {
-          "name": "Dodge & Fuski",
-          "url": "https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/2UgtH2EbKpGNMTat5z70OL"
-    },
-    {
-      "added_at": "2025-09-23 14:44:46",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/4hGsAaQq40bBBBD9DWk6tS"
-      },
-      "artists": [
-        {
-          "name": "Banyan",
-          "url": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
-        },
-        {
-          "name": "Holochrome",
-          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/1gdxDPqrfDsEEJgGoDyEYk"
-    },
-    {
-      "added_at": "2025-09-22 14:32:13",
-      "album": {
-        "name": "sans. (Tokyo Machine Remix)",
-        "url": "https://open.spotify.com/album/3n1Jnvr5XC6BENwC7cFdrl"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        },
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 160333,
-      "name": "sans. - Tokyo Machine Remix",
-      "url": "https://open.spotify.com/track/5aEAfolOxYJjqvNlbqIOqT"
-    },
-    {
-      "added_at": "2025-09-19 14:33:37",
-      "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/4IQBJ2cG2u6n6i1XsE6qBG"
-      },
-      "artists": [
-        {
-          "name": "Franky Nuts",
-          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
-        },
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/2iBcE0fgUS1aqI94ec7vyz"
-    },
-    {
-      "added_at": "2025-09-18 14:46:25",
-      "album": {
-        "name": "Shangri-La",
-        "url": "https://open.spotify.com/album/2lSaIwhi64HvrBBxX9JsMV"
-      },
-      "artists": [
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Shangri-La",
-      "url": "https://open.spotify.com/track/53OW7YksYVzJIWjQGYc4xI"
-    },
-    {
-      "added_at": "2025-09-17 14:01:41",
-      "album": {
-        "name": "PUSH IT WAY DOWN LOW",
-        "url": "https://open.spotify.com/album/7AYJtErrIsURUYDlNyX7Z4"
-      },
-      "artists": [
-        {
-          "name": "Mersiv",
-          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "PUSH IT WAY DOWN LOW",
-      "url": "https://open.spotify.com/track/7AysNgZyzTipff4Q3H73mp"
-    },
-    {
-      "added_at": "2025-09-16 13:14:28",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7FZCcXAeHZR34WCt1w2aBm"
-      },
-      "artists": [
-        {
-          "name": "ORACLE",
-          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/59Iv8sTgb7XjG1sydJTwdk"
-    },
-    {
-      "added_at": "2025-09-15 14:08:17",
-      "album": {
-        "name": "Woodwinds",
-        "url": "https://open.spotify.com/album/5fwI8h7ryeNmmi1xs0qSyZ"
-      },
-      "artists": [
-        {
-          "name": "SPORTMODE",
-          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/1lkkzUXh0SNetgRf7YHu42"
-    },
-    {
-      "added_at": "2025-09-15 14:07:54",
-      "album": {
-        "name": "how to feel alive",
-        "url": "https://open.spotify.com/album/64CuCT2IKWYddwO9KkZDlK"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "how to feel alive",
-      "url": "https://open.spotify.com/track/5FzcVssNKfmCF7WvJFUx2U"
-    },
-    {
-      "added_at": "2025-09-11 14:41:37",
-      "album": {
-        "name": "Surround Me",
-        "url": "https://open.spotify.com/album/6R4BEvUHqgGASLcvpnbamM"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 197563,
-      "name": "Surround Me",
-      "url": "https://open.spotify.com/track/51I5TnEKANW1F8I5MiTc83"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

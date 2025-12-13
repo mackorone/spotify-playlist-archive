@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 106628,
+  "num_followers": 106633,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACn+7Q4gtIvaCGAr70Fu/Y9",
+  "snapshot_id": "aToJgAAAAAC6J8CixKtOQp/JgtA5vMnX",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tremendo Cache",
         "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 229373,
       "name": "C\u00facala",
       "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Grandes Damas",
-        "url": "https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "El Yerberito Moderno",
-      "url": "https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "Por Si Acaso No Regreso",
-      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
       },
@@ -667,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Pilanderas",
-        "url": "https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma"
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
       },
       "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Las Pilanderas",
-      "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
+      "duration_ms": 347666,
+      "name": "Por Si Acaso No Regreso",
+      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
       "duration_ms": 175600,
       "name": "Melao De Ca\u00f1a",
       "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Pilanderas",
+        "url": "https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Las Pilanderas",
+      "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
+      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tremendo Trio! (Remastered 2024)",
         "url": "https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 346144,
       "name": "Nadie Se Salva de la Rumba - Remastered 2024",
       "url": "https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
-      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
     },
     {
       "added_at": null,

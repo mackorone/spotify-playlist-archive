@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,821 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,829 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 47 | [Agege](https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Agege](https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR) | 3:16 |
 | 48 | [Able God](https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Able God](https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8) | 4:26 |
 
-Snapshot ID: `aTi4AAAAAACssm0y8eTjxRlsGeFjllTB`
+Snapshot ID: `aToJgAAAAAATXYMoEf2jvHn5OVmF18hs`

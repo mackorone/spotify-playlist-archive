@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,290 songs - 2 day 1 hr 20 min
+1,292 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | [moonchild](https://open.spotify.com/track/6Xbiu6Iu8miwwju12kf9mz) | [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [moonchild](https://open.spotify.com/album/2lh1IIUURyEev7O4P0LhGZ) | 2:11 | 2022-04-15 | 2023-09-16 |
 | [moonlight](https://open.spotify.com/track/0tgOSi0Ew7wPIm1TyA3YPJ) | [drmycat](https://open.spotify.com/artist/50gpOabMr60yHviIA8gNY6) | [moonlight](https://open.spotify.com/album/0HBJZGo9r9xT0Dlhu6xcEh) | 2:12 | 2022-08-05 | 2023-04-12 |
 | [moonlit](https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [moonlit](https://open.spotify.com/album/2ntDYVJXXyuI2K8y9ud2lZ) | 2:42 | 2025-07-15 |  |
+| [Moonlit Amble](https://open.spotify.com/track/3outpCyCXNCdvLd77QrOZr) | [Osian Lewis](https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs) | [Moonlit Amble](https://open.spotify.com/album/5nE535uLbfyapfrSEqDIst) | 2:15 | 2025-12-12 |  |
 | [Moonlit Moments](https://open.spotify.com/track/4B0wlzgM5OqAZJ2GpQmyF2) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [Moonlit Moments](https://open.spotify.com/album/4xnqvzypvNBDttQa70MqI5) | 3:08 | 2024-01-12 | 2025-07-16 |
 | [MoonRise](https://open.spotify.com/track/3m1XMpzK6J1ZiLYoLJ47zM) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [MoonRise](https://open.spotify.com/album/4gbEeGRlFLcJ2CRSPlqYHp) | 3:15 | 2024-07-19 | 2024-08-09 |
 | [moonwatch](https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [moonwatch](https://open.spotify.com/album/3orK6ZBhRQQAxopaMfZivu) | 3:18 | 2023-12-08 | 2025-07-16 |
@@ -789,7 +790,7 @@
 | [Night Cabin](https://open.spotify.com/track/7sIulSJRyaR8uxEKSHKPa2) | [TossedOnion](https://open.spotify.com/artist/2HGhYrSNWvRYHNZnztDf0w) | [Night Cabin](https://open.spotify.com/album/1DmCU5O54fXK98WwR4TA2f) | 2:03 | 2023-05-19 | 2023-08-04 |
 | [Night Call](https://open.spotify.com/track/1SpcBIHiF5WURA4ExDvSD9) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [l'Outlander](https://open.spotify.com/artist/5tvVRGHiqZjsZDIYvLDdl5) | [Night Call](https://open.spotify.com/album/5RHNuyQIDS5VSVpoeFBrGi) | 2:03 | 2022-06-03 | 2022-11-20 |
 | [Night Call](https://open.spotify.com/track/3J9PRKLJ0NL4uEv51FOrKI) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [l'Outlander](https://open.spotify.com/artist/5tvVRGHiqZjsZDIYvLDdl5) | [Night Call](https://open.spotify.com/album/1Y12G5TioPHsm3M9n4hCmG) | 2:03 | 2022-11-11 | 2023-09-22 |
-| [night gaze](https://open.spotify.com/track/0gTqtb5dNhqMpEuz3v2LCf) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [night gaze](https://open.spotify.com/album/4Ux0OruNOUwCWT10UMcn6a) | 2:41 | 2025-07-15 |  |
+| [night gaze](https://open.spotify.com/track/0gTqtb5dNhqMpEuz3v2LCf) | [wuy\-wuy](https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h) | [night gaze](https://open.spotify.com/album/4Ux0OruNOUwCWT10UMcn6a) | 2:41 | 2025-07-15 | 2025-12-13 |
 | [Night Lamp](https://open.spotify.com/track/3qcbdFslrw2uio8gPVVLuM) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA) | [Cozy Winter](https://open.spotify.com/album/2cnaJP2xvzWXH3CNCthGWP) | 2:15 | 2021-11-10 | 2022-07-29 |
 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 | 2022-03-21 |  |
 | [night mood](https://open.spotify.com/track/1xc37uddWtDmS2RPcVEv47) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [night mood](https://open.spotify.com/album/7yrRTcBURvroZi2godJP0n) | 1:56 | 2023-11-17 | 2025-07-16 |
@@ -1031,6 +1032,7 @@
 | [snoozed](https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [snoozed](https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos) | 2:50 | 2024-08-30 | 2025-04-19 |
 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 | 2024-07-19 | 2025-07-16 |
 | [Snow Cat](https://open.spotify.com/track/0xFmEZEGo8Coz5CL1EiEDP) | [Easy Deviance](https://open.spotify.com/artist/5nwDk2qZ6uzdaQ7Rz5aNZr), [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Snow Cat](https://open.spotify.com/album/7dC9t5Fo2Q1fBPjx1iwwWJ) | 2:34 | 2022-12-09 | 2025-07-16 |
+| [Snowfall](https://open.spotify.com/track/74AjCSzPxnAINpSG9I4gZW) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Snowfall](https://open.spotify.com/album/0FN9V7NN1ZaISpzpF6q4tt) | 2:32 | 2025-12-12 |  |
 | [snowfall](https://open.spotify.com/track/6gL2kWpjufrrAJTyOxhw13) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [snowfall](https://open.spotify.com/album/1hzh8mBqoEkUYzBh1TBvSj) | 2:36 | 2024-03-08 | 2024-12-14 |
 | [Snowflake](https://open.spotify.com/track/1mGaio343L5aaxmcsdoeq7) | [Railey](https://open.spotify.com/artist/1W3u3PSYtoA7OQ3lHpKK7G) | [Snowflake](https://open.spotify.com/album/6ioII01Al1mVoITxFoB2De) | 1:19 | 2022-12-09 |  |
 | [snowy day](https://open.spotify.com/track/3D0Bq5DyCqMzb1NxOh8XDR) | [quietbeat](https://open.spotify.com/artist/6QA0s1mjWAjVWB54l9iccR), [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [snowy day](https://open.spotify.com/album/7k0sSABmhBwNBu9WGcjvMW) | 3:04 | 2023-01-20 | 2025-07-16 |
@@ -1215,7 +1217,7 @@
 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 | 2021-11-10 | 2022-10-01 |
 | [ValleyViews](https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj) | [Mellow Mirror](https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G) | [ValleyViews](https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q) | 1:58 | 2025-07-18 |  |
 | [Vanilla](https://open.spotify.com/track/3eew64ZAbWJa9HvzLcqXmO) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [Vanilla](https://open.spotify.com/album/269AHsEgEDJ8Q5TY9oU0ym) | 2:05 | 2022-03-21 |  |
-| [variomatic](https://open.spotify.com/track/1uxCLfcGWYFtwIZVXNy1hw) | [luvuto](https://open.spotify.com/artist/3a7ffdUFmZl09XoSWY58F1) | [variomatic](https://open.spotify.com/album/7cptumLYPXisyTPC772YDr) | 1:55 | 2023-03-24 |  |
+| [variomatic](https://open.spotify.com/track/1uxCLfcGWYFtwIZVXNy1hw) | [luvuto](https://open.spotify.com/artist/3a7ffdUFmZl09XoSWY58F1) | [variomatic](https://open.spotify.com/album/7cptumLYPXisyTPC772YDr) | 1:55 | 2023-03-24 | 2025-12-13 |
 | [Vegetate](https://open.spotify.com/track/5m6OGO3gvsMrGc0pH8zy5K) | [Moodal](https://open.spotify.com/artist/1WTuPCWmIlFozKqzMAiNvf) | [Vegetate](https://open.spotify.com/album/7qVvG1yYwadLMtFafIfaJy) | 2:05 | 2025-07-15 |  |
 | [Veil](https://open.spotify.com/track/28D9EaiySXKtyg37WFQqpT) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Veil](https://open.spotify.com/album/2ekQFQS4i8Jps7mEqN8Kjh) | 2:17 | 2021-11-10 | 2022-12-10 |
 | [Ventilator](https://open.spotify.com/track/7tobQQazW32ZWVzc6yTLSY) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Ventilator](https://open.spotify.com/album/5VLGUMQJIHXvwUC63jJS43) | 2:17 | 2023-03-24 | 2025-07-16 |

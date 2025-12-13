@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Juan Boucher, SANFRANDISCO, Gerhard Steyn, Liezel Pieters, Robbie Wessels en meer!
 
-2,305 songs - 5 day 8 hr 12 min
+2,306 songs - 5 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1010,6 +1010,7 @@
 | [Kalahari Reën](https://open.spotify.com/track/3OGa20LcNVYc11V3cQUnLc) | [Elvis Blue](https://open.spotify.com/artist/66TsrRnVkNfvLgLemHCLaJ) | [Kalahari Reën](https://open.spotify.com/album/2NXYN90nkAC3QKU7Tno4Xr) | 3:59 | 2024-01-25 | 2024-03-29 |
 | [Kalahari Sonsak](https://open.spotify.com/track/7DPqLsfqPmrGdXjZIWncnm) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [Herman Kleinhans](https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC) | [Kalahari Sonsak](https://open.spotify.com/album/04VFcZwwKYvxI3spXVCU7r) | 3:02 | 2025-08-14 | 2025-10-10 |
 | [Kalahari Sonsak](https://open.spotify.com/track/5jHcD1AYSfOfQTxZZ62WLt) | [Willem de Jager](https://open.spotify.com/artist/6McdTAeoaIivsyE8NNaKhp) | [Kalahari Sonsak](https://open.spotify.com/album/5QQJ2Hdz4LQNQsHlFfHNcA) | 4:04 | 2025-11-06 | 2025-11-21 |
+| [Kallers in Die Kraal](https://open.spotify.com/track/44K0H0pESr2iegJ6gDvvUh) | [Pj Du Toit](https://open.spotify.com/artist/4bPNdvog4sd51CAiak6mlC) | [Kallers in Die Kraal](https://open.spotify.com/album/60rItKojebWW2Cp7Rg9dXs) | 2:38 | 2025-12-11 |  |
 | [KALM!](https://open.spotify.com/track/2rs0I9mD7VaTKdYL66FrVL) | [Francis Na Die Maan](https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL) | [KALM!](https://open.spotify.com/album/2jHen0JrmILvykvm7qMsbF) | 2:50 | 2025-04-24 | 2025-05-02 |
 | [Kambro se Karoo](https://open.spotify.com/track/1eaBjvtVzJa8OcGY1DAxbq) | [Rohan Britz](https://open.spotify.com/artist/7umJ5LzbtNl0EGYiVEzzeo) | [Kambro se Karoo](https://open.spotify.com/album/3zuS9YEaGfEf9F5rulCsQu) | 3:35 | 2025-07-24 | 2025-08-15 |
 | [Kamp Saam Vriende](https://open.spotify.com/track/2ggnTaThwTyzOqWGiAQKzo) | [Kevboii](https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN), [Beeskraal](https://open.spotify.com/artist/2lU5noHHSMS5cpKisJvmwM) | [Kamp Saam Vriende](https://open.spotify.com/album/54Iej57LYuUoLHHDcAONlj) | 3:00 | 2023-08-31 | 2023-10-20 |

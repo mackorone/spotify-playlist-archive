@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Our editors' picks of this year's best local songs from independent artists and labels\. Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,858 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,867 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 49 | [HEAVY RINGS](https://open.spotify.com/track/2s0WvQNOSDozptCENvtJNe) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [HEAVY RINGS](https://open.spotify.com/album/3YJXcgjztGH9HOpPgMNv4P) | 2:24 |
 | 50 | [DESK JOB](https://open.spotify.com/track/3fkO4mY8kjtfyTWvhTt7UJ) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [INFINITE HIGHS, END OF TIMES](https://open.spotify.com/album/1rPssyCdLdC9UwGVLB5f6j) | 2:23 |
 
-Snapshot ID: `AAAAAKSMlfDwLumnyg+LGFo+bY3k0WKd`
+Snapshot ID: `AAAAALxCyvMdn7gpfe15VTttUQj2Z17g`

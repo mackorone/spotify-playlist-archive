@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: OneRepublic
 
-1,723 songs - 3 day 15 hr 11 min
+1,724 songs - 3 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [Girls Like You \- Spotify Singles](https://open.spotify.com/track/0erKbabOpG3qBwZDsoyAdw) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Spotify Singles](https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE) | 3:40 | 2025-07-10 | 2025-08-01 |
 | [girls will b girls](https://open.spotify.com/track/1fnwW4qRPdAPkhRqncgh5o) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [girls will b girls](https://open.spotify.com/album/2dAEsiFQQXwJDiTnJcrC5y) | 2:29 | 2025-07-10 | 2025-08-09 |
 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 | 2025-01-30 | 2025-02-28 |
+| [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-11 |  |
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 | 2025-08-09 |
 | [Gloria](https://open.spotify.com/track/7uguYtHdK6qwuxiUlzgrU1) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Gloria](https://open.spotify.com/album/6ZD3guVXCEBQbqZntbxiHP) | 3:41 | 2025-05-08 | 2025-06-06 |
 | [Glow](https://open.spotify.com/track/6XaRzGJgCgh7XHl5vnYbEW) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Glow](https://open.spotify.com/album/5cmCT8H9mFi0EmJIalBh7k) | 3:07 | 2024-11-07 | 2024-12-06 |

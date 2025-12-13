@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 320366,
+  "num_followers": 320546,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADrbJv9YSkKlNTq7gfkIO+H",
+  "snapshot_id": "aToJgAAAAAD9wpVdEAJSuuTe7RRwx0Ks",
   "tracks": [
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Lit",
-        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 192026,
-      "name": "R.I.P.",
-      "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv"
+      "duration_ms": 209413,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
     },
     {
       "added_at": null,
@@ -471,6 +471,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 124093,
+      "name": "Vamp Anthem",
+      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC - SORRY 4 DA WAIT",
         "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
       },
@@ -480,9 +512,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 209413,
-      "name": "2024",
-      "url": "https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi"
+      "duration_ms": 200253,
+      "name": "FOMDJ",
+      "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ"
     },
     {
       "added_at": null,
@@ -511,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 124093,
-      "name": "Vamp Anthem",
-      "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 240459,
       "name": "Flex",
       "url": "https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 200253,
-      "name": "FOMDJ",
-      "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Yah Mean",
-      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC - SORRY 4 DA WAIT",
         "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 160306,
       "name": "BACKR00MS (with Travis Scott)",
       "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "Yah Mean",
+      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
     },
     {
       "added_at": null,

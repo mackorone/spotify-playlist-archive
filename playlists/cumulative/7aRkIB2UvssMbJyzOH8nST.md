@@ -4,7 +4,7 @@
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-218 songs - 12 hr 25 min
+219 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-07-18 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2025-07-18 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-07-18 |  |
+| [Fade](https://open.spotify.com/track/0bDo5jU8xEeyfo0DYlyKQU) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Fade](https://open.spotify.com/album/2irS04uHyoblpXy7At0gPd) | 3:36 | 2025-12-12 |  |
 | [Falling or flying](https://open.spotify.com/track/0JZGKXuE6IZcGs5Jvw3bc8) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:24 | 2025-07-18 |  |
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-11-21 |  |
 | [FU & UF](https://open.spotify.com/track/6EmVYBTauOBjejUU5n9GyF) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/6KwW5AwZbyHJD3KyZuuyM1) | 2:39 | 2025-10-24 |  |
@@ -82,7 +83,7 @@
 | [Hairdresser](https://open.spotify.com/track/3ACuAlEUbOaRICryHUPoSL) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/45x0oOtcheQTInFbozCoWE) | 3:27 | 2025-07-18 |  |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 | 2025-08-09 |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2025-07-18 | 2025-08-09 |
-| [Heartbeat](https://open.spotify.com/track/3CP4TBBL8ZvTnHf0wPy7Pt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:52 | 2025-07-18 |  |
+| [Heartbeat](https://open.spotify.com/track/3CP4TBBL8ZvTnHf0wPy7Pt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:52 | 2025-07-18 | 2025-12-13 |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2025-07-18 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2025-07-18 | 2025-09-13 |
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2025-07-18 |  |

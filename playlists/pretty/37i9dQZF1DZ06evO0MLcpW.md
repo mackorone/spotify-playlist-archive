@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 
 > This is Aventura\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,617 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,714 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 |
 | 2 | [Dile al Amor](https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:49 |
-| 3 | [Los Infieles](https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 4:17 |
+| 3 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
 | 4 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
 | 5 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
 | 6 | [Por un Segundo](https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:15 |
-| 7 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 |
+| 7 | [Los Infieles](https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 4:17 |
 | 8 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
 | 9 | [Enseñame a Olvidar](https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:48 |
 | 10 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 19 | [Cuando Volveras](https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:30 |
 | 20 | [Ciego De Amor \- Featuring Anthony Santos](https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 5:07 |
 | 21 | [Te Invito](https://open.spotify.com/track/5UdT2XVZPgZDMi7vxQBgRN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 3:33 |
-| 22 | [La Tormenta](https://open.spotify.com/track/2d4rnjrHTPdLTFRGz4ccim) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:35 |
+| 22 | [Tu Jueguito](https://open.spotify.com/track/6Ezrvk64WB6scceSL3lDjp) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:42 |
 | 23 | [José](https://open.spotify.com/track/4TLzeL9PFoBoUNQv4sc7me) | [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 4:13 |
 | 24 | [La Novelita](https://open.spotify.com/track/0UuMzFglgjKnYuAmkICf1P) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:04 |
 | 25 | [Llorar](https://open.spotify.com/track/4M4oSbEjB8Z94039uyjXuO) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 4:10 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 39 | [Amor Bonito \(Novela 2\)](https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:37 |
 | 40 | [No Lo Perdona Dios](https://open.spotify.com/track/5ERhiZwEhNFIeXEG6RstN9) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:32 |
 
-Snapshot ID: `aTi4AAAAAAB/jmeIg/IamIvUFQ4AVhTT`
+Snapshot ID: `aToJgAAAAACsu8nt8Aplqsig0FeD4c5r`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Brand\u00e3o85, Matu\u00ea",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Tz da Coronel",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 196213,
       "name": "5\u00aa DIMENS\u00c3O",
       "url": "https://open.spotify.com/track/2ZBAoshSsVrgOzabiQKhBS"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 144000,
       "name": "Ato \u2160: \u00d3dio",
       "url": "https://open.spotify.com/track/3geKDC7oWAnT8h9nX8X9N7"
@@ -4508,7 +4508,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 158925,
       "name": "Balaclava, Pt. 2",
       "url": "https://open.spotify.com/track/03ScZgFG0gnzhgtABt8XDR"
@@ -6808,10 +6808,28 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 167633,
       "name": "CAM",
       "url": "https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV"
+    },
+    {
+      "album": {
+        "name": "CAM 6",
+        "url": "https://open.spotify.com/album/3ueHFK7Fel3VDcZ0o53Cyz"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148354,
+      "name": "CAM 6",
+      "url": "https://open.spotify.com/track/3bA5NyhbrQuWrgAyfHv6WT"
     },
     {
       "album": {
@@ -14757,6 +14775,24 @@
     },
     {
       "album": {
+        "name": "eu amo lean",
+        "url": "https://open.spotify.com/album/3QuljhudZb4rBY5oXZbg1R"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212054,
+      "name": "eu amo lean",
+      "url": "https://open.spotify.com/track/0gSBe8xRANZT17fR5nU8RM"
+    },
+    {
+      "album": {
         "name": "Serena & Venus (Lado A)",
         "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
       },
@@ -15524,6 +15560,24 @@
       "duration_ms": 176000,
       "name": "F* F* M*",
       "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
+    },
+    {
+      "album": {
+        "name": "F*DA-SE...",
+        "url": "https://open.spotify.com/album/5oQEub0o2RBhURbM9tBzqo"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "F*DA-SE...",
+      "url": "https://open.spotify.com/track/3GV6oddjaaIKgmnVi8GSrK"
     },
     {
       "album": {
@@ -17782,6 +17836,28 @@
       "duration_ms": 221102,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
+    },
+    {
+      "album": {
+        "name": "Fresh Frozen",
+        "url": "https://open.spotify.com/album/29eS6ntfEmstqdTC0kzU3a"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Fresh Frozen",
+      "url": "https://open.spotify.com/track/7lqdneiiVMBjfjtOLffDx8"
     },
     {
       "album": {
@@ -22385,6 +22461,32 @@
     },
     {
       "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/0Uu2kyxXys9oxyHHNvE19u"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/1pMh24F4LR8xAmwpuqUFgF"
+    },
+    {
+      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7HmRfUMMMd0jenSulafBfb"
       },
@@ -22568,7 +22670,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 204373,
       "name": "LITTLE BABY",
       "url": "https://open.spotify.com/track/6kTMNktsL1XZOqnXNOmYqC"
@@ -24518,7 +24620,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 127384,
       "name": "Me Desculpa",
       "url": "https://open.spotify.com/track/4YFZBqiBgu9MI8fJeKh0lb"
@@ -28007,6 +28109,36 @@
     },
     {
       "album": {
+        "name": "Nave Nova",
+        "url": "https://open.spotify.com/album/2qQCYbtoZl6tpQSv2MbTDP"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Hobb The Goat",
+          "url": "https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174010,
+      "name": "Nave Nova",
+      "url": "https://open.spotify.com/track/1FoMsbmFRXseu5TC2MV8Ik"
+    },
+    {
+      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
@@ -29980,7 +30112,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 198260,
       "name": "N\u00f3s Dois (222)",
       "url": "https://open.spotify.com/track/5VNegFrZddzAYqUF6IoDJT"
@@ -34641,6 +34773,40 @@
     },
     {
       "album": {
+        "name": "Princ\u00edpios",
+        "url": "https://open.spotify.com/album/51awyzGDxNNDDVvTOCngZn"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "Princ\u00edpios",
+      "url": "https://open.spotify.com/track/5A9Eib6BX6y8k2xPcWM5x8"
+    },
+    {
+      "album": {
         "name": "Princ\u00edpios de um Campe\u00e3o",
         "url": "https://open.spotify.com/album/3FK9YCzB1XuzEsHg0iX360"
       },
@@ -36102,7 +36268,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 179500,
       "name": "Quero saber",
       "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
@@ -39880,7 +40046,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 156374,
       "name": "Sob a luz do seu olhar",
       "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
@@ -42386,7 +42552,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 164571,
       "name": "Teto Solar",
       "url": "https://open.spotify.com/track/2amY3wgTCYnJyIPJFuzV2R"
@@ -42470,7 +42636,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 336000,
       "name": "THE BOX MEDLEY 10",
       "url": "https://open.spotify.com/track/3GXnIt9ELJUYtxtkfiVx2j"
@@ -44363,6 +44529,28 @@
     },
     {
       "album": {
+        "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
+        "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217941,
+      "name": "VAI DESCE BABY",
+      "url": "https://open.spotify.com/track/44U1er1LxgRNu42fbbz78T"
+    },
+    {
+      "album": {
         "name": "Bem-vindo a Armadilha Brasileira",
         "url": "https://open.spotify.com/album/6djuaxmB22F71KPU0A7CrU"
       },
@@ -46050,7 +46238,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 187888,
       "name": "w my mano",
       "url": "https://open.spotify.com/track/5ZCCLQBiwqKK125jV2idPR"
@@ -46354,6 +46542,28 @@
       "duration_ms": 100561,
       "name": "XR300",
       "url": "https://open.spotify.com/track/38Ha6BYgis6Wk3Wq8iWiVa"
+    },
+    {
+      "album": {
+        "name": "XTRANHO",
+        "url": "https://open.spotify.com/album/5ORsvI5ThmZw7PS1NTvZaB"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213016,
+      "name": "XTRANHO",
+      "url": "https://open.spotify.com/track/6sHWMvDDdgNNvkJ7JHktdl"
     },
     {
       "album": {
@@ -47242,6 +47452,24 @@
       "duration_ms": 166091,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/6OeFHH7a0WE6fdpfD1PVPD"
+    },
+    {
+      "album": {
+        "name": "\u00danico Alem\u00e3o Que Eu Gosto",
+        "url": "https://open.spotify.com/album/2SPRONTkcJ9hs69FuRvqjB"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174147,
+      "name": "\u00danico Alem\u00e3o Que Eu Gosto",
+      "url": "https://open.spotify.com/track/6bwY4Bms3owJsDjkBk4VKq"
     },
     {
       "album": {

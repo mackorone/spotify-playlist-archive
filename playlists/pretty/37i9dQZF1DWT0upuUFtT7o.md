@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The 75 best Indie songs from new, independent artists in 2025, as chosen by our editors\. Cover: Mother Soki
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,706 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,728 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

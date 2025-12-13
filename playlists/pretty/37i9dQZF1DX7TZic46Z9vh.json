@@ -1,6 +1,6 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 45404,
+  "num_followers": 45407,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-04-05 19:11:35",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
-      },
-      "artists": [
-        {
-          "name": "Las Moskas",
-          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
-    },
-    {
-      "added_at": "2024-04-05 19:11:35",
-      "album": {
         "name": "Regreso al Origen",
         "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 192893,
       "name": "Nada Nos Detendr\u00e1",
       "url": "https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA"
+    },
+    {
+      "added_at": "2024-04-05 19:11:35",
+      "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
+      },
+      "artists": [
+        {
+          "name": "Las Moskas",
+          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -772,13 +772,13 @@
       },
       "artists": [
         {
-          "name": "Paco Gruexxo",
-          "url": "https://open.spotify.com/artist/36FMRbSbIzLPUuvFu10UqT"
+          "name": "Bandido",
+          "url": "https://open.spotify.com/artist/2kxjS2TnYDEKcSPn8xJdva"
         }
       ],
-      "duration_ms": 235160,
-      "name": "Insurgensex",
-      "url": "https://open.spotify.com/track/5YfgBQqKkQOxrS6U0zfKgl"
+      "duration_ms": 457466,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/7ipxhMVfluSfUdaunwFbxi"
     },
     {
       "added_at": "2024-04-05 19:11:35",
@@ -788,13 +788,13 @@
       },
       "artists": [
         {
-          "name": "Bandido",
-          "url": "https://open.spotify.com/artist/2kxjS2TnYDEKcSPn8xJdva"
+          "name": "Paco Gruexxo",
+          "url": "https://open.spotify.com/artist/36FMRbSbIzLPUuvFu10UqT"
         }
       ],
-      "duration_ms": 457466,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/7ipxhMVfluSfUdaunwFbxi"
+      "duration_ms": 235160,
+      "name": "Insurgensex",
+      "url": "https://open.spotify.com/track/5YfgBQqKkQOxrS6U0zfKgl"
     },
     {
       "added_at": "2024-04-05 19:11:35",

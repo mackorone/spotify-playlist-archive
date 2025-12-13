@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,725 likes - 103 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,821 likes - 103 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

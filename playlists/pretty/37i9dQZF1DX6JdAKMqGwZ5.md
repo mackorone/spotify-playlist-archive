@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Hofe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,204 likes - 120 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,247 likes - 120 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 17 | [Siempre sale el Sol](https://open.spotify.com/track/5eCHx60UtffR3kWotaXs6j) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Siempre sale el Sol](https://open.spotify.com/album/4qV5L11scrdd1GorttD70Q) | 2:29 |
 | 18 | [Contigo](https://open.spotify.com/track/7jCKhYFz4NHrbrajity2eA) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Contigo](https://open.spotify.com/album/4Yl8mtPufYDfj9n4FWgN9C) | 2:32 |
 | 19 | [Que X Bien No Venga](https://open.spotify.com/track/4ggvW54DPjsVSkd8FqQY6i) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [Dios Dirá, Dios Proveerá](https://open.spotify.com/album/4ufxpTTu6rBLm7ZhKAXsgI) | 3:12 |
-| 20 | [Track 9](https://open.spotify.com/track/09mJBhJoLEvCSYq3J1xX4a) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [The KKK Took My Baby Away](https://open.spotify.com/track/09mJBhJoLEvCSYq3J1xX4a) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Los Telepáticos](https://open.spotify.com/album/0v5ANQwTATWQSM4E5yCAze) | 2:32 |
 | 21 | [El mejor verano de la vida](https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL) | [Smile](https://open.spotify.com/artist/47IdumnUeVozInz0gfdk6o) | [El mejor verano de la vida](https://open.spotify.com/album/1gTXbQtT1bSiEUpvm7GmhJ) | 3:26 |
 | 22 | [Sugar \(Honey Ice Tea\)](https://open.spotify.com/track/1VmcheVKa8Gwh62nfcrxld) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Sugar \(Honey Ice Tea\)](https://open.spotify.com/album/1g6kAVkSuoIzZXgD3f2eL7) | 2:29 |
 | 23 | [Pienso En Ti](https://open.spotify.com/track/6JrampDbMp4AM7R0TyLGtN) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Pienso En Ti](https://open.spotify.com/album/3h9y40Uj7jkoEVbn0TvgKb) | 3:23 |

@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: ELENA ROSE, Rawayana
 
-183 songs - 10 hr 46 min
+184 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 | 2021-12-17 |  |
 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 | 2021-12-17 | 2022-10-01 |
 | [Allá Cayó](https://open.spotify.com/track/6F7uqfzvcdl5Y42mJBVc9V) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Plomo Revienta](https://open.spotify.com/album/5LIVxzLRdrJowxmLayI3uc) | 4:12 | 2021-12-17 |  |
+| [Alma Llanera / Venezuela \- Live from Nobel Peace Prize 2025](https://open.spotify.com/track/2pvoBWRbXGXQrGgQF6swxn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Alma Llanera / Venezuela \(Live from Nobel Peace Prize 2025\)](https://open.spotify.com/album/1ZlHS1USF0HZtjBngdLwu1) | 3:58 | 2025-12-12 |  |
 | [Amparito](https://open.spotify.com/track/0ayNtRudPUG8mMSL6xzVcF) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Amparito](https://open.spotify.com/album/2v6ufk2RJEMUw5Vqe1f8In) | 3:08 | 2022-09-30 | 2022-11-13 |
 | [Amparito](https://open.spotify.com/track/0DTkjSxTl3Q2xYqok4vhH4) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Exitos De Maracaibo 15](https://open.spotify.com/album/5GbKnnwqvJRto8ck2PV3WY) | 3:11 | 2021-12-17 |  |
 | [Amparito](https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Éxitos Maracaibo 15](https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5) | 3:12 | 2022-07-01 | 2024-04-19 |
@@ -136,7 +137,7 @@
 | [Persona Ideal](https://open.spotify.com/track/6RgTdJ485ABZ64HkWpEYon) | [Milleniun Hits](https://open.spotify.com/artist/0xbGf3FKLF3P3yzf1hecRY) | [Los Adolescentes](https://open.spotify.com/album/6S1EDLEQGq8iofwgUtJxas) | 4:42 | 2022-07-01 |  |
 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-07-01 | 2024-04-19 |
 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 | 2024-06-07 | 2024-08-17 |
-| [Ponme En Tu Boca](https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Ponme En Tu Boca](https://open.spotify.com/album/6L21tGHxPx7Ms95U4BxBda) | 3:04 | 2025-07-25 |  |
+| [Ponme En Tu Boca](https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Ponme En Tu Boca](https://open.spotify.com/album/6L21tGHxPx7Ms95U4BxBda) | 3:04 | 2025-07-25 | 2025-12-13 |
 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 | 2024-07-19 | 2025-01-25 |
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2022-04-22 |  |
 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 | 2023-02-10 |  |

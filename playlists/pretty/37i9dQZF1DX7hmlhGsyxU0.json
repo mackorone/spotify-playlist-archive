@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 203793,
+  "num_followers": 203811,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -531,58 +531,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
-      },
-      "artists": [
-        {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
-        },
-        {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
-        }
-      ],
-      "duration_ms": 408791,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
-      },
-      "artists": [
-        {
-          "name": "Simon Antonio",
-          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "You Will Never Walk Alone (Glowworm Rework)",
         "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
       },
@@ -603,22 +551,54 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Swan Lake Story",
-        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
+        "name": "The Last Gate",
+        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
       "artists": [
         {
-          "name": "W CELLO",
-          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
+          "name": "Cesare Picco",
+          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
         },
         {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+          "name": "Leonardo Sapere",
+          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
         }
       ],
-      "duration_ms": 170375,
-      "name": "Swan Lake Story, Op. 1",
-      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
+      "duration_ms": 408791,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+      },
+      "artists": [
+        {
+          "name": "Simon Antonio",
+          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -635,6 +615,26 @@
       "duration_ms": 212307,
       "name": "What If",
       "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Swan Lake Story",
+        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
+      },
+      "artists": [
+        {
+          "name": "W CELLO",
+          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
+        },
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 170375,
+      "name": "Swan Lake Story, Op. 1",
+      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
-      },
-      "artists": [
-        {
-          "name": "Cysur",
-          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
-        }
-      ],
-      "duration_ms": 132755,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "The Sky Cracked",
-        "url": "https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
       },
       "artists": [
         {
-          "name": "Bea Boethius",
-          "url": "https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5"
+          "name": "Cysur",
+          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
         }
       ],
-      "duration_ms": 112625,
-      "name": "The Sky Cracked",
-      "url": "https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U"
+      "duration_ms": 132755,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -843,6 +827,22 @@
       "duration_ms": 148672,
       "name": "K\u00e4rlek",
       "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "The Sky Cracked",
+        "url": "https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG"
+      },
+      "artists": [
+        {
+          "name": "Bea Boethius",
+          "url": "https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5"
+        }
+      ],
+      "duration_ms": 112625,
+      "name": "The Sky Cracked",
+      "url": "https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U"
     },
     {
       "added_at": "2025-10-03 10:20:21",

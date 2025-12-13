@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-850 songs - 1 day 18 hr 26 min
+851 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Huuda vaan](https://open.spotify.com/track/3YASlGSvQK8TivqT6as0hV) | [Lili & Luna](https://open.spotify.com/artist/5K10NuCY4qVWSgk3kGsQTZ) | [Elämänmittainen sori sori](https://open.spotify.com/album/3QDVZsz7dny6mzY6b3ULHq) | 2:45 | 2024-10-10 | 2024-10-25 |
 | [Huuto](https://open.spotify.com/track/5jWdC7hsYj7EMk83U3SXGT) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Kuivaa kyyneleet](https://open.spotify.com/album/4zyg8ORJNwWejgZgu9gFoP) | 2:57 | 2024-10-03 | 2024-11-08 |
 | [Hyväksyvä katse](https://open.spotify.com/track/4egjKbBdVUxptQng4y14P9) | [Lasse Havu](https://open.spotify.com/artist/1ZmoBCqIjRZsdkG1zvLElg) | [Hyväksyvä katse](https://open.spotify.com/album/3rXVCS2Vdh39Rso96YmD5u) | 2:57 | 2025-02-06 | 2025-03-07 |
+| [Hyvänpäiväntutut](https://open.spotify.com/track/4cuTbzakxCV05eZydN4Inf) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvänpäiväntutut](https://open.spotify.com/album/618cHLDsjL1S9kvLL6pN23) | 3:26 | 2025-12-12 |  |
 | [Hyväuskoinen \(Vain elämää kausi 16\)](https://open.spotify.com/track/2LT3ikZrl9qzbYpoWlby4s) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Hyväuskoinen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7xlPk3qE972zgOxgIWQkWx) | 3:29 | 2025-10-02 | 2025-10-10 |
 | [Häflä](https://open.spotify.com/track/2yEVWfpe2JKjidkQpFW3I2) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [HYVÄ SYDÄN, PAHA SUU](https://open.spotify.com/album/1LDra5gUrgQ3Vs6M7prCMg) | 2:20 | 2024-09-19 | 2024-10-04 |
 | [Häitä pidelly](https://open.spotify.com/track/6Y7TST1IwwlQqGGpmQjfEO) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Häitä pidelly](https://open.spotify.com/album/1y1tfyzF2qlXl9FgriI1EB) | 3:02 | 2024-07-02 | 2024-09-27 |
@@ -494,7 +495,7 @@
 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 | 2025-06-26 | 2025-08-19 |
 | [Omenankukkia](https://open.spotify.com/track/1563AErGLrLPBodmEKq7WI) | [Laura Närhi](https://open.spotify.com/artist/7KHWXv1XVqqXuIZ8Ui5TDJ) | [Omenankukkia](https://open.spotify.com/album/2JiJGZZzm8gj1ub4ij1sFA) | 3:56 | 2025-04-24 | 2025-05-16 |
 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-09-13 |
-| [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [](https://open.spotify.com/album/null) | 3:16 | 2025-12-11 |  |
+| [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 | 2025-12-11 |  |
 | [Onks tää vakavaa?](https://open.spotify.com/track/0X0jxZAzdCRDtPgVtMz3Ow) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Onks tää vakavaa?](https://open.spotify.com/album/7bP5f8d0pMEB3VH0RfTZqU) | 2:40 | 2025-05-15 | 2025-06-06 |
 | [Onneks](https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Onneks](https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e) | 2:40 | 2025-04-24 | 2025-09-19 |
 | [Onnellisii osumii](https://open.spotify.com/track/6rPIEhlRmhsSr9yTQSmWr5) | [Aurora](https://open.spotify.com/artist/6B7tHfJGL5rnIxNQLN8Hp0) | [Onnellisii osumii](https://open.spotify.com/album/6BfZZHzNmIKtxjyC8unB05) | 2:36 | 2025-09-11 | 2025-09-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Elizeu Alves, Alexsander Lucio
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,440 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,577 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 17 | [Majestade Santa \- Ao Vivo](https://open.spotify.com/track/6Qd1RwIfJPycLuPe9aVp7H) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Enfermo de Amor \(Ao Vivo\)](https://open.spotify.com/album/7mf5DzWRPxrNhGcebltmu0) | 3:33 |
 | 18 | [Bethânia](https://open.spotify.com/track/59mmcyuVSIjRZLbQBbUaxs) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Bethânia](https://open.spotify.com/album/1x1ETbzCE0wAI5G8y5j0yf) | 13:44 |
 | 19 | [Portas Abertas](https://open.spotify.com/track/3x1ge0IxSzOlvExhn5G17g) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Portas Abertas](https://open.spotify.com/album/5cQ2943MpPtLMqzzJR8cA4) | 4:13 |
-| 20 | [Não Existe Eu Sem Deus \- Ao Vivo](https://open.spotify.com/track/1vdjG2YGr95YjCylujdTzt) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [](https://open.spotify.com/album/null) | 5:16 |
+| 20 | [Não Existe Eu Sem Deus \- Ao Vivo](https://open.spotify.com/track/1vdjG2YGr95YjCylujdTzt) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Não Existe Eu Sem Deus \(Ao Vivo\)](https://open.spotify.com/album/2eSbXLMOZtBwdemGqq6hNX) | 5:16 |
 | 21 | [Betel \- Ao Vivo](https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0) | 5:03 |
 | 22 | [Meu Viver \- Ao Vivo](https://open.spotify.com/track/0zlfmwkzWbINauvIcoHLJz) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Meu Viver \(Ao Vivo\)](https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM) | 5:10 |
 | 23 | [Viúva Sem Nada](https://open.spotify.com/track/3mv0qNyhDeh1SBXpFR3ezT) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Viúva Sem Nada](https://open.spotify.com/album/4oir3U0m4dawkM1AQcbV58) | 4:41 |

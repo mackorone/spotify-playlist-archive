@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,706 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,696 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [Bolide allemand \- Jaykill & Sublife Remix](https://open.spotify.com/track/1RSEQ5skCiI2o9lNoUv7go) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Jaykill](https://open.spotify.com/artist/0dGPMxHTZHlIWhNqfrWs9e), [SubLife](https://open.spotify.com/artist/6PZjd0IGgGy8f1kVfKp7sc) | [Bolide allemand](https://open.spotify.com/album/2ggT3ZPX8xC4eUPPlpvAKH) | 5:39 |
 | 60 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 
-Snapshot ID: `AAAAAOkhr2YtPuvUw7mbAIpcoi26qCbj`
+Snapshot ID: `AAAAAJRr1hYn7BP78TZh4UP0Z/BW764a`

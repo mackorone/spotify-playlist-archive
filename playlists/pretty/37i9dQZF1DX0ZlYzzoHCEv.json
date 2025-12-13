@@ -1,6 +1,6 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 71059,
+  "num_followers": 71050,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
-        "name": "LOVELY BASTARDS",
-        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
-      },
-      "artists": [
-        {
-          "name": "ZWE1HVNDXR",
-          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
-        },
-        {
-          "name": "yatashigang",
-          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
-        }
-      ],
-      "duration_ms": 116104,
-      "name": "LOVELY BASTARDS",
-      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
         "name": "Collide (feat. Tyga)",
         "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
       "added_at": "2024-08-06 14:12:36",

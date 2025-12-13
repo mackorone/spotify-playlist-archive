@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254432,
+  "num_followers": 254430,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADdsmUovcvW8A4N3GeJBeq4",
+  "snapshot_id": "aToJgAAAAAAj2pIIbuX13W7aAzLf/40V",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Only Knows (with Dolly Parton)",
         "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
       },
@@ -655,6 +639,42 @@
       "duration_ms": 213653,
       "name": "God Only Knows (with Dolly Parton)",
       "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC"
+      },
+      "artists": [
+        {
+          "name": "Sabyn",
+          "url": "https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 231044,
+      "name": "9 to 5 to 9",
+      "url": "https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH"
     },
     {
       "added_at": null,
@@ -679,26 +699,6 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC"
-      },
-      "artists": [
-        {
-          "name": "Sabyn",
-          "url": "https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 231044,
-      "name": "9 to 5 to 9",
-      "url": "https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Blue Ridge Mountain Boy",
+        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "In the Ghetto",
+      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -807,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Blue Ridge Mountain Boy",
-        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
       "artists": [
         {
@@ -816,9 +832,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 170847,
-      "name": "In the Ghetto",
-      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
+      "duration_ms": 157427,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 157427,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Harvest...First Gathering",
         "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 318844,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Hadn\u2019t Been There",
-        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 208789,
-      "name": "If You Hadn\u2019t Been There",
-      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
     },
     {
       "added_at": null,
@@ -911,6 +895,22 @@
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Hadn\u2019t Been There",
+        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 208789,
+      "name": "If You Hadn\u2019t Been There",
+      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
     },
     {
       "added_at": null,

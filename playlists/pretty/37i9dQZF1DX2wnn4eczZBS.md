@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,044 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,048 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 18 | [Als Hij dan echt bestaat](https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Wie de fak is Sophie Straat](https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk) | 3:09 |
 | 19 | [Skinroutine Bikinilijn](https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Skinroutine Bikinilijn](https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ) | 3:03 |
 | 20 | [Aerobics](https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta) | [Kaat Van Stralen](https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF) | [Aerobics](https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM) | 2:47 |
-| 21 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 |
-| 22 | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re) | 3:38 |
+| 21 | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Videotheek \(Recht Uit Een Film\)](https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re) | 3:38 |
+| 22 | [Boterham](https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Boterham](https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO) | 2:07 |
 | 23 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 |
 | 24 | [Fuck Je Gucci Shirt](https://open.spotify.com/track/1hD3B1IiFU84te2aOOvNrr) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Niemand Gaat Het Voor Je Doen](https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF) | 2:28 |
 | 25 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 33 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 |
 | 34 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 |
 | 35 | [Bidden In De Moshpit](https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Bidden In De Moshpit](https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx) | 3:07 |
-| 36 | [Abrikoos](https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Abrikoos](https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp) | 2:49 |
-| 37 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
-| 38 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
+| 36 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
+| 37 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
+| 38 | [Abrikoos](https://open.spotify.com/track/12iqaBDMEkAdaUgBmxqGJO) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Abrikoos](https://open.spotify.com/album/1jsfvYCbmoHGgO6HYToDMp) | 2:49 |
 | 39 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 |
 | 40 | [Leonie](https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Leonie](https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS) | 3:16 |
 | 41 | [De zon](https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY) | [De zon](https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs) | 2:43 |
-| 42 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
-| 43 | [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 |
+| 42 | [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 |
+| 43 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
 | 44 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 |
 | 45 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
 | 46 | [Niemand](https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Niemand](https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE) | 2:24 |
 | 47 | [VOL v2.025](https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [v2.025](https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ) | 3:31 |
 | 48 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
 | 49 | [TOM](https://open.spotify.com/track/2TEheyi5V6hr4P4K1F20a2) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5) | [TOM](https://open.spotify.com/album/6hXAOu7RS5VwjGyh2zNO1h) | 4:21 |
-| 50 | [Marco Polo](https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Marco Polo](https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4) | 3:47 |
+| 50 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 |
 
 Snapshot ID: `AAAAAKqaQTUrIPDzo5ac6RCDymaKKWb2`

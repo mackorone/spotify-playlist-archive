@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 574777,
+  "num_followers": 574859,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,26 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
+        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
+        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
+      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
+    },
+    {
+      "added_at": "2025-11-26 09:20:00",
+      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 190866,
       "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
       "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
-    },
-    {
-      "added_at": "2025-11-26 09:20:00",
-      "album": {
-        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
-        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "Alexandra Whittingham",
-          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
-      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
     },
     {
       "added_at": "2025-11-26 09:20:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
-        "name": "Tchaikovsky: Children's Album, Op. 39: No. 21, Sweet Dreams",
-        "url": "https://open.spotify.com/album/10mpmaq2FmGOM3HeUHtis0"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
-      "url": "https://open.spotify.com/track/3RcqfI7qd4jYgdReTnTPR7"
-    },
-    {
-      "added_at": "2025-11-26 09:20:00",
-      "album": {
         "name": "Movement 5 - Pt. 2",
         "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 252920,
       "name": "Movement 5 - Pt. 2 - Instrumental",
       "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
+    },
+    {
+      "added_at": "2025-11-26 09:20:00",
+      "album": {
+        "name": "Tchaikovsky: Children's Album, Op. 39: No. 21, Sweet Dreams",
+        "url": "https://open.spotify.com/album/10mpmaq2FmGOM3HeUHtis0"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Children's Album, Op. 39: No. 21, Sweet Dreams",
+      "url": "https://open.spotify.com/track/3RcqfI7qd4jYgdReTnTPR7"
     },
     {
       "added_at": "2025-11-26 09:20:00",
@@ -703,6 +703,30 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 145859,
+      "name": "Mozart Piano Concerto Variation (After Piano Concerto No. 27 in B-Flat Major, K. 595, II. Larghetto) [Arr. for Piano by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/0nSG4NazWgZo0jg8JJznha"
+    },
+    {
+      "added_at": "2025-11-26 09:20:00",
+      "album": {
         "name": "Solon Islandus (Complete Works)",
         "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
       },
@@ -739,46 +763,6 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Jan-Peter Kl\u00f6pfel",
-          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 145859,
-      "name": "Mozart Piano Concerto Variation (After Piano Concerto No. 27 in B-Flat Major, K. 595, II. Larghetto) [Arr. for Piano by Jan-Peter Kl\u00f6pfel)",
-      "url": "https://open.spotify.com/track/0nSG4NazWgZo0jg8JJznha"
-    },
-    {
-      "added_at": "2025-11-26 09:20:00",
-      "album": {
-        "name": "Make-believe",
-        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Make-believe",
-      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
-    },
-    {
-      "added_at": "2025-11-26 09:20:00",
-      "album": {
         "name": "Brahms: 21 Hungarian Dances, WoO 1 & 16 Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/3D17O5qP9yOhyBThdhBYKY"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 81800,
       "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
       "url": "https://open.spotify.com/track/6IOWaTG6MUfR4824H2XOjJ"
+    },
+    {
+      "added_at": "2025-11-26 09:20:00",
+      "album": {
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
     },
     {
       "added_at": "2025-11-26 09:20:00",
@@ -1199,26 +1199,22 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+        "name": "Piano Poems",
+        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
         },
         {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
         }
       ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
+      "duration_ms": 171397,
+      "name": "Being",
+      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
     },
     {
       "added_at": "2025-11-26 09:20:00",
@@ -1263,22 +1259,26 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
-        "name": "Piano Poems",
-        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
       "artists": [
         {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
-          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
         }
       ],
-      "duration_ms": 171397,
-      "name": "Being",
-      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2025-11-26 09:20:00",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
+        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
+        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Mariani Klavierquartett",
+          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
+        }
+      ],
+      "duration_ms": 518539,
+      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
+      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
+    },
+    {
+      "added_at": "2025-11-26 09:20:00",
+      "album": {
         "name": "Meditation - Relaxing Classics",
         "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
       },
@@ -1491,26 +1511,6 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
-        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
-        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Mariani Klavierquartett",
-          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
-        }
-      ],
-      "duration_ms": 518539,
-      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
-      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
-    },
-    {
-      "added_at": "2025-11-26 09:20:00",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     },
     {
       "added_at": "2025-11-26 09:20:00",
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2025-11-26 09:20:00",

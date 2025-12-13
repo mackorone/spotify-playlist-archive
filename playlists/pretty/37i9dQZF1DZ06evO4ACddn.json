@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACaxtgfEepaxMCAVXHZ2fNO",
+  "snapshot_id": "aToJgAAAAAAhF96WVNRYleP7+h9H7ZR1",
   "tracks": [
     {
       "added_at": null,
@@ -212,70 +212,6 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Radar - Redux",
-      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Deserter",
-      "url": "https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 219853,
-      "name": "Distant Light",
-      "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
       "duration_ms": 174729,
       "name": "Things Will Matter",
       "url": "https://open.spotify.com/track/3yFZ2FNf3RZMw5e1sJYZve"
@@ -311,6 +247,70 @@
       "duration_ms": 252733,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Deserter",
+      "url": "https://open.spotify.com/track/0T7UxrsKjmTnkBLKs4o3Ah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 219853,
+      "name": "Distant Light",
+      "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 272094,
-      "name": "Our Sketch Out",
-      "url": "https://open.spotify.com/track/2S8q4TU6Ojb5Mp170dhPWd"
+      "duration_ms": 206605,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 206605,
-      "name": "Long Way",
-      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
+      "duration_ms": 272094,
+      "name": "Our Sketch Out",
+      "url": "https://open.spotify.com/track/2S8q4TU6Ojb5Mp170dhPWd"
     },
     {
       "added_at": null,

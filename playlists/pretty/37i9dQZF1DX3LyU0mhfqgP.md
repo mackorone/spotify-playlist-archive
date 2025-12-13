@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,372 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,383 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,30 +33,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 23 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
 | 24 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 25 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
-| 26 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 |
-| 27 | [Twist The Knife](https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:25 |
+| 26 | [Twist The Knife](https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:25 |
+| 27 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 |
 | 28 | [KISSING IN PUBLIC](https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [KISSING IN PUBLIC](https://open.spotify.com/album/4OTvEacbBrVMCYo7bk6cQa) | 3:56 |
 | 29 | [Sweet n' Low](https://open.spotify.com/track/1OG3R8TE8KMIIjXFQBxRic) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Sweet n' Low](https://open.spotify.com/album/20DAgaZMBGBBIbdUbfStci) | 2:57 |
 | 30 | [God Save The Queens](https://open.spotify.com/track/6LjiRz2t73c0vK68fC7sK9) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [God Save The Queens \(Live from Lodge Room / 2024\)](https://open.spotify.com/album/6Jl9xg4VBu2th6BraYftyX) | 2:25 |
 | 31 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
 | 32 | [Elton John](https://open.spotify.com/track/5HYN9duH7xFI9m46Rpjpxn) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Elton John](https://open.spotify.com/album/2Beb7c7tnAQY8hDQ1Ci1gm) | 3:12 |
-| 33 | [Big Ol' Hammer](https://open.spotify.com/track/3GQ561SeANVLRpfM5va0bA) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 2:27 |
-| 34 | [God’s A Raver](https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 2:51 |
+| 33 | [God’s A Raver](https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 2:51 |
+| 34 | [Big Ol' Hammer](https://open.spotify.com/track/3GQ561SeANVLRpfM5va0bA) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 2:27 |
 | 35 | [Dearly Missed](https://open.spotify.com/track/1N5MjhXcJmjKuaeLsuFpA9) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 6:00 |
 | 36 | [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 |
 | 37 | [act right](https://open.spotify.com/track/2mA87b0gMS1pjCCp3gBhdZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 2:53 |
 | 38 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 |
 | 39 | [Let You Know When I Get There](https://open.spotify.com/track/0iUdJ2hWXQFiYSxKifgpCC) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 3:11 |
-| 40 | [\(I'm here for the\) GIRLS](https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\(I'm here for the\) GIRLS](https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl) | 2:20 |
-| 41 | [Urban Legend](https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w) | 2:56 |
+| 40 | [Urban Legend](https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w) | 2:56 |
+| 41 | [\(I'm here for the\) GIRLS](https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\(I'm here for the\) GIRLS](https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl) | 2:20 |
 | 42 | [Girlfriend](https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Girlfriend](https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa) | 3:31 |
 | 43 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 |
 | 44 | [Something About Her](https://open.spotify.com/track/5YL9rgtFHTJpX1v4GKFK2h) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [Something About Her](https://open.spotify.com/album/0U4sNMu5LKDC41Y9unsXhG) | 3:02 |
 | 45 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 | 46 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 |
-| 47 | [Feel Good](https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Feel Good](https://open.spotify.com/album/79xO4G1MdymjwFgHwSCEab) | 3:36 |
-| 48 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 |
-| 49 | [Pity Party](https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 3:17 |
+| 47 | [Pity Party](https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 3:17 |
+| 48 | [Feel Good](https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Feel Good](https://open.spotify.com/album/79xO4G1MdymjwFgHwSCEab) | 3:36 |
+| 49 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 |
 | 50 | [I wanna see my friends dicks](https://open.spotify.com/track/7gkORxtKiWPlD3A0PVCyaN) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [Secrets](https://open.spotify.com/album/1wWsebXRPJa6lVwYbSCns4) | 2:28 |
 
-Snapshot ID: `AAAAALxnql7XQNg+nDxq8jH3n1ZePFMo`
+Snapshot ID: `AAAAAOaKOcFTFEE0cYblIFPYKmsxO8ea`

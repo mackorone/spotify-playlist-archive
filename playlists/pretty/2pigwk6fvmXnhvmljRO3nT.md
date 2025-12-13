@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,081 songs - 20 day 13 hr 5 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,082 songs - 20 day 13 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1107,7 +1107,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 1097 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered 2009\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 |
 | 1098 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
 | 1099 | [Under Pressure](https://open.spotify.com/track/4okLKeB83VLZFGGtrMQxpd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Best of Bowie](https://open.spotify.com/album/1jdQFC3s8PZUc5i7vovZTv) | 3:57 |
-| 1100 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
+| 1100 | ["Heroes" \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
 | 1101 | [Space Oddity \- 2015 Remaster](https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie \(aka Space Oddity\) \[2015 Remaster\]](https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ) | 5:18 |
 | 1102 | [BABY BLUE](https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [空中キャンプ](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI) | 6:09 |
 | 1103 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
@@ -8089,5 +8089,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8079 | [「１」](https://open.spotify.com/track/3kGShum3K7s4I5ASiO3gnI) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 3:24 |
 | 8080 | [ビターチョコデコレーション](https://open.spotify.com/track/4uy2VPS6prqLqRUBtbvs7G) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:17 |
 | 8081 | [再生](https://open.spotify.com/track/271QLLXvcPOzTHC4MQu8c0) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:26 |
+| 8082 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 |
 
-Snapshot ID: `AAAKB41poulbbyhXw/Lo6P0fDR/ZJXAJ`
+Snapshot ID: `AAAKCGXA/7MsbxMArb/UdZcnNvyMF2hU`

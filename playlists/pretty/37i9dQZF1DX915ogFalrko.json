@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 183388,
+  "num_followers": 183409,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANCP/48atXN0lKXupFk3Yltzchyv",
+  "snapshot_id": "AAAAAKrOxfNMmqJ+iwRZDA117oRP9Mgd",
   "tracks": [
     {
       "added_at": "2025-12-04 23:00:08",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "54-46 Was My Number",
-      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "54-46 Was My Number",
+      "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -959,26 +959,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Bebey",
-        "url": "https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K"
-      },
-      "artists": [
-        {
-          "name": "Theophilus London",
-          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 215446,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Bebey",
+        "url": "https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K"
+      },
+      "artists": [
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 215446,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
+        "name": "Hits the Hits",
+        "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
+      },
+      "artists": [
+        {
+          "name": "Shawn Lee's Ping Pong Orchestra",
+          "url": "https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Let Me Blow Your Mind",
+      "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
         "name": "special",
         "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Hits the Hits",
-        "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
+        "name": "Southern Belle",
+        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
       },
       "artists": [
         {
-          "name": "Shawn Lee's Ping Pong Orchestra",
-          "url": "https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR"
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
         }
       ],
-      "duration_ms": 231706,
-      "name": "Let Me Blow Your Mind",
-      "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
+      "duration_ms": 185400,
+      "name": "Southern Belle",
+      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Southern Belle",
-        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Southern Belle",
-      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Paradis bleu",
         "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
       },
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Lake Tear of the Clouds",
         "url": "https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 222490,
       "name": "Man On My Mind",
       "url": "https://open.spotify.com/track/2NRapgmqFRRnflBV7p9ZzT"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1419,22 +1403,38 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
       },
       "artists": [
         {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        },
-        {
-          "name": "D'Alma",
-          "url": "https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us"
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
         }
       ],
-      "duration_ms": 282765,
-      "name": "Sua Alma",
-      "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Gringa",
+        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 187762,
+      "name": "Belle \u00e2me",
+      "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1451,6 +1451,42 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "young rich & beautiful",
+        "url": "https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 118441,
+      "name": "young rich & beautiful",
+      "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        },
+        {
+          "name": "D'Alma",
+          "url": "https://open.spotify.com/artist/7u9Zt6g4twVWySeTjO72Us"
+        }
+      ],
+      "duration_ms": 282765,
+      "name": "Sua Alma",
+      "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1483,26 +1519,6 @@
       "duration_ms": 163301,
       "name": "Cry to Me",
       "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
-        "name": "Gringa",
-        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
-      },
-      "artists": [
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        },
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 187762,
-      "name": "Belle \u00e2me",
-      "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "young rich & beautiful",
-        "url": "https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 118441,
-      "name": "young rich & beautiful",
-      "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Press Pause",
         "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Matahari",
-        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Vacances",
-      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "The Feast",
         "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 302882,
       "name": "The Feast",
       "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Matahari",
+        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Vacances",
+      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
     },
     {
       "added_at": "2025-12-04 23:00:08",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-12-04 23:00:08",
       "album": {
-        "name": "Hopes",
-        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
-      },
-      "artists": [
-        {
-          "name": "Broken Back",
-          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Hopes",
-      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
-    },
-    {
-      "added_at": "2025-12-04 23:00:08",
-      "album": {
         "name": "Bluffin'",
         "url": "https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 139955,
       "name": "Bluffin'",
       "url": "https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z"
+    },
+    {
+      "added_at": "2025-12-04 23:00:08",
+      "album": {
+        "name": "Hopes",
+        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Hopes",
+      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
     },
     {
       "added_at": "2025-12-04 23:00:08",

@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 이츠 \(IT'S\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Silica Gel\(실리카겔\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,293 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,273 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Snow Flower](https://open.spotify.com/track/0OnIo6sEMX6k0ibi8QyjuZ) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Snow Flower](https://open.spotify.com/album/4QlnrSMi4DgTxqYVNsR8gL) | 4:05 |
+| 1 | [BIG VOID](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 |
 | 2 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 |
 | 3 | [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 |
 | 4 | [Velvet Trigger](https://open.spotify.com/track/2i4LJJX4YhL0OtNyarinUg) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [EXchange4, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/7p7PMm5qs3dpQrIhyxFcbr) | 2:51 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 19 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
 | 20 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 21 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 |
-| 22 | [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 |
-| 23 | [Ruin My Life](https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [EXchange4, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T) | 3:05 |
-| 24 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
+| 22 | [Ruin My Life](https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [EXchange4, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T) | 3:05 |
+| 23 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
+| 24 | [Bye, Summer](https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Bye, Summer](https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl) | 3:39 |
 | 25 | [Sorry](https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn) | 3:35 |
 | 26 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
 | 27 | [I'll Never Love Again](https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [I’ll Never Love Again](https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 |
 | 50 | [The last stop of our pain](https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED) | 4:12 |
 
-Snapshot ID: `AAAAAO2tlOMUpC4AwT1mHNUf103HjUJ8`
+Snapshot ID: `AAAAADpR8FUWa94Ps2pqQed3tE1EBUBs`

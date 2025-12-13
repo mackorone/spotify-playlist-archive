@@ -1,6 +1,6 @@
 {
   "description": "My name is pink ",
-  "num_followers": 790025,
+  "num_followers": 790157,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Single Soon",
         "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "Sour Candy (with BLACKPINK)",
-      "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "I LUV IT (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "Sour Candy (with BLACKPINK)",
+      "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Queen Elizabitch",
-        "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I"
       },
       "artists": [
         {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 208463,
-      "name": "Cpr",
-      "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1275,6 +1259,22 @@
       "duration_ms": 222360,
       "name": "Bubble Pop Electric",
       "url": "https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Queen Elizabitch",
+        "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 208463,
+      "name": "Cpr",
+      "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
     },
     {
       "added_at": "2024-08-03 15:31:45",

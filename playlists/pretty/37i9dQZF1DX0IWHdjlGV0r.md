@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,726 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,729 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 28 | [Ti Amo](https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 4:25 |
 | 29 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 |
 | 30 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 |
-| 31 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 |
-| 32 | [PAZZA IDEA \(feat\. Achille Lauro\)](https://open.spotify.com/track/3dykyedkNzBu5VpfAFBCgp) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:50 |
+| 31 | [PAZZA IDEA \(feat\. Achille Lauro\)](https://open.spotify.com/track/3dykyedkNzBu5VpfAFBCgp) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:50 |
+| 32 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 |
 | 33 | [Torna Da Me](https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:00 |
 | 34 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 |
 | 35 | [X Te](https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:22 |
 | 36 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 |
-| 37 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
-| 38 | [Forte](https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Nonostante Tutto](https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ) | 3:27 |
+| 37 | [Forte](https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Nonostante Tutto](https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ) | 3:27 |
+| 38 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
 | 39 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
 | 40 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 |
 | 41 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 |

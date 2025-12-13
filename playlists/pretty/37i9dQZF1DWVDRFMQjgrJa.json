@@ -1,6 +1,6 @@
 {
   "description": "Ya llegu\u00e9 de donde andaba... se me concedi\u00f3 volver \ud83d\ude4f\ud83c\udffe",
-  "num_followers": 270307,
+  "num_followers": 270373,
   "original_name": "Llegando al Rancho",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
+        "name": "Perd\u00f3name Mi Amor",
+        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
         "name": "El Indio Enamorado",
         "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 156866,
       "name": "Hermoso Cari\u00f1o",
       "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
-        "name": "Perd\u00f3name Mi Amor",
-        "url": "https://open.spotify.com/album/0jfIHJWOzvDLrYGcIyc2TA"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/3pd1YpH2Zx9iRCaOSxKdVT"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 155144,
-      "name": "En La Barra",
-      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -399,26 +383,6 @@
       "duration_ms": 200480,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
-        "name": "Grandes Duetos",
-        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 178932,
-      "name": "Bandido De Amores",
-      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -439,6 +403,22 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "En La Barra",
+      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 159466,
       "name": "Compr\u00e9 Una Cantina",
       "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Ayer La Vi Por La Calle",
-      "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Camino Equivocado",
-        "url": "https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2"
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 192173,
-      "name": "Avi\u00e9ntame",
-      "url": "https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA"
+      "duration_ms": 188800,
+      "name": "Ayer La Vi Por La Calle",
+      "url": "https://open.spotify.com/track/3QEtFSlIylEVy7pePLHNiE"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -939,6 +923,22 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Arriba la Compa\u00f1ia",
+        "url": "https://open.spotify.com/album/3d70plHlmkOQV6gLG6e9nC"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 179470,
+      "name": "Pa' Mi Nom\u00e1s",
+      "url": "https://open.spotify.com/track/0gU7cC1HVCtQQ4o1m2WR57"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Arriba la Compa\u00f1ia",
-        "url": "https://open.spotify.com/album/3d70plHlmkOQV6gLG6e9nC"
+        "name": "Camino Equivocado",
+        "url": "https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2"
       },
       "artists": [
         {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 179470,
-      "name": "Pa' Mi Nom\u00e1s",
-      "url": "https://open.spotify.com/track/0gU7cC1HVCtQQ4o1m2WR57"
+      "duration_ms": 192173,
+      "name": "Avi\u00e9ntame",
+      "url": "https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 182299,
+      "name": "Delante De Mi",
+      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
         "name": "Pistiando y Cantando",
         "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 184750,
       "name": "Por Que Te Vas De Mi",
       "url": "https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 182299,
-      "name": "Delante De Mi",
-      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+        "name": "Las N\u00famero 1...",
+        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 205813,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
+      "duration_ms": 225040,
+      "name": "Necesito Decirte",
+      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Las N\u00famero 1...",
-        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Necesito Decirte",
-      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2oK1yzbA7bV7jtiI8nIBSQ"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 204871,
-      "name": "En la Sierra y la Ciudad (La China)",
-      "url": "https://open.spotify.com/track/5vwLs6EjCrhZ0D2Icckknn"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "\"V1V0\"",
         "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 206730,
       "name": "As\u00ed Se Usa En Los Ranchos",
       "url": "https://open.spotify.com/track/0LP83DVouCnJ9w1j2TZN8a"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2oK1yzbA7bV7jtiI8nIBSQ"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 204871,
+      "name": "En la Sierra y la Ciudad (La China)",
+      "url": "https://open.spotify.com/track/5vwLs6EjCrhZ0D2Icckknn"
     },
     {
       "added_at": "2025-08-13 19:30:31",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2025-08-13 19:30:31",
       "album": {
-        "name": "Canciones Tristes Canciones",
-        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
-      },
-      "artists": [
-        {
-          "name": "Banda Roja de Jose Leon",
-          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "El Diablo En Una Botella",
-      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
-    },
-    {
-      "added_at": "2025-08-13 19:30:31",
-      "album": {
         "name": "15 Super Exitos",
         "url": "https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 236538,
       "name": "Mil Noches",
       "url": "https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ"
+    },
+    {
+      "added_at": "2025-08-13 19:30:31",
+      "album": {
+        "name": "Canciones Tristes Canciones",
+        "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
+      },
+      "artists": [
+        {
+          "name": "Banda Roja de Jose Leon",
+          "url": "https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "El Diablo En Una Botella",
+      "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
     },
     {
       "added_at": "2025-08-13 19:30:31",

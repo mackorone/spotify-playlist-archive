@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 241,
+  "num_followers": 243,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGOy1mAyj19+ZDf8hb/NSd1nmSTgHl",
+  "snapshot_id": "AAAGPiR5yH8Y1KeoR7B9l1xzwaYu4rwm",
   "tracks": [
     {
       "added_at": "2025-12-11 09:36:12",
@@ -61403,6 +61403,54 @@
       "duration_ms": 231353,
       "name": "Poveri Noi",
       "url": "https://open.spotify.com/track/5adhTQAbIkuN2bHcvYqDLb"
+    },
+    {
+      "added_at": "2025-12-12 06:17:46",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/79lQhXbWbjmao6F1MnCZ5X"
+      },
+      "artists": [
+        {
+          "name": "Vintage Paradise",
+          "url": "https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9"
+        }
+      ],
+      "duration_ms": 242580,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/08w0tzlysH3JZuzA46SLMe"
+    },
+    {
+      "added_at": "2025-12-12 08:57:31",
+      "album": {
+        "name": "Hidden Love",
+        "url": "https://open.spotify.com/album/3FbgJD5QIG3YaDSk6fsJ1n"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Quantico",
+          "url": "https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB"
+        }
+      ],
+      "duration_ms": 203239,
+      "name": "Hidden Love",
+      "url": "https://open.spotify.com/track/1lJaX742mJqBWcHimk70UY"
+    },
+    {
+      "added_at": "2025-12-12 16:28:37",
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/4tXUxUM2PDXb2Dt2SYoET3"
+      },
+      "artists": [
+        {
+          "name": "C_J",
+          "url": "https://open.spotify.com/artist/2YVPBrRzDMRfRimq2jCUxD"
+        }
+      ],
+      "duration_ms": 262609,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/4uUybQP3xXImQqJ4gxJOmY"
     }
   ],
   "unique_name": "playlist spotify free",

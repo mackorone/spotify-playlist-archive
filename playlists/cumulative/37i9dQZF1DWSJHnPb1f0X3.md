@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-793 songs - 1 day 15 hr 21 min
+794 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [24/7 \(feat\. JC Stewart\)](https://open.spotify.com/track/6J1mnTM2yGV7FsShNcCXB0) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [24/7 \(feat\. JC Stewart\)](https://open.spotify.com/album/30zhkm14VV1Llw59uYFt3G) | 2:55 | 2022-01-14 | 2022-07-23 |
 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-08-26 | 2022-10-15 |
 | [365 \- Jonas Aden Remix](https://open.spotify.com/track/70gUpEnhuX4OxklDsYewHY) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Jonas Aden](https://open.spotify.com/artist/1qq5e02CcWNFqZMbmdrIcj) | [365 \(Remixes\)](https://open.spotify.com/album/7gTwELYieNEJjBhmPvOm71) | 2:45 | 2022-03-25 | 2022-04-13 |
+| [4 Minutes](https://open.spotify.com/track/3GPNxZDz7VnzGwuJCxQAKY) | [Danell Arma](https://open.spotify.com/artist/3xksDFio6oCdauPR6UE4Aj) | [4 Minutes](https://open.spotify.com/album/5WXtVoRYAe0i28dQV1KEKy) | 2:44 | 2025-10-24 |  |
 | [42](https://open.spotify.com/track/0iZQWpC1y8TOgTXnlSLUai) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Say It Like You Feel It](https://open.spotify.com/album/0Y24lHaBzmJFT613svjsex) | 2:48 | 2021-12-24 | 2022-04-13 |
 | [4U](https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [4U](https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684) | 2:29 | 2022-05-27 | 2022-07-09 |
 | [8 Letters \- R3HAB Remix](https://open.spotify.com/track/6dX62wjTHi9F1srVTjV89X) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [8 Letters \(R3HAB Remix\)](https://open.spotify.com/album/1Wb0Ne9QaY136uNR6x0ObE) | 2:12 | 2022-03-25 | 2022-04-21 |
@@ -518,7 +519,7 @@
 | [On My Mind](https://open.spotify.com/track/0jvORRuoIg2HRJXLa794hW) | [Jack Trades](https://open.spotify.com/artist/1tvnV6kDJfjfVqpuFKSA2s), [Heather Janssen](https://open.spotify.com/artist/0MlsoNIUS9y5LyqqSrvHTb) | [On My Mind](https://open.spotify.com/album/1hqSMFY9sGJCw5SjfdE0zj) | 2:58 | 2022-03-25 | 2022-04-17 |
 | [On My Way](https://open.spotify.com/track/6XEsyYactnjQEDarbVmnvR) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [On My Way](https://open.spotify.com/album/5sXChSJlFm7pPo6XGVzhjc) | 2:06 | 2022-03-25 | 2022-04-18 |
 | [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2022-07-08 | 2023-11-28 |
-| [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-08-05 |  |
+| [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-08-05 | 2025-12-13 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-07-28 |  |
 | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/track/7KoUk2BFyV8HkocdHMUNTw) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [One Last Time \(with R3HAB\) \(feat\. Enny\-Mae\)](https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX) | 2:35 | 2022-09-28 | 2023-08-10 |
 | [One More Time \(feat\. Alida\)](https://open.spotify.com/track/2REu6wX4KKrG6uGlTKVqu6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [IIII](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c) | 3:19 | 2021-12-17 | 2022-07-23 |

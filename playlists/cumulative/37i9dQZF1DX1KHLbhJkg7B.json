@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/5Pz1XUoROtDn7FDFTDHJLv"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231739,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/4bStocfukU8QNoJaoeAVYL"
+    },
+    {
+      "album": {
         "name": "You Light Up My Life",
         "url": "https://open.spotify.com/album/5FXJHigDDA8I1xT47xpsWk"
       },
@@ -1114,6 +1132,24 @@
       "duration_ms": 213938,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq"
+    },
+    {
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204078,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y"
     },
     {
       "album": {
@@ -4338,7 +4374,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 169317,
       "name": "Lord, I Hope This Day Is Good",
       "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
@@ -6104,7 +6140,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 320933,
       "name": "Someone Like You - Piano Vocal",
       "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"

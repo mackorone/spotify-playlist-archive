@@ -1,47 +1,31 @@
 {
-  "description": "Where R&B lives. Cover: Tems",
-  "num_followers": 6114078,
+  "description": "Where R&B lives. Cover: Sasha Keable",
+  "num_followers": 6113854,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABap2LdJLo7vaUpltbkgpG00e6Wq",
+  "snapshot_id": "AAAAABrbyUyLpsvKMB9L9l/oomJKPwtx",
   "tracks": [
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
-      "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "It Depends (feat. Bryson Tiller)",
         "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
@@ -61,7 +45,95 @@
       "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Lullaby (mega remix)",
+        "url": "https://open.spotify.com/album/4gHIGeVKDxDHB3c5T3dC5M"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "Paradise",
+          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 233114,
+      "name": "Lullaby - mega remix",
+      "url": "https://open.spotify.com/track/3UKsi5Qkp4L8quumXsKnie"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Finally Over It (The Afterparty)",
+        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 146015,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6LP8B6nA0k4QaQTkHkBG4K"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Tell Her",
+        "url": "https://open.spotify.com/album/1Sr1nrKVq8nYCrxvjPiHcA"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 199043,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/5OPjAIP9JeWQ7z15FCxAcv"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "HEARTS SOLD SEPARATELY",
         "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
@@ -81,39 +153,23 @@
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Finally Over It (The Afterparty)",
-        "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
         }
       ],
-      "duration_ms": 146015,
-      "name": "No",
-      "url": "https://open.spotify.com/track/6LP8B6nA0k4QaQTkHkBG4K"
+      "duration_ms": 273010,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
-      "album": {
-        "name": "Tell Her",
-        "url": "https://open.spotify.com/album/1Sr1nrKVq8nYCrxvjPiHcA"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 199043,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/5OPjAIP9JeWQ7z15FCxAcv"
-    },
-    {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "PHOLKS",
         "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
@@ -129,7 +185,7 @@
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Solace & The Vices",
         "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
@@ -145,7 +201,7 @@
       "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
@@ -165,43 +221,23 @@
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 166333,
-      "name": "Big Daddy",
-      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
+      "duration_ms": 223275,
+      "name": "Recently Deleted",
+      "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
-      "album": {
-        "name": "Me My Songs & I",
-        "url": "https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu"
-      },
-      "artists": [
-        {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
-        },
-        {
-          "name": "Paradise",
-          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
-        }
-      ],
-      "duration_ms": 217694,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP"
-    },
-    {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
@@ -217,7 +253,23 @@
       "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Out The Window",
         "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
@@ -233,7 +285,7 @@
       "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Escape Room",
         "url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
@@ -253,7 +305,7 @@
       "url": "https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/2mgODRfkCa899nXbN1lgOy"
@@ -269,7 +321,7 @@
       "url": "https://open.spotify.com/track/5hkI0Ms7FNmlD0GjjW2jRv"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
@@ -285,7 +337,7 @@
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Finally Over It (The Afterparty)",
         "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
@@ -309,7 +361,7 @@
       "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "have to.",
         "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
@@ -325,23 +377,7 @@
       "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
-      "album": {
-        "name": "Soft Spot",
-        "url": "https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof"
-      },
-      "artists": [
-        {
-          "name": "JMSN",
-          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
-        }
-      ],
-      "duration_ms": 273010,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
-    },
-    {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Unhinged",
         "url": "https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA"
@@ -357,23 +393,7 @@
       "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "A Couple Minutes",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
-    },
-    {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
@@ -389,7 +409,7 @@
       "url": "https://open.spotify.com/track/22AbBg7GdbP7sjxQ0SLQZi"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Hot Body",
         "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "30.",
         "url": "https://open.spotify.com/album/3XAOKZb6n3bx6j9OvDSPvc"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/1aXJeavB4ztnMd6eGvhl0y"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "love?... or something like it",
         "url": "https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Finally Over It (The Afterparty)",
         "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/4bJFFCOJufqEnQmnW3BvM7"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "JUST A DREAM",
         "url": "https://open.spotify.com/album/6HxNmblyLP8Z7QW8Ic2VCr"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/1NPHrkT18ZXgM4Mq0wGjDH"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Vacancy",
         "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/41QBVReXFSAIXWnyChAJCH"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Pretty Idea",
         "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "SMOKIN POTNA",
         "url": "https://open.spotify.com/album/5qpj22OHmpSXlT6eG9OfYP"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "HYDRAULIC",
         "url": "https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/5U5UR88UmzOHBckl4wYAyT"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "\u00f7",
         "url": "https://open.spotify.com/album/5uzdwpJ4xcHXav2G8CSa8y"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/5DT2VjPGQ54TdhkL1LdNzl"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Still Shinin",
         "url": "https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "HEARTS SOLD SEPARATELY",
         "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/3mkRf3aCGR47rOxtJJiv9u"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Finally Over It (The Afterparty)",
         "url": "https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/53bF5XYGpBau91CkBZzcWQ"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "move it along (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Solace & The Vices",
         "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
@@ -777,7 +797,7 @@
       "url": "https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Here For It All",
         "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "CONCUBANIA",
         "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "To Dry a Tear",
         "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Why Not More? (MORE!)",
         "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
@@ -849,23 +869,7 @@
       "url": "https://open.spotify.com/track/6zndkRnkrpNLXj4Hk64YN6"
     },
     {
-      "added_at": "2025-12-05 05:00:10",
-      "album": {
-        "name": "e\u2022pit\u2022o\u2022me",
-        "url": "https://open.spotify.com/album/04767Bip35J4QmOy6TrFDI"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 193704,
-      "name": "Thinkin About You",
-      "url": "https://open.spotify.com/track/0F8PC2hasKm37MG3U1bhlu"
-    },
-    {
-      "added_at": "2025-12-05 05:00:10",
+      "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "BROWN SUGAH",
         "url": "https://open.spotify.com/album/70P8F7UhiBVpfI4vgzCdq2"

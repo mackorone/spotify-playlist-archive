@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22326,
+  "num_followers": 22323,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABA3FqvB3zpbfFito0yAEvH",
+  "snapshot_id": "aToJgAAAAAB9HYrQZU+MO0Px96cXsPXH",
   "tracks": [
     {
       "added_at": null,
@@ -407,38 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Novo Ciclo",
-        "url": "https://open.spotify.com/album/0WrfiSS6rdY7taX62Uv66e"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Cabelera",
-          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        }
-      ],
-      "duration_ms": 230107,
-      "name": "Novo Ciclo",
-      "url": "https://open.spotify.com/track/59ZPagDizQRjxBsDmCL0Pi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singular",
         "url": "https://open.spotify.com/album/3ffB44QD77vSxTGv95cTFG"
       },
@@ -471,6 +439,38 @@
       "duration_ms": 267000,
       "name": "Singular",
       "url": "https://open.spotify.com/track/0yTMkAKfAHDSEh4CQhKU26"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novo Ciclo",
+        "url": "https://open.spotify.com/album/0WrfiSS6rdY7taX62Uv66e"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cabelera",
+          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 230107,
+      "name": "Novo Ciclo",
+      "url": "https://open.spotify.com/track/59ZPagDizQRjxBsDmCL0Pi"
     },
     {
       "added_at": null,
@@ -600,10 +600,6 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
           "name": "Pineapple StormTv",
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
@@ -612,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 173291,
-      "name": "Louco Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
+      "duration_ms": 235987,
+      "name": "Medley Poesia Ac\u00fastica 9, 11",
+      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
     },
     {
       "added_at": null,
@@ -756,6 +752,10 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
           "name": "Pineapple StormTv",
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Medley Poesia Ac\u00fastica 9, 11",
-      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
+      "duration_ms": 173291,
+      "name": "Louco Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
     },
     {
       "added_at": null,
@@ -1003,34 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Rodrip",
-          "url": "https://open.spotify.com/artist/5Kc4Xr401mA18jC4Wenc3x"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 212926,
-      "name": "Seu",
-      "url": "https://open.spotify.com/track/5Tl7d7HlhRX0XsxdekoREO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj"
       },
@@ -1059,6 +1031,34 @@
       "duration_ms": 238141,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Rodrip",
+          "url": "https://open.spotify.com/artist/5Kc4Xr401mA18jC4Wenc3x"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 212926,
+      "name": "Seu",
+      "url": "https://open.spotify.com/track/5Tl7d7HlhRX0XsxdekoREO"
     },
     {
       "added_at": null,
@@ -1103,30 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
-      },
-      "artists": [
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 213999,
       "name": "Melhor N\u00e3o",
       "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": null,

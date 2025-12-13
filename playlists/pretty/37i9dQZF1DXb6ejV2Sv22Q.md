@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Foudeqush en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,372 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,384 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 99 | [quieremeunpoco](https://open.spotify.com/track/1YgpjTzmDGZ48Y9M0XWA2A) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [quieremeunpoco](https://open.spotify.com/album/0KXNhmetSbp8J7Kzd14Kzm) | 2:44 |
 | 100 | [Nadie Me Corta el Pelo Como Tú](https://open.spotify.com/track/0QKl2byffi9u6tDHuKe5OT) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Nadie Me Corta el Pelo Como Tú](https://open.spotify.com/album/0bfXdh6mwJ7AyS8RN8AfdD) | 4:21 |
 
-Snapshot ID: `AAAAAPSOMn+yJTivAh+VgQDbF9lu0Epm`
+Snapshot ID: `AAAAALiJ6Ulzt6Jso+Xepps7HZYzJJmQ`

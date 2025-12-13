@@ -1,6 +1,6 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 524048,
+  "num_followers": 524166,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "It's Pony Time/Let's Twist Again",
         "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 137360,
       "name": "Let's Twist Again",
       "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Gorilla (2019 Remaster)",
-        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
-      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Higher And Higher",
         "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 273866,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Gorilla (2019 Remaster)",
+        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Mary Wells Sings My Guy",
-        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
+        "name": "Ladies' Night",
+        "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 174440,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
+      "duration_ms": 385506,
+      "name": "Ladies Night",
+      "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Ladies' Night",
-        "url": "https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK"
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 385506,
-      "name": "Ladies Night",
-      "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Good Vibrations 40th Anniversary",
-        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Diamond Diana: The Legacy Collection",
         "url": "https://open.spotify.com/album/2iPkYpFitI1RXmnnza1PeN"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 215200,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/1KbuhBnzMHp4eq1q6flhWd"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Good Vibrations 40th Anniversary",
+        "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Best Of The Clovers (Love Potion No. 9)",
-        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
-      },
-      "artists": [
-        {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
-        }
-      ],
-      "duration_ms": 113200,
-      "name": "Love Potion No. 9 - Remastered / Single Version",
-      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "A Taste Of Honey",
         "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 225666,
       "name": "Hot Stuff - Single Version",
       "url": "https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "The Best Of The Clovers (Love Potion No. 9)",
+        "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
+      },
+      "artists": [
+        {
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+        }
+      ],
+      "duration_ms": 113200,
+      "name": "Love Potion No. 9 - Remastered / Single Version",
+      "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
-      },
-      "artists": [
-        {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
-        }
-      ],
-      "duration_ms": 140120,
-      "name": "Da Doo Ron Ron (When He Walked Me Home)",
-      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "He's So Fine",
         "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 169240,
       "name": "Reet Petite",
       "url": "https://open.spotify.com/track/3h4udS0WeWbsur3yfjvnm4"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Da Doo Ron Ron (When He Walked Me Home)",
+      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
     },
     {
       "added_at": "2024-07-12 21:11:00",

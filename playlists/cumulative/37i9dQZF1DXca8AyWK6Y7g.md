@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> Ruby Roberts is our somersault queen 👑
+> Annika Wells loves a good ladder.
 
-2,619 songs - 5 day 11 hr 35 min
+2,624 songs - 5 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Cool Again](https://open.spotify.com/track/7tDqtZnEQcgAE92mEMtgnF) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cool Again](https://open.spotify.com/album/0gWTwy5h4m4G851BIQKg37) | 3:11 | 2019-05-26\* | 2020-04-18 |
 | [cool enough](https://open.spotify.com/track/4nuufyyd7Dn6DMuG96RYTQ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cool enough](https://open.spotify.com/album/4LzdBLavKnpsJvMnu4reIe) | 3:15 | 2021-08-27 | 2022-05-14 |
 | [COOL GIRL](https://open.spotify.com/track/4nGwHW4GNyU3hNR76CkuN3) | [EMMY](https://open.spotify.com/artist/4WlpNQOzYe0itGsK5w1u8M) | [COOL GIRL](https://open.spotify.com/album/1ynGJfuaPy0yrr58YeF1y4) | 3:00 | 2023-01-27 | 2023-02-26 |
+| [Cool Girl](https://open.spotify.com/track/2wL3b04nyaSy69UoV9jyhH) | [THEM](https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin) | [Cool Girl](https://open.spotify.com/album/73zS4sBXsDeLo0Bywq0LNP) | 3:11 | 2025-12-12 |  |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-11 | 2022-05-05 |
 | [Cooler](https://open.spotify.com/track/4d7kYijaI5SMlcQzxDLfWL) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [Life On Earth EP](https://open.spotify.com/album/5OymEfxiHwsCbuWE1UQiqP) | 3:25 | 2019-05-26\* | 2019-08-13 |
 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 | 2025-02-07 | 2025-05-17 |
@@ -983,6 +984,7 @@
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-10-11 | 2025-05-03 |
 | [head first](https://open.spotify.com/track/2ejzLLkEgM6Tiw6zZnUOll) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [bright side of the moon](https://open.spotify.com/album/2oD4BvnapvypZEBsrNRqY3) | 2:34 | 2019-09-11 | 2021-04-16 |
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-01-21 | 2023-01-28 |
+| [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 | 2025-12-12 |  |
 | [HEAD OVER HEELS](https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LOOK AT THIS MESS IVE MADE EP](https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk) | 2:36 | 2021-02-26 | 2022-01-08 |
 | [HEADCASE](https://open.spotify.com/track/2QMnichNFAhM0f4gi01Az1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HEADCASE](https://open.spotify.com/album/5t4tKq5VpoVRF9KKZU3TwA) | 2:54 | 2021-08-28 | 2021-10-14 |
 | [Headphones](https://open.spotify.com/track/4KrwobI2xa03a24kPDQIvh) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Headphones](https://open.spotify.com/album/70qfnrWg4gpw3Wkm6mdIKj) | 2:47 | 2022-02-18 | 2022-08-22 |
@@ -1214,6 +1216,7 @@
 | [Into Your Room](https://open.spotify.com/track/3necmcKMz1nk4r5pPbMufR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Into Your Room](https://open.spotify.com/album/2GKtVgtk2BUhgJ60eYCxws) | 3:29 | 2023-09-22 | 2024-05-18 |
 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 | 2022-09-16 | 2022-10-29 |
 | [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 | 2024-05-17 | 2024-08-13 |
+| [Isabelle](https://open.spotify.com/track/5o87pxo0Zozf7P1O1yNfbd) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [Isabelle](https://open.spotify.com/album/5ygL8MzMTxNwuPtvMI4znh) | 3:23 | 2025-12-12 |  |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-02-18 | 2022-03-26 |
 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 | 2023-12-01 | 2024-01-05 |
 | [ISSUE](https://open.spotify.com/track/14XAip5CLUhA0xtAwXwXGN) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [friends, vol\. 2](https://open.spotify.com/album/4fAtA6cyPkXVjoiP4XmfI0) | 2:35 | 2025-05-27 | 2025-07-05 |
@@ -2255,6 +2258,7 @@
 | [Take Touch](https://open.spotify.com/track/6fitXlm7VdwjZk3mIAeFFS) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [Take Touch](https://open.spotify.com/album/3iOknyG3TeVz5ecH72DABg) | 3:47 | 2025-07-18 | 2025-11-22 |
 | [take your time \(feat\. Tinashe\)](https://open.spotify.com/track/2AvoxIbaR1vmZe6sCmigaF) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 3:11 | 2021-03-07 | 2021-10-13 |
 | [Talk \- Disclosure VIP](https://open.spotify.com/track/3uXHSf9sSIpOJWuC1H8DiU) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Talk \(Disclosure VIP\)](https://open.spotify.com/album/3zKB8eOzx6nPOnKUf0A4CS) | 4:33 | 2019-05-26\* | 2021-03-19 |
+| [Talk About It](https://open.spotify.com/track/1wrVX3ztn5FejxBlOUDclK) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Talk About It](https://open.spotify.com/album/3invOOhMmOVJF5lyAbJiUa) | 3:21 | 2025-12-12 |  |
 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 | 2025-02-28 | 2025-07-12 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 | 2022-09-17 |
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-08-19 |
@@ -2304,6 +2308,7 @@
 | [the fractal song](https://open.spotify.com/track/7LTJ2alkzEumlU6bPEMm9e) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [the fractal song](https://open.spotify.com/album/3oNbVcy0gsNGvnnJRPL5z6) | 2:40 | 2022-01-28 | 2022-03-12 |
 | [the girl \(that you can't get over\)](https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- E.P.](https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL) | 2:47 | 2023-11-24 | 2024-04-23 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 | 2025-06-21 |
+| [the good](https://open.spotify.com/track/2CKifvBj0v3ww5uSKz93dD) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [the good](https://open.spotify.com/album/6bWzVQaxhZAzcAh3Vgwetk) | 3:26 | 2025-12-12 |  |
 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 | 2024-12-06 | 2025-05-24 |
 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-05-23 | 2025-07-12 |
 | [The Internet](https://open.spotify.com/track/3SONA2HtyUilUPckrSOiln) | [Hearts <3](https://open.spotify.com/artist/32gTQwEODaNCVu6SdNko3z) | [Devyn’s Song / The Internet](https://open.spotify.com/album/0P9MeBy3gauKZIruLK7ryv) | 3:02 | 2021-02-27 | 2021-10-16 |

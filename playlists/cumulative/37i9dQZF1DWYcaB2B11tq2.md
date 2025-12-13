@@ -2,7 +2,7 @@
 
 ### [Clásicos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWYcaB2B11tq2)
 
-> Alaba al Seńor con estas canciones clásicas! Foto: Christine D'Clario
+> Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
 267 songs - 21 hr 45 min
 

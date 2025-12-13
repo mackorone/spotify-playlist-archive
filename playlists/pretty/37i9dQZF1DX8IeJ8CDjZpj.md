@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > Siempre juntos siempre 🖤🤍 ¡Nos vemos del 24 al 30 de Noviembre en la Casa CD9!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,030 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,024 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 29 | [Rompecabezas](https://open.spotify.com/track/32vRIm6I0YPtSA0QDptyDt) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [3/4](https://open.spotify.com/album/2Sl85MmGa1Kzv9Z4jlWLSP) | 3:39 |
 | 30 | [Nuestro Secreto \(Elevation\)](https://open.spotify.com/track/4Nj8WdDV9V1Z19vSfv2YG1) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [CD9](https://open.spotify.com/album/23ZoFAeexQP2AQ2wGEBKO5) | 3:24 |
 
-Snapshot ID: `AAAAAPCjpLfD7inWT/UwPKi6ZsPdCeTw`
+Snapshot ID: `AAAAALlRxAobYtkKBUw6dRvUsUCh11Bf`

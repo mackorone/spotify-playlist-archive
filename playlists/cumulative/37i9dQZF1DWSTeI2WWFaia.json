@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 137141,
       "name": "Coco Gauff",
       "url": "https://open.spotify.com/track/73NBBLGtwyehCgML05lCbb"
@@ -6400,7 +6400,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 137793,
       "name": "Frankenstein (feat. Marco Plus)",
       "url": "https://open.spotify.com/track/718stfz6CaFJTKTdZ2Zj4h"
@@ -8358,7 +8358,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 221538,
       "name": "Idols & Rivals_BLUE",
       "url": "https://open.spotify.com/track/0exUriNPARHkRY9s3xlpl5"
@@ -9798,7 +9798,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 251050,
       "name": "Letters (feat. Rachel Robinson)",
       "url": "https://open.spotify.com/track/0xg25m2SiZJkAXEXAcURNb"
@@ -11343,6 +11343,32 @@
     },
     {
       "album": {
+        "name": "Light-Years",
+        "url": "https://open.spotify.com/album/3uDMOY194FBxufCH0dYN3B"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "My Story Your Story",
+      "url": "https://open.spotify.com/track/4f9iEXTJnyHVwScTmbF2J7"
+    },
+    {
+      "album": {
         "name": "Myself (feat. DEVN)",
         "url": "https://open.spotify.com/album/79Xrj6MlB0gQoXphSn8NFs"
       },
@@ -11988,7 +12014,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 158297,
       "name": "nun+",
       "url": "https://open.spotify.com/track/73QSneWdcj1fncvD8UlBi5"
@@ -12656,6 +12682,28 @@
       "duration_ms": 240000,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV"
+    },
+    {
+      "album": {
+        "name": "You Can't Kill God With Bullets",
+        "url": "https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "KNDRX",
+          "url": "https://open.spotify.com/artist/3w3sVV7gANjfBWFb4cMSXT"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229654,
+      "name": "Parisian Nights",
+      "url": "https://open.spotify.com/track/3NI8cI2ZPZA9ruFj6O2LXS"
     },
     {
       "album": {
@@ -13692,6 +13740,24 @@
       "duration_ms": 226095,
       "name": "Raised Different",
       "url": "https://open.spotify.com/track/1fwYvYMEdz5lOBXxjbez4T"
+    },
+    {
+      "album": {
+        "name": "Ramen Noodles",
+        "url": "https://open.spotify.com/album/75v06t1AN6fBo74d7CPgB5"
+      },
+      "artists": [
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "Ramen Noodles",
+      "url": "https://open.spotify.com/track/7zImkv4vKnACicU20HVkJP"
     },
     {
       "album": {
@@ -18260,7 +18326,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 211366,
       "name": "Typewriter (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/1p5i2fVazI6bUVmwWTJfaj"
@@ -18840,6 +18906,24 @@
       "duration_ms": 180046,
       "name": "What This All Really Means",
       "url": "https://open.spotify.com/track/6IkrEMj1yTPyZr5bk8PmGF"
+    },
+    {
+      "album": {
+        "name": "what will they say",
+        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157591,
+      "name": "what will they say",
+      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
     },
     {
       "album": {

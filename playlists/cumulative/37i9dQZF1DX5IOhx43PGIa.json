@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere. Cover: spilltab & boylife",
+  "description": "Illuminating Asian artists everywhere. Cover: Emei",
   "name": "Jasmine",
   "tracks": [
     {
@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 224090,
       "name": "All My Love - Spotify Singles",
       "url": "https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ"
@@ -5294,7 +5294,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 159000,
       "name": "Do It",
       "url": "https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN"
@@ -5741,6 +5741,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Worry",
+        "url": "https://open.spotify.com/album/7nANoO4JFA0TGiEtMzFdsH"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        },
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Don\u2019t Worry",
+      "url": "https://open.spotify.com/track/3SdpIiX0RAj9FSqpfV7mAB"
+    },
+    {
+      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
       },
@@ -5824,7 +5846,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 132246,
       "name": "DOWN BAD",
       "url": "https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6"
@@ -8082,6 +8104,24 @@
       "duration_ms": 172268,
       "name": "Gimme More - Spotify Singles",
       "url": "https://open.spotify.com/track/7MIF3IrdCuE01l0jLxVOYG"
+    },
+    {
+      "album": {
+        "name": "Ginger Tea",
+        "url": "https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157226,
+      "name": "Ginger Tea",
+      "url": "https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L"
     },
     {
       "album": {
@@ -12006,6 +12046,24 @@
       "duration_ms": 177350,
       "name": "last night's mascara",
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "album": {
+        "name": "icecream",
+        "url": "https://open.spotify.com/album/5Po4vHcEvcKP17j23ReHAa"
+      },
+      "artists": [
+        {
+          "name": "veronicavon",
+          "url": "https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5DHncTNEtkj14A5JZ9f0oz"
     },
     {
       "album": {
@@ -19008,7 +19066,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 172235,
       "name": "Something About You (feat. FIG)",
       "url": "https://open.spotify.com/track/0sr5bb8p1PkyD2PbER33yp"
@@ -23144,6 +23202,24 @@
       "duration_ms": 193557,
       "name": "What The Hell Do We Do Now?",
       "url": "https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR"
+    },
+    {
+      "album": {
+        "name": "What We Became",
+        "url": "https://open.spotify.com/album/06FmrzLtvZgZ5wC2xdZ5NL"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170167,
+      "name": "What We Became",
+      "url": "https://open.spotify.com/track/1M05dwem66d2pvTgEt4nhV"
     },
     {
       "album": {

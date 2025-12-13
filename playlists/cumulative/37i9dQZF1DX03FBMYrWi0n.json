@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Minou",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Alice Bro",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 129000,
       "name": "5a7",
       "url": "https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP"
+    },
+    {
+      "album": {
+        "name": "Aalto B Side",
+        "url": "https://open.spotify.com/album/4c98gIHATZ6QDHWjcReeMD"
+      },
+      "artists": [
+        {
+          "name": "Mont Duamel",
+          "url": "https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100833,
+      "name": "Aalto B Side",
+      "url": "https://open.spotify.com/track/5Bwt7WzKBg2LiY3W5ltGut"
     },
     {
       "album": {
@@ -669,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Blonde \u00e0 personne",
+        "url": "https://open.spotify.com/album/2AfLb4XJFWhiFs3ODg1SbI"
+      },
+      "artists": [
+        {
+          "name": "Alice Bro",
+          "url": "https://open.spotify.com/artist/2EgU3uf1M88Fz6Iz7HHk4o"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Blonde \u00e0 personne",
+      "url": "https://open.spotify.com/track/3kvaIljDaI3rGbUkHfRd6r"
+    },
+    {
+      "album": {
         "name": "blood pareil",
         "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
       },
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 229687,
       "name": "CLAPS (SOURIEZ)",
       "url": "https://open.spotify.com/track/3TaxIiNsCMrkTAYPhTMpdE"
@@ -1138,7 +1174,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 168395,
       "name": "Comin' in Hot",
       "url": "https://open.spotify.com/track/5Z6Dn2ZJe4w6HTYHTDZAiI"
@@ -2140,7 +2176,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 247468,
       "name": "GODDAMN!",
       "url": "https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11"
@@ -2234,6 +2270,24 @@
       "duration_ms": 196120,
       "name": "Hey Sophia",
       "url": "https://open.spotify.com/track/46PQokbJBAJB7Nz2sAPNw6"
+    },
+    {
+      "album": {
+        "name": "holdsomeone",
+        "url": "https://open.spotify.com/album/7d0bPd9brl7VhMRKydXpvb"
+      },
+      "artists": [
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145839,
+      "name": "holdsomeone",
+      "url": "https://open.spotify.com/track/5SweYMC9M3L6LdV9N3IKEd"
     },
     {
       "album": {
@@ -3309,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "GO BIG OR GO HOME",
+        "url": "https://open.spotify.com/album/1QdUJ9LPNwQXCIgeCs7HKf"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153318,
+      "name": "LIKE ME LIKE THAT",
+      "url": "https://open.spotify.com/track/04uBUXTAYNMUVr61CEakiq"
+    },
+    {
+      "album": {
         "name": "Liszt-o-mania",
         "url": "https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x"
       },
@@ -3540,7 +3612,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 230396,
       "name": "Malcommode",
       "url": "https://open.spotify.com/track/1J2b1Qeot2mDXsqrUlayee"
@@ -3760,6 +3832,24 @@
       "duration_ms": 207922,
       "name": "Mourir Demain",
       "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1TYHsnkpJgmBiQCLROwRxC"
+      },
+      "artists": [
+        {
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/31W4eCwKBnMGLUAPEWKcjA"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/7D2gFRspp55eDmPUfWUvwe"
     },
     {
       "album": {
@@ -4938,7 +5028,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 224864,
       "name": "She's Not Coming",
       "url": "https://open.spotify.com/track/4QGZnFfBP8OGd5a8EphTgd"
@@ -5072,6 +5162,24 @@
       "duration_ms": 286922,
       "name": "Soleil encaban\u00e9",
       "url": "https://open.spotify.com/track/0oWcXec6E4OV10gke838Of"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/3Y8cOdEiGMyhB7zZTybKl0"
+      },
+      "artists": [
+        {
+          "name": "SOMET",
+          "url": "https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/0xxfXQ8lDTxj9pQCOoxfDb"
     },
     {
       "album": {
@@ -5554,7 +5662,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 166933,
       "name": "T\u00eate en l'air",
       "url": "https://open.spotify.com/track/09ujrbdwlQrmAjCncugJZU"

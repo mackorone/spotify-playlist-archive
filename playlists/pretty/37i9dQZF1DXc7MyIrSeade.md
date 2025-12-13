@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2025\. Cover: Delia
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,102 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 | 49 | [Lose My Mind](https://open.spotify.com/track/2yqRofXpLseanc6HhxJD10) | [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Lose My Mind](https://open.spotify.com/album/7qJTvPgy2GXFN20yVHHYnH) | 2:45 |
 | 50 | [Locul tău](https://open.spotify.com/track/1S0ueboEfjDivQFB1uPveo) | [Edward Sanda](https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V), [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG) | [Locul tău](https://open.spotify.com/album/1dTJ2Hd1fjWEioROhCJV0M) | 2:49 |
 
-Snapshot ID: `AAAAAGYsdv9AJcYEjQPacLSlJi6eHjHz`
+Snapshot ID: `AAAAADi0lYO6qrRY8pWVJhmojgt4yT66`

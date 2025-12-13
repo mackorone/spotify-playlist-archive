@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 
 > This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,722 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,730 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 26 | [ARMSTRONG](https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71) | 3:32 |
 | 27 | [OTOME NO BIGAKU](https://open.spotify.com/track/2EFaT09Ufx9xOKxt6nc5Q8) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 4:16 |
 | 28 | [amayo no seppun](https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:11 |
-| 29 | [HANAKO](https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HANAKO](https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV) | 3:41 |
-| 30 | [Miyao \- 10th Anniversary Version](https://open.spotify.com/track/0nrGBAKiFYqvPgEvlyEIDI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Go Wild / Miyao](https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W) | 4:11 |
+| 29 | [Miyao \- 10th Anniversary Version](https://open.spotify.com/track/0nrGBAKiFYqvPgEvlyEIDI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Go Wild / Miyao](https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W) | 4:11 |
+| 30 | [HANAKO](https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HANAKO](https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV) | 3:41 |
 | 31 | [Fantastico](https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:53 |
 | 32 | [okami no uta](https://open.spotify.com/track/58RpaRl4kdj9LAGA93ERcT) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 3:47 |
 | 33 | [KOIBUMI](https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [KOIBUMI](https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D) | 4:00 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 39 | [mayoeba toutoshi](https://open.spotify.com/track/73kbULxbsaqjhjTMonGHIV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:21 |
 | 40 | [The Edge](https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx) | 2:43 |
 | 41 | [Free Your Mind](https://open.spotify.com/track/5RWkakv9Kg0MtYnXdQUHWm) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:57 |
-| 42 | [Neraiuchi \- 50th anniversary special cover](https://open.spotify.com/track/2747l2vCNws9AxvFQzOBrh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN) | 2:17 |
+| 42 | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf) | 2:33 |
 | 43 | [rakuen nite watashi jigoku](https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:38 |
-| 44 | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf) | 2:33 |
+| 44 | [Neraiuchi \- 50th anniversary special cover](https://open.spotify.com/track/2747l2vCNws9AxvFQzOBrh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN) | 2:17 |
 | 45 | [zzz](https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:13 |
 | 46 | [shiken zenya](https://open.spotify.com/track/6JNvwvaHG3T2nuLRSI53Vr) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:18 |
 | 47 | [toumeigirl\(H ZETT M edit ver.\)](https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
 | 48 | [wakaranai](https://open.spotify.com/track/3eusuilhnPfka2GnCPI1w1) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 3:57 |
 
-Snapshot ID: `aTi4AAAAAABxNGBAK4AMDF7Tcwslg2S7`
+Snapshot ID: `aToJgAAAAADuHhWkB912lk5wjH9dcrPD`

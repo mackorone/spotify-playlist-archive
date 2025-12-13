@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: When Chai Met Toast
 
-446 songs - 1 day 3 hr 38 min
+449 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/4z3inK6h6bTRQJW2gozjjj) | 5:49 | 2023-10-06 | 2024-04-19 |
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 | 2022-06-23 | 2025-02-07 |
 | [MANGALAM](https://open.spotify.com/track/3vncUpj0365hkip0iGZRJl) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [MANGALAM](https://open.spotify.com/album/5EUCfEjwcEvqjsHjPWlJ3q) | 3:20 | 2025-01-10 | 2025-06-17 |
+| [Manjil Moodum Ravil](https://open.spotify.com/track/1PKEVL5clX4BPUcv6QbZj9) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Manjil Moodum Ravil](https://open.spotify.com/album/0rbduZJaAOKkTG0kqzCtW1) | 4:08 | 2025-12-12 |  |
 | [Marap](https://open.spotify.com/track/66aRgKCtqQFWLSGeFKgWQt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Marap](https://open.spotify.com/album/5AOF1Y9vmK21GyQk9qhmuu) | 3:46 | 2023-07-28 | 2024-07-16 |
 | [Marayathe](https://open.spotify.com/track/56OnxSPpM5Q3JUYlpwvUU6) | [Ashley Milred](https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA), [Jínzz](https://open.spotify.com/artist/1LQWsMPWWZEO8uVB0kSu1W), [Gloria x Arpith](https://open.spotify.com/artist/3Z5uJN079qFqcHWa7nVz74) | [Marayathe](https://open.spotify.com/album/2XZNm5zTJFSvWu2hZSNIPq) | 3:40 | 2025-11-16 |  |
 | [Mask](https://open.spotify.com/track/5CvX5VrwOR9Xw1zWebmSs2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mask](https://open.spotify.com/album/6ip2H9sVgwTG3u8s9ru1dP) | 3:20 | 2024-08-30 | 2025-07-05 |
@@ -396,6 +397,7 @@
 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 | 2023-07-27 | 2025-07-15 |
 | [Thaaram](https://open.spotify.com/track/3QqOii384lMY23m4Ydh4Rb) | [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y), [Shemitha Balan](https://open.spotify.com/artist/0mMfj4RosvfkM2v36QnSeu) | [Thaaram](https://open.spotify.com/album/3Tz4czE10QKNPgyEVBFEl3) | 3:27 | 2024-07-15 | 2025-10-08 |
 | [THALATHIRINJO](https://open.spotify.com/track/3sxlzx4XCbCJJZ5NYzzh6A) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [THALATHIRINJO](https://open.spotify.com/album/211XCyr86eRli2gLNRPLhE) | 2:35 | 2025-02-07 |  |
+| [THANIYE](https://open.spotify.com/track/0l5vty5oPJJTiHq9zVVCPl) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Arcado](https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq), [Bindhu Anirudhan](https://open.spotify.com/artist/1FRfFQJNY6AjNmdbIe28sU) | [THANIYE](https://open.spotify.com/album/1tcJ8bkxjdwRL7YqgrxPTV) | 3:00 | 2025-12-12 |  |
 | [THANIYE](https://open.spotify.com/track/2LiXmrK7gDUSJo5GOzwxMe) | [Jerin C](https://open.spotify.com/artist/2LlWO3c41pLwsWgLid8GNd), [Keysmith](https://open.spotify.com/artist/63cWhrCL1DpDUGZsiavzz0) | [THANIYE](https://open.spotify.com/album/39DrrcfjjYYNeBgujn3cbX) | 3:52 | 2025-01-20 | 2025-05-17 |
 | [Thanne](https://open.spotify.com/track/2OSvxPgxpojMhe6MjdrulH) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Thanne](https://open.spotify.com/album/1mzBxd4WxPHFXRlbsIBIZR) | 2:48 | 2024-08-16 | 2024-09-11 |
 | [The Bacardi Song](https://open.spotify.com/track/6V6Gp9FBvuge8f7IwijFUX) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [The Bacardi Song](https://open.spotify.com/album/7moZLvp3D9nj5xjL83fjCr) | 3:54 | 2024-02-15 | 2024-05-25 |
@@ -448,6 +450,7 @@
 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 | 2024-06-25 |
 | [Veyil](https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC) | [Thanveer Zaman](https://open.spotify.com/artist/0C4C8ElFOrWVKqWFwssLXH), [Shiyaz Mhmd](https://open.spotify.com/artist/3Woy8AbDUnbuquWZnc0ez9) | [Veyil](https://open.spotify.com/album/46mEHWBOQAyQHjnFhiVS1g) | 2:52 | 2025-06-26 | 2025-10-01 |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 | 2024-10-01 |
+| [WILLING](https://open.spotify.com/track/1gXE2FuQb6xJvHjZRn0Rr8) | [EKAN](https://open.spotify.com/artist/5qljCniMsqgTU5K4as7ISP), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [WILLING](https://open.spotify.com/album/2P1xCCbxu9qGlVgp0IO4OB) | 3:07 | 2025-12-12 |  |
 | [Wrath](https://open.spotify.com/track/4aO8R0YzvBJIi0Z2GRzXC0) | [DREAMCODE](https://open.spotify.com/artist/7mnOxPNja4UnbCqdnyQBKB), [DROPAMINE](https://open.spotify.com/artist/3dXaLhqxBIE9RVug1gv9bd) | [Wrath](https://open.spotify.com/album/6s1pHJtpNLnFrsv7VMl1Ha) | 4:03 | 2025-04-21 | 2025-07-19 |
 | [Yaanam](https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut) | [Yaanam](https://open.spotify.com/album/2MN3tPfDAg2PsBBb78uLCs) | 3:20 | 2023-11-06 | 2024-01-04 |
 | [Yathra](https://open.spotify.com/track/7nZxElNcOuVrsAjw7Um0IE) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/0AMVYu01sebX3Sba3AS9J9) | 3:05 | 2023-10-10 | 2024-02-19 |

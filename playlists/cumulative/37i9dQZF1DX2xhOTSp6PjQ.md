@@ -4,11 +4,11 @@
 
 > Khuphuka lapho… seku\-late! Cover: Mjolisi
 
-279 songs - 22 hr 7 min
+280 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ababizi Bengoma](https://open.spotify.com/track/38gjrwh5FkYKYL0ix2Xhsu) | [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok), [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Ababizi Bengoma](https://open.spotify.com/album/0oWdPXu4fsyQ5d8SPiN4Ox) | 4:02 | 2025-06-13 |  |
+| [Ababizi Bengoma](https://open.spotify.com/track/38gjrwh5FkYKYL0ix2Xhsu) | [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok), [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Ababizi Bengoma](https://open.spotify.com/album/0oWdPXu4fsyQ5d8SPiN4Ox) | 4:02 | 2025-06-13 | 2025-12-13 |
 | [Abafana Badlala Ngathi](https://open.spotify.com/track/2MS5BhgzvMg4frVGhxYuwJ) | [Limit](https://open.spotify.com/artist/2FNsjkc78U5f55zOu6ZsSh) | [I Mathematics](https://open.spotify.com/album/43VQHDS0rQVLrYtPvchEHf) | 4:43 | 2023-01-30 |  |
 | [Abafana Bayefana](https://open.spotify.com/track/6Gw55e0BsDiebc5EUSzlvl) | [uMehlabomvu](https://open.spotify.com/artist/108KwQSLKiaZbIPgNg1pBm) | [Ibhokisi Lomncwabo](https://open.spotify.com/album/1EWLUNQgH4mgHv5FjdmWvw) | 4:13 | 2023-10-26 |  |
 | [Abasemzini](https://open.spotify.com/track/0CJJt0J9SOscYKzETJ0p4d) | [Umketule](https://open.spotify.com/artist/69trV3Y6hPvHULI7kHXC3y), [Jikijiki](https://open.spotify.com/artist/1NtILDTbvfbNKZF9OIjdCR) | [Abasemzini](https://open.spotify.com/album/3Nayxjqvi8EfRTYy7ZGPX3) | 5:17 | 2025-09-18 |  |
@@ -42,6 +42,7 @@
 | [BO GIRL](https://open.spotify.com/track/6CrL5WAQNE2a94i7tqbi67) | [uMjabulisi](https://open.spotify.com/artist/7hgZmJWaqjihq01cTFgyD6) | [Ningaphiki Nami](https://open.spotify.com/album/12840tLE83NAKIiNZuEqZ8) | 4:08 | 2023-01-30 | 2023-12-02 |
 | [Buza Kunyoko](https://open.spotify.com/track/3MwXl9gwg7aG1NBHcGKaZo) | [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps), [King Shaka](https://open.spotify.com/artist/5iVLqqv8xXE8vQ43Psq5wL) | [Ikhumbi Ekweletayo](https://open.spotify.com/album/5nxPey17l6lXWUCsNqm6lF) | 5:49 | 2023-01-30 | 2024-04-23 |
 | [Choice Yethu \(feat\. Zamambo Mkhize\)](https://open.spotify.com/track/62vKRiOWQzjXqNFbcT9XCN) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg), [Zamambo Mkhize](https://open.spotify.com/artist/6ctLUXhi7maYCS8SqM8CYF) | [Choice Yethu \(feat\. Zamambo Mkhize\)](https://open.spotify.com/album/3Zqpd5dswFBq6p0zgumx5M) | 3:48 | 2025-09-12 |  |
+| [Cishe Ngafa](https://open.spotify.com/track/6UV9rc1Ww8lpWQs1sX8oBH) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Inganono](https://open.spotify.com/album/3oVTnz7380WdmEvsrUYHGp) | 4:17 | 2025-12-12 |  |
 | [COME DUZE](https://open.spotify.com/track/0n4FUypXWTfC1pBdc63Kag) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Khotha La \(A Tribute To Mjikjelwa\)](https://open.spotify.com/album/11zqEpEOTNUX5lzw68rZJe) | 4:40 | 2025-07-25 |  |
 | [Dali Ungavumi](https://open.spotify.com/track/2yTHNZL9n8zd1LXRa6LT2W) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Zothando](https://open.spotify.com/artist/2JKuODJH36pqK6s3gLcnVe) | [Dali Ungavumi](https://open.spotify.com/album/4TMSarXXnwy2RN5qD6tsKd) | 5:43 | 2023-01-30 |  |
 | [Diona x5](https://open.spotify.com/track/2PQl2BRgemS4sFZTFS703p) | [Mtshengiseni](https://open.spotify.com/artist/0b7Ds3CZPJOmh8hqOq9md4) | [Maskandi Greats Vol.1](https://open.spotify.com/album/3GzuoeKRn8eQF0KAR0N4o6) | 6:52 | 2018-09-25 | 2023-06-16 |

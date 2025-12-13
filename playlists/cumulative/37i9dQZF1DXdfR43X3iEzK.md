@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️<br/>cover: sassy 009
 
-566 songs - 1 day 6 hr 30 min
+567 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [I'm Here Now](https://open.spotify.com/track/2bcw9gsRf5ijZDnn2z2qU7) | [Bea Elmy Martin](https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M) | [I'm Here Now](https://open.spotify.com/album/2wwnEl5h6TsOoI2jTxv72d) | 4:23 | 2025-03-28 | 2025-04-18 |
 | [I'm In Love \(Subaru\)](https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [I'm In Love \(Subaru\)](https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp) | 4:01 | 2024-07-18 | 2024-10-11 |
 | [I'm Not Your Punchbag](https://open.spotify.com/track/6udfenCxoD1RNJfyXMDvaL) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I'm Not Your Punchbag](https://open.spotify.com/album/0bp8AIMSXpFaaNv6bkdIQj) | 2:33 | 2025-03-28 | 2025-05-10 |
+| [Icicle](https://open.spotify.com/track/5oFy62w5nGBpWJOLrgGXiw) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Icicle](https://open.spotify.com/album/1K9Y4wnEAstTwuMalup2ZJ) | 2:07 | 2025-12-12 |  |
 | [IF I GAVE U MY DREAM](https://open.spotify.com/track/4UWFmfXacUXEITMeu1wKPE) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [IF I GAVE U MY DREAM](https://open.spotify.com/album/64Tr9k5I08BhGd42SkRHlq) | 2:54 | 2025-03-28 | 2025-04-18 |
 | [If Not Now, It's Soon](https://open.spotify.com/track/3fcwVo8YgUTZsO74AVeL1c) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [If Not Now, It’s Soon](https://open.spotify.com/album/0hi2AoxkJXc2PM0J9POaRn) | 2:35 | 2025-04-24 | 2025-05-23 |
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-04-04 |

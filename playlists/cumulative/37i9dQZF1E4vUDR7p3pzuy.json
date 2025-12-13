@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Amulet, JUST LIZZY, Synthetik Blonde and more",
+  "description": "With Amulet, Synthetik Blonde, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 227258,
       "name": "#1 Crush",
       "url": "https://open.spotify.com/track/7nI32tjGZmL54z1CUfAXj0"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 172075,
       "name": "1000 Years Too Deep (Silence Mix)",
       "url": "https://open.spotify.com/track/2mxnJ5qna5oZ7yFYo6nAZK"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 205500,
       "name": "A Heart Cries",
       "url": "https://open.spotify.com/track/5RsvOuAAaoEzABnhi2dLcl"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 294155,
       "name": "A Love So Bold",
       "url": "https://open.spotify.com/track/6ylEbDvwHvCHl0KlrOAEiH"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 228000,
       "name": "All-Inclusive",
       "url": "https://open.spotify.com/track/5a2DObmVugouqxO7UM7A2R"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Armour Hill",
+        "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
+      },
+      "artists": [
+        {
+          "name": "Gran Fenwick",
+          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Armour Hill",
+      "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
+    },
+    {
+      "album": {
         "name": "Blood in the Disco",
         "url": "https://open.spotify.com/album/0dR0UOsjmCPbAUKyvVLfnk"
       },
@@ -240,7 +258,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 229166,
       "name": "Atrophy",
       "url": "https://open.spotify.com/track/4SYWYYqNFaGAhmFVuBrnqX"
@@ -440,10 +458,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 148239,
       "name": "Chasing Crows",
       "url": "https://open.spotify.com/track/1IBcjm6bxYn0SX8gzfiMmW"
+    },
+    {
+      "album": {
+        "name": "Coronet",
+        "url": "https://open.spotify.com/album/5siQjlkTpfmu7wnkNlo1RG"
+      },
+      "artists": [
+        {
+          "name": "Black Angel",
+          "url": "https://open.spotify.com/artist/2nRqpGvZYydx4778sPDPfu"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205926,
+      "name": "Christine",
+      "url": "https://open.spotify.com/track/1xRtyaNLmtr3eMWZpmzvxM"
     },
     {
       "album": {
@@ -498,7 +534,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 208500,
       "name": "Cocoon - Redux",
       "url": "https://open.spotify.com/track/4fxBZYoB8NYG01fjZUvzVg"
@@ -704,7 +740,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 277500,
       "name": "Disco Ball",
       "url": "https://open.spotify.com/track/77d0eVrZ78UKNP7u3Hcwl8"
@@ -744,7 +780,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
@@ -993,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Gabriella",
+        "url": "https://open.spotify.com/album/6mUDzmlrIYXDI2u8OYUrKK"
+      },
+      "artists": [
+        {
+          "name": "Maira 3",
+          "url": "https://open.spotify.com/artist/2UEUYQRlIIibz5FJPAl8Ow"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219622,
+      "name": "Gabriella",
+      "url": "https://open.spotify.com/track/0L42kCR2e0WEQQzS5WaAkt"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/4aAyiTpuJbD5ydadcEh2ti"
       },
@@ -1066,7 +1120,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 263862,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/79U3vQSqh7ONz2kunmB6Ri"
@@ -1710,7 +1764,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 227047,
       "name": "Mind's Eye",
       "url": "https://open.spotify.com/track/2vbbgLRnzwY6SWB5FHCKdU"
@@ -1822,7 +1876,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 375000,
       "name": "MTHRFCKRS",
       "url": "https://open.spotify.com/track/76zqr2VewgO6cx5Pk5scph"
@@ -1898,7 +1952,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 173651,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0IZoDrAaRaBqZWu8f7MVbb"
@@ -2660,7 +2714,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 206435,
       "name": "The Internet",
       "url": "https://open.spotify.com/track/3JjQpezBYZXEb6KVNJfmS1"

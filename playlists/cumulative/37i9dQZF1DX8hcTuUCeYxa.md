@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: CECI
 
-2,278 songs - 5 day 10 hr 52 min
+2,278 songs - 5 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1000 Pieces](https://open.spotify.com/track/1s3w1ze8uQWSgNc9ZXc6rf) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Uppercut](https://open.spotify.com/album/5UdNNstyCjoxQWebmfdFWS) | 2:59 | 2025-11-06 | 2025-11-21 |
 | [1010](https://open.spotify.com/track/5YDccHnqG3jdBbLBydJi0D) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [1010](https://open.spotify.com/album/6NXEsa5dZR72T5AuNSi2R3) | 2:32 | 2024-08-22 | 2024-09-06 |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-24 | 2025-08-22 |
-| [1234](https://open.spotify.com/track/0p1ZnifLGxSMQB2j8cl6hS) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [](https://open.spotify.com/album/null) | 3:42 | 2025-12-11 |  |
+| [1234](https://open.spotify.com/track/0p1ZnifLGxSMQB2j8cl6hS) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Nostalgia 9052](https://open.spotify.com/album/5cncVXB0GkIjaZcfSeqSSR) | 3:42 | 2025-12-11 |  |
 | [149](https://open.spotify.com/track/2IuIgcXrJoxcJwgOIA57cY) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [149](https://open.spotify.com/album/2i36YYbumEwDEY5jtmLUW6) | 2:30 | 2025-06-12 | 2025-06-27 |
 | [17](https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [Dead End](https://open.spotify.com/album/3tMqWsevN8DlWHsofi1Joo) | 3:23 | 2025-11-13 | 2025-12-12 |
 | [18](https://open.spotify.com/track/6MaTJ8MpJU7RO99PcYyvkm) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [18](https://open.spotify.com/album/5zznpNL6GMkUwFEAd4e4Kt) | 3:24 | 2024-12-12 | 2025-01-17 |
@@ -751,6 +751,7 @@
 | [gemini](https://open.spotify.com/track/5VCJBWCMh3l0fbMFclAekf) | [sanna frankie](https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94), [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH) | [gemini](https://open.spotify.com/album/1YiajubHM45q9rYknknDx0) | 2:38 | 2025-10-23 | 2025-11-21 |
 | [Gentleman](https://open.spotify.com/track/759uyHAEpho3GYAcZFCYbI) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Gentleman](https://open.spotify.com/album/4ITDBpKj67cEPss5vRzsRI) | 2:20 | 2024-12-05 | 2025-01-17 |
 | [Gesegnet sind all die ohne Idole](https://open.spotify.com/track/1e5iiaf6LJBp3kJ6YMYIOx) | [Tristesse](https://open.spotify.com/artist/4Yqf56U0faf6GElLDbmodd) | [Gesegnet sind all die ohne Idole](https://open.spotify.com/album/4CzPp6EDHdSOVP6b3cxIAQ) | 2:12 | 2025-07-10 | 2025-07-25 |
+| [Gespenst](https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq), [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz) | [Strandbad Eldena](https://open.spotify.com/album/5Ht0J2Q4lZ0Pf5p0NUimwh) | 3:02 | 2025-12-11 |  |
 | [Get Happy](https://open.spotify.com/track/1ldykTue3ZAv6GxW8shJjN) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary \(Deluxe\)](https://open.spotify.com/album/7n5z9K5f4UMNfZ7Qajwvvj) | 3:22 | 2025-05-08 | 2025-05-23 |
 | [Get Your Love](https://open.spotify.com/track/67nx7FmQlxtLVuLv5U2hax) | [LIAS](https://open.spotify.com/artist/4f9EkDM6aMxoZMPK5nEOiD) | [Funeral of a Choir Boy](https://open.spotify.com/album/6BLfi4S9XTE0f9qFY4s3ax) | 3:21 | 2024-10-17 | 2024-11-15 |
 | [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 | 2025-03-06 | 2025-04-04 |
@@ -2059,7 +2060,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 9](https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-06-06 |

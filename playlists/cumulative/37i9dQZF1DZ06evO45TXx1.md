@@ -4,7 +4,7 @@
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-96 songs - 4 hr 42 min
+97 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Meio Pá](https://open.spotify.com/track/7JPDUl1uDFB4PM4IGxyKJU) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Blest Jones](https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ), [UNKWN](https://open.spotify.com/artist/1hKoauICyrx7JojasOI1EU), [Scotz](https://open.spotify.com/artist/2rb4yUz7taAlwIu5hobMv4), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios](https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM) | 2:59 | 2023-12-30 |  |
 | [Meu Problema](https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:16 | 2024-10-13 |  |
 | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ) | 2:27 | 2025-06-30 |  |
+| [NOITES TRAIÇOEIRAS](https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 2:45 | 2025-12-13 |  |
 | [Notas](https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Piazza](https://open.spotify.com/artist/5SpE1csYpLIA05aBXqkOuR) | [Notas](https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY) | 3:21 | 2023-12-30 |  |
 | [NOVINHA MANDRAKA](https://open.spotify.com/track/2hB98xPNhpahju25eLttyz) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:58 | 2023-12-30 | 2024-10-13 |
 | [Não Adianta Me Ligar](https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:25 | 2024-10-07 |  |

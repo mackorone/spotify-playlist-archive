@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,004 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,006 likes - 43 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 2 | [WE PRAY](https://open.spotify.com/track/6xX6zmaXeKzB4u9TiM1XgU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:53 |
 | 3 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 |
 | 4 | [Domodachi \(feat\. Little Simz\)](https://open.spotify.com/track/4MQBnk52HKbl59BX497xhM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:04 |
-| 5 | [Only](https://open.spotify.com/track/6jJTlYkddJONCQQVzWFzcQ) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 3:35 |
+| 5 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 |
 | 6 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
 | 7 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
 | 8 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 |
-| 9 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 |
+| 9 | [Only](https://open.spotify.com/track/6jJTlYkddJONCQQVzWFzcQ) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 3:35 |
 | 10 | [Heart on Fire](https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 3:58 |
 | 11 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 |
 | 12 | [Venom](https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:34 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 42 | [Power](https://open.spotify.com/track/3aynUU0UifcUPzOSssR1Pk) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 0:55 |
 | 43 | [Torch](https://open.spotify.com/track/676854Mu9sVS1vfoBqk7S2) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:11 |
 
-Snapshot ID: `aTi4AAAAAADYy1UPvLA+/W2i22mLrmOR`
+Snapshot ID: `aToJgAAAAAD7l9UqItuyF0dmYENF/7sM`

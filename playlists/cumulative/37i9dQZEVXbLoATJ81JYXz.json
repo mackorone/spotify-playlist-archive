@@ -17726,7 +17726,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 120545,
       "name": "Godnattvisan",
       "url": "https://open.spotify.com/track/5MxHurfskrN1RvkKez2ofd"
@@ -24688,7 +24688,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 168280,
       "name": "Juligen",
       "url": "https://open.spotify.com/track/1MMeScdLmniNyO4WMuoIxb"
@@ -47491,6 +47491,28 @@
     },
     {
       "album": {
+        "name": "Discolized",
+        "url": "https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f"
+      },
+      "artists": [
+        {
+          "name": "Kato",
+          "url": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "Turn The Lights Off (feat. Jon)",
+      "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
+    },
+    {
+      "album": {
         "name": "Tusen g\u00e5nger om (feat. Newkid)",
         "url": "https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2"
       },
@@ -47528,7 +47550,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 190344,
       "name": "Tusen sp\u00e4nn",
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 487 likes - 72 songs - 4 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 498 likes - 83 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,16 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 70 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 |
 | 71 | [Streetlights](https://open.spotify.com/track/7ubD7mlFekl7QGt6Vb6MAE) | [Dylan Camp](https://open.spotify.com/artist/0j2dNJnUm8oeQGR10pbBGv) | [Streetlights](https://open.spotify.com/album/5HpOdgBKfslIGUTMCGrXJP) | 4:19 |
 | 72 | [No Sympathy](https://open.spotify.com/track/26gB1uyvQVxwFDNOs68Tfw) | [Tia Rose](https://open.spotify.com/artist/1gGadeENa0utvSOoPSlLSc) | [No Sympathy](https://open.spotify.com/album/32faOwJCBADaLbFoPtrcbx) | 3:27 |
+| 73 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 |
+| 74 | [Hypernormal](https://open.spotify.com/track/1ACaEDG5jQ8KfvKTUKjEu5) | [Dead Broke](https://open.spotify.com/artist/5pAHHsGlcYhq7bUJNvjKsu) | [Hypernormal](https://open.spotify.com/album/1uwOBbr56z90M0sxbWYr6M) | 3:17 |
+| 75 | [A Dream Goes Walking By](https://open.spotify.com/track/0fUwJ39xEsvWS6ynNhTK6k) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 5:13 |
+| 76 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 |
+| 77 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 |
+| 78 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 |
+| 79 | [Lobotomy](https://open.spotify.com/track/19aXEmTM5YghumBM5d0HWu) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:03 |
+| 80 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 |
+| 81 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 |
+| 82 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 |
+| 83 | [Rose Tinted Eyes](https://open.spotify.com/track/76fmIfIURZyrGgdq2qGmm8) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Rose Tinted Eyes](https://open.spotify.com/album/6Vfc9B57eWm1cfzCijhMhI) | 2:47 |
 
-Snapshot ID: `AAAEIKOrBzSGFoTUqZHELPenVdZAm8FW`
+Snapshot ID: `AAAEK/8ai8ePr08H9xdN6jluu/2C65m7`

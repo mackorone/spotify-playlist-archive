@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Tenille Arts
+> The home of Canadian country music\. Cover: Brett Kissel
 
-497 songs - 1 day 2 hr 35 min
+499 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Concrete And Barbed Wire](https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Concrete And Barbed Wire](https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z) | 3:13 | 2024-06-28 | 2024-07-13 |
 | [Confession](https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:36 | 2024-06-28 | 2024-10-05 |
 | [Control Me](https://open.spotify.com/track/7Cl0Kqz1dFYqpkq6vDeFaq) | [TANAEYA](https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa) | [Control Me](https://open.spotify.com/album/7xORJMu524kyp9rGj2VuMy) | 3:11 | 2025-09-05 |  |
-| [Count On Me](https://open.spotify.com/track/1KunqIj5qXEYbB8aBCY5bb) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Count On Me](https://open.spotify.com/album/5ithF5SZhrIOImWRo7pB3m) | 3:39 | 2025-11-28 |  |
+| [Count On Me](https://open.spotify.com/track/1KunqIj5qXEYbB8aBCY5bb) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Count On Me](https://open.spotify.com/album/5ithF5SZhrIOImWRo7pB3m) | 3:39 | 2025-11-28 | 2025-12-13 |
 | [Country Thing](https://open.spotify.com/track/7lSeEV7DSG5OmwsaRIikW7) | [Son of John](https://open.spotify.com/artist/6Ig2z8IiCbjXla7YzmZM4u) | [Country Thing](https://open.spotify.com/album/0SojraGm8ZWfu3Y0NIurHC) | 3:59 | 2025-09-12 |  |
 | [County Line Five](https://open.spotify.com/track/7yHXIuyIbrcvFGylu1xaqH) | [Bradley Hale](https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF) | [County Line Five](https://open.spotify.com/album/55N43YQf2aWivDZLES01pK) | 3:51 | 2025-09-12 | 2025-10-25 |
 | [Cowboys & Dreamers](https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run \- The Album](https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa) | 3:09 | 2025-02-28 | 2025-08-30 |
@@ -126,6 +126,7 @@
 | [Every Once In a While](https://open.spotify.com/track/43qxCAP9QX3HoCVxRPUZdC) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Every Once In a While](https://open.spotify.com/album/5j71tQSZuhWVTjEntqM992) | 3:47 | 2025-05-02 | 2025-07-12 |
 | [Everybody Loves My Little Darling](https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Everybody Loves My Little Darling](https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT) | 2:10 | 2025-10-06 |  |
 | [Family First](https://open.spotify.com/track/6Wwr6c7cF6xPvqTbGGBk9I) | [Eric Ethridge](https://open.spotify.com/artist/6h3SuFXFhINbYsVyIgaKLS) | [Family First](https://open.spotify.com/album/3UpphRVmpfImtobnjhFn3p) | 4:00 | 2024-06-28 | 2024-07-06 |
+| [Farmer](https://open.spotify.com/track/0jbVLGFKiT6lDtO1hFfGLV) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Farmer](https://open.spotify.com/album/13nnrjheHl13arW3ICHMxW) | 3:10 | 2025-12-12 |  |
 | [Feel Free](https://open.spotify.com/track/7vI8yJI3tfFe8HDaus3Icl) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feel Free](https://open.spotify.com/album/05iuk1LdHKBkC90HLbminy) | 3:00 | 2025-09-05 |  |
 | [Feels Like Forever](https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Feels Like Forever](https://open.spotify.com/album/1O59CVuNp3WHcV7lgRnoHm) | 3:12 | 2025-09-19 |  |
 | [fence sitter](https://open.spotify.com/track/3EOlgESZdhj7hSHEwR4r5T) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [fence sitter](https://open.spotify.com/album/0a2FgMMrUzwsnVBqpbVSkk) | 3:38 | 2025-10-24 |  |
@@ -267,6 +268,7 @@
 | [Make It Out Alive](https://open.spotify.com/track/6eE8YiBqmKK96UnlNYOP8d) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Make It Out Alive](https://open.spotify.com/album/4mi9ihXypXaweqvT4NAML7) | 3:55 | 2024-07-05 | 2024-08-31 |
 | [Man I Used To Be](https://open.spotify.com/track/1v6KfzL3Tw4jt6eYM9l0Fk) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Man I Used To Be](https://open.spotify.com/album/1JRlcIAIqs791vfpuu0Zbu) | 3:51 | 2025-08-01 | 2025-10-25 |
 | [Man Like Mine](https://open.spotify.com/track/1imsA3Jc3y82WnwtZU24rq) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Man Like Mine](https://open.spotify.com/album/3MjgxT0AsWa6KPx1pZSmpm) | 2:54 | 2025-08-08 | 2025-10-25 |
+| [Man Outta Me](https://open.spotify.com/track/51nRWKX2GqMu4h5B0jqlqJ) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [Man Outta Me](https://open.spotify.com/album/4ZWQHVRMLBrwJc3CU1VsiJ) | 3:29 | 2025-12-12 |  |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-11-08 | 2025-05-03 |
 | [Memories and Empties](https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Memories and Empties](https://open.spotify.com/album/3QB0ZTQH0RScbnHefHB2wr) | 3:22 | 2025-11-14 |  |
 | [Middle Of The Bed](https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:21 | 2024-10-11 | 2025-03-29 |

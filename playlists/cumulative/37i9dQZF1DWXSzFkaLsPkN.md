@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Shrinidhi Ghatate
 
-308 songs - 16 hr 56 min
+309 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 | 2023-05-02 | 2025-09-17 |
 | [Aaj Na](https://open.spotify.com/track/322TxW77VZdX9gHynK5Xue) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 3:13 | 2023-05-02 | 2025-07-26 |
 | [Aaja](https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Aaja](https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP) | 4:13 | 2023-06-26 | 2023-07-01 |
-| [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 | 2025-11-14 |  |
+| [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 | 2025-11-14 | 2025-12-13 |
 | [Aao Bhula Dein](https://open.spotify.com/track/67nXL9Yf3zCLt8kmyI5vz2) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Aao Bhula Dein](https://open.spotify.com/album/3d7Oe8nu0J8yNt77PJir7w) | 3:37 | 2024-11-20 | 2025-02-11 |
 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 | 2025-03-13 | 2025-09-17 |
 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2023-12-15 |  |
@@ -273,7 +273,7 @@
 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 | 2025-03-13 | 2025-11-27 |
 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 | 2025-10-17 | 2025-11-15 |
 | [Tere Hi Hum](https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tere Hi Hum](https://open.spotify.com/album/4xOZZmHAlau3WBiH4OPpKD) | 2:57 | 2023-05-02 | 2025-09-17 |
-| [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 | 2023-08-08 | 2025-12-06 |
+| [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 | 2023-08-08 |  |
 | [Teri Yaad](https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Teri Yaad](https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH) | 3:50 | 2023-05-02 |  |
 | [Tham Jaa](https://open.spotify.com/track/7KVXJ1EW0yoKJiHFYAweYQ) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi) | [Tham Jaa](https://open.spotify.com/album/594GX28qQp7xBV1zPYsIqH) | 3:18 | 2023-10-05 | 2023-11-11 |
 | [Tham Zaraa](https://open.spotify.com/track/1PGQdySI0Jk7kDtxaRdaIK) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG) | [Rang](https://open.spotify.com/album/0Wtz85mMIqtoh68iQWZdRo) | 4:35 | 2024-02-06 | 2024-07-18 |
@@ -311,10 +311,11 @@
 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 | 2025-01-06 | 2025-09-17 |
 | [Yeh Jo Zindagi](https://open.spotify.com/track/6xysS6CPs8ERZ7uAtaEGVI) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Yeh Jo Zindagi](https://open.spotify.com/album/2kB2ubduPf5Qasff2NYxIx) | 3:14 | 2023-12-15 | 2024-02-20 |
 | [Yeh Shaam](https://open.spotify.com/track/44e6LWMz011gq6QU45nw2P) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Yeh Shaam](https://open.spotify.com/album/1OsdoncZf5VeLCSw1tOF7w) | 3:54 | 2024-04-23 | 2024-06-18 |
-| [Yun Hi Kahin](https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Yun Hi Kahin](https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G) | 3:23 | 2025-11-07 |  |
+| [Yun Hi Kahin](https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Yun Hi Kahin](https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G) | 3:23 | 2025-11-07 | 2025-12-13 |
 | [Zakhm Purana](https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Zakhm Purana](https://open.spotify.com/album/11ulyEpLTiJnvKpDVxhd89) | 3:54 | 2024-06-18 | 2024-07-13 |
 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 | 2023-12-15 | 2024-04-19 |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2023-05-02 | 2023-12-16 |
 | [Zindagi](https://open.spotify.com/track/6cCcbvYQFU71VirgpvGKG6) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Phoolon Sa Dil](https://open.spotify.com/album/0ByaNi5djNwN958OuGO2fw) | 3:15 | 2025-10-03 | 2025-10-11 |
+| [Zulfein](https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt) | [Mehul Mahesh](https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD), [Dj AYnik](https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk) | [Zulfein](https://open.spotify.com/album/0QLo84H5SAMrfwo6t1pkeS) | 3:18 | 2025-12-12 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

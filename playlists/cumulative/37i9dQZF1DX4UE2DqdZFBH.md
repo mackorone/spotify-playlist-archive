@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-144 songs - 11 hr 35 min
+145 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Tune for Peace \- an Interlude](https://open.spotify.com/track/1IsJo7jMClxOoNCpfQuiBs) | [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ) | [Naked on a Train](https://open.spotify.com/album/1Nd6oKZfCjqr2RzLfCRB6i) | 3:44 | 2022-06-10 |  |
 | [A Walk Through Brindavan \(feat\. Vijay Gopal & Nel Bucktowar\)](https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR) | [Devan Ekambaram](https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB), [Vijay Gopal](https://open.spotify.com/artist/5aRP9KONz01wF6kUFA173F), [Nel Bucktowar](https://open.spotify.com/artist/1IRL56HV87GLsLg71g4REl) | [A Walk Through Brindavan \(feat\. Vijay Gopal & Nel Bucktowar\)](https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn) | 4:28 | 2022-06-10 |  |
 | [Acoustic Pasanga \- 100 Secs'HOPE](https://open.spotify.com/track/4Grji4PmopcGloCI5bXn0Y) | [Ramkumar Ramji](https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro) | [Acoustic Pasanga \- 100 Secs'HOPE](https://open.spotify.com/album/2IKp7F6bgfXTLPrJUB4Pkg) | 1:45 | 2022-06-10 | 2023-11-04 |
-| [Acoustic Pasanga \- 100 Secs'HOPE](https://open.spotify.com/track/4LmMKlxmznsPNMKdxuwLt5) | [Ramkumar Ramji](https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro) | [Acoustic Pasanga \- 100 Secs'HOPE](https://open.spotify.com/album/45WddsNUdpNLhFcLhnbEim) | 1:45 | 2022-06-10 |  |
+| [Acoustic Pasanga \- 100 Secs'HOPE](https://open.spotify.com/track/4LmMKlxmznsPNMKdxuwLt5) | [Ramkumar Ramji](https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro) | [Acoustic Pasanga \- 100 Secs'HOPE](https://open.spotify.com/album/45WddsNUdpNLhFcLhnbEim) | 1:45 | 2022-06-10 | 2025-12-13 |
 | [Acoustic Pasanga \- 100 Secs'HOPE](https://open.spotify.com/track/5Hdn5UXEBrbhQsk1QbJdVK) | [Ramkumar Ramji](https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro) | [Acoustic Pasanga \- 100 Secs'HOPE](https://open.spotify.com/album/6mfrZvmEIGwEaGdyenlwNi) | 1:45 | 2022-06-10 | 2024-04-19 |
 | [Across The Ocean](https://open.spotify.com/track/5R1cHabaCTU0atNY249IxR) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya Darshini](https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV), [Warren Mendonsa](https://open.spotify.com/artist/4h3U9ZOiDOzSUqiKCmrvfn), [Max ZT](https://open.spotify.com/artist/5WXUlwmB9Be8zQRFQAj3mx), [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Currency Audio](https://open.spotify.com/artist/4NWJPLnZxRYQCb2mYOZCR5) | [Across The Ocean](https://open.spotify.com/album/3l7zRvlnVnE8qhGAYIn7iy) | 5:13 | 2022-06-10 |  |
 | [Across the River](https://open.spotify.com/track/4zeqvxUAYmhJGDsQH9oBM8) | [Eashwar Subramanian](https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7) | [Across the River](https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX) | 4:21 | 2022-06-10 | 2024-08-10 |
@@ -101,6 +101,7 @@
 | [Need I Say More](https://open.spotify.com/track/5kYAOHvOI5nkG2KUsmccSr) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9) | [Two Sides of Karma](https://open.spotify.com/album/4WawflRDbhDVOY3H6KAWZi) | 6:20 | 2022-06-10 | 2025-05-21 |
 | [North Star](https://open.spotify.com/track/3HdZsBbSejCw7VQMdT0D5f) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [The Last Analog Generation](https://open.spotify.com/album/6MklN1XPeTWjhxLIiKTzPU) | 8:05 | 2022-06-10 | 2024-04-19 |
 | [North Star.wav](https://open.spotify.com/track/3fmpeORuSvsCETTuDL1Wl1) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [The Last Analog Generation](https://open.spotify.com/album/7fNqRSQN58UejKN0qk68vY) | 8:05 | 2022-06-10 | 2024-07-30 |
+| [Nothing To Lose](https://open.spotify.com/track/6XYSY5i37AWvCHo5bI8uOX) | [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D) | [Nothing To Lose](https://open.spotify.com/album/6xseA2vZjFT9e6jgmxOnef) | 5:27 | 2025-12-12 |  |
 | [Oceans Apart](https://open.spotify.com/track/5Mx3iBTphi0gdJwh6oYGrD) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe) | [The Emerging](https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N) | 7:39 | 2022-06-10 |  |
 | [Offering](https://open.spotify.com/track/0gB0Mz7xptPg2mbGQ0PC49) | [Rajna Swaminathan](https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA) | [Of Agency and Abstraction](https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B) | 6:42 | 2022-06-10 |  |
 | [Offering at Dawn](https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g) | [Eashwar Subramanian](https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7) | [Across the River](https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX) | 3:35 | 2022-06-10 |  |

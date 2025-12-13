@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 48 songs - 2 hr 56 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 43 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,12 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 34 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 35 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 36 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 37 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 |
-| 38 | [MEDUSA](https://open.spotify.com/track/7jUrziB9wx75HUm7FBstrQ) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [MEDUSA](https://open.spotify.com/album/5MWi0gKJigS1MbLRsAegES) | 3:33 |
-| 39 | [Sunday Evening](https://open.spotify.com/track/6rudmQGuyCFqoYJgOnpxbw) | [kroonch](https://open.spotify.com/artist/3XwKaQzzykRkBs7rLY5avT) | [Sunday Evening](https://open.spotify.com/album/3Mxh22R5GYKdxkbqt0KXO8) | 2:22 |
-| 40 | [Only You](https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga) | [Kaðlín](https://open.spotify.com/artist/30QneQaLsKZZ5pLoRNg1TZ) | [Only You](https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk) | 1:02 |
-| 41 | [Automático](https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Trans](https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry) | 3:45 |
-| 42 | [Save Yourself](https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Save Yourself](https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET) | 2:49 |
-| 43 | [petals](https://open.spotify.com/track/0GsXXXDp8JNIPHuZ8EpOb7) | [Coleus](https://open.spotify.com/artist/0grvUIIGuaFZQuCyqkGRhC) | [Echoes Of The Unseen](https://open.spotify.com/album/3ScFhqwhhxKJlsTdkzSmOU) | 2:08 |
-| 44 | [DREAMPRINT](https://open.spotify.com/track/2zTYEsdtL8NBfuSFRXEX3h) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [DREAMPRINT](https://open.spotify.com/album/0ishP3v2Lf1U7q7TFpD8jb) | 2:09 |
-| 45 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 |
-| 46 | [Therapy](https://open.spotify.com/track/1U1FTBN5znCUUDB3JqKOSK) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Therapy](https://open.spotify.com/album/7sNvJT5XBn7EPUqfeyDmtA) | 3:29 |
-| 47 | [People Run Dry](https://open.spotify.com/track/66lBvRguoKVNAIBymIP17G) | [Vinther](https://open.spotify.com/artist/5T6gYcFjSGU9batnL7c4LA) | [People Run Dry](https://open.spotify.com/album/05EJHnYqtEVjtoK9oMkcKe) | 3:13 |
-| 48 | [Algebra](https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Algebra](https://open.spotify.com/album/6EjjadiT6PZLInrMyr6gsy) | 4:13 |
+| 37 | [Save Yourself](https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Save Yourself](https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET) | 2:49 |
+| 38 | [petals](https://open.spotify.com/track/0GsXXXDp8JNIPHuZ8EpOb7) | [Coleus](https://open.spotify.com/artist/0grvUIIGuaFZQuCyqkGRhC) | [Echoes Of The Unseen](https://open.spotify.com/album/3ScFhqwhhxKJlsTdkzSmOU) | 2:08 |
+| 39 | [DREAMPRINT](https://open.spotify.com/track/2zTYEsdtL8NBfuSFRXEX3h) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [DREAMPRINT](https://open.spotify.com/album/0ishP3v2Lf1U7q7TFpD8jb) | 2:09 |
+| 40 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 |
+| 41 | [Therapy](https://open.spotify.com/track/1U1FTBN5znCUUDB3JqKOSK) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Therapy](https://open.spotify.com/album/7sNvJT5XBn7EPUqfeyDmtA) | 3:29 |
+| 42 | [People Run Dry](https://open.spotify.com/track/66lBvRguoKVNAIBymIP17G) | [Vinther](https://open.spotify.com/artist/5T6gYcFjSGU9batnL7c4LA) | [People Run Dry](https://open.spotify.com/album/05EJHnYqtEVjtoK9oMkcKe) | 3:13 |
+| 43 | [Algebra](https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Algebra](https://open.spotify.com/album/6EjjadiT6PZLInrMyr6gsy) | 4:13 |
 
-Snapshot ID: `AAAjtE/l9D0DIYoi6zomPjbf1K7JYUm1`
+Snapshot ID: `AAAjuSzlgY6ZWoBjXlE5ZIBncpoBrr7J`

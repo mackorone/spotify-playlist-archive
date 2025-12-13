@@ -1,13 +1,57 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31821,
+  "num_followers": 31816,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAuEYwXq3LEuIvFbanZSnNbmi/cHt2k",
+  "snapshot_id": "AAAuJF6pnnScAqyau7fDZ5Rz3CFhKyn7",
   "tracks": [
+    {
+      "added_at": "2025-12-12 11:00:02",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/1TQTyRjfQt4xEASbxGfsRu"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 204207,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/1IedGZrfcTMlchE5lbeLsb"
+    },
+    {
+      "added_at": "2025-12-12 11:00:06",
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Yubik",
+          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
+        },
+        {
+          "name": "Vincent Vossen",
+          "url": "https://open.spotify.com/artist/50SCzzclPLasHTR2YuLJA7"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh"
+    },
     {
       "added_at": "2025-12-05 09:30:38",
       "album": {
@@ -63,6 +107,86 @@
       "duration_ms": 192957,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/18TnCQ3tnJVvvF2KdACTgE"
+    },
+    {
+      "added_at": "2025-12-12 11:00:08",
+      "album": {
+        "name": "Post Malone (feat. RANI) [Future Tropical 2025 Remix]",
+        "url": "https://open.spotify.com/album/3vSRXeih0pJszSHkrumg0e"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 225739,
+      "name": "Post Malone (feat. RANI) [Future Tropical 2025 Remix]",
+      "url": "https://open.spotify.com/track/5TlWaAb2G6C9glTAC9gNzj"
+    },
+    {
+      "added_at": "2025-12-12 11:00:11",
+      "album": {
+        "name": "My Culture",
+        "url": "https://open.spotify.com/album/0pS8O4C6XZVQVzdzyUt3Q6"
+      },
+      "artists": [
+        {
+          "name": "ZALE\u00d8N",
+          "url": "https://open.spotify.com/artist/67NWsABxvwnaPSzUfXE1na"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "My Culture",
+      "url": "https://open.spotify.com/track/7yFMCNhHAH80Uczi5Rp08w"
+    },
+    {
+      "added_at": "2025-12-12 11:00:11",
+      "album": {
+        "name": "Now We Are Free (feat. Gabry Ponte & AntoNetta) [THOMM Remix]",
+        "url": "https://open.spotify.com/album/1tdB8ZIvSEfDRiiasFHjV7"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
+        },
+        {
+          "name": "AntoNetta",
+          "url": "https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/0QtEkRHU3kosktr5qmvp4W"
+    },
+    {
+      "added_at": "2025-12-12 11:00:15",
+      "album": {
+        "name": "Rouse",
+        "url": "https://open.spotify.com/album/5WoXansVmXIhgEfvgq15WN"
+      },
+      "artists": [
+        {
+          "name": "Alvek",
+          "url": "https://open.spotify.com/artist/3StKRdGDdFZloVWIFkB2Ij"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Rouse",
+      "url": "https://open.spotify.com/track/40N8FZEVtlfsJ9zBl6ki5y"
     },
     {
       "added_at": "2025-12-04 23:20:08",
@@ -189,6 +313,158 @@
       "url": "https://open.spotify.com/track/3WezBIRbCDGGyubCukbWtg"
     },
     {
+      "added_at": "2025-12-12 10:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6IJK6ulTMdWovTLExTwDsv"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 240909,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7i5eKmK10qA6png4FxWV19"
+    },
+    {
+      "added_at": "2025-12-12 13:57:52",
+      "album": {
+        "name": "Degenerate EP",
+        "url": "https://open.spotify.com/album/5cZ5BhZxEIWoeQnjOZIU56"
+      },
+      "artists": [
+        {
+          "name": "SageThaCat",
+          "url": "https://open.spotify.com/artist/64GvJ64ukDo3TkO9ofKpB9"
+        }
+      ],
+      "duration_ms": 295846,
+      "name": "Medellin",
+      "url": "https://open.spotify.com/track/7bywDFeYXCGBOF4DqCN9Ci"
+    },
+    {
+      "added_at": "2025-12-12 14:28:36",
+      "album": {
+        "name": "GOODBYE",
+        "url": "https://open.spotify.com/album/37YBz8tDqP8WTpMe30sbnO"
+      },
+      "artists": [
+        {
+          "name": "Daijo",
+          "url": "https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "GOODBYE",
+      "url": "https://open.spotify.com/track/7gbjztKER3wk3yf1dSmSHv"
+    },
+    {
+      "added_at": "2025-12-12 14:38:33",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/6Vb6p3GMe7zxkxGKbRrKI8"
+      },
+      "artists": [
+        {
+          "name": "uninvited",
+          "url": "https://open.spotify.com/artist/4GjIktrxosLiyJ6K04hwry"
+        }
+      ],
+      "duration_ms": 178032,
+      "name": "don't",
+      "url": "https://open.spotify.com/track/4OGPBKWOtWm2W98Ot3aYJm"
+    },
+    {
+      "added_at": "2025-12-12 10:00:04",
+      "album": {
+        "name": "Cry (Just A Little) [General C'mamane Remix]",
+        "url": "https://open.spotify.com/album/2U5gC9G1tBppbDpHs3jQGU"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "duration_ms": 230404,
+      "name": "Cry (Just A Little) [General C'mamane Remix]",
+      "url": "https://open.spotify.com/track/6vxLUazoj0EDm9K8kzy8vy"
+    },
+    {
+      "added_at": "2025-12-12 14:12:34",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/1JfyXgE6hMcB5pc4Y1f8wP"
+      },
+      "artists": [
+        {
+          "name": "Bomber",
+          "url": "https://open.spotify.com/artist/3PbIzHuNB1r5G01ZRPvfVa"
+        },
+        {
+          "name": "Laureta",
+          "url": "https://open.spotify.com/artist/3gENQBqMiZ6KGTPPT5JD6A"
+        },
+        {
+          "name": "DJ Terry",
+          "url": "https://open.spotify.com/artist/49vRRr0jNCPO794NATNr3j"
+        },
+        {
+          "name": "Audiosonik",
+          "url": "https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob"
+        }
+      ],
+      "duration_ms": 130064,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/6tVqNBMVnZ450VWRPD4IjE"
+    },
+    {
+      "added_at": "2025-12-12 14:28:36",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/7IXqvhtS7efbGn04aAQuyA"
+      },
+      "artists": [
+        {
+          "name": "Josh Le Tissier",
+          "url": "https://open.spotify.com/artist/69pPboQes8it3uCuKTF3l9"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "duration_ms": 176598,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/1GrI4HwpfXRGzgyw7IYSHu"
+    },
+    {
+      "added_at": "2025-12-12 13:28:40",
+      "album": {
+        "name": "You & Me (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/1FOMConpwgbEszaYCh8O3y"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "You & Me - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/4zedwYjb2LIdPBmfOeyXW5"
+    },
+    {
       "added_at": "2025-12-04 23:20:14",
       "album": {
         "name": "Entrance",
@@ -209,6 +485,58 @@
       "url": "https://open.spotify.com/track/61qsLCbqMIYKWcHi0QRv9q"
     },
     {
+      "added_at": "2025-12-12 13:57:52",
+      "album": {
+        "name": "Degenerate EP",
+        "url": "https://open.spotify.com/album/5cZ5BhZxEIWoeQnjOZIU56"
+      },
+      "artists": [
+        {
+          "name": "SageThaCat",
+          "url": "https://open.spotify.com/artist/64GvJ64ukDo3TkO9ofKpB9"
+        }
+      ],
+      "duration_ms": 330327,
+      "name": "Degenerate",
+      "url": "https://open.spotify.com/track/7EQdl7tcFGrMMvZGWFEp6S"
+    },
+    {
+      "added_at": "2025-12-12 13:50:32",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4x2JNectnsXcwXsloJiU3f"
+      },
+      "artists": [
+        {
+          "name": "NO. SYGNL",
+          "url": "https://open.spotify.com/artist/1tJIyQ7VJERr5YGEKpgmun"
+        },
+        {
+          "name": "FAME Sounds",
+          "url": "https://open.spotify.com/artist/47gZgELu7feCG8NwdhoNF2"
+        }
+      ],
+      "duration_ms": 268567,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1cz3L1SLXxv75C1AFzhr6k"
+    },
+    {
+      "added_at": "2025-12-12 13:43:51",
+      "album": {
+        "name": "Floripa",
+        "url": "https://open.spotify.com/album/6ZkUKhHZbB6n8NfXQiCb0o"
+      },
+      "artists": [
+        {
+          "name": "Nico Rac",
+          "url": "https://open.spotify.com/artist/4WZFhmAoGSoaiHksHecmI2"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Floripa",
+      "url": "https://open.spotify.com/track/6OwcaHS5DSGDvaI6ew4WS3"
+    },
+    {
       "added_at": "2025-11-20 23:20:01",
       "album": {
         "name": "Dile",
@@ -227,6 +555,22 @@
       "duration_ms": 178125,
       "name": "Dile",
       "url": "https://open.spotify.com/track/0c9hvmmhhfXHUMPlTtjE16"
+    },
+    {
+      "added_at": "2025-12-12 13:43:51",
+      "album": {
+        "name": "SUBCULTURE II",
+        "url": "https://open.spotify.com/album/54JYuOq7VcqsajFLkDRB8S"
+      },
+      "artists": [
+        {
+          "name": "Tom Higham",
+          "url": "https://open.spotify.com/artist/3dslzTxmZBWNYC01iMn3tr"
+        }
+      ],
+      "duration_ms": 242834,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/38rX152FJlpfV5ArNjr5mi"
     },
     {
       "added_at": "2025-11-27 23:20:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,267 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,280 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 31 | [Elevando Rango](https://open.spotify.com/track/52DOAxLyM09nzSJlq0x1iy) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 2:56 |
 | 32 | [Intro](https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 2:12 |
 | 33 | [Cupcake Factory](https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa' Largo](https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV) | 2:44 |
-| 34 | [Seguimos Dando Lata](https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:25 |
-| 35 | [HASHERO](https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:58 |
+| 34 | [HASHERO](https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:58 |
+| 35 | [Seguimos Dando Lata](https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:25 |
 | 36 | [Amor Tirano](https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0) | [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Amor Tirano \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN) | 3:06 |
 | 37 | [Gelatti](https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:00 |
 | 38 | [Corazón Cromado](https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Buena Vida Mala Fama](https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 2:32 |
 | 50 | [NO VAN A PODER](https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa Largo 2](https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB) | 3:13 |
 
-Snapshot ID: `aTi4AAAAAADmwe2/ugEmmnc2cbm8UX9n`
+Snapshot ID: `aToJgAAAAAAjvaUqs38a6wXLqYFG4NXL`

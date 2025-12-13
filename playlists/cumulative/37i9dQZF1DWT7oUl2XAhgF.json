@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Chocolate Woman",
+        "url": "https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170062,
+      "name": "Chocolate Woman",
+      "url": "https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 279000,
       "name": "Defence",
       "url": "https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 219256,
       "name": "Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ"
@@ -8998,6 +9016,24 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+    },
+    {
+      "album": {
+        "name": "Tears Don't Pretend",
+        "url": "https://open.spotify.com/album/5Xjbs1kFBfCGntqFhGm3Ve"
+      },
+      "artists": [
+        {
+          "name": "Cayden Cruz",
+          "url": "https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192239,
+      "name": "Tears Don't Pretend",
+      "url": "https://open.spotify.com/track/3HeEZrQgbpqWnK3F80yTW2"
     },
     {
       "album": {

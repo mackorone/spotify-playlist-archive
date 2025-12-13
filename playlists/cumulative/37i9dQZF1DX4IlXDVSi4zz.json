@@ -2911,6 +2911,28 @@
     },
     {
       "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
+      "album": {
         "name": "Jolie Fille",
         "url": "https://open.spotify.com/album/7x1lI7V6hPlNkQtcuRCrnV"
       },
@@ -4468,7 +4490,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
@@ -5133,6 +5155,32 @@
     },
     {
       "album": {
+        "name": "Si ma\u00f1ana me muero",
+        "url": "https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198515,
+      "name": "Si ma\u00f1ana me muero",
+      "url": "https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT"
+    },
+    {
+      "album": {
         "name": "Si Te Portas Bonito",
         "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
       },
@@ -5712,7 +5760,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,784 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,765 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 32 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
 | 33 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
 | 34 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
-| 35 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
+| 35 | [Miracle](https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7) | 3:36 |
 | 36 | [In The Stars](https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [In The Stars](https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ) | 2:39 |
-| 37 | [Miracle](https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7) | 3:36 |
+| 37 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
 | 38 | [Lonestar](https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations \(Outtakes Edition\)](https://open.spotify.com/album/0H7Ygy8UZ1FBz5N2LKRpjq) | 2:53 |
 | 39 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 | 40 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |

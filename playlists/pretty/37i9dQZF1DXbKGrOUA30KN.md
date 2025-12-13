@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,529 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,490 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weißt du noch](https://open.spotify.com/track/5bLvhFCTpEltJ1pMDxkzM8) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [](https://open.spotify.com/album/null) | 2:27 |
+| 1 | [Weißt du noch](https://open.spotify.com/track/5bLvhFCTpEltJ1pMDxkzM8) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Worte wie Messer \(Bonus Edition\)](https://open.spotify.com/album/49Lx7pCvOxML4tTaacJ1Gq) | 2:27 |
 | 2 | [ich brauch dich.](https://open.spotify.com/track/1s4T9OQo5ffusLx3KEN1Sq) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [ich brauch dich.](https://open.spotify.com/album/0uH1HmKWnNiFsSmcoPCEkg) | 2:26 |
 | 3 | [VERLIEBT IN MICH](https://open.spotify.com/track/1XZK1B904mtFv1Ze3Rgeg2) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERLIEBT IN MICH](https://open.spotify.com/album/1mgjUkBHhJLQlrcxtC3QOX) | 2:09 |
 | 4 | [du tust gut](https://open.spotify.com/track/6o3SDKyhafgyblwMkZouHF) | [Lea Marie](https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk) | [du tust gut](https://open.spotify.com/album/46c3AxzJUt0AGDA4fHHxvX) | 2:16 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 26 | [Eigentlich wollte ich dir nie sagen](https://open.spotify.com/track/6HuaKPtc8djPMFirBUydm8) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Die Wollen Nur Spielen](https://open.spotify.com/album/5eggIcGiHPUAzuXmhSDXdI) | 2:50 |
 | 27 | [ICH HAB'S GUT, ICH HAB DICH](https://open.spotify.com/track/4YRZjTbW4ZKJvlKkxDNSZm) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [ICH HAB'S GUT, ICH HAB DICH](https://open.spotify.com/album/0HwmC3bl3rmAWjUh2yevdm) | 2:25 |
 | 28 | [Kirche im Dorf](https://open.spotify.com/track/4BDbZRfPnE3tYFD5MGFLbQ) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kirche im Dorf](https://open.spotify.com/album/3LFrLwQoU0wWUILZrOxYLh) | 2:35 |
-| 29 | [Du Liebst Mich Nicht](https://open.spotify.com/track/07uJuElrOlCGJwOHwzCTry) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl), [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [](https://open.spotify.com/album/null) | 3:15 |
+| 29 | [Du Liebst Mich Nicht](https://open.spotify.com/track/07uJuElrOlCGJwOHwzCTry) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl), [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 3:15 |
 | 30 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
 | 31 | [Heiß für mich](https://open.spotify.com/track/6X7nt1o6fH3oJ7UtH5t5g7) | [Bekkaa](https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ) | [Verliebst du dich, oder andersrum?](https://open.spotify.com/album/6FvTWLTSVN9AC3azVaVkZq) | 2:16 |
 | 32 | [Herz über Kopf](https://open.spotify.com/track/4Lpps50Ott94n1tN80qfuQ) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Herz über Kopf](https://open.spotify.com/album/7znwSVvZI4KMZwMbbym5Ew) | 2:38 |

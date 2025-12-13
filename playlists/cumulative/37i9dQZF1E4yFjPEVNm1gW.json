@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Nightmare On Gardens St",
+        "url": "https://open.spotify.com/album/5MUtxI5q19RNyq0ySlrBID"
+      },
+      "artists": [
+        {
+          "name": "YDG Breezy",
+          "url": "https://open.spotify.com/artist/40wED5G8ggmynCzzr6Z9bM"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154991,
+      "name": "Boys Don\u2019t Cry",
+      "url": "https://open.spotify.com/track/0uNKyWtOudnH1fnNlwHywQ"
+    },
+    {
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -1045,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Lost files Vol. 2",
+        "url": "https://open.spotify.com/album/6G62ygAvnWxyTYuindGrkC"
+      },
+      "artists": [
+        {
+          "name": "RENACIDO",
+          "url": "https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194674,
+      "name": "pullover",
+      "url": "https://open.spotify.com/track/25dCnQCi1BYk3Rg3DpAeUE"
+    },
+    {
+      "album": {
         "name": "pullover",
         "url": "https://open.spotify.com/album/5gPtUIQ2sWCGhiN70fpvPM"
       },
@@ -1056,7 +1092,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 194674,
       "name": "pullover",
       "url": "https://open.spotify.com/track/3sutTCSvKj2yg44bDlxeh4"
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 120214,
       "name": "The Final Agenda",
       "url": "https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps"
@@ -1320,7 +1356,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 217685,
       "name": "vibe",
       "url": "https://open.spotify.com/track/5xOizHnjd92FNm6ruDUYSD"

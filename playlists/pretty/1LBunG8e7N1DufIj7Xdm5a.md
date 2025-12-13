@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 241 likes - 3,762 songs - 8 day 7 hr 20 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 3,765 songs - 8 day 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3770,5 +3770,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3760 | [Zeno Dino Spadaccino](https://open.spotify.com/track/2FVj1fRBJ53SSJZPGHOOdJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zeno Dino Spadaccino](https://open.spotify.com/album/6stjLmCpYUc0JU39BEpOdV) | 2:09 |
 | 3761 | [tum tum switch 2](https://open.spotify.com/track/63N2zHOulZp2WqaRIvDLKM) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI](https://open.spotify.com/album/5AOBcj2GRF9pJrZw44Vodc) | 2:14 |
 | 3762 | [Poveri Noi](https://open.spotify.com/track/5adhTQAbIkuN2bHcvYqDLb) | [VARTA74](https://open.spotify.com/artist/1WLPGXeBf0LMnggYMRVaJQ) | [Veleno](https://open.spotify.com/album/0O841AhpGlbaNL3zmfwCvZ) | 3:51 |
+| 3763 | [Help Me](https://open.spotify.com/track/08w0tzlysH3JZuzA46SLMe) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Help Me](https://open.spotify.com/album/79lQhXbWbjmao6F1MnCZ5X) | 4:02 |
+| 3764 | [Hidden Love](https://open.spotify.com/track/1lJaX742mJqBWcHimk70UY) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Hidden Love](https://open.spotify.com/album/3FbgJD5QIG3YaDSk6fsJ1n) | 3:23 |
+| 3765 | [Life Is Beautiful](https://open.spotify.com/track/4uUybQP3xXImQqJ4gxJOmY) | [C\_J](https://open.spotify.com/artist/2YVPBrRzDMRfRimq2jCUxD) | [Life Is Beautiful](https://open.spotify.com/album/4tXUxUM2PDXb2Dt2SYoET3) | 4:22 |
 
-Snapshot ID: `AAAGOy1mAyj19+ZDf8hb/NSd1nmSTgHl`
+Snapshot ID: `AAAGPiR5yH8Y1KeoR7B9l1xzwaYu4rwm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: ksmartboi\(김상민그는감히전설이라고할수있다\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,929 likes - 105 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,841 likes - 105 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 6 | [LIFES LIKE \(Feat\. LEY\)](https://open.spotify.com/track/20iyyFjIIZX36Psxj0SQyt) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [LEY](https://open.spotify.com/artist/5eHVUKdCnl66gpjClBrYO0) | [LIFES LIKE \(Feat\. LEY\)](https://open.spotify.com/album/1FGmCMQGmwl3AlS6OttUhI) | 2:37 |
 | 7 | [KILL](https://open.spotify.com/track/1TlxJTl12nTgCI0HxwRUpo) | [UNEDUCATED KID](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [MZ](https://open.spotify.com/album/0zAbsoJKJ1UlYTJpONyuVY) | 2:12 |
 | 8 | [WHERE YOU AT](https://open.spotify.com/track/0BIutvdEclGIwaFeekFNCC) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [ANNIE](https://open.spotify.com/artist/4w6pewq4FAdlIHxweADBh4), [WOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc) | [ALLDAY PROJECT](https://open.spotify.com/album/2llGDqePFTgjCIxOW1RehG) | 2:42 |
-| 9 | [Plan A\-Z \(feat\. TOMMY YANG\)](https://open.spotify.com/track/2hDV7WwnfDee8vsqFmpSuQ) | [Dakshood](https://open.spotify.com/artist/6b4WPegL279naR6cGRgo90), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y) | [Plan A\-Z \(feat\. TOMMY YANG\)](https://open.spotify.com/album/0o8tOqcK0CgIKxp4iyvsrr) | 2:07 |
+| 9 | [Plan A\-Z \(feat\. TOMMY YANG\)](https://open.spotify.com/track/2hDV7WwnfDee8vsqFmpSuQ) | [Dakshood](https://open.spotify.com/artist/6b4WPegL279naR6cGRgo90), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y) | [Plan A\-Z \(feat\. TOMMY YANG\)](https://open.spotify.com/album/0o8tOqcK0CgIKxp4iyvsrr) | 2:06 |
 | 10 | [LIT](https://open.spotify.com/track/2IvMayUNvcBnQDQM0VQO7a) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [LIT](https://open.spotify.com/album/6g7UQY5P57dq99rQPHb2zi) | 3:23 |
 | 11 | [KrOWN\_pH\-1](https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KrOWN Audio liner](https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz) | 0:02 |
 | 12 | [MEDUSA](https://open.spotify.com/track/6YROWWkBbP4IXigWzVa5Lj) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2), [TARZZAN](https://open.spotify.com/artist/1A6LzcBnzxNf5phjx1ZSPr) | [ALLDAY PROJECT](https://open.spotify.com/album/2llGDqePFTgjCIxOW1RehG) | 2:23 |

@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-495 songs - 1 day 4 hr 55 min
+496 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Better Off](https://open.spotify.com/track/0ucPJRg36w8HDRwi1GzYlQ) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Better Off](https://open.spotify.com/album/2Fl0KLMRuSOjCsUMKACIKJ) | 2:54 | 2022-11-25 | 2023-03-04 |
 | [BLACCJACK THE MAC](https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [BLACCJACK THE MAC](https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM) | 2:17 | 2024-01-19 | 2024-02-17 |
 | [BLACK JAMES DEAN](https://open.spotify.com/track/16WZ9KBCv48ChvdyuSpZcH) | [Gerard Alain](https://open.spotify.com/artist/2M1iqciaWLU8JSGJgFvhKx) | [BLACK JAMES DEAN](https://open.spotify.com/album/4YzlTpKfVP21MWqv9MBEp6) | 2:33 | 2023-09-29 |  |
+| [Blame It On The Moon](https://open.spotify.com/track/1dVkXJh3lQnnybKKbKyT65) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Blame It On The Moon](https://open.spotify.com/album/2UBLrV1nUoxMq8n8pYQPRC) | 3:00 | 2025-12-12 |  |
 | [Blast Off](https://open.spotify.com/track/0szDyQC4IcwNJZVwgagtrm) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs) | [Blast Off](https://open.spotify.com/album/4H3PVX3Zks7zFo7fj252J0) | 1:48 | 2022-04-22 | 2023-04-29 |
 | [Bloom](https://open.spotify.com/track/6fpIcWxRGGqa681gUHJonh) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Horizons](https://open.spotify.com/album/3wmbsIFbLZ5FLT55iqB9KL) | 3:03 | 2020-11-20 | 2022-04-09 |
 | [Body Heat](https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Body Heat](https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu) | 3:21 | 2024-03-15 | 2024-04-13 |
@@ -269,7 +270,7 @@
 | [Lockstep](https://open.spotify.com/track/7y6fgrmnX6HF4pbyQugSTQ) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/7boixvIKSl9OEnvnsJNws6) | [Lockstep](https://open.spotify.com/album/5iH6tJElNHGHMrUEmpgs6j) | 5:18 | 2023-09-08 | 2024-05-25 |
 | [Lola](https://open.spotify.com/track/5wncqbdGEyrmowwIGddZCs) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Lola](https://open.spotify.com/album/2eMcFHmOIAepZqmlt15wOY) | 3:32 | 2024-05-17 | 2024-07-06 |
 | [Look Around](https://open.spotify.com/track/4cH9h6nvtxYNo450VXEo1s) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Look Around](https://open.spotify.com/album/6ttL4crGEJOfpcIiEVQFmM) | 3:41 | 2024-03-22 | 2024-10-05 |
-| [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 | 2023-05-23 |  |
+| [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 | 2023-05-23 | 2025-12-13 |
 | [Look In The Mirror](https://open.spotify.com/track/6rwRf8DFQsadNxevwfUcSX) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Analog Love](https://open.spotify.com/album/5g9mJsxT9wg3SyBbeAPUmx) | 4:13 | 2024-04-12 |  |
 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 | 2025-01-10 |  |
 | [Lost And Found](https://open.spotify.com/track/29Ll2LiajriSkFHX3SIgK2) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Adult Contemporary](https://open.spotify.com/album/3QtPRkz8qZRSxy0slIW1Ea) | 3:34 | 2024-02-16 |  |

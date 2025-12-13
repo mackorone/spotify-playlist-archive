@@ -1,13 +1,73 @@
 {
-  "description": "New jazz for open minds. Cover: Out Of/Into",
-  "num_followers": 950160,
+  "description": "New jazz for open minds. Cover: Joel Ross",
+  "num_followers": 950174,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOxJ/wvEXtuQYUuLL0FoeR8oiyc",
+  "snapshot_id": "AAAAADwoMXybZwby+h9WBLY4Bmozq/B+",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:30:00",
+      "album": {
+        "name": "Wisdom Is Eternal (For Barry Harris)",
+        "url": "https://open.spotify.com/album/07PWUfIc6P2tDrzoEusUyx"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 273190,
+      "name": "Wisdom Is Eternal (For Barry Harris)",
+      "url": "https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7"
+    },
+    {
+      "added_at": "2025-12-12 05:30:00",
+      "album": {
+        "name": "Talking Drum",
+        "url": "https://open.spotify.com/album/3YRPgLHPObFfpBEUrcGThH"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "duration_ms": 306733,
+      "name": "Talking Drum",
+      "url": "https://open.spotify.com/track/0lLFgw2lZ6W2UVuITu4wAU"
+    },
+    {
+      "added_at": "2025-12-12 05:30:00",
+      "album": {
+        "name": "Scurry",
+        "url": "https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley Trio",
+          "url": "https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl"
+        }
+      ],
+      "duration_ms": 189548,
+      "name": "Scurry",
+      "url": "https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce"
+    },
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
@@ -1397,22 +1457,6 @@
       "url": "https://open.spotify.com/track/4GWcQfqUzEIGsx2xFuJjcF"
     },
     {
-      "added_at": "2025-05-23 04:00:21",
-      "album": {
-        "name": "Get Deep",
-        "url": "https://open.spotify.com/album/7siqN6LqKZ0EOrrOMfgtdo"
-      },
-      "artists": [
-        {
-          "name": "Abi Flynn",
-          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
-        }
-      ],
-      "duration_ms": 280639,
-      "name": "Get Deep",
-      "url": "https://open.spotify.com/track/4TdW6NTxwtGSFj0wHTG6sZ"
-    },
-    {
       "added_at": "2025-05-16 04:00:24",
       "album": {
         "name": "BEATrio",
@@ -1677,34 +1721,6 @@
       "url": "https://open.spotify.com/track/56s77gCsfmyzy3yFnQuJza"
     },
     {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
-        "name": "Gen",
-        "url": "https://open.spotify.com/album/68o6ZyxXi2hvjV0J3MwfDs"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        },
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        },
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Sam Wilkes",
-          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Mad Hope (feat. Louis Cole, Sam Gendel, Sam Wilkes)",
-      "url": "https://open.spotify.com/track/1sbgtxMmPxua3m0H2Gc1P1"
-    },
-    {
       "added_at": "2025-05-30 04:06:51",
       "album": {
         "name": "Ones & Twos (Expanded Edition)",
@@ -1887,22 +1903,6 @@
       "duration_ms": 401851,
       "name": "One Flight Down",
       "url": "https://open.spotify.com/track/6MSjTb94GT8FHLNLwVjaT2"
-    },
-    {
-      "added_at": "2025-05-16 04:00:24",
-      "album": {
-        "name": "Out Late",
-        "url": "https://open.spotify.com/album/1XGB8a1AizLa9i0Dg9l0Y4"
-      },
-      "artists": [
-        {
-          "name": "Eric Scott Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 390360,
-      "name": "The Weirdos",
-      "url": "https://open.spotify.com/track/72d2OHopugpvkGhYRJcrCw"
     },
     {
       "added_at": "2025-08-01 04:00:35",

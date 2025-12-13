@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05d9\u05dc\u05d9\u05d9 \u05d0\u05e9\u05d3\u05d5\u05ea",
-  "num_followers": 32987,
+  "num_followers": 32992,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
-      "url": "https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
         "name": "\u05d0\u05d9 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05dc \u05e1\u05d5\u05e1 \u05e4\u05e8\u05d0",
         "url": "https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 235909,
       "name": "\u05d2\u05f3\u05d9\u05df",
       "url": "https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -755,6 +755,38 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
+        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
         "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
         "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
       },
@@ -779,38 +811,6 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
-        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
         "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N"
-      },
-      "artists": [
-        {
-          "name": "Ester Rada",
-          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
-        }
-      ],
-      "duration_ms": 239061,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
         "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 197045,
       "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
       "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N"
+      },
+      "artists": [
+        {
+          "name": "Ester Rada",
+          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+        }
+      ],
+      "duration_ms": 239061,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI"
     },
     {
       "added_at": "2025-12-11 22:00:31",

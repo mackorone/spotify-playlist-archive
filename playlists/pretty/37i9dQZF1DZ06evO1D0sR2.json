@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3159,
+  "num_followers": 3161,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADrKiBvxW25caW+IQlJDQtm",
+  "snapshot_id": "aToJgAAAAAB6SOHQ93Rc9k61Ez8+KwB/",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Capria McClearn",
-          "url": "https://open.spotify.com/artist/74YJpV6kEtx5uvhF8J0LgG"
-        }
-      ],
-      "duration_ms": 537350,
-      "name": "Great Jehovah",
-      "url": "https://open.spotify.com/track/10YvnsJrmC4DOCoPaUZBnW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After This",
         "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 473893,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/17JFCuaVADnXtNWZ9P3sUN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Capria McClearn",
+          "url": "https://open.spotify.com/artist/74YJpV6kEtx5uvhF8J0LgG"
+        }
+      ],
+      "duration_ms": 537350,
+      "name": "Great Jehovah",
+      "url": "https://open.spotify.com/track/10YvnsJrmC4DOCoPaUZBnW"
     },
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        }
+      ],
+      "duration_ms": 378733,
+      "name": "Lord Of All",
+      "url": "https://open.spotify.com/track/7uTHmhmXrgUyv9mqG30Mcv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Live Reunion: Washington, DC (Live / Deluxe)",
         "url": "https://open.spotify.com/album/7G1WmscmNcBMU1hYpdext6"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 392258,
       "name": "Garment Of Praise - Live",
       "url": "https://open.spotify.com/track/4ekXmMuGkRpjvf0EdyYYtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After This",
-        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        }
-      ],
-      "duration_ms": 378733,
-      "name": "Lord Of All",
-      "url": "https://open.spotify.com/track/7uTHmhmXrgUyv9mqG30Mcv"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 312624,
-      "name": "No Reason To Fear",
-      "url": "https://open.spotify.com/track/6rmSwRU0TenwtqwJjvMS5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After This",
         "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 400040,
       "name": "After This",
       "url": "https://open.spotify.com/track/729ts9ozZsJrALyWt42wHl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 312624,
+      "name": "No Reason To Fear",
+      "url": "https://open.spotify.com/track/6rmSwRU0TenwtqwJjvMS5n"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 340431,
-      "name": "Blood Still Works",
-      "url": "https://open.spotify.com/track/5udnzt45TCAMZDwwV9C822"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 710916,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 340431,
+      "name": "Blood Still Works",
+      "url": "https://open.spotify.com/track/5udnzt45TCAMZDwwV9C822"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again, Vol. II",
-        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
       "artists": [
         {
@@ -740,17 +740,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Demarcus Kelly",
-          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "JaNae Jones",
-          "url": "https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv"
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         }
       ],
-      "duration_ms": 292276,
-      "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
-      "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
+      "duration_ms": 402946,
+      "name": "Awe Of You",
+      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
     },
     {
       "added_at": null,
@@ -819,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Demarcus Kelly",
+          "url": "https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf"
+        },
+        {
+          "name": "JaNae Jones",
+          "url": "https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv"
+        }
+      ],
+      "duration_ms": 292276,
+      "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
+      "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 747716,
       "name": "Not Holding Back",
       "url": "https://open.spotify.com/track/0CM8AO4xLnxdDPjiUPYP5K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 402946,
-      "name": "Awe Of You",
-      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
     },
     {
       "added_at": null,

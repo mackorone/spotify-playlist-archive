@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:5s0KzuOGSEtSCnuj7X6nHI">DANIEL OKARO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

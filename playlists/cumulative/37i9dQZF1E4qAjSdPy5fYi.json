@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With UrvTek, STYXVII, Joshua Lanuarii and more",
+  "description": "With UrvTek, Joshua Lanuarii, STYXVII and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 117931,
       "name": "BOARD GAME",
       "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 172109,
       "name": "Catdelions IIS",
       "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "Choker",
       "url": "https://open.spotify.com/track/51LrY0DllvahLhlbiqqaO1"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 175609,
       "name": "Digital Hell (KinitoPET Song)",
       "url": "https://open.spotify.com/track/2Ydn79hWyJuzElWRk0sO0Z"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 168428,
       "name": "Dumbass of the Century",
       "url": "https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI"
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 101668,
       "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
       "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
@@ -3770,7 +3770,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -3818,6 +3818,24 @@
       "duration_ms": 172063,
       "name": "PUPPYPLAY!",
       "url": "https://open.spotify.com/track/0RdfDzFw6NHp3nUX99cOr4"
+    },
+    {
+      "album": {
+        "name": "The New 4lung Album",
+        "url": "https://open.spotify.com/album/22c09N3mhbcRXuk7QGzfxe"
+      },
+      "artists": [
+        {
+          "name": "4lung",
+          "url": "https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Raccoon Tails & Knotted Dicks",
+      "url": "https://open.spotify.com/track/64opscMZGO282zh8UwINxp"
     },
     {
       "album": {
@@ -4330,7 +4348,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 118299,
       "name": "TBH",
       "url": "https://open.spotify.com/track/63UApHP3z3JkF5uuG3A7U4"
@@ -4352,7 +4370,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "TEAMKILL",
       "url": "https://open.spotify.com/track/0MBOXINSGW2hkkoAiMJU31"
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"

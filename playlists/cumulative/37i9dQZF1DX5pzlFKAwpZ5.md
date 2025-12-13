@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-350 songs - 1 day 1 hr 32 min
+352 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [comfort](https://open.spotify.com/track/06DnxCJSjX1DYH5ED6cfW3) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [comfort/orb](https://open.spotify.com/album/6bcHOdTZPdIrOgJ4vlNo5u) | 1:43 | 2025-09-18 | 2025-12-07 |
 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 | 2022-01-07 |  |
 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 | 2022-01-07 | 2023-04-22 |
+| [Cosmology](https://open.spotify.com/track/5PezNVuaf9gjU1BHqLaU5x) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Cosmology](https://open.spotify.com/album/6Gk5jF93sKQxUu955R1Ktb) | 4:12 | 2025-12-12 |  |
 | [Cycle](https://open.spotify.com/track/23HQOR3hBeeLbXdmcPQA8m) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 3:52 | 2022-12-30 | 2025-03-07 |
 | [Daikai](https://open.spotify.com/track/2bHwzoWqNUR18TgPJM8877) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Hyogo](https://open.spotify.com/album/3QKWWbpKINycE4QcCpgoDr) | 7:48 | 2022-01-07 | 2023-09-23 |
 | [dama](https://open.spotify.com/track/4Xri8RbDoyznZ2HZeQaSlh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Midori](https://open.spotify.com/album/1dSDUX6GkjFVeQtNjWYVKt) | 3:08 | 2022-01-07 | 2022-02-23 |
@@ -211,7 +212,7 @@
 | [orei](https://open.spotify.com/track/2jq6SDNBxog4cBkAeElVjd) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Ukatu](https://open.spotify.com/album/0q439Ua2fXGsQj3ysOX0p1) | 2:33 | 2023-09-22 |  |
 | [Orientate](https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 5:02 | 2022-12-30 | 2023-08-19 |
 | [Origami Rework](https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Origami Rework](https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3) | 3:05 | 2023-01-27 |  |
-| [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 |  |
+| [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 | 2025-12-13 |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-12-20 |  |
 | [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 | 2025-02-11 |  |
 | [Planet](https://open.spotify.com/track/33gZGbCutucohDi5fkTUsq) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Planet](https://open.spotify.com/album/1xoFs7J2CsodEOhBEUM3tE) | 3:25 | 2025-01-13 |  |
@@ -292,7 +293,7 @@
 | [The Taste Blends in](https://open.spotify.com/track/08JSkuAqcWuqX2QHgCxcnG) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Life Album](https://open.spotify.com/album/7bykpXTTFEZze1sWZ0ikpu) | 3:15 | 2022-01-07 |  |
 | [Thousand Bells, Pt\. 1](https://open.spotify.com/track/066LIufqmFNfiXv6p7SMru) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e), [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Thousand Bells](https://open.spotify.com/album/0UdrYgVmphq6PxnWfYC4We) | 3:50 | 2023-10-02 |  |
 | [Time](https://open.spotify.com/track/6vY9hR2JMxFoWncntRAG2p) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Size](https://open.spotify.com/album/4fic5J6NkTKLcb93LcnfR9) | 3:02 | 2022-04-08 | 2023-07-07 |
-| [Time of Bliss](https://open.spotify.com/track/5ogmYi51av81lCTh4oujTI) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Draw a Sleeps](https://open.spotify.com/album/2YQT0iwuaoSWLy1z0D9jrp) | 3:16 | 2022-01-07 |  |
+| [Time of Bliss](https://open.spotify.com/track/5ogmYi51av81lCTh4oujTI) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Draw a Sleeps](https://open.spotify.com/album/2YQT0iwuaoSWLy1z0D9jrp) | 3:16 | 2022-01-07 | 2025-12-13 |
 | [TO THE AIR／空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE（マーキュリック・ダンス～躍動の踊り）](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 | 2022-12-30 |  |
 | [Toki](https://open.spotify.com/track/0ReWX0v7kFY6ZI50RYv1fU) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Memoride 2](https://open.spotify.com/album/4w9R8sopCqODkiYw6ZhdMz) | 1:38 | 2025-12-02 |  |
 | [Tokiori](https://open.spotify.com/track/5agITFAPA4Y0zuSUHTDwf4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Huwa](https://open.spotify.com/album/0w7XCXbHXRfTSixvZCdCHr) | 3:16 | 2022-01-07 | 2022-02-23 |
@@ -316,6 +317,7 @@
 | [Unexpected](https://open.spotify.com/track/4dEaEf5BHeVegBLSjDxz6s) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa), [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Unexpected](https://open.spotify.com/album/3T1YzxxMKpRbyGmmJhJw52) | 4:06 | 2022-10-15 | 2023-08-19 |
 | [Until the End of the World](https://open.spotify.com/track/6zC5XZfQBCbLTsx9l9lrEu) | [Masahiro Sugaya](https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1) | [Horizon, Volume 1](https://open.spotify.com/album/0Tvs4LpQSHSH1gcfVdF3WV) | 6:04 | 2022-12-30 | 2025-03-07 |
 | [Uprise](https://open.spotify.com/track/6Irafr3hWhoQOgWkNUQXIr) | [Keigo Tanaka](https://open.spotify.com/artist/6t4tsh9Xx0oPZQayHbxLb3) | [Uprise](https://open.spotify.com/album/4KZAgayKyBYJaD4ZQ9cxH2) | 8:15 | 2022-03-25 |  |
+| [Variation I](https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [eau](https://open.spotify.com/album/7cFPblcCkLc6105lfgAP2o) | 5:54 | 2025-12-12 |  |
 | [Veil](https://open.spotify.com/track/59fyg6qoudEnDdbZFTnifW) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:06 | 2022-10-15 |  |
 | [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 | 2025-08-01 |  |
 | [Vertigo 1](https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Vertigo](https://open.spotify.com/album/0ODGgBETKrOrUgakvvvTxF) | 2:58 | 2023-03-11 | 2023-08-25 |

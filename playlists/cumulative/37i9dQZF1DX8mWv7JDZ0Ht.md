@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Benziê
 
-884 songs - 1 day 20 hr 8 min
+885 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Cortejo](https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Cortejo](https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF) | 2:49 | 2023-12-01 | 2024-06-22 |
 | [Covarde](https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Covarde](https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL) | 3:15 | 2022-06-03 | 2022-10-11 |
 | [Covardia](https://open.spotify.com/track/4nr5wacC92Umr7cdgaCkjT) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Tudo Tá Fluindo](https://open.spotify.com/album/0vRj7ptVpmXlF4dFP4MRVu) | 2:43 | 2023-05-12 | 2023-06-10 |
+| [Crime](https://open.spotify.com/track/5cHRbVm2Ee0pPFF7DqqLrQ) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [foto em grupo](https://open.spotify.com/album/302b3oa2S1hTgUHPWX9Iim) | 3:44 | 2025-12-12 |  |
 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 | 2024-11-15 | 2025-10-24 |
 | [Culpado](https://open.spotify.com/track/19ZlB2NOx118fs8YBKm155) | [Izzy](https://open.spotify.com/artist/53qvaeHTtdkKmzXPMMaImN), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Culpado](https://open.spotify.com/album/3VNqH2ZaJVBptOxIuXnCqI) | 3:00 | 2024-06-21 | 2024-09-21 |
 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 | 2023-06-03 |
@@ -274,7 +275,7 @@
 | [Do Jeito Que Você Me Ilude](https://open.spotify.com/track/2FFaJrEQven5YnYcRL7U5r) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Do Jeito Que Você Me Ilude](https://open.spotify.com/album/4xZzsW2CUOKRSEkPaIemmr) | 2:35 | 2022-05-13 | 2022-06-15 |
 | [do raso ao fundo](https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [do raso ao fundo](https://open.spotify.com/album/4sFjKzaNO0TAS6y8MPKUfK) | 4:05 | 2025-04-25 | 2025-12-12 |
 | [Doce \- Ao Vivo](https://open.spotify.com/track/7ybk5hOq9uGrMMw3ICXzey) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Bia Marques Sessions \(Ao Vivo\)](https://open.spotify.com/album/4FxJpaUTrbHY6jbD7c3BD4) | 2:25 | 2024-06-28 | 2024-10-05 |
-| [Doce Feito Caramelo](https://open.spotify.com/track/1w8UpTJKWx6PD00ODGsqEb) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Doce Feito Caramelo](https://open.spotify.com/album/5CsrNWDoLS1aD2EzQqJwll) | 2:46 | 2025-10-10 |  |
+| [Doce Feito Caramelo](https://open.spotify.com/track/1w8UpTJKWx6PD00ODGsqEb) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Doce Feito Caramelo](https://open.spotify.com/album/5CsrNWDoLS1aD2EzQqJwll) | 2:46 | 2025-10-10 | 2025-12-13 |
 | [Doideira](https://open.spotify.com/track/4aodXHEeYiQHyLBc0ElCX3) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Doideira](https://open.spotify.com/album/6911oHZwSo1MXBOhnocMbN) | 2:37 | 2022-06-17 | 2023-01-21 |
 | [domingo](https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [domingo](https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T) | 4:10 | 2024-12-13 | 2025-05-17 |
 | [Dona de Mim](https://open.spotify.com/track/1Uoy9jGX9JcYnMQk15HYvT) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns) | [Dona de Mim](https://open.spotify.com/album/0Zx3yoffLuua8XnnuBYyEq) | 2:51 | 2023-01-27 | 2023-02-04 |

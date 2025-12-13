@@ -4,7 +4,7 @@
 
 > Enjoy music and podcast from Jujutsu Kaisen!
 
-250 songs - 1 day 0 hr 20 min
+251 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Be Prepared](https://open.spotify.com/track/6s054FcTsu9gFk5EgvZ7d9) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 3:06 | 2022-03-07 | 2024-04-19 |
 | [Beautiful Dreamer](https://open.spotify.com/track/1C1EpfFyHscxXSlHjsuUsX) | [Chorus](https://open.spotify.com/artist/1hZl95Cl9a9ud87rYLt4Su) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:02 | 2023-08-04 | 2024-01-24 |
 | [Beautiful Dreamer](https://open.spotify.com/track/7pq5KIOGFJ6NODYawc3trP) | [Chorus](https://open.spotify.com/artist/1hZl95Cl9a9ud87rYLt4Su) | [「呪術廻戦 懐玉・玉折」オリジナル・サウンドトラック](https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20) | 2:02 | 2023-08-04 | 2023-08-06 |
+| [Chained Chase](https://open.spotify.com/track/3zsNRpuT0jBMgd6v3o6nye) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Chained Chase](https://open.spotify.com/album/0rtRF0cLGhKMLUsbfH1rKz) | 3:15 | 2025-12-12 |  |
 | [Contact](https://open.spotify.com/track/4cZPf5cN4RzJyRqtPnLKM9) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [JUJUTSU KAISEN 0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU) | 2:23 | 2022-03-07 | 2024-01-24 |
 | [Contact](https://open.spotify.com/track/6hZcSE5QkC2lBsESf95ahm) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [『劇場版 呪術廻戦 0』オリジナル・サウンドトラック](https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso) | 2:23 | 2022-03-07 | 2022-07-29 |
 | [Cursed Speech](https://open.spotify.com/track/2aaAuQywfLoXGEP1Plg7yf) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『劇場版 呪術廻戦 0』オリジナル・サウンドトラック](https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso) | 0:46 | 2022-03-07 |  |

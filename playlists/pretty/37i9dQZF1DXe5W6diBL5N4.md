@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: 도영 \(DOYOUNG\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,237 likes - 129 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,409 likes - 129 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 10 | [Addicted Love \(feat\. Gist\)](https://open.spotify.com/track/7s5YVKQ1fj2PjP9ZWobqtl) | [LO VOLF](https://open.spotify.com/artist/12VVqNQoJdwkZbRUedRQ6C), [LEE SUREEN](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Addicted Love \(feat\. Gist\)](https://open.spotify.com/album/0HIwMeMGNxCdCnWo5AvMGp) | 4:25 |
 | 11 | [Blue Garden](https://open.spotify.com/track/6uQXDEwDoQMpo1vLzJScY6) | [Monday Off With Bluesy](https://open.spotify.com/artist/0OwLX5KcmGFbIZPORrK6xB) | [Blue Garden](https://open.spotify.com/album/2SfaT3F93vxLQVRgSK7gQE) | 4:45 |
 | 12 | [A Thousand +](https://open.spotify.com/track/1rr5aTbdhM6EMmXjAuGH22) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [A Thousand +](https://open.spotify.com/album/3GOEWOs3tY95x7carbmtAm) | 2:49 |
-| 13 | [Princepingsong](https://open.spotify.com/track/26BaKUxIpGEORtQ4xn0CgW) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Princess Catch! Teenieping : Princepingsong \(Original Soundtrack\)](https://open.spotify.com/album/6W6ah2RXiWcY2okWjO0lpf) | 2:29 |
+| 13 | [Princeping Song](https://open.spotify.com/track/26BaKUxIpGEORtQ4xn0CgW) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Princess Catch! Teenieping : Princeping Song \(Original Soundtrack\)](https://open.spotify.com/album/6W6ah2RXiWcY2okWjO0lpf) | 2:29 |
 | 14 | [LIFES LIKE \(Feat\. LEY\)](https://open.spotify.com/track/20iyyFjIIZX36Psxj0SQyt) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [LEY](https://open.spotify.com/artist/5eHVUKdCnl66gpjClBrYO0) | [LIFES LIKE \(Feat\. LEY\)](https://open.spotify.com/album/1FGmCMQGmwl3AlS6OttUhI) | 2:37 |
 | 15 | [Miro\(Prod\. by Vision Room\)](https://open.spotify.com/track/1qfOcnNzpxzBlYEQpUcQyd) | [Minseo](https://open.spotify.com/artist/5yoE4Q5wVXbM4TiMbFatqz) | [Miro](https://open.spotify.com/album/0bIX54JnyhbP0PcYOS6bGm) | 2:40 |
 | 16 | [Left Unspoken](https://open.spotify.com/track/1vd1xMRITo4DRWWk2cTBHU) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Left Unspoken](https://open.spotify.com/album/6OgD4XmuIpqKum3n6JJaso) | 3:57 |

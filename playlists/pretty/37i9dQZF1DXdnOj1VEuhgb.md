@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ezhel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,979 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,939 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 5 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 |
 | 6 | [YARAMAZ](https://open.spotify.com/track/34cLWP3rBEOMv9fmY9NCPl) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [YARAMAZ](https://open.spotify.com/album/4dv0Na2MnjVYKnWwAyrFZV) | 2:20 |
 | 7 | [Ismarla](https://open.spotify.com/track/5Gz8iZTmpjM3DAD38oomQS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Ismarla](https://open.spotify.com/album/18LeoXntfGUeeksKT2M45B) | 3:03 |
-| 8 | [Biz İmkansız Olduk](https://open.spotify.com/track/7woARvmPxhoDLoqlB09sq1) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [](https://open.spotify.com/album/null) | 2:37 |
+| 8 | [Biz İmkansız Olduk](https://open.spotify.com/track/7woARvmPxhoDLoqlB09sq1) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Yaşasın Hayat Parkı Fanzin](https://open.spotify.com/album/5ckpst7X0mcCgokf2vXVSr) | 2:37 |
 | 9 | [herkes kendine yakışanı yapsın](https://open.spotify.com/track/38evhex5V6BPZumBToe7SY) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Waxy](https://open.spotify.com/artist/6vHGyEavhmG06FNpoUPUMi) | [herkes kendine yakışanı yapsın](https://open.spotify.com/album/4cPU2kRpX5RPCW9m6SwhuL) | 2:22 |
 | 10 | [HALLETTİM](https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 1:58 |
 | 11 | [TIRMANDIM](https://open.spotify.com/track/7ozaiwhvK7n71jNoJF2v6y) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [TIRMANDIM](https://open.spotify.com/album/7fI8MrZfCWgds0YnnRVdPg) | 2:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Gretel
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,428 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,376 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Truth](https://open.spotify.com/track/3qO1aPC7smPGfQbjeoZ4JI) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Truth](https://open.spotify.com/album/4f3jEJKv6TbICkY6qpmuRT) | 3:12 |
 | 80 | [Doo Doo Doo Doo Doo](https://open.spotify.com/track/4EU5lWEahNC2sv6IhNGzkq) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Doo Doo Doo Doo Doo](https://open.spotify.com/album/3fJ4KUWT9PzqXfVqUrt9i2) | 3:18 |
 
-Snapshot ID: `AAAAAMuP1+0kd7LAlyJSJv+mFmi2T4UW`
+Snapshot ID: `AAAAAGAk7pMRpwp0hpLoJ0xMdZOeg5/W`

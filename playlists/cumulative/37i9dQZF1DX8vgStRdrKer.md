@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-681 songs - 2 day 8 hr 55 min
+682 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-16 | 2025-06-20 |
 | [EYES ON ME](https://open.spotify.com/track/14eCENuoIfxb8Mk9Gnfzew) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [EYES ON ME](https://open.spotify.com/album/4PvPsJ9IPbtOYnhyXTL8Vn) | 2:29 | 2025-05-09 | 2025-07-11 |
 | [Eyinju](https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F) | [Nifemi David](https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt) | [Eyinju](https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4) | 4:17 | 2024-02-16 | 2025-05-30 |
-| [Ezulwini Basilindile \- Live at Isibaya Casino](https://open.spotify.com/track/13vguiJ6qSsrlYubgnF8Jd) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Ezulwini Basilindile \(Live at Isibaya Casino\)](https://open.spotify.com/album/6JmRdCQmv2Cgi3l0mWoybq) | 13:31 | 2025-10-31 |  |
+| [Ezulwini Basilindile \- Live at Isibaya Casino](https://open.spotify.com/track/13vguiJ6qSsrlYubgnF8Jd) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Ezulwini Basilindile \(Live at Isibaya Casino\)](https://open.spotify.com/album/6JmRdCQmv2Cgi3l0mWoybq) | 13:31 | 2025-10-31 | 2025-12-13 |
 | [Fade Away](https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Fade Away](https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT) | 8:27 | 2024-11-08 | 2025-06-06 |
 | [Faithful](https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Faithful](https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol) | 6:15 | 2024-03-22 | 2024-10-09 |
 | [Far Above All \- Live Version](https://open.spotify.com/track/3zvyQ75g2PxmYaQxkN4QJO) | [Uzo Oachi](https://open.spotify.com/artist/3UlV06XcGOAy8dL0QYVHu3) | [Far Above All \(Live Version\)](https://open.spotify.com/album/1HFjY6Uw4lyONKyQ0kjml7) | 9:31 | 2025-05-16 | 2025-07-11 |
@@ -430,6 +430,7 @@
 | [My Secret Place \(Holy Spirit Take Over\)](https://open.spotify.com/track/5BAOWgioAf2ErmB0wjRqZo) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [My Secret Place \(Holy Spirit Take Over\)](https://open.spotify.com/album/0M2qtn0x6oRqQjDJ7JAGi9) | 8:50 | 2024-02-02 | 2025-06-20 |
 | [My Whole Life](https://open.spotify.com/track/1AF0pdTy5CdhxxVxtA3s2H) | [Energio](https://open.spotify.com/artist/2WFKAMmxyoqKThUUqKSiT3) | [My Whole Life](https://open.spotify.com/album/2GVp1qUB5P9slBXHkMMF2Z) | 7:23 | 2025-07-04 | 2025-08-26 |
 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 | 2024-02-23 | 2025-06-27 |
+| [Na Only Me Know](https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Na Only Me Know](https://open.spotify.com/album/6ESZpB5iJUCma2fBqJZzl3) | 6:10 | 2025-12-05 |  |
 | [Nangoja](https://open.spotify.com/track/6J5VuHsRitkeGk8jZC5WK0) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Nangoja](https://open.spotify.com/album/2xFzZjxc6ULZEOv1JPTk9M) | 4:08 | 2024-12-06 | 2025-06-06 |
 | [Narekele](https://open.spotify.com/track/3aL0swlBPcBfUHatzrn9n8) | [Exouxia Wilson](https://open.spotify.com/artist/2OsGK8NBce8Tmx6Cyuc974) | [Narekele](https://open.spotify.com/album/5gyBvRvXbbelbUEPBg7QCm) | 6:24 | 2025-06-20 | 2025-06-27 |
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2023-10-20 | 2024-03-14 |

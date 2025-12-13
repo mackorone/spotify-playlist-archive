@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Los Rieleros del Norte en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Los del North Texas y Los Primos del Este en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 175956,
       "name": "A La Perfecci\u00f3n",
       "url": "https://open.spotify.com/track/3J58ED59WawUwDLkVnLgt2"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 127698,
       "name": "Act\u00faa Normal",
       "url": "https://open.spotify.com/track/77z7kmRTrU9fQUmcb7dOlL"
@@ -338,6 +338,28 @@
       "duration_ms": 148024,
       "name": "Al\u00e9jate",
       "url": "https://open.spotify.com/track/7rq4ykJJFmEudBTdwzTudF"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0zohyv8ORUlFw7WezgjlTM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Renaci2",
+          "url": "https://open.spotify.com/artist/6Y1H335oJ0P18Zuqmfoamc"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0rpgKzRW5ZKDvXuEXtnWEM"
     },
     {
       "album": {
@@ -524,7 +546,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 210522,
       "name": "Atlantico",
       "url": "https://open.spotify.com/track/6FZZU0B5LsQpNLxLzwEPGm"
@@ -746,6 +768,24 @@
       "duration_ms": 165178,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/2GlcrX5KqGv7N6FOwACj8H"
+    },
+    {
+      "album": {
+        "name": "Busca Otro Amor (En Vivo 45 Aniversario)",
+        "url": "https://open.spotify.com/album/3Gj5U3Jlo2pcmg0SPEvhHa"
+      },
+      "artists": [
+        {
+          "name": "El Primo Manolo Y Sus Rieleros",
+          "url": "https://open.spotify.com/artist/3h35pcOfc9nGveI4JBaCCh"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232341,
+      "name": "Busca Otro Amor (En Vivo 45 Aniversario)",
+      "url": "https://open.spotify.com/track/5vmPbmOtQgAuo18ZsBh0j8"
     },
     {
       "album": {
@@ -1328,7 +1368,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 200341,
       "name": "Cu\u00e9lgame",
       "url": "https://open.spotify.com/track/2gT1yDWQ1ApeAKggvqveOe"
@@ -1490,7 +1530,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 216864,
       "name": "Dime Quien - En vivo",
       "url": "https://open.spotify.com/track/681mzZP8i0TJSIdhD1dpUG"
@@ -1812,7 +1852,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 206515,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/4baWgOOxCe1Hp7tvpzGykW"
@@ -2102,6 +2142,24 @@
       "duration_ms": 205103,
       "name": "Ex De Verdad",
       "url": "https://open.spotify.com/track/7FE8ORGM6p3ttIea8aRskK"
+    },
+    {
+      "album": {
+        "name": "Fue UN Instante",
+        "url": "https://open.spotify.com/album/0vrPFfo0WJIeeNCTvTTr4I"
+      },
+      "artists": [
+        {
+          "name": "Los del Norte\u00f1o Sax",
+          "url": "https://open.spotify.com/artist/4mnmnqk1QkvxHYpq5mFXbB"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144959,
+      "name": "Fue UN Instante",
+      "url": "https://open.spotify.com/track/2cS5J6HgrPSYaoYqzzcots"
     },
     {
       "album": {
@@ -3052,10 +3110,28 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 154304,
       "name": "Luna De Venecia",
       "url": "https://open.spotify.com/track/3x675RUSAvKYR0qRoCk1IU"
+    },
+    {
+      "album": {
+        "name": "Madre, Gracias",
+        "url": "https://open.spotify.com/album/6ycncXTMT75lAR8izYrU20"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132288,
+      "name": "Madre, Gracias",
+      "url": "https://open.spotify.com/track/5Qye11izXR5iOsIk23kYFf"
     },
     {
       "album": {
@@ -3110,7 +3186,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 122441,
       "name": "Marilyn Monroe",
       "url": "https://open.spotify.com/track/3bQhXG1xB0smqNea4P2rjM"
@@ -3200,7 +3276,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 147335,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/13pQjTi19twBPiwqkQiSTV"
@@ -3280,6 +3356,24 @@
       "duration_ms": 189196,
       "name": "Mi Ex Tenia Razon",
       "url": "https://open.spotify.com/track/5OBkId4xzZ88fu4OZP4pTd"
+    },
+    {
+      "album": {
+        "name": "Euforia",
+        "url": "https://open.spotify.com/album/4vD7q6hNYDyI55xzb14VXo"
+      },
+      "artists": [
+        {
+          "name": "La Cultura Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326474,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/1ZWzrHBS2C1QWzs0VuVgw0"
     },
     {
       "album": {
@@ -3497,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Navidad Sin Mi Abuelito",
+        "url": "https://open.spotify.com/album/4qH8dsxf7odLjaG2HZ6qiv"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168277,
+      "name": "Navidad Sin Mi Abuelito",
+      "url": "https://open.spotify.com/track/2YVWnJvE941nfn0tAbxIEI"
+    },
+    {
+      "album": {
         "name": "Necesito Decirte",
         "url": "https://open.spotify.com/album/2BKwFzzxiMOEbzckGX6aY8"
       },
@@ -3692,7 +3804,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 135469,
       "name": "No Se Me Hizo",
       "url": "https://open.spotify.com/track/1ndXS6PX7UUjzmSlQN63sp"
@@ -3768,6 +3880,28 @@
       "duration_ms": 176796,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/0q5yMhQ5mK5FkyRJSGW3oN"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/2evoTytC1TTZRNh9YPrEWG"
+      },
+      "artists": [
+        {
+          "name": "Konzentido de Afid Ferrer",
+          "url": "https://open.spotify.com/artist/7FONGfnHl6HPvHaJAik9yp"
+        },
+        {
+          "name": "Jaelyn Ferrer",
+          "url": "https://open.spotify.com/artist/1qMQJxdQBTJPzeO5B9WOeK"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176088,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/24gavqaqtgaCp0K98CGFAp"
     },
     {
       "album": {
@@ -4478,6 +4612,24 @@
       "duration_ms": 172091,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk"
+    },
+    {
+      "album": {
+        "name": "Sensaciones",
+        "url": "https://open.spotify.com/album/2H7E6aXyfCUCSZyY45PWxc"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145841,
+      "name": "Sensaciones",
+      "url": "https://open.spotify.com/track/13VaXz8UQwJZVtbsoJv5p2"
     },
     {
       "album": {
@@ -5424,6 +5576,28 @@
       "duration_ms": 159958,
       "name": "Voy a Llorar Por Ti",
       "url": "https://open.spotify.com/track/3IRSO4G91HQ6jqQTnbCZKl"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp"
+      },
+      "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165949,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
     },
     {
       "album": {

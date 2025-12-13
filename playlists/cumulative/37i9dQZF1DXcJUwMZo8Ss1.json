@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "\u0641\u0635\u0644\u0629",
+        "url": "https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw"
+      },
+      "artists": [
+        {
+          "name": "Flipperachi",
+          "url": "https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105271,
+      "name": "FA9LA",
+      "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
+    },
+    {
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },

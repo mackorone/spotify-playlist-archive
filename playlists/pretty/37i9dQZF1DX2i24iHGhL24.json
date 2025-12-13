@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Teddy Swims",
-  "num_followers": 229055,
+  "num_followers": 229162,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvhoEiuYeqHBcT7wrjvrMDqsMWU",
+  "snapshot_id": "AAAAAB1RXFDjmS9nFBtxCf64LddO3lCl",
   "tracks": [
     {
       "added_at": "2025-06-08 20:02:07",
@@ -57,6 +57,42 @@
       "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
     },
     {
+      "added_at": "2025-10-03 04:00:40",
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
+    },
+    {
+      "added_at": "2025-06-08 20:02:07",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
       "added_at": "2025-06-08 20:02:07",
       "album": {
         "name": "Time After Time (Spotify Singles)",
@@ -105,26 +141,6 @@
       "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
     },
     {
-      "added_at": "2025-10-03 04:00:40",
-      "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 218006,
-      "name": "I Wanna Dance With Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
-    },
-    {
       "added_at": "2025-09-10 16:52:13",
       "album": {
         "name": "Olivia Dean - Spotify Live Room",
@@ -139,22 +155,6 @@
       "duration_ms": 183000,
       "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
-    },
-    {
-      "added_at": "2025-06-08 20:02:07",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2025-08-15 21:10:04",
@@ -543,22 +543,6 @@
       "duration_ms": 223236,
       "name": "Girls Just Wanna Have Some",
       "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
-    },
-    {
-      "added_at": "2025-06-08 20:02:07",
-      "album": {
-        "name": "Solsbury Hill (Humane World for Animals Cover)",
-        "url": "https://open.spotify.com/album/4zHCSSa9EGQZ4rUMwEZltE"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Solsbury Hill - Humane World for Animals Cover",
-      "url": "https://open.spotify.com/track/7pwtOEq0aAD4a7dIwrDrkb"
     },
     {
       "added_at": "2025-06-08 20:02:07",

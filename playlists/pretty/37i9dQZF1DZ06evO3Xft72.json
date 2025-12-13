@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 287801,
+  "num_followers": 287841,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACFCI6661MYM8RijxPggXS/",
+  "snapshot_id": "aToJgAAAAADp5IEF0GOd/HKIN7hgGshH",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Through The Night",
         "url": "https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 225226,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 255624,
+      "name": "Make Love Like A Man",
+      "url": "https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 255624,
-      "name": "Make Love Like A Man",
-      "url": "https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH"
+      "duration_ms": 254906,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adrenalize",
+        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 423016,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seagull",
         "url": "https://open.spotify.com/album/1EiFdEhdWVC3QdLrT1tig4"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 278000,
       "name": "Seagull",
       "url": "https://open.spotify.com/track/7CytSpgno2zLlSDIqpsGv9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenalize",
-        "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 423016,
-      "name": "White Lightning",
-      "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenalize",
         "url": "https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 243321,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV"
     },
     {
       "added_at": null,

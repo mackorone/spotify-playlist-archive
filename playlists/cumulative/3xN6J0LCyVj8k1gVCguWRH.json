@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/3RpcT3e4Z3sG6YLCyAzf8A"
+      },
+      "artists": [
+        {
+          "name": "Labit",
+          "url": "https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161887,
+      "name": "2",
+      "url": "https://open.spotify.com/track/2jsNFSDNHxvmwoKxn1KI9a"
+    },
+    {
+      "album": {
         "name": "2 am",
         "url": "https://open.spotify.com/album/0yB7LI6nOfRyBxNIwPQ1Dv"
       },
@@ -11214,7 +11236,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 218307,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/6QaKExKN419g7gBelKzg5r"
@@ -11620,7 +11642,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 163076,
       "name": "Boo Hoo",
       "url": "https://open.spotify.com/track/0UMkemnTmMckoOVCx5P21c"
@@ -14416,6 +14438,24 @@
       "duration_ms": 186666,
       "name": "Can You Hear Me?",
       "url": "https://open.spotify.com/track/7dCanbfsmjPRKVR4MRPqJV"
+    },
+    {
+      "album": {
+        "name": "Can You Swim?",
+        "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295378,
+      "name": "Can You Swim?",
+      "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
     },
     {
       "album": {
@@ -18828,6 +18868,24 @@
       "duration_ms": 164012,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0Bld5Lvb4UtWGpBxXZgdxj"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/49unHeDs9f0GA3540giato"
+      },
+      "artists": [
+        {
+          "name": "SENTO",
+          "url": "https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210867,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/6n6ilYXJUatBjzFkH4dd3s"
     },
     {
       "album": {
@@ -24232,7 +24290,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 180653,
       "name": "DON'T TALK LOVE",
       "url": "https://open.spotify.com/track/2PA3Yn1G97kAZb6pXkMO9e"
@@ -24670,6 +24728,28 @@
       "duration_ms": 193933,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6tYkom0WX5G9yrQOD1VoZa"
+    },
+    {
+      "album": {
+        "name": "Dopamine (Jamie xx Remix)",
+        "url": "https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302748,
+      "name": "Dopamine - Jamie xx Remix",
+      "url": "https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar"
     },
     {
       "album": {
@@ -34330,7 +34410,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 179960,
       "name": "Get it Back",
       "url": "https://open.spotify.com/track/1OwmWEXP52wtotfyGwRJQ6"
@@ -36037,6 +36117,28 @@
     },
     {
       "album": {
+        "name": "Gonna Go To Japan (kikomori Remix)",
+        "url": "https://open.spotify.com/album/7HByCXUGoBEdPWsCMeWSln"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        },
+        {
+          "name": "kikomori",
+          "url": "https://open.spotify.com/artist/3K3X8ywnXx0tVgnWkgGEKD"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Gonna Go To Japan - kikomori Remix",
+      "url": "https://open.spotify.com/track/6Umv6VL2OdrRCZV9wF2dWN"
+    },
+    {
+      "album": {
         "name": "Nikea Marie",
         "url": "https://open.spotify.com/album/7uq7aNrP19d9YsEhLTi7e7"
       },
@@ -37520,6 +37622,28 @@
       "duration_ms": 223045,
       "name": "Guy Next Door",
       "url": "https://open.spotify.com/track/52tfvT6wAmGsmJHQdrVpZn"
+    },
+    {
+      "album": {
+        "name": "GX OFF",
+        "url": "https://open.spotify.com/album/4BJM28QFHnecPiI0YNVjhq"
+      },
+      "artists": [
+        {
+          "name": "Dona Most\u00f2",
+          "url": "https://open.spotify.com/artist/4qXmw8xMdS5bcmvgO4tkMW"
+        },
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "GX OFF",
+      "url": "https://open.spotify.com/track/772YBUt5NjWrAKl65jQj0S"
     },
     {
       "album": {
@@ -40060,6 +40184,24 @@
       "duration_ms": 200678,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4NFg6HYKa0qj3Mv9a7Imzy"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/40Ksd3AVHtWcZbExDuuxVL"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221405,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl"
     },
     {
       "album": {
@@ -42910,6 +43052,28 @@
       "duration_ms": 349978,
       "name": "I Loved You More Than You Thought I Would",
       "url": "https://open.spotify.com/track/7b9JJ0a06sh43q4uhDNqsV"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Wallfacer",
+          "url": "https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197999,
+      "name": "I Luv U",
+      "url": "https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx"
     },
     {
       "album": {
@@ -50774,6 +50938,24 @@
       "duration_ms": 242898,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/7fnSjcEwcs5VpG4IuLDKTB"
+    },
+    {
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253350,
+      "name": "Let It All Out",
+      "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
     },
     {
       "album": {
@@ -63178,6 +63360,28 @@
       "duration_ms": 166987,
       "name": "NO MORE CAMERAS",
       "url": "https://open.spotify.com/track/2FPWZhKih3iNdP3fGT7xLs"
+    },
+    {
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244391,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
     },
     {
       "album": {
@@ -84565,6 +84769,24 @@
     },
     {
       "album": {
+        "name": "Resurrection (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2Gvlc723AMrliLB7bgNQ30"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206186,
+      "name": "Sullen Passage",
+      "url": "https://open.spotify.com/track/1uhRtTpMX37u195FCRjDaZ"
+    },
+    {
+      "album": {
         "name": "Sumerian Times",
         "url": "https://open.spotify.com/album/09pqGdU0O9UyYa27ebbAxt"
       },
@@ -99558,6 +99780,24 @@
       "duration_ms": 177611,
       "name": "When I Came Up - Radio Edit",
       "url": "https://open.spotify.com/track/20ne3AZUsCWfCxd8SZ5sUo"
+    },
+    {
+      "album": {
+        "name": "When I Can't Speak",
+        "url": "https://open.spotify.com/album/22JW8GYG7uW8ok1W3L8Q0f"
+      },
+      "artists": [
+        {
+          "name": "Jess Josie Lee",
+          "url": "https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "When I Can't Speak",
+      "url": "https://open.spotify.com/track/0N8VA9KCl48txU1kHNGtKv"
     },
     {
       "album": {

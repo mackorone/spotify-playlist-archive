@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-158 songs - 10 hr 38 min
+159 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [La Paliza](https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [Pisando Fuerte](https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y) | 3:56 | 2023-03-03 | 2023-09-13 |
 | [La Pareja Ideal](https://open.spotify.com/track/5QEvWvmJ8G2Gda219wCY9x) | [Los Gatos Negros](https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6) | [Rancheras Populares 16 Éxitos \(Vol\. 3\)](https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr) | 4:40 | 2023-03-03 | 2024-04-19 |
 | [La Pololita](https://open.spotify.com/track/4Eyu9MSZ4pb29Y6oLMv01B) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [La Pololita](https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX) | 3:20 | 2023-10-05 | 2024-07-03 |
+| [La Porotera](https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Un Nuevo Estilo Campesino](https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy) | 3:38 | 2025-09-18 |  |
 | [La Puntada](https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Trayectoria](https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g) | 2:54 | 2023-03-03 |  |
 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 | 2023-03-03 |  |
 | [La Suegra](https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 3:24 | 2023-03-03 |  |
@@ -155,7 +156,7 @@
 | [Tus Mentiras](https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:33 | 2023-03-03 |  |
 | [Tú](https://open.spotify.com/track/18Y1trnwM37pqHtMtZYFMq) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Inseparables](https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm) | [Tú](https://open.spotify.com/album/6mQtinz30aDoHEkPNalyBS) | 4:23 | 2023-03-03 | 2024-04-19 |
 | [Un Lobo Está Llorando](https://open.spotify.com/track/59zQnQvkMLAIe8k2vUCS66) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:25 | 2023-03-03 | 2024-04-19 |
-| [Una Asesina](https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Una Asesina](https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD) | 4:02 | 2024-06-12 |  |
+| [Una Asesina](https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Una Asesina](https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD) | 4:02 | 2024-06-12 | 2025-12-13 |
 | [Una Cerveza \- Remix](https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Una Cerveza \(Remix\)](https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G) | 3:16 | 2023-03-03 | 2025-01-10 |
 | [Vamos a Amarla los Dos](https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 4:28 | 2023-03-03 |  |
 | [Vivo la Vida](https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:12 | 2023-03-03 |  |

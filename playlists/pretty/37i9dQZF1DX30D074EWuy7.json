@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33613,
+  "num_followers": 33617,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -819,38 +819,6 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Contenta tu",
-        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
-      },
-      "artists": [
-        {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
-        }
-      ],
-      "duration_ms": 275093,
-      "name": "Av\u00f2",
-      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
-        "name": "La ragazza dalla pelle di luna",
-        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 175047,
-      "name": "Stella del sud",
-      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -883,6 +851,22 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
+        "name": "La ragazza dalla pelle di luna",
+        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "duration_ms": 175047,
+      "name": "Stella del sud",
+      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
         "name": "L'indispensabile",
         "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 407760,
       "name": "Ultimo amore",
       "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "Contenta tu",
+        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "duration_ms": 275093,
+      "name": "Av\u00f2",
+      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
         "name": "Ora beat!",
         "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
         "name": "MUZAK",
         "url": "https://open.spotify.com/album/2nlVy812pWV8NwTeVEIY1g"
       },
@@ -1351,6 +1351,26 @@
       "duration_ms": 180340,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/5ximYjEkEn6tZ5v9OXgatD"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "Amore a prima vista",
+        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
+      },
+      "artists": [
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        },
+        {
+          "name": "Papik",
+          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+        }
+      ],
+      "duration_ms": 164246,
+      "name": "Amore a prima vista - Bossa & Jazz Version",
+      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1387,42 +1407,6 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Amore a prima vista",
-        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
-      },
-      "artists": [
-        {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
-        },
-        {
-          "name": "Papik",
-          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
-        }
-      ],
-      "duration_ms": 164246,
-      "name": "Amore a prima vista - Bossa & Jazz Version",
-      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 254494,
       "name": "Oltremare",
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1503,6 +1503,38 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
+        "name": "Moon Kin",
+        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        },
+        {
+          "name": "Davide Savarese",
+          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
+        },
+        {
+          "name": "QWALE",
+          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
+        },
+        {
+          "name": "Francesco Fratini",
+          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
+        },
+        {
+          "name": "Vincenzo Lato",
+          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
+        }
+      ],
+      "duration_ms": 156838,
+      "name": "Samo",
+      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
         "name": "Nidi di Note",
         "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
       },
@@ -1539,38 +1571,6 @@
       "duration_ms": 292720,
       "name": "Le Tue Mani",
       "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
-        "name": "Moon Kin",
-        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Triglia",
-          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
-        },
-        {
-          "name": "Davide Savarese",
-          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
-        },
-        {
-          "name": "QWALE",
-          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
-        },
-        {
-          "name": "Francesco Fratini",
-          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
-        },
-        {
-          "name": "Vincenzo Lato",
-          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
-        }
-      ],
-      "duration_ms": 156838,
-      "name": "Samo",
-      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "La Strada Invisibile",
-        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
-      },
-      "artists": [
-        {
-          "name": "Rita Marcotulli",
-          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
-        },
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 288616,
-      "name": "Tuareg",
-      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1775,18 +1755,22 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+        "name": "La Strada Invisibile",
+        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
       "artists": [
         {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+      "duration_ms": 288616,
+      "name": "Tuareg",
+      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2025-12-11 14:00:35",
       "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
         "name": "Kair\u00f2s",
         "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
       },
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
         }
       ],
-      "duration_ms": 279570,
-      "name": "Bajone",
-      "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1835,22 +1835,6 @@
       "duration_ms": 281466,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
-    },
-    {
-      "added_at": "2025-12-11 14:00:35",
-      "album": {
-        "name": "Citt\u00e0 Futura",
-        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 284804,
-      "name": "Citt\u00e0 Futura",
-      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-12-11 14:00:35",
@@ -1875,6 +1859,22 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2025-12-11 14:00:35",
+      "album": {
+        "name": "Citt\u00e0 Futura",
+        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 284804,
+      "name": "Citt\u00e0 Futura",
+      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-12-11 14:00:35",

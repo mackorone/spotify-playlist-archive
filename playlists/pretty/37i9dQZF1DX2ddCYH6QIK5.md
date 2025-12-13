@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > This year’s best new music by independent artists and labels chosen by our editors\. Cover: lovehead, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,236 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,238 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [I don't wanna be \(without your love\)](https://open.spotify.com/track/3Z3TZYVX6HMD057U5kJsKl) | [Marcnolia](https://open.spotify.com/artist/796Yepud5UHsP1wCLEbiYk) | [I don't wanna be \(without your love\)](https://open.spotify.com/album/6U9yQWPsSt2fK2QzoaTkKo) | 2:12 |
 | 50 | [Hot Friend](https://open.spotify.com/track/0j2nyOdTNjc27Dd3wYjnkd) | [SMILE](https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8) | [Hot Friend](https://open.spotify.com/album/19xWGXCXeaC02R2JX0VH9L) | 4:03 |
 
-Snapshot ID: `AAAAAOruxSCrtvXKLfSGIR8WKHSIdzDC`
+Snapshot ID: `AAAAAL3T8casN46PB+6hGV4l5lmlK7fj`

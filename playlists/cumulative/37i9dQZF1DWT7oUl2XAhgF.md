@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Sekou
 
-575 songs - 1 day 10 hr 31 min
+577 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Champagne Pink Convertible](https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi) | [The Alex Opal Outfit](https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq) | [Champagne Pink Convertible](https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52) | 3:32 | 2024-08-16 |  |
 | [Changes](https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Changes](https://open.spotify.com/album/1NoZDyi7x7a4qg4YqN2EaU) | 3:18 | 2022-09-16 | 2022-10-15 |
 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 | 2023-02-04 |
+| [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 | 2025-12-12 |  |
 | [Closer](https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Closer](https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji) | 3:33 | 2023-11-24 | 2025-08-23 |
 | [Closer](https://open.spotify.com/track/15CcPYbfU0Ylp0s6ezE5Zw) | [Rainee Blake](https://open.spotify.com/artist/03PaZ9IYpD0VVrZeUatPC3) | [Closer](https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh) | 3:49 | 2022-08-09 | 2024-06-22 |
 | [Come Around and Love Me](https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around And Love Me](https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t) | 3:04 | 2023-06-30 | 2023-07-29 |
@@ -97,7 +98,7 @@
 | [Dawn](https://open.spotify.com/track/1GjayjS8KEuljD5GhTuDDq) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [The Putbacks](https://open.spotify.com/artist/1MFxqj3TBAaTuiEgLnBfsR) | [Dawn](https://open.spotify.com/album/4VIuikghlCfEl022xOlhaR) | 3:52 | 2021-07-09 | 2022-07-24 |
 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 | 2025-11-14 |  |
 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-01-27 | 2023-10-21 |
-| [Defence](https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Defence EP](https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0) | 4:39 | 2024-05-24 |  |
+| [Defence](https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Defence EP](https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0) | 4:39 | 2024-05-24 | 2025-12-13 |
 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-07-14 | 2025-02-08 |
 | [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 | 2024-06-07 |  |
 | [Diamond Violence](https://open.spotify.com/track/5txRJup3ndKlzrapHKQyAp) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if) | [Diamond Violence](https://open.spotify.com/album/4HNPUulBgryvb3GMgfSHrl) | 5:03 | 2022-09-16 | 2022-09-24 |
@@ -110,7 +111,7 @@
 | [Don't Like You Anymore](https://open.spotify.com/track/5BzJfr2NjusEUbM9QYFsz0) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [Don't Like You Anymore](https://open.spotify.com/album/0EMJkza4q3dnX8fBiBQtMt) | 3:05 | 2025-02-07 | 2025-05-17 |
 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 | 2021-07-09 | 2022-10-13 |
 | [Don't Take Me As A Fool](https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Don't Take Me As A Fool](https://open.spotify.com/album/1eEciSKr834k5dtjOBS1g2) | 3:52 | 2024-08-09 |  |
-| [Don't Wanna Lose You](https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Don't Wanna Lose You](https://open.spotify.com/album/46VBRKa8sDXKU8piCs3UHw) | 3:39 | 2024-03-29 |  |
+| [Don't Wanna Lose You](https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Don't Wanna Lose You](https://open.spotify.com/album/46VBRKa8sDXKU8piCs3UHw) | 3:39 | 2024-03-29 | 2025-12-13 |
 | [Don't You Ever Change](https://open.spotify.com/track/6eUofPDyNPz5ZuHVHCJtJC) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Don't You Ever Change](https://open.spotify.com/album/6jrzfmuhQdZg8auer1aM4w) | 3:36 | 2023-08-11 | 2024-02-15 |
 | [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2021-07-09 | 2023-02-18 |
 | [Done and Dusted](https://open.spotify.com/track/1H4dMoo6lKZJHtgDhKb0Yy) | [YOUNGTONES](https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG) | [Done and Dusted](https://open.spotify.com/album/6fJ4PJrUQR5oSkOYEC93OX) | 2:57 | 2025-09-26 |  |
@@ -482,6 +483,7 @@
 | [Take My Troubles Away \- Radio Edit](https://open.spotify.com/track/6UcREbLs70qdzEMOVaCPub) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Take My Troubles Away \(Radio Edit\)](https://open.spotify.com/album/1fAhIRHWIcruE6dXAbE4Wb) | 3:30 | 2023-07-21 | 2023-10-07 |
 | [Take What's Mine \- EP Version](https://open.spotify.com/track/4JHuAerQPHH8U8aoxgNnwj) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Take What's Mine EP](https://open.spotify.com/album/1Md2RjLHvy8y4EPaAJZB1B) | 3:08 | 2024-05-24 | 2024-10-26 |
 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-03-17 | 2023-12-30 |
+| [Tears Don't Pretend](https://open.spotify.com/track/3HeEZrQgbpqWnK3F80yTW2) | [Cayden Cruz](https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5) | [Tears Don't Pretend](https://open.spotify.com/album/5Xjbs1kFBfCGntqFhGm3Ve) | 3:12 | 2025-12-12 |  |
 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-02-10 | 2023-08-19 |
 | [TELL THE TRUTH](https://open.spotify.com/track/4j6PFhmK5mOmZK5H8vkzXF) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:22 | 2021-12-03 | 2022-07-29 |
 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 | 2022-07-29 | 2023-02-18 |

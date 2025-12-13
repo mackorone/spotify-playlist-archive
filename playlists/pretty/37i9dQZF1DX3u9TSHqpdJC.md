@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The 50 best pop songs from new, independent artists in 2025, as chosen by our editors\.  Cover: Baby Nova\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,959 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,059 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

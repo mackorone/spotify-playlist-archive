@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-80 songs - 4 hr 52 min
+83 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-04 |  |
 | [All Alone](https://open.spotify.com/track/0k1C7p9IVaMMvrp4pAJ0f3) | [George Bacan](https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0) | [All Alone](https://open.spotify.com/album/1EP1jaofCyz0PlwwuZuvzC) | 3:46 | 2025-10-29 |  |
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
+| [Bestia](https://open.spotify.com/track/6UYOETNWbvmNKpl07sjPpu) | [Décum](https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk) | [Bestia](https://open.spotify.com/album/2ozT91COp1GUchj542jq44) | 2:45 | 2025-12-13 |  |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 |  |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-11-13 |  |
 | [Borderline](https://open.spotify.com/track/4jyWOoKSEY0zOTadmguLrL) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 5:04 | 2025-11-04 |  |
@@ -53,6 +54,7 @@
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-11-04 |  |
 | [LOVE ME, KISS ME, KILL ME](https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:42 | 2025-10-31 | 2025-11-21 |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-11-18 |  |
+| [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 |  |
 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 | 2025-11-04 |  |
 | [New Age](https://open.spotify.com/track/6P7QFrSStHdpMGfgQKaYWV) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [New Age: The Age of Karyttah](https://open.spotify.com/album/2vjajlHIgc0ihbc6RP3Ri8) | 6:04 | 2025-11-11 |  |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-09-25 |  |
@@ -64,6 +66,7 @@
 | [Overthrown](https://open.spotify.com/track/4aGCFWNgI4vUq9y9XuoVQA) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 5:27 | 2025-11-29 |  |
 | [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 | 2025-11-04 |  |
 | [Perché amo il mio lavoro](https://open.spotify.com/track/336aLiYmKlh1WfDVY1QJLF) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Un'estate all'inferno](https://open.spotify.com/album/72aYGJWx28UtvsP7sXaX42) | 2:41 | 2025-10-30 |  |
+| [Piece Of The Pie](https://open.spotify.com/track/01SzDzVKiUZzwgsxkgxCqp) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Piece Of The Pie](https://open.spotify.com/album/458bpgTUEVcU1q51PS6h6R) | 3:41 | 2025-12-13 |  |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 |  |
 | [Pumping on Your Stereo](https://open.spotify.com/track/0XBCiN9V5wtPDTtAZjwXlX) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 2:38 | 2025-11-03 |  |
 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 | 2025-12-05 |  |

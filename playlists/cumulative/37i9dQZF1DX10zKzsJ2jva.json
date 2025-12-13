@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Ozuna, Be\u00e9le",
+  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: El Bogueto, Anuel AA, Fuerza Regida, Yung Beef",
   "name": "Viva Latino",
   "tracks": [
     {
@@ -4054,10 +4054,40 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
+    },
+    {
+      "album": {
+        "name": "Cuando No Era Cantante (Remix)",
+        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327488,
+      "name": "Cuando No Era Cantante - Remix",
+      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
       "album": {
@@ -4904,7 +4934,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 195096,
       "name": "Down",
       "url": "https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU"
@@ -7519,6 +7549,24 @@
     },
     {
       "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192897,
+      "name": "HARRY STAMPER",
+      "url": "https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15"
+    },
+    {
+      "album": {
         "name": "Hasta Aqu\u00ed Llegu\u00e9",
         "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
       },
@@ -8232,7 +8280,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 130876,
       "name": "JOJO",
       "url": "https://open.spotify.com/track/4Ldo3ZQCK6KpTHm1wsbWOg"
@@ -12361,6 +12409,24 @@
     },
     {
       "album": {
+        "name": "Peces Raros - Spotify Sessions",
+        "url": "https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303886,
+      "name": "Nada para siempre - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD"
+    },
+    {
+      "album": {
         "name": "NADIE",
         "url": "https://open.spotify.com/album/2op3VYOlPBj8PhFxLEQ0Ol"
       },
@@ -12516,6 +12582,32 @@
       "duration_ms": 217298,
       "name": "Nena Moxita",
       "url": "https://open.spotify.com/track/240m64g59DMzPCcHZNZ6Ps"
+    },
+    {
+      "album": {
+        "name": "Netflix and Chill",
+        "url": "https://open.spotify.com/album/6vVSLf4DTywrY9r8dtgnEc"
+      },
+      "artists": [
+        {
+          "name": "Luis Carrillo",
+          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Netflix and Chill",
+      "url": "https://open.spotify.com/track/2l5EWb5ThVJGWltu7R3uAs"
     },
     {
       "album": {
@@ -12742,7 +12834,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 149797,
       "name": "no lo ves",
       "url": "https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb"
@@ -13030,7 +13122,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 165865,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
@@ -15740,7 +15832,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 303048,
       "name": "QUITATELOTO (feat. Tury, GeezyDee, CARABIN3)",
       "url": "https://open.spotify.com/track/2cgrKZpNhs2LIJpGhlFb9M"
@@ -16392,6 +16484,32 @@
       "duration_ms": 165634,
       "name": "Rompe La Dompe",
       "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
+    {
+      "album": {
+        "name": "ROM\u00c1NTICA",
+        "url": "https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "ROM\u00c1NTICA",
+      "url": "https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb"
     },
     {
       "album": {
@@ -18070,6 +18188,28 @@
       "duration_ms": 136812,
       "name": "TAPITA",
       "url": "https://open.spotify.com/track/4pqXzba0vyVasbDJDDQByK"
+    },
+    {
+      "album": {
+        "name": "KayBlack & Burna Boy - Spotify Sessions",
+        "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165540,
+      "name": "TaTaTa - Spotify Sessions",
+      "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
     },
     {
       "album": {

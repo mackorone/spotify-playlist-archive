@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 ### [Krautrock](https://open.spotify.com/playlist/37i9dQZF1DWT9KDEHFNVYD)
 
-> Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
+> Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. NEU! on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,113 likes - 100 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,114 likes - 100 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 35 | [Lookin Up \- Instrumental Version](https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw) | [Manic Vila](https://open.spotify.com/artist/6l8cL9AYxzM9OqJlLLeVrd) | [33641 \(Instrumental Version\)](https://open.spotify.com/album/6gRt01llWuDsh96iVOFA6W) | 1:12 |
 | 36 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 |
 | 37 | [Schmetterling \- Remastered](https://open.spotify.com/track/5WigBbIrg3nXsIZJguJLSh) | [BröselMaschine](https://open.spotify.com/artist/66WWDNTUZwM3i6jy4ihRFB) | [Bröselmaschine](https://open.spotify.com/album/3cjo0HW2NqCWWXswrPhKqX) | 9:35 |
-| 38 | [Caramel](https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 3:09 |
+| 38 | [Autobahn \- 2009 Remaster](https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Autobahn \(2009 Remaster\)](https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr) | 22:47 |
 | 39 | [Orient Express](https://open.spotify.com/track/3FaWrdCqGL6pINPHsxkYca) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Krautrock](https://open.spotify.com/album/6DZaSFDFIqHFym2tkuCCGS) | 9:46 |
-| 40 | [Autobahn \- 2009 Remaster](https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Autobahn \(2009 Remaster\)](https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr) | 22:47 |
+| 40 | [Caramel](https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 3:09 |
 | 41 | [Gamma Ray](https://open.spotify.com/track/0iVUzpjSPczQoNPuwtEOkL) | [Birth Control](https://open.spotify.com/artist/69wYvVWNm68Vrndzw0GZgR) | [Hoodoo Man](https://open.spotify.com/album/5UWOg8eQtTz0G6CBViwQi9) | 9:46 |
 | 42 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
 | 43 | [First Communication](https://open.spotify.com/track/5CevbpxOgTUNsPuJUTl6RZ) | [Agitation Free](https://open.spotify.com/artist/1fvjrL59qNJVJKNQB8RUg3) | [2Nd](https://open.spotify.com/album/154vxWniqBPvABso6BPRgH) | 8:10 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 86 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 |
 | 87 | [Autoroute](https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh) | [L'été suivant...](https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM) | 6:27 |
 | 88 | [Ausland](https://open.spotify.com/track/6T42JJsew8dVP9s87D8mA1) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 5:52 |
-| 89 | [Blood\-Drums](https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Blood\-Drums](https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn) | 8:29 |
-| 90 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 |
+| 89 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 |
+| 90 | [Blood\-Drums](https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Blood\-Drums](https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn) | 8:29 |
 | 91 | [Nieve Afuera](https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Nieve Afuera](https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo) | 4:37 |
 | 92 | [Ship \- EP Version](https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Saya](https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv) | [Ship](https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk) | 4:06 |
 | 93 | [Quakenbrück \- version](https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [QUAKENBRÜCK \[Version\]](https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7) | 4:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 96 | [Roll Call](https://open.spotify.com/track/6Z1DuLOqfcmIh9qIz5n1OG) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Lost Worker Bee \- EP](https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko) | 6:27 |
 | 97 | [Be Sure To Loop](https://open.spotify.com/track/32ymOnGRWBhyK3AftNiyTD) | [OOIOO](https://open.spotify.com/artist/1XuQeR4sDsrX9gO2gtRQwe) | [Feather Float](https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi) | 7:45 |
 | 98 | [La Luna](https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51) | [Plank!](https://open.spotify.com/artist/1PID5KNetvOkK0GicJyyAH) | [Plank!](https://open.spotify.com/album/0vuMyGU4fIjdjvzP3oMGnZ) | 4:36 |
-| 99 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
-| 100 | [If You Miss](https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Silver Apples of the Moon](https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR) | 5:19 |
+| 99 | [If You Miss](https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Silver Apples of the Moon](https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR) | 5:19 |
+| 100 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
 
 Snapshot ID: `AAAAAGApqaNQ+9hWUQMHq1K2ImWMSiO+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pOPsUgXj1I.md) - [plain]
 
 > Escute a trilha sonora da primeira e segunda temporadas de "Sintonia", uma série Netflix x KondZilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,027 likes - 27 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,028 likes - 27 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

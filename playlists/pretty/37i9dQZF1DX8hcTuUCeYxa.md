@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: CECI
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,691 likes - 90 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,709 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Meteor](https://open.spotify.com/track/2OkB8iSkiFPgKuDKT5Bara) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2pr4jK4HNc7ESD1TrcK3UX) | 2:26 |
-| 2 | [Track 9](https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [](https://open.spotify.com/album/null) | 0:00 |
-| 3 | [1234](https://open.spotify.com/track/0p1ZnifLGxSMQB2j8cl6hS) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [](https://open.spotify.com/album/null) | 3:42 |
+| 2 | [Gespenst](https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq), [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz) | [Strandbad Eldena](https://open.spotify.com/album/5Ht0J2Q4lZ0Pf5p0NUimwh) | 3:02 |
+| 3 | [1234](https://open.spotify.com/track/0p1ZnifLGxSMQB2j8cl6hS) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Nostalgia 9052](https://open.spotify.com/album/5cncVXB0GkIjaZcfSeqSSR) | 3:42 |
 | 4 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
 | 5 | [take a minute](https://open.spotify.com/track/1eenXCseEdOy5uid5p8n7G) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH), [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [take a minute](https://open.spotify.com/album/3iqvT2WGWwgM0ksgV21yc3) | 3:08 |
 | 6 | [move around](https://open.spotify.com/track/0bvBoMKXbAYwTYrwteslft) | [SCHRAMM](https://open.spotify.com/artist/15eXysq80jazu6dKxed7BU) | [move around](https://open.spotify.com/album/6h5ysqFVBFzUCTlZYsBQ9j) | 3:58 |

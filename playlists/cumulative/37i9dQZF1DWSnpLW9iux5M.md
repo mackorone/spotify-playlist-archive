@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
 
-205 songs - 13 hr 18 min
+206 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [Born In Bethlehem](https://open.spotify.com/track/6A5LlHt9UVUhqzCgYujaFE) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Born In Bethlehem](https://open.spotify.com/album/3ex3kc7hRa0fmesg7uKZfr) | 3:29 | 2025-10-26 |  |
 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [The Love Fellowship Crusade Choir](https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 | 2021-12-24 |  |
 | [Carol Of The Bells](https://open.spotify.com/track/3vjZ6PHJ6QOLHjo1P1K3re) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn) | [Hello Christmas](https://open.spotify.com/album/3UjtKsPzVAjSrI4R3jr1Ly) | 4:53 | 2021-12-24 |  |
+| [Carol Of The Bells](https://open.spotify.com/track/7xWLEzqFB6pXMM6TX1QYrD) | [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [O What A Season](https://open.spotify.com/album/4NbbofeBMjz3QSU758xAmX) | 2:49 | 2025-12-12 |  |
 | [Celebrate Me Home](https://open.spotify.com/track/7hty2YjfmJ5PDfsobsljLJ) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [Celebrate Christmas](https://open.spotify.com/album/37wbUQgRAczmg3zhbxwHHf) | 3:52 | 2024-11-17 | 2025-11-17 |
 | [Christmas Ain't Christmas \(Without The One You Love\)](https://open.spotify.com/track/1AGyI7SdbBZo21G0obtQrH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 3:52 | 2021-12-24 | 2024-04-19 |
 | [Christmas Ain't Christmas \(Without The One You Love\)](https://open.spotify.com/track/7mzQgvrYsw1U1dGYUgCTHH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas Aretha](https://open.spotify.com/album/3JEvXjX2yApZaGLuXjBAc5) | 3:52 | 2021-12-24 | 2024-10-27 |
-| [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 | 2021-12-24 |  |
+| [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 | 2021-12-24 | 2025-12-13 |
 | [Christmas Joy](https://open.spotify.com/track/160XASc2EehpJy98jRemCI) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Christmas Joy](https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl) | 3:26 | 2021-12-24 |  |
 | [Christmas Pick Me Up](https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/44odr8fGUzUtNRRNqeTyJu) | 3:59 | 2021-12-24 | 2024-11-18 |
 | [Christmas Pick Me Up](https://open.spotify.com/track/3q9CNgt5xOKVGyY8addRH4) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/2dczDUKRUmferBnrzgkCtS) | 3:59 | 2023-12-15 | 2024-04-19 |

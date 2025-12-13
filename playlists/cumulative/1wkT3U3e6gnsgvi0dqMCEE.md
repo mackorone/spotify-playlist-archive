@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-357 songs - 23 hr 39 min
+358 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [The Bed's Too Big Without You \- Radio Edit](https://open.spotify.com/track/3JKIJDzkwt9ncqWSPqqTTe) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Joyful Rebel Lion+](https://open.spotify.com/album/0JtLoKQeVLTo2WLHEKC4KE) | 4:18 | 2024-10-18 |  |
 | [The Harder They Come \- Remix](https://open.spotify.com/track/0MBxswSDvXheQKJNLkvrI3) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [The Harder They Come: The Remixes](https://open.spotify.com/album/4TPNcqvtgLmayYYq0oGfuR) | 3:37 | 2024-08-16 |  |
 | [The Hurt](https://open.spotify.com/track/0ssyUYzev6ulxNWQcAPk6m) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Foreigner](https://open.spotify.com/album/3tHGLaibgszG59jDPHkw2Q) | 4:19 | 2024-07-26 |  |
+| [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 | 2025-12-12 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2023-10-16 | 2024-05-24 |
 | [The Luck Of The Irish \- Live At The Crisler Arena, Ann Arbor, Michigan](https://open.spotify.com/track/69soP40pssuJ7yfcWyk0xF) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Elephants Memory](https://open.spotify.com/artist/7vlen6lzkmCst6naOmK3Et), [David Peel & The Lower East Side](https://open.spotify.com/artist/22GJv3acSHNKnqVi8GLAIt) | [Power To The People \(Live Jam\)](https://open.spotify.com/album/7nxGGJ2fKc6UIQfe1nNMIa) | 3:27 | 2025-11-14 |  |
 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2024-11-01 |  |

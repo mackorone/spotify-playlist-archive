@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-528 songs - 1 day 11 hr 26 min
+529 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Through Being Blue Over You](https://open.spotify.com/track/6CRyXQeDAsBMm210T8Ev8X) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh) | 3:51 | 2022-05-13 | 2024-04-19 |
 | [Thunderbird](https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [Thunderbird](https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa) | 3:51 | 2024-03-29 |  |
 | [Time Clocks](https://open.spotify.com/track/5fzS5MrIOSfSqksc4Prajn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/6LQ8BQhfsYP2WRitSPT3Lg) | 7:07 | 2021-10-01 | 2022-05-28 |
-| [To Know You Is To Love You](https://open.spotify.com/track/2dO7ugDcoN6xBoJ1JMK0bR) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [To Know You Is To Love You](https://open.spotify.com/album/2n1ZIq9IpzwEvmfTdgE6IT) | 5:30 | 2025-09-19 |  |
+| [To Know You Is To Love You](https://open.spotify.com/track/2dO7ugDcoN6xBoJ1JMK0bR) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [To Know You Is To Love You](https://open.spotify.com/album/2n1ZIq9IpzwEvmfTdgE6IT) | 5:30 | 2025-09-19 | 2025-12-13 |
 | [Too Old To Grow Up](https://open.spotify.com/track/7IWs4fsSfmfI559uW6GxDr) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Too Old To Grow Up](https://open.spotify.com/album/6FZBWcc2y78V60f9XVGqMH) | 3:21 | 2022-03-11 | 2022-04-23 |
 | [Tough Mother](https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Tough Mother](https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI) | 4:14 | 2024-07-12 | 2024-08-30 |
 | [Tougher Now](https://open.spotify.com/track/747VrxQK7vVawAP6EDdB9f) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Tougher Now](https://open.spotify.com/album/1IFqv7FgHOD8SPQTdycrbi) | 3:00 | 2025-11-07 |  |
@@ -506,6 +506,7 @@
 | [When Everything Went Wrong \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6YCW1g7XwaDZX7sUSM8LWq) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:13 | 2021-11-19 | 2022-04-23 |
 | [When It Rains](https://open.spotify.com/track/18CdYKjbXZQ1UYpkVUqlin) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/3hBNP1QpE7MWs5OIInJxAG) | 6:23 | 2021-07-16 | 2022-07-29 |
 | [When It Rains](https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV) | 6:23 | 2021-07-16 | 2023-01-14 |
+| [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 | 2025-12-12 |  |
 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 | 2025-05-30 |  |
 | [Where's The Party At](https://open.spotify.com/track/1eOlbH8uCxVAQnI0lh7OaO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae), [Celeigh Cardinal](https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR) | [Where's The Party At](https://open.spotify.com/album/4D6vyF59LINFNxZXIqOcbI) | 2:30 | 2024-06-14 | 2024-07-13 |
 | [Whiskey Got Me Married](https://open.spotify.com/track/1LlJhzftKCr4SVRfOgIYXN) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Testifyin'](https://open.spotify.com/album/0zNY2rhuQ5b3MLYFjqfNtp) | 3:51 | 2024-03-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Who's now and next in pop. Cover: Freya Skye",
+  "description": "Who's now and next in pop. Cover: JADE",
   "name": "Pop Rising",
   "tracks": [
     {
@@ -9733,6 +9733,24 @@
     },
     {
       "album": {
+        "name": "COMPASS",
+        "url": "https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166461,
+      "name": "COMPASS",
+      "url": "https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq"
+    },
+    {
+      "album": {
         "name": "COMPLETE MESS",
         "url": "https://open.spotify.com/album/5nALCJT36REzB4oFpXki54"
       },
@@ -12836,7 +12854,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 208876,
       "name": "DON'T LOOK BACK",
       "url": "https://open.spotify.com/track/4QT5M24iwORnhXx6oQ4Ksb"
@@ -17820,6 +17838,24 @@
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "album": {
+        "name": "Ginger Tea",
+        "url": "https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157226,
+      "name": "Ginger Tea",
+      "url": "https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L"
     },
     {
       "album": {
@@ -33688,7 +33724,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 184481,
       "name": "New Heart",
       "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"

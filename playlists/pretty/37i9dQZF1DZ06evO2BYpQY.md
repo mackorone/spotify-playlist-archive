@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,307 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,316 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 8 | [A Prayer For England](https://open.spotify.com/track/62RHWsSdkQqU389pDtL0Bp) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [100th Window](https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB) | 5:48 |
 | 9 | [The Emperor's New Clothes](https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 5:16 |
 | 10 | [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 |
-| 11 | [Mother \- Live In Berlin](https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Wall \- Live In Berlin](https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR) | 6:37 |
+| 11 | [Don't Cry for Me Argentina](https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 5:34 |
 | 12 | [What Your Soul Sings](https://open.spotify.com/track/6EuGf9ZfK9CcSoq2M0SYto) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [100th Window](https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB) | 6:38 |
 | 13 | [Black Boys on Mopeds](https://open.spotify.com/track/58H2Z73c7k2UoTMAR739Az) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 3:52 |
 | 14 | [Just Like U Said It Would B](https://open.spotify.com/track/3SJZbGDZG20DPXmg3jKYj9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 4:31 |
-| 15 | [Don't Cry for Me Argentina](https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 5:34 |
+| 15 | [Mother \- Live In Berlin](https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Wall \- Live In Berlin](https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR) | 6:37 |
 | 16 | [You Made Me The Thief Of Your Heart](https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You Made Me The Thief Of Your Heart](https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8) | 6:21 |
 | 17 | [Three Babies](https://open.spotify.com/track/0OYiCy0NLnRg8oQ8ppH9Jm) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:43 |
 | 18 | [Jackie](https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
 | 50 | [Hold Back the Night](https://open.spotify.com/track/68zWa6LL9JDkj7erokMETN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 4:10 |
 
-Snapshot ID: `aTi4AAAAAACUdbLjKQw4YLj1s5IIHfea`
+Snapshot ID: `aToJgAAAAAC/rR4Aa0fAXtW/QWfkpN6x`

@@ -4,7 +4,7 @@
 
 > A <a href="http://www.digster.fm/decades">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.
 
-70 songs - 4 hr 39 min
+71 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,8 +67,9 @@
 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 | 2025-07-25 |  |
 | [There She Goes](https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 2:44 | 2025-07-25 |  |
 | [Tubthumping](https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv) | 4:38 | 2022-05-18 |  |
+| [Undone \- The Sweater Song](https://open.spotify.com/track/5p48X3cAjKoPDSpNtSft4N) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 5:04 | 2025-12-12 |  |
 | [Virtual Insanity](https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 3:47 | 2025-07-25 |  |
-| [Waiting For My Ruca](https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [40oz\. To Freedom](https://open.spotify.com/album/0vuwlanMPucXrYMGnOjhYL) | 2:20 | 2025-10-24 |  |
+| [Waiting For My Ruca](https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [40oz\. To Freedom](https://open.spotify.com/album/0vuwlanMPucXrYMGnOjhYL) | 2:20 | 2025-10-24 | 2025-12-13 |
 | [Wannabe](https://open.spotify.com/track/31eKw0v9huypTZqcZcoZsA) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [90s Mixtape](https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL) | 2:52 | 2022-05-18 | 2025-05-31 |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2025-05-30 |  |
 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 | 2025-07-25 |  |

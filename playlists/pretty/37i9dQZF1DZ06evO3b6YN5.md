@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 
 > This is Little Jesus\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,915 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,923 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 40 | [llorandoenelclub\_100625\_v2](https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [llorandoenelclub\_100625\_v2](https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU) | 2:28 |
 | 41 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 |
 | 42 | [Color](https://open.spotify.com/track/515zwoNCwMBalcn4041HkQ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:18 |
-| 43 | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp) | 4:49 |
-| 44 | [Cine Permanencia Voluntaria](https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 1:34 |
-| 45 | [Mal \- Bonus](https://open.spotify.com/track/42wlc3UbSdk68Ngweo5ZBX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 3:57 |
+| 43 | [Cine Permanencia Voluntaria](https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 1:34 |
+| 44 | [Mal \- Bonus](https://open.spotify.com/track/42wlc3UbSdk68Ngweo5ZBX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 3:57 |
+| 45 | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Primavera 2020 \(feat\. Zoe Gotusso\)](https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp) | 4:49 |
 | 46 | [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 |
 | 47 | [Jóvenes \- Bonus](https://open.spotify.com/track/1Del9GKHyafG0uliX83jY2) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 4:21 |
 
-Snapshot ID: `aTi4AAAAAAAsujEFXTdOUdAr5R1ZjZq/`
+Snapshot ID: `aToJgAAAAACzwJXbnoASDWW4lOveSbWw`

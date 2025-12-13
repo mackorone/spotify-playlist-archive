@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "A Cara de Angola",
+        "url": "https://open.spotify.com/album/0ahB7ZR4rouyedW9tkOkLR"
+      },
+      "artists": [
+        {
+          "name": "12FUROS",
+          "url": "https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp"
+        },
+        {
+          "name": "Socorro",
+          "url": "https://open.spotify.com/artist/0zEjogN3aaPBp6TqYCwyM1"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226323,
+      "name": "A Cara do Gueto",
+      "url": "https://open.spotify.com/track/0SF9lqOmfEe4JWcDEpwGAr"
+    },
+    {
+      "album": {
         "name": "Rimar Contra A Mar\u00e9...",
         "url": "https://open.spotify.com/album/4CrszdJCRchxt1xko3ews3"
       },
@@ -3925,8 +3947,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "MONSTA",
+        "url": "https://open.spotify.com/album/790n8zmH6Z0wxmj7qnu2xj"
       },
       "artists": [
         {
@@ -17206,24 +17228,6 @@
       "duration_ms": 164307,
       "name": "Tou Off",
       "url": "https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "12FUROS",
-          "url": "https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp"
-        }
-      ],
-      "date_added": "2025-12-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0SF9lqOmfEe4JWcDEpwGAr"
     },
     {
       "album": {

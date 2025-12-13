@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 100514,
+  "num_followers": 100535,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAC46e4T8Ef+cG8g/nBKAi5G",
+  "snapshot_id": "aToJgAAAAAC91J5QJn+xPszwHyzLQV3v",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Vida Peligrosa El Solecito (En Vivo)",
+      "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 172316,
       "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Vida Peligrosa El Solecito (En Vivo)",
-      "url": "https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 147197,
-      "name": "EL QUE LA MUEVE",
-      "url": "https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Charal",
         "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 202026,
       "name": "El Charal",
       "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 147197,
+      "name": "EL QUE LA MUEVE",
+      "url": "https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        }
-      ],
-      "duration_ms": 159509,
-      "name": "LOS ESPA\u00d1OLES",
-      "url": "https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reyes Magos",
         "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 128000,
       "name": "Reyes Magos",
       "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        }
+      ],
+      "duration_ms": 159509,
+      "name": "LOS ESPA\u00d1OLES",
+      "url": "https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY"
     },
     {
       "added_at": null,

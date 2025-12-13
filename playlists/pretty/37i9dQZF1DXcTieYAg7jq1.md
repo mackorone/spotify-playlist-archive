@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,262 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,441 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Infinite Love](https://open.spotify.com/track/4vbhm12kpJwFP9frdIlD1u) | [Lane Brothers](https://open.spotify.com/artist/5SzuidUf9uEZLC6E62BszN), [Grayson Lane](https://open.spotify.com/artist/7kcCf7qRizAKhmuvA1HF2q), [Garrett Lane](https://open.spotify.com/artist/6NBt7jdlOAZmnLvHwSw8TL) | [Lane Brothers](https://open.spotify.com/album/7tjQsjnKGHN9g84C0xrwZ9) | 3:25 |
 | 100 | [Youniverse](https://open.spotify.com/track/7leBNpRPcy10AxJCG8UesN) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Youniverse](https://open.spotify.com/album/0S5HUfsYHiWndYT4uGY4pz) | 2:40 |
 
-Snapshot ID: `AAAAAKcEFu8SbHMsuv7ZLRJvPzeM6zg5`
+Snapshot ID: `AAAAAHn/iXIbeFTh1BYVx71MWju7w1dj`

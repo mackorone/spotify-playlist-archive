@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Naska in cover
 
-1,770 songs - 4 day 2 hr 15 min
+1,770 songs - 4 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Dal tramonto all'alba \- Uomini in nero](https://open.spotify.com/track/1Wrbjeacx1OTuNbCoqYwLH) | [Alosi](https://open.spotify.com/artist/3M0xQSDicFWo1DPjkkW8gt) | [Dal tramonto all'alba \(Uomini in nero\)](https://open.spotify.com/album/3y0mYDvm0FnJNCrgRAgX1Y) | 3:09 | 2025-07-03 | 2025-08-29 |
 | [Dalla stessa parte del vento](https://open.spotify.com/track/5kNZBWpQSRdTWupAq6wABK) | [Flowers For Boys](https://open.spotify.com/artist/5k4gkUZT1DaKoinKMaLtoe) | [Se questo è crescere](https://open.spotify.com/album/562Emqi1bLTnEJGK1G2lCU) | 2:45 | 2025-10-23 | 2025-11-28 |
 | [Dance](https://open.spotify.com/track/2VCZ29O95ltUrj6Cyck1aX) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Dance](https://open.spotify.com/album/4c6XL53P0lkKXyA1KPWg91) | 3:06 | 2022-07-29 | 2022-09-02 |
+| [Daniel J](https://open.spotify.com/track/7mdSW1dFRCDJb4jokcZTdS) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [404DEI \(Errore degli Dei\)](https://open.spotify.com/album/538nuDVXhyOoEEGNCVMdYu) | 3:30 | 2025-12-11 |  |
 | [DARE](https://open.spotify.com/track/2Qqwq9w4Q5puYTaaMY4hv5) | [Torba](https://open.spotify.com/artist/4kG6IAQ1p9TElT4scdn4wp) | [II](https://open.spotify.com/album/3loPP5yrbtXrAghM6Y56eh) | 4:10 | 2025-01-09 | 2025-03-07 |
 | [DAWN](https://open.spotify.com/track/0HVEm7pfJifjbLpizBiKmi) | [RUT!](https://open.spotify.com/artist/5b3HclakW5c1V7kAi6yhcf) | [DAWN](https://open.spotify.com/album/1WJ3wu51VfEUNHqcjTm9jY) | 2:47 | 2025-09-18 | 2025-10-24 |
 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-05-12 | 2022-06-10 |
@@ -1606,7 +1607,6 @@
 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 | 2022-05-09 | 2022-06-10 |
 | [TRACCIA](https://open.spotify.com/track/7kYc1qVVzaQU9biiYaMzMY) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [TRACCIA](https://open.spotify.com/album/65vl4mvwYTCSV8QiTpQZrK) | 3:38 | 2023-10-12 | 2023-11-03 |
 | [TRACCIA 0](https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [TRACCIA 0](https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea) | 2:08 | 2022-11-24 | 2022-12-24 |
-| [Track 2](https://open.spotify.com/track/7mdSW1dFRCDJb4jokcZTdS) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 | 2023-01-26 | 2023-05-12 |
 | [Tragedy](https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Tragedy](https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt) | 2:40 | 2025-12-04 |  |
 | [Trails of Me](https://open.spotify.com/track/0YYOvEXpjVsMPEJaUvFWG5) | [Laeds](https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g) | [Trails of Me](https://open.spotify.com/album/6wjDGE6rWctp7CZm69z9C7) | 4:19 | 2022-08-11 | 2022-09-02 |

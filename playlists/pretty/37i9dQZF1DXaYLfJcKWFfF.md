@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Babble Hume
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,600 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,621 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 20 | [OKAY!](https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [OKAY!](https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8) | 2:57 |
 | 21 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
 | 22 | [Sugar Rush \(Known Stranger Remix\)](https://open.spotify.com/track/2Fd89VLZHCfbWrW9ypgxbg) | [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549), [Known Stranger](https://open.spotify.com/artist/4Vh0tmi9CRcWj1mqvFqb8G) | [Sugar Rush \(Known Stranger Remix\)](https://open.spotify.com/album/4JlRNNuUdKGGy1IW6QoG70) | 3:22 |
-| 23 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
-| 24 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
-| 25 | [Track 1](https://open.spotify.com/track/0SEZkVlCxeBnDIf1attnNj) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [](https://open.spotify.com/album/null) | 0:00 |
+| 23 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
+| 24 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
+| 25 | [mood\~](https://open.spotify.com/track/0SEZkVlCxeBnDIf1attnNj) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [you're the last thing on my mind](https://open.spotify.com/album/1oyHVYuY8ulvQRoW9d3lZ7) | 2:01 |
 | 26 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 27 | [Wayside Lover](https://open.spotify.com/track/1bHXMTrHyKqy0k4lOm1rrA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Wayside Lover](https://open.spotify.com/album/75IL5pjKVwJZKLWVTzLKkj) | 4:11 |
 | 28 | [hi "love"](https://open.spotify.com/track/0yMMGnqV02Pmcm78AV7UVV) | [meelu](https://open.spotify.com/artist/2deayPInIeJYpH3mf60duo) | [hi "love"](https://open.spotify.com/album/7li2gBOSAuGy9ub7PAZKYF) | 2:23 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
 | 50 | [seeking happiness](https://open.spotify.com/track/5tQ1jWHYQUI0RaK7Q0WbeC) | [giuliette price](https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p) | [seeking happiness](https://open.spotify.com/album/4y2dq6AMdXK2CrT2f247lS) | 4:26 |
 | 51 | [Old Hometown](https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Old Hometown](https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0) | 2:38 |
-| 52 | [Salty Chips](https://open.spotify.com/track/4jveq3HIgawbJsjjvNQA2A) | [Juney Luv](https://open.spotify.com/artist/1iBaEWkXNbRPVQDaSdXvhI) | [Salty Chips](https://open.spotify.com/album/4DTFPl5XlUy5rZDOgUCll1) | 2:28 |
-| 53 | [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 |
+| 52 | [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 |
+| 53 | [Salty Chips](https://open.spotify.com/track/4jveq3HIgawbJsjjvNQA2A) | [Juney Luv](https://open.spotify.com/artist/1iBaEWkXNbRPVQDaSdXvhI) | [Salty Chips](https://open.spotify.com/album/4DTFPl5XlUy5rZDOgUCll1) | 2:28 |
 | 54 | [How Dare You](https://open.spotify.com/track/3NxnFgg4YKQkqzNPQqAKRX) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [How Dare You](https://open.spotify.com/album/5m3yTfB7TPF4ZEH45jEkL4) | 3:39 |
 | 55 | [DON'T ASK DON'T ANSWER \(feat\. NATURE\)](https://open.spotify.com/track/3OKpzbpU6pfvBq5SIVLbVb) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [DON'T ASK DON'T ANSWER \(feat\. NATURE\)](https://open.spotify.com/album/5IHpH7DE5YWsqhL93aBGv7) | 2:37 |
 | 56 | [My Hide & Seek](https://open.spotify.com/track/62Tq7Z6jCYfUBp19eaHhFI) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [My Hide & Seek](https://open.spotify.com/album/3Qr51I7jQ14yMwRYrb58rg) | 3:37 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 58 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
 | 59 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
 | 60 | [Joyce Buyers Method](https://open.spotify.com/track/3IsTEeUvjblUnfHzuH88WO) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Gravity In Grief](https://open.spotify.com/album/3mSuIse2hJFrGkiJl7bmrE) | 3:56 |
-| 61 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |
-| 62 | [Beach Uniform](https://open.spotify.com/track/1S0XDSYMauoLf1kUp8fBEx) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [Beach Uniform](https://open.spotify.com/album/1NYh7mmW97T2poHSbO3TyU) | 2:21 |
-| 63 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
+| 61 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
+| 62 | [Broda Kevwe](https://open.spotify.com/track/1C8JvIKdcn7J4JGFTIFTJ2) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Detox](https://open.spotify.com/album/2pgUrFWkbvvEqZKmpdri3z) | 4:12 |
+| 63 | [Beach Uniform](https://open.spotify.com/track/1S0XDSYMauoLf1kUp8fBEx) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [Beach Uniform](https://open.spotify.com/album/1NYh7mmW97T2poHSbO3TyU) | 2:21 |
 | 64 | [tongue\~](https://open.spotify.com/track/139mQlFEetSmfGBQ6HUV6M) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [tongue\~](https://open.spotify.com/album/36gOx3OazWJRxz0HBzLOnr) | 1:57 |
 | 65 | [The Adults Are Talking](https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [The Adults Are Talking](https://open.spotify.com/album/5kaGxvecYiURJZ5hW4Mdmk) | 2:25 |
 | 66 | [Goodbyes](https://open.spotify.com/track/6Gf8lW8YOh7OmEMUSG5OM6) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/2WrsY0gAVrCmzd2PtlDydT) | 3:38 |

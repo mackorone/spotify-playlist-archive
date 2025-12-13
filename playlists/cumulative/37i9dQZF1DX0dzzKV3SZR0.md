@@ -4,7 +4,7 @@
 
 > the songs behind all your crushes.
 
-194 songs - 12 hr 46 min
+195 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Gangsta Lovin'](https://open.spotify.com/track/0WgLpgUdThEpA5L5K0SKq7) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 3:59 | 2023-12-08 | 2024-01-13 |
 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 | 2024-06-14 | 2025-10-25 |
 | [Gold Digger](https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:27 | 2023-11-27 | 2023-12-09 |
-| [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-10-25 |  |
+| [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-10-25 | 2025-12-13 |
 | [Hey Ma](https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Freekey Zeekey](https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3), [Toya](https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:40 | 2023-12-08 | 2024-01-13 |
 | [Hey Ma](https://open.spotify.com/track/6a8lMvYwJBwV4OtmdI1aDb) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Freekey Zeekey](https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3), [Toya](https://open.spotify.com/artist/02ehFoytLUjat0JMYpYsml) | [Come Home With Me](https://open.spotify.com/album/59AeQUlVYT08dOenfLmTWS) | 3:50 | 2023-01-27 | 2023-03-28 |
 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 | 2023-01-27 | 2023-07-07 |
@@ -180,6 +180,7 @@
 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 | 2024-02-14 | 2024-02-23 |
 | [Touchin, Lovin \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4bkhs6spQvVnVJAlXuKR6a) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:41 | 2024-02-14 | 2024-02-23 |
 | [Trading Places](https://open.spotify.com/track/5yC7WplXvhIHsp8NBYV5dT) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 4:28 | 2024-02-14 | 2024-02-23 |
+| [Tulum](https://open.spotify.com/track/7zxhj1hPewxbE99I4UFHBt) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her 2 \(Deluxe\)](https://open.spotify.com/album/2fRG5C3SgmOjtFJHMbvF9E) | 2:50 | 2025-12-12 |  |
 | [U & I](https://open.spotify.com/track/0hLE6bBJqvBtTsUsjkxAFO) | [Zzz.](https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [Jehkai](https://open.spotify.com/artist/0EqsIz6jZtqiwz76zMMDH6) | [U & I](https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of) | 2:56 | 2023-09-22 | 2023-10-13 |
 | [U 2 Luv](https://open.spotify.com/track/3862MQcbNmghGJDfk8cOJi) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [U 2 Luv](https://open.spotify.com/album/0cHOaFMMEMh4Rw642c9wEt) | 3:28 | 2024-02-14 | 2024-02-23 |
 | [U Make Me Wanna](https://open.spotify.com/track/66PlVvBwKgTseZ1vCU3e46) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Kiss Of Death](https://open.spotify.com/album/3P7zOlM3IYKqW7f4Px6WKv) | 4:53 | 2023-04-21 | 2023-04-26 |

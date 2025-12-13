@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,182 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,180 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 29 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 |
 | 30 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
 | 31 | [Accomplice](https://open.spotify.com/track/46ywwjXiSMwkQb2VP78Uqi) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [Accomplice](https://open.spotify.com/album/6vPCMylSb8OVpdTj1VWwCb) | 4:43 |
-| 32 | [Goodbye My Valentine](https://open.spotify.com/track/3NPwaceUBOfE0viH93lYWA) | [Benjamin Stewart](https://open.spotify.com/artist/4HxybppEuBP6KDY0DDmnub) | [](https://open.spotify.com/album/null) | 4:12 |
+| 32 | [Goodbye My Valentine](https://open.spotify.com/track/3NPwaceUBOfE0viH93lYWA) | [Benjamin Stewart](https://open.spotify.com/artist/4HxybppEuBP6KDY0DDmnub) | [Junkdrawers](https://open.spotify.com/album/6ARPCupjZGnB8r8dv0S4lm) | 4:12 |
 | 33 | [Flood](https://open.spotify.com/track/7mkOTx13FFvCad61vbAIcT) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Flood](https://open.spotify.com/album/1yRHBzcfygy0krP0wqVwk7) | 3:33 |
 | 34 | [Bitch](https://open.spotify.com/track/375yACL0bMGmcgr1cY62r3) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Bitch](https://open.spotify.com/album/2uyUeKwzu56mjv1jpII4wE) | 3:49 |
 | 35 | [Scumbag](https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Everything Every Single Day](https://open.spotify.com/album/26InhFNchJBbPbVcd8Dxqb) | 3:53 |

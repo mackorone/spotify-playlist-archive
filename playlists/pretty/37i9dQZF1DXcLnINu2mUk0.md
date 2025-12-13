@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Mizzy Miles
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,049 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,054 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 51 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 |
 | 52 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
 | 53 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
-| 54 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
-| 55 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
+| 54 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
+| 55 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
 | 56 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 57 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
 | 58 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 68 | [Semana](https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Amanheceu](https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr) | 2:41 |
 | 69 | [Não dá pa parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não dá pa parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
 | 70 | [festa bem louca](https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [festa bem louca](https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l) | 3:08 |
-| 71 | [Mô Amigo](https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Mô Amigo](https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB) | 2:41 |
+| 71 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 72 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
 | 73 | [Quem Tem O Teu <3](https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Pequenos Gigantes](https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3) | 2:44 |
 | 74 | [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 |
-| 75 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
+| 75 | [Mô Amigo](https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Mô Amigo](https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB) | 2:41 |
 
 Snapshot ID: `AAAAANvtAGAEOpeW51YrN82WboIBTv+G`

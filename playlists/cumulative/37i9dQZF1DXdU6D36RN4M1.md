@@ -4,7 +4,7 @@
 
 > Se va acercando la navidad, el año nuevo me traerá nuevas tristezas y por tu ausencia lloraré mi soledad.
 
-110 songs - 5 hr 58 min
+112 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Deja](https://open.spotify.com/track/2eKiUTQdn8dIThX2w3TqvS) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 2\)](https://open.spotify.com/album/2NBsJvjMiExhcDxZPRZfms) | 2:37 | 2024-11-05 |  |
 | [Desprecio](https://open.spotify.com/track/21qbssMRMHJZrPJbq6tQ8e) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/29FrFXXV0GKVahpRQmzYUG) | 2:40 | 2024-11-05 | 2024-11-12 |
 | [Desprecio](https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 | 2024-11-05 |  |
+| [Diciembre Juntos](https://open.spotify.com/track/4K8wJ7hX0bo4eHcWhhQoXE) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Diciembre Juntos](https://open.spotify.com/album/6MHR7MT9tRHs7tBS0flQ3O) | 3:41 | 2025-12-12 |  |
 | [Diferentes](https://open.spotify.com/track/212Qu6A7OGt4ptRlZZtJ7U) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 3:11 | 2024-11-05 |  |
 | [Dime, Dime, Dime](https://open.spotify.com/track/5bKwokLK8mbbClG0r8bYJx) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Morir De Amor](https://open.spotify.com/album/3AhuZYSOIefITqG353D25H) | 3:10 | 2024-11-05 |  |
 | [Dios No Lo Quiera](https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:27 | 2024-11-05 |  |
@@ -106,6 +107,7 @@
 | [Te Presumo](https://open.spotify.com/track/6oKHi7tu3aQLMclPL3nYEw) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 2\)](https://open.spotify.com/album/2NBsJvjMiExhcDxZPRZfms) | 3:12 | 2024-11-05 |  |
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2024-11-05 |  |
 | [Traficante De Besos](https://open.spotify.com/track/5H4RlQDQWnvRBSI8C6WVlg) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian](https://open.spotify.com/album/0LuipAAeA43iDxcaGlljDR) | 2:29 | 2024-11-05 |  |
+| [Triste Navidad](https://open.spotify.com/track/7M7PEAEZj93yJgUPFgrRQ6) | [Grupo Formales](https://open.spotify.com/artist/7wm4iq3AWVxAEKVdMh8gmR) | [Triste Navidad](https://open.spotify.com/album/0IH5A0lNhcESg48DuRj3Xv) | 2:47 | 2025-12-12 |  |
 | [Triste Navidad](https://open.spotify.com/track/37zLIZTOOA6a30zcvrtEUO) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 3:21 | 2025-11-21 |  |
 | [Triste Navidad](https://open.spotify.com/track/2aCThdaIwbTzNcNxdHnRb6) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Te Quiero..\. Dijiste](https://open.spotify.com/album/16Uhq5p7q2tMUg4bUHSMSe) | 2:34 | 2025-11-21 |  |
 | [Tristes Navidades](https://open.spotify.com/track/4Dk2BuZpuzIbUQCBKuw884) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tristes Navidades](https://open.spotify.com/album/20NYes8NcMzekr9z9AZFZp) | 3:46 | 2025-11-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,922 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,943 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 46 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 |
 | 47 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 |
 | 48 | [Sunshine](https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Sunshine](https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1) | 2:18 |
-| 49 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 |
-| 50 | [ASHAMED](https://open.spotify.com/track/2olEwF2igUG4f2eooVChni) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 3:01 |
+| 49 | [ASHAMED](https://open.spotify.com/track/2olEwF2igUG4f2eooVChni) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [RAT WARS](https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz) | 3:01 |
+| 50 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 |
 | 51 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
 | 52 | [Skinny Loser](https://open.spotify.com/track/25f23uoQ4S8VCQR4KQvvOh) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Skinny Loser](https://open.spotify.com/album/5VyklyrVfIDifNbJ3AR1bV) | 3:28 |
 | 53 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 86 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |
 | 87 | [Never Like Me](https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Never Like Me](https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT) | 3:14 |
 | 88 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 89 | [Body Bag \- ROMES Remix](https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY), [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Body Bag \(ROMES Remix\)](https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM) | 3:15 |
-| 90 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
+| 89 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
+| 90 | [Body Bag \- ROMES Remix](https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY), [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Body Bag \(ROMES Remix\)](https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM) | 3:15 |
 | 91 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
 | 92 | [Can't Get You Out of My Head](https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Can't Get You Out of My Head](https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV) | 3:10 |
 | 93 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 96 | [Pool Scene](https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Conditions III](https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR) | 4:58 |
 | 97 | [PSYCHO](https://open.spotify.com/track/21ncqOTJc9gXfd6bVwOdgo) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [PSYCHO](https://open.spotify.com/album/3EpyUvW0VCMAHVKRfYHMTr) | 2:43 |
 | 98 | [In The Dark](https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [In The Dark](https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p) | 3:22 |
-| 99 | [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/5daagdqvfB0hNAx6diXxYc) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [jumpscare in your garden](https://open.spotify.com/album/5PjAbxcY5tbb5eNJCLnKaH) | 2:34 |
-| 100 | [What, Me Worry? \- LP Giobbi Remix](https://open.spotify.com/track/3YwsjD1ckhneoesIqaHYZi) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [What, Me Worry? \(LP Giobbi Remix\)](https://open.spotify.com/album/3HTcnFicUtNTAuZFI5ublk) | 3:32 |
+| 99 | [What, Me Worry? \- LP Giobbi Remix](https://open.spotify.com/track/3YwsjD1ckhneoesIqaHYZi) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [What, Me Worry? \(LP Giobbi Remix\)](https://open.spotify.com/album/3HTcnFicUtNTAuZFI5ublk) | 3:32 |
+| 100 | [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/5daagdqvfB0hNAx6diXxYc) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [jumpscare in your garden](https://open.spotify.com/album/5PjAbxcY5tbb5eNJCLnKaH) | 2:34 |
 
 Snapshot ID: `AAAAANAaXXwVAJtao7UfwgkF6Cyu22i4`

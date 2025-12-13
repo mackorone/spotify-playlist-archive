@@ -654,7 +654,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 284102,
       "name": "Chaos in Calm",
       "url": "https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 367500,
       "name": "Familiars (From the Game \"World of Tanks Blitz\")",
       "url": "https://open.spotify.com/track/4jaoBjvV9goyLG0o41Uhzx"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 75000,
       "name": "FLOW STATE (ft. Odetari)",
       "url": "https://open.spotify.com/track/4TH8lXOUGPmPx7p6jy717j"
@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "holdsomeone",
+        "url": "https://open.spotify.com/album/0ib9oQ4Z2i4RJCOtG6qMXN"
+      },
+      "artists": [
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145839,
+      "name": "holdsomeone",
+      "url": "https://open.spotify.com/track/3d12wsK2FbWL9pdeeGsFLH"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4jvWaSlb6sOQ3QWYegTDJv"
       },
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 252498,
       "name": "I Want You (Rules Remix)",
       "url": "https://open.spotify.com/track/3pkyX9IpuD29i7yyHqE0Mv"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 217513,
       "name": "In Darkness",
       "url": "https://open.spotify.com/track/7hqtAz51uS84jjOKfjgdIL"
@@ -5475,6 +5493,36 @@
     },
     {
       "album": {
+        "name": "Tant pis pour elle (feat. Hummingbird & Jupin) [Remix]",
+        "url": "https://open.spotify.com/album/1aeoHFDog5ApflXhv7kX4u"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        {
+          "name": "Unveiled Universo",
+          "url": "https://open.spotify.com/artist/1THwM1Ic4F61H0QozwlxYG"
+        },
+        {
+          "name": "Hummingbird",
+          "url": "https://open.spotify.com/artist/28sErzYJBAjVFpMBJSCCI9"
+        },
+        {
+          "name": "Jupin",
+          "url": "https://open.spotify.com/artist/4qJ5fi0ZrTov1u02ZsQ5ED"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148321,
+      "name": "Tant pis pour elle (feat. Hummingbird & Jupin) - Remix",
+      "url": "https://open.spotify.com/track/2Z5Md6B2v2ObjrJxZbxNOh"
+    },
+    {
+      "album": {
         "name": "SUPERLAME",
         "url": "https://open.spotify.com/album/30Xx1oiQTcXCTx2uGOZJ4e"
       },
@@ -5592,7 +5640,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 336774,
       "name": "The Frame",
       "url": "https://open.spotify.com/track/5deI7qL4D6SdLnna8B2RSW"

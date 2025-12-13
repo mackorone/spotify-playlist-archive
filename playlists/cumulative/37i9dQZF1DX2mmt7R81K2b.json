@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 270214,
       "name": "Air",
       "url": "https://open.spotify.com/track/716P6XfVX13JMY17IKGeMj"
@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/1CwcFRDC7X63qX66F4MK4L"
+      },
+      "artists": [
+        {
+          "name": "Edvard Alsing Seland",
+          "url": "https://open.spotify.com/artist/1X4Sl13JyvfqVzLdIRoBxi"
+        },
+        {
+          "name": "Edde",
+          "url": "https://open.spotify.com/artist/0KuKN9ybYB1QOehwvnQscW"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194720,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/3HIqTh5feaF4TbEVNnpdXb"
+    },
+    {
+      "album": {
         "name": "Les triplettes de Belleville (Bande originale du film)",
         "url": "https://open.spotify.com/album/1HTooPlkTxGohRy43IvZ3c"
       },
@@ -376,10 +398,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 80080,
       "name": "Bach \u00e0 la jazz",
       "url": "https://open.spotify.com/track/18mefzc19revZMMDVPxMPT"
+    },
+    {
+      "album": {
+        "name": "Rendezvous: Jazz Meets Beethoven, Tchaikovsky & More",
+        "url": "https://open.spotify.com/album/0evrLXdg8LhhSQcpswYkcD"
+      },
+      "artists": [
+        {
+          "name": "Jo-Yu Chen",
+          "url": "https://open.spotify.com/artist/0ZB4v1ZDNxI7xhX9AqovZx"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349773,
+      "name": "Beethoven Symphony No. 5 / Piano Sonata \"Moonlight\"",
+      "url": "https://open.spotify.com/track/5CAtPLra5UxTxQqetGOgJW"
     },
     {
       "album": {
@@ -505,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Songs from Beyond: jazz song arrangements by John W Duarte",
+        "url": "https://open.spotify.com/album/6HKolwZp9ZJrQdejwvzOTD"
+      },
+      "artists": [
+        {
+          "name": "Francisco Correa",
+          "url": "https://open.spotify.com/artist/65WOtC7egyj29dra8Q2Zt3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238585,
+      "name": "Body and Soul (arr. for guitar by John W Duarte)",
+      "url": "https://open.spotify.com/track/3jXA6ACiDv08poLGFhrBAc"
+    },
+    {
+      "album": {
         "name": "Keith Jarrett: Brussels Encore",
         "url": "https://open.spotify.com/album/6CkxaeWJdQx2mfDbxuzIUu"
       },
@@ -576,7 +634,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 192946,
       "name": "Cavalleria rusticana : Intermezzo - Arr. for Piano and Double Bass",
       "url": "https://open.spotify.com/track/0DxKfiL6ETJvQSXrzRoBYJ"
@@ -790,7 +848,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 324319,
       "name": "Dear Rainer",
       "url": "https://open.spotify.com/track/0KhEgVZxws4ljrGFAmCFsd"
@@ -1014,7 +1072,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 320975,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/626St41fxiDw7qyqock3is"
@@ -1171,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "I Love Paris (arr. for guitar by John W Duarte)",
+        "url": "https://open.spotify.com/album/42YjOUFdo4MAVs58mVV2St"
+      },
+      "artists": [
+        {
+          "name": "Francisco Correa",
+          "url": "https://open.spotify.com/artist/65WOtC7egyj29dra8Q2Zt3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "I Love Paris (arr. for guitar by John W Duarte)",
+      "url": "https://open.spotify.com/track/28TUnvxKMS1Y5zzrOrl1Vr"
+    },
+    {
+      "album": {
         "name": "The Bandwagon",
         "url": "https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG"
       },
@@ -1182,7 +1258,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 399053,
       "name": "Intermezzo, Op. 118, No. 2 - Live",
       "url": "https://open.spotify.com/track/0Lf9AIOPZqprp67xBWbTG1"
@@ -1260,6 +1336,24 @@
       "duration_ms": 252826,
       "name": "Lascia ch\u2019io pianga",
       "url": "https://open.spotify.com/track/1mb90qwNLNgOTtGBwkTVi1"
+    },
+    {
+      "album": {
+        "name": "Laufey: What Love Will Do to you",
+        "url": "https://open.spotify.com/album/7qlvvRi1G3HFm35RqhY1Pr"
+      },
+      "artists": [
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226333,
+      "name": "Laufey: What Love Will Do to you",
+      "url": "https://open.spotify.com/track/71G0IAEoNkyuM8wuAS5wEy"
     },
     {
       "album": {
@@ -1400,7 +1494,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 254600,
       "name": "Mazurka No. 1",
       "url": "https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg"
@@ -1484,7 +1578,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 409000,
       "name": "Moonlight Sonata",
       "url": "https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q"
@@ -1605,6 +1699,32 @@
     },
     {
       "album": {
+        "name": "Eden Ahbez: Nature Boy (Arr. for Trumpet & Piano by Roland P\u00f6ntinen)",
+        "url": "https://open.spotify.com/album/557jroIso2zHR46t84dw1F"
+      },
+      "artists": [
+        {
+          "name": "Eden Ahbez",
+          "url": "https://open.spotify.com/artist/10uwDZEuXM1HzOeDlrybCS"
+        },
+        {
+          "name": "H\u00e5kan Hardenberger",
+          "url": "https://open.spotify.com/artist/4XHFkMzjD64NA1jaVKDJvI"
+        },
+        {
+          "name": "Roland P\u00f6ntinen",
+          "url": "https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281093,
+      "name": "Nature Boy (Arr. for Trumpet & Piano by Roland P\u00f6ntinen)",
+      "url": "https://open.spotify.com/track/3wQtbWvJ4rOSD6o40bOzPs"
+    },
+    {
+      "album": {
         "name": "Porter: Night 'n' Day (Arr. for 4 Pianos by Gershwin Piano Quartet)",
         "url": "https://open.spotify.com/album/2Xjxw6fcYkmo1UjqEndUVm"
       },
@@ -1711,6 +1831,36 @@
     },
     {
       "album": {
+        "name": "Valse des Fleurs No. 2",
+        "url": "https://open.spotify.com/album/1v3MBMkmGWUV4JL3IpYCvK"
+      },
+      "artists": [
+        {
+          "name": "Wolf Kerschek",
+          "url": "https://open.spotify.com/artist/4h0uutsMfgaQZz94AwF9uA"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Asya Fateyeva",
+          "url": "https://open.spotify.com/artist/74CgMfXwxw0JvpVGFzXV99"
+        },
+        {
+          "name": "Deutsche Staatsphilharmonie Rheinland-Pfalz",
+          "url": "https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220362,
+      "name": "Nuts, Crackers and Borrowed Pieces for Saxophone and Orchestra: Valse des Fleurs No. 2",
+      "url": "https://open.spotify.com/track/4UIWsi38jqTJjlv1AXruWP"
+    },
+    {
+      "album": {
         "name": "Pianosong",
         "url": "https://open.spotify.com/album/5LiBVnao9DWpxzzzToHNYx"
       },
@@ -1740,7 +1890,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 209029,
       "name": "Opal",
       "url": "https://open.spotify.com/track/5Jxe1gSinOhOkgmBmGuJPq"
@@ -1810,9 +1960,9 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 170626,
-      "name": "Ornithology (Arr. Horsting for Recorder and Ensemble)",
+      "name": "Ornithology (Arr. Horsting for Recorder & Ensemble)",
       "url": "https://open.spotify.com/track/3OCeWssFnu0U02ZrrmVEkF"
     },
     {
@@ -2048,7 +2198,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 206958,
       "name": "Perpetual Motion",
       "url": "https://open.spotify.com/track/4hieYLeAsC9mpPtFntmMjU"
@@ -2249,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Scurry",
+        "url": "https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley Trio",
+          "url": "https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189548,
+      "name": "Scurry",
+      "url": "https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce"
+    },
+    {
+      "album": {
         "name": "Shades of Leaving",
         "url": "https://open.spotify.com/album/3myikID3DobiPwPZna4FEt"
       },
@@ -2311,6 +2479,32 @@
     },
     {
       "album": {
+        "name": "Another June Night",
+        "url": "https://open.spotify.com/album/6RcQwt7rOeR1uelV4pEbqg"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Niklas Walentin",
+          "url": "https://open.spotify.com/artist/6lWotXEsU7enyhQ0BUmfdk"
+        },
+        {
+          "name": "Snorre Kirk Trio",
+          "url": "https://open.spotify.com/artist/2x6GREKOITUhKYBBDXc8bx"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333521,
+      "name": "Someone To Watch Over Me",
+      "url": "https://open.spotify.com/track/5PGOVKDXfmD1pThMelvErR"
+    },
+    {
+      "album": {
         "name": "Giancarlo Aquilanti: Oltreoceano",
         "url": "https://open.spotify.com/album/4NcJ1nxhGInBulPXv6T1ng"
       },
@@ -2352,7 +2546,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 280026,
       "name": "Suite in Jazz Style: I. Talk",
       "url": "https://open.spotify.com/track/6mu8PpZHi2gpTvhcSyl7rP"
@@ -2378,7 +2572,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 166560,
       "name": "Summertime (From \"Porgy and Bess\")",
       "url": "https://open.spotify.com/track/2TZzD2PXSL0S9h4HoRVMkt"
@@ -2508,7 +2702,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 278389,
       "name": "Take The A Train - Live",
       "url": "https://open.spotify.com/track/2PM5bvgkJlhUHRie3dTGoF"
@@ -2584,6 +2778,28 @@
       "duration_ms": 606180,
       "name": "The Bach Suite: Allegro - Live",
       "url": "https://open.spotify.com/track/5ldYARwUUKPaiLLPSGK6cD"
+    },
+    {
+      "album": {
+        "name": "The Inn Beneath the Starry Sky (From \u201cThe Neverending Dream\u201d)",
+        "url": "https://open.spotify.com/album/1OwCN32jbGiridEzLAd9zB"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        },
+        {
+          "name": "Shanghai Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "The Inn Beneath the Starry Sky - From \u201cThe Neverending Dream\u201d",
+      "url": "https://open.spotify.com/track/0xgDz6kiqn3Y0gd0zzSz9N"
     },
     {
       "album": {
@@ -2760,7 +2976,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 217119,
       "name": "Turkish Rondo",
       "url": "https://open.spotify.com/track/2QJg3WPi2to3IOA3WfHBlO"
@@ -2928,6 +3144,28 @@
       "duration_ms": 142826,
       "name": "When I Fall In Love (Arr. for Piano by Rosey Chan)",
       "url": "https://open.spotify.com/track/3PNbcJH2CPBvLnd6lF2g12"
+    },
+    {
+      "album": {
+        "name": "\u00c1guas de Mar\u00e7o (Arr. for Two Pianos by Marco Bernardo)",
+        "url": "https://open.spotify.com/album/2CUCsF84BXSFwrTA2pVQNh"
+      },
+      "artists": [
+        {
+          "name": "Fabio Caramuru",
+          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
+        },
+        {
+          "name": "Marco Bernardo",
+          "url": "https://open.spotify.com/artist/1oVhRtK3REXbLWiZdZ7aXB"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232647,
+      "name": "\u00c1guas de Mar\u00e7o (Arr. for Two Pianos by Marco Bernardo)",
+      "url": "https://open.spotify.com/track/0KSWyDx0lONHhX4L8WC968"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2mmt7R81K2b"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 24 | [The Last Remaining Light](https://open.spotify.com/track/2PGg8lNkzACoNt3OnaRXZ3) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [The Last Remaining Light](https://open.spotify.com/album/2cjv8TWDCVVNuCdcTGKah2) | 3:08 |
 | 25 | [Bye Bye](https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Bye Bye](https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA) | 2:43 |
 | 26 | [Closer](https://open.spotify.com/track/7lHNiN7bI3mi6bYFpnOau7) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Closer / Strangers](https://open.spotify.com/album/7KedalFRqXcnAEl66Q83tC) | 3:42 |
-| 27 | [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 |
-| 28 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |
+| 27 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |
+| 28 | [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 |
 | 29 | [Tagliatelle](https://open.spotify.com/track/3TWRsylgFQJo01jpa46pwn) | [Bert](https://open.spotify.com/artist/7oHUE5iM2Mn1lughMs1H00), [Swifty Blu](https://open.spotify.com/artist/0F4JiG2pd75jzRVimScHoP) | [It's all gd, dw](https://open.spotify.com/album/0z5H8Ykg2sD8FPuCMZnz62) | 2:19 |
 | 30 | [L4V](https://open.spotify.com/track/42j3r1LFYw2BEZQMZkwWpw) | [Agxny](https://open.spotify.com/artist/1C01qD310JFINaNl8SNzcd), [Haze Da Martian](https://open.spotify.com/artist/3579nmnoMn3NAoO7BCr6aF) | [L4V](https://open.spotify.com/album/5qcjNHcBzOCmds5JiFt30S) | 2:21 |
 | 31 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |

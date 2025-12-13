@@ -13897,6 +13897,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Amble",
+        "url": "https://open.spotify.com/album/5nE535uLbfyapfrSEqDIst"
+      },
+      "artists": [
+        {
+          "name": "Osian Lewis",
+          "url": "https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135640,
+      "name": "Moonlit Amble",
+      "url": "https://open.spotify.com/track/3outpCyCXNCdvLd77QrOZr"
+    },
+    {
+      "album": {
         "name": "Moonlit Moments",
         "url": "https://open.spotify.com/album/4xnqvzypvNBDttQa70MqI5"
       },
@@ -14870,7 +14888,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 161854,
       "name": "night gaze",
       "url": "https://open.spotify.com/track/0gTqtb5dNhqMpEuz3v2LCf"
@@ -19451,6 +19469,24 @@
     },
     {
       "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/0FN9V7NN1ZaISpzpF6q4tt"
+      },
+      "artists": [
+        {
+          "name": "herman.",
+          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/74AjCSzPxnAINpSG9I4gZW"
+    },
+    {
+      "album": {
         "name": "snowfall",
         "url": "https://open.spotify.com/album/1hzh8mBqoEkUYzBh1TBvSj"
       },
@@ -22994,7 +23030,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 115083,
       "name": "variomatic",
       "url": "https://open.spotify.com/track/1uxCLfcGWYFtwIZVXNy1hw"

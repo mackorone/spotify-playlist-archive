@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72319,
+  "num_followers": 72327,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "Autumn Whispers",
-        "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
-      },
-      "artists": [
-        {
-          "name": "Halgeir Nielsen",
-          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "Autumn Whispers",
-      "url": "https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "The Secret Piano",
         "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 159124,
       "name": "Isla De Flores",
       "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "Autumn Whispers",
+        "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "duration_ms": 172510,
+      "name": "Autumn Whispers",
+      "url": "https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
-      },
-      "artists": [
-        {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
-        }
-      ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "You Are Peace",
         "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 204911,
       "name": "You Are Peace",
       "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "Magnolia",
-        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
-      },
-      "artists": [
-        {
-          "name": "Snow in April",
-          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
-        }
-      ],
-      "duration_ms": 148407,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
+      },
+      "artists": [
+        {
+          "name": "Snow in April",
+          "url": "https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv"
+        }
+      ],
+      "duration_ms": 148407,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
-      },
-      "artists": [
-        {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "Maybe under some other sky",
         "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
       },
@@ -871,50 +855,34 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
       },
       "artists": [
         {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
         }
       ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+      "duration_ms": 220466,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
     },
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "I'll Never Be The Same",
-        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
       },
       "artists": [
         {
-          "name": "Algot Aelster",
-          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
         }
       ],
-      "duration_ms": 147436,
-      "name": "I'll Never Be The Same",
-      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
-        "name": "Piano Songs",
-        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
-      },
-      "artists": [
-        {
-          "name": "Purple Tulips",
-          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -935,6 +903,70 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "Piano Songs",
+        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
+      },
+      "artists": [
+        {
+          "name": "Purple Tulips",
+          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+      },
+      "artists": [
+        {
+          "name": "Martha Blackburn",
+          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+        }
+      ],
+      "duration_ms": 77672,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "I'll Never Be The Same",
+        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
+      },
+      "artists": [
+        {
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+        }
+      ],
+      "duration_ms": 147436,
+      "name": "I'll Never Be The Same",
+      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
         "name": "Lib\u00e9lula",
         "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
       },
@@ -947,22 +979,6 @@
       "duration_ms": 165500,
       "name": "Lib\u00e9lula",
       "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
-        "name": "Deck the Halls ~ Solo Piano Christmas",
-        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
-      },
-      "artists": [
-        {
-          "name": "Brad Jacobsen",
-          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -995,22 +1011,6 @@
       "duration_ms": 212000,
       "name": "Senorita",
       "url": "https://open.spotify.com/track/0rbKJ3fMPs3FmLqiyxq9n2"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
-      },
-      "artists": [
-        {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
-        }
-      ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "Reggimi",
-        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
-      },
-      "artists": [
-        {
-          "name": "Natalino Serafin",
-          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Reggimi",
-      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
-        "name": "Knowing Myself",
-        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Knowing Myself",
-      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "Jeremy and Maureen",
         "url": "https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf"
       },
@@ -1111,6 +1079,22 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
+        "name": "Reggimi",
+        "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
+      },
+      "artists": [
+        {
+          "name": "Natalino Serafin",
+          "url": "https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Reggimi",
+      "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
         "name": "L\u2019herbe verte",
         "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 141374,
       "name": "L\u2019herbe verte",
       "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "Knowing Myself",
+        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Knowing Myself",
+      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "It Never Entered My Mind",
-        "url": "https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd"
-      },
-      "artists": [
-        {
-          "name": "William Adams",
-          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
-        }
-      ],
-      "duration_ms": 286750,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 121500,
       "name": "A Place Like This",
       "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd"
+      },
+      "artists": [
+        {
+          "name": "William Adams",
+          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
+        }
+      ],
+      "duration_ms": 286750,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "A Time For Love",
-        "url": "https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Sanders",
-          "url": "https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe"
-        }
-      ],
-      "duration_ms": 364000,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "Please, Stay",
         "url": "https://open.spotify.com/album/0jqSdbaSayvCUnm8irFAtv"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 150822,
       "name": "Please, Stay",
       "url": "https://open.spotify.com/track/3kQAAjIpIMUtjEYkTiAX32"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "A Time For Love",
+        "url": "https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sanders",
+          "url": "https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe"
+        }
+      ],
+      "duration_ms": 364000,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
+        "name": "Tulip",
+        "url": "https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8"
+      },
+      "artists": [
+        {
+          "name": "Steve Jones Swiff",
+          "url": "https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml"
+        }
+      ],
+      "duration_ms": 123941,
+      "name": "Tulip",
+      "url": "https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
         "name": "Sleepy Mountains",
         "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "In The Dark Hours",
-        "url": "https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
       "artists": [
         {
-          "name": "Anon Berg",
-          "url": "https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg"
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
         }
       ],
-      "duration_ms": 175416,
-      "name": "In The Dark Hours",
-      "url": "https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q"
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "Tulip",
-        "url": "https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8"
-      },
-      "artists": [
-        {
-          "name": "Steve Jones Swiff",
-          "url": "https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml"
-        }
-      ],
-      "duration_ms": 123941,
-      "name": "Tulip",
-      "url": "https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
       },
@@ -1447,18 +1447,34 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "Qu\u00e9rete a ti mesmo",
-        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
+        "name": "In The Dark Hours",
+        "url": "https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh"
       },
       "artists": [
         {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+          "name": "Anon Berg",
+          "url": "https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg"
         }
       ],
-      "duration_ms": 165511,
-      "name": "Qu\u00e9rete a ti mesmo",
-      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+      "duration_ms": 175416,
+      "name": "In The Dark Hours",
+      "url": "https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 231148,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+        "name": "Qu\u00e9rete a ti mesmo",
+        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
       },
       "artists": [
         {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
         }
       ],
-      "duration_ms": 231148,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
+      "duration_ms": 165511,
+      "name": "Qu\u00e9rete a ti mesmo",
+      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
     },
     {
       "added_at": "2025-12-09 01:44:53",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
-      },
-      "artists": [
-        {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
-        }
-      ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "Pour Vous",
         "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-12-09 01:44:53",
       "album": {
-        "name": "I Guess I'll Hang My Tears Out To Dry",
-        "url": "https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa"
-      },
-      "artists": [
-        {
-          "name": "Will Mays",
-          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
-        }
-      ],
-      "duration_ms": 163126,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
-    },
-    {
-      "added_at": "2025-12-09 01:44:53",
-      "album": {
         "name": "Birdman",
         "url": "https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 201734,
       "name": "Birdman",
       "url": "https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO"
+    },
+    {
+      "added_at": "2025-12-09 01:44:53",
+      "album": {
+        "name": "I Guess I'll Hang My Tears Out To Dry",
+        "url": "https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa"
+      },
+      "artists": [
+        {
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+        }
+      ],
+      "duration_ms": 163126,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
     },
     {
       "added_at": "2025-12-09 01:44:53",

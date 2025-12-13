@@ -247,6 +247,32 @@
     },
     {
       "album": {
+        "name": "A Portrait of Jennie",
+        "url": "https://open.spotify.com/album/4bsjhQlE81vktidp8DZemt"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Rune Fog-Nielsen",
+          "url": "https://open.spotify.com/artist/1JD8w4EbJ1vtpNnDkmT6go"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245648,
+      "name": "A Portrait of Jennie",
+      "url": "https://open.spotify.com/track/0qQLT0KMCGpDl8JMoPAgwT"
+    },
+    {
+      "album": {
         "name": "Triple Play",
         "url": "https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr"
       },
@@ -932,7 +958,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 291560,
       "name": "Blackberry Winter",
       "url": "https://open.spotify.com/track/13WAHJVd17J6hN64YWVhSN"
@@ -1350,7 +1376,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 277968,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI"
@@ -2358,7 +2384,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 257693,
       "name": "Gary's Theme - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/4G3EKvGtqcUSZqPQIWJFxd"
@@ -3634,6 +3660,24 @@
       "duration_ms": 437720,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/7e4cQ65cw0hbgQfbZr9IUD"
+    },
+    {
+      "album": {
+        "name": "Lonely Woman",
+        "url": "https://open.spotify.com/album/2Q7rXuFQcGBCNkAOmT44xF"
+      },
+      "artists": [
+        {
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249685,
+      "name": "Lonely Woman",
+      "url": "https://open.spotify.com/track/5Oou7wtzfaAiXyjWPnrszM"
     },
     {
       "album": {
@@ -6155,6 +6199,24 @@
     },
     {
       "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/527gadlrStihuT9m0Ow3s8"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144246,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/2AhYzjpByjU3RKc0FEpAuZ"
+    },
+    {
+      "album": {
         "name": "Blues For Hiroshi",
         "url": "https://open.spotify.com/album/1Jdg6zJAs7fELVWs9GvolS"
       },
@@ -6555,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "Throw It Away",
+        "url": "https://open.spotify.com/album/6y2crkppjLvyghaqoBvC8h"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283099,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/2EsLDWZlJVrEJbKZ3P6DWN"
+    },
+    {
+      "album": {
         "name": "Warna",
         "url": "https://open.spotify.com/album/1AxMJlX259UQmCRRsD5jl5"
       },
@@ -6792,7 +6872,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 661773,
       "name": "We Three",
       "url": "https://open.spotify.com/track/5jkJkA8Dpu9a60s0LYfW2I"

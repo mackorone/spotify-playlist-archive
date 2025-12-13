@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-89 songs - 5 hr 0 min
+90 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2021-11-12 |  |
 | [Santa Claus Wants Some Loving](https://open.spotify.com/track/4JnSdc5Jdmi5qbLBhYKZZd) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Definitive Albert King](https://open.spotify.com/album/2t2I0wHfM1Xaak5SxmzLUQ) | 3:00 | 2021-11-12 |  |
 | [Santa's Got a Brand New Bag](https://open.spotify.com/track/3gyxI5fCcil5xNy5RL9DPo) | [Gary Walker](https://open.spotify.com/artist/1SiS31gWN3auJDxLU1CGCL), [The Boogie Kings](https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8) | [Louisiana Christmas](https://open.spotify.com/album/75mbpdrEZKAXVxvXPCkCjF) | 3:09 | 2021-11-12 |  |
+| [Snowy Night In Ohio](https://open.spotify.com/track/3RJhRweJPqyjwWvEJO9aV1) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [I Can't Wait \(For Christmas Time\) / Snowy Night In Ohio](https://open.spotify.com/album/1lhRcSuItCOjThqvu9GqH6) | 3:46 | 2025-12-12 |  |
 | [Someday At Christmas](https://open.spotify.com/track/4FJscysNlC9Z7zXYWSTZ01) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [A Motown Holiday](https://open.spotify.com/album/2UQr1aieOS6AkM82LCU9JB) | 3:06 | 2021-11-12 |  |
 | [Someday At Christmas](https://open.spotify.com/track/1qSu4UYRzd9JqDdJHSOOsS) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Lamont Landers Sings...The Holidays](https://open.spotify.com/album/1F7UqgeogdasU1Wicw2X70) | 2:58 | 2025-11-21 |  |
 | [Soul Santa](https://open.spotify.com/track/11gh3UiFOxuWFmC8u0bSBn) | [Electric Jungle](https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ) | [Funky Funky Christmas / Soul Santa](https://open.spotify.com/album/4GbmWIKyhUN36L6XgASY3o) | 3:13 | 2022-12-06 | 2024-04-19 |

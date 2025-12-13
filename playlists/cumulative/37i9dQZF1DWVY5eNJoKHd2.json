@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12 years",
+        "url": "https://open.spotify.com/album/7hslY1w5qmPB7RbeBBr7Vl"
+      },
+      "artists": [
+        {
+          "name": "MAKEUP",
+          "url": "https://open.spotify.com/artist/0WtAdekiVjVPltE1vSm6w1"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356077,
+      "name": "12 years",
+      "url": "https://open.spotify.com/track/3CRTPnROcGKtDN4q9iQzae"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 219130,
       "name": "Alchemy (Living Is Not For The Heart)",
       "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 247979,
       "name": "Crystallise My Tears",
       "url": "https://open.spotify.com/track/0Oy0McHtuyIj3axP1YAxua"
@@ -4518,7 +4536,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 179320,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"

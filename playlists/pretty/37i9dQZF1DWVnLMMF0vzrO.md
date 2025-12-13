@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,926 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,924 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 128 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
 | 129 | [Summer Season](https://open.spotify.com/track/52dVbzRZgbTR44a2gcldSJ) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Amusement](https://open.spotify.com/album/22xk6sCvEVKlQbwY3Nv0pQ) | 1:59 |
 | 130 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
-| 131 | [Keep Holding On](https://open.spotify.com/track/5dl6djYHql8kq9Mu0qgOoT) | [Savoir Flair](https://open.spotify.com/artist/5YZ87wAB4nHRVrLnDFh81g), [Soultex](https://open.spotify.com/artist/0xGPozGDcnjKjqO5cJlDkP) | [Savoir Flair](https://open.spotify.com/album/472oIYY56032dVUz8ngJOu) | 3:46 |
+| 131 | [Keep Holding On](https://open.spotify.com/track/5dl6djYHql8kq9Mu0qgOoT) | [Savoir Flair](https://open.spotify.com/artist/5YZ87wAB4nHRVrLnDFh81g), [Soultex](https://open.spotify.com/artist/5UVtitr3Qhtw9AkWIyjFeX) | [Savoir Flair](https://open.spotify.com/album/472oIYY56032dVUz8ngJOu) | 3:46 |
 | 132 | [La Camita](https://open.spotify.com/track/5pAy1K5prMzsbhHbOrHg1E) | [Traffic Sound](https://open.spotify.com/artist/2zDfxMt07hBq0Gdp93WcAa) | [Eternal Hits](https://open.spotify.com/album/6rV3DtBwvhVWgOjEYXCAms) | 2:39 |
 | 133 | [Mi Río Cali](https://open.spotify.com/track/2GmzrYAysC8yL2ePz0Mqj3) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Patillero](https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR) | 3:51 |
 | 134 | [Juana Rosa Manzano](https://open.spotify.com/track/4mRldIhI8PTQWlzcI5vPaw) | [Gabriel Romero Y Su Orquesta](https://open.spotify.com/artist/4F5RldFGx51Qt15KV2Ygyj) | [Discos Fuentes Collection](https://open.spotify.com/album/74H4ALrcVtsdxd7VX1NSRr) | 3:43 |

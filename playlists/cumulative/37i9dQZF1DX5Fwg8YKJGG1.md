@@ -4,10 +4,11 @@
 
 > Christmas favourites played on music box and glockenspiel.
 
-73 songs - 2 hr 21 min
+74 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Surprise on Christmas Eve](https://open.spotify.com/track/0j2YPpmxwWJji7N75E1a0K) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [A Surprise on Christmas Eve](https://open.spotify.com/album/4oIW16JPagf1fwmfTXffpH) | 1:57 | 2025-12-12 |  |
 | [A Virgin Unspotted](https://open.spotify.com/track/0fGjPi24GHm1SGlFUf9WZ4) | [Christoff Joyce](https://open.spotify.com/artist/037q0CFVlvZlDQ0XB7Z9s4) | [A Virgin Unspotted](https://open.spotify.com/album/0PWYXmLRDzfioIjROKABnE) | 1:19 | 2023-11-23 |  |
 | [All I Want For Christmas Is You \- Music Box Lullaby Version](https://open.spotify.com/track/3GSroDa8Fp15Wp1xoDImzF) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [All I Want For Christmas Is You](https://open.spotify.com/album/2oUMGYjcCvcQMF7yx5EWfk) | 2:06 | 2023-11-23 |  |
 | [Alle Jahre Wieder](https://open.spotify.com/track/3bpVrnAYK40WOSVXUC5nZc) | [Odette Weisz](https://open.spotify.com/artist/3uIIsttgIORjqRPNaT18b9) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:04 | 2023-11-23 |  |

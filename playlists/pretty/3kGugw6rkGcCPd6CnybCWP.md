@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 56 songs - 3 hr 6 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 54 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 |
 | 55 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 |
 | 56 | [fate](https://open.spotify.com/track/4aP2iBOUZH4VYMebwnKs0P) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fate](https://open.spotify.com/album/6gOaFZHjqC8dWTh4xfempC) | 2:46 |
+| 57 | [Different Way Home](https://open.spotify.com/track/6eGTAZZz8DC0ZXDpK0ub87) | [The Casbahs](https://open.spotify.com/artist/41Op3ON8O72S14pbBEJ6bd) | [Different Way Home](https://open.spotify.com/album/6yZz5dt5wZDrdE4QtXsqy0) | 3:21 |
+| 58 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 |
+| 59 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 |
 
-Snapshot ID: `AAAMjyFrY3FLgtOMLzfQKjBVc3WBxy4j`
+Snapshot ID: `AAAMknNqqntcT8gv2EtvBbruNaNCH5IW`

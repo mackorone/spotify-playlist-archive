@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > blissed out beats and head nodding grooves \- relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,025 likes - 100 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,106 likes - 100 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 99 | [blurred](https://open.spotify.com/track/1y9eslcDsTi75UfkTHuyQZ) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [blurred](https://open.spotify.com/album/3O5SG1lknx9ptWNp5wNj3J) | 1:52 |
 | 100 | [Excursion](https://open.spotify.com/track/73S7laK3MRdZDS8EdODozs) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Excursion](https://open.spotify.com/album/1cOXShRfyla6aEJ4hniagX) | 2:23 |
 
-Snapshot ID: `AAAAAOAY0ZYYCFLItiETD1AQkd6Q+NOF`
+Snapshot ID: `AAAAAFhzd0IwpMHrxBWdn+fFPgUyTKVf`

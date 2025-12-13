@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,575 likes - 34 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,577 likes - 34 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 5 | [Frankenstein](https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:12 |
 | 6 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 | 7 | [Comme Des Garçons \(Like The Boys\)](https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:01 |
-| 8 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 |
+| 8 | [saving flowers](https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 3:30 |
 | 9 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 |
-| 10 | [saving flowers](https://open.spotify.com/track/5s54Ts1rJwUwaxQqoTC4jQ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 3:30 |
+| 10 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 |
 | 11 | [10\-20\-40](https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:15 |
 | 12 | [Bad Friend](https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:28 |
 | 13 | [Hold The Girl](https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 4:05 |
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 19 | [Free Woman \- Rina Sawayama & Clarence Clarity Remix](https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:53 |
 | 20 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 |
 | 21 | [Catch Me In The Air](https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:35 |
-| 22 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 |
-| 23 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
+| 22 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
+| 23 | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Kiss Me \(feat\. Rina Sawayama\)](https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ) | 3:21 |
 | 24 | [Dynasty](https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:08 |
 | 25 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 |
-| 26 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2) | 3:02 |
-| 27 | [Where U Are](https://open.spotify.com/track/30tie454RN2304xzAu5Din) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Where U Are](https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ) | 3:52 |
+| 26 | [Where U Are](https://open.spotify.com/track/30tie454RN2304xzAu5Din) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Where U Are](https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ) | 3:52 |
+| 27 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2) | 3:02 |
 | 28 | [Alterlife](https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 4:04 |
 | 29 | [Follow Me](https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V) | 2:57 |
 | 30 | [Flavour Of The Month](https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 2:33 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 33 | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Valentine \(What's It Gonna Be\)](https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO) | 3:27 |
 | 34 | [Flicker](https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Flicker](https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx) | 3:00 |
 
-Snapshot ID: `aTi4AAAAAABYJH5TcEDCTYKj7Qa33caA`
+Snapshot ID: `aToJgAAAAAAQyAebd/s8JqwevAs9a8Jd`

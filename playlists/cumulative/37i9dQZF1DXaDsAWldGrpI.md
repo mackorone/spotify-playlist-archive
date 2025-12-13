@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Megan Moroney
 
-220 songs - 15 hr 36 min
+221 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 | 2021-07-22 |  |
 | [Big Star \(with Taylor Swift\) \- Live](https://open.spotify.com/track/7JKwboSAWRHJI5U1XGTqS3) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 5:07 | 2021-07-22 |  |
 | [Big Wheels \- Live](https://open.spotify.com/track/3iRrWEGec6fx4lRudewydr) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Pre Party](https://open.spotify.com/album/4DzRrORUYwUFOORTfqwWsV) | 2:33 | 2023-10-20 | 2024-05-05 |
+| [Bitin' List \- Live From Dinosaur World](https://open.spotify.com/track/2CfPwG0zHu1OXq3YDRF3SO) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Bitin' List \(Live From Dinosaur World\)](https://open.spotify.com/album/5thqDxmfQV6ja5RTyqaP5y) | 5:19 | 2025-12-12 |  |
 | [Bleed On Paper \- Live At The Pinnacle, Nashville, TN / May 24, 2025](https://open.spotify.com/track/3HthvlnNlEfKWnDdIttKQa) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Bleed On Paper \(Live At The Pinnacle, Nashville, TN / May 24, 2025\)](https://open.spotify.com/album/7JsgQ1vqBoUrtcuSuZ5qFH) | 5:47 | 2025-11-21 |  |
 | [Bless the Broken Road \- Live / 2011](https://open.spotify.com/track/3k9b7S4DKDvHZx5Krad6p4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Best of Rascal Flatts LIVE](https://open.spotify.com/album/0xNgmo1PeXN0adBq3oE1Sz) | 3:39 | 2021-07-22 |  |
 | [Blue Moon Of Kentucky \- Live](https://open.spotify.com/track/6rdDgfXHDv7LMoHInLXzAI) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 1:51 | 2024-05-04 | 2025-06-27 |
@@ -103,7 +104,7 @@
 | [House Of The Rising Sun \- Live in Denver](https://open.spotify.com/track/6r6lV2hf0QE27BpJ5Pm6Vq) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [House Of The Rising Sun \(Live in Denver\)](https://open.spotify.com/album/6MmI1NpknaKeMhOsYBqB9r) | 6:00 | 2025-08-22 |  |
 | [House Party \- Live From The Street Party Presented By Bose](https://open.spotify.com/track/0Boz5z3s23HtPiNrayrkxw) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Street Party Live](https://open.spotify.com/album/6RmHhMeHdNJPbxjhnLKAbW) | 3:16 | 2021-07-22 | 2024-05-05 |
 | [Human \- Live](https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human \(Live\)](https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg) | 3:34 | 2022-11-04 |  |
-| [Humble And Kind \- Live](https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind \(Live\)](https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3) | 3:50 | 2021-07-22 |  |
+| [Humble And Kind \- Live](https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind \(Live\)](https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3) | 3:50 | 2021-07-22 | 2025-12-13 |
 | [I Am A Man Of Constant Sorrow \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/1jgZ20S8NnwZcjrtI2tYnK) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 4:12 | 2024-05-04 |  |
 | [I Hope You're Happy Now \- Live from the CMA Awards 2020](https://open.spotify.com/track/16ksnBUPxX5aIhIqDBzcOX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [I Hope You’re Happy Now \(Live from the CMA Awards 2020\)](https://open.spotify.com/album/1cDYRtB0pAqyNglsvDrxUN) | 3:18 | 2021-07-22 | 2025-07-26 |
 | [I Run To You \- Live](https://open.spotify.com/track/6Ut4aPmaScltV7Bu5BWOix) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:56 | 2021-07-22 | 2024-07-10 |

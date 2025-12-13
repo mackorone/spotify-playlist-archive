@@ -2117,8 +2117,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
       },
       "artists": [
         {
@@ -2574,6 +2574,28 @@
       "duration_ms": 209143,
       "name": "Need a Moment",
       "url": "https://open.spotify.com/track/0XlkTuDHqNSfKd2MnjQ4GE"
+    },
+    {
+      "album": {
+        "name": "The Human Condition",
+        "url": "https://open.spotify.com/album/78oaC4ZYNN6NCzJ0TSxNp2"
+      },
+      "artists": [
+        {
+          "name": "Deca OTA",
+          "url": "https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb"
+        },
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145447,
+      "name": "New Creation",
+      "url": "https://open.spotify.com/track/7m3ByccI7ylP805A07Gr0g"
     },
     {
       "album": {
@@ -3377,7 +3399,7 @@
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 142236,
+      "duration_ms": 203226,
       "name": "Shochu",
       "url": "https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR"
     },
@@ -3896,24 +3918,6 @@
       "duration_ms": 154000,
       "name": "THE SCARLET WOMAN",
       "url": "https://open.spotify.com/track/2MMhVXYsFQ47WG60258IQ3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Deca OTA",
-          "url": "https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb"
-        }
-      ],
-      "date_added": "2025-12-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/7m3ByccI7ylP805A07Gr0g"
     },
     {
       "album": {

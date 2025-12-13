@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACwhNLLt0SX38xKSw5e8OKK",
+  "snapshot_id": "aToJgAAAAABASLs+3+xQTq0qKEE4eWIv",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 34573,
-      "name": "Coffee Mug",
-      "url": "https://open.spotify.com/track/6u52PVls4czt3mp2GnyGxe"
+      "duration_ms": 149600,
+      "name": "When I Get Old",
+      "url": "https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 149600,
-      "name": "When I Get Old",
-      "url": "https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag"
+      "duration_ms": 34573,
+      "name": "Coffee Mug",
+      "url": "https://open.spotify.com/track/6u52PVls4czt3mp2GnyGxe"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want to Grow Up",
-        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 81266,
-      "name": "I Don't Want to Grow Up",
-      "url": "https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA"
+      "duration_ms": 147533,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/2wy0NeYv2d0zNezdHesMEW"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/2wy0NeYv2d0zNezdHesMEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
       },
@@ -356,9 +340,25 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 152106,
-      "name": "In Love This Way",
-      "url": "https://open.spotify.com/track/1wvQFyYkXrEAqkR22UugcJ"
+      "duration_ms": 81266,
+      "name": "I Don't Want to Grow Up",
+      "url": "https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 111533,
+      "name": "She Don't Care",
+      "url": "https://open.spotify.com/track/3M27UObWWBzZZH89DRneW9"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 111533,
-      "name": "She Don't Care",
-      "url": "https://open.spotify.com/track/3M27UObWWBzZZH89DRneW9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
       },
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 104333,
-      "name": "Can't Go Back",
-      "url": "https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR"
+      "duration_ms": 152106,
+      "name": "In Love This Way",
+      "url": "https://open.spotify.com/track/1wvQFyYkXrEAqkR22UugcJ"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 104333,
+      "name": "Can't Go Back",
+      "url": "https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'Merican",
         "url": "https://open.spotify.com/album/51iwFQcTRgaklyI04obvSd"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All",
-        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "Cameage",
-      "url": "https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hypercaffium Spazzinate (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 74026,
       "name": "Feel This",
       "url": "https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "Cameage",
+      "url": "https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 190924,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dead Tracks, Vol. 2",
         "url": "https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 111000,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypercaffium Spazzinate (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 190924,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hypercaffium Spazzinate (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 96941,
       "name": "Victim Of Me",
       "url": "https://open.spotify.com/track/40ifWLszUQT675PpXGFH4T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
     },
     {
       "added_at": null,

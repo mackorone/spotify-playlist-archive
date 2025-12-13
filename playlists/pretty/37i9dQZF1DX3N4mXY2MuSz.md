@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,634 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,947 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 6 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
 | 7 | [Christmas Every Day](https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Christmas Every Day](https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL) | 3:46 |
 | 8 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
-| 9 | [Deadbeat Holiday](https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:35 |
-| 10 | [Not Another Christmas Song](https://open.spotify.com/track/22HLihdOv820hEmSRJeHUf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Not Another Christmas Song](https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK) | 2:39 |
+| 9 | [Not Another Christmas Song](https://open.spotify.com/track/22HLihdOv820hEmSRJeHUf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Not Another Christmas Song](https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK) | 2:39 |
+| 10 | [Deadbeat Holiday](https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:35 |
 | 11 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:39 |
 | 12 | [O Come All Ye Faithful](https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 2:04 |
 | 13 | [His Favorite Christmas Story](https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr) | [Capital Lights](https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:32 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 20 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 21 | [I'm With You](https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [I'm With You](https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq) | 4:04 |
 | 22 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
-| 23 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
-| 24 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
+| 23 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
+| 24 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
 | 25 | [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 |
 | 26 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
 | 27 | [December's Here](https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/32cEyEa1AdPfMi79rJh6uN) | 2:59 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 46 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 |
 | 47 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 48 | [Black Christmas](https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Black Christmas](https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9) | 3:23 |
-| 49 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
-| 50 | [Another Christmas](https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:40 |
+| 49 | [Another Christmas](https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:40 |
+| 50 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
 | 51 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 |
 | 52 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |
 | 53 | [Santa Claus Is Coming to Town \- Single Version](https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t) | [Santa Claus Is Coming to Town](https://open.spotify.com/album/3KsEuysKMu3uTRac1Y1x41) | 1:54 |

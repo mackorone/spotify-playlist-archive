@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap e a música urbana em 2025\. Foto: Deejay Telio, Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,280 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,290 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [Sentimento Acústico \#1: Cumplicidade](https://open.spotify.com/track/1Y9E8LL4yt3BnoGB4DDAr8) | [Sentimento Acústico](https://open.spotify.com/artist/49J9ounFr1VdfpJ6crpaj8), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O), [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sentimento Acústico \#1: Cumplicidade](https://open.spotify.com/album/2dn9RIxCx606AObKgiDweu) | 5:18 |
 | 50 | [Nuvens](https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1) | [Sheka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2) | [Nuvens](https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6) | 2:19 |
 
-Snapshot ID: `AAAAACe9QZlThxKBOIlwhRMnHwRjwar5`
+Snapshot ID: `AAAAAApHQFSnVmnGP1aUJrH2Q6c7o5oa`

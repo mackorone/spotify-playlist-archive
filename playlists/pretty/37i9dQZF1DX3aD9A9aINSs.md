@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > EQUAL sunar: Yılın favori kadın sanatçıları\. Kapak: Tuğçe Kandemir
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,847 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,852 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 74 | [Dragon](https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Dragon](https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke) | 1:57 |
 | 75 | [Una Corda](https://open.spotify.com/track/7u3FPCPBPn2MomXI1J9qwe) | [Karsu](https://open.spotify.com/artist/0rRu3Co1oQ6Ce3yz7btJzB) | [Tabula Rasa](https://open.spotify.com/album/3IUIhA00xnDP2kji4p8iO4) | 4:24 |
 
-Snapshot ID: `AAAAAAW/phQH7lz3/opnFgmcYyvgYR3C`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

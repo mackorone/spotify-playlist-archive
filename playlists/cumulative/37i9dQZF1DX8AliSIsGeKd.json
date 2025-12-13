@@ -51921,6 +51921,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Wallfacer",
+          "url": "https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197999,
+      "name": "I Luv U",
+      "url": "https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx"
+    },
+    {
+      "album": {
         "name": "I Need a Reason",
         "url": "https://open.spotify.com/album/4Ab142oXt0zU97pfvhlMQw"
       },
@@ -85823,8 +85845,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "With My Eyes Closed EP",
+        "url": "https://open.spotify.com/album/6Qu8ZxzKX8M9Oi1UuHtRyf"
       },
       "artists": [
         {
@@ -96839,8 +96861,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Skywalker",
+        "url": "https://open.spotify.com/album/549j8pIuxDEWit1DM5uC9k"
       },
       "artists": [
         {
@@ -99719,8 +99741,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Spectre | Paradox",
+        "url": "https://open.spotify.com/album/1nsGAICNrmQiuDMmXSludt"
       },
       "artists": [
         {
@@ -110999,8 +111021,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Metasymmetry",
+        "url": "https://open.spotify.com/album/0N2eCKy3yMURz6tYkrtcub"
       },
       "artists": [
         {
@@ -112565,24 +112587,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "date_added": "2025-12-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx"
-    },
-    {
-      "album": {
         "name": "Track Your Steps",
         "url": "https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ"
       },
@@ -113155,8 +113159,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Trip With Me",
+        "url": "https://open.spotify.com/album/5QnqDvRZPUCM5crZQb1dwe"
       },
       "artists": [
         {
@@ -119685,7 +119689,7 @@
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 292840,
+      "duration_ms": 192727,
       "name": "We Don't Say Please",
       "url": "https://open.spotify.com/track/2fpQBQEorsdMNJw2ASqoyC"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,621 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,662 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 44 | [Mi Corazón Te Quiere](https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 2:44 |
 | 45 | [Alla En El Rancho Grande](https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Lo Basico](https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS) | 3:12 |
 | 46 | [Pedro Avilés](https://open.spotify.com/track/2O5PXvFcz0MrjLYdcDmyJS) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amor No Tiene Edad](https://open.spotify.com/album/5ld9ikvXhVrDJ0D3OwPY5K) | 3:09 |
-| 47 | [Esta Tristeza Mía](https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:40 |
-| 48 | [Dolor Y Amor](https://open.spotify.com/track/4jaY53IV5NntsISYc1Frmn) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 4:35 |
-| 49 | [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 |
-| 50 | [El Último Trago](https://open.spotify.com/track/20UlSvvTAh3C0Mdxetu5OU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 2:01 |
+| 47 | [Dolor Y Amor](https://open.spotify.com/track/4jaY53IV5NntsISYc1Frmn) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 4:35 |
+| 48 | [Esta Tristeza Mía](https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:40 |
+| 49 | [El Último Trago](https://open.spotify.com/track/20UlSvvTAh3C0Mdxetu5OU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 2:01 |
+| 50 | [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 |
 
-Snapshot ID: `aTi4AAAAAAAYUvgdiFWsp5wZx9TAxVPg`
+Snapshot ID: `aToJgAAAAABof7uGCZTOwKN8sxUuPrRW`

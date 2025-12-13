@@ -1,12 +1,12 @@
 {
   "description": "Feel good songs yang bikin kamu happy",
-  "num_followers": 205842,
+  "num_followers": 205845,
   "original_name": "Yang Penting Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACGTTOKamkt9miSaD6NHxNQuX78o",
+  "snapshot_id": "AAAAAPVhUbDsvaQkVK/HvBWOvv9N7vvG",
   "tracks": [
     {
       "added_at": "2025-10-07 03:56:51",
@@ -75,6 +75,30 @@
       "duration_ms": 196434,
       "name": "Kacamata",
       "url": "https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm"
+    },
+    {
+      "added_at": "2025-12-12 03:30:38",
+      "album": {
+        "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
+        "url": "https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        },
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        },
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "duration_ms": 269937,
+      "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
+      "url": "https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH"
     },
     {
       "added_at": "2025-11-04 14:16:21",
@@ -475,22 +499,6 @@
       "duration_ms": 170699,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM"
-    },
-    {
-      "added_at": "2025-10-02 17:00:34",
-      "album": {
-        "name": "Twenties",
-        "url": "https://open.spotify.com/album/376cAL4mCqmNTi7nRlz2v2"
-      },
-      "artists": [
-        {
-          "name": "Tripov",
-          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
-        }
-      ],
-      "duration_ms": 201995,
-      "name": "Twenties",
-      "url": "https://open.spotify.com/track/0NzTdXtgZLKP6IcyFyGytS"
     },
     {
       "added_at": "2025-10-02 17:00:34",

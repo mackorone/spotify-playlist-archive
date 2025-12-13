@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional Christmas songs for a classic festive feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,581 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,139 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 51 | [Adeste fideles \(O Come All Ye Faithful\) \[arr\. A\. Delmoni\]](https://open.spotify.com/track/6qR5mHYq1pVlBWDdrpmR90) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:48 |
 | 52 | [Veni, veni Emmanuel \(Arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `AAAAANnk1XpMrI3qeunqxovnOQ+c9CU4`
+Snapshot ID: `AAAAAFamX3Pu8YwYyaGGCNIZp6xGUH9B`

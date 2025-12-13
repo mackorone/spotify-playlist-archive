@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 
 > Music from "Symphogear"! Ⓒproject シンフォギアXV
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,541 likes - 68 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,549 likes - 68 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

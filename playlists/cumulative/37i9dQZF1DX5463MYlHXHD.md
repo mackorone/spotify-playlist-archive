@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-361 songs - 20 hr 7 min
+362 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Amor de Colegio](https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Dando Clase](https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a) | 4:34 | 2024-04-19 |  |
 | [Amor Prohibido](https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:26 | 2024-07-26 |  |
 | [Anoche Yo Me Fui](https://open.spotify.com/track/6Zk6ORgEAzGMfIyBBuCA2E) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Anoche Yo Me Fui](https://open.spotify.com/album/1MYLcG9u7IRQqYfs4oUhcn) | 3:02 | 2023-05-29 | 2023-06-20 |
+| [Arriba, Arriba](https://open.spotify.com/track/1l37tXRzuBzbOlNCgGlEG1) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [KaKa Nene](https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF) | 2:23 | 2025-11-20 |  |
 | [Atorrante](https://open.spotify.com/track/1IbBMlx0zQsQBVivwBcIKy) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Atorrante](https://open.spotify.com/album/5Fk5Jivf8cdfhk1ZpgqG4F) | 3:16 | 2023-12-01 | 2023-12-14 |
 | [Auto Al Piso](https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Auto Al Piso](https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy) | 2:54 | 2023-12-08 |  |
 | [Baila Sola](https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:32 | 2023-05-26 |  |
@@ -275,7 +276,7 @@
 | [Regresa Por Favor](https://open.spotify.com/track/4ZNTXxXvWoY9L0xMcrXiaa) | [1 de kal](https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Regresa Por Favor](https://open.spotify.com/album/3w8OvJaLNJdsOi8UVzNGpm) | 3:23 | 2024-08-16 | 2024-08-22 |
 | [Remake](https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Remake](https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U) | 5:32 | 2023-05-26 |  |
 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 | 2023-05-26 | 2024-04-19 |
-| [Ricky Paum Paum](https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:55 | 2024-09-27 |  |
+| [Ricky Paum Paum](https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:55 | 2024-09-27 | 2025-12-13 |
 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 | 2023-05-26 | 2024-03-06 |
 | [ROCAMORA](https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW) | [ROCAMORA](https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP) | 2:38 | 2023-05-26 | 2024-01-13 |
 | [ROMPE](https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [ROMPE](https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh) | 3:13 | 2023-06-16 | 2024-02-24 |

@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 60187,
+  "num_followers": 60199,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Going Out\u2026",
+      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 166720,
       "name": "City Of New Orleans - Instrumental",
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Going Out\u2026",
-      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Now They Are Four",
-        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
-      },
-      "artists": [
-        {
-          "name": "Dan Crary",
-          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
-        },
-        {
-          "name": "Byron Berline",
-          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
-        },
-        {
-          "name": "John Hickman",
-          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Santa Ana",
-      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -1387,6 +1363,30 @@
       "duration_ms": 318613,
       "name": "Five Points",
       "url": "https://open.spotify.com/track/0qjp00N4Q0k4qoTlmXRjFD"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Now They Are Four",
+        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
+      },
+      "artists": [
+        {
+          "name": "Dan Crary",
+          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
+        },
+        {
+          "name": "Byron Berline",
+          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
+        },
+        {
+          "name": "John Hickman",
+          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Santa Ana",
+      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -1455,34 +1455,18 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Indoor Vistas",
-        "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
+        "name": "Bop Your Head",
+        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
       },
       "artists": [
         {
-          "name": "Ethan Sherman",
-          "url": "https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse"
-        },
-        {
-          "name": "Thomas Cassell",
-          "url": "https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa"
-        },
-        {
-          "name": "Matthew Davis",
-          "url": "https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26"
-        },
-        {
-          "name": "Avery Merritt",
-          "url": "https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku"
-        },
-        {
-          "name": "Tim McNalley",
-          "url": "https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD"
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
         }
       ],
-      "duration_ms": 237768,
-      "name": "And Then, And Then, And Then",
-      "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
+      "duration_ms": 166132,
+      "name": "Bop Your Head",
+      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -1535,18 +1519,34 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Bop Your Head",
-        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
+        "name": "Indoor Vistas",
+        "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
       "artists": [
         {
-          "name": "Allen & Bright",
-          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+          "name": "Ethan Sherman",
+          "url": "https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse"
+        },
+        {
+          "name": "Thomas Cassell",
+          "url": "https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa"
+        },
+        {
+          "name": "Matthew Davis",
+          "url": "https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26"
+        },
+        {
+          "name": "Avery Merritt",
+          "url": "https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku"
+        },
+        {
+          "name": "Tim McNalley",
+          "url": "https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD"
         }
       ],
-      "duration_ms": 166132,
-      "name": "Bop Your Head",
-      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
+      "duration_ms": 237768,
+      "name": "And Then, And Then, And Then",
+      "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "New Chapter",
-        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
-      },
-      "artists": [
-        {
-          "name": "Cedar Hill",
-          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "Leavin' Egypt - Instrumental",
-      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
         "name": "Carolina Avenue",
         "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 275146,
       "name": "Carolina Avenue",
       "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/58vbUKEPEoaJjFwzE7Dqu3"
+      },
+      "artists": [
+        {
+          "name": "Cedar Hill",
+          "url": "https://open.spotify.com/artist/2GLRJlS6WxRYDOH6iaMT05"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "Leavin' Egypt - Instrumental",
+      "url": "https://open.spotify.com/track/3iE52y1XUrE7ILcNIgU1Gr"
     },
     {
       "added_at": "2025-12-05 05:00:20",

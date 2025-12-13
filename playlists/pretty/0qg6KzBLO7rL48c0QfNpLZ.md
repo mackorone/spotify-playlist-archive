@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,745 likes - 100 songs - 4 hr 16 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,729 likes - 106 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,11 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 98 | [Simulation](https://open.spotify.com/track/5aLP7FN6zP3lZ1MLF2whEV) | [Kkriegerz](https://open.spotify.com/artist/5RKvtuppIH0e1Nc2Wt5EiW), [ZapsyQ](https://open.spotify.com/artist/7KePhWFfr0G4X1yZwtaGjT) | [Simulation](https://open.spotify.com/album/5w4OdGTjVK2FLJw7xyxPZe) | 2:09 |
 | 99 | [Memories](https://open.spotify.com/track/4HMQcmdviIm28WNMDsbyXT) | [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM), [RODA](https://open.spotify.com/artist/39PpUkKS1ul0OKtz72q0qE) | [Memories](https://open.spotify.com/album/5rQFaeiWrJpTjfjJZeVjqj) | 2:34 |
 | 100 | [Follow](https://open.spotify.com/track/5vl7lho5HYGYCquZL7NUc1) | [Neonica](https://open.spotify.com/artist/48dGofwEMmTKNTO7bZj8WF), [Syntheticsax](https://open.spotify.com/artist/05hm1QdbuSVF4WdgzA0tFJ), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Follow](https://open.spotify.com/album/1fdfRTfputh6cOwgTc7O3B) | 2:50 |
+| 101 | [Call Me When You Break Up](https://open.spotify.com/track/5fBVuk8KYYixQvROiqrMeK) | [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Call Me When You Break Up](https://open.spotify.com/album/1FTJdN3L5MOdQatZmGBX3u) | 2:23 |
+| 102 | [Eyes Shut](https://open.spotify.com/track/0NgOwfHLUzmfgRY0XoXzbr) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Eyes Shut](https://open.spotify.com/album/3XdLCfK6V5vtKrGlzmNrO1) | 2:16 |
+| 103 | [Every Night](https://open.spotify.com/track/64O22PBIITfHsF5Lfq19yj) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Every Night](https://open.spotify.com/album/3aQSYBt49ImLqpdP5Eve6r) | 2:03 |
+| 104 | [Marea](https://open.spotify.com/track/2mMibGiQzLxd1Cxo1Szf7p) | [Sol Ara](https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe) | [Marea](https://open.spotify.com/album/0E42uSbsFq2mYazk7p4roN) | 2:50 |
+| 105 | [Can You See Me](https://open.spotify.com/track/5AjOaLKEqowExktKdWE5kf) | [QT\-HIGH](https://open.spotify.com/artist/4NO2QKQ3zchF7KVU0a5cXo), [notdanilo](https://open.spotify.com/artist/2waW9QAXwhOAhjhNjxFYrE) | [Can You See Me](https://open.spotify.com/album/1CpIOr0o1c0zYOMVZSPHFJ) | 3:48 |
+| 106 | [Gatluak \- Miishu & MASSALA Remix](https://open.spotify.com/track/7CTxQltN03O7HkpxB3y5Cv) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [MASSALA](https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf) | [Gatluak \(Miishu & MASSALA Remix\)](https://open.spotify.com/album/3QCmEYzvUVUOxlMDstvPaB) | 3:30 |
 
-Snapshot ID: `AAAiS9yx1kkR6YisPUh7JG4S/dZc+nn9`
+Snapshot ID: `AAAiUV+H0BeojNItyT6LCwFvFOEKD01N`

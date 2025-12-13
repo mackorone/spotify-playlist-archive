@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81963,
+  "num_followers": 81966,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAwPyIneAcXoUpkAwAInrVy",
+  "snapshot_id": "aToJgAAAAAD1in+zKaopPiTLmXkRIYKz",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O LEGADO",
+        "url": "https://open.spotify.com/album/5rzrUgRwczGE0Lf81h826e"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "Nunca Esquecer Voc\u00ea",
+      "url": "https://open.spotify.com/track/4Micu1ss30fVwGFI2Eo09W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 282033,
       "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
       "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O LEGADO",
-        "url": "https://open.spotify.com/album/5rzrUgRwczGE0Lf81h826e"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "Nunca Esquecer Voc\u00ea",
-      "url": "https://open.spotify.com/track/4Micu1ss30fVwGFI2Eo09W"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 279452,
+      "name": "Sorria (Faixa B\u00f4nus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gf10dQJDlAwOcezGQkLMi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jurei Part 2",
         "url": "https://open.spotify.com/album/1rFSdmt0U74X5r6UBm4tnK"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 167592,
       "name": "Jurei Part 2",
       "url": "https://open.spotify.com/track/1r7a50jC6ztmKBsHexhDqc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 279452,
-      "name": "Sorria (Faixa B\u00f4nus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gf10dQJDlAwOcezGQkLMi"
     },
     {
       "added_at": null,
@@ -1195,26 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duo",
-        "url": "https://open.spotify.com/album/2HP5e9qI6Iw6anUJujeD3t"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 129766,
-      "name": "Te Ver de Novo",
-      "url": "https://open.spotify.com/track/5cnO8RIivzQcedCfg0bLvI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 183708,
       "name": "Eu Penso",
       "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duo",
+        "url": "https://open.spotify.com/album/2HP5e9qI6Iw6anUJujeD3t"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 129766,
+      "name": "Te Ver de Novo",
+      "url": "https://open.spotify.com/track/5cnO8RIivzQcedCfg0bLvI"
     },
     {
       "added_at": null,

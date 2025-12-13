@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,688 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,683 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 42 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 |
 | 43 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 | 44 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
-| 45 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
+| 45 | [For Cryin' Out Loud!](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 |
 | 46 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 |
-| 47 | [For Cryin' Out Loud!](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 |
+| 47 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 | 48 | [Hit the Road Jack](https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Soul](https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD) | 1:59 |
 | 49 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
 | 50 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 79 | [Fever](https://open.spotify.com/track/6eCsRg7OBi1zT2CEKKyoXN) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Great Ladies Of Song / Spotlight On Peggy Lee](https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF) | 3:22 |
 | 80 | [Entre Dos Aguas](https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R) | 6:02 |
 | 81 | [Cry to Me](https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Solomon Burke's Greatest Hits](https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4) | 2:34 |
-| 82 | [Volver](https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV) | [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Mujeres](https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB) | 3:37 |
-| 83 | [C’est Magnifique](https://open.spotify.com/track/1pd6iv2ZyzhdCdwvkLbjMM) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:52 |
+| 82 | [C’est Magnifique](https://open.spotify.com/track/1pd6iv2ZyzhdCdwvkLbjMM) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:52 |
+| 83 | [Volver](https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV) | [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Mujeres](https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB) | 3:37 |
 | 84 | [Hang on Little Tomato](https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A), [Thomas M\. Lauderdale](https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O), [Patrick Abbey](https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim) | [Hang on Little Tomato](https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io) | 3:16 |
 | 85 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
 | 86 | [Get Lucky \- Acoustic](https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Get Lucky \(Acoustic\)](https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW) | 3:08 |

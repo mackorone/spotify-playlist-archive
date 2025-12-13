@@ -981,6 +981,28 @@
     },
     {
       "album": {
+        "name": "El Gavilancillo",
+        "url": "https://open.spotify.com/album/2yCejlJ7XQ1YuMTM6LO7a8"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        },
+        {
+          "name": "3van",
+          "url": "https://open.spotify.com/artist/1SCRfB1hQex6FduWiKVQ9n"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "El Gavilancillo",
+      "url": "https://open.spotify.com/track/3HIsivR3t9klqDxVrS1yPn"
+    },
+    {
+      "album": {
         "name": "Ni tan chico, ni tan che",
         "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
       },

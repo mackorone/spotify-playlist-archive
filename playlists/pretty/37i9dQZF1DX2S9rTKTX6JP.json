@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs",
-  "num_followers": 746264,
+  "num_followers": 746336,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Disco Loadout (Volume 1)",
-        "url": "https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh"
+        "name": "Origin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
       "artists": [
         {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Wow That's What I Call Metalcore",
+          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
         }
       ],
-      "duration_ms": 230293,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl"
+      "duration_ms": 293732,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
     },
     {
       "added_at": "2025-08-22 04:00:05",
@@ -1691,22 +1695,18 @@
     {
       "added_at": "2025-08-22 04:00:05",
       "album": {
-        "name": "Origin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
+        "name": "Disco Loadout (Volume 1)",
+        "url": "https://open.spotify.com/album/0UGRWKGadnvxN8vgQ4ynCh"
       },
       "artists": [
         {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        },
-        {
-          "name": "Wow That's What I Call Metalcore",
-          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
         }
       ],
-      "duration_ms": 293732,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+      "duration_ms": 230293,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl"
     }
   ],
   "unique_name": "Rock Covers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,155 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,266 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 8 | [Hugrheim](https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq) | [Eihwar](https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK) | [Hugrheim](https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA) | 3:19 |
 | 9 | [Belladonna](https://open.spotify.com/track/01CBGRKQ7BGothCG4buKEE) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [HEX](https://open.spotify.com/album/2T6UM5iM0cDeVnr7XVaam4) | 4:53 |
 | 10 | [Reida](https://open.spotify.com/track/72pSSwFywzACLPqVfycny6) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Reida](https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1) | 4:30 |
-| 11 | [The Path to Valhalla](https://open.spotify.com/track/5Y0890ieCPQ7InnCOMbpYm) | [Zergananda](https://open.spotify.com/artist/17l0IpeSiUshT3GEQjbJKb) | [The Path to Valhalla](https://open.spotify.com/album/5sqkryWnUZtlOCWbE5h5CB) | 4:50 |
+| 11 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
 | 12 | [Nouse Lempi](https://open.spotify.com/track/48eEkbTrRzODKnK4YGFL3M) | [Kajos](https://open.spotify.com/artist/5qNZqgtemKrcwuOrTEQ28J) | [Nouse Lempi](https://open.spotify.com/album/13OIcK2yBAA8KR2c8pnry4) | 3:42 |
-| 13 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
+| 13 | [The Path to Valhalla](https://open.spotify.com/track/5Y0890ieCPQ7InnCOMbpYm) | [Zergananda](https://open.spotify.com/artist/17l0IpeSiUshT3GEQjbJKb) | [The Path to Valhalla](https://open.spotify.com/album/5sqkryWnUZtlOCWbE5h5CB) | 4:50 |
 | 14 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 |
 | 15 | [Runar](https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Runar](https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS) | 4:20 |
 | 16 | [Blakey Ridge](https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [III \- Candles & Beginnings](https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX) | 4:16 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 57 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
 | 58 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
 | 59 | [Hersir](https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Hersir](https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD) | 2:25 |
-| 60 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 |
-| 61 | [Ethel](https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Ethel](https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG) | 3:39 |
+| 60 | [Ethel](https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Ethel](https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG) | 3:39 |
+| 61 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 |
 | 62 | [Breaking from the Fold](https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv) | [Triddana](https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb) | [Breaking from the Fold](https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F) | 4:02 |
 | 63 | [Adler fliegen](https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Adler fliegen](https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL) | 3:38 |
 | 64 | [Ruun II \- The Epitaph](https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Caravans to the Outer Worlds](https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo) | 5:37 |

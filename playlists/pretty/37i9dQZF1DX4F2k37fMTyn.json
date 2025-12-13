@@ -1,6 +1,6 @@
 {
   "description": "\u5973\u6027\u30dd\u30c3\u30d7\u30a2\u30a4\u30b3\u30f3\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: HANA",
-  "num_followers": 38354,
+  "num_followers": 38355,
   "original_name": "Girl On Fire",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-12-11 15:00:42",
       "album": {
-        "name": "Jealous Type",
-        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 163647,
-      "name": "Jealous Type",
-      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
-    },
-    {
-      "added_at": "2025-12-11 15:00:42",
-      "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2025-12-11 15:00:42",
+      "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
       "added_at": "2025-12-11 15:00:42",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2025-12-11 15:00:42",
       "album": {
-        "name": "AMORTAGE",
-        "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
+        "name": "Zoo (From \"Zootopia 2\")",
+        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
       },
       "artists": [
         {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 190806,
-      "name": "earthquake",
-      "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
+      "duration_ms": 190822,
+      "name": "Zoo - From \"Zootopia 2\"",
+      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
     }
   ],
   "unique_name": "Girl On Fire",

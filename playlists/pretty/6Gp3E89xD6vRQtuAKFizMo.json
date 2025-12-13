@@ -1,13 +1,113 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43686,
+  "num_followers": 43682,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAah4SUZvfUs3riJYWuJPi1NZbK3/7d",
+  "snapshot_id": "AAAajVO3veC3XBKfcGIPBHyTIEbTi9vf",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:00:24",
+      "album": {
+        "name": "MAKE IT FUN Pt. 1",
+        "url": "https://open.spotify.com/album/5CWCEc4hVuMBtVt8PrjYtW"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 153212,
+      "name": "Bo Jackson",
+      "url": "https://open.spotify.com/track/6F4n2VLhxnjrPu0mWqA6Vb"
+    },
+    {
+      "added_at": "2025-12-12 05:00:24",
+      "album": {
+        "name": "MAKE IT FUN Pt. 1",
+        "url": "https://open.spotify.com/album/5CWCEc4hVuMBtVt8PrjYtW"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Talk That Yap",
+      "url": "https://open.spotify.com/track/3ux7UtpeaHCvDIIYHVd4yz"
+    },
+    {
+      "added_at": "2025-12-12 05:00:23",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/1QOGHugMrklZzJxHyLkyLR"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
+        }
+      ],
+      "duration_ms": 144025,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6Fd57PEBw75ogKIpSLLzLB"
+    },
+    {
+      "added_at": "2025-12-12 05:00:23",
+      "album": {
+        "name": "Currently On Earth",
+        "url": "https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot In This",
+      "url": "https://open.spotify.com/track/3g6ZgzRwat1GIdAyKPMT8i"
+    },
+    {
+      "added_at": "2025-12-12 05:00:22",
+      "album": {
+        "name": "Currently On Earth",
+        "url": "https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6g6IcboviCOipWH0RM5tE7"
+    },
+    {
+      "added_at": "2025-12-12 05:00:22",
+      "album": {
+        "name": "Currently On Earth",
+        "url": "https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Feeling Better",
+      "url": "https://open.spotify.com/track/07KlNjIumhauUrWOpbxLKy"
+    },
     {
       "added_at": "2025-12-05 18:08:48",
       "album": {

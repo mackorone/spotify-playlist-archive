@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48894,
+  "num_followers": 48898,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAA90HjxI/IZ2nUVTjv4JIQT",
+  "snapshot_id": "aToJgAAAAADz3Q7GmOoOZZU6S9nq9fMI",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299693,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 220773,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299693,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Until It's Time for You to Go",
+      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 271640,
       "name": "Can We Find Love Again",
       "url": "https://open.spotify.com/track/1G13qSTYRoDhyuFub96Y7P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Until It's Time for You to Go",
-      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 156933,
       "name": "Some Gospel According to Matthew",
       "url": "https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
     },
     {
       "added_at": null,

@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2025-11-21",
-  "description": "Get ready for the upcoming concert by listening to the artist's best songs! (\uc544\ud2f0\uc2a4\ud2b8\uc758 \ubca0\uc2a4\ud2b8\uace1\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \ucf58\uc11c\ud2b8\ub97c \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "enjoy the NMIXX 1ST WORLD TOUR [EPISODE 1: ZERO FRONTIER] LIVE SET including the voices of them on stage! (\uc5d4\ubbf9\uc2a4\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c [EPISODE 1: ZERO FRONTIER] \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "NMIXX 1ST WORLD TOUR [EPISODE 1: ZERO FRONTIER]",
   "tracks": [
+    {
+      "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "ADORE U",
+      "url": "https://open.spotify.com/track/5wAVnAV1djH9QQpifjlgod"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: STICK OUT",
+        "url": "https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "BEAT BEAT",
+      "url": "https://open.spotify.com/track/1Tt3WS4RRDqH19CtfGVklx"
+    },
     {
       "album": {
         "name": "Blue Valentine",
@@ -23,6 +59,42 @@
     },
     {
       "album": {
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175733,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/2iR76I8Q4WovfgvaJb9JEg"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "Break The Wall",
+      "url": "https://open.spotify.com/track/70fXostLZhpUdLsR6d9YSD"
+    },
+    {
+      "album": {
         "name": "Blue Valentine",
         "url": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW"
       },
@@ -34,10 +106,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 159000,
       "name": "Crush On You",
       "url": "https://open.spotify.com/track/3DroKlrPt6ZgmvzUUDnuWf"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166979,
+      "name": "DASH",
+      "url": "https://open.spotify.com/track/1mXIJLlpAEG3Vab5b21QIM"
     },
     {
       "album": {
@@ -52,7 +142,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 166979,
       "name": "DASH",
       "url": "https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1"
@@ -77,6 +167,24 @@
     },
     {
       "album": {
+        "name": "1st Intermixxion Single <Funky Glitter Christmas>",
+        "url": "https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "Funky Glitter Christmas",
+      "url": "https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq"
+    },
+    {
+      "album": {
         "name": "Fe3O4: FORWARD",
         "url": "https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha"
       },
@@ -88,10 +196,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 203213,
       "name": "High Horse",
       "url": "https://open.spotify.com/track/2tVhQGh2RBes4ucWS4bcqz"
+    },
+    {
+      "album": {
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/5kdLAjDvR1q5SfftfqPrPg"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/5Wf9uLDvDE0istwrUaKcPO"
     },
     {
       "album": {
@@ -106,7 +232,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 178026,
       "name": "Just Did It",
       "url": "https://open.spotify.com/track/6KXjuNhdfVc17QUvw12Sx6"
@@ -124,10 +250,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 165773,
       "name": "KNOW ABOUT ME",
       "url": "https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: FORWARD",
+        "url": "https://open.spotify.com/album/3ypVkFQVBorVyk2hdaYs4w"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "KNOW ABOUT ME",
+      "url": "https://open.spotify.com/track/719MkAinn7QVNoibvtkSHW"
     },
     {
       "album": {
@@ -146,6 +290,114 @@
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S"
+    },
+    {
+      "album": {
+        "name": "NMIXX 1ST WORLD TOUR [EPISODE 1: ZERO FRONTIER]",
+        "url": "https://open.spotify.com/album/0vagiiuyucB7aoVBvNzUKD"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60411,
+      "name": "MENT1",
+      "url": "https://open.spotify.com/track/5qvWkYEmtWwTaR7ARow9Lz"
+    },
+    {
+      "album": {
+        "name": "NMIXX 1ST WORLD TOUR [EPISODE 1: ZERO FRONTIER]",
+        "url": "https://open.spotify.com/album/0vagiiuyucB7aoVBvNzUKD"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31234,
+      "name": "MENT2",
+      "url": "https://open.spotify.com/track/6bgJdiqipU5aNwLDigma7S"
+    },
+    {
+      "album": {
+        "name": "NMIXX 1ST WORLD TOUR [EPISODE 1: ZERO FRONTIER]",
+        "url": "https://open.spotify.com/album/0vagiiuyucB7aoVBvNzUKD"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33593,
+      "name": "MENT3",
+      "url": "https://open.spotify.com/track/4xwb7DYJ8o1JUacW2zdB2w"
+    },
+    {
+      "album": {
+        "name": "NMIXX 1ST WORLD TOUR [EPISODE 1: ZERO FRONTIER]",
+        "url": "https://open.spotify.com/album/0vagiiuyucB7aoVBvNzUKD"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46232,
+      "name": "MENT4",
+      "url": "https://open.spotify.com/track/0UuAPg3aDhqd1w89vWpxfq"
+    },
+    {
+      "album": {
+        "name": "NMIXX 1ST WORLD TOUR [EPISODE 1: ZERO FRONTIER]",
+        "url": "https://open.spotify.com/album/0vagiiuyucB7aoVBvNzUKD"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24531,
+      "name": "MENT5",
+      "url": "https://open.spotify.com/track/4l6RfDHWnJz621i9wl9JO6"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: STICK OUT",
+        "url": "https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1XxnoDuLIUOjzifsHkCZVL"
     },
     {
       "album": {
@@ -178,10 +430,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 170080,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3Tguah9qCyyk1cxpOIYsS9"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: FORWARD",
+        "url": "https://open.spotify.com/album/3ypVkFQVBorVyk2hdaYs4w"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/3VDkhSV12pxgDc8jnF0eMa"
     },
     {
       "album": {
@@ -196,7 +466,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 158040,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/5hcfx0GaIpU5cLiiN2l8mX"
@@ -214,7 +484,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 183546,
       "name": "Party O'Clock",
       "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
@@ -232,10 +502,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 160826,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/773OzGjcoYdvfbRqpympVW"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "PAXXWORD",
+      "url": "https://open.spotify.com/track/1S7ewG548KitM1SZN4h37p"
     },
     {
       "album": {
@@ -275,6 +563,42 @@
     },
     {
       "album": {
+        "name": "Fe3O4: STICK OUT",
+        "url": "https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Red light sign, but we go",
+      "url": "https://open.spotify.com/track/6HWA9Dx9pG0URF24dXTKll"
+    },
+    {
+      "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "RICO",
+      "url": "https://open.spotify.com/track/0crajuERnAByPA6Aqh1a2T"
+    },
+    {
+      "album": {
         "name": "Roller Coaster",
         "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
       },
@@ -286,10 +610,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 179373,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: BREAK",
+        "url": "https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "Run For Roses",
+      "url": "https://open.spotify.com/track/0dblbu76nrw0OxCE9vTf8p"
     },
     {
       "album": {
@@ -304,7 +646,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 215293,
       "name": "Run For Roses",
       "url": "https://open.spotify.com/track/4byr9TsXs4qtm8rG2FfwRW"
@@ -322,10 +664,46 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 182795,
       "name": "See that?",
       "url": "https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc"
+    },
+    {
+      "album": {
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Shape of Love",
+      "url": "https://open.spotify.com/track/3px4Y4jtkvZdQKmmsuAPR3"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: FORWARD",
+        "url": "https://open.spotify.com/album/3ypVkFQVBorVyk2hdaYs4w"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Slingshot (\uff1c\u2605)",
+      "url": "https://open.spotify.com/track/2NU4HvHh4JoiSM4dgD3gAO"
     },
     {
       "album": {
@@ -340,10 +718,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 173053,
       "name": "So\u00f1ar (Breaker)",
       "url": "https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq"
+    },
+    {
+      "album": {
+        "name": "So\u00f1ar (Breaker)",
+        "url": "https://open.spotify.com/album/3atDr2UW1WQBLzDsL5iOJT"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "So\u00f1ar (Breaker)",
+      "url": "https://open.spotify.com/track/3zQKe6vQMBHmthdjLHnKya"
     },
     {
       "album": {
@@ -362,6 +758,60 @@
       "duration_ms": 196000,
       "name": "SPINNIN\u2032 ON IT",
       "url": "https://open.spotify.com/track/0XbCJq4M7vpNKIUxdN90jq"
+    },
+    {
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168146,
+      "name": "TANK",
+      "url": "https://open.spotify.com/track/2AtshmTKGwbtCybUmYxB4u"
+    },
+    {
+      "album": {
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Young, Dumb, Stupid",
+      "url": "https://open.spotify.com/track/68B31aUSEyTpH9g7lQ04Gq"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: STICK OUT",
+        "url": "https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182795,
+      "name": "\ubcc4\ubcc4\ubcc4 (See that?)",
+      "url": "https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVI2W9Zpg4qS"

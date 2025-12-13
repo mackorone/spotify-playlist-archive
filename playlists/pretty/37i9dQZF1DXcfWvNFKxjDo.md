@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Klaas
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,201 likes - 90 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,310 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 31 | [So High](https://open.spotify.com/track/51WRwsEmGhVo8EYy07TDjo) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [So High](https://open.spotify.com/album/6zhG5gxzqCrSt6Ip7st6Bm) | 3:45 |
 | 32 | [Go Go Go](https://open.spotify.com/track/0JTJt61O9p6Grm2u9WCvlP) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [Purple Mash](https://open.spotify.com/artist/2Po6TKX26z4qPxiXEBCl88), [Don Paolo](https://open.spotify.com/artist/1DLSZA40N2AbgnpWryFYsY) | [Go Go Go](https://open.spotify.com/album/4qytmY80dSBlNAzlSK7WKf) | 2:52 |
 | 33 | [Dale Duro](https://open.spotify.com/track/6nJmHKxhfqWEQCRlkyLfee) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Vansessy](https://open.spotify.com/artist/38vdpGagAziiq1vcExNTwA) | [Dale Duro](https://open.spotify.com/album/5h7EBFJjwrAnh2vwMRFp4O) | 2:29 |
-| 34 | [We Don't Say Please](https://open.spotify.com/track/2fpQBQEorsdMNJw2ASqoyC) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [We Don't Say Please](https://open.spotify.com/album/76UXYXrafKBexucyvcumBo) | 4:52 |
+| 34 | [We Don't Say Please](https://open.spotify.com/track/2fpQBQEorsdMNJw2ASqoyC) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [We Don't Say Please](https://open.spotify.com/album/76UXYXrafKBexucyvcumBo) | 3:12 |
 | 35 | [supercharger](https://open.spotify.com/track/7MWSuSwqrqi9aAhJDIXWVe) | [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w), [Jamal Dilmen](https://open.spotify.com/artist/2ReUOiIHulZfotQQgFHoqB) | [supercharger](https://open.spotify.com/album/10eWqpxIZiOoQkcrEFBVaM) | 3:48 |
 | 36 | [Shining Heart](https://open.spotify.com/track/1Tj7LsqnQ2lEL6VpfdwGAS) | [Davyboi](https://open.spotify.com/artist/6P4o2FYfdS5rI309RFzm9m) | [Shining Heart](https://open.spotify.com/album/3o09pmFFu1eJePHQeBqq1q) | 2:46 |
 | 37 | [Through The Night](https://open.spotify.com/track/1KXLA5DWyLYeblY5d36kEp) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [ARI.](https://open.spotify.com/artist/1sU6iL25uBQqFwNFLr8E65) | [Through The Night](https://open.spotify.com/album/7oXhksIlPstC0l6wNKW7js) | 3:00 |
 | 38 | [No One](https://open.spotify.com/track/5J72L91na30WRBYaCokV8i) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [No One](https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD) | 4:04 |
-| 39 | [Ready Or Not](https://open.spotify.com/track/0FaHsD2voyGJb97omGLv9O) | [Dallax](https://open.spotify.com/artist/2PedVvzZH5HdHSk9P0iDXY), [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC) | [Ready Or Not](https://open.spotify.com/album/716UJlHvrby7i1rTHVHgQy) | 2:01 |
+| 39 | [Ready Or Not](https://open.spotify.com/track/0FaHsD2voyGJb97omGLv9O) | [Dallax](https://open.spotify.com/artist/2PedVvzZH5HdHSk9P0iDXY), [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC) | [Ready Or Not](https://open.spotify.com/album/716UJlHvrby7i1rTHVHgQy) | 1:58 |
 | 40 | [Yesterdays](https://open.spotify.com/track/5IqAFq7XIkgRmGZoxl5SX6) | [Phake](https://open.spotify.com/artist/3UNdNPvBcX8gFPbxyLchRC), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Yesterdays](https://open.spotify.com/album/20srQC7P2SC60kaZoSgGsK) | 2:17 |
 | 41 | [Good Boys \(Hide Away\)](https://open.spotify.com/track/4C7LPGCce5AI0O6glhDf1Y) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk) | [Good Boys \(Hide Away\)](https://open.spotify.com/album/3cokKTJIpTa4fJvKz8Fv3u) | 2:33 |
 | 42 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |

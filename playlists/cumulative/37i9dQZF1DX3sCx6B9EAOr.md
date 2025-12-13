@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-906 songs - 2 day 0 hr 39 min
+907 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-12 | 2025-05-08 |
 | [Forever Young](https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:57 | 2022-02-23 | 2022-07-20 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-25 | 2023-03-10 |
+| [FORMULA](https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [FORMULA](https://open.spotify.com/album/47uqilRXlk7qLpre3yubx5) | 3:08 | 2025-12-08 |  |
 | [FREEZE](https://open.spotify.com/track/5nLO95KDAQirZuJb0o1iW9) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Kick Out, Flip Now!](https://open.spotify.com/album/27PLYKscFH6cHY3KfVzcwy) | 2:36 | 2025-06-04 | 2025-06-19 |
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2022-03-24 | 2022-04-19 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-08 |  |
@@ -630,7 +631,7 @@
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-07-08 |  |
 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 | 2022-08-09 | 2025-10-20 |
 | [Popping](https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SUMMER POPUP ALBUM \[POPPING\]](https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6) | 3:24 | 2021-12-07 | 2022-04-19 |
-| [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 | 2025-04-16 |  |
+| [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 | 2025-04-16 | 2025-12-13 |
 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-11-26 | 2025-10-16 |
 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 | 2022-03-24 | 2023-07-08 |
 | [pporappippam 보라빛 밤](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam 보라빛 밤](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 | 2021-12-07 | 2022-10-30 |

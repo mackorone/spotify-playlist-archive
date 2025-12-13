@@ -1,328 +1,136 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2564,
+  "num_followers": 2565,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEauQutExdtNOx/YLV4fiFhZP7EBUH",
+  "snapshot_id": "AAAEbNKOvWE2t6dVN2LpgvKgfERR+N4T",
   "tracks": [
     {
-      "added_at": "2025-12-05 01:40:40",
+      "added_at": "2025-12-12 13:49:16",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/6VIleHfkyQsT6yX6W36Upk"
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/7tsoJKffQinqMumsDz0EEj"
       },
       "artists": [
         {
-          "name": "Aidoneus",
-          "url": "https://open.spotify.com/artist/1EZDd31i3d5j5Ol91UJ6d5"
+          "name": "B-complex",
+          "url": "https://open.spotify.com/artist/46oL0QioEQMSSvkxxifCok"
         },
         {
-          "name": "Jesterbug",
-          "url": "https://open.spotify.com/artist/2GUXgi6zx7GPeiYZOgsUAL"
-        }
-      ],
-      "duration_ms": 254005,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/3p8hcI5yatFQo5F4Hu9sDc"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Prelude",
-        "url": "https://open.spotify.com/album/1aOHbYSMj1vxf57JtpsI9a"
-      },
-      "artists": [
-        {
-          "name": "Megahit",
-          "url": "https://open.spotify.com/artist/31r426ivwXMoZRDpTOTLLA"
-        }
-      ],
-      "duration_ms": 253815,
-      "name": "Prelude",
-      "url": "https://open.spotify.com/track/6jYAGsCy1zlJTW3feaLJ8S"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "AMPUTATE THE FAKE",
-        "url": "https://open.spotify.com/album/0KL1vuTamAEoHn6oVqM40Z"
-      },
-      "artists": [
-        {
-          "name": "Shilpa Ananth",
-          "url": "https://open.spotify.com/artist/3mlTRbD5Vit017KpgSvzEi"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "AMPUTATE THE FAKE",
-      "url": "https://open.spotify.com/track/7HFbRM4yb0Wrs13EoYgDG0"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Dance Tonight",
-        "url": "https://open.spotify.com/album/5G766AzxaGLyg0gBJxjV3i"
-      },
-      "artists": [
-        {
-          "name": "glide",
-          "url": "https://open.spotify.com/artist/4sJIxnsxciNWl602rXrfXT"
+          "name": "Tanukichi",
+          "url": "https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP"
         },
         {
-          "name": "Guru Griff",
-          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
+          "name": "MP",
+          "url": "https://open.spotify.com/artist/5VhuN75QUKv9sBWbltRqQV"
+        }
+      ],
+      "duration_ms": 246896,
+      "name": "Baddies - Slammed Mix",
+      "url": "https://open.spotify.com/track/0VeIaX0aVJv6HWRMROZtn1"
+    },
+    {
+      "added_at": "2025-12-12 13:49:16",
+      "album": {
+        "name": "Jul Med Thosebricks",
+        "url": "https://open.spotify.com/album/2IgStT4vJrt5NLZvgBj22A"
+      },
+      "artists": [
+        {
+          "name": "Thosebricks",
+          "url": "https://open.spotify.com/artist/2KYlV0PM7k2AJdA6hVMoqj"
+        }
+      ],
+      "duration_ms": 172761,
+      "name": "En Stjerne Skinner I Natt",
+      "url": "https://open.spotify.com/track/2MCNneSDdmZGQGYJl8VkMd"
+    },
+    {
+      "added_at": "2025-12-12 13:49:16",
+      "album": {
+        "name": "Glansdagar",
+        "url": "https://open.spotify.com/album/1zI3OMzdyH911Rd3AqrUk0"
+      },
+      "artists": [
+        {
+          "name": "Dan, Julian & Frank",
+          "url": "https://open.spotify.com/artist/5AjQHyfAq94mUgu3s1jfja"
+        }
+      ],
+      "duration_ms": 223854,
+      "name": "Glansdagar",
+      "url": "https://open.spotify.com/track/7pGgwDqb2lW3OlqE1obaIH"
+    },
+    {
+      "added_at": "2025-12-12 13:49:16",
+      "album": {
+        "name": "Kaikki Loistaa Hetken",
+        "url": "https://open.spotify.com/album/7cXDMdMvp4csHzjQpASo1M"
+      },
+      "artists": [
+        {
+          "name": "Nen\u00e4 Inc.",
+          "url": "https://open.spotify.com/artist/6Lhk2MZE8niAICw9SGiG9I"
         },
         {
-          "name": "back pockets",
-          "url": "https://open.spotify.com/artist/1opF8wXbUWfibFd6JYrnLx"
+          "name": "Jyk\u00e4",
+          "url": "https://open.spotify.com/artist/3KCZCNTxLogWkv89u8BtoS"
         }
       ],
-      "duration_ms": 176142,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/2mPMkeBAoJjBMqI2G3evxf"
+      "duration_ms": 188000,
+      "name": "Kaikki Loistaa Hetken",
+      "url": "https://open.spotify.com/track/5IRQaL8GuKiiwgcdWdrXtQ"
     },
     {
-      "added_at": "2025-12-05 01:40:40",
+      "added_at": "2025-12-12 13:49:16",
       "album": {
-        "name": "Joulun Ihme",
-        "url": "https://open.spotify.com/album/4KOUSw0PsnoRFR8j6ECxhV"
+        "name": "Ensayos, fallos y... desmayos (2025 Remaster)",
+        "url": "https://open.spotify.com/album/1DHhNUyFqN7Y5eS2FsA3IY"
       },
       "artists": [
         {
-          "name": "Anni Luoma",
-          "url": "https://open.spotify.com/artist/6msLxTlEfJRgRdQfwmOVfo"
+          "name": "Plad\u00fcr",
+          "url": "https://open.spotify.com/artist/1iVenylfhTbxWr9Qj60RrD"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Joulun Ihme",
-      "url": "https://open.spotify.com/track/5vIVmSI5x48ZHNvynqshvB"
+      "duration_ms": 172750,
+      "name": "Torreznos - 2025 Remaster",
+      "url": "https://open.spotify.com/track/4zYIHipamv81Ey9Y2MHnlg"
     },
     {
-      "added_at": "2025-12-05 01:40:40",
+      "added_at": "2025-12-12 13:49:16",
       "album": {
-        "name": "Down Under",
-        "url": "https://open.spotify.com/album/7thOSOutjOQdKL0CyKxWvV"
+        "name": "Complicated Hand",
+        "url": "https://open.spotify.com/album/5AsDg0Xw3a0FKkJOZY4xVp"
       },
       "artists": [
         {
-          "name": "Maklo & Peter",
-          "url": "https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7"
+          "name": "Forgotten King",
+          "url": "https://open.spotify.com/artist/0UZMZR6ZxchlP4Ba6Bvkzk"
         }
       ],
-      "duration_ms": 151415,
-      "name": "Down under",
-      "url": "https://open.spotify.com/track/5n2W7QVfRJ6Y3cxmMRfJZb"
+      "duration_ms": 453386,
+      "name": "Complicated Hand",
+      "url": "https://open.spotify.com/track/5bwebfOSyUzX5AWtUwUkfr"
     },
     {
-      "added_at": "2025-12-05 01:40:40",
+      "added_at": "2025-12-12 13:49:16",
       "album": {
-        "name": "Kopparberget",
-        "url": "https://open.spotify.com/album/5drv8c8kqGLJSRpYRgMTby"
+        "name": "As Long as I Breathe",
+        "url": "https://open.spotify.com/album/1ZJ9YM0h1HDIRjhE9vfvoX"
       },
       "artists": [
         {
-          "name": "DR\u00d6\u00d6G",
-          "url": "https://open.spotify.com/artist/7eRcVh608qJnnIiYzbUYQv"
+          "name": "WISP.",
+          "url": "https://open.spotify.com/artist/1PJGi72nAhzNmESDrqLq6F"
         }
       ],
-      "duration_ms": 238434,
-      "name": "Kopparberget",
-      "url": "https://open.spotify.com/track/2pfBczYnN1BJnrVIFu2ZFJ"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Carol of the bells",
-        "url": "https://open.spotify.com/album/1b6oB6FH81aGuuWdPY11sb"
-      },
-      "artists": [
-        {
-          "name": "Electrofrequency",
-          "url": "https://open.spotify.com/artist/4pFECotgget0QJ0IvK13eY"
-        }
-      ],
-      "duration_ms": 194463,
-      "name": "Carol of the bells",
-      "url": "https://open.spotify.com/track/2GIX4OBbUU8ateGiDiyi6X"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Homegrown",
-        "url": "https://open.spotify.com/album/5zruMr40SFeavvOvLlYm8Z"
-      },
-      "artists": [
-        {
-          "name": "Homegrown GBG",
-          "url": "https://open.spotify.com/artist/0BNkyynKTqCj4i73fbzAWF"
-        }
-      ],
-      "duration_ms": 236317,
-      "name": "H\u00e4xjakt i Snetakt",
-      "url": "https://open.spotify.com/track/4IV2IZoSU1orLPRVL0RmkI"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Cloudrider",
-        "url": "https://open.spotify.com/album/6pS7pYBc73NxTpqHRa6Pv1"
-      },
-      "artists": [
-        {
-          "name": "New Mexican Doom Cult",
-          "url": "https://open.spotify.com/artist/2HbG1tkZuG5G6iqflnWEJp"
-        }
-      ],
-      "duration_ms": 315162,
-      "name": "Cloudrider",
-      "url": "https://open.spotify.com/track/2agVnPW0gJloto63iNW7pj"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Castle of Sand",
-        "url": "https://open.spotify.com/album/2WcdJAWe4wV5bVAAauNp1p"
-      },
-      "artists": [
-        {
-          "name": "Dull Boy",
-          "url": "https://open.spotify.com/artist/7d1CeunjSAzNmUVE94eleY"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Castle of Sand",
-      "url": "https://open.spotify.com/track/3bFJGcW7DkYKxPRTq7GHZc"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Seasons of Solitude",
-        "url": "https://open.spotify.com/album/1KMcItxQfpC1I0V9cVu7IJ"
-      },
-      "artists": [
-        {
-          "name": "Seasons of Solitude",
-          "url": "https://open.spotify.com/artist/4b1G9i7bIjEiVjGMw47Wuf"
-        }
-      ],
-      "duration_ms": 331594,
-      "name": "Above the Wind",
-      "url": "https://open.spotify.com/track/47ZyP5kyDqX9TLijdcGLlO"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "The Raven",
-        "url": "https://open.spotify.com/album/2lwItFVYgEVtMzPWHa2tE4"
-      },
-      "artists": [
-        {
-          "name": "Indica Blues",
-          "url": "https://open.spotify.com/artist/2jsHZkaW6a0jhYbDs5FdHG"
-        }
-      ],
-      "duration_ms": 275235,
-      "name": "The Raven",
-      "url": "https://open.spotify.com/track/1cnOGFSeb0ZPtHZpGwWsZD"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "I Wake Up",
-        "url": "https://open.spotify.com/album/7nWc7qiOWVCb8uZhshMao3"
-      },
-      "artists": [
-        {
-          "name": "RICHARD",
-          "url": "https://open.spotify.com/artist/6lNP2dKDTMTQb64aVMh54S"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "I Wake Up",
-      "url": "https://open.spotify.com/track/1gonYSNtSrBngQIBk2xHOh"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Ten Thousand Hours, One Minute and Twenty Three Seconds",
-        "url": "https://open.spotify.com/album/30VlqUNCXbd2g4a18NQpC0"
-      },
-      "artists": [
-        {
-          "name": "The Loner Collective",
-          "url": "https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "My Superhero",
-      "url": "https://open.spotify.com/track/1rEkRl21GAYHVqmo2hHxtc"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Innan dagen gryr",
-        "url": "https://open.spotify.com/album/2iXUXWiNISVsW8kbAhDINz"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sn\u00e4ll",
-          "url": "https://open.spotify.com/artist/74vbC40DJYWRx5SVenXH0D"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Innan dagen gryr",
-      "url": "https://open.spotify.com/track/0xvJE4ovWKDaB7LfX9062G"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Keys for Sale",
-        "url": "https://open.spotify.com/album/2F1Oo7tVjzS4NevYkyamSF"
-      },
-      "artists": [
-        {
-          "name": "Ash Aba Dear",
-          "url": "https://open.spotify.com/artist/20jleEfbR1l5bZmNITbfrP"
-        }
-      ],
-      "duration_ms": 189159,
-      "name": "Know Way Jose",
-      "url": "https://open.spotify.com/track/0WtG60gm5vMe22onEWBthe"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Malttamaton",
-        "url": "https://open.spotify.com/album/1clw43sYc7qwoAGIYU3ykb"
-      },
-      "artists": [
-        {
-          "name": "Who Stole The Lipstick",
-          "url": "https://open.spotify.com/artist/4BHm9fdynRP04lV7J97s5T"
-        }
-      ],
-      "duration_ms": 201111,
-      "name": "Malttamaton",
-      "url": "https://open.spotify.com/track/4Lbt6bTS6qHf56E8hMQSQJ"
-    },
-    {
-      "added_at": "2025-12-05 01:40:40",
-      "album": {
-        "name": "Confusing",
-        "url": "https://open.spotify.com/album/1njEakQ87Kx6Z86wWOe32b"
-      },
-      "artists": [
-        {
-          "name": "Ottilia S\u00e4ll",
-          "url": "https://open.spotify.com/artist/74MQsaJrONSlGU01DYlPlg"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Confusing",
-      "url": "https://open.spotify.com/track/5QoJPTeeiYiHPqNQgGmtfQ"
+      "duration_ms": 204755,
+      "name": "As Long as I Breathe",
+      "url": "https://open.spotify.com/track/7H4JTyqOPZmXgipDw97b0E"
     }
   ],
   "unique_name": "Independent Music Friday",

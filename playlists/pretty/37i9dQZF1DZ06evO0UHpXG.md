@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,372 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,407 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 2 | [God Was Never on Your Side](https://open.spotify.com/track/71LmwNWHchuDe1QwrEKsB1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/3yaIGCUARNrRL6HXa0bioG) | 4:21 |
 | 3 | [Killed by Death](https://open.spotify.com/track/2XvVueul226rT8g4DQuKSK) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [All the Aces](https://open.spotify.com/album/13NfYO9kPsulhr0QpklkHF) | 4:38 |
 | 4 | [Overkill](https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 5:13 |
-| 5 | [Hellraiser \- 30th Anniversary Edition](https://open.spotify.com/track/7iD5t0YgWvIIrvZtw6IIxQ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Hellraiser \(30th Anniversary Edition\)](https://open.spotify.com/album/3pn1WoMZ18F0Mn2qfWx4Cq) | 4:55 |
-| 6 | [In the Name of Tragedy](https://open.spotify.com/track/0jVKdXM4LQm94SP33rNbi9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 3:03 |
+| 5 | [In the Name of Tragedy](https://open.spotify.com/track/0jVKdXM4LQm94SP33rNbi9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 3:03 |
+| 6 | [Hellraiser \- 30th Anniversary Edition](https://open.spotify.com/track/7iD5t0YgWvIIrvZtw6IIxQ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Hellraiser \(30th Anniversary Edition\)](https://open.spotify.com/album/3pn1WoMZ18F0Mn2qfWx4Cq) | 4:55 |
 | 7 | [Rock 'n' Roll](https://open.spotify.com/track/738MwM1wbo84IO5DaQma1e) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 3:47 |
 | 8 | [Till The End](https://open.spotify.com/track/1n89RaAdJ19i3vZHwhcHVu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 4:05 |
 | 9 | [Born To Raise Hell](https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 4:59 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 35 | [Life's a Bitch](https://open.spotify.com/track/3MrXb1U5gZ8MQkCff0yW1X) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 4:13 |
 | 36 | [Shoot You in the Back](https://open.spotify.com/track/4JNkbfZvtzhySiNSPwiUgm) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:38 |
 | 37 | [Stone Dead Forever](https://open.spotify.com/track/1RQilPMMZilPmHvW2GEkxG) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber \(Deluxe Edition\)](https://open.spotify.com/album/15GpLaEsWkRtrpbZ2l2eQP) | 4:51 |
-| 38 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 |
-| 39 | [Enter Sandman](https://open.spotify.com/track/1qCzMC5pDBqNp0IhpM63PL) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Enter Sandman EP](https://open.spotify.com/album/6TSfhXrlydR29cJUEh1PyL) | 5:12 |
+| 38 | [Enter Sandman](https://open.spotify.com/track/1qCzMC5pDBqNp0IhpM63PL) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Enter Sandman EP](https://open.spotify.com/album/6TSfhXrlydR29cJUEh1PyL) | 5:12 |
+| 39 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 |
 | 40 | [Stay Clean](https://open.spotify.com/track/7duLhTL7l71Vcp7IFUdhYd) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:40 |
 | 41 | [One More Fucking Time](https://open.spotify.com/track/6SUarxODjZG2Ke0Fwm1Br8) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 6:46 |
 | 42 | [Deaf Forever](https://open.spotify.com/track/4U9PDEya4AvkU4yLDRIhsM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [Dead Men Tell No Tales](https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:04 |
 | 50 | [Neat Neat Neat](https://open.spotify.com/track/5eYqGfKM0BudNWYUFvtJX7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Neat Neat Neat](https://open.spotify.com/album/1v3bSptWKdJ9jqU5J5DR0L) | 3:14 |
 
-Snapshot ID: `aTi4AAAAAACGa4GlTzsqjoBQf66JJ5I1`
+Snapshot ID: `aToJgAAAAAC+ffu8yKg4hMNXORLuSpGU`

@@ -3486,7 +3486,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
@@ -13768,6 +13768,28 @@
       "duration_ms": 170508,
       "name": "Zero Pressure",
       "url": "https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O"
+    },
+    {
+      "album": {
+        "name": "Zoo (From \"Zootopia 2\")",
+        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo - From \"Zootopia 2\"",
+      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
     },
     {
       "album": {

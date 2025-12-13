@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: SAHXL
+> late night vibes – notifications off\. cover: PxRRY
 
-300 songs - 13 hr 47 min
+302 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [40 Days n 40 Nights \(feat\. Vory\)](https://open.spotify.com/track/3XYpgHhQs7Q3LsY3ALzWHr) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:16 | 2024-02-02 | 2025-09-20 |
 | [444](https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Lost In Euphoria](https://open.spotify.com/album/7baqnLVVcQUr5yUhakW9KX) | 2:41 | 2025-03-21 |  |
 | [90s FINE \(ISSA II\)](https://open.spotify.com/track/1K4OY5NTaAnosn7wkvtaO9) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [90s FINE \(ISSA II\)](https://open.spotify.com/album/2uR6QNl657cLkgKFN0Lrca) | 2:04 | 2025-06-06 |  |
+| [A Minute](https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [DUMBCRAZYSTUPID](https://open.spotify.com/album/1qkNLazBzKTGxkWC2XsuQ3) | 2:58 | 2025-12-12 |  |
 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2024-02-02 | 2025-11-08 |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-02-02 | 2024-03-09 |
 | [act ii: date @ 8 \(feat\. Drake\) \- remix](https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [act ii: date @ 8 \(feat\. Drake\) \[remix\]](https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1) | 3:51 | 2024-03-08 | 2025-07-26 |
@@ -34,7 +35,7 @@
 | [Autumn](https://open.spotify.com/track/4XRR2nNTU9UWBTBOdmnmyT) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Autumn](https://open.spotify.com/album/3vdIKZeNtDF9JZvodWAbFN) | 3:08 | 2024-09-13 | 2024-10-19 |
 | [B.S.](https://open.spotify.com/track/1Z3NXXk8GZJwEEJiX5l2G6) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [B.S.](https://open.spotify.com/album/1qTLWHLgqkaJti5E08jSB7) | 2:47 | 2024-10-18 |  |
 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 | 2024-02-02 | 2025-09-20 |
-| [Be Your Man](https://open.spotify.com/track/6Y8fg2jrxBDzMijRIUCSoL) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [BYM / FLL](https://open.spotify.com/album/7xVSUkpX7nyID4dYBWGNa3) | 2:46 | 2024-10-18 |  |
+| [Be Your Man](https://open.spotify.com/track/6Y8fg2jrxBDzMijRIUCSoL) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [BYM / FLL](https://open.spotify.com/album/7xVSUkpX7nyID4dYBWGNa3) | 2:46 | 2024-10-18 | 2025-12-13 |
 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 | 2024-02-02 |  |
 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 | 2024-11-15 |  |
 | [blind side](https://open.spotify.com/track/15YcOL6ddhowfTU165l46C) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 2:56 | 2024-10-18 |  |
@@ -52,6 +53,7 @@
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 | 2024-11-02 |
 | [city girls](https://open.spotify.com/track/1dkccY8q1lZ37A6lUClydz) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [city girls](https://open.spotify.com/album/26ybTHui5GQS02zA1De7oQ) | 2:27 | 2025-08-08 |  |
 | [claymore](https://open.spotify.com/track/22ahQd7UNBLb9JVt7LoFI2) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [claymore](https://open.spotify.com/album/7mLCu2UGDtYKn7T2OMx688) | 2:32 | 2025-03-07 | 2025-11-08 |
+| [Closer To Me](https://open.spotify.com/track/0o4piMLvJHGh45M68ClmYZ) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Cowboy From Brooklyn](https://open.spotify.com/album/0VRjbRVRxZ3MyMz31W1KLW) | 3:48 | 2025-12-12 |  |
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-02-02 | 2025-09-20 |
 | [colourNo9](https://open.spotify.com/track/6aZ4cO0fMiVBcA7zauLe8w) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [colourNo9](https://open.spotify.com/album/2CAPzrTpXMPUUJRW7rIGVL) | 2:33 | 2025-05-16 |  |
 | [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 | 2025-06-07 |

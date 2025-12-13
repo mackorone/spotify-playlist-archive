@@ -4,7 +4,7 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 15 min
+80 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Tu Gabán \- En Vivo](https://open.spotify.com/track/1IfNokpqpg4Nn2TUG4olD9) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Rancheritas Con Guitarras \(En Vivo\)](https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw) | 3:13 | 2023-03-10 | 2025-11-28 |
 | [Tu Lo Decidiste \- Versión Banda En Vivo](https://open.spotify.com/track/0wOxSHaY9lwjcIQ9ql8efP) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:52 | 2025-05-10 | 2025-08-08 |
 | [Tu Nuevo Cariñito \- En Vivo](https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw) | 3:01 | 2023-03-10 |  |
+| [Tu Regalo Se Quedó en el Arbolito](https://open.spotify.com/track/3uHTqXrx6TaVobKU6Imn1T) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Tu Regalo Se Quedó en el Arbolito](https://open.spotify.com/album/5ETTQhTpIYMNFeEf4lzTTt) | 4:51 | 2025-12-13 |  |
 | [Un Día 27](https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Un Día 27](https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU) | 3:11 | 2023-03-10 |  |
 | [Un Mundo Raro \- Versión Banda En Vivo](https://open.spotify.com/track/3DVa2De5SqGSs9Nj3vQMx3) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:58 | 2024-10-09 | 2025-02-27 |
 | [Vuela Paloma](https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Vuela Paloma](https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS) | 4:25 | 2025-05-11 |  |

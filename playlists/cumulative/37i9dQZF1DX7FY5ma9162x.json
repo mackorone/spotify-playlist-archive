@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+    },
+    {
+      "album": {
         "name": "Baby Girl (feat. Jeremih)",
         "url": "https://open.spotify.com/album/4NV7os39JoV1oVXtBkGwVM"
       },
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 247079,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
@@ -7593,6 +7611,24 @@
     },
     {
       "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201408,
+      "name": "Miss Hot July",
+      "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
+    },
+    {
+      "album": {
         "name": "Miss Summer",
         "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
       },
@@ -8508,7 +8544,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 186678,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"

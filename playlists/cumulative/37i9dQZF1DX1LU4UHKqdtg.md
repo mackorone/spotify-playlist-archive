@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: TAEYEON
 
-1,628 songs - 3 day 14 hr 13 min
+1,630 songs - 3 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [BURN](https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<BURN>](https://open.spotify.com/album/4benP09DGGgfu79UY9zvaU) | 3:19 | 2025-04-04 | 2025-06-16 |
 | [BURN IT](https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [BURN IT](https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ) | 2:47 | 2024-06-28 | 2024-07-24 |
 | [Burn It \- Japanese ver.](https://open.spotify.com/track/1RIcPnDBsHSZiSG233YEM2) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/42JGkJ9gzzbbe2pxe9TOPQ) | 3:28 | 2022-06-14 | 2022-07-23 |
-| [Burn Me Into The Light \- Netflix影集《回魂計》宣傳曲](https://open.spotify.com/track/1EPblgeFgaq6erWiJ7ZHWN) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [SHUHUA](https://open.spotify.com/artist/6B4wUWFGKv5XXBkqNBlIyE) | [Burn Me Into The Light \(Netflix影集《回魂計》宣傳曲\)](https://open.spotify.com/album/6G0MRb645o3euo9wGm3OBd) | 3:28 | 2025-10-10 |  |
+| [Burn Me Into The Light \- Netflix影集《回魂計》宣傳曲](https://open.spotify.com/track/1EPblgeFgaq6erWiJ7ZHWN) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [SHUHUA](https://open.spotify.com/artist/6B4wUWFGKv5XXBkqNBlIyE) | [Burn Me Into The Light \(Netflix影集《回魂計》宣傳曲\)](https://open.spotify.com/album/6G0MRb645o3euo9wGm3OBd) | 3:28 | 2025-10-10 | 2025-12-13 |
 | [Burning Flower](https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Burning Flower](https://open.spotify.com/album/163oByKktJZI76tPDx5iHx) | 2:57 | 2025-06-09 | 2025-08-20 |
 | [BURNING UP](https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/7fXV48Cb6oovOhREBeQgaV) | 2:49 | 2025-10-14 |  |
 | [BUSY](https://open.spotify.com/track/0nPHCspBGYsJ3QNcsuq6B4) | [MYERA](https://open.spotify.com/artist/79hOP6wbBdYMeF0e8S8a2i) | [BUSY](https://open.spotify.com/album/2IOk41ucx76Z8HaUgmbDkk) | 2:53 | 2025-03-06 | 2025-04-01 |
@@ -783,6 +783,7 @@
 | [LOCO \- Japanese ver.](https://open.spotify.com/track/3wIrNgX6nl5gMGBVT2ZFN7) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [LOCO \(Japanese ver.\)](https://open.spotify.com/album/7hz3TR04Pq7wzt7axRw1kF) | 3:11 | 2021-12-23 | 2022-01-26 |
 | [lonely](https://open.spotify.com/track/6tHHDLX1jZNzlT4vZmqm5n) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [lonely](https://open.spotify.com/album/2Ay01bZKWRqWUrRWydeSsC) | 3:33 | 2022-03-24 | 2022-06-07 |
 | [Long Live The King](https://open.spotify.com/track/5HjnoCb0iYENuiZ78lCdjR) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt.Ⅴ\. Louis](https://open.spotify.com/album/5WCO0pg5sLOFGPA4HiukJd) | 3:49 | 2022-10-04 | 2022-11-23 |
+| [LOOK AT ME](https://open.spotify.com/track/1COvoUtzqdwASp3zHc5bPe) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/7N0xYciFgPt2Et3k5NCiUx) | 2:39 | 2025-12-12 |  |
 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 | 2022-03-21 | 2022-05-27 |
 | [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 | 2024-05-10 | 2024-08-21 |
 | [Loser \(feat\. ちゃんみな\)](https://open.spotify.com/track/0mLspgrcB5cSl0gSQdFwKk) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Joy Ride](https://open.spotify.com/album/3nlHa60tPoMO1VGR6dUpgg) | 3:12 | 2022-10-04 | 2022-12-16 |
@@ -971,7 +972,7 @@
 | [One In A Billion](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One In A Billion](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) | 3:16 | 2022-09-06 | 2022-12-22 |
 | [One Kiss](https://open.spotify.com/track/2B0fIX58M69Y7kuPG86l7g) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/7JidrvBZXM4otdFhbf7OZ1) | 3:32 | 2024-05-01 | 2024-07-31 |
 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 | 2023-02-14 | 2023-03-22 |
-| [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 | 2025-11-17 |  |
+| [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 | 2025-11-17 | 2025-12-13 |
 | [ONE MORE TIME](https://open.spotify.com/track/2HGAKzcfEtMfbM2ssgiKez) | [BBGIRLS](https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti) | [ONE MORE TIME](https://open.spotify.com/album/5o3vgo7t4tTTCVh9zSptML) | 3:07 | 2023-08-03 | 2023-08-19 |
 | [ONE SPARK](https://open.spotify.com/track/22TC1XBg8FZWTQHWsDvZ0s) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/0gDrK0OBXJxekT9klz3DM5) | 3:03 | 2024-04-18 | 2024-06-05 |
 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-22 | 2024-04-19 |
@@ -1084,6 +1085,7 @@
 | [remembrance candy](https://open.spotify.com/track/1WV46UVrf9vLj9rpl6Ebf1) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [Of All We Have Lost](https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9) | 3:04 | 2024-10-17 | 2024-10-22 |
 | [Reno \(feat\. Colde\)](https://open.spotify.com/track/4VRcawzVCLzsGGv9sk8CLA) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Reno \(feat\. Colde\)](https://open.spotify.com/album/1o9Yl7CamqXKQpvmdLChQN) | 3:07 | 2025-10-28 | 2025-11-05 |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 | 2022-11-11 |
+| [Reservations](https://open.spotify.com/track/4KF0mDCknSIU4Aq1I9V7wc) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Reservations](https://open.spotify.com/album/4TnbUCuwpSnGWWfCHzUev6) | 2:35 | 2025-12-12 |  |
 | [Reset ≠ Reboot](https://open.spotify.com/track/1p87wYcUVqlATgkEHG6LGu) | [ELSEE](https://open.spotify.com/artist/3kQo2hxY8DMmIQro6Beqlp) | [Reset ≠ Reboot](https://open.spotify.com/album/5mIbibN4x6J7b51pE35Hjw) | 3:20 | 2025-03-06 | 2025-03-10 |
 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-29 | 2024-11-27 |
 | [REVERSE \- Drama Edit](https://open.spotify.com/track/6vcNwgGAmINOsAznFM46SK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE \(Drama Edit\)](https://open.spotify.com/album/5ru6dS6Mu7LL1RfflP3Sy6) | 1:25 | 2024-07-09 | 2024-08-09 |

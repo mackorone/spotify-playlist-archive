@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Esha Tewari
 
-2,229 songs - 4 day 22 hr 19 min
+2,230 songs - 4 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Bang Bang](https://open.spotify.com/track/7eQ6R9XSNfbLSExXggYbmY) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bang Bang](https://open.spotify.com/album/4ZFKLXH2lTaQn5GxVH6zYg) | 2:54 | 2022-02-25 | 2022-04-29 |
 | [Bang!](https://open.spotify.com/track/5zrvbvUB7T3d1mi69885VZ) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang!](https://open.spotify.com/album/0BMvSQK3y8nfvgN09KphZc) | 2:50 | 2021-02-25 | 2021-05-27 |
 | [Bardot](https://open.spotify.com/track/2EZU7r2uMayY1wFTN8WwQw) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [Bardot](https://open.spotify.com/album/6LkMmyyNYl0IyYCyWA6w3p) | 3:18 | 2020-11-20 | 2021-02-25 |
-| [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-24 | 2025-08-10 |
+| [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-24 |  |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-06-02 | 2022-04-12 |
 | [battery life](https://open.spotify.com/track/7i9C0Fz89IABSEVwJTTJ4F) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [battery life](https://open.spotify.com/album/5m5DBETxSlESf5kx30pnBx) | 3:54 | 2020-10-16 | 2021-01-15 |
 | [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 | 2023-03-24 | 2023-04-15 |
@@ -864,7 +864,7 @@
 | [Hello Lonely](https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Hello Lonely](https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr) | 3:31 | 2024-04-19 | 2024-06-08 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-02-22 | 2022-04-21 |
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2021-06-02 | 2022-04-01 |
-| [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-30 |  |
+| [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-30 | 2025-12-13 |
 | [Here's To Another](https://open.spotify.com/track/4Ob4ZQ6yiB6WhFGcZaC5qo) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Here's To Another](https://open.spotify.com/album/5HhdWgcutL2dYPUazA2OO0) | 3:07 | 2021-03-27 | 2021-05-27 |
 | [HERE'S YOUR SONG](https://open.spotify.com/track/5ipcN7k8N08XaMyd9rcFOO) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [DOUCHEBAG](https://open.spotify.com/album/5sOT5yZQuYyM8Qzrw7yQL3) | 3:34 | 2020-10-16 | 2021-05-31 |
 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 | 2021-01-18 | 2022-10-08 |
@@ -1021,6 +1021,7 @@
 | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/track/1n4vgMWmmNlXrvyxQFhUEl) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 5:19 | 2020-10-20 | 2022-06-15 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-09 |  |
 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-07-12 | 2025-01-09 |
+| [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 | 2025-12-12 |  |
 | [Imaginary Friends \- St\. Lucia Remix](https://open.spotify.com/track/2PXbkeD7oyMJwpKd0HoiB6) | [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Imaginary Friends \(St\. Lucia Remix\)](https://open.spotify.com/album/2TNQueYbu3esjJRLaZyiWy) | 4:26 | 2021-02-23 | 2021-05-24 |
 | [Immediately](https://open.spotify.com/track/1J1925GGyVXBlrgyBJ78Po) | [Stay Lunar](https://open.spotify.com/artist/6kqPs71d5mSIQ5XYc4VRpK) | [Immediately](https://open.spotify.com/album/4b936ZtmChocnDB6I5Sg05) | 3:07 | 2021-11-07 | 2021-11-08 |
 | [Imposter Syndrome](https://open.spotify.com/track/15ooUT2BqringLAgnx9n3O) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Imposter Syndrome](https://open.spotify.com/album/7zgIk5sn1wrmDeRfljG25J) | 2:30 | 2023-08-25 | 2023-10-14 |
@@ -1574,7 +1575,7 @@
 | [Pretty Places \- St\. Lucia Remix](https://open.spotify.com/track/0JYR0lyLlDinGYd2XDMXmO) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Pretty Places \(St\. Lucia Remix\)](https://open.spotify.com/album/2Ic52xcEkav61Ppa3ilzVZ) | 4:41 | 2021-08-13 | 2022-05-21 |
 | [Pride \(with mxmtoon\)](https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Pride](https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN) | 2:49 | 2020-10-24 | 2021-06-03 |
 | [Prim & Propa](https://open.spotify.com/track/73782aOQUGbQfZrg6P1wIq) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Prim & Propa](https://open.spotify.com/album/6SkM7R8HS1aGgTqm2QLViD) | 3:30 | 2021-10-14 | 2021-10-16 |
-| [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-14 |  |
+| [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-14 | 2025-12-13 |
 | [Probabilities](https://open.spotify.com/track/68SHPJk44d9gnbGKdvRcOo) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Probabilities](https://open.spotify.com/album/4XZJNpBu0w1yAV4NySwYtJ) | 2:28 | 2022-07-22 | 2022-08-06 |
 | [Producer Man](https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Producer Man](https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4) | 2:21 | 2020-10-16 | 2021-05-27 |
 | [Prom](https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Prom](https://open.spotify.com/album/35R9EjeVUv2oZBiEur310h) | 2:47 | 2021-02-25 | 2021-10-14 |

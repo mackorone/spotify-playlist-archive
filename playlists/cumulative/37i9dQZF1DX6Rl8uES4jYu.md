@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-483 songs - 1 day 2 hr 56 min
+484 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Better Without You](https://open.spotify.com/track/3WURRexuZzg92BEcAGtfdr) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 2:56 | 2023-06-23 |  |
 | [Black Heart \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Black Heart \(feat\. The Dap\-Kings\)](https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb) | 2:54 | 2020-11-13 | 2022-03-26 |
 | [Black Mona Lisa](https://open.spotify.com/track/7lmZTo2AochYJZH1oRsdI2) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:00 | 2023-11-17 |  |
+| [Blame It On The Moon](https://open.spotify.com/track/1dVkXJh3lQnnybKKbKyT65) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Blame It On The Moon](https://open.spotify.com/album/2UBLrV1nUoxMq8n8pYQPRC) | 3:00 | 2025-12-12 |  |
 | [Bluffin](https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Bluffin](https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5) | 2:39 | 2022-04-22 | 2023-01-06 |
 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 | 2023-08-25 |  |
 | [Body Heat](https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Body Heat](https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu) | 3:21 | 2024-03-15 |  |
@@ -485,7 +486,7 @@
 | [You Get What You See](https://open.spotify.com/track/3IYORoSPt8WZ2Yq07knCmo) | [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [Live at Daddy Macs](https://open.spotify.com/album/0sCDxS38a9BKeBEiQ3wTfk) | 2:35 | 2023-03-31 | 2025-10-18 |
 | [You Got My Best](https://open.spotify.com/track/5nvcKHSJgMHXIfz6dKg418) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [You Got My Best](https://open.spotify.com/album/2esdWQ8nAK82DvziUNsssV) | 2:37 | 2024-01-26 |  |
 | [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 | 2023-01-14 |
-| [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 | 2023-03-31 |  |
+| [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 | 2023-03-31 | 2025-12-13 |
 | [You Might Like It](https://open.spotify.com/track/1HWLCLhGLceXLdukbTZpTF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:37 | 2023-03-31 | 2023-11-05 |
 | [You Might Like It](https://open.spotify.com/track/6LMl9QAQ1EE40bntVJXuAi) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:37 | 2023-03-31 | 2024-04-19 |
 | [You'll Love It](https://open.spotify.com/track/1l5VfyPMwAv8Vibd2baoD2) | [BYRNE](https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho) | [You'll Love It](https://open.spotify.com/album/5qNvProy0GS5CWFMnPAlef) | 2:36 | 2023-03-03 | 2024-09-14 |

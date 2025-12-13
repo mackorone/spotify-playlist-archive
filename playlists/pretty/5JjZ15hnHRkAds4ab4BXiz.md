@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 469 songs - 1 day 5 hr 53 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 495 songs - 1 day 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -477,5 +477,31 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 467 | [Saturnine](https://open.spotify.com/track/5GGP2S487OmXSQ8Vp2sJHb) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Curve Of The Earth](https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6) | 6:21 |
 | 468 | [Someone Purer](https://open.spotify.com/track/6O2hBBvn76gsbYhesXSkof) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Radlands](https://open.spotify.com/album/71dzstjs5HSdkeOrrpFAno) | 5:18 |
 | 469 | [Half in Love with Elizabeth](https://open.spotify.com/track/3HrNkxybHgl7QqAvUDgFJ8) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Twenty One](https://open.spotify.com/album/2efbbdHh1iSps9yfBZdy7G) | 3:19 |
+| 470 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 |
+| 471 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
+| 472 | [Electioneering](https://open.spotify.com/track/0gTRROuntlrPQ64W3J2Etv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:50 |
+| 473 | [Climbing Up the Walls](https://open.spotify.com/track/2PDQReEXBViVwkrbQ34vd7) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:45 |
+| 474 | [The Tourist](https://open.spotify.com/track/1UuaWKypSkIHxFZD03zw4m) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 5:26 |
+| 475 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 |
+| 476 | [Bones](https://open.spotify.com/track/76RAlQcfuQknnQFruYDj6Q) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:09 |
+| 477 | [\(Nice Dream\)](https://open.spotify.com/track/1tZcw7GtIqviL32bzaKdSo) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:53 |
+| 478 | [Bullet Proof ..\. I Wish I Was](https://open.spotify.com/track/5XuU9htN358NTMCcqRvfDV) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:28 |
+| 479 | [Sulk](https://open.spotify.com/track/1elQc2QcyuBkI8FUIbNvcy) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:42 |
+| 480 | [Street Spirit \(Fade Out\)](https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:13 |
+| 481 | [Brand New Start](https://open.spotify.com/track/5G8lhjJr59Gkwh1TCg1l93) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 3:07 |
+| 482 | [Play the Part](https://open.spotify.com/track/4XAK8gUwqs3EpgV8hjIdGj) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:59 |
+| 483 | [No One's Better Sake](https://open.spotify.com/track/1MNHb7D86LIaEDlqulEF5T) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:53 |
+| 484 | [Unattainable](https://open.spotify.com/track/6qlGYDDRoJetVwfoJdhnsj) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:02 |
+| 485 | [Shoulder to Shoulder](https://open.spotify.com/track/40U5xTFrfOOtZFD7WtdI23) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:39 |
+| 486 | [With Strangers](https://open.spotify.com/track/0eWNkNTMpXTtvWdxoMkOSp) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:51 |
+| 487 | [Keep Me in Mind](https://open.spotify.com/track/04vhOCGg0vXAxerKc0eQ5d) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:24 |
+| 488 | [How to Hang a Warhol](https://open.spotify.com/track/0o0Pb9732n8BrPgUbylhzA) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 2:09 |
+| 489 | [Don't Watch Me Dancing](https://open.spotify.com/track/7yerczQrqL5V8aHdElLBU9) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 3:35 |
+| 490 | [Evaporar](https://open.spotify.com/track/24VjfCzBctUQRMhYUw6zxD) | [Little Joy](https://open.spotify.com/artist/0aLsJXIaJ6MMCZIzaGpMaX) | [Little Joy](https://open.spotify.com/album/2SctzR3lb5YN3EJzTf9Kbs) | 3:52 |
+| 491 | [The Once and Future King](https://open.spotify.com/track/4WPY5AsswXtvPH0LDGwRM8) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:20 |
+| 492 | [Secrets](https://open.spotify.com/track/7GZ6LwN9sVoKVfM7uZdamH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 4:07 |
+| 493 | [Cain Said to Abel](https://open.spotify.com/track/5c1W1k7JOUVyZ1DTjs0oYY) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:23 |
+| 494 | [Vision of Heaven](https://open.spotify.com/track/3r2ZjlNOKBGzgziQKXluHN) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:31 |
+| 495 | [We Were Lovers](https://open.spotify.com/track/615nJULTt5bVaxrWzfA0JB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 4:08 |
 
-Snapshot ID: `AAATeI4fuRR95C321iatzFi4GFI68R1Y`
+Snapshot ID: `AAATkmg0Jy2mnpGET9aqxokmhtXEihV1`

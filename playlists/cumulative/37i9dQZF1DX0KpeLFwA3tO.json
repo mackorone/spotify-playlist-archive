@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Tigers Jaw",
+  "description": "The best new music from the wide world of punk. Cover: Sweet Pill",
   "name": "All New Punk",
   "tracks": [
     {
@@ -1240,6 +1240,24 @@
       "duration_ms": 205200,
       "name": "A Predetermined Outcome",
       "url": "https://open.spotify.com/track/6KfFTiJskd1N8gsvCbwnxB"
+    },
+    {
+      "album": {
+        "name": "A Pure Expression",
+        "url": "https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs"
+      },
+      "artists": [
+        {
+          "name": " I Promised The World",
+          "url": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243638,
+      "name": "A Pure Expression",
+      "url": "https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu"
     },
     {
       "album": {
@@ -7308,7 +7326,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 148663,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
@@ -8336,7 +8354,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 223066,
       "name": "Castaway - Demo",
       "url": "https://open.spotify.com/track/2VnEyXzfafwIJHbPQAPKsn"
@@ -15601,6 +15619,24 @@
     },
     {
       "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/66gRUwm2WlpbiWBLVVJqni"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178437,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/3j4hHWnLLTzt1MkSTbCXS8"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR"
       },
@@ -17542,7 +17578,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 145438,
       "name": "Front Door Phobia",
       "url": "https://open.spotify.com/track/043HFVMO9yNXRxUs97Fmal"
@@ -24225,6 +24261,24 @@
     },
     {
       "album": {
+        "name": "Ci\u00f2 Che Resta Di Me",
+        "url": "https://open.spotify.com/album/7wUU8OdmhEDKoy6OgmlfdU"
+      },
+      "artists": [
+        {
+          "name": "Th\u00ebm",
+          "url": "https://open.spotify.com/artist/5c4dVlXYL5asepzgzXC0Lf"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209706,
+      "name": "Incontrami",
+      "url": "https://open.spotify.com/track/5sEEGYYdJdYY5LCyNxIIoK"
+    },
+    {
+      "album": {
         "name": "Influencer",
         "url": "https://open.spotify.com/album/423SI7941tIVewQWcgVbZ3"
       },
@@ -26654,7 +26708,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 218975,
       "name": "Laugh It Off",
       "url": "https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB"
@@ -29264,7 +29318,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 176000,
       "name": "Major Threat",
       "url": "https://open.spotify.com/track/3b1yLTfE5MHVspXc8rjfoy"
@@ -32543,6 +32597,24 @@
     },
     {
       "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
+    },
+    {
+      "album": {
         "name": "No Cops In Heaven / Pull The Trigger",
         "url": "https://open.spotify.com/album/7IQWOlmZ9hdMCDgZjCfUMb"
       },
@@ -35650,7 +35722,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 198977,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
@@ -36978,7 +37050,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 132854,
       "name": "Probably It's Capitalism",
       "url": "https://open.spotify.com/track/0MosQIxwlvD5YV4tmoj8cC"
@@ -41491,6 +41563,24 @@
     },
     {
       "album": {
+        "name": "Sidestepping",
+        "url": "https://open.spotify.com/album/6008QvWhbj9WnLdGyBlHSu"
+      },
+      "artists": [
+        {
+          "name": "EXEK",
+          "url": "https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Sidestepping",
+      "url": "https://open.spotify.com/track/1oImQjepMT3mT3QrmbEswR"
+    },
+    {
+      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -42496,6 +42586,24 @@
       "duration_ms": 187029,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/0TE9FwyzhIIfJPWwysf31s"
+    },
+    {
+      "album": {
+        "name": "Somebody Prayed For Me",
+        "url": "https://open.spotify.com/album/2JhIMSAnn399fFe7UttLKT"
+      },
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163252,
+      "name": "Somebody Prayed For Me",
+      "url": "https://open.spotify.com/track/2kAUqVkcNAtpvJsz4SabHB"
     },
     {
       "album": {
@@ -53618,6 +53726,24 @@
       "duration_ms": 162400,
       "name": "You Want It You Got It",
       "url": "https://open.spotify.com/track/0iVyBRoFmD8aK7kncgegtN"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Have To Kill Me",
+        "url": "https://open.spotify.com/album/1LLMdiKtf5rmffV9bhhSm7"
+      },
+      "artists": [
+        {
+          "name": "Blood For Blood",
+          "url": "https://open.spotify.com/artist/1x61OF80wiXb3qawWTGUDA"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172610,
+      "name": "You're Gonna Have To Kill Me",
+      "url": "https://open.spotify.com/track/0EOX4S6BJLixT61KRika3H"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Klassik Frescobar
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,302 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,348 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 38 | [In the Water](https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42) | [Suhrawh](https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL), [Chow Minister](https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM) | [In the Water](https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo) | 2:39 |
 | 39 | [How She Like It](https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [How She Like It](https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC) | 3:01 |
 | 40 | [No Apology](https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [No Apology](https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh) | 2:49 |
-| 41 | [Funky Business](https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu) | [Fimba](https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM) | [Funky Business](https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj) | 2:53 |
-| 42 | [Back Bend \(Remix\)](https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts) | [Subance](https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv), [Uncle Ellis](https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx) | [Back Bend \(Remix\)](https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW) | 3:05 |
+| 41 | [Back Bend \(Remix\)](https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts) | [Subance](https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv), [Uncle Ellis](https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx) | [Back Bend \(Remix\)](https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW) | 3:05 |
+| 42 | [Funky Business](https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu) | [Fimba](https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM) | [Funky Business](https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj) | 2:53 |
 | 43 | [Down Dey](https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Down Dey](https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F) | 2:13 |
 | 44 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 |
 | 45 | [Mental Day](https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Spirit Of Carnival Project](https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu) | 3:04 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 83 | [Soak It Good](https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Soak It Good](https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD) | 3:02 |
 | 84 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
 | 85 | [Search Party](https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Search Party](https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g) | 3:26 |
-| 86 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
-| 87 | [Erupt](https://open.spotify.com/track/48y8ZvIDhRd1iU7hffnzL2) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Fireman Hooper](https://open.spotify.com/artist/3zuZixv8wHya7KVinVss9T) | [Erupt](https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx) | 3:18 |
+| 86 | [Erupt](https://open.spotify.com/track/48y8ZvIDhRd1iU7hffnzL2) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Fireman Hooper](https://open.spotify.com/artist/3zuZixv8wHya7KVinVss9T) | [Erupt](https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx) | 3:18 |
+| 87 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
 | 88 | [Front Yard Wet](https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Front Yard Wet](https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk) | 2:51 |
 | 89 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
 | 90 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |

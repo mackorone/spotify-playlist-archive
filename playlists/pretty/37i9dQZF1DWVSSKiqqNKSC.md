@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,388 likes - 48 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,425 likes - 48 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 36 | [Abreme la puerta](https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo) | [Calle Real](https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU) | [Me Lo Gané](https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb) | 6:34 |
 | 37 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
 | 38 | [1999 \(feat\. Alexander Delgado \(Gente D' Zona\) & Serguei Yera Madera\)](https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z), [Alexander Delgado \(Gente D' Zona\)](https://open.spotify.com/artist/6ZjuWHUKpIArEL6GrBeaOh), [Serguei Yera Madera](https://open.spotify.com/artist/2vDi85b8goHBFqRLs1dMjM) | [La Salsa Tiene mi Son](https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH) | 4:45 |
-| 39 | [El Paso de la Bailerina](https://open.spotify.com/track/6RO3JijdGFvGbIyw1HknsK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:53 |
-| 40 | [Esto Está](https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Recoge y Vete](https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU) | 5:51 |
+| 39 | [Esto Está](https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Recoge y Vete](https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU) | 5:51 |
+| 40 | [El Paso de la Bailerina](https://open.spotify.com/track/6RO3JijdGFvGbIyw1HknsK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Pasaporte](https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv) | 5:53 |
 | 41 | [Puro Teatro](https://open.spotify.com/track/0DzEFFdQvaL47DD1B8bJ5C) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Laberinto de Pasiones](https://open.spotify.com/album/2A99uuzdqdWZg9wZh12Nyv) | 2:57 |
 | 42 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
 | 43 | [Soy Cubana](https://open.spotify.com/track/7trrKd0NJ6tGeLabz3068F) | [Son Damas](https://open.spotify.com/artist/60qGA95YCJPStxDgW1PoqM) | [Bailables de Cuba, Vol\. 2](https://open.spotify.com/album/6m7duIkPgcGsHwS5ijJaXX) | 5:09 |
-| 44 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
-| 45 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
+| 44 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
+| 45 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
 | 46 | [Prohibido](https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Prohibido](https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM) | 4:25 |
 | 47 | [¡Ay! Ay Amor](https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Lo Mejor de la Charanga](https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S) | 5:24 |
 | 48 | [Havana City](https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF) | [Havana NRG](https://open.spotify.com/artist/0NQisvahSHRFSfnUN0DYmp) | [Camino al Cielo](https://open.spotify.com/album/72Tes06RKTTqOuImJivudD) | 5:30 |

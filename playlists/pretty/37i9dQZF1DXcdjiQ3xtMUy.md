@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Stavento, Anastasia
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,369 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,380 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Truth or Dare](https://open.spotify.com/track/3tY0UN3X71k0xsU80x4ru4) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Truth or Dare](https://open.spotify.com/album/584E3gdT4NWJtIYwHX0iTH) | 2:16 |
 | 50 | [Allazo Ego](https://open.spotify.com/track/6z1xJ2taZR8eoWKyroSzyX) | [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Tania Breazou](https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r) | [Allazo Ego](https://open.spotify.com/album/1XPwQeUIPb4tfGagrzlXwr) | 3:13 |
 
-Snapshot ID: `AAAAAL+Ri7HiDWch+KvHjoGVtxIOKmbb`
+Snapshot ID: `AAAAAAwZXlNJOuDmfNkPFij3tOmNhLt+`

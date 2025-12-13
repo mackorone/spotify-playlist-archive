@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New stunning releases in modern soul\. Cover: Latanya Alberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,702 likes - 82 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,694 likes - 82 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 81 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
 | 82 | [Sweet Soul \- Single Edit](https://open.spotify.com/track/5dUB4PYGyQVWxozyciJs1U) | [Wynonna Stoové](https://open.spotify.com/artist/2hkNEGnoTog2IQbOFxqixP) | [Sweet Soul](https://open.spotify.com/album/4d2fYHE8sKPnav2wq9UWwh) | 3:33 |
 
-Snapshot ID: `AAAAACYFSeKV8DaZFxb9yLuviC2+EIRU`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

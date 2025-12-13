@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,038 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,035 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 36 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
 | 37 | [God Made You \(feat\. Kieran the Light\)](https://open.spotify.com/track/2j4HLLqfgkeXLK00uAoIKK) | [2 Lane Summer](https://open.spotify.com/artist/1lpP9gqecnWWWZntVDa391), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1) | [God Made You \(feat\. Kieran the Light\)](https://open.spotify.com/album/44xQdFrxHxdJHAFjDznLdi) | 3:22 |
 | 38 | [Falling At The Thought Of You](https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Falling At The Thought Of You](https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX) | 2:50 |
-| 39 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
-| 40 | [All Over The World](https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [All Over The World](https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh) | 3:10 |
+| 39 | [All Over The World](https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [All Over The World](https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh) | 3:10 |
+| 40 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
 | 41 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
 | 42 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
 | 43 | [Love In the Time of Madness](https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Slow Renaissance](https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1) | 4:03 |

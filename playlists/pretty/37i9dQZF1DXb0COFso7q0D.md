@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Edgardo Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,302,096 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,301,785 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 49 | [Patrullon](https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Clase Personal](https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg) | [Patrullon](https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP) | 2:38 |
 | 50 | [Cartier](https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cartier](https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB) | 3:06 |
 
-Snapshot ID: `AAAAAIEfh3JDLg3mLtqRUC1HPb0fTzsh`
+Snapshot ID: `AAAAAEuWJhvPugI2jtU//aQKp66ADMG8`

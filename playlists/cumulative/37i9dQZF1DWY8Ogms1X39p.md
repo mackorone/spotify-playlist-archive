@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-328 songs - 18 hr 25 min
+329 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Khayalan Tingkat Tinggi](https://open.spotify.com/track/0sDVfu8qgl4t4axkkV08dJ) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Bintang Di Surga](https://open.spotify.com/album/5K6G6PthNOaUsFR0XXyTAz) | 3:24 | 2023-07-10 | 2024-08-30 |
 | [KILO](https://open.spotify.com/track/3zk4vcWLRmBKw0om8vLFsh) | [Nara](https://open.spotify.com/artist/5ybvIfE3lpl0eExSuyRAnW) | [KILO](https://open.spotify.com/album/6e47dIKPKAeinBBJx5L9p3) | 2:45 | 2025-08-03 | 2025-09-08 |
 | [Koboi Kota](https://open.spotify.com/track/3GS9c7TuHp7JrzNBavRW58) | [D.P.M.B](https://open.spotify.com/artist/5TXNAGvl0RJtT0Ps1LdNhG) | [Re\-Attitude](https://open.spotify.com/album/7mNQ9twk5hWHanx5tJyeDd) | 3:03 | 2025-08-03 | 2025-09-08 |
+| [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR) | 4:29 | 2025-12-12 |  |
 | [Kuingin Kembali](https://open.spotify.com/track/5HA2YM7QOZDj0BCKb06skG) | [Iwa K](https://open.spotify.com/artist/5V4Bmxj6CowUoOdcLUEQPt) | [Kuingin Kembali](https://open.spotify.com/album/6csTMn4GNFA9KwMTnlFW3C) | 5:00 | 2025-08-03 | 2025-09-08 |
 | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/track/0V6nKCvWMIXgsvyiSyiLPT) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kumpul Bocah \(Original Soundtrack From “JUMBO"\)](https://open.spotify.com/album/23qxIsMBrP5jSrF66At2dt) | 4:15 | 2025-06-02 |  |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-07-04 |  |
@@ -306,7 +307,7 @@
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-29 |  |
 | [Trilla](https://open.spotify.com/track/6pGqSdGEIJzLpI8r335EUc) | [GNARLY CLUB](https://open.spotify.com/artist/3r0OEatK1jmPYA8Yz9dbZ7), [Nara](https://open.spotify.com/artist/5ybvIfE3lpl0eExSuyRAnW), [Trico](https://open.spotify.com/artist/1F9dlchjFRruemNF373U61), [W.O 782](https://open.spotify.com/artist/24McXy5zrj0GIYAlqIj9ov), [Yung Geez](https://open.spotify.com/artist/1J8W1IN2XA9gputGJLAti7) | [Face the Reaper \(Guide to Gnarcissist Realm\)](https://open.spotify.com/album/6SWMnAOio5Z9h566k7D7z0) | 3:01 | 2025-08-03 | 2025-09-08 |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/2LVnSeNPdiT9r95BtLhrAQ) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [LUAP](https://open.spotify.com/album/4t1d7lp7cX2v1HnqhlPuXd) | 3:39 | 2025-05-19 |  |
-| [Twenties](https://open.spotify.com/track/0NzTdXtgZLKP6IcyFyGytS) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Twenties](https://open.spotify.com/album/376cAL4mCqmNTi7nRlz2v2) | 3:21 | 2025-07-28 |  |
+| [Twenties](https://open.spotify.com/track/0NzTdXtgZLKP6IcyFyGytS) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Twenties](https://open.spotify.com/album/376cAL4mCqmNTi7nRlz2v2) | 3:21 | 2025-07-28 | 2025-12-13 |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-03-24 | 2025-06-03 |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-07-07 | 2025-09-30 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-12-13 | 2024-03-27 |

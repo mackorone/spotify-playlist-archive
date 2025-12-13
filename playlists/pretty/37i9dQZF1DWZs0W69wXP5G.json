@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover:  Hazbin Hotel",
-  "num_followers": 16082,
+  "num_followers": 16113,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGmboqv63I3n6EwGrO89t9LMVeKn",
+  "snapshot_id": "AAAAAHsXNI2B0KY6Q8P2bAfnI/9qZY4f",
   "tracks": [
     {
       "added_at": "2025-11-21 05:15:39",
@@ -115,6 +115,22 @@
       "duration_ms": 234500,
       "name": "The Phantom of the Opera",
       "url": "https://open.spotify.com/track/3HID4p7NeP19mLmQmbx5O4"
+    },
+    {
+      "added_at": "2025-12-12 05:00:30",
+      "album": {
+        "name": "For Good",
+        "url": "https://open.spotify.com/album/6dE6tWXLEinXB6VaFccD5t"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 260675,
+      "name": "For Good",
+      "url": "https://open.spotify.com/track/3oFQ5DiJOnkLeAycsoryop"
     },
     {
       "added_at": "2025-11-21 05:45:13",
@@ -1699,58 +1715,6 @@
       "duration_ms": 262122,
       "name": "30/90",
       "url": "https://open.spotify.com/track/3G77AXd3sc9z9bA44WNWKl"
-    },
-    {
-      "added_at": "2025-03-03 02:52:57",
-      "album": {
-        "name": "In The Heights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0F3HOT0E0Jj2MSnPm6tq4n"
-      },
-      "artists": [
-        {
-          "name": "Lin-Manuel Miranda",
-          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
-        },
-        {
-          "name": "Olga Merediz",
-          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
-        },
-        {
-          "name": "Jimmy Smits",
-          "url": "https://open.spotify.com/artist/5hv9BKVlMmFIIzmwdCZO5m"
-        },
-        {
-          "name": "Daphne Rubin-Vega",
-          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
-        },
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        },
-        {
-          "name": "Dascha Polanco",
-          "url": "https://open.spotify.com/artist/4nyZZkQQM7rXIuGpDDamgB"
-        },
-        {
-          "name": "Corey Hawkins",
-          "url": "https://open.spotify.com/artist/2BFxmZrsXPazaWFVR53Wpi"
-        },
-        {
-          "name": "Gregory Diaz IV",
-          "url": "https://open.spotify.com/artist/7jcRcSKFpP4o0P02lDADVN"
-        },
-        {
-          "name": "Melissa Barrera",
-          "url": "https://open.spotify.com/artist/0yac03Stzfyoukz2361kU7"
-        },
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        }
-      ],
-      "duration_ms": 461638,
-      "name": "In The Heights",
-      "url": "https://open.spotify.com/track/7oMr1IBlYwnb1jZh6of8kN"
     },
     {
       "added_at": "2025-03-03 02:52:57",

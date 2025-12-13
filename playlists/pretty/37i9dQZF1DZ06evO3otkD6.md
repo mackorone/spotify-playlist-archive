@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,915 likes - 43 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,946 likes - 43 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 39 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
 | 40 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 |
 | 41 | [Sal De Mi Piel](https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:26 |
-| 42 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 |
-| 43 | [Bugatti](https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Bugatti](https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC) | 2:45 |
+| 42 | [Bugatti](https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Bugatti](https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC) | 2:45 |
+| 43 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 |
 
-Snapshot ID: `aTi4AAAAAADvsKw3Tv7CbVNBx++VjRre`
+Snapshot ID: `aToJgAAAAADLNpXa59HbxyE/KbmkWjOw`

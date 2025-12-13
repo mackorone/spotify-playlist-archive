@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 228215,
+  "num_followers": 228217,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAlUEfhut53gWj7gf/zW0QC",
+  "snapshot_id": "aToJgAAAAADxJp8QhZPz7NmKDI5QP8oG",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hookah",
         "url": "https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 143037,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real Deal - Single",
+        "url": "https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 217286,
+      "name": "Real Deal",
+      "url": "https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Furious 7: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 211908,
       "name": "Ride Out",
       "url": "https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real Deal - Single",
-        "url": "https://open.spotify.com/album/4QHBlDKmCY3eY4vOwmkmB0"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 217286,
-      "name": "Real Deal",
-      "url": "https://open.spotify.com/track/5Rv4qhjI9MMJmLpM0iHIKV"
     },
     {
       "added_at": null,

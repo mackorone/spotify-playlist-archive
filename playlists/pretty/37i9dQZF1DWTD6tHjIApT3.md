@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: milet
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,643 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,765 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 79 | [素描](https://open.spotify.com/track/2WTDyaNE5JtuUWWFxy1XM9) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [素描](https://open.spotify.com/album/0OsYUg4pxgjKBJOqESsZju) | 4:35 |
 | 80 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 |
 | 81 | [ACTION](https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ACTION](https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt) | 3:19 |
-| 82 | [ビターエチュード](https://open.spotify.com/track/6JKLWsPeeNLlXNw4XXTN0T) | [明透](https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q) | [ビターエチュード](https://open.spotify.com/album/3U6a7FD3CjUMxK7HE41zz8) | 3:37 |
-| 83 | [Two Of Us](https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS) | 3:44 |
+| 82 | [Two Of Us](https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS) | 3:44 |
+| 83 | [ビターエチュード](https://open.spotify.com/track/6JKLWsPeeNLlXNw4XXTN0T) | [明透](https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q) | [ビターエチュード](https://open.spotify.com/album/3U6a7FD3CjUMxK7HE41zz8) | 3:37 |
 | 84 | [キミがいないと](https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [キミがいないと](https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5) | 3:35 |
 | 85 | [ユーフォーを見にいこう](https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ユーフォーを見にいこう](https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB) | 3:35 |
 | 86 | [ミギヒダリ](https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9) | [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [ミギヒダリ](https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z) | 3:04 |
-| 87 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 |
-| 88 | [last scene.](https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [last scene.](https://open.spotify.com/album/23bd5qlw1TCIso2aXmkzZw) | 4:09 |
+| 87 | [last scene.](https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [last scene.](https://open.spotify.com/album/23bd5qlw1TCIso2aXmkzZw) | 4:09 |
+| 88 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 |
 | 89 | [The rose](https://open.spotify.com/track/6ZGcf4owKDzTv5tfLFNS5Y) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [The rose](https://open.spotify.com/album/5tHePKEB70C7xnNessYfKx) | 2:52 |
-| 90 | [くすぐったい。](https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp) | 3:49 |
-| 91 | [pink](https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [pink](https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl) | 4:12 |
+| 90 | [pink](https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [pink](https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl) | 4:12 |
+| 91 | [くすぐったい。](https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp) | 3:49 |
 | 92 | [岩礁のきらめき](https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Wormhole / Yumi AraI](https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv) | 4:29 |
 | 93 | [GRAY](https://open.spotify.com/track/6yeZxv0sNYEoDY4dLlibG7) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [GRAY](https://open.spotify.com/album/5xuyrijW2gfXNWvn8K3tuw) | 5:00 |
 | 94 | [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 |
-| 95 | [Hello](https://open.spotify.com/track/6brjskUpqNCIdPDZ1bO8g1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Hello](https://open.spotify.com/album/0am2hiPbFIBEKr7PWXZNVd) | 3:52 |
-| 96 | [失敗しないメンヘラの育て方](https://open.spotify.com/track/4wx9Bsd1s8pJZvzrH6gEo9) | [平手友梨奈](https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k) | [失敗しないメンヘラの育て方](https://open.spotify.com/album/1O4O6tcKNxISmU1pPg3LCW) | 4:19 |
+| 95 | [失敗しないメンヘラの育て方](https://open.spotify.com/track/4wx9Bsd1s8pJZvzrH6gEo9) | [平手友梨奈](https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k) | [失敗しないメンヘラの育て方](https://open.spotify.com/album/1O4O6tcKNxISmU1pPg3LCW) | 4:19 |
+| 96 | [Hello](https://open.spotify.com/track/6brjskUpqNCIdPDZ1bO8g1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Hello](https://open.spotify.com/album/0am2hiPbFIBEKr7PWXZNVd) | 3:52 |
 | 97 | [天までとどけ](https://open.spotify.com/track/64CWzOfcI6BNBU1vDJJWsT) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [天までとどけ](https://open.spotify.com/album/2fjdk0XQa3SHpq5MoPxm9v) | 4:06 |
 | 98 | [From Noir](https://open.spotify.com/track/1pRTgNZcnHsOOnK4wglCVm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [From Noir into Clair](https://open.spotify.com/album/73B4nwyWAWF9RgsRFdTxmu) | 3:45 |
 | 99 | [果てしなき](https://open.spotify.com/track/0Ua4vUehTg5JcWrEKugWRt) | [Mana Ashida](https://open.spotify.com/artist/6vIb44giu9TY4lf4HpKuzm) | [「果てしなきスカーレット」オリジナル・サウンドトラック](https://open.spotify.com/album/5IeuLi72HWehE37OLFbkRR) | 5:35 |
-| 100 | [3%と私。](https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [3%と私。](https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi) | 4:50 |
+| 100 | [To Be Alive](https://open.spotify.com/track/0KgZSae308sPk5yh39jm8c) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [To Be Alive](https://open.spotify.com/album/0vr01ZdWCT3LwFzvsu5Azk) | 4:06 |
 
 Snapshot ID: `AAAAAG6LHOA/sQoQ8MxArNnGrxIuDdE9`

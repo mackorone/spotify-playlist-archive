@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸 LIT Killah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,194 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,142 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 12 | [Flow Canoa Freestyle 2](https://open.spotify.com/track/7br1ogtUC4A7fZuwDIGGzR) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [Flow Canoa Freestyle 2](https://open.spotify.com/album/5t1QSjfc9AW21YYPqYwlFo) | 2:54 |
 | 13 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 14 | [Demo](https://open.spotify.com/track/7aISltx2VUan85BwExh2bQ) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Starlight](https://open.spotify.com/album/3pSsGgeEhlEcsf0Sa5nBGS) | 3:30 |
-| 15 | [Lora](https://open.spotify.com/track/1eKeNjTZZpSpNZn7309P1W) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [Lora](https://open.spotify.com/album/1HIVNgldQfNmBiBdtMIc3O) | 2:30 |
+| 15 | [Lora](https://open.spotify.com/track/1eKeNjTZZpSpNZn7309P1W) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [Lora](https://open.spotify.com/album/1HIVNgldQfNmBiBdtMIc3O) | 2:30 |
 | 16 | [Un Dia En Mi Barrio \- Remix](https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Un Dia En Mi Barrio \(Remix\)](https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi) | 7:15 |
 | 17 | [Likey Likey](https://open.spotify.com/track/7xRvTyw9hlpyLtQZ16K0PU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Likey Likey](https://open.spotify.com/album/1AuXhPCpfvNszFxOinyO6E) | 2:25 |
 | 18 | [Hiccup](https://open.spotify.com/track/1Turm6pOZBCx8xst3fA5kT) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm) | [Escrito en la M\-30](https://open.spotify.com/album/7q7uLuyeYwAXZkMtoTKwkV) | 2:27 |

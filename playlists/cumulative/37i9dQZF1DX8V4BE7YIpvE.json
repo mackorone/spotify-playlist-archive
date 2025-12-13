@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "16th Floor",
+        "url": "https://open.spotify.com/album/2P4K8ghdGX8qXgzISFHiPS"
+      },
+      "artists": [
+        {
+          "name": "Crystal Motel",
+          "url": "https://open.spotify.com/artist/6UD8pS3KW4GX4PPxza4OW3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "16th Floor",
+      "url": "https://open.spotify.com/track/6DFEKSY6dfJ7R5HMTwLxgz"
+    },
+    {
+      "album": {
         "name": "Oscillations",
         "url": "https://open.spotify.com/album/0gN6eOH2Yn9TZ8sUMTWivU"
       },
@@ -330,6 +348,28 @@
       "duration_ms": 226285,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/6WKcQAFYIuTGn5pKbieIkJ"
+    },
+    {
+      "album": {
+        "name": "Cold Motion",
+        "url": "https://open.spotify.com/album/2YUX3yaUTStfqkKS9DEJ17"
+      },
+      "artists": [
+        {
+          "name": "Girl From Nowhere",
+          "url": "https://open.spotify.com/artist/3APsK1h2YmH8uiS45fny8K"
+        },
+        {
+          "name": "Boy From Nowhere",
+          "url": "https://open.spotify.com/artist/1VURNWjXDR62CZ7EgNwK8Q"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Cold Motion",
+      "url": "https://open.spotify.com/track/387xenR4A3GUM9cEArQ6KO"
     },
     {
       "album": {
@@ -850,7 +890,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 173714,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2UloubV0VmWeY9MT1Pnv06"
@@ -1420,7 +1460,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 166400,
       "name": "Great Ones",
       "url": "https://open.spotify.com/track/2tM0gJa9jRSxT06SD24irK"
@@ -1456,7 +1496,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 166956,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/2XIzBn6pv20rFPkEjboc1x"
@@ -1568,7 +1608,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 232258,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE"
@@ -1799,6 +1839,32 @@
     },
     {
       "album": {
+        "name": "Lost Data",
+        "url": "https://open.spotify.com/album/4vDNoVCnYg8fKUAGxMhTi9"
+      },
+      "artists": [
+        {
+          "name": "iGRES",
+          "url": "https://open.spotify.com/artist/3wT3SbXXtM07UH850EV4aO"
+        },
+        {
+          "name": "ENXK",
+          "url": "https://open.spotify.com/artist/0Iio0ktGrreO3fIaD9K8tL"
+        },
+        {
+          "name": "\u00d8NELY",
+          "url": "https://open.spotify.com/artist/2e6yfl3iV0V3bvqjFaZBE4"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175639,
+      "name": "Lost Data - Slowed",
+      "url": "https://open.spotify.com/track/0V9ODK3SX6eGGjFI0z0XSe"
+    },
+    {
+      "album": {
         "name": "Lost in Agadir",
         "url": "https://open.spotify.com/album/61iYmWms0utxBt46u9CDfG"
       },
@@ -2002,6 +2068,24 @@
       "duration_ms": 161460,
       "name": "Metro Station",
       "url": "https://open.spotify.com/track/0tAlg7NRFVk2VAQPScRQNO"
+    },
+    {
+      "album": {
+        "name": "Midnight Confessions",
+        "url": "https://open.spotify.com/album/2tpmIDsiovwLaod1O5M46t"
+      },
+      "artists": [
+        {
+          "name": "Night Shapes",
+          "url": "https://open.spotify.com/artist/6PRP1lwrRpqb8gfYERsnhV"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128666,
+      "name": "Midnight Confessions",
+      "url": "https://open.spotify.com/track/4i7luRkhTFCe4qvQnG0mw6"
     },
     {
       "album": {
@@ -2366,6 +2450,24 @@
       "duration_ms": 210000,
       "name": "Outrunners",
       "url": "https://open.spotify.com/track/3dbEGEBl2UlFHhxSPHsQrH"
+    },
+    {
+      "album": {
+        "name": "Parallax",
+        "url": "https://open.spotify.com/album/6WXePaUDedYtJimyPRjy5W"
+      },
+      "artists": [
+        {
+          "name": "Foudroie",
+          "url": "https://open.spotify.com/artist/1P689RfBCQpBQoZhCCgFma"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Parallax",
+      "url": "https://open.spotify.com/track/09KiRkUWXVjzaISuMNia3d"
     },
     {
       "album": {
@@ -3594,7 +3696,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 213536,
       "name": "We Began as Wanderers",
       "url": "https://open.spotify.com/track/2rL1cFztdWVUja88kIpumO"

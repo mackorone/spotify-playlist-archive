@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-827 songs - 1 day 21 hr 22 min
+829 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Baby don't cry](https://open.spotify.com/track/4mF2kmGmate4BDgNdDDBOU) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Baby don't cry](https://open.spotify.com/album/1z4tn0beVw7pRjRRkKtFs0) | 3:28 | 2024-09-24 | 2024-10-16 |
 | [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 | 2025-10-28 |  |
 | [Backbeat](https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'／IMP.](https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT) | 3:20 | 2024-03-12 | 2024-04-24 |
+| [Backseat Promises](https://open.spotify.com/track/1TIcSWViv0dea0exVZmSwr) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PULSEPHASE](https://open.spotify.com/album/3Bl7sxTZ5nnIxkblxJ6gmp) | 3:34 | 2025-12-12 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-05 | 2025-10-20 |
 | [Bad Influence \(Prod\. by Pharrell Williams\)](https://open.spotify.com/track/6uJlw4VHZulMvz6s3J2bO2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:47 | 2025-06-12 | 2025-08-25 |
 | [BAM\-BOO](https://open.spotify.com/track/4rRUH7C2JRGOJf8u3aIDJt) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO](https://open.spotify.com/album/0j6prwqcnjEWs7w9WRAT8d) | 2:34 | 2024-11-12 | 2025-01-13 |
@@ -378,6 +379,7 @@
 | [Light Up The Night](https://open.spotify.com/track/7jBSMTXOTrYZrsQ1x0xmJs) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/3PQkZD1u6awEojZLSgilCs) | 3:35 | 2024-07-26 | 2024-07-31 |
 | [Lollipop](https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:09 | 2024-02-27 | 2024-04-17 |
 | [Lollipop](https://open.spotify.com/track/6DWAaxDv3HfeJbUCNnXwRB) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/5BYtSfXOuqwh1iC5o8GfBH) | 2:09 | 2024-02-06 | 2024-02-28 |
+| [LOOK AT ME](https://open.spotify.com/track/1COvoUtzqdwASp3zHc5bPe) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/7N0xYciFgPt2Et3k5NCiUx) | 2:39 | 2025-12-12 |  |
 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-04 | 2025-06-04 |
 | [Lost](https://open.spotify.com/track/6dlbp9t6McWNc8r8ZXtYvP) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [LOST](https://open.spotify.com/album/2RNBslHPjuQ1SSjmevJCiO) | 2:42 | 2025-09-16 | 2025-10-22 |
 | [LOUD](https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [LOUD](https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA) | 3:12 | 2024-06-18 | 2025-03-07 |
@@ -467,7 +469,7 @@
 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 | 2024-10-14 | 2025-03-26 |
 | [One Bite](https://open.spotify.com/track/3qmqZ0xagja2QLmotPLXnD) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [One Bite](https://open.spotify.com/album/6dWrSCMiO8AWFvIXkoaQJg) | 2:38 | 2025-07-15 | 2025-10-27 |
 | [ONE DAY](https://open.spotify.com/track/6j9Viekj6TmxbUXVcbf6BJ) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [ONE DAY](https://open.spotify.com/album/0n8TRWzkuPoAbKKZXm42wy) | 3:54 | 2024-04-09 | 2024-04-24 |
-| [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 | 2025-11-17 |  |
+| [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 | 2025-11-17 | 2025-12-13 |
 | [ONE NIGHT](https://open.spotify.com/track/0hDmpbW1tZLVCnuX3fyxvn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE VIEW](https://open.spotify.com/album/00h5i6rfYbF7CJcaYCr5mA) | 2:48 | 2024-10-29 | 2025-01-29 |
 | [Only One Story](https://open.spotify.com/track/1nCg2Dg1ay6oNNsROOid1F) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [PREZENT](https://open.spotify.com/album/2W4coh0YmTpCovcdoyxmGd) | 3:40 | 2025-02-25 | 2025-03-20 |
 | [Only One Story \- Korean ver.](https://open.spotify.com/track/4qt5YBm2nkRhwsQ5zI9TPu) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Only One Story \(Korean ver.\)](https://open.spotify.com/album/3ELVt9DK6AXiwMtkMGeOXB) | 3:35 | 2025-04-15 | 2025-05-28 |
@@ -806,7 +808,7 @@
 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 | 2023-11-23 | 2024-01-31 |
 | [宵々祭](https://open.spotify.com/track/3GAp2jMYYULw04YMRVFxKF) | [手島章斗](https://open.spotify.com/artist/7mCzkv3ev49sg1PRtegoH9) | [宵々祭](https://open.spotify.com/album/5UCin9zq9mkLqFwGAXnDf5) | 3:24 | 2024-06-12 | 2024-07-10 |
 | [心盗夜](https://open.spotify.com/track/0r8o7thnwGB9xFbdesiebK) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [心盗夜](https://open.spotify.com/album/2WDl6ec11JYqKSDAUlo0u0) | 2:53 | 2025-11-05 |  |
-| [悪戯な天使 \- Itazurana Tenshi](https://open.spotify.com/track/5OScYgWsvZ5jgbDascFV6F) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [悪戯な天使 \(Itazurana Tenshi\)](https://open.spotify.com/album/6fkeAdFCBSQRF4Wb8KBfTO) | 4:30 | 2025-10-24 |  |
+| [悪戯な天使 \- Itazurana Tenshi](https://open.spotify.com/track/5OScYgWsvZ5jgbDascFV6F) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [悪戯な天使 \(Itazurana Tenshi\)](https://open.spotify.com/album/6fkeAdFCBSQRF4Wb8KBfTO) | 4:30 | 2025-10-24 | 2025-12-13 |
 | [愛が通り過ぎた跡](https://open.spotify.com/track/6lYyAMPOD6XXVNrVyxakAL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [愛が通り過ぎた跡](https://open.spotify.com/album/1IprJ7zbzRu4w0OhmBc14n) | 3:04 | 2025-07-13 | 2025-09-01 |
 | [拝啓、俺たちへ](https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A) | [コムドット](https://open.spotify.com/artist/4gCWHDSag0akMnMVFlbErm) | [拝啓、俺たちへ](https://open.spotify.com/album/6Er1W865y2brlTGEaD5PeJ) | 3:41 | 2024-05-28 | 2024-06-13 |
 | [旅立ちの鐘](https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [旅立ちの鐘](https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX) | 4:41 | 2024-04-09 | 2024-04-24 |

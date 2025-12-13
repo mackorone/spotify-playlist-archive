@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,835 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,770 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 99 | [Realize It All \- Acoustic](https://open.spotify.com/track/5taE8n05uD4WgK8WuXPWhX) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \(Acoustic\)](https://open.spotify.com/album/5olhftqamGHYnbVAQiWlOj) | 3:36 |
 | 100 | [Abigail](https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:50 |
 
-Snapshot ID: `AAAAADQAN5HHdrQg07XwQl8a+9nrk4XU`
+Snapshot ID: `AAAAAPTz9zHp88bIPSCvwa4PUC1ypOe5`

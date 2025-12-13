@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 185939,
       "name": "**GOLIATH**",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 208880,
       "name": "Always Be (feat. Kaya Thomas-Dyke)",
       "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
@@ -1679,6 +1679,28 @@
     },
     {
       "album": {
+        "name": "The Happening",
+        "url": "https://open.spotify.com/album/1rWWqI2epKv1GWR2MxpBRK"
+      },
+      "artists": [
+        {
+          "name": "SALIMATA",
+          "url": "https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD"
+        },
+        {
+          "name": "Kelly Moonstone",
+          "url": "https://open.spotify.com/artist/5TVQ1g9iOkpZUJrWgu21kj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Cake Up - ft. Kelly Moonstone",
+      "url": "https://open.spotify.com/track/4kiQ1aZzlPh3cQ44LQKnFa"
+    },
+    {
+      "album": {
         "name": "Where The Mind Wanders",
         "url": "https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts"
       },
@@ -1934,7 +1956,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
@@ -10778,7 +10800,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 160419,
       "name": "Truman",
       "url": "https://open.spotify.com/track/3YwLPf5C4XtLr7UYbBOJQM"
@@ -11524,6 +11546,24 @@
       "duration_ms": 197557,
       "name": "What We Doing And Where Are We Going? (WWDAWAWG)",
       "url": "https://open.spotify.com/track/6I48rUzAuYyzyosj5y6heT"
+    },
+    {
+      "album": {
+        "name": "what will they say",
+        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157591,
+      "name": "what will they say",
+      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,987 likes - 45 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,986 likes - 45 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 44 | [Despierten](https://open.spotify.com/track/2N2wRFBbIcjufMpQqIlA8V) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 6:14 |
 | 45 | [María](https://open.spotify.com/track/2ZBPfToX2dyMxDxGE529IW) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 4:04 |
 
-Snapshot ID: `aTi4AAAAAACyAej5AP9rrEDEcL2mw2pZ`
+Snapshot ID: `aToJgAAAAAD6hpZfDe96W7Z1fPtzFK5I`

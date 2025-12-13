@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,613 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,612 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 22 | [Forgotten Memories](https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:07 |
 | 23 | [Deportation/Iguazu](https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:49 |
 | 24 | [It Can't Last](https://open.spotify.com/track/5aWsp08r0De8hxXPKWbx0C) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:19 |
-| 25 | [Alma](https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 2:36 |
-| 26 | [Chichina](https://open.spotify.com/track/2LvMK31iQVKDoRZ9QeHHvW) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 1:31 |
+| 25 | [Chichina](https://open.spotify.com/track/2LvMK31iQVKDoRZ9QeHHvW) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 1:31 |
+| 26 | [Alma](https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 2:36 |
 | 27 | [Del Pago \- 2024 Remaster](https://open.spotify.com/track/5KsGluEh4MblJ078mjzbcB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:02 |
 | 28 | [Haven](https://open.spotify.com/track/1LT4QUpKPE9Y7oTD1uYT0A) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:33 |
 | 29 | [Ando Rodando \- Remasterizado](https://open.spotify.com/track/2y8NuNGsLyq0txHdSuXSMU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Santaolalla \(Remasterizado\)](https://open.spotify.com/album/3iD1XcjP0Wqyz7tRwBhEFR) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [Partida del Leprosario](https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 1:53 |
 | 50 | [Mariposa](https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Nueve](https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU) | 5:00 |
 
-Snapshot ID: `aTi4AAAAAAC/lzUdyRBBcaFj6+JGVBmt`
+Snapshot ID: `aToJgAAAAAD7S56RM4QC1F/TU2wR6Lj+`

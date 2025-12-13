@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-224 songs - 13 hr 18 min
+225 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Me and You](https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [King](https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u) | 3:44 | 2021-12-28 | 2025-07-06 |
 | [Me and You](https://open.spotify.com/track/37gtSmRBMvDcC93rWch2by) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Me and You](https://open.spotify.com/album/4bdvQMcOC8KnIpuluKKd2s) | 3:46 | 2025-07-06 | 2025-09-09 |
 | [Mengye Mani](https://open.spotify.com/track/4PDkZy4qiPF5Ah3TaDLQzC) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mengye Mani](https://open.spotify.com/album/1nuFeWphoHT0yUA9opJetj) | 3:36 | 2024-04-19 | 2024-05-15 |
-| [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 | 2025-01-02 |  |
+| [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 | 2025-01-02 | 2025-12-13 |
 | [Mewu \(feat\. Akwaboah\)](https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 3:25 | 2021-12-29 |  |
 | [NewGuy \(feat\. Acehood\)](https://open.spotify.com/track/24Ot0FTvMXlMuSVah7RoE0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [NewGuy \(feat\. Acehood\)](https://open.spotify.com/album/763yDd7CNuWdz0DSFc81XL) | 4:12 | 2022-01-22 | 2022-01-31 |
 | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/track/0NnsR4mHwY8hAJUGldCUEe) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NEXT DOOR \(with Sarkodie\)](https://open.spotify.com/album/4WnjNWkD250iwrlUkyYutz) | 2:36 | 2025-02-28 | 2025-05-31 |
@@ -167,6 +167,7 @@
 | [One Shot \(feat\. Shatta Wale & Sarkodie\)](https://open.spotify.com/track/2uhNP5JVU6OVoL5lOvH1tR) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [One Shot \(feat\. Shatta Wale & Sarkodie\)](https://open.spotify.com/album/67FjgBHWQh0hxSiGJOeaZm) | 3:40 | 2021-12-28 | 2024-02-03 |
 | [Onyame eyhira\(produced By Kaywa\) \(feat\. Castro\)](https://open.spotify.com/track/4Q33HiVThLk7DDDAfyu8S2) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:24 | 2021-12-28 | 2022-10-13 |
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2021-12-28 | 2025-03-31 |
+| [Oofeets](https://open.spotify.com/track/6AHcBAF5OFbachtFx1WiL0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/3OmwpHJA0I4yi8Jxa6CVK3) | 3:46 | 2025-12-13 |  |
 | [Original](https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:07 | 2022-07-19 | 2025-11-07 |
 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 | 2023-12-13 | 2025-09-18 |
 | [Otan](https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a) | 3:17 | 2025-09-18 |  |

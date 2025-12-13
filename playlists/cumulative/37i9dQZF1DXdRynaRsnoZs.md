@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-115 songs - 4 hr 26 min
+116 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Be Thou My Vision Lullaby](https://open.spotify.com/track/3P96LOcJuE4Aqzetsqnou2) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calming Christmas Flow](https://open.spotify.com/album/3aXKEnziDwXCVJqbx97Jj9) | 1:06 | 2022-12-23 |  |
 | [Caroling, caroling](https://open.spotify.com/track/06zCr3KozocS9gzSAxmQwY) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Deck the hall](https://open.spotify.com/album/3IhZrMCx2OHwEqydGWTol4) | 2:26 | 2023-10-27 |  |
 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 | 2021-12-22 |  |
-| [Christmas Baby \- Instrumental](https://open.spotify.com/track/76c0nnqGOlznWQXwK2XulW) | [The Night Owl](https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW) | [Christmas Lullabies for Babies \(2024\)](https://open.spotify.com/album/7u9tavkEHTc4tweyBdkDrA) | 3:06 | 2024-11-14 |  |
+| [Christmas Baby \- Instrumental](https://open.spotify.com/track/76c0nnqGOlznWQXwK2XulW) | [The Night Owl](https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW) | [Christmas Lullabies for Babies \(2024\)](https://open.spotify.com/album/7u9tavkEHTc4tweyBdkDrA) | 3:06 | 2024-11-14 | 2025-12-13 |
 | [Christmas Morning](https://open.spotify.com/track/0zy8xnRLIQ8mnA3Z9diYHZ) | [Jo Nichols](https://open.spotify.com/artist/3XZOOG3V4fB9wCDBUUZlzq) | [Christmas Morning](https://open.spotify.com/album/0xCWDJ0c67zt59hk0l2eo4) | 1:26 | 2024-12-05 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-22 | 2025-09-05 |
 | [Christmas Traditions](https://open.spotify.com/track/4iyxrcCCOGaG3VYp2lMc04) | [Lue Miles](https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU) | [Christmas Traditions](https://open.spotify.com/album/4WoFoO86STGkrZmx7VtZpc) | 2:11 | 2023-10-27 |  |
@@ -57,6 +57,7 @@
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6rBDrbfQOtnJNp0vNq9LuW) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4xXA2kyLlGXNEzCcyUHscD) | 2:01 | 2022-10-14 |  |
 | [Hark! The Herald Angels Sing \- Piano](https://open.spotify.com/track/6kE9hyVw6pX9BMuI6PHYfY) | [Anders Roy](https://open.spotify.com/artist/0GLWOkUqKDMF6foWDMzOy0) | [Holiday Piano Classics](https://open.spotify.com/album/0ZRzneVliO3pRj1qTLOlo8) | 2:24 | 2021-12-22 | 2022-10-15 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3L5EJDtpqmkS01BskuanyU) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Gentle Christmas Mood](https://open.spotify.com/album/0FtpBaMRchX5x7ojhr7sMt) | 2:12 | 2023-10-06 | 2025-09-05 |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1LyQRx53bFCFgZ03ZEtm5I) | [Rohan Bhasker](https://open.spotify.com/artist/13ETCLA4rmADTdgWDvyZlo) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/6k85NXYPOnHPS3wggKpOmy) | 2:17 | 2025-12-12 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-22 | 2025-09-05 |
 | [I Believe In Santa Claus](https://open.spotify.com/track/6Vm4eMLPr43DFlZ6stXEKc) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [I Believe In Santa Claus](https://open.spotify.com/album/1ueh7lgp8KLCiBoA3ICEkH) | 2:02 | 2022-10-14 |  |
 | [I Do Believe In Christmas](https://open.spotify.com/track/4OSBtwVW5JAEt95XAafEYa) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [I Do Believe In Christmas](https://open.spotify.com/album/01p9D0KVlFWzGUY8580KdY) | 2:04 | 2023-10-27 |  |

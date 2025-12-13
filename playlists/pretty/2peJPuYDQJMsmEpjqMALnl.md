@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 324,351 likes - 115 songs - 8 hr 4 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 324,349 likes - 115 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 3 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
 | 4 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
 | 5 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
-| 6 | [If You Leave \- From "Pretty In Pink"](https://open.spotify.com/track/05oFyvdztPdpwSwpoclD4c) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [If You Leave](https://open.spotify.com/album/3FSWIgpM4r649Pgr6KoMNf) | 4:28 |
+| 6 | [If You Leave](https://open.spotify.com/track/05oFyvdztPdpwSwpoclD4c) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [If You Leave](https://open.spotify.com/album/3FSWIgpM4r649Pgr6KoMNf) | 4:28 |
 | 7 | [Could You Be Loved](https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:57 |
 | 8 | [Celebration](https://open.spotify.com/track/0mAFhcH2ceQZBFsuS5IT8R) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Best Of](https://open.spotify.com/album/74QGin4IyWkxkjEFku17cF) | 4:58 |
 | 9 | [Upside Down](https://open.spotify.com/track/3spmBjPY8HCNCR6Y0H7Ahd) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/2r05fWtfSBpLSj4L7V7Ix9) | 4:04 |

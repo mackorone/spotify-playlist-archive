@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tye Tribbett
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,270 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,310 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 74 | [Completely Yours](https://open.spotify.com/track/5BJwPMyYs89Hfh4x2u1SHL) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Still Karen](https://open.spotify.com/album/1D0M1g3rsDjXD7k5STsETm) | 4:07 |
 | 75 | [Jesus \(feat\. Le'andria Johnson\)](https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Faith City Music](https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Welcome to Faith City](https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3) | 4:45 |
 
-Snapshot ID: `AAAAAAcMmceW6e23Z0V3eAj5LxMNs2zI`
+Snapshot ID: `AAAAAO//1Ce8jezyhFZYEHuhH+wjyhGM`

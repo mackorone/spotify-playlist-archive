@@ -2,9 +2,9 @@
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> The home of rage rap\. Cover: Destroy Lonely
+> The home of rage rap\. Cover: Playboi Carti
 
-188 songs - 8 hr 1 min
+190 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,9 @@
 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 | 2024-02-16 | 2025-07-16 |
 | [buku \(feat\. SoFaygo\)](https://open.spotify.com/track/7wiTIiyRb0dtjCCIm4RMSJ) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [22Joeyy](https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja) | 2:17 | 2023-12-01 | 2024-03-16 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-03-15 |  |
-| [Cartoon Network](https://open.spotify.com/track/12V00GCnpzT8ghx0vTVbp4) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [500 Days of Summer](https://open.spotify.com/album/5rT8y6Tt8WVu5UFoKK5WsT) | 2:40 | 2025-08-15 |  |
+| [Cartoon Network](https://open.spotify.com/track/12V00GCnpzT8ghx0vTVbp4) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [500 Days of Summer](https://open.spotify.com/album/5rT8y6Tt8WVu5UFoKK5WsT) | 2:40 | 2025-08-15 | 2025-12-13 |
 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 | 2025-11-07 |  |
-| [Club Siberia](https://open.spotify.com/track/0ltPQEEW1aC1pKqt68DIqV) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Club Siberia](https://open.spotify.com/album/6PAjRoxVTG2dEdcnSnxTzl) | 2:22 | 2025-07-11 |  |
+| [Club Siberia](https://open.spotify.com/track/0ltPQEEW1aC1pKqt68DIqV) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Club Siberia](https://open.spotify.com/album/6PAjRoxVTG2dEdcnSnxTzl) | 2:22 | 2025-07-11 | 2025-12-13 |
 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-10-10 |  |
 | [CONTEST](https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:32 | 2025-07-15 |  |
 | [COUNT MY BANDZ](https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [COUNT MY BANDZ](https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW) | 2:03 | 2024-09-20 | 2025-10-11 |
@@ -169,6 +169,7 @@
 | [Still the Same](https://open.spotify.com/track/4biJZe036GsCFNp2D2SR2j) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 3](https://open.spotify.com/album/09DoaRc2Dcmll2EhYWcWdy) | 2:05 | 2023-12-01 | 2024-02-21 |
 | [stressed](https://open.spotify.com/track/4jAf0mRh0eUvgZzAEb5Xmp) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [gone too soon](https://open.spotify.com/album/6Yk3cd3sShQh79Rfug8OQ4) | 1:45 | 2025-08-22 |  |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-12-01 | 2024-06-01 |
+| [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 | 2025-12-12 |  |
 | [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 | 2024-03-15 |  |
 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 | 2024-09-10 | 2025-11-08 |
 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 | 2025-06-13 |  |
@@ -190,6 +191,7 @@
 | [Way Up!](https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Way Up!](https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP) | 2:26 | 2023-12-01 | 2024-02-03 |
 | [What It Is?!](https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [What It Is?!](https://open.spotify.com/album/2hpdfZUyxtuLLi5PHGC6nJ) | 3:13 | 2023-12-01 | 2025-08-02 |
 | [WHAT YOU WANT](https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [WHAT YOU WANT](https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF) | 2:16 | 2023-12-01 | 2024-03-16 |
+| [Whitney](https://open.spotify.com/track/2vdAs3WHThXVp9ESCiQH9f) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Whitney](https://open.spotify.com/album/1qPsMc4JMJ0AiwZQ9YU0lH) | 1:57 | 2025-12-12 |  |
 | [WISH I COULD TELL YOU](https://open.spotify.com/track/7mAIh2cjeAXId5k6j74mCj) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:56 | 2023-12-01 | 2024-06-01 |
 | [WITH THE MAFIA](https://open.spotify.com/track/15G9tLK5NV68VPCwcFHJ1f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [WITH THE MAFIA](https://open.spotify.com/album/1ptHy3DR2LDt747iEh54eH) | 2:23 | 2025-10-17 |  |
 | [Wokeup](https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/3hi8gSzAJT4KGaJrylnccp) | 1:55 | 2024-03-15 | 2024-08-21 |

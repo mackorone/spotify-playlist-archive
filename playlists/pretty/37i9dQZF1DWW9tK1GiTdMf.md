@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un inverno non proprio felice \(rob in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,331 likes - 106 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,426 likes - 106 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,385 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,387 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,18 +65,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 55 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 |
 | 56 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
 | 57 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
-| 58 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 |
-| 59 | [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 |
+| 58 | [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 |
+| 59 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 |
 | 60 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 |
 | 61 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
 | 62 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
 | 63 | [A Bridge To Far](https://open.spotify.com/track/1VsBwiX65G3Im8IPCTjfpa) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [A Bridge To Far](https://open.spotify.com/album/0TwNjrKsiZXodWQvcRSxpU) | 3:44 |
-| 64 | [Hanging Out In My Head](https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5) | 2:49 |
-| 65 | [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 |
-| 66 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
-| 67 | [KD and Lunch Meat](https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church of Better Daze](https://open.spotify.com/album/3nvWKBg5uzny3jko5ezHJJ) | 4:20 |
-| 68 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
-| 69 | [Change of the Wind](https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Change of the Wind](https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc) | 3:49 |
+| 64 | [Change of the Wind](https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Change of the Wind](https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc) | 3:49 |
+| 65 | [Hanging Out In My Head](https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5) | 2:49 |
+| 66 | [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 |
+| 67 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
+| 68 | [KD and Lunch Meat](https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Church of Better Daze](https://open.spotify.com/album/3nvWKBg5uzny3jko5ezHJJ) | 4:20 |
+| 69 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
 | 70 | [Must Be a Cop](https://open.spotify.com/track/6RVPJhj0AamUoSa5faaufH) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Full\-On Monet](https://open.spotify.com/album/44E4Mfi5mRLWkG263l4mX5) | 3:49 |
 | 71 | [Road Warrior](https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Christian](https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ) | 3:12 |
 | 72 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
 | 75 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
 
-Snapshot ID: `AAAAAEYBTJoyDPM8wIBcbHh32QGMe+5L`
+Snapshot ID: `AAAAABDyA36b1rVZBRPUf7eSueUj/BuE`

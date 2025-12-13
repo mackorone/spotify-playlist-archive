@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,890 likes - 48 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,891 likes - 48 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 47 | [Ley Natural](https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:22 |
 | 48 | [La Otra Galaxia](https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 2:13 |
 
-Snapshot ID: `aTi4AAAAAADshdUDOnfo7kUtpNvp1dKo`
+Snapshot ID: `aToJgAAAAAAR9O6d5UOhNiDhlnJwjG1Q`

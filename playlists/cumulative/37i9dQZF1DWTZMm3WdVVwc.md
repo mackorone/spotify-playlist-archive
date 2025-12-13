@@ -4,7 +4,7 @@
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-263 songs - 18 hr 30 min
+264 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 | 2025-10-23 | 2025-10-25 |
 | [1999](https://open.spotify.com/track/5664npiyyvli6veD4VINZ1) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [1999](https://open.spotify.com/album/1wj9CGnWoclmhiXlxjPwrW) | 4:49 | 2025-10-24 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2023-12-12 | 2025-10-25 |
+| [AFTER TASTE](https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [AFTER TASTE](https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9) | 4:07 | 2025-12-11 |  |
 | [ai no uta](https://open.spotify.com/track/2nP5n43PEfVzIiRZAVGcPL) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/06wZxbyxypr1BVQEopXXtx) | 4:32 | 2023-12-12 | 2024-04-19 |
 | [AlwayS](https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AlwayS](https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH) | 4:20 | 2024-12-03 | 2025-10-24 |
 | [Astronaut](https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Astronaut](https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9) | 3:35 | 2023-12-12 | 2024-02-07 |
@@ -95,7 +96,7 @@
 | [orion](https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp) | 4:43 | 2025-10-23 |  |
 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 | 2023-12-12 | 2024-02-07 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-12-12 | 2023-12-20 |
-| [Present](https://open.spotify.com/track/6haW837EW4wauotPmhUVAM) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Present](https://open.spotify.com/album/3SgSlkZv8rds5bMmD24AqD) | 2:58 | 2024-12-10 |  |
+| [Present](https://open.spotify.com/track/6haW837EW4wauotPmhUVAM) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Present](https://open.spotify.com/album/3SgSlkZv8rds5bMmD24AqD) | 2:58 | 2024-12-10 | 2025-12-13 |
 | [Pretender](https://open.spotify.com/track/58dxGXavrcagRqA58fNB0Z) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ) | 5:26 | 2025-10-23 | 2025-10-25 |
 | [Razor Sharp](https://open.spotify.com/track/7ewZUzZQr5oiFxH5RcbwdJ) | [SUGIURUMN](https://open.spotify.com/artist/6SkHN5XI188oP4n7YhBRQm), [Jimme Armstrong](https://open.spotify.com/artist/4XJL3wjOswmJ2z5fu1TLof) | [Razor Sharp](https://open.spotify.com/album/1RdmMMGpxSXk5PFoh6F1mu) | 7:08 | 2023-12-12 | 2023-12-20 |
 | [Rely on winter](https://open.spotify.com/track/5PyzNTtWX0PXV7Q0HNtsVA) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [Rely on winter](https://open.spotify.com/album/0jMjGRFQfkc7alrH6CyI5m) | 5:02 | 2023-12-19 | 2024-01-10 |

@@ -4,7 +4,7 @@
 
 > 女性ポップアイコンを一つのプレイリストに。cover: HANA
 
-721 songs - 1 day 13 hr 8 min
+722 songs - 1 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Drop](https://open.spotify.com/track/0hhUYRTVgcq7oD4qVLDgR2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Drop](https://open.spotify.com/album/2SjMfhQ93N7gJ5LsGoan0E) | 2:28 | 2025-01-30 | 2025-03-28 |
 | [Drums of Death](https://open.spotify.com/track/0s2kdkcG5N7ySBbEwTiFEF) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Drums of Death](https://open.spotify.com/album/5O2iDeaXzm0HOsEkYartOo) | 3:11 | 2024-11-14 | 2025-01-10 |
 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 | 2025-07-24 | 2025-08-29 |
-| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 |  |
+| [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 | 2025-12-13 |
 | [easy](https://open.spotify.com/track/6TgRJPRmu9l75M2bneEyyh) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [UNSAID](https://open.spotify.com/album/6qymOSCWulOMM6D7LxuZtl) | 2:06 | 2024-10-31 | 2024-12-06 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2024-10-11 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 | 2025-10-10 |
@@ -713,6 +713,7 @@
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-11-30 | 2025-02-17 |
 | [Zarigani](https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Zarigani](https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc) | 4:33 | 2025-04-04 | 2025-04-18 |
 | [Zero Pressure](https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:50 | 2025-02-27 | 2025-03-14 |
+| [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-12-11 |  |
 | [Única](https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Única](https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM) | 2:24 | 2025-11-27 |  |
 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2023-03-23 | 2023-05-12 |
 | [わたし、蝶々。](https://open.spotify.com/track/1jX9A3M5N38g38REQwwglU) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [わたし、蝶々。](https://open.spotify.com/album/4GPiPfhjaCQWNbo8EgtEQp) | 4:24 | 2024-03-05 | 2024-04-27 |

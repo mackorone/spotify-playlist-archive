@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ont7ivxBmg.md) - [plain]
 
 > A collection of our Spotify Singles, all recorded in London\.  Cover: Kano, beabadoobee and Bombay Bicycle Club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,148 likes - 76 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,143 likes - 76 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

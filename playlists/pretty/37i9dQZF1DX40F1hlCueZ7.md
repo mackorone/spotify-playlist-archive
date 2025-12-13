@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 
 > Lo mejor del año  del mundo indie y alternativo, como Amaia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,308 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,356 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 | 59 | [Eternamente Joven](https://open.spotify.com/track/4K8alAvQw15kEGvSzm3WgT) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.III\)](https://open.spotify.com/album/3N5Q9YAJAC2pM2CT7WUiQN) | 2:43 |
 | 60 | [Un beso y una flor](https://open.spotify.com/track/0Nud4e4UMarXudvjxS2bBA) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/1lz6YxwXcevEmYumlpqhk5) | 2:50 |
 
-Snapshot ID: `AAAAAMaAy4haWS3u1+Q51uBaCcsrwhnu`
+Snapshot ID: `AAAAADkDEiAyNyjPxS26G249T9shU4v2`

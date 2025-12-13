@@ -3279,6 +3279,28 @@
     },
     {
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/4skxVlSEuG1dsgfoChLzfc"
+      },
+      "artists": [
+        {
+          "name": "Stirmouth",
+          "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
+        },
+        {
+          "name": "evi",
+          "url": "https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/2sFhb5wOheqeUU3vAa5Nmt"
+    },
+    {
+      "album": {
         "name": "Heels (Moods Remix)",
         "url": "https://open.spotify.com/album/1UUn9hgxPip1wXzHXpKxO1"
       },
@@ -6537,6 +6559,24 @@
     },
     {
       "album": {
+        "name": "Rain Down",
+        "url": "https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278425,
+      "name": "Rain Down",
+      "url": "https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N"
+    },
+    {
+      "album": {
         "name": "Re-Up",
         "url": "https://open.spotify.com/album/4oGuEHTCrs3ZAAL4yzaQEH"
       },
@@ -8696,7 +8736,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 194028,
       "name": "too fast",
       "url": "https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze"
@@ -9420,7 +9460,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 128399,
       "name": "You're Home",
       "url": "https://open.spotify.com/track/3kfalsko8zp5Mvt0sPMuvL"

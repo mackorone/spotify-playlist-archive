@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 373558,
+  "num_followers": 373580,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAACnayolUvPRYC7aoQvcwWwC",
+  "snapshot_id": "aToJgAAAAAB27gMblMdCKAITQBM/h2U3",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "Lay Down Sally",
-      "url": "https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 263746,
       "name": "I Shot The Sheriff",
       "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "Lay Down Sally",
+      "url": "https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG"
     },
     {
       "added_at": null,

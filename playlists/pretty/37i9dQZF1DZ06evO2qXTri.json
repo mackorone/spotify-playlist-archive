@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 37165,
+  "num_followers": 37183,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADOKsNn+zOi45kDGKkiLgzu",
+  "snapshot_id": "aToJgAAAAAC3MFazHvxELPQFb8LliOHf",
   "tracks": [
     {
       "added_at": null,
@@ -730,11 +730,27 @@
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
         }
       ],
-      "duration_ms": 263973,
-      "name": "Before I Die",
-      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
+      "duration_ms": 336773,
+      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
+      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
     },
     {
       "added_at": null,
@@ -802,27 +818,11 @@
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Rance Allen",
-          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
-        },
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        },
-        {
-          "name": "Isaac Carree",
-          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
         }
       ],
-      "duration_ms": 336773,
-      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
-      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
+      "duration_ms": 263973,
+      "name": "Before I Die",
+      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
     },
     {
       "added_at": null,

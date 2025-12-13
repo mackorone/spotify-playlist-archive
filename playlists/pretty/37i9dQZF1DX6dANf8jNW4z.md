@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Celebramos el 2025 de las artistas españolas 💚 Foto: Marta Santos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,476 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,479 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 59 | [Te Voy A Regalar](https://open.spotify.com/track/2DBmBEu6L0ZVtTEyLH7e3e) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Te Voy A Regalar](https://open.spotify.com/album/1A2Q7SyCk9Di8psssnzCHM) | 2:48 |
 | 60 | [portal](https://open.spotify.com/track/484npRS6bqoxtcN0kB4jLU) | [kindapatri](https://open.spotify.com/artist/1EvQDWh3meaem5xYnP9WPo) | [noctaria](https://open.spotify.com/album/3PzV1hg5u1Ub0uwYf9b4WF) | 2:49 |
 
-Snapshot ID: `AAAAAEJ2iCf2EBDvHHIphNRjOmKNqcep`
+Snapshot ID: `AAAAAIbI3w2M8GcSnBtnCjqAP9YR4Lsn`

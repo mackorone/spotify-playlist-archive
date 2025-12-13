@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 204444,
       "name": "Believe - Remix",
       "url": "https://open.spotify.com/track/5TcbpZTIBHZhuPPjjGAcvd"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 155169,
       "name": "Better Than Ever",
       "url": "https://open.spotify.com/track/6BEOAVWbGPGvKOAZNdBcnu"
@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "BOOM!",
+        "url": "https://open.spotify.com/album/4t7qgQ1Q84zF9VILKYp017"
+      },
+      "artists": [
+        {
+          "name": "Errol Allen",
+          "url": "https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "BOOM!",
+      "url": "https://open.spotify.com/track/7aip3a5tzvuRuS0MhdCOoF"
+    },
+    {
+      "album": {
         "name": "Boost It Up",
         "url": "https://open.spotify.com/album/4WnfeGJ9QVzmyrUa9v38Uc"
       },
@@ -2050,6 +2068,24 @@
       "duration_ms": 187200,
       "name": "bounce back.",
       "url": "https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi"
+    },
+    {
+      "album": {
+        "name": "Bound 2 Be",
+        "url": "https://open.spotify.com/album/79RcQfulnqy1Me3ZSdnnpx"
+      },
+      "artists": [
+        {
+          "name": "Kai Uriah",
+          "url": "https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162729,
+      "name": "Bound 2 Be",
+      "url": "https://open.spotify.com/track/1RBcvmkUFC73IG94lpJACb"
     },
     {
       "album": {
@@ -3709,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "Dirty Sinner",
+        "url": "https://open.spotify.com/album/3fikfhcCy5gdOBNUIy8sN8"
+      },
+      "artists": [
+        {
+          "name": "BrvndonP",
+          "url": "https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123726,
+      "name": "Dirty Sinner",
+      "url": "https://open.spotify.com/track/6dWPyiiVjJf7M2tbiYAE4t"
+    },
+    {
+      "album": {
         "name": "DO IT AGAIN",
         "url": "https://open.spotify.com/album/3PI1YdwODGFwQ8UJjHZ7A2"
       },
@@ -4517,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "Father God",
+        "url": "https://open.spotify.com/album/5AkZv8q5uAouw9Vt23nRJd"
+      },
+      "artists": [
+        {
+          "name": "Gifted Hands",
+          "url": "https://open.spotify.com/artist/39rx4zgUPeQQXZbD9xphK6"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191501,
+      "name": "Father God",
+      "url": "https://open.spotify.com/track/4oFCxoJilFfmiAdfvA6J0e"
+    },
+    {
+      "album": {
         "name": "Father's Hands",
         "url": "https://open.spotify.com/album/1BjbrQF7U5F7A6x5Qsv4OE"
       },
@@ -4874,6 +4946,28 @@
       "duration_ms": 148436,
       "name": "Flashy",
       "url": "https://open.spotify.com/track/2AHoi03XAHDv5df9AJjLYs"
+    },
+    {
+      "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/1nWD5Zuc08MZzClKXN1CTX"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135858,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/2bTY46Jc9FbovLFECJw0WM"
     },
     {
       "album": {
@@ -8314,7 +8408,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 131655,
       "name": "JOHN GOTTI",
       "url": "https://open.spotify.com/track/0jh5wtzeQIDJ0zhxZTj1dl"
@@ -8492,7 +8586,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 133714,
       "name": "Keep Going High",
       "url": "https://open.spotify.com/track/3ZxI58HpXQpq6STPReH067"
@@ -10034,7 +10128,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 187375,
       "name": "Militant",
       "url": "https://open.spotify.com/track/0sd8eA5h5eLESpfw2NIi81"
@@ -10190,7 +10284,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 157387,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/7wMJA0CAXtc7cFJ491SauD"
@@ -10346,7 +10440,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 189474,
       "name": "Need Some Mo 2",
       "url": "https://open.spotify.com/track/3xREUGx5jgYXhNvrP45Oy3"
@@ -10696,7 +10790,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 155520,
       "name": "No Credit",
       "url": "https://open.spotify.com/track/29dJB4ODGWTfK2D6JasVMp"
@@ -11310,6 +11404,28 @@
       "duration_ms": 153600,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3W83exgQnWggvGqB0F6i35"
+    },
+    {
+      "album": {
+        "name": "Okayyy We Back",
+        "url": "https://open.spotify.com/album/4tWqSYHXxEbA1VtoHrppjp"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166765,
+      "name": "Okayyy We Back",
+      "url": "https://open.spotify.com/track/1QRxu30D9RdCpff2VpJWY7"
     },
     {
       "album": {
@@ -12626,7 +12742,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 157183,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6Eb5V21N0kBbzqGb9O3kgx"
@@ -15661,6 +15777,24 @@
     },
     {
       "album": {
+        "name": "To the Limit",
+        "url": "https://open.spotify.com/album/71jBO7qomMZVkoiFFspKFu"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129300,
+      "name": "To the Limit",
+      "url": "https://open.spotify.com/track/06ko2sxZL0JWpp6AQhBn6u"
+    },
+    {
+      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/0bpirtY2C9rDko6GSTZzzh"
       },
@@ -16196,6 +16330,32 @@
       "duration_ms": 162000,
       "name": "UP 1",
       "url": "https://open.spotify.com/track/5Otcub945UtV8UKy4QWQ7r"
+    },
+    {
+      "album": {
+        "name": "Up to Something",
+        "url": "https://open.spotify.com/album/0fk00GPpLwk3XIdYqCUuy7"
+      },
+      "artists": [
+        {
+          "name": "Zee",
+          "url": "https://open.spotify.com/artist/0d2diExytbLBj7Ff3FLX9p"
+        },
+        {
+          "name": "EGR",
+          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
+        },
+        {
+          "name": "Seb Jessop",
+          "url": "https://open.spotify.com/artist/0GA8aOstSc9R3NfqbFdMy6"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286483,
+      "name": "Up to Something",
+      "url": "https://open.spotify.com/track/5g9fSKNDEJAbG3Yg7QOiPu"
     },
     {
       "album": {
@@ -16798,6 +16958,28 @@
       "duration_ms": 189728,
       "name": "What Are We Waiting For? (Gregatron Remix)",
       "url": "https://open.spotify.com/track/7cppJoWsVXvMZDbv8bHQNA"
+    },
+    {
+      "album": {
+        "name": "What I Been Through",
+        "url": "https://open.spotify.com/album/5PxXsCA913UturcXM8n77v"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "FrankRilla",
+          "url": "https://open.spotify.com/artist/56WmbdbjnfVJLhl8xuWytm"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165717,
+      "name": "What I Been Through",
+      "url": "https://open.spotify.com/track/4NxAjpSeB9LuH5tgxtyPhb"
     },
     {
       "album": {

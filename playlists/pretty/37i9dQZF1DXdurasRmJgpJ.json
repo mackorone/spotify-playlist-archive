@@ -1,6 +1,6 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 361754,
+  "num_followers": 361855,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 229328,
-      "name": "\u8e0a\u308a\u5b50",
-      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 270705,
       "name": "\u6674\u308b",
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
-        "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 383361,
-      "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
-      "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "\u30ab\u30ea\u30b9\u30de\u30c3\u30af\u30b9 (CHARISMAX)",
         "url": "https://open.spotify.com/album/5VWD7lx3jH6XKPfPeeLhyv"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 177433,
       "name": "\u30ab\u30ea\u30b9\u30de\u30c3\u30af\u30b9 - CHARISMAX",
       "url": "https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+        "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 383361,
+      "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
+      "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Tiger",
-      "url": "https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 246668,
       "name": "I",
       "url": "https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "Burning Flower",
-        "url": "https://open.spotify.com/album/163oByKktJZI76tPDx5iHx"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 177898,
-      "name": "Burning Flower",
-      "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "Plazma",
         "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 180832,
       "name": "Plazma",
       "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "Burning Flower",
+        "url": "https://open.spotify.com/album/163oByKktJZI76tPDx5iHx"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 177898,
+      "name": "Burning Flower",
+      "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
+        "name": "No.\u2161 (Deluxe)",
+        "url": "https://open.spotify.com/album/0iqpmtNFxdR3LZc5Hb6Gzu"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 192603,
+      "name": "LAVALAVA",
+      "url": "https://open.spotify.com/track/3h2mAlbVjRrRtBwAmIwOgD"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
         "name": "\u30c0\u30fc\u30ea\u30f3",
         "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 229333,
       "name": "\u30ac\u30fc\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -1023,38 +1039,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "UNDEAD",
-        "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 182702,
-      "name": "UNDEAD",
-      "url": "https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
-        "name": "No.\u2161 (Deluxe)",
-        "url": "https://open.spotify.com/album/0iqpmtNFxdR3LZc5Hb6Gzu"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 192603,
-      "name": "LAVALAVA",
-      "url": "https://open.spotify.com/track/3h2mAlbVjRrRtBwAmIwOgD"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "Love&Letter repackage album",
         "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "UNDEAD",
+        "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 182702,
+      "name": "UNDEAD",
+      "url": "https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "ANTI ANTI GENERATION",
-        "url": "https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 392426,
-      "name": "\u305d\u3063\u3051\u306a\u3044",
-      "url": "https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
-        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
+        "name": "ANTI ANTI GENERATION",
+        "url": "https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF"
       },
       "artists": [
         {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 234323,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
-      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+      "duration_ms": 392426,
+      "name": "\u305d\u3063\u3051\u306a\u3044",
+      "url": "https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "strobo",
-        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
+        "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
+        "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
         }
       ],
-      "duration_ms": 200241,
-      "name": "\u4e0d\u53ef\u5e78\u529b",
-      "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
+      "duration_ms": 234323,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
+      "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -1243,6 +1227,22 @@
       "duration_ms": 307644,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 200241,
+      "name": "\u4e0d\u53ef\u5e78\u529b",
+      "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "\u5e7e\u5104\u5149\u5e74",
-        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
-      },
-      "artists": [
-        {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
-        }
-      ],
-      "duration_ms": 276918,
-      "name": "\u5e7e\u5104\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "\u5e7e\u5104\u5149\u5e74",
+        "url": "https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "duration_ms": 276918,
+      "name": "\u5e7e\u5104\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
         "url": "https://open.spotify.com/album/28gvMa5Tg0Idym44dEiRC0"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 286546,
       "name": "\u65b0\u3057\u3044\u604b\u4eba\u9054\u306b",
       "url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
     },
     {
       "added_at": "2025-12-02 06:07:49",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-12-02 06:07:49",
       "album": {
-        "name": "\u518d\u4f1a",
-        "url": "https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 260829,
-      "name": "\u518d\u4f1a",
-      "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
-    },
-    {
-      "added_at": "2025-12-02 06:07:49",
-      "album": {
         "name": "I believe in you",
         "url": "https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 208896,
       "name": "\u9b54\u6cd5\u306e\u7d68\u6bef",
       "url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL"
+    },
+    {
+      "added_at": "2025-12-02 06:07:49",
+      "album": {
+        "name": "\u518d\u4f1a",
+        "url": "https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "\u518d\u4f1a",
+      "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
     }
   ],
   "unique_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",

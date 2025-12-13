@@ -3243,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
+        "url": "https://open.spotify.com/album/618cHLDsjL1S9kvLL6pN23"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Hyv\u00e4np\u00e4iv\u00e4ntutut",
+      "url": "https://open.spotify.com/track/4cuTbzakxCV05eZydN4Inf"
+    },
+    {
+      "album": {
         "name": "Hyv\u00e4uskoinen (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/7xlPk3qE972zgOxgIWQkWx"
       },
@@ -9421,8 +9439,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Tello Tape",
+        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
       },
       "artists": [
         {

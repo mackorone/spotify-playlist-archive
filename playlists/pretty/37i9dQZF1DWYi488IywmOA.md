@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 
 > Our editors' top picks for the best Blues songs of the year\. Cover: Robert Randolph
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,939 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,970 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 49 | [Got To Have You](https://open.spotify.com/track/7e6urXDdKhSl5RBoHGfItV) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS), [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Sit Here If You Can Sing](https://open.spotify.com/album/6ithUC2YuWjzZfTdZvbSkw) | 2:31 |
 | 50 | [Satisfied](https://open.spotify.com/track/2Ws5txpfpiW6gSP5BrJznq) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [Steppin' Out!](https://open.spotify.com/album/2f4v2qImorHLkKf8NOXdN9) | 3:36 |
 
-Snapshot ID: `AAAAADfORTFgIZtxjXkRPxVh/3nzgvJf`
+Snapshot ID: `AAAAAKbdbeMjSjCIujzmbxjWxL1d8mDC`

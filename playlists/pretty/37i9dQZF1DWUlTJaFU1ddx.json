@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 32081,
+  "num_followers": 32088,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
+        "name": "Awlaweeti",
+        "url": "https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "duration_ms": 218677,
+      "name": "Awlaweeti",
+      "url": "https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
         "name": "KHAYYALA",
         "url": "https://open.spotify.com/album/4J1k05sRPi0Qlez40Z8nXg"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 189600,
       "name": "KHAYYALA",
       "url": "https://open.spotify.com/track/33ZTgAaPHck9KIIOEnkSxC"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
-        "name": "Awlaweeti",
-        "url": "https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT"
-      },
-      "artists": [
-        {
-          "name": "Reina Khoury",
-          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
-        }
-      ],
-      "duration_ms": 218677,
-      "name": "Awlaweeti",
-      "url": "https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe"
     },
     {
       "added_at": "2024-12-21 19:38:19",

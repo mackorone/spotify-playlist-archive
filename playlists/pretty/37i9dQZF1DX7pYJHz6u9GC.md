@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,231 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,138 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 | 49 | [Little White Berry](https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Ben Castle](https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 3:24 |
 | 50 | [Warm In December](https://open.spotify.com/track/0h9ZWcY1sca7ePol8p4AB1) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Holiday For Swing!](https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4) | 3:17 |
 
-Snapshot ID: `AAAAANribdgHrlkJlAKXbf/PxN8SrzF/`
+Snapshot ID: `AAAAAH+O1i9DHJFLuUnW/Z5mUScAXZF8`

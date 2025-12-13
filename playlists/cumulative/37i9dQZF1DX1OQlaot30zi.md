@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sala, Paky, Gemitaiz, Promessa e molti altri.
 
-6,561 songs - 12 day 2 hr 33 min
+6,562 songs - 12 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [AMETISTA](https://open.spotify.com/track/3P6tMHsD6GEuoFvLwKeM7t) | [Kkrisna](https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf) | [KKOLORS](https://open.spotify.com/album/4fdwRNE30xoa08hPT0o3A7) | 1:03 | 2024-11-28 | 2024-12-13 |
 | [AMG](https://open.spotify.com/track/3vXCF2W05QjzgIcRfmuGdq) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [AMG](https://open.spotify.com/album/253q9ai7SJzI4JxMAKtTN6) | 2:29 | 2023-06-29 | 2023-07-14 |
 | [AMG](https://open.spotify.com/track/6zhr4V8bj8KXzx2JJyhtQq) | [Nevada](https://open.spotify.com/artist/3Pjx4uqUIWaqsgSAfwhZCq) | [AMG](https://open.spotify.com/album/5P1jgzyavdPhtGzY1VucG8) | 1:42 | 2024-11-22 | 2024-11-29 |
+| [Amica sopra al tavolo \(feat\. Abby 6ix\)](https://open.spotify.com/track/4UMe5hRNllMSVnmy7XMWAw) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6), [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Amica sopra al tavolo \(feat\. Abby 6ix\)](https://open.spotify.com/album/2TFqQcA8VvUQwU8zMwWu9h) | 2:49 | 2025-12-12 |  |
 | [Amici \(feat\. Diss Gacha\)](https://open.spotify.com/track/7uYv5rmtv1d5xQXliUxq3E) | [Stewie](https://open.spotify.com/artist/6mx7oUYgX5FeSX3TVAZOYz), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Luce Vera](https://open.spotify.com/album/2cDaydDMRtAKgeHpe1lQk0) | 2:22 | 2025-11-28 |  |
 | [AMICI COME PRIMA](https://open.spotify.com/track/0adrbI6meVUfb7BLAYuIg0) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [AMICI COME PRIMA](https://open.spotify.com/album/3ZsMXYg498oH28Jx7KkZUN) | 3:21 | 2025-07-03 | 2025-07-25 |
 | [Amiezavj](https://open.spotify.com/track/4849FNFdAkoMPNq3CnP2gY) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Amiezavj](https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x) | 3:19 | 2022-05-10 | 2022-05-13 |
@@ -3237,7 +3238,7 @@
 | [LIMITLESS](https://open.spotify.com/track/6i4Gkl0tkQOvErrdvzoNBf) | [Hollers](https://open.spotify.com/artist/0Mi1bZFxJNI3JlKWN01V5V), [Nabba](https://open.spotify.com/artist/7xYeYVINb3mEUdqpbI4JrV), [Solo](https://open.spotify.com/artist/6exNWXEpc35wK1BX8T7buJ) | [LIMITLESS](https://open.spotify.com/album/581pipRebMyHQmw9OXSUpv) | 2:15 | 2024-11-28 | 2024-12-06 |
 | [lipgloss](https://open.spotify.com/track/43J1dnrDwNWDGfXBZhnfYb) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [lipgloss](https://open.spotify.com/album/04bo4aK6Isi0l0RfG4TqaG) | 2:12 | 2022-07-14 | 2022-08-26 |
 | [Lipgloss](https://open.spotify.com/track/37en7JAuf4fB3Yy8pAvLcg) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe) | [Lipgloss](https://open.spotify.com/album/6rKlrhVtqWOJwYSFLXRFlc) | 2:59 | 2023-06-29 | 2023-07-14 |
-| [LIPGLOSS](https://open.spotify.com/track/3s9XbAdYehEKUvt8uAmJlM) | [Jasmin407](https://open.spotify.com/artist/028PeMF9C0Ycn6wJRd1P7F) | [LIPGLOSS](https://open.spotify.com/album/69BK4CLkHBZim36AA6JKxk) | 1:12 | 2025-12-11 |  |
+| [LIPGLOSS](https://open.spotify.com/track/3s9XbAdYehEKUvt8uAmJlM) | [Jasmin407](https://open.spotify.com/artist/028PeMF9C0Ycn6wJRd1P7F) | [LIPGLOSS](https://open.spotify.com/album/69BK4CLkHBZim36AA6JKxk) | 2:11 | 2025-12-11 |  |
 | [Lisbona](https://open.spotify.com/track/3SnfpEqRvtY9RtCyBu50iU) | [Koja](https://open.spotify.com/artist/5pUnfJhZsHapPMB4wBfp5m), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [Lisbona](https://open.spotify.com/album/6qPndOCKh95VAEWh8Vp2zF) | 2:08 | 2024-06-27 | 2024-07-10 |
 | [LISBONA 1755 \- La terra \(feat\. Jleeno\)](https://open.spotify.com/track/6uBOK7TWGT4nKIP5AzHHox) | [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu), [Fra Bacci](https://open.spotify.com/artist/0MKjQHGhnW0QrlWMJthrKx), [Zazza](https://open.spotify.com/artist/7KOeygqDI7Fjo4DrgJtvLf), [Jleeno](https://open.spotify.com/artist/2gBIDq9nVf8nfsqMHW63vv) | [LISBONA 1755 \- La terra \(feat\. Jleeno\)](https://open.spotify.com/album/23JH6mnsl8Upi9yLYRb3Ku) | 2:22 | 2022-11-24 | 2022-12-02 |
 | [Lit](https://open.spotify.com/track/1a9X1MVcKQ1454mUUaVV5y) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe) | [Lit](https://open.spotify.com/album/1wyoWDM6rSw9yG1u2kz3WF) | 2:31 | 2023-04-13 | 2023-04-28 |

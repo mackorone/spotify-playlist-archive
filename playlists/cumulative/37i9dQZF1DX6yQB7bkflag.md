@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover:  Suisei, Tenxi, kirohta
 
-2,511 songs - 6 day 1 hr 26 min
+2,512 songs - 6 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Awake & Dreaming](https://open.spotify.com/track/6pD1sRBnBtUbwitUoZVrCc) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Awake & Dreaming EP](https://open.spotify.com/album/2Xgk6i8SeRAgJUDucCVMBG) | 3:47 | 2025-01-31 | 2025-02-28 |
 | [Awal Terbaik](https://open.spotify.com/track/0ACCzlEHrhDadURKUxy5Di) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [Awal Terbaik](https://open.spotify.com/album/21eLF9yp18ozAeVtIVANWF) | 4:26 | 2025-10-16 | 2025-11-21 |
 | [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-02 | 2025-11-14 |
+| [Ayuh Pulang](https://open.spotify.com/track/0zt2mq9PSKnh3zEuxg4PfK) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Ayuh Pulang](https://open.spotify.com/album/06fWJJNQ2EcmxhTxVilqC5) | 3:13 | 2025-12-11 |  |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-04 | 2025-05-23 |
 | [b.o.m.b.](https://open.spotify.com/track/0D1MNTrIZM6rHZbENgL8ZS) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [b.o.m.b.](https://open.spotify.com/album/5kxSD8iP2rpaZU2LGosAuX) | 2:46 | 2024-08-30 | 2024-10-11 |
 | [B4COT!](https://open.spotify.com/track/52iHSucM6u3SSJhnZtjpag) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz) | [B4COT!](https://open.spotify.com/album/6YZh5vyvUWTxf84PHQXnqw) | 2:18 | 2025-12-04 |  |
@@ -949,6 +950,7 @@
 | [I Like It \(feat\. nomoe\)](https://open.spotify.com/track/2yZZEapVT0EiQVUilkWrli) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [QUARAW](https://open.spotify.com/artist/1vwJdPI8K8wdoQQTLdv0Dc), [nomoe](https://open.spotify.com/artist/5m97aceHZJPW3c1CyxKeSu) | [I Like It \(feat\. nomoe\)](https://open.spotify.com/album/7wGzCYdTyqwBd6BtNR40mC) | 2:15 | 2025-02-27 | 2025-03-22 |
 | [i like that you like it](https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [i like that you like it](https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9) | 3:00 | 2024-08-01 | 2024-09-14 |
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-03-28 | 2024-04-26 |
+| [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 | 2025-12-11 |  |
 | [I Miss You](https://open.spotify.com/track/52nbGhRpgtW1TnHmlTflJB) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [I Miss You](https://open.spotify.com/album/3N1zS3vLqu4YlK2XU74fyg) | 2:44 | 2025-10-09 | 2025-11-07 |
 | [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 | 2024-02-16 | 2024-03-22 |
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-11 | 2024-12-06 |
@@ -1280,7 +1282,7 @@
 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-05 | 2025-10-17 |
 | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 | 2025-08-08 | 2025-09-05 |
 | [Lost In A Maze](https://open.spotify.com/track/6kvAnBR8HBGIG73ASyhF5Z) | [Incircle.](https://open.spotify.com/artist/6N1cdKDau7Es37PJzDcBiI) | [Lost In A Maze](https://open.spotify.com/album/60eBVoIjdn8xemWPWFSljj) | 5:28 | 2024-04-08 | 2024-05-10 |
-| [Lost In Motion](https://open.spotify.com/track/4C9brX0K5GgiMuUofszHhW) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [vaneshadarling](https://open.spotify.com/artist/2UjiVDviLeiDeuTLmSK8XY) | [Lost In Motion](https://open.spotify.com/album/1JCnp78FHvTRDSv0cITgnO) | 3:08 | 2025-12-11 |  |
+| [Lost In Motion](https://open.spotify.com/track/4C9brX0K5GgiMuUofszHhW) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [vaneshadarling](https://open.spotify.com/artist/1k8oTwRjFaXw7FiDFK3yvw) | [Lost In Motion](https://open.spotify.com/album/1JCnp78FHvTRDSv0cITgnO) | 3:08 | 2025-12-11 |  |
 | [Lost Satellite](https://open.spotify.com/track/3xqu3XCgVWxLrxFu6kemsQ) | [Hanif Andarevi](https://open.spotify.com/artist/46jG6QBzEDi15k17UjJCQS) | [RECEIVER](https://open.spotify.com/album/3kxtHT2VcwsHiSbISsEahV) | 4:21 | 2024-09-27 | 2024-10-18 |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-02-07 | 2025-02-28 |
 | [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-24 | 2024-06-28 |
@@ -2339,7 +2341,6 @@
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-14 |
 | [TOXIC](https://open.spotify.com/track/1H9C0PyfQAxiMBKvvDZK9N) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 3:10 | 2024-11-22 | 2025-01-10 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-01 |
-| [Track 1](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-18 | 2024-01-26 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 | 2024-03-15 |
 | [Trauma \(From "The Rose: COME BACK TO ME"\)](https://open.spotify.com/track/0BktgdzRYRFrk5Ek0shoxm) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Trauma \(From "The Rose: COME BACK TO ME"\)](https://open.spotify.com/album/3X2s2xlesjmnjEDNpXrjVZ) | 4:58 | 2025-08-28 | 2025-09-26 |

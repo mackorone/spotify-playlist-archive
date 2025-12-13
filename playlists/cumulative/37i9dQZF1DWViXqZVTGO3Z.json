@@ -4072,7 +4072,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 212885,
       "name": "I Pray On Christmas",
       "url": "https://open.spotify.com/track/4P8Yj01dzka6OaevNCZuF7"
@@ -5108,7 +5108,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 200347,
       "name": "King Of Glory",
       "url": "https://open.spotify.com/track/4i29NqYXWDce8dhnT1PLTB"
@@ -6094,6 +6094,28 @@
       "duration_ms": 234478,
       "name": "Mothers And Shepherds",
       "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"
+    },
+    {
+      "album": {
+        "name": "Noel",
+        "url": "https://open.spotify.com/album/6MZzk5N99TLvyf2XkxPzTC"
+      },
+      "artists": [
+        {
+          "name": "London Community Gospel Choir",
+          "url": "https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz"
+        },
+        {
+          "name": "Dani Mich\u00e9",
+          "url": "https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Noel",
+      "url": "https://open.spotify.com/track/0D2O8gy0lm2eA0x2yaTOHs"
     },
     {
       "album": {
@@ -7264,7 +7286,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 286570,
       "name": "O Holy Night / What Child Is This",
       "url": "https://open.spotify.com/track/2epIt2zQDfFfC2keSYisDd"
@@ -8062,7 +8084,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 261799,
       "name": "Silent Night (Heavenly Peace)",
       "url": "https://open.spotify.com/track/70YEAMq9pi3B91b28dzcvt"
@@ -8434,7 +8456,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 246954,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy"

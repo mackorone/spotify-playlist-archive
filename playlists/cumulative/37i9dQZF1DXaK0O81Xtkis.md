@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring DOUBLECAMP
+> a little indie, a little pop, soda featuring THEM
 
-1,505 songs - 3 day 3 hr 7 min
+1,507 songs - 3 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1234567](https://open.spotify.com/track/1vWOauv3X5GHUEY4Qe9WFo) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [1234567](https://open.spotify.com/album/1YyN5LVNUiXHXgGtWk6u7d) | 2:45 | 2025-05-09 | 2025-06-21 |
 | [16](https://open.spotify.com/track/3WM3StDOsMAYaCjxymQeOy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [16](https://open.spotify.com/album/2u5D7W8rZ1azEWJ02BX27P) | 2:45 | 2024-01-05 | 2024-03-02 |
 | [16 dogs](https://open.spotify.com/track/6evha6l77b3R2dxTKRVXjh) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [16 dogs](https://open.spotify.com/album/0kIWwzGOGMXcgqRxZBW1h3) | 2:40 | 2024-07-26 | 2024-08-17 |
+| [1989](https://open.spotify.com/track/7kiZVrxh969aNPA7n8lpzz) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [THE VOID](https://open.spotify.com/album/6k0ppS67Skg7t6I3KhHZvm) | 3:24 | 2025-12-12 |  |
 | [1990something](https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [1990something](https://open.spotify.com/album/7cCB1WAPcvnpnT0BRHDfSE) | 3:03 | 2022-07-08 | 2022-09-17 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 | 2023-04-20 |
 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-14 | 2023-05-15 |
@@ -288,6 +289,7 @@
 | [Congrats](https://open.spotify.com/track/3pJMOvec8R8OKzEmB9PRJD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Congrats](https://open.spotify.com/album/0URAkeg7psYrEr9Qj0KTIL) | 3:37 | 2022-08-26 | 2023-02-11 |
 | [Control](https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Control](https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT) | 3:08 | 2024-08-23 | 2024-10-05 |
 | [cool](https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [cool](https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv) | 2:43 | 2025-04-04 | 2025-06-14 |
+| [Cool Girl](https://open.spotify.com/track/2wL3b04nyaSy69UoV9jyhH) | [THEM](https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin) | [Cool Girl](https://open.spotify.com/album/73zS4sBXsDeLo0Bywq0LNP) | 3:11 | 2025-12-12 |  |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2022-07-15 | 2022-10-29 |
 | [Cool Kids](https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG) | 2:12 | 2021-11-12 | 2022-02-26 |
 | [Cool Kids](https://open.spotify.com/track/6w9kwKYCCL2YapGsXLasxq) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Cool Kids](https://open.spotify.com/album/3SlkRa6qs5qeEg7H2yk9yW) | 2:59 | 2022-04-15 | 2022-06-18 |
@@ -1316,7 +1318,7 @@
 | [The Magic](https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [The Magic](https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH) | 3:43 | 2024-09-27 | 2025-01-25 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-11-05 | 2022-08-06 |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 | 2023-01-18 |
-| [THE SHIVERS](https://open.spotify.com/track/3fobfUxxCDgM5KQV723Ird) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [THE VOID](https://open.spotify.com/album/6k0ppS67Skg7t6I3KhHZvm) | 3:18 | 2025-10-31 |  |
+| [THE SHIVERS](https://open.spotify.com/track/3fobfUxxCDgM5KQV723Ird) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [THE VOID](https://open.spotify.com/album/6k0ppS67Skg7t6I3KhHZvm) | 3:18 | 2025-10-31 | 2025-12-13 |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-18 | 2022-02-26 |
 | [The Things](https://open.spotify.com/track/6vMRaNnBqrctIE8AJk38oM) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [The Things](https://open.spotify.com/album/0EvpoCMbZ3T79uChGfcfNd) | 3:26 | 2025-10-03 |  |
 | [The Valley](https://open.spotify.com/track/4zOa4jyhtgxk3cHCfdC0G5) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [The Valley](https://open.spotify.com/album/63swhcm0JAbL4CXPYptjJ8) | 2:51 | 2023-05-26 | 2023-06-03 |
@@ -1444,7 +1446,7 @@
 | [What The Hell Do We Do Now?](https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [What The Hell Do We Do Now?](https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0) | 3:13 | 2025-01-31 | 2025-04-26 |
 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-04 | 2025-02-08 |
 | [What We Wanted](https://open.spotify.com/track/5GjQuycV1lNwXWOPNx62U0) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [What We Wanted](https://open.spotify.com/album/4olIbtgqWVhl3yQN7xp5Qb) | 2:48 | 2024-04-26 | 2024-06-01 |
-| [What You Can’t Have](https://open.spotify.com/track/3jmDuSgKsIbfmaHhwBf42D) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways](https://open.spotify.com/album/2wVrxbonp8UA9ebuMREm4q) | 3:15 | 2025-07-25 |  |
+| [What You Can’t Have](https://open.spotify.com/track/3jmDuSgKsIbfmaHhwBf42D) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways](https://open.spotify.com/album/2wVrxbonp8UA9ebuMREm4q) | 3:15 | 2025-07-25 | 2025-12-13 |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 | 2022-08-13 |
 | [Whatever Comes My Way](https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [I had a beautiful time, now I have to leave](https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN) | 2:29 | 2023-12-08 | 2024-02-03 |
 | [What’s On Your Mind](https://open.spotify.com/track/6OEfp9hoy5ugnNaGhtBTK9) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Back to Me](https://open.spotify.com/album/4I0zCNINiIdL6JfUExr5M4) | 2:29 | 2025-01-17 | 2025-02-22 |

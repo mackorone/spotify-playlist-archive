@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Monsta & DJ Liu One entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,304 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,323 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fora do Normal \(feat\. Nenny & Chelsea Dinorath\)](https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp) | [FIM DO NADA DELUXE](https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO) | 4:00 |
-| 2 | [CITY LIT](https://open.spotify.com/track/5kgxj2p0kwpUANG2448Ne8) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [DJ Liu One](https://open.spotify.com/artist/5D5vBgRfIJwhMPGT5uIngY) | [](https://open.spotify.com/album/null) | 2:22 |
+| 2 | [CITY LIT](https://open.spotify.com/track/5kgxj2p0kwpUANG2448Ne8) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [DJ Liu One](https://open.spotify.com/artist/5D5vBgRfIJwhMPGT5uIngY) | [MONSTA](https://open.spotify.com/album/790n8zmH6Z0wxmj7qnu2xj) | 2:22 |
 | 3 | [Offline](https://open.spotify.com/track/3dXtvTPF6BzNaiHvS7Nnrh) | [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Elixir](https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3) | 4:06 |
 | 4 | [Manda Fogo](https://open.spotify.com/track/3TzLz0o0ilVEmc2EUGl7zM) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Novo Messi 3](https://open.spotify.com/album/7KdHxhow3v6OPsdVrGfSSz) | 2:42 |
 | 5 | [Antigamente](https://open.spotify.com/track/0nzxggtFw6r1Irsxrs99bO) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Antigamente](https://open.spotify.com/album/67C3Jbhb6j21kCAYF6Fmgx) | 2:46 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 12 | [MACARENA](https://open.spotify.com/track/6RaAAkvAtTumYtXU5RfgUM) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [MACARENA](https://open.spotify.com/album/7ty9Xxv3eKUbV8T0GgHkYk) | 2:59 |
 | 13 | [MOXXXPIRII](https://open.spotify.com/track/3W1L721fuS3pRLrt973Ewc) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [MOXXXPIRII](https://open.spotify.com/album/0yapDd3A9YI9yV6Yvjbsk0) | 3:03 |
 | 14 | [A Salvação](https://open.spotify.com/track/6UEv8n4yNipFSnLBp2d8wA) | [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Valete](https://open.spotify.com/artist/32rAgIN6jhUQYhyoKa8agj) | [A Salvação](https://open.spotify.com/album/4Xvv4e47lj9JiCsFCKTZni) | 4:03 |
-| 15 | [Track 3](https://open.spotify.com/track/0SF9lqOmfEe4JWcDEpwGAr) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp) | [](https://open.spotify.com/album/null) | 0:00 |
+| 15 | [A Cara do Gueto](https://open.spotify.com/track/0SF9lqOmfEe4JWcDEpwGAr) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp), [Socorro](https://open.spotify.com/artist/0zEjogN3aaPBp6TqYCwyM1) | [A Cara de Angola](https://open.spotify.com/album/0ahB7ZR4rouyedW9tkOkLR) | 3:46 |
 | 16 | [Assunto Meu](https://open.spotify.com/track/4sjDdTecsvoxV4vjvmUhMO) | [xtinto](https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx) | [Assunto Meu](https://open.spotify.com/album/14BI8fS7mq1oGcf6mGP6XH) | 2:07 |
 | 17 | [Quem Dá Costas É Presa](https://open.spotify.com/track/6HudAnk1daR6C9cor9qMbF) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Quem Dá Costas É Presa](https://open.spotify.com/album/3dv42dU6BcR96jJZ5Am01K) | 2:25 |
 | 18 | [Mazeus](https://open.spotify.com/track/6VS99XmFYmtR979YIQ2lXo) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO) | [Mazeus](https://open.spotify.com/album/4hg2FgorJHVcampWKDJHDD) | 3:03 |

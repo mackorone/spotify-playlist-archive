@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 263510,
+  "num_followers": 263540,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABTi+eik47QQVVkPFSJNkRy",
+  "snapshot_id": "aToJgAAAAAAVMN5Mn7+jvEfVprO7CRHV",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 192117,
+      "name": "Superman (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1t9dT5JBC9x5WaAJpQzU1I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money On Money (feat. Future)",
         "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 215306,
       "name": "Relationship (feat. Future)",
       "url": "https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 192117,
-      "name": "Superman (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1t9dT5JBC9x5WaAJpQzU1I"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-295 songs - 18 hr 0 min
+296 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [always, i'll care](https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 2:26 | 2023-03-24 | 2023-05-18 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2023-03-24 | 2023-05-04 |
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 | 2023-03-24 | 2025-10-08 |
+| [Andai Aku Bisa](https://open.spotify.com/track/6mmVZerWyj5gO83hSpeZJG) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Konser Tur 2001 Legendary](https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y) | 4:36 | 2025-12-12 |  |
 | [Andai Saja](https://open.spotify.com/track/2hb8n44vpefszgLwkEVXhU) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Obrolan Jam 3 Pagi](https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D) | 3:57 | 2025-10-20 |  |
 | [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 | 2023-03-24 | 2025-10-08 |
 | [Antara](https://open.spotify.com/track/7egqnqmJvsOLqMWMcxnfKv) | [OKAAY](https://open.spotify.com/artist/0qeOMneLDwmcxGM2CuFnfq), [Quincy Jordan](https://open.spotify.com/artist/75EF8AJUBa970K88XlpOFS) | [Together We Are OKAAY](https://open.spotify.com/album/7Bb0ZIOOqQPcCvDFU8V5u3) | 3:59 | 2023-10-17 | 2023-12-07 |
@@ -77,7 +78,7 @@
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-05-03 | 2024-04-19 |
 | [Delusion](https://open.spotify.com/track/5Jyn7343pwECbPl8df9oBH) | [Manaditara](https://open.spotify.com/artist/35S1sBwXiq6fvWPSemGj2N) | [Delusion](https://open.spotify.com/album/22kagYQ70d21mizj0l6yw6) | 3:37 | 2023-07-13 | 2023-09-20 |
 | [Dewi](https://open.spotify.com/track/0KwyqLzxAf3mWNKE9bCrXQ) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Kerajaan Cinta](https://open.spotify.com/album/7sJLhkin3GwFFvmFNMRRTi) | 4:21 | 2024-06-19 |  |
-| [Di Balik Pertanda](https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Di Balik Pertanda](https://open.spotify.com/album/76H7wY4u8vwdDjJFYhDqbj) | 3:36 | 2024-10-03 |  |
+| [Di Balik Pertanda](https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Di Balik Pertanda](https://open.spotify.com/album/76H7wY4u8vwdDjJFYhDqbj) | 3:36 | 2024-10-03 | 2025-12-13 |
 | [Di Ini Januari](https://open.spotify.com/track/1IXbE1zCoiWNdmR6ai3Knf) | [Pidi Baiq](https://open.spotify.com/artist/6QR072SvyOLDQYYlplI4Ll) | [Pidi Baiq](https://open.spotify.com/album/5nxA1hVmViJJFF0wyIP6j7) | 3:44 | 2024-01-24 | 2024-03-22 |
 | [Dia Dia Dia](https://open.spotify.com/track/7htWuazarn407jLZTQZp8P) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 4:26 | 2024-09-09 | 2025-08-12 |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You](https://open.spotify.com/album/0YF085Qdh4HgdhZ8zjWkpo) | 3:52 | 2023-03-24 | 2024-04-19 |
@@ -281,7 +282,7 @@
 | [Tsunami](https://open.spotify.com/track/7fZ9GpxwteD6R1SNL8OPZa) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:51 | 2024-09-09 | 2025-10-08 |
 | [Tukar Lalu](https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ), [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Tukar Lalu](https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw) | 4:06 | 2024-01-17 | 2024-09-13 |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-02 |  |
-| [UH! \(ghosted\)](https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ) | [UH! \(ghosted\)](https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF) | 3:14 | 2025-04-30 |  |
+| [UH! \(ghosted\)](https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ) | [UH! \(ghosted\)](https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF) | 3:14 | 2025-04-30 | 2025-12-13 |
 | [Unfinished Business](https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Unfinished Business](https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR) | 3:29 | 2023-03-24 | 2023-04-05 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-03-24 | 2023-12-11 |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-07 | 2024-04-19 |

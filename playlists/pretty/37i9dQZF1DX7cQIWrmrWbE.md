@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Disculpa, KAROL G no necesita presentación  💁‍♀️​
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,741 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,751 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 18 | [Viajando Por El Mundo](https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 4:28 |
 | 19 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:34 |
 | 20 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 |
-| 21 | [Ese Hombre Es Malo](https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:40 |
+| 21 | [Ese Hombre Es Malo](https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:37 |
 | 22 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
 | 23 | [Bandida Entrenada](https://open.spotify.com/track/3o0nsMGWZMpp3GOEZkVuSR) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:15 |
 | 24 | [Se Puso Linda](https://open.spotify.com/track/71AVxv9fJVgGpGZIGcxud3) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:26 |

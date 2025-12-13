@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,281 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,299 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 45 | [Overheard In The Studio...](https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Pearl Sessions](https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7) | 1:39 |
 | 46 | [Women Is Losers \- Live at the Avalon Ballroom, San Francisco, CA \- December 1966](https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 5:06 |
 | 47 | [Hesitation Blues](https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:57 |
-| 48 | [All Is Loneliness \- Live at The Fillmore West, San Francisco, CA \- April 1970](https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Joplin In Concert](https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5) | 5:45 |
-| 49 | [Talk, Pt.1 \- Live](https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:23 |
+| 48 | [Talk, Pt.1 \- Live](https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:23 |
+| 49 | [All Is Loneliness \- Live at The Fillmore West, San Francisco, CA \- April 1970](https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Joplin In Concert](https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5) | 5:45 |
 | 50 | [Long Black Train](https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:54 |
 
-Snapshot ID: `aTi4AAAAAADZ7wnbQWOAYTF9kN6ozRaw`
+Snapshot ID: `aToJgAAAAADW2zqyGEiaj6Vl70k9BjGV`

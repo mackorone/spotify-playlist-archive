@@ -4,10 +4,11 @@
 
 > Music that makes you feel like you're levitating.
 
-501 songs - 1 day 6 hr 38 min
+502 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12 years](https://open.spotify.com/track/3CRTPnROcGKtDN4q9iQzae) | [MAKEUP](https://open.spotify.com/artist/0WtAdekiVjVPltE1vSm6w1) | [12 years](https://open.spotify.com/album/7hslY1w5qmPB7RbeBBr7Vl) | 5:56 | 2025-12-12 |  |
 | [16](https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:36 | 2023-07-14 |  |
 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 | 2023-03-29 |  |
 | [25 Metres](https://open.spotify.com/track/0vEty4cjnxyYJVv9Gsoqjy) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/1FKbZv8ZPuDt8ufBnyFiH0) | 2:39 | 2025-09-12 | 2025-11-22 |
@@ -27,7 +28,7 @@
 | [affection](https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG) | 3:55 | 2024-01-09 | 2024-07-12 |
 | [Afraid of the Dark](https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Afraid of the Dark](https://open.spotify.com/album/5pI0rlg5RIFp9rnxkMM2b3) | 3:47 | 2023-04-14 | 2023-04-21 |
 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 | 2023-09-22 | 2023-09-30 |
-| [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-07 |  |
+| [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-07 | 2025-12-13 |
 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 | 2025-02-21 |  |
 | [All For Us](https://open.spotify.com/track/1VNRj42vX5uNMabyKbE8sI) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [All For Us](https://open.spotify.com/album/4ryR7Dg9iWXYfFBtnFOTw8) | 3:32 | 2022-02-04 | 2022-04-18 |
 | [All For Us \- from the HBO Original Series Euphoria](https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [All For Us \(from the HBO Original Series Euphoria\)](https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo) | 3:12 | 2021-12-16 | 2022-02-04 |
@@ -90,7 +91,7 @@
 | [Couldn’t Make It Any Harder](https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:59 | 2025-02-21 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-06-30 | 2023-08-12 |
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-12-16 | 2022-04-21 |
-| [Crystallise My Tears](https://open.spotify.com/track/0Oy0McHtuyIj3axP1YAxua) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Crystallise My Tears](https://open.spotify.com/album/4NasMGPhJH3QOod3wnkxxi) | 4:07 | 2025-11-21 |  |
+| [Crystallise My Tears](https://open.spotify.com/track/0Oy0McHtuyIj3axP1YAxua) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Crystallise My Tears](https://open.spotify.com/album/4NasMGPhJH3QOod3wnkxxi) | 4:07 | 2025-11-21 | 2025-12-13 |
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-05-06 | 2022-05-14 |
 | [Dancing2](https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Dancing2](https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50) | 4:32 | 2025-08-15 |  |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2022-01-20 | 2022-08-27 |
@@ -247,7 +248,7 @@
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 | 2023-05-20 |
 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 | 2023-12-26 |  |
 | [Lipstain](https://open.spotify.com/track/26hz3o1RH47yyE2iZnj9J7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:23 | 2025-09-26 |  |
-| [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-02 | 2025-08-21 |
+| [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-02 |  |
 | [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 | 2021-12-16 | 2023-12-06 |
 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 | 2021-12-16 | 2022-04-29 |
 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 | 2024-02-16 | 2024-03-14 |

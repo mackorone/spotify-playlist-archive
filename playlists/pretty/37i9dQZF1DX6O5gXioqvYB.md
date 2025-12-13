@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutti Fenomeni + le altre uscite indie 🐑
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,408 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,418 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 25 | [Angelina](https://open.spotify.com/track/5eqOzYLOhrTvzEaxSxM32p) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [NATI INCIAMPATI](https://open.spotify.com/album/2GtR6NMZ39qVKunNgo0eXj) | 3:26 |
 | 26 | [Bussola rotta](https://open.spotify.com/track/3owVXIlUkOnRlyAuZOlhHE) | [Rasmo](https://open.spotify.com/artist/2yxmCxJo1Fy1RKAdQYfauo), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv) | [Bussola rotta](https://open.spotify.com/album/0umqs3NyYHh9FQMyNKnVau) | 3:04 |
 | 27 | [Totem](https://open.spotify.com/track/4E1ptCouVuJoCvqcJX94ge) | [NIO](https://open.spotify.com/artist/6ezfB5USiV0QJLp9tHxbjU) | [Totem](https://open.spotify.com/album/3ZxjLNc0A5vnZXmfLXgSuo) | 2:17 |
-| 28 | [Un Piatto di Pasta](https://open.spotify.com/track/53yfSJGz8vcDe6PyG2F3Zf) | [Mazzoli](https://open.spotify.com/artist/1G786I5DFaOFRI2Q8quase), [MilleAlice](https://open.spotify.com/artist/7wtk4d8GuaMqOjPReuhlTa) | [Un Piatto di Pasta](https://open.spotify.com/album/2gP1NU4vo9EfIiO0mdR8Ct) | 2:29 |
+| 28 | [Un Piatto di Pasta \(feat\. MilleAllice\)](https://open.spotify.com/track/53yfSJGz8vcDe6PyG2F3Zf) | [Mazzoli](https://open.spotify.com/artist/1G786I5DFaOFRI2Q8quase), [MilleAlice](https://open.spotify.com/artist/7wtk4d8GuaMqOjPReuhlTa) | [Un Piatto di Pasta](https://open.spotify.com/album/2gP1NU4vo9EfIiO0mdR8Ct) | 2:29 |
 | 29 | [Ogni fermata](https://open.spotify.com/track/2FnvbyTbHx272w1Na0rK7D) | [roadelli](https://open.spotify.com/artist/6HTqagDvIg3PKGFnth4obZ) | [Ogni fermata](https://open.spotify.com/album/4ebWm4BefiJ4infi7drGrD) | 2:57 |
 | 30 | [Lupo](https://open.spotify.com/track/6Xor8h6MTmxcpt99DgR3bl) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Lupo](https://open.spotify.com/album/0ePE6lDiP6xKXGlZBGvzwR) | 3:30 |
 | 31 | [Quante Ce Ne Siamo Dette \(feat\. Franco126\)](https://open.spotify.com/track/34ZFBFpVcIhAXoLxTvLJmB) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Ancora Vivi](https://open.spotify.com/album/32AcVi6ZsdDnHVqO3f0ZRT) | 3:12 |

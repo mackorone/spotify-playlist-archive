@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Beefs
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,479 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,489 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 10 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
 | 11 | [Heating Up](https://open.spotify.com/track/3q0Lsq7In9pv7Yds2JcH81) | [Sunscreen](https://open.spotify.com/artist/2NLF91sIHrRaNdoGQFmh2F) | [Everything You Gave Me](https://open.spotify.com/album/2lyOXcBQzfQ7KyqgJP0Y2J) | 3:07 |
 | 12 | [Stay Right](https://open.spotify.com/track/4ijtVwvHowS1kJ3v8jQwrR) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Stay Right](https://open.spotify.com/album/42vDjhnZcnDihTeXfAyj2b) | 3:44 |
-| 13 | [Goodbye My Valentine](https://open.spotify.com/track/3NPwaceUBOfE0viH93lYWA) | [Benjamin Stewart](https://open.spotify.com/artist/4HxybppEuBP6KDY0DDmnub) | [](https://open.spotify.com/album/null) | 4:12 |
+| 13 | [Goodbye My Valentine](https://open.spotify.com/track/3NPwaceUBOfE0viH93lYWA) | [Benjamin Stewart](https://open.spotify.com/artist/4HxybppEuBP6KDY0DDmnub) | [Junkdrawers](https://open.spotify.com/album/6ARPCupjZGnB8r8dv0S4lm) | 4:12 |
 | 14 | [Limbo](https://open.spotify.com/track/7HH6i9ogvRx1dV8rdkQ40q) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Limbo](https://open.spotify.com/album/1SbLznptLEYrOcvzEPJOTT) | 4:35 |
 | 15 | [Houston](https://open.spotify.com/track/0caKZQcpTAalVAlJguSIn5) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Houston](https://open.spotify.com/album/27ny3uUXDMhRBx2uMr02hH) | 2:48 |
 | 16 | [Record Baby](https://open.spotify.com/track/1IOWf4GFUljEq46AdTCVbw) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Record Baby](https://open.spotify.com/album/6238WDOoer4Z0CiQHebglb) | 2:42 |

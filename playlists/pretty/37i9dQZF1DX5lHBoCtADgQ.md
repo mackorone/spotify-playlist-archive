@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,391 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,420 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 29 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
 | 30 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |
 | 31 | [Jagga](https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN) | [Sarbjit Cheema](https://open.spotify.com/artist/67MuCsoVbUNiltSTIzIq9E) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 4:03 |
-| 32 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 |
-| 33 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
+| 32 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
+| 33 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 |
 | 34 | [Munda Sakhiyo Ni](https://open.spotify.com/track/09Gy3xqh13lw2UoiGQTI9s) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Munda Sakhiyo Ni](https://open.spotify.com/album/4NbRfMn3VX7Xj4nZq9RPgU) | 3:17 |
 | 35 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
 | 36 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 |

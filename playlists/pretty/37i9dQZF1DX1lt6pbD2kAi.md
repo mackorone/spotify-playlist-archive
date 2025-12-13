@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Henrique & Juliano e os artistas mais ouvidos no Brasil em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,968 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,584 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 49 | [Terapia](https://open.spotify.com/track/5ROyrHNiEx9DeZ5SONjVbM) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Terapia](https://open.spotify.com/album/2ggZO9M8nzvY5si8MyyZUy) | 3:32 |
 | 50 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
 
-Snapshot ID: `AAAAADBTnqBDsbvlAqQj6Bsghd6wnxkK`
+Snapshot ID: `AAAAAJqMhJT+/QSl2n8LHvCuk+XDuaJY`

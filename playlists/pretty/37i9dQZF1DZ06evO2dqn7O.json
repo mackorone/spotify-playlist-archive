@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57252,
+  "num_followers": 57255,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAI2o6fYVzCOQNaFqxsbi7L",
+  "snapshot_id": "aToJgAAAAABHZ2GTTbLOobmZv/K+z6bi",
   "tracks": [
     {
       "added_at": null,
@@ -823,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Liar",
-        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+        "name": "Alcohol (with BRELAND)",
+        "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 224807,
-      "name": "Somebody Who Knows You",
-      "url": "https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK"
+      "duration_ms": 218266,
+      "name": "Alcohol (with BRELAND)",
+      "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
     },
     {
       "added_at": null,
@@ -855,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alcohol (with BRELAND)",
-        "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
         }
       ],
-      "duration_ms": 218266,
-      "name": "Alcohol (with BRELAND)",
-      "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
+      "duration_ms": 224807,
+      "name": "Somebody Who Knows You",
+      "url": "https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK"
     },
     {
       "added_at": null,

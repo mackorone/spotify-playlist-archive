@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Say She She",
-  "num_followers": 148499,
+  "num_followers": 148563,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlP8Ja9W5jViIzn95KMht42DKeq",
+  "snapshot_id": "AAAAAFchNhfv+RSaqTG5c8dsnwDclXrU",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/4tKY5Jc5ZZVmBxKK2VN9Is"
+      },
+      "artists": [
+        {
+          "name": "Jivefunkadelic",
+          "url": "https://open.spotify.com/artist/4gOkiobVrWR36e3lXDOVCg"
+        }
+      ],
+      "duration_ms": 264704,
+      "name": "Open Sky",
+      "url": "https://open.spotify.com/track/08nryBa5EmqQYNOlJEMbng"
+    },
     {
       "added_at": "2025-11-14 05:00:23",
       "album": {
@@ -1871,22 +1887,6 @@
       "duration_ms": 220512,
       "name": "Giving Nothing - Art of Tones Remix",
       "url": "https://open.spotify.com/track/317zxAW9vxOXTkYV6tRquA"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/1zoFGgKPdJ171wRnukDPBb"
-      },
-      "artists": [
-        {
-          "name": "DiRTY RADiO",
-          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA"
     }
   ],
   "unique_name": "Nu-Disco",

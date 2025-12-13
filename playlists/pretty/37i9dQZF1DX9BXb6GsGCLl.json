@@ -1,6 +1,6 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 606638,
+  "num_followers": 606683,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-03-18 14:30:38",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
-    },
-    {
-      "added_at": "2025-03-18 14:30:38",
-      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
+    },
+    {
+      "added_at": "2025-03-18 14:30:38",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "added_at": "2025-03-18 14:30:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-03-18 14:30:38",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "BMF",
-      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2025-03-18 14:30:38",
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc"
+    },
+    {
+      "added_at": "2025-03-18 14:30:38",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
       "added_at": "2025-03-18 14:30:38",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-03-18 14:30:38",
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
-    },
-    {
-      "added_at": "2025-03-18 14:30:38",
-      "album": {
         "name": "CAN'T RUSH GREATNESS",
         "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 140720,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/70TGNwQDvF5b6GQWlYPr8p"
+    },
+    {
+      "added_at": "2025-03-18 14:30:38",
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": "2025-03-18 14:30:38",

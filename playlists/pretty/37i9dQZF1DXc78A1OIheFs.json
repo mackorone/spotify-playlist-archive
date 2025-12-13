@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19215,
+  "num_followers": 19217,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Leisurevision",
-        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 172730,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Leisurevision",
+        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Make Way For The Sun",
-        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
       "artists": [
         {
-          "name": "O & The Mo",
-          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -875,34 +875,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
       },
       "artists": [
         {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
         }
       ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Suckerpunch",
-        "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 154673,
-      "name": "Suckerpunch",
-      "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
+      "duration_ms": 214000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -923,6 +907,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Suckerpunch",
+        "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 154673,
+      "name": "Suckerpunch",
+      "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Dominoes",
         "url": "https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 179600,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Rosie's Friend",
-        "url": "https://open.spotify.com/album/651wz2jR4mTOT1wuJmSyxY"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 196547,
-      "name": "Rosie's Friend",
-      "url": "https://open.spotify.com/track/0oBAbUchoN02dIccY8oZh6"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -987,22 +971,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "look what you're doing to me",
         "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
       },
@@ -1019,18 +987,50 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Done Did It (Revival 2.0)",
-        "url": "https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR"
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
       },
       "artists": [
         {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 219622,
-      "name": "Done Did It - Revival 2.0",
-      "url": "https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE"
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Rosie's Friend",
+        "url": "https://open.spotify.com/album/651wz2jR4mTOT1wuJmSyxY"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 196547,
+      "name": "Rosie's Friend",
+      "url": "https://open.spotify.com/track/0oBAbUchoN02dIccY8oZh6"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+        "name": "Done Did It (Revival 2.0)",
+        "url": "https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR"
       },
       "artists": [
         {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
         }
       ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+      "duration_ms": 219622,
+      "name": "Done Did It - Revival 2.0",
+      "url": "https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1159,42 +1159,38 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "One More Chance (feat. Savage)",
-        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 196740,
-      "name": "One More Chance (feat. Savage)",
-      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
     },
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
       "artists": [
         {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
         },
         {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
         }
       ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+      "duration_ms": 177989,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1215,34 +1211,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
+        "name": "One More Chance (feat. Savage)",
+        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
       },
       "artists": [
         {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "pinky girl",
-        "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
-      },
-      "artists": [
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        },
         {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
         }
       ],
-      "duration_ms": 234901,
-      "name": "pinky girl",
-      "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
+      "duration_ms": 196740,
+      "name": "One More Chance (feat. Savage)",
+      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1263,18 +1247,38 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "When He Was Mine (Pele Fo'i Mai)",
-        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
+        "name": "pinky girl",
+        "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
       },
       "artists": [
         {
-          "name": "A.R.T",
-          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
         }
       ],
-      "duration_ms": 156516,
-      "name": "When He Was Mine (Pele Fo'i Mai)",
-      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+      "duration_ms": 234901,
+      "name": "pinky girl",
+      "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+      },
+      "artists": [
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+        }
+      ],
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     }
   ],
   "unique_name": "The Local List Aotearoa",

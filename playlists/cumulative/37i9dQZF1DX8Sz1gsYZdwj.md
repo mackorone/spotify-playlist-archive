@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-255 songs - 12 hr 0 min
+257 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2022-03-18 |  |
 | [A Catalogue of Afternoons](https://open.spotify.com/track/2WkuESwWyJ1txlbXnDIwPm) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voyager \- Essential Max Richter](https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd) | 1:48 | 2021-11-09 | 2023-10-25 |
 | [A Different Story](https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [A Different Story](https://open.spotify.com/album/6cOPkFFcRnazHp6wYRp2R6) | 2:10 | 2025-04-09 | 2025-08-06 |
+| [A Moment of Peace](https://open.spotify.com/track/3rVwDrLrVPL5igVD1jdInR) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [A Moment of Peace](https://open.spotify.com/album/39E4FKykNiCeUheicVL3On) | 2:14 | 2025-12-12 |  |
 | [A Partial View](https://open.spotify.com/track/441aPbGCmrTutDhRM9Hv1S) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [A Partial View](https://open.spotify.com/album/2ndwGz5bjp15kIJJ6YTGw2) | 2:27 | 2025-08-05 |  |
 | [A Simple Little Lullaby](https://open.spotify.com/track/0If3zfg7N68SAaDgPAQa9l) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [A Simple Little Lullaby](https://open.spotify.com/album/5ro6Pk3RdEAVaf3HywFSOe) | 2:40 | 2021-11-09 | 2025-02-27 |
 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 | 2024-09-24 |  |
@@ -148,6 +149,7 @@
 | [Near \(Piano Rework\)](https://open.spotify.com/track/4DjYi5buWGphomdB4BjJDd) | [Liam Phan](https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR) | [Near \(Piano Rework\)](https://open.spotify.com/album/4u37FT4IaZyWhzDNnnpzvn) | 2:50 | 2023-02-28 |  |
 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 | 2022-06-21 | 2024-04-19 |
 | [Nederlag](https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/39AL4A5Eq7QEDW0TU36UzT) | 2:17 | 2022-02-21 | 2025-05-17 |
+| [neige](https://open.spotify.com/track/4RfvDUXALHvfsgKZmjYlMp) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [neige](https://open.spotify.com/album/0NhFPYdhJgybam7LKK16EU) | 2:35 | 2025-12-12 |  |
 | [New Day](https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [New Day](https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl) | 2:51 | 2023-09-29 | 2025-05-17 |
 | [New Era For Me](https://open.spotify.com/track/3e1LaYRy3UgTqOzVEvkaAz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [New Era For Me](https://open.spotify.com/album/3ZnZYWFkWrgSZNWGg1sOl4) | 2:37 | 2023-11-29 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2023-09-29 |  |

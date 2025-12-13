@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-344 songs - 17 hr 2 min
+345 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Crazy](https://open.spotify.com/track/1WDp9O9RvmxMmJe3hXWK2g) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL), [Matt Wolff](https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G) | [Crazy](https://open.spotify.com/album/76S7Gh6IMrRFixOxT8mAqC) | 2:26 | 2024-03-19 | 2024-08-02 |
 | [Crazy](https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Arthur](https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Crazy](https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa) | 2:18 | 2024-12-12 |  |
 | [Crazy](https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Crazy](https://open.spotify.com/album/01w5G9v1aSzqBqzY7PaCUA) | 3:40 | 2022-09-15 | 2024-02-08 |
-| [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 | 2024-11-08 |  |
+| [Dance Of Love](https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6) | [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L), [Wave94](https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO) | [Dance Of Love](https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h) | 2:27 | 2024-11-08 | 2025-12-13 |
 | [Dancing In The Dark Alone](https://open.spotify.com/track/6zQPojpQG3IkS69M2qmABd) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Dancing In The Dark Alone](https://open.spotify.com/album/6ikXguU0h4yetGBHhEJ8M5) | 2:14 | 2024-09-10 | 2024-11-29 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/5Syog3zIYRAhI0yNuNKsAt) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Dancing With Your Ghost](https://open.spotify.com/album/4DtdGYRETIRqUmer6KpGJP) | 2:42 | 2024-07-26 | 2024-08-02 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Dancing With Your Ghost](https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL) | 2:42 | 2023-09-28 | 2024-04-19 |
@@ -268,6 +268,7 @@
 | [Shatterproof \- Sebastian Davidson Remix](https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Shatterproof \(Sebastian Davidson Remix\)](https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu) | 2:46 | 2023-07-20 | 2024-07-27 |
 | [Silent](https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE) | [Watching Colours](https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX) | [Silent](https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2) | 2:04 | 2023-06-22 | 2024-08-02 |
 | [Sleeping Satellite](https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Sleeping Satellite](https://open.spotify.com/album/3Vbxs6cu8QJus0XeXFAmfY) | 2:55 | 2024-11-28 |  |
+| [Slowmotion](https://open.spotify.com/track/11v4G7wg4Kql7CgKwpqfe0) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Slowmotion](https://open.spotify.com/album/6AJGsWEyP8tnC4ZB6jSr9K) | 2:08 | 2025-12-04 |  |
 | [Solis Occasum](https://open.spotify.com/track/7jWUSD8WyNSbjoYHHo2XbJ) | [Tommy Loude](https://open.spotify.com/artist/1Tw4EeFgfssOA3CHXCSkvF) | [Chill Executive Officer \(CEO\), Vol\. 11 \[Selected by Maykel Piron\]](https://open.spotify.com/album/6qfsHKnJVaxuUqEN5CzTDh) | 2:58 | 2024-07-26 | 2024-08-31 |
 | [Some Kind Of Love](https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Some Kind Of Love](https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus) | 2:46 | 2022-09-15 | 2024-10-25 |
 | [Somebody Else](https://open.spotify.com/track/4AA5Bkykoy2Nx72VQsqlsW) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Somebody Else](https://open.spotify.com/album/2cJQqPgmFzcoCB8ENkHMVu) | 3:39 | 2022-09-29 | 2022-12-04 |

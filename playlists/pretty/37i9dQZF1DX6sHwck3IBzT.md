@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 
 > Editor's Picks: Best Amapiano tracks for 2025\. Cover: <a href="https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=Jg68qVWeRgeXagPgNpMulQ">Zee Nxumalo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,431 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,675 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 | 49 | [Into The Stars \(feat\. CowBoii & Dinga 112\)](https://open.spotify.com/track/66t4EX29bDmIY327phdeLg) | [Amu Classic](https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H), [Kappie](https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [Dinga.112](https://open.spotify.com/artist/4x5TmANaTdvKNSx7bAleVf) | [Fantastic 4](https://open.spotify.com/album/79trrqkx3XfS9vspCMZQrM) | 6:56 |
 | 50 | [Abangifuni](https://open.spotify.com/track/26p2ruouYOz0AWMqcDkXPU) | [Romeo Makota](https://open.spotify.com/artist/4VpEaIwPzwAlxKCN4RwAhs), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Lebelo](https://open.spotify.com/album/25l0WS8xnw1K07Y1JZOHmo) | 7:32 |
 
-Snapshot ID: `AAAAADFhT5i5RrPG0sBMcfD8YV1TyM6t`
+Snapshot ID: `AAAAABgou1LyvurXS/Lxi00rI6wzrPul`

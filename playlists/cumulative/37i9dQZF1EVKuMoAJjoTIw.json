@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIZtLbuq3R7aY>BLOK3</a>, <a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -5642,7 +5642,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 291796,
       "name": "i love you",
       "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
@@ -6796,7 +6796,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 296800,
       "name": "Keras Kepala",
       "url": "https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb"
@@ -6916,6 +6916,24 @@
       "duration_ms": 206711,
       "name": "Kukira Kau Rumah",
       "url": "https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7"
+    },
+    {
+      "album": {
+        "name": "KUSURA BAKMA",
+        "url": "https://open.spotify.com/album/06jvhVjkzizEpZQ3goLOmf"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "KUSURA BAKMA",
+      "url": "https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o"
     },
     {
       "album": {
@@ -8062,7 +8080,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 200185,
       "name": "lovely (with Khalid)",
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
@@ -11454,7 +11472,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -12766,7 +12784,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
@@ -13738,7 +13756,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -14676,7 +14694,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"

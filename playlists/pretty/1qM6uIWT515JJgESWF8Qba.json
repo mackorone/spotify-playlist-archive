@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 247,
+  "num_followers": 251,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA09j2i789hv2lm5AFmMM13rl/IeZ/",
+  "snapshot_id": "AAAA1g3iR8wox0r2pBp1U2prq31rgbw6",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1255,6 +1255,54 @@
       "duration_ms": 221858,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g"
+    },
+    {
+      "added_at": "2025-12-13 01:04:04",
+      "album": {
+        "name": "melt into you",
+        "url": "https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8"
+      },
+      "artists": [
+        {
+          "name": "something else together.",
+          "url": "https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy"
+        }
+      ],
+      "duration_ms": 271163,
+      "name": "melt into you",
+      "url": "https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3"
+    },
+    {
+      "added_at": "2025-12-13 01:13:06",
+      "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/2ozT91COp1GUchj542jq44"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9cum",
+          "url": "https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk"
+        }
+      ],
+      "duration_ms": 165807,
+      "name": "Bestia",
+      "url": "https://open.spotify.com/track/6UYOETNWbvmNKpl07sjPpu"
+    },
+    {
+      "added_at": "2025-12-13 01:19:14",
+      "album": {
+        "name": "Piece Of The Pie",
+        "url": "https://open.spotify.com/album/458bpgTUEVcU1q51PS6h6R"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "duration_ms": 221170,
+      "name": "Piece Of The Pie",
+      "url": "https://open.spotify.com/track/01SzDzVKiUZzwgsxkgxCqp"
     }
   ],
   "unique_name": "Local Rock Bands",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,420 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,426 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 34 | [MOVIN' ON](https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 2:59 |
 | 35 | [Winding Road](https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 4:40 |
 | 36 | [SINGING](https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [LIAR](https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk) | 4:05 |
-| 37 | [あの頃、僕らは同じ未来を](https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 4:56 |
-| 38 | [FEEL SO GOOD](https://open.spotify.com/track/0dtoYRx9tgZcMYfjvO8jvR) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [FEEL SO GOOD](https://open.spotify.com/album/0wkojxSrgcI5L9RshEwcar) | 2:47 |
+| 37 | [FEEL SO GOOD](https://open.spotify.com/track/0dtoYRx9tgZcMYfjvO8jvR) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [FEEL SO GOOD](https://open.spotify.com/album/0wkojxSrgcI5L9RshEwcar) | 2:47 |
+| 38 | [あの頃、僕らは同じ未来を](https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 4:56 |
 | 39 | [RE\-BIRTH](https://open.spotify.com/track/7bjkxYQWVQWtOZOmwLu0gD) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RE\-BIRTH](https://open.spotify.com/album/0QkQ99HalEIISHAJnKIdG3) | 4:16 |
 | 40 | [ROCKIN' OUT](https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 |
-| 41 | [GLORY](https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:47 |
-| 42 | [Get over it](https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:36 |
+| 41 | [Get over it](https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:36 |
+| 42 | [GLORY](https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:47 |
 | 43 | [Be with](https://open.spotify.com/track/15ED6FZUHGy0BbTlv7mYhA) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:33 |
 | 44 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 |
 | 45 | [感情ディスコード \- Just Like This 2024 Live](https://open.spotify.com/track/1H8JRzywMuDMBxl4AUO9jG) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Like This 2024 \(Live\)](https://open.spotify.com/album/4wJfyByrRy9lezrzZfEo81) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 49 | [STORY](https://open.spotify.com/track/3HXOjRUWG9aIFLj6OiLREp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:34 |
 | 50 | [OVER \- Just Like This 2024 Live](https://open.spotify.com/track/0P64q3zVKvl1X3J0P8yhvU) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Like This 2024 \(Live\)](https://open.spotify.com/album/4wJfyByrRy9lezrzZfEo81) | 3:25 |
 
-Snapshot ID: `aTi4AAAAAABOEr0Jg9Wrd9ocvdqsFHvd`
+Snapshot ID: `aToJgAAAAAAcn8owG7B576xB1wd3k1SU`

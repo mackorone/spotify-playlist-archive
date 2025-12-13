@@ -4,7 +4,7 @@
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-108 songs - 7 hr 20 min
+109 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Driving Me Too Hard](https://open.spotify.com/track/3IZPWgIzAcksVyfRZf5vBi) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 3:16 | 2024-02-08 | 2024-06-03 |
 | [Emotional Rescue \- Remastered 2009](https://open.spotify.com/track/5IATbFZds3cbOx8YxuMuko) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Emotional Rescue \(2009 Re\-Mastered\)](https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB) | 5:39 | 2022-01-09 |  |
 | [Factory Girl \- 50th Anniversary Edition](https://open.spotify.com/track/5DZPlkknHAi3JxcpMFlJ69) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 2:09 | 2024-05-28 | 2024-05-29 |
-| [Far Away Eyes \- Remastered](https://open.spotify.com/track/4OSZGBSgURF74RO0dRA8HY) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:23 | 2022-12-15 |  |
+| [Far Away Eyes \- Remastered](https://open.spotify.com/track/4OSZGBSgURF74RO0dRA8HY) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:23 | 2022-12-15 | 2025-12-13 |
 | [Fool To Cry \- Remastered 2009](https://open.spotify.com/track/3T8dfE0azJUmXJA3QlmiZ5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Black And Blue \(Remastered 2009\)](https://open.spotify.com/album/2jtHqgzKfoF8uVvEosb6Jl) | 5:05 | 2022-01-09 |  |
 | [Get Close](https://open.spotify.com/track/0bL5tco8cV95q5FNFzxzUS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:10 | 2023-11-10 | 2024-07-24 |
 | [Get Off Of My Cloud \- Mono Version](https://open.spotify.com/track/263Iuyk08ks1v6FIudUIGD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [December’s Children \(And Everybody’s\)](https://open.spotify.com/album/2p2xSwHP4rTPzNCaOveDIP) | 2:55 | 2022-01-09 |  |
@@ -87,6 +87,7 @@
 | [Route 66](https://open.spotify.com/track/1FRP8d6l2jm3DS5f78ZrhK) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:20 | 2022-04-01 |  |
 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 | 2022-01-09 |  |
 | [Saint Of Me](https://open.spotify.com/track/6OEpSYq8wdqnl01hsoQGQY) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Bridges To Babylon \(Remastered\)](https://open.spotify.com/album/6lbQFxYqubkf4GbEtXARE7) | 5:14 | 2024-12-02 |  |
+| [Satisfaction Skank](https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Satisfaction Skank](https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW) | 3:19 | 2025-12-13 |  |
 | [Shame, Shame, Shame](https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Shame, Shame, Shame](https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ) | 4:05 | 2025-09-28 | 2025-11-17 |
 | [Shattered \- Remastered](https://open.spotify.com/track/0FfZBWDv7p63yj6oh2I2PS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 3:46 | 2022-01-09 | 2025-11-23 |
 | [She's A Rainbow](https://open.spotify.com/track/7Cwhlma0JgRVhDHR5CftD5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi) | 4:13 | 2024-01-27 |  |

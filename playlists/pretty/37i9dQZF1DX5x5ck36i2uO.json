@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 7713,
+  "num_followers": 7723,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-12-03 09:23:05",
       "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 193494,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
+    },
+    {
+      "added_at": "2025-12-03 09:23:05",
+      "album": {
         "name": "\uff0b",
         "url": "https://open.spotify.com/album/6yd7PgSlEG6FC0D9XL3x8c"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 240520,
       "name": "Daydreamin (Feat. sogumm & Woo) (Prod. Yosi & CODE KUNST)",
       "url": "https://open.spotify.com/track/28xScSqQQDOHQKo4khhxcn"
-    },
-    {
-      "added_at": "2025-12-03 09:23:05",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 193494,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH"
     },
     {
       "added_at": "2025-12-03 09:23:05",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-12-03 09:23:05",
       "album": {
-        "name": "Gwichanist",
-        "url": "https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "Gwichanist",
-      "url": "https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw"
-    },
-    {
-      "added_at": "2025-12-03 09:23:05",
-      "album": {
         "name": "natural high",
         "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 240094,
       "name": "Girl in New York (jazz)",
       "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+    },
+    {
+      "added_at": "2025-12-03 09:23:05",
+      "album": {
+        "name": "Gwichanist",
+        "url": "https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Gwichanist",
+      "url": "https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw"
     },
     {
       "added_at": "2025-12-03 09:23:05",

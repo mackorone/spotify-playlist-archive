@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 141606,
+  "num_followers": 141613,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2024-07-24 13:57:08",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Say So (Jax Jones Midnight Snack Remix)",
-        "url": "https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 210491,
-      "name": "Say So (Jax Jones Midnight Snack Remix)",
-      "url": "https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Caught A Body (with Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 199915,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "Say So (Jax Jones Midnight Snack Remix)",
+        "url": "https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "Say So (Jax Jones Midnight Snack Remix)",
+      "url": "https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"
     },
     {
       "added_at": "2024-07-24 13:57:08",

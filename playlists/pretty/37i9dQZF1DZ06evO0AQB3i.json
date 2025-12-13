@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 61782,
+  "num_followers": 61795,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAADow3UWprSx/YQ/0trG31C1",
+  "snapshot_id": "aToJgAAAAABEz1okXjk4dkK891AwVDol",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe (Live From Austin City Limits)",
-        "url": "https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ"
+        "name": "Killer Diller Blues (Music from The American Epic Sessions)",
+        "url": "https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 211374,
-      "name": "Joe - Live From Austin City Limits",
-      "url": "https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD"
+      "duration_ms": 132133,
+      "name": "Killer Diller Blues - Music from The American Epic Sessions",
+      "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killer Diller Blues (Music from The American Epic Sessions)",
-        "url": "https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN"
+        "name": "Joe (Live From Austin City Limits)",
+        "url": "https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 132133,
-      "name": "Killer Diller Blues - Music from The American Epic Sessions",
-      "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
+      "duration_ms": 211374,
+      "name": "Joe - Live From Austin City Limits",
+      "url": "https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD"
     },
     {
       "added_at": null,

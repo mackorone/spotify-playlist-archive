@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,284 likes - 38 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,282 likes - 38 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 12 | [Slide Away \- Remastered](https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\)](https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy) | 6:32 |
 | 13 | [Some Might Say \- Remastered](https://open.spotify.com/track/15J419FaKaBT7bYJmpLDpf) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 5:27 |
 | 14 | [I'm Outta Time](https://open.spotify.com/track/4Q2UM2QSR7Gye03jvl4Rdw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/75KnF13DIx7GXfz5IesWtT) | 4:10 |
-| 15 | [The Importance Of Being Idle](https://open.spotify.com/track/2RUfZnDBLgXeO2A1XOj0ss) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:39 |
+| 15 | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/track/4LFwqwVGdViVgDIvJNIqqV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(30th Anniversary\)](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 4:34 |
 | 16 | [Whatever \- Remastered](https://open.spotify.com/track/7rpUsVjQyitDQ27NRybgZl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\)](https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy) | 6:22 |
 | 17 | [Roll with It \- Remastered](https://open.spotify.com/track/05CNnC9ugYgnJgg6fIgyeQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:00 |
-| 18 | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/track/4LFwqwVGdViVgDIvJNIqqV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(30th Anniversary\)](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 4:34 |
+| 18 | [The Importance Of Being Idle](https://open.spotify.com/track/2RUfZnDBLgXeO2A1XOj0ss) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:39 |
 | 19 | [Go Let It Out](https://open.spotify.com/track/3eFL9jPBBALueXfjhe0jCd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6F2iD5c7Aca3E0wmmPhgax) | 4:38 |
 | 20 | [Half The World Away \- Remastered](https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:27 |
 | 21 | [She's Electric \- Remastered](https://open.spotify.com/track/60QLLec3yKDwloXCyummPy) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 3:40 |
 | 22 | [D'You Know What I Mean? \- Remastered](https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 7:43 |
 | 23 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
-| 24 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/03QZPaiw1N94aAFDv7k5Em) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\)](https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy) | 5:22 |
+| 24 | [Married With Children \- Remastered](https://open.spotify.com/track/57bbMdaWpthoPTfuU9TFvQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 3:15 |
 | 25 | [Lyla](https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:10 |
 | 26 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 |
 | 27 | [The Hindu Times](https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:46 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 37 | [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 |
 | 38 | [Let's All Make Believe](https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Go Let It Out](https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM) | 3:53 |
 
-Snapshot ID: `aTi4AAAAAAAT8URYOVVnnAoPanRrudHk`
+Snapshot ID: `aToJgAAAAADeI1piS3agQyUceQJumDm3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,048 likes - 52 songs - 2 hr 53 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,045 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 50 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 |
 | 51 | [Vur Kalbimden](https://open.spotify.com/track/0fu2sSqESedfVKV7QD7fBz) | [Azel](https://open.spotify.com/artist/6Wefz4jdGRWUIPjmvl76QU) | [Vur Kalbimden](https://open.spotify.com/album/7efSlA8XFS5odUgIg36w0V) | 3:11 |
 | 52 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 |
+| 53 | [Too Close For Comfort](https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Too Close For Comfort](https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF) | 3:23 |
+| 54 | [Not Real](https://open.spotify.com/track/2h0rNNxfeN6n18zEhb1uOA) | [FAIA LYN](https://open.spotify.com/artist/0PIi7hsIDjKPYH66SOko0H) | [Not Real](https://open.spotify.com/album/4kGbXFHPB46aYEtQTJ22HD) | 3:17 |
 
-Snapshot ID: `AAACZIaNUhbQi9H4B/x1LBom6P+br1lX`
+Snapshot ID: `AAACZijerAycKPSSek9OeMHR5bTACw7E`

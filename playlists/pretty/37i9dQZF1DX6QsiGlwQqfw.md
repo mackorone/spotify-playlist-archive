@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,655 likes - 50 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,662 likes - 50 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 40 | [Peace & Harmony](https://open.spotify.com/track/6bMM8EO0e92d4E0XshNrB7) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 2:43 |
 | 41 | [Raga Ahir Bhairi](https://open.spotify.com/track/3DBmWeg0kH6tbRj0gkWwY8) | [Paritosh Seal](https://open.spotify.com/artist/6KIhLoUJnoRfom1hguUXgk) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:20 |
 | 42 | [Alaap Jor Jhala \- Raga Basant Mukhari](https://open.spotify.com/track/5SFyfC5KvyCzRzYwfVrMnt) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Golden Raaga Collection II \- Pandit Shiv Kumar Sharma](https://open.spotify.com/album/1BI4juHcCUet9XCpTKZCJV) | 17:50 |
-| 43 | [Satyagrah](https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [Shravan Samsi](https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6), [Steve Kottoor](https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N) | [Satyagrah](https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy) | 7:14 |
-| 44 | [Raag Hament \(Tintal, 16 beats\) \[arr\. T\. Bhattacharya\]](https://open.spotify.com/track/0TVyDdq8zgk1t3YYJOolFu) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA), [Shiv Shankar Ray](https://open.spotify.com/artist/7AzfrIUqSS0ebgQm7MplWf), [Jayashree Acharya](https://open.spotify.com/artist/6RdLFlouF6vZX4LDxI23rQ) | [The Best of Indian Santur](https://open.spotify.com/album/0jtXyO8dEmcslU37nVa9kc) | 8:48 |
+| 43 | [Raag Hament \(Tintal, 16 beats\) \[arr\. T\. Bhattacharya\]](https://open.spotify.com/track/0TVyDdq8zgk1t3YYJOolFu) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA), [Shiv Shankar Ray](https://open.spotify.com/artist/7AzfrIUqSS0ebgQm7MplWf), [Jayashree Acharya](https://open.spotify.com/artist/6RdLFlouF6vZX4LDxI23rQ) | [The Best of Indian Santur](https://open.spotify.com/album/0jtXyO8dEmcslU37nVa9kc) | 8:48 |
+| 44 | [Satyagrah](https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [Shravan Samsi](https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6), [Steve Kottoor](https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N) | [Satyagrah](https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy) | 7:14 |
 | 45 | [Desire \(Raag Manj Khamaj\) \[Radio Edit\]](https://open.spotify.com/track/7t1FTB00MydjF7EJD0KhRa) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Desire \(Raag Manj Khamaj\) \[Radio Edit\]](https://open.spotify.com/album/0KXZo5FFkXQyKzyU0uUjSW) | 7:08 |
 | 46 | [Ragmala](https://open.spotify.com/track/4W2QrZuT0QE9QmZPkDsIQG) | [Ustad Rais Khan](https://open.spotify.com/artist/4njub7O9Nw269MV3c7YCtr) | [Rag\-Rang](https://open.spotify.com/album/4i2Oqn8s2LlKdGnsPmzsHk) | 23:05 |
 | 47 | [Raga Chandranandan \- Alap, Jor](https://open.spotify.com/track/3a9XtNboaANi0w3fZGhnKK) | [Rajeev Taranath](https://open.spotify.com/artist/14Bg6ooADk8tSstCJfnJc6) | [Over the Moon](https://open.spotify.com/album/1mmiBzkLYgjoyX8O9U8moV) | 22:11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring DOUBLECAMP",
+  "description": "a little indie, a little pop, soda featuring THEM",
   "name": "soda",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 160666,
       "name": "16 dogs",
       "url": "https://open.spotify.com/track/6evha6l77b3R2dxTKRVXjh"
+    },
+    {
+      "album": {
+        "name": "THE VOID",
+        "url": "https://open.spotify.com/album/6k0ppS67Skg7t6I3KhHZvm"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "1989",
+      "url": "https://open.spotify.com/track/7kiZVrxh969aNPA7n8lpzz"
     },
     {
       "album": {
@@ -5154,6 +5172,24 @@
       "duration_ms": 163533,
       "name": "cool",
       "url": "https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS"
+    },
+    {
+      "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/73zS4sBXsDeLo0Bywq0LNP"
+      },
+      "artists": [
+        {
+          "name": "THEM",
+          "url": "https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/2wL3b04nyaSy69UoV9jyhH"
     },
     {
       "album": {
@@ -24100,7 +24136,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 198244,
       "name": "THE SHIVERS",
       "url": "https://open.spotify.com/track/3fobfUxxCDgM5KQV723Ird"
@@ -26456,7 +26492,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 195106,
       "name": "What You Can\u2019t Have",
       "url": "https://open.spotify.com/track/3jmDuSgKsIbfmaHhwBf42D"

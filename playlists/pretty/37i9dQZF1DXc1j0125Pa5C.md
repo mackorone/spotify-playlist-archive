@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,989 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,065 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

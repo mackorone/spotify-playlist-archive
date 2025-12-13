@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Donnie, Sven Versteeg & LA$$A
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,824 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,831 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kroegentocht](https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Kroegentocht](https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP) | 2:33 |
 | 2 | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 |
 | 3 | [In Mijn Hart](https://open.spotify.com/track/2GiENDK9r194HJxo2QuFh6) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [In Mijn Hart](https://open.spotify.com/album/1Px6Mv4OE8cXlcBQoeZGrQ) | 2:34 |
-| 4 | [Track 4](https://open.spotify.com/track/2JqytFQ2dvYvtQpw16vFuR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Doe Er Nog Maar Een Jaartje Bij](https://open.spotify.com/track/2JqytFQ2dvYvtQpw16vFuR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Nog Een Jaar Erbij](https://open.spotify.com/album/7KiNXWi7ZfVlnwKnG1FNpe) | 2:37 |
 | 5 | [Geniet Zo Van Het Leven](https://open.spotify.com/track/3uVbuP7Bk3U4J9g6LLs0RY) | [Toon Schut](https://open.spotify.com/artist/4vZnZBqVPhnTFy8xBQNpC2) | [Geniet Zo Van Het Leven](https://open.spotify.com/album/61GZrvfpeJfFjCjNA1qXPm) | 2:21 |
 | 6 | [Een Dag Niet Gelachen](https://open.spotify.com/track/3f9ox3NTcvBctWb0VyPRdA) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Een Dag Niet Gelachen](https://open.spotify.com/album/4rSAI90WhB1jvUv0xkAOMa) | 2:24 |
 | 7 | [Playboy](https://open.spotify.com/track/6fODWXYbCne8bFDOCvmDJs) | [Luca Ferron](https://open.spotify.com/artist/19AdBUGKGQJk2hyMb8MKG0) | [Playboy](https://open.spotify.com/album/35HudikusrxZoQcuGFzPdM) | 2:57 |

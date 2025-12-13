@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 26092,
+  "num_followers": 26137,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -865,6 +865,26 @@
       "url": "https://open.spotify.com/track/6MqrpdDa19FOxnhWfPsCgo"
     },
     {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
+        }
+      ],
+      "duration_ms": 231638,
+      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
@@ -895,26 +915,6 @@
       "duration_ms": 204264,
       "name": "City Love City Love City Love",
       "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
-        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
-        }
-      ],
-      "duration_ms": 231638,
-      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
-      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -985,6 +985,22 @@
       "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
     },
     {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
+      },
+      "artists": [
+        {
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
+        }
+      ],
+      "duration_ms": 266954,
+      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "Moonlight",
@@ -1001,22 +1017,6 @@
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u89e3\u6c37",
-        "url": "https://open.spotify.com/album/1up2lZGnt5cfsKVf4BswJY"
-      },
-      "artists": [
-        {
-          "name": "\u30ca\u30c4\u30ce\u30bb",
-          "url": "https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "\u89e3\u6c37",
-      "url": "https://open.spotify.com/track/2dSrFR1iNipf8GUt3tp307"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "WINTER SONG",
@@ -1031,6 +1031,22 @@
       "duration_ms": 285533,
       "name": "WINTER SONG (\u201c\u96ea\u306e\u30af\u30ea\u30b9\u30de\u30b9\u201d WORLDWIDE VERSION)",
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u89e3\u6c37",
+        "url": "https://open.spotify.com/album/1up2lZGnt5cfsKVf4BswJY"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30c4\u30ce\u30bb",
+          "url": "https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "\u89e3\u6c37",
+      "url": "https://open.spotify.com/track/2dSrFR1iNipf8GUt3tp307"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1063,22 +1079,6 @@
       "duration_ms": 283333,
       "name": "orion",
       "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
-    },
-    {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
-      },
-      "artists": [
-        {
-          "name": "Aooo",
-          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
-        }
-      ],
-      "duration_ms": 266954,
-      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "come again",
-        "url": "https://open.spotify.com/album/3F2tl8EfQSECkcoGc4304e"
-      },
-      "artists": [
-        {
-          "name": "m-flo",
-          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
-        }
-      ],
-      "duration_ms": 354433,
-      "name": "come again",
-      "url": "https://open.spotify.com/track/3doATATHVivzB3EJqZS1eG"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 257911,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "come again",
+        "url": "https://open.spotify.com/album/3F2tl8EfQSECkcoGc4304e"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "duration_ms": 354433,
+      "name": "come again",
+      "url": "https://open.spotify.com/track/3doATATHVivzB3EJqZS1eG"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
@@ -1283,6 +1267,22 @@
       "duration_ms": 268000,
       "name": "Happy X-mas (War Is Over)",
       "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1561,6 +1561,22 @@
       "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
     },
     {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "AFTER TASTE",
+        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 247968,
+      "name": "AFTER TASTE",
+      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Susanna",
@@ -1623,22 +1639,6 @@
       "duration_ms": 339773,
       "name": "even if",
       "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Present",
-        "url": "https://open.spotify.com/album/3SgSlkZv8rds5bMmD24AqD"
-      },
-      "artists": [
-        {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
-        }
-      ],
-      "duration_ms": 178700,
-      "name": "Present",
-      "url": "https://open.spotify.com/track/6haW837EW4wauotPmhUVAM"
     }
   ],
   "unique_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",

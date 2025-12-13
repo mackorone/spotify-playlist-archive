@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 87221,
+  "num_followers": 87228,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-12-11 23:00:19",
       "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 149669,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
+    },
+    {
+      "added_at": "2025-12-11 23:00:19",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 149669,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
       "added_at": "2025-12-11 23:00:19",
@@ -763,18 +763,22 @@
     {
       "added_at": "2025-12-11 23:00:19",
       "album": {
-        "name": "Sympathy Magic",
-        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 268886,
-      "name": "Sympathy Magic",
-      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-12-11 23:00:19",
@@ -795,22 +799,18 @@
     {
       "added_at": "2025-12-11 23:00:19",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+        "name": "Sympathy Magic",
+        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
     },
     {
       "added_at": "2025-12-11 23:00:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-12-11 23:00:19",
       "album": {
-        "name": "in plain sight",
-        "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 145128,
-      "name": "in plain sight",
-      "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
         "name": "Det g\u00e5r bra",
         "url": "https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 197133,
       "name": "Det g\u00e5r bra",
       "url": "https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv"
+    },
+    {
+      "added_at": "2025-12-11 23:00:19",
+      "album": {
+        "name": "in plain sight",
+        "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 145128,
+      "name": "in plain sight",
+      "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
     },
     {
       "added_at": "2025-12-11 23:00:19",

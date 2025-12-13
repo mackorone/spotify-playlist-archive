@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > A few of our favorite gems that you might have missed this year\. Eladio Carrion on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,575 likes - 25 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,485 likes - 25 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [JADA & PAC](https://open.spotify.com/track/2c0fbaUG3DZajnjdOiNh9L) | [G.O.K.B.](https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE), [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [HYBREDS](https://open.spotify.com/album/1OxpLftVH7QS1fGGrSgzRk) | 3:25 |
 | 25 | [3 AM](https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [3 AM](https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw) | 3:16 |
 
-Snapshot ID: `AAAAALVvjaAOKDQIYnrTBNJY74tPZeqw`
+Snapshot ID: `AAAAANKp/tZlMhVtNpUEDi1XGqYCKp49`

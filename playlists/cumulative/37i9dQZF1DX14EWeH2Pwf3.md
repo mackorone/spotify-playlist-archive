@@ -4,7 +4,7 @@
 
 > Geolier in cover della playlist urban più grande d'Italia 🔥
 
-940 songs - 1 day 21 hr 36 min
+941 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 | 2023-03-09 | 2023-04-21 |
 | [NOTTI FREDDE](https://open.spotify.com/track/0FW9UnyHsySQEU2lei3K1q) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [NOTTI FREDDE](https://open.spotify.com/album/6tI528644uJc7vshtOzN9E) | 2:50 | 2025-10-02 | 2025-10-21 |
 | [NULLA ACCADE \(feat\. Capo Plaza\)](https://open.spotify.com/track/7aE74PfRukjvuBqte3f0hs) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:54 | 2023-12-07 | 2024-01-26 |
+| [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 | 2025-12-12 |  |
 | [Nun è mai fernut](https://open.spotify.com/track/1mIs94EvwoD8zLCFQXrdHA) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:47 | 2024-08-29 | 2024-09-06 |
 | [Nuova Chain \(feat\. Guè\)](https://open.spotify.com/track/7pOfLQw09fgiecMP3NmTWv) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Nuova Chain \(feat\. Guè\)](https://open.spotify.com/album/3oL0ORNCwluuNv3wWaH2O4) | 2:42 | 2025-09-25 | 2025-10-21 |
 | [Nuovo Inizio \(feat\. Shiva\)](https://open.spotify.com/track/3Fg8eOwcv5ctsjYYajBzFk) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 2:51 | 2024-11-20 | 2025-04-04 |

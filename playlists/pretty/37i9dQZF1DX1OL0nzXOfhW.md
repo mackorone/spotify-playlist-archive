@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 即聽 2025 年度最受歡迎 RADAR HK 歌手最受歡迎作品！Cover: Tr33
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,630 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,629 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 49 | [暴走女團](https://open.spotify.com/track/0teORBLgjBFQmCU4IzXqP0) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [暴走女團](https://open.spotify.com/album/7BOCjh4M9coY2fOMOyQOEX) | 2:54 |
 | 50 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 |
 
-Snapshot ID: `AAAAAMmYVt40Y4HWMhalcTuGbVuycEve`
+Snapshot ID: `AAAAAEmtwbVI8kfa0O8HFtfyK4OvrF+B`

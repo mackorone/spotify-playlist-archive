@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,752 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,817 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 31 | [us](https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 4:08 |
 | 32 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 |
 | 33 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 |
-| 34 | [War With Heaven](https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:13 |
+| 34 | [xoxosos](https://open.spotify.com/track/2PcRcEPe8HkDhYsA6OV6d4) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:33 |
 | 35 | [talk](https://open.spotify.com/track/0b8Sf6sJqXOr9cP6tQ7QQx) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:54 |
-| 36 | [xoxosos](https://open.spotify.com/track/2PcRcEPe8HkDhYsA6OV6d4) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:33 |
+| 36 | [War With Heaven](https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:13 |
 | 37 | [I Choose You](https://open.spotify.com/track/41EnM4giX9PJYZIBUCPmiI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:48 |
 | 38 | [bandaids](https://open.spotify.com/track/2ZP85Jq4K27V6WWVXfINSR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:35 |
 | 39 | [magnolia](https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [magnolia](https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py) | 2:19 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 44 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 |
 | 45 | [just friends](https://open.spotify.com/track/2KEnu7ABoDpekTUae5rrU0) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [just friends](https://open.spotify.com/album/5Uaaq4KQPwGTG9cyooFD1I) | 2:03 |
 
-Snapshot ID: `aTi4AAAAAADNv/kkLu/5A/ZYQDz0SjAV`
+Snapshot ID: `aToJgAAAAACQ2TjnXrgI5CeRCnBUTdi3`

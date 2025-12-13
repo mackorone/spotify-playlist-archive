@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 
 > The playlist for students, by students\. Powered by Student Music Network and URN at University of Nottingham ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,043 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,048 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 | 49 | [Do It For Love](https://open.spotify.com/track/4IOm65mqo67t7F3q7RuzMT) | [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Do It For Love](https://open.spotify.com/album/1Wm5OADQdG3aOBE4gPkWGr) | 3:23 |
 | 50 | [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 |
 
-Snapshot ID: `AAAAADnTO7byUbI1THYAaidc/SWuLNED`
+Snapshot ID: `AAAAAGOU20p89MU5iiqF3qzuxiZ8YhEV`

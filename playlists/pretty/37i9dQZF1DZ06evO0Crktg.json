@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 324778,
+  "num_followers": 324902,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABJ8Rc1lcgVcC5cy1AqcuYM",
+  "snapshot_id": "aToJgAAAAABeU1xbU81WVY4dHvqL/sAd",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
       "artists": [
         {
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+      "duration_ms": 232093,
+      "name": "Son Of A Sinner",
+      "url": "https://open.spotify.com/track/6ngGiVX91DRmGDH4G5EgeO"
     },
     {
       "added_at": null,
@@ -135,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 232093,
-      "name": "Son Of A Sinner",
-      "url": "https://open.spotify.com/track/6ngGiVX91DRmGDH4G5EgeO"
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waylon & Willie 2",
         "url": "https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 249302,
       "name": "Fall in the Fall",
       "url": "https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        }
-      ],
-      "duration_ms": 192969,
-      "name": "Cowboys",
-      "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "duration_ms": 192969,
+      "name": "Cowboys",
+      "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waylon & Willie IV",
         "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 197343,
       "name": "My Only Enemy",
       "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 163103,
+      "name": "Hate Goes On",
+      "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 322492,
       "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
       "url": "https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 163103,
-      "name": "Hate Goes On",
-      "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead End Road (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF"
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 152133,
-      "name": "Dead End Road (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w"
+      "duration_ms": 169258,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX"
     }
   ],
   "unique_name": "This Is Jelly Roll",

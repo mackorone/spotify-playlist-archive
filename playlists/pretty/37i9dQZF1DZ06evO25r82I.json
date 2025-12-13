@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABkB+d2WoWKzerdVb9thw1K",
+  "snapshot_id": "aToJgAAAAAD62IPSgkXXnMa68XCo4wai",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
+      "duration_ms": 206373,
+      "name": "Just Tonight",
+      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Just Tonight",
-      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
+      "duration_ms": 238426,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "All The Way (Stay)",
-      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Integrity Blues",
         "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 169574,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/19cVww3dRYFzVvslJu2NtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "All The Way (Stay)",
+      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 193387,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Integrity Blues",
         "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
       "artists": [
         {
@@ -584,9 +568,25 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 221800,
-      "name": "No Sensitivity",
-      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
+      "duration_ms": 193387,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay On My Side Tonight",
+        "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 464200,
+      "name": "Disintegration",
+      "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
       "duration_ms": 209640,
       "name": "Blister",
       "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
     },
     {
       "added_at": null,
@@ -639,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay On My Side Tonight",
-        "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 464200,
-      "name": "Disintegration",
-      "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static Prevails (Bonus Track Version)",
         "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 191257,
-      "name": "Criminal Energy",
-      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Integrity Blues",
         "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 171648,
       "name": "Through",
       "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 191257,
+      "name": "Criminal Energy",
+      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 174343,
-      "name": "Love Never",
-      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Integrity Blues",
         "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
+      "duration_ms": 174343,
+      "name": "Love Never",
+      "url": "https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 218746,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
     },
     {
       "added_at": null,

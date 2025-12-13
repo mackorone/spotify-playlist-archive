@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,475 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,488 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 76 | [Place Your Hands](https://open.spotify.com/track/29OrKlVi8EM1u8VDIlF4qO) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [Together \- The Best Of](https://open.spotify.com/album/6ksyAGg2voMofLSmaQycHq) | 3:37 |
 | 77 | [Brokenhearted](https://open.spotify.com/track/6z7qW5Xq8NOSDUtAFmJr37) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Brokenhearted](https://open.spotify.com/album/5OF9GverWQ7WCu92eRI57u) | 3:47 |
 | 78 | [Anywhere](https://open.spotify.com/track/6lD9nDl7jBUSIPDMAMZjuD) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Anywhere](https://open.spotify.com/album/5D7wyvS4OM7u1PvEH2k3FO) | 3:25 |
-| 79 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
-| 80 | [Bright Idea](https://open.spotify.com/track/2bNivLleNjHDgPonfchAfo) | [Orson](https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ) | [Bright Idea](https://open.spotify.com/album/3CbD5meaudNYNl42Ldw7Tp) | 4:13 |
+| 79 | [Bright Idea](https://open.spotify.com/track/2bNivLleNjHDgPonfchAfo) | [Orson](https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ) | [Bright Idea](https://open.spotify.com/album/3CbD5meaudNYNl42Ldw7Tp) | 4:13 |
+| 80 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 81 | [Timber](https://open.spotify.com/track/40ia0VswpL9SUuPdfLyabK) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Timber](https://open.spotify.com/album/77AM9Aaav9TwicABfOJ0W2) | 3:24 |
 | 82 | [Between You and Me](https://open.spotify.com/track/1k0HaXwqnev6ITPjYqvtxF) | [One Bit](https://open.spotify.com/artist/7jlMwr0xUcRO1xS6WjkkUT), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Between You and Me](https://open.spotify.com/album/1ZwqV0aR3jirvbjp96bLQn) | 3:31 |
 | 83 | [Pack Up](https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [Eliza Doolittle](https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe) | 3:11 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 91 | [Happiness](https://open.spotify.com/track/2zX22RoaGg8KGuNCzSBwBP) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Happiness](https://open.spotify.com/album/7InaLclfE0Cs1BK4HqAvJr) | 4:02 |
 | 92 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
 | 93 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3KZcrZ36LW9RnChK1iIkth) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 3:43 |
-| 94 | [Classic](https://open.spotify.com/track/5x9VIW2fS21JMswOt6AORI) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [Classic](https://open.spotify.com/album/7adKFzloRhHyoBN2JnhHN5) | 2:55 |
-| 95 | [Shake It Off](https://open.spotify.com/track/7n9Q6bXSjm74uCtajkddPt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Shake It Off](https://open.spotify.com/album/2Z51EnLF4Nps4LmulSQPnn) | 3:39 |
+| 94 | [Shake It Off](https://open.spotify.com/track/7n9Q6bXSjm74uCtajkddPt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Shake It Off](https://open.spotify.com/album/2Z51EnLF4Nps4LmulSQPnn) | 3:39 |
+| 95 | [Classic](https://open.spotify.com/track/5x9VIW2fS21JMswOt6AORI) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [Classic](https://open.spotify.com/album/7adKFzloRhHyoBN2JnhHN5) | 2:55 |
 | 96 | [Problem](https://open.spotify.com/track/3cySlItpiPiIAzU3NyHCJf) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Problem](https://open.spotify.com/album/5A6pzfa725ZA3rhDllmX58) | 3:13 |
-| 97 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 |
-| 98 | [Best Day Of My Life](https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [American Authors](https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C) | 3:14 |
+| 97 | [Best Day Of My Life](https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [American Authors](https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C) | 3:14 |
+| 98 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 |
 | 99 | [You Can Call Me Al](https://open.spotify.com/track/02yw9dohfEmcPWOzFJ30Bs) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon \(Standard Version\)](https://open.spotify.com/album/3H7dMVS2PZHdr63Y7brNFE) | 4:36 |
 | 100 | [Inner Smile](https://open.spotify.com/track/6i3kIF4sosXFhkoSLMV7bP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/6pM8nZgJqCrdBGLzjkBey0) | 3:50 |
 

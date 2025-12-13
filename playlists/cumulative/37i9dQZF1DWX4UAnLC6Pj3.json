@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga y Gera Demara \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Carnaval \ud83d\udcf8",
   "name": "Banda 2025",
   "tracks": [
+    {
+      "album": {
+        "name": "100/10",
+        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "100/10",
+      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
+    },
     {
       "album": {
         "name": "12 Rifles",
@@ -953,6 +971,28 @@
     },
     {
       "album": {
+        "name": "Ausencia Eterna",
+        "url": "https://open.spotify.com/album/2QG1f8uOeQvRbRJ46eM7Bp"
+      },
+      "artists": [
+        {
+          "name": "Leonel el Ranchero",
+          "url": "https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6"
+        },
+        {
+          "name": "Banda 4seis",
+          "url": "https://open.spotify.com/artist/3QmtS5gGtW3H3JslswTJjX"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Ausencia Eterna",
+      "url": "https://open.spotify.com/track/5vIQ3OpHYWtFfwzjoLovdZ"
+    },
+    {
+      "album": {
         "name": "Pa Sentirme Vivo Vol.1 (En Vivo)",
         "url": "https://open.spotify.com/album/6WUKlwZgTQPshS9aEACdxZ"
       },
@@ -1218,7 +1258,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 118816,
       "name": "Caballo Robado",
       "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
@@ -1280,6 +1320,24 @@
       "duration_ms": 166478,
       "name": "Cada Dia Me Gustas Mas",
       "url": "https://open.spotify.com/track/6S0LhPTWbTautF6mIm3idP"
+    },
+    {
+      "album": {
+        "name": "Aunque Nos Tiren Hate",
+        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186454,
+      "name": "Cada D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
     },
     {
       "album": {
@@ -2023,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de Perro",
+        "url": "https://open.spotify.com/album/2BuesZomcerRPbWvwlhfda"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallejo",
+          "url": "https://open.spotify.com/artist/1Ckc09BaQdP6qzULaPzq80"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Coraz\u00f3n de Perro",
+      "url": "https://open.spotify.com/track/6PHtjF5YnJRzVixfqJt0BH"
+    },
+    {
+      "album": {
         "name": "42 18",
         "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
@@ -2436,6 +2512,24 @@
       "duration_ms": 266379,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/5yV9MNJ54l58QaHqm5lrHP"
+    },
+    {
+      "album": {
+        "name": "De Nuestro Amor No Queda Nada",
+        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215364,
+      "name": "De Nuestro Amor No Queda Nada",
+      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
     },
     {
       "album": {
@@ -3738,7 +3832,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 156818,
       "name": "El Ranchero Chido",
       "url": "https://open.spotify.com/track/7xyvjI0IPfcCb2dGXM7k2q"
@@ -5102,7 +5196,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 148599,
       "name": "La Cuichi - En Vivo",
       "url": "https://open.spotify.com/track/5kuTaAtUzmq8LeG3UlaSbf"
@@ -5500,7 +5594,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 189839,
       "name": "Las Cosas No Andan Bien",
       "url": "https://open.spotify.com/track/5eZxmh9Vr0Bh4ydwBtFH0d"
@@ -5540,7 +5634,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 189827,
       "name": "Las Dos Me Hacen Falta",
       "url": "https://open.spotify.com/track/33Mi3luIRrTsCKX6abIzAo"
@@ -5834,7 +5928,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 151411,
       "name": "Los A\u00f1os Que Yo Tengo",
       "url": "https://open.spotify.com/track/06Ne2UFP0nYNybeNil0kQv"
@@ -6060,7 +6154,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 164935,
       "name": "Me Dicen El Coyote",
       "url": "https://open.spotify.com/track/0UnLTePmBze3fSGvHYYEdO"
@@ -6506,7 +6600,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 199463,
       "name": "Mi Funeral",
       "url": "https://open.spotify.com/track/0pt2Wx1hLbzObpTkFYyKGW"
@@ -7037,6 +7131,28 @@
     },
     {
       "album": {
+        "name": "Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/4A2TSxiiWQGK8Ur9Q0NNCT"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        },
+        {
+          "name": "Banda Triguera",
+          "url": "https://open.spotify.com/artist/6oplYwZu7KstmZojn1KoB8"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186876,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0NeUXXRdzvkCXRTjaLpWZH"
+    },
+    {
+      "album": {
         "name": "Necesito Tu Perd\u00f3n",
         "url": "https://open.spotify.com/album/15o4wGalDXk6QJgHEhx50c"
       },
@@ -7092,6 +7208,28 @@
       "duration_ms": 182093,
       "name": "Nimodo",
       "url": "https://open.spotify.com/track/7jSJmetLa9y5DUIQC1pTiq"
+    },
+    {
+      "album": {
+        "name": "No Bailes de Caballito",
+        "url": "https://open.spotify.com/album/4VVeq0TI5vPDtc0UMkZ28w"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Su Majestad Mi Banda el Mexicano de Casimiro Zamudio",
+          "url": "https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234614,
+      "name": "No Bailes de Caballito",
+      "url": "https://open.spotify.com/track/5hofPEfFQTgLdoWmixQfYz"
     },
     {
       "album": {
@@ -7392,7 +7530,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 153586,
       "name": "Nunca Te Busqu\u00e9",
       "url": "https://open.spotify.com/track/6DrWftlrAEFZPeDgw6b78K"
@@ -7636,7 +7774,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 243029,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/5K6XbQuRJLPZHTqgq5CjNv"
@@ -7676,10 +7814,28 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 197373,
       "name": "Para Olvidarme De Tus Besos",
       "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
+    },
+    {
+      "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/656laHh59exvEFd0Ploq8K"
+      },
+      "artists": [
+        {
+          "name": "Banda 3 Rios",
+          "url": "https://open.spotify.com/artist/4z83zwAK572NpPQFQu7Jgv"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "Para Toda La Vida",
+      "url": "https://open.spotify.com/track/4vdCYL6S8koDV3h3e9UlhY"
     },
     {
       "album": {
@@ -7702,7 +7858,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 212526,
       "name": "Para Toda La Vida - En Vivo",
       "url": "https://open.spotify.com/track/45RBfyxWe8Ij3bPdflrhdZ"
@@ -7988,7 +8144,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 237908,
       "name": "Popurri: Tragos Amargos/Nieves De Enero - En Vivo",
       "url": "https://open.spotify.com/track/7LePauvZwiNRc7uZ4mPsHE"
@@ -9297,6 +9453,24 @@
     },
     {
       "album": {
+        "name": "Se Me Murio El Amor",
+        "url": "https://open.spotify.com/album/0PYRebe16fABfeqQuWaQzW"
+      },
+      "artists": [
+        {
+          "name": "Brenda Michel",
+          "url": "https://open.spotify.com/artist/2jN4BFSFkOvTcwc28ouzbG"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188832,
+      "name": "Se Me Murio El Amor",
+      "url": "https://open.spotify.com/track/2devADTH1QWZYlRShKZE6j"
+    },
+    {
+      "album": {
         "name": "Se Me Muri\u00f3 El Amor",
         "url": "https://open.spotify.com/album/0GUxYv5549gBn6eZnn8C5F"
       },
@@ -9384,7 +9558,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 134464,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/4ltsuSbqqiF5TK6bKIt1vw"
@@ -9428,7 +9602,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 211341,
       "name": "Seremos (En Vivo)",
       "url": "https://open.spotify.com/track/1DuFyhuFMoDWd8AIJhCMpA"
@@ -9472,6 +9646,24 @@
       "duration_ms": 204966,
       "name": "Si No Contesto Tus Llamadas",
       "url": "https://open.spotify.com/track/6QRdzKfmvrUNen0uPtDWVo"
+    },
+    {
+      "album": {
+        "name": "Si No Me Llamas",
+        "url": "https://open.spotify.com/album/0Gyfh7aBxC1E4AsYnZoVu5"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197526,
+      "name": "Si No Me Llamas",
+      "url": "https://open.spotify.com/track/4caL4LY6sYsyzhbbqlvY0l"
     },
     {
       "album": {
@@ -9831,6 +10023,24 @@
     },
     {
       "album": {
+        "name": "Son Amoltepec",
+        "url": "https://open.spotify.com/album/3jG6LQLjAuZQbPVvKTMSl5"
+      },
+      "artists": [
+        {
+          "name": "Banda Llano Verde",
+          "url": "https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171376,
+      "name": "Son Amoltepec",
+      "url": "https://open.spotify.com/track/0YENZJJ07UhscqJcBLYl6r"
+    },
+    {
+      "album": {
         "name": "Soy Buen Amigo",
         "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
       },
@@ -10053,6 +10263,24 @@
     },
     {
       "album": {
+        "name": "Te amo y te amar\u00e9",
+        "url": "https://open.spotify.com/album/4m7YV1cz8QGOegGkHZVGr3"
+      },
+      "artists": [
+        {
+          "name": "Decibel Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253071,
+      "name": "Te amo y te amar\u00e9",
+      "url": "https://open.spotify.com/track/6jDO7AeD5w2YlRqrH0ONVy"
+    },
+    {
+      "album": {
         "name": "Te Dar\u00e9",
         "url": "https://open.spotify.com/album/3xsdglb6MZVFSOWqqTDetC"
       },
@@ -10242,6 +10470,24 @@
       "duration_ms": 239377,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
+    },
+    {
+      "album": {
+        "name": "Te Podr\u00e9 Perdonar",
+        "url": "https://open.spotify.com/album/4CXmqI1RkZHjkIvR6c4Fcb"
+      },
+      "artists": [
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178947,
+      "name": "Te Podr\u00e9 Perdonar",
+      "url": "https://open.spotify.com/track/59jjHWGXBD4edb9Q2uDjnw"
     },
     {
       "album": {
@@ -10710,6 +10956,24 @@
       "duration_ms": 143293,
       "name": "Tu Reemplazo",
       "url": "https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7"
+    },
+    {
+      "album": {
+        "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
+        "url": "https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243776,
+      "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
+      "url": "https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa"
     },
     {
       "album": {
@@ -12028,6 +12292,24 @@
       "duration_ms": 191000,
       "name": "\u00c1ndale Pues Terco",
       "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel de mi Vida",
+        "url": "https://open.spotify.com/album/7nD4mjWVqbI1W0czbMVJ3t"
+      },
+      "artists": [
+        {
+          "name": "El Bandolero \u201cMe\u00f1o Sanchez\u201d",
+          "url": "https://open.spotify.com/artist/1XMtJ87SixVfw7rWRBaxEi"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148744,
+      "name": "\u00c1ngel de mi Vida",
+      "url": "https://open.spotify.com/track/5FCdhVRTf8bhmvlyc7pBzo"
     },
     {
       "album": {

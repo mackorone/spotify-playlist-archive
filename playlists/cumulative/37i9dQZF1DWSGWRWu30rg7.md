@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: RACH?
 
-5,345 songs - 13 day 15 hr 16 min
+5,345 songs - 13 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1850,6 +1850,7 @@
 | [highway drive](https://open.spotify.com/track/2JHEUDK149H3F26oLpyJEW) | [Aren Nadya](https://open.spotify.com/artist/5fH7JPyVUjYzsMF2Ix735i), [Saving Reggie](https://open.spotify.com/artist/09ODWjDX8FRZOevU281jLz) | [highway drive](https://open.spotify.com/album/2qJLNeacdRp7ukUcJIXrWI) | 4:10 | 2022-10-13 | 2022-11-12 |
 | [Hilang](https://open.spotify.com/track/0rNHZsdF2brOWLmxIjdnZv) | [2 Steps North](https://open.spotify.com/artist/5G7NSCJGYmn4ebxqbZ8ucF) | [Hilang](https://open.spotify.com/album/7jkvrwkZAjnfAraM5YrZuJ) | 4:32 | 2023-04-06 | 2023-04-28 |
 | [Hilang](https://open.spotify.com/track/1xDJQ2KpGEFJv1Nvjmspt8) | [Bee On Vacation](https://open.spotify.com/artist/6c0bkIguPLuGcQvaLmeeE2) | [Hilang](https://open.spotify.com/album/08nz57SZjxB5d3NE2FLnZ4) | 3:40 | 2022-01-13 | 2022-01-28 |
+| [Hilang](https://open.spotify.com/track/7deUlPAoIVX56v0T07Ml9w) | [Espresso Band](https://open.spotify.com/artist/1GdohCTzFtgLZyiwhrcuVY) | [Titik Temu](https://open.spotify.com/album/1s0FYtOkPQo9n1VwBiVqMH) | 3:06 | 2025-12-11 |  |
 | [Hilang](https://open.spotify.com/track/2UZiRHCWLBKsVwh6GWQMcv) | [Nurra](https://open.spotify.com/artist/66WetWav6c12U2Jd0Lp7lQ), [Sisasose](https://open.spotify.com/artist/6tRnDKPG1hqZOYDHTrcE4k) | [Hilang](https://open.spotify.com/album/53ymyJqJ9GXwOrigqe8ng4) | 3:38 | 2022-01-27 | 2022-02-11 |
 | [Hilang](https://open.spotify.com/track/1DWOLBHEMAFweYninH7oxv) | [Sara Wijayanto](https://open.spotify.com/artist/3vA1ACXdnBzxCYAKH5RL9D) | [Hilang](https://open.spotify.com/album/3RH2LOhupGZpAdBdSzVA7O) | 4:20 | 2024-05-31 | 2024-06-21 |
 | [Hilang Akal Sehatku](https://open.spotify.com/track/2GvPef2BR70aeIy8nRn13i) | [Irfan Darwis](https://open.spotify.com/artist/2N1GpLG6U6An3tyYt0noUp) | [Hilang Akal Sehatku](https://open.spotify.com/album/7m9AUL9FYyBe8BmRQPNyP1) | 4:17 | 2024-10-25 | 2024-11-22 |
@@ -4476,7 +4477,7 @@
 | [Story Of A Child](https://open.spotify.com/track/11tGSluANZLdyVgMxgOewe) | [Black Dig](https://open.spotify.com/artist/53vwlrvuglFK673jgpb7Xu) | [Story Of A Child](https://open.spotify.com/album/3EOwoxUWrERkOSBzwQIYMF) | 3:19 | 2024-10-31 | 2024-11-30 |
 | [Straight To The Point](https://open.spotify.com/track/2gmdbteeezYFVWPsL4Icu3) | [Soulfood](https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo) | [Straight To The Point](https://open.spotify.com/album/2ot2HWGN97UEVu7JROSImr) | 3:50 | 2023-06-15 | 2023-06-30 |
 | [STRANGER](https://open.spotify.com/track/3RZWanTuiT7LaHSft9wCnv) | [Goodbye Temujin](https://open.spotify.com/artist/0VfHp4ZUF7TQ1wMu7Cbv1c) | [STRANGER](https://open.spotify.com/album/4Z31jKAe4hCWqfp3PXZPPV) | 2:44 | 2023-07-14 | 2023-07-28 |
-| [Stranger Now](https://open.spotify.com/track/2Ejp3fdCfZfQ4FzfdKuR8T) | [Tre Moon](https://open.spotify.com/artist/0dXknTowp4CLbOSKPiPP3Q) | [AFTERMATH](https://open.spotify.com/album/5OlfWsTHoWvRwjpXhM5uKC) | 3:44 | 2025-12-11 |  |
+| [Stranger Now](https://open.spotify.com/track/2Ejp3fdCfZfQ4FzfdKuR8T) | [Tre Moon](https://open.spotify.com/artist/0dXknTowp4CLbOSKPiPP3Q) | [AFTERMATH](https://open.spotify.com/album/5OlfWsTHoWvRwjpXhM5uKC) | 3:44 | 2025-12-11 | 2025-12-13 |
 | [Stranger September](https://open.spotify.com/track/581n5xriR8L7Ttnm9EYsiJ) | [Pink Pitch](https://open.spotify.com/artist/5ZyIDc0ubRG7UclhGUHVBZ) | [Stranger September](https://open.spotify.com/album/1nvtpEX0bxgSWVH89m4RCB) | 4:36 | 2023-01-26 | 2023-02-04 |
 | [Stranger Things](https://open.spotify.com/track/3eZ54bY0UJA6d6qz7lOm9g) | [The Dusty Rusty](https://open.spotify.com/artist/2Hke4mLmu1lyfxEj2jbpRm) | [Stranger Things](https://open.spotify.com/album/0mJ1zFZ6dLNwJDp45zqEYg) | 3:05 | 2024-07-25 | 2024-08-30 |
 | [STRANGERS](https://open.spotify.com/track/34sMyft7UptEJwgurOgr8A) | [Calinn](https://open.spotify.com/artist/6SbqLtBLg1JMLhQWDt5r4E) | [STRANGERS](https://open.spotify.com/album/76B9YcwjKQojNkI6P1oakh) | 4:26 | 2023-11-30 | 2023-12-30 |
@@ -4973,7 +4974,6 @@
 | [Toxic](https://open.spotify.com/track/6hXQPLy4x8WJx11HYGlKnU) | [White Rose](https://open.spotify.com/artist/56BTRYh6vDMJvOwRsv2PgO) | [Toxic](https://open.spotify.com/album/052qUrVJdU9r9TGDMWRARS) | 3:52 | 2022-02-24 | 2022-03-11 |
 | [Toxic Love](https://open.spotify.com/track/4kraaJHPuS2JHBDgBuBfwn) | [Akleis](https://open.spotify.com/artist/664jaex51iJSnxKfCl9xfk) | [Toxic Love](https://open.spotify.com/album/2kybKj0n9TbeTYxsfKApsm) | 2:53 | 2022-03-31 | 2022-04-15 |
 | [TOXIC PEOPLE](https://open.spotify.com/track/3Sp7c7bufYhcFJjn4yp41b) | [Conrad Good Vibration](https://open.spotify.com/artist/6sRjMD2lBr3DjR8EO0ApdT) | [TOXIC PEOPLE](https://open.spotify.com/album/4T7gU095BqJL8AcKLr2rj7) | 3:31 | 2024-02-22 | 2024-03-22 |
-| [Track 1](https://open.spotify.com/track/7deUlPAoIVX56v0T07Ml9w) | [Espresso Band](https://open.spotify.com/artist/1GdohCTzFtgLZyiwhrcuVY) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-11 |  |
 | [Tragis](https://open.spotify.com/track/0HPJ7mjH2FGMHVJ5JVxbOC) | [Why Bunny Why](https://open.spotify.com/artist/3xVNg8IU7C9L3v8tSncmcZ) | [Tragis](https://open.spotify.com/album/6zqzlOQwj0CYAi8vcI3NzH) | 3:54 | 2022-02-03 | 2022-02-18 |
 | [Train Ride Home](https://open.spotify.com/track/4KzFWYSUwLYtqBP0wfECID) | [aya](https://open.spotify.com/artist/4CRwvKZuSEGCjntogXqo1N) | [Train Ride Home](https://open.spotify.com/album/51mLBZhsNZY04UPcZSgHj5) | 3:39 | 2025-04-17 | 2025-05-16 |
 | [Transition](https://open.spotify.com/track/6O0tL7WGgdOPPdSm5WGwv6) | [Lucy Enigma](https://open.spotify.com/artist/42kJKRsT6JWfzZ0tMHaANH) | [Transition](https://open.spotify.com/album/7m9xUj12K4d5yPf0I8v2aR) | 3:33 | 2022-09-15 | 2022-09-30 |

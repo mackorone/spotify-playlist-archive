@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-330 songs - 12 hr 44 min
+331 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [all i want for christmas is lofi](https://open.spotify.com/track/7rNTCi9j9WIc1kxQSor5Ak) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [all i want for christmas is lofi](https://open.spotify.com/album/1wG31235BfrJ6nbjRmArhT) | 3:02 | 2022-12-25 | 2023-10-20 |
 | [all i want for christmas is you](https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD) | [slace n' cal](https://open.spotify.com/artist/5oa9uIjqOngcHDuOFdWwzv) | [all i want for christmas is you](https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq) | 2:32 | 2022-11-11 |  |
 | [All I Wish for Christmas](https://open.spotify.com/track/0W4x1eYx7HYsWAfZ4vzkSd) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/0X7oGr11TaApOmfPjHGdb9) | 2:02 | 2021-12-20 | 2024-04-19 |
-| [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 | 2021-12-20 |  |
+| [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 | 2021-12-20 | 2025-12-13 |
 | [All the Jingle Ladies](https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Jobii Christmas](https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS) | 2:33 | 2021-12-20 | 2025-09-05 |
 | [All Want For Christmas is Lofi Hip Hop](https://open.spotify.com/track/2tqNQxgNXPa3TqQl46LQCk) | [Christmas Rap Beats](https://open.spotify.com/artist/2ernZA4LlpNCyAuddaXdOa) | [Lofi Xmas Instrumentals](https://open.spotify.com/album/7pm7weCBfcpSrTO4yXzGje) | 1:43 | 2021-12-20 | 2022-11-12 |
 | [Angels From the Realms of Glory](https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Angels From the Realms of Glory](https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu) | 2:13 | 2024-12-06 |  |
@@ -277,6 +277,7 @@
 | [Snow City](https://open.spotify.com/track/269xrav6hQlQ3YS7ZqokHa) | [Toni Palermo](https://open.spotify.com/artist/38vR4Z1kT7jqSEoDQ1Roxh) | [Snow City](https://open.spotify.com/album/6ruWROcRNTaTlOxdBy0Dm5) | 1:51 | 2022-12-16 |  |
 | [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 | 2024-12-10 |  |
 | [Snow Snow Snow](https://open.spotify.com/track/3NiLkCJRuRYaBc1W17h2NY) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [Snow Snow Snow](https://open.spotify.com/album/3enFn4zZ26VzPwjzLgrUq3) | 2:11 | 2025-11-21 |  |
+| [Snowball Fight](https://open.spotify.com/track/1fz02EH767yuqBTOuRAOmj) | [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Snowball Fight](https://open.spotify.com/album/0THArJ0sMHLyXdu9w5f2sO) | 2:01 | 2025-12-12 |  |
 | [Snowfall](https://open.spotify.com/track/1GK8IGST7h1RoDYl2x8981) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/3IhmoT6nYsFYBpixYe72VZ) | 2:56 | 2021-12-20 | 2025-10-04 |
 | [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 | 2021-12-20 | 2022-08-04 |
 | [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 | 2021-12-20 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 8 min
+83 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 | 2024-08-08 |  |
 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/4KZuz2dF3U0oKugVuFUjWm) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Chill Navidad Vol\. 1](https://open.spotify.com/album/621ROPn0yiFE7qTqg4KFaT) | 2:26 | 2025-11-30 |  |
 | [SATIRO](https://open.spotify.com/track/00e7R21236OX75ACaT8HH0) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:13 | 2024-08-08 |  |
-| [Sin Mi Sufre](https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:38 | 2024-08-08 |  |
+| [Sin Mi Sufre](https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:38 | 2024-08-08 | 2025-12-13 |
 | [Solita Bailando](https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:56 | 2024-08-08 | 2025-08-24 |
 | [Soy Aquel](https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:47 | 2024-08-08 | 2025-09-24 |
 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 | 2024-08-08 |  |
@@ -89,6 +89,7 @@
 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 | 2024-08-08 | 2025-02-02 |
 | [Viene Diciembre](https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Viene Diciembre](https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha) | 3:06 | 2024-08-08 | 2025-08-17 |
 | [Voy por Ti](https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 2:25 | 2024-08-08 | 2025-02-12 |
+| [Vuelve](https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Vuelve](https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp) | 2:45 | 2025-12-13 |  |
 | [Yaki](https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:20 | 2024-08-08 | 2024-12-22 |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

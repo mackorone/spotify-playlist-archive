@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,525 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,536 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 28 | [Show My Side \(feat\. Amaarae\)](https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:02 |
 | 29 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 |
 | 30 | [Good Boy \(feat\. BOJ and Ckay\)](https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [BOJ](https://open.spotify.com/artist/4FIbqFLuP3OJZ2ngKFKbJq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Bad Boy Blaq Re\-Up](https://open.spotify.com/album/5V1wP5lWuEmHqNn6Sj5m2V) | 4:11 |
-| 31 | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp) | 3:45 |
-| 32 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 |
+| 31 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 |
+| 32 | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp) | 3:45 |
 | 33 | [EGWU EJI](https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:52 |
 | 34 | [beeni \(feat\. Barry Jhay\)](https://open.spotify.com/track/17JuQJJwiZz8xLExCOf59u) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:19 |
 | 35 | [capture my soul \(feat\. Joeboy\)](https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [kalakuta](https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:39 |
 | 50 | [FANTASY](https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:42 |
 
-Snapshot ID: `aTi4AAAAAADPlfop05chK/4a/45EfJ9i`
+Snapshot ID: `aToJgAAAAADnrH2nsLqP+B8Y//7LPCcc`

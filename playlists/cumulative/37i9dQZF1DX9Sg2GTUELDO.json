@@ -8777,6 +8777,24 @@
     },
     {
       "album": {
+        "name": "\u6d41\u884c\u75c5",
+        "url": "https://open.spotify.com/album/0elyzljgfEoOwbkqG3ZBAD"
+      },
+      "artists": [
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287607,
+      "name": "\u6d41\u884c\u75c5",
+      "url": "https://open.spotify.com/track/2P4U0gut6AWKKdq8SF5iTO"
+    },
+    {
+      "album": {
         "name": "\u6d77",
         "url": "https://open.spotify.com/album/7DkNxJtoAJKr8C1gzhZ3vU"
       },

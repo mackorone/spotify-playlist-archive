@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 43 min
+97 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2024-12-14 |  |
 | [Hello/Hello](https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hello/Hello](https://open.spotify.com/album/7kHYrY6mzroR0kQ7bktint) | 4:05 | 2024-04-13 |  |
 | [Lost](https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:05 | 2023-12-26 |  |
+| [midnight](https://open.spotify.com/track/2I4wbn6mSyyXJOXMlNB12n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 3:18 | 2025-12-13 |  |
 | [MoonWalker](https://open.spotify.com/track/6pjEIAEvpZ9nl6Hjuyv3Mv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:34 | 2023-12-26 |  |
 | [MoonWalker \-the meaning of life TOUR 2022 Live at Zepp DiverCity\-](https://open.spotify.com/track/4gA7UFHiZXdM7J8puV75NR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life TOUR 2022 Live at Zepp DiverCity](https://open.spotify.com/album/6ocPyc0EaM7FvPnWxm192L) | 3:27 | 2023-12-26 | 2024-01-28 |
 | [MUSE](https://open.spotify.com/track/3MnTSni3zVhxOedGGDiJkk) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 2:42 | 2025-03-09 | 2025-07-11 |
@@ -40,7 +41,7 @@
 | [us](https://open.spotify.com/track/3dOIgsfzZWsLcCTON0ebLt) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [us](https://open.spotify.com/album/2K4hFMFLmMUeLujQAZnNPx) | 3:28 | 2025-07-11 |  |
 | [あるいは映画のような](https://open.spotify.com/track/76XAwMxmnJexw1NJXOyjsg) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [あるいは映画のような](https://open.spotify.com/album/5w0yCWXWP4nT7AwvHltBE9) | 4:01 | 2023-12-26 | 2025-08-23 |
 | [あるいは映画のような（lazydoll Remix）](https://open.spotify.com/track/1hIdQ8TakcSMV1DuYYgpBX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [lazydoll](https://open.spotify.com/artist/7D7a6cnpitkgKgz4bJDYy6) | [doku](https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P) | 3:36 | 2025-08-26 | 2025-10-10 |
-| [いぶき](https://open.spotify.com/track/6Bt9IlFTlLrEn8ZoDGQ60p) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いぶき](https://open.spotify.com/album/0wf3C30gLk0n3gaMo4CAiW) | 3:17 | 2023-12-26 |  |
+| [いぶき](https://open.spotify.com/track/6Bt9IlFTlLrEn8ZoDGQ60p) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いぶき](https://open.spotify.com/album/0wf3C30gLk0n3gaMo4CAiW) | 3:17 | 2023-12-26 | 2025-12-13 |
 | [くびったけ](https://open.spotify.com/track/4N68vlWbWHDe8DeNgJaWtO) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:54 | 2023-12-26 |  |
 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 | 2024-03-01 |  |
 | [ないの。](https://open.spotify.com/track/3Q54nMCZWAZnw0sxff9oVh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:00 | 2023-12-26 | 2025-08-26 |

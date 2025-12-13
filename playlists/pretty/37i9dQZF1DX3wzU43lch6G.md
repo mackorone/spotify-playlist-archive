@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,669 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,664 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 8 | [Cesaretsizce Olmuyor](https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Yineleme](https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3) | 3:12 |
 | 9 | [Sevmek Yüzünden](https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL) | 3:39 |
 | 10 | [Gül Döktüm Yollarına](https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Aacayipsin](https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e) | 4:09 |
-| 11 | [Tavla](https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:31 |
-| 12 | [Her Yerde Sen](https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Her Yerde Sen](https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0) | 3:39 |
+| 11 | [Her Yerde Sen](https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Her Yerde Sen](https://open.spotify.com/album/2Ml6sEJFjQybCQ8Y4c3Gq0) | 3:39 |
+| 12 | [Tavla](https://open.spotify.com/track/4aszqTKbVDgtoTq2coBT2t) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:31 |
 | 13 | [Unuttum Derdimi](https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Unuttum Derdimi](https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s) | 3:49 |
 | 14 | [Güneşe Dokundum](https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [Tepeler](https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z) | 2:53 |
 | 15 | [Gel Benimle](https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 4:23 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 33 | [Bi' Fazla](https://open.spotify.com/track/5CEDFlX2WDEwZNHv588tJc) | [Elçin Orçun](https://open.spotify.com/artist/1e6JMnBTnlsmLfUIshPefJ), [Birkan Nasuhoğlu](https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d) | [Bi' Fazla](https://open.spotify.com/album/5ZytuhJ7mB6QwiUUQVbOFv) | 3:23 |
 | 34 | [Güneşin Kızkardeşi](https://open.spotify.com/track/65Nr8C2BnozPaFH02SP38v) | [Gökçe Kılınçer](https://open.spotify.com/artist/1XDrTgMm3OOlIPOfyxm4xM) | [Kalbimde İzi Var](https://open.spotify.com/album/2hWypQdjsGKsyER7NlmIZj) | 4:37 |
 | 35 | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Uzun Uzun \(feat\. Jabbar\)](https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG) | 3:36 |
-| 36 | [AL SENİN OLSUN DÜNYA](https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 3:15 |
-| 37 | [Esirinim](https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Esirinim](https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs) | 3:18 |
-| 38 | [Bodrum](https://open.spotify.com/track/33xcUviev85baFUelQYX9y) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [Ele Güne Karşı Yapayalnız](https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4) | 3:57 |
-| 39 | [BOŞLUK](https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX) | [Büyük Ev Ablukada](https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi) | [FIRTINAYT](https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS) | 3:00 |
+| 36 | [Esirinim](https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Esirinim](https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs) | 3:18 |
+| 37 | [AL SENİN OLSUN DÜNYA](https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Al Senin Olsun Dünya](https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ) | 3:15 |
+| 38 | [BOŞLUK](https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX) | [Büyük Ev Ablukada](https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi) | [FIRTINAYT](https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS) | 3:00 |
+| 39 | [Bodrum](https://open.spotify.com/track/33xcUviev85baFUelQYX9y) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [Ele Güne Karşı Yapayalnız](https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4) | 3:57 |
 | 40 | [Sana Ne Dedi Zaman](https://open.spotify.com/track/54f1QKc16vMi3enzmChcIy) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW) | [Sana Ne Dedi Zaman](https://open.spotify.com/album/1Y0DAdqgQt6XDjKyXQVuFO) | 3:29 |
 | 41 | [Leyla & Mecnun](https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg), [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Leyla & Mecnun](https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc) | 3:02 |
 | 42 | [Gördüm Günümü](https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:19 |

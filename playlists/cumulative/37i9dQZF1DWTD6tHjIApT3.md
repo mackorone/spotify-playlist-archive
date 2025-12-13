@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: milet
 
-3,523 songs - 9 day 8 hr 48 min
+3,524 songs - 9 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [2gether 4ever](https://open.spotify.com/track/5t8oTln1Hm5wX4J5sumiQH) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [2gether 4ever](https://open.spotify.com/album/5ipfEYTI2lQB5a8ztTtsFx) | 3:23 | 2023-02-28 | 2023-03-15 |
 | [2月14日](https://open.spotify.com/track/1otlOyTLkvFYwDPpqCRDVl) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5), [Takaya Kawasaki](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [2月14日](https://open.spotify.com/album/2dW4i7VCGkfrBbv4YL7Fnu) | 3:30 | 2023-01-17 | 2023-01-25 |
 | [3%](https://open.spotify.com/track/1pk8geYcPBvNhipvGfmmA9) | [CHIHIRO](https://open.spotify.com/artist/5nMCGLKsgDb52TThCPJQ6z) | [3%](https://open.spotify.com/album/0juLYFkCfJzGNGBcZ3pq4s) | 4:09 | 2022-09-20 | 2022-10-26 |
-| [3%と私。](https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [3%と私。](https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi) | 4:50 | 2025-09-30 |  |
+| [3%と私。](https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [3%と私。](https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi) | 4:50 | 2025-09-30 | 2025-12-13 |
 | [30](https://open.spotify.com/track/60Odtl2B3QY0hVqI9SB85V) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [magora](https://open.spotify.com/artist/0AHQL12KXrcq9IzIBl0Wo2) | [30](https://open.spotify.com/album/01fbYXoUvmwUHETOp0ro1P) | 4:06 | 2025-04-15 | 2025-04-23 |
 | [30minutes](https://open.spotify.com/track/0h5M1WuZUs7BDAmSWgzzlY) | [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [30minutes](https://open.spotify.com/album/49UapnkmqyULff9EydUll5) | 3:32 | 2022-08-09 | 2022-08-17 |
 | [33歳のエンディングノート](https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Little Woman](https://open.spotify.com/album/4MOwIbt4OSBrLRGw4Bmhu6) | 4:17 | 2022-05-29 | 2022-07-25 |
@@ -1809,6 +1809,7 @@
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-01-25 |
 | [Tiny Mirror](https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [まにまに](https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE) | 3:18 | 2025-10-14 | 2025-10-22 |
 | [Tipsy](https://open.spotify.com/track/1HenxbVWHGMvIGuJof2mDv) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Tipsy](https://open.spotify.com/album/2r6SaFd7UWBJbXMHErocfF) | 3:50 | 2024-07-30 | 2024-08-07 |
+| [To Be Alive](https://open.spotify.com/track/0KgZSae308sPk5yh39jm8c) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [To Be Alive](https://open.spotify.com/album/0vr01ZdWCT3LwFzvsu5Azk) | 4:06 | 2025-12-09 |  |
 | [To The Moon](https://open.spotify.com/track/0JIM5u2dfsQX9sCq5o29T1) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Funtale](https://open.spotify.com/album/7Bm9pJkJp4uiNGBjgRsshB) | 3:57 | 2023-06-06 | 2023-06-21 |
 | [toi et moi](https://open.spotify.com/track/24Hi2CcDwU5u8ft1tdaybX) | [Misato Ono](https://open.spotify.com/artist/6ksgv4sgEwgX9IjBuWR4AZ), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [something invisible](https://open.spotify.com/album/5wl4BNy1DLACFO0aE4S4oq) | 3:36 | 2022-06-16 | 2022-06-22 |
 | [Toki no Michishirube](https://open.spotify.com/track/5o1IJmSumDW2R2D1QwvXrr) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [Toki no Michishirube](https://open.spotify.com/album/1f6KCQhXEwOagzHTAEY9lH) | 5:36 | 2023-12-12 | 2023-12-20 |

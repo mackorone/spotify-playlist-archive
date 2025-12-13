@@ -4152,7 +4152,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
@@ -13696,7 +13696,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 141600,
       "name": "Everything Is Romantic",
       "url": "https://open.spotify.com/track/7250RSp7sakMDZoeXuywlx"
@@ -16824,7 +16824,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 113230,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
@@ -25666,10 +25666,28 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
+    },
+    {
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273010,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
     },
     {
       "album": {
@@ -34394,7 +34412,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB"
@@ -41996,7 +42014,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -43805,6 +43823,32 @@
     },
     {
       "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162717,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
+    },
+    {
+      "album": {
         "name": "Discolized",
         "url": "https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f"
       },
@@ -45072,7 +45116,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 140875,
       "name": "Venez, venez Saint Nicolas",
       "url": "https://open.spotify.com/track/6NaQJtlpC9u2wd7sx75KI1"
@@ -47356,7 +47400,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 130666,
       "name": "Who?!",
       "url": "https://open.spotify.com/track/4stf08s4Ij0SnoenGB2wAt"

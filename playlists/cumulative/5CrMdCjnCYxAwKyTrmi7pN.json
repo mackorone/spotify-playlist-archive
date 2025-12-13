@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 187215,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 170766,
       "name": "First Original Thought",
       "url": "https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy"
@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
+    },
+    {
+      "album": {
         "name": "Relationships",
         "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
       },
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 204053,
       "name": "This Isn\u2019t Really Love",
       "url": "https://open.spotify.com/track/4Sz0Goi1fCmR2EKekNNNWu"

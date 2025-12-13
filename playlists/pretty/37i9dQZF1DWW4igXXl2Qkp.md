@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best hip\-hop songs from new, independent artists in 2025, as chosen by our editors\.  Cover: <a href="spotify:artist:31xNxPD0tnYKr7Krg8dyPB">BunnaB</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,976 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,007 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Pookie Lean](https://open.spotify.com/track/2kIU0TblZjK5HtCaqjxD6d) | [42kbrook/Pookielean](https://open.spotify.com/artist/55nDUxayNpbLPLiQB1d0vO) | [Pookie Lean](https://open.spotify.com/album/3T9lKq6yYz5FH8HqBiPVzb) | 4:29 |
 | 100 | [dirty](https://open.spotify.com/track/74qt5cbf6SnVINBSK7TqLT) | [KOAD](https://open.spotify.com/artist/5QQtovQzgOb1s1UQDnQfN0) | [dirty](https://open.spotify.com/album/6eYXFXr3Zp0Kx1d2fkBKsv) | 1:51 |
 
-Snapshot ID: `AAAAAIjFpchLe/zFwLZHVfUiDpvJlaWo`
+Snapshot ID: `AAAAABeVIBeqzWYbUz/yaH0XsStPE7Df`

@@ -4,7 +4,7 @@
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-61 songs - 3 hr 29 min
+62 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/6Ad94Tru5ElPq7ElBJyDb3) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [The Pavao Quartet](https://open.spotify.com/artist/0IDCYTiXoyA9Qh5fpiWTGT) | [Christmas Hits](https://open.spotify.com/album/1LHFGp5q7na0R9kaFTWAhD) | 3:12 | 2023-12-15 |  |
 | [Sleigh Ride](https://open.spotify.com/track/6XzVBeIbc7hjXU4XoDhjgC) | [Mitchell Parish](https://open.spotify.com/artist/46d292pKNk3zreGHQf9H30), [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX), [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [The Pavao Quartet](https://open.spotify.com/artist/0IDCYTiXoyA9Qh5fpiWTGT) | [Music for Christmas Day](https://open.spotify.com/album/2J6wkw78U2hLAgcZGJU30w) | 3:12 | 2023-12-15 | 2024-04-19 |
 | [Still, Still, Still](https://open.spotify.com/track/1gE8cIAV38iOXCfr0xi4kA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [English Session Orchestra](https://open.spotify.com/artist/1MGuD9PeS6Pk2dqogvUWGb) | [The Christmas Album](https://open.spotify.com/album/2Z9hhgfRH3odCijDUnxina) | 3:04 | 2023-12-08 |  |
+| [The Blessing \- Fireside Version](https://open.spotify.com/track/7hwCpWhSKK6jwGdigoETuq) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Fireside Version\)](https://open.spotify.com/album/1QNPm4HAqTEtRpDbLN2ogp) | 5:20 | 2025-12-12 |  |
 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/0bWyr78SOM4QjmSkdNrffD) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Together At Christmas](https://open.spotify.com/album/1iVkt1eJVa6QnMVvVgn6al) | 2:32 | 2023-12-08 |  |
 | [The Greatest Gift](https://open.spotify.com/track/3odk8LP7YTi7SfhsnqMZns) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [The Greatest Gift](https://open.spotify.com/album/0TvtvNcqu7717IQrq2cmfX) | 4:01 | 2023-12-08 |  |
 | [The Holly And The Ivy](https://open.spotify.com/track/0l0Q4MhZ9urILJqYCBiW0N) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Martin Neary](https://open.spotify.com/artist/3jmWcWAykr5IzE2K2jaZwk) | [The Carols Album](https://open.spotify.com/album/2VGiXYpSonQmsOBNLPC6Kr) | 3:31 | 2023-12-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Ratboys",
+  "description": "Explore all things indie rock right now. Featuring music from Geese",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -8650,7 +8650,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 202596,
       "name": "Dang",
       "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
@@ -10170,7 +10170,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 228243,
       "name": "Doubletake",
       "url": "https://open.spotify.com/track/2JWH9ySQqI9nlebrYKFsiI"
@@ -12065,6 +12065,24 @@
     },
     {
       "album": {
+        "name": "Feed Me To The Wolves",
+        "url": "https://open.spotify.com/album/6m4rHFeRowKPikRts4bbUt"
+      },
+      "artists": [
+        {
+          "name": "Arts Fishing Club",
+          "url": "https://open.spotify.com/artist/6DUKY45lfzxJLOfU0v9C0j"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219451,
+      "name": "Feed Me To The Wolves",
+      "url": "https://open.spotify.com/track/5akxkqaENlODd0KtnFvcRA"
+    },
+    {
+      "album": {
         "name": "Feel a Change Coming",
         "url": "https://open.spotify.com/album/1I7bzhXcBjUCzoqnlDprB5"
       },
@@ -13312,7 +13330,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 269691,
       "name": "Fuggit",
       "url": "https://open.spotify.com/track/1LtEt78G9OUECa7uYw8D0x"
@@ -15460,7 +15478,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 180973,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v"
@@ -22114,7 +22132,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 218335,
       "name": "Misery",
       "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
@@ -28645,6 +28663,24 @@
     },
     {
       "album": {
+        "name": "Holo Boy",
+        "url": "https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100913,
+      "name": "SF & GG",
+      "url": "https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ"
+    },
+    {
+      "album": {
         "name": "Sha La La",
         "url": "https://open.spotify.com/album/7qnn1EJOqFZRGcKVHlHSBr"
       },
@@ -29254,7 +29290,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 178574,
       "name": "simply obsessed",
       "url": "https://open.spotify.com/track/1HMgMam4jMOEchMY1BGtA4"
@@ -32282,7 +32318,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 197661,
       "name": "Taxes",
       "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
@@ -32426,7 +32462,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 296724,
       "name": "Teenage Messiah",
       "url": "https://open.spotify.com/track/5BqaUUlhK73bzyN3edyvVA"
@@ -34040,7 +34076,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 144853,
       "name": "title track",
       "url": "https://open.spotify.com/track/44le4BrKMnInp31FcssDKq"
@@ -34682,10 +34718,28 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 224824,
       "name": "Trinidad",
       "url": "https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI"
+    },
+    {
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224824,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K"
     },
     {
       "album": {
@@ -36458,7 +36512,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 192103,
       "name": "What Do You Do To Me?",
       "url": "https://open.spotify.com/track/3vyojADgomymRVQHcmZlmY"

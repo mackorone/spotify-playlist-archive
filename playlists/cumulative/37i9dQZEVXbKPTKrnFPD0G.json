@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 168400,
       "name": "Bajo De La Piel",
       "url": "https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 203973,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st"
@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 156197,
       "name": "Irresponsables",
       "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
@@ -5026,7 +5026,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 149976,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/1CSdu8EHZzV0DjYB6RNXbX"
@@ -5520,7 +5520,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 215372,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/1Zh6HllrXT0Khrwk2j3TrZ"
@@ -7362,7 +7362,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 140760,
       "name": "Sexo, Violencia y Llantas",
       "url": "https://open.spotify.com/track/1dp0MRcrgCxEESP1LrF2yA"
@@ -7799,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "Soy Favela",
+        "url": "https://open.spotify.com/album/1S3ANUh7napknhM3pqConG"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Soy Favela",
+      "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
+    },
+    {
+      "album": {
         "name": "SUAVEMENTE",
         "url": "https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT"
       },
@@ -7818,6 +7836,24 @@
       "duration_ms": 142000,
       "name": "SUAVEMENTE",
       "url": "https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N"
+    },
+    {
+      "album": {
+        "name": "Suena en la Previa, Vol. 2",
+        "url": "https://open.spotify.com/album/79eu6rhT9vJhTbPE0VERmD"
+      },
+      "artists": [
+        {
+          "name": "Cumbia rocha",
+          "url": "https://open.spotify.com/artist/5Szju6DGR9hcbFOJeXCN0x"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252071,
+      "name": "Suena en la Previa, Vol. 2",
+      "url": "https://open.spotify.com/track/0LswOwsXAfPYLGVwqRlNyW"
     },
     {
       "album": {
@@ -9034,7 +9070,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"

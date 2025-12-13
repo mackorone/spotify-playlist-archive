@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 ### [Hip\-Hop & R&B for Kids](https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd)
 
-> Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
+> Push play on the coolest playlist around, and get ready to jump around\. Cover: Mega Ran
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,522 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,538 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let's Go Outside!](https://open.spotify.com/track/60OVUOnq7n370eLiDY3agd) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Let's Go Outside!](https://open.spotify.com/album/0bwGW9K4v1Cj2u0FKDt2aX) | 2:32 |
+| 1 | [Twinkle Twinkle Little Star \(R&B Mix\)](https://open.spotify.com/track/7N08aWRnOachynM7GX6nJj) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Twinkle Twinkle Little Star \(R&B Mix\)](https://open.spotify.com/album/5Q3Iil7zkkHuleuTAi5G18) | 2:40 |
 | 2 | [SHADOWS](https://open.spotify.com/track/0sqDgtFy2YOAoVgj4Kg42s) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1), [GameboyJones](https://open.spotify.com/artist/1FDAJKaPzIzRHJrl3Smitm) | [SHADOWS](https://open.spotify.com/album/2AWzBg2aG1OdcF6szNgwoe) | 2:32 |
 | 3 | [I Love Affirmations](https://open.spotify.com/track/0jqFg0hKxEyfiW1JzmhgDw) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Kind Be You](https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV) | 2:51 |
 | 4 | [Chasing Rainbows](https://open.spotify.com/track/2KO5OTMeX9iTzwLpBNI8Nm) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Chasing Rainbows](https://open.spotify.com/album/4dCcS4vZi4my5BVpcxkzec) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
 | 50 | [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 |
 
-Snapshot ID: `AAAAAGeY9iY08HftJA/nni0Yy1JZHhVo`
+Snapshot ID: `AAAAAIlOAEb5prd7w7e/SDXqCvBNHrEO`

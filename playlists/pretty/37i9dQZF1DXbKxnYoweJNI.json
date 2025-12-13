@@ -1,6 +1,6 @@
 {
   "description": "\u7121\u8ad6\u98a8\u683c\u6c23\u5473\uff0c\u7368\u7acb\u53ea\u554f\u97f3\u6a02\u81ea\u4e3b\uff0c\u5531\u4f5c\u8868\u73fe\u6e05\u6e05\u695a\u695a\uff01Cover: JOYCE \u5c31\u4ee5\u65af",
-  "num_followers": 63008,
+  "num_followers": 63013,
   "original_name": "\u7368\u7acb\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -11,8 +11,8 @@
     {
       "added_at": "2025-12-11 16:00:14",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "\u624d\u83ef\u63db\u6843\u82b1",
+        "url": "https://open.spotify.com/album/2zlOVnOj1NYHYqXVt5FlaD"
       },
       "artists": [
         {
@@ -788,13 +788,29 @@
       },
       "artists": [
         {
-          "name": "Young",
+          "name": "\u5efa\u5764YOUNG",
           "url": "https://open.spotify.com/artist/6LRxoz0ZQgZgpPH0UdEAO7"
         }
       ],
       "duration_ms": 146769,
       "name": "\u4eb2\u7231\u7684\u670b\u53cb",
       "url": "https://open.spotify.com/track/0JxV2uECccOavbNmgzC8nB"
+    },
+    {
+      "added_at": "2025-12-11 16:00:14",
+      "album": {
+        "name": "\u6bdb\u7dda\u7403",
+        "url": "https://open.spotify.com/album/29NK67MmPYl6WrVPj7guzP"
+      },
+      "artists": [
+        {
+          "name": "\u6728\u6728\u5b50",
+          "url": "https://open.spotify.com/artist/4hLziS7Moaq74kUGX7GHGt"
+        }
+      ],
+      "duration_ms": 226034,
+      "name": "\u6bdb\u7dda\u7403",
+      "url": "https://open.spotify.com/track/7Ld5sx1EKPFcRmrJ2reWk4"
     },
     {
       "added_at": "2025-12-11 16:00:14",
@@ -2280,8 +2296,8 @@
       },
       "artists": [
         {
-          "name": "8lak",
-          "url": "https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w"
+          "name": "8lak \u5f35\u921e",
+          "url": "https://open.spotify.com/artist/5XV6qqcjxpGfkWv72sOTMq"
         },
         {
           "name": "Ace",

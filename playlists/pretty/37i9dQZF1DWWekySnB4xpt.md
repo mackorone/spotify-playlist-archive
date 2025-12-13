@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: ELENA ROSE, Rawayana
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,206 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,273 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 7 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
 | 8 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 |
 | 9 | [Mi Casita](https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mi Casita](https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr) | 4:09 |
-| 10 | [Vitamina](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Vitamina](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 |
+| 10 | [Alma Llanera / Venezuela \- Live from Nobel Peace Prize 2025](https://open.spotify.com/track/2pvoBWRbXGXQrGgQF6swxn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Alma Llanera / Venezuela \(Live from Nobel Peace Prize 2025\)](https://open.spotify.com/album/1ZlHS1USF0HZtjBngdLwu1) | 3:58 |
 | 11 | [los 41](https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los 41](https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ) | 3:26 |
 | 12 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 |
 | 13 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 |
 | 14 | [Me Pasa \(Piscis\)](https://open.spotify.com/track/2vXg6TC7mpRe28inMM7JVk) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [ASTROPICAL](https://open.spotify.com/artist/4PLRnJfNKiel5v2GEZPItz) | [ASTROPICAL](https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8) | 3:21 |
-| 15 | [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 |
-| 16 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
-| 17 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
-| 18 | [Veneka](https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Veneka](https://open.spotify.com/album/2FHeDV8HFl5GQCiEXA7Ite) | 4:14 |
-| 19 | [Ponme En Tu Boca](https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Ponme En Tu Boca](https://open.spotify.com/album/6L21tGHxPx7Ms95U4BxBda) | 3:04 |
+| 15 | [Vitamina](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Vitamina](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 |
+| 16 | [LA ISLA](https://open.spotify.com/track/5TGRRjV16CXdNvitAsObIr) | [Victor Muñoz](https://open.spotify.com/artist/6KZqNo012bWnbPCSvBqKN2) | [LA ISLA](https://open.spotify.com/album/6VBJdfE8LKDBwCpRoTBT71) | 2:15 |
+| 17 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
+| 18 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
+| 19 | [Veneka](https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Veneka](https://open.spotify.com/album/2FHeDV8HFl5GQCiEXA7Ite) | 4:14 |
 | 20 | [capricho](https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:59 |
 | 21 | [Dame Un Break](https://open.spotify.com/track/64CxbY7HD7nOtmfoaiWYMT) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:20 |
 | 22 | [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 84 | [Caballo Viejo](https://open.spotify.com/track/6VGRiUGPup3c0tZTX2lWhv) | [Simón Díaz](https://open.spotify.com/artist/29GjVRVQSln078FWYOX4r4) | [Sus Grandes Exitos](https://open.spotify.com/album/4fXILOMBr57rYVoZ22Z1C4) | 2:59 |
 | 85 | [Manantial de Corazón](https://open.spotify.com/track/24ri1EFlBW3eYOuidgmBxu) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Tren de los Regresos \(Parada Especial\)](https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3) | 4:12 |
 
-Snapshot ID: `AAAAAMFqPcgD5XJIcWHiZ7d6rcZuPFyv`
+Snapshot ID: `AAAAAKiqp/UwzalhGlmQYGK/461xFDnH`

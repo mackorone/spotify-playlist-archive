@@ -4,7 +4,7 @@
 
 > New arrivals as they come\. Cover: M Huncho
 
-229 songs - 11 hr 2 min
+229 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [If Time Could Talk](https://open.spotify.com/track/0P2MOytHinqvtf91CqEjeZ) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [If Time Could Talk](https://open.spotify.com/album/35IcYYd0Rosc7hfoAcSGQC) | 3:17 | 2025-11-21 | 2025-12-12 |
 | [Immortal Life](https://open.spotify.com/track/2zB0nv4Xh29wGrvWSHitrh) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Nothing Without God](https://open.spotify.com/album/65clKbczk7FXoDZP4HUWOY) | 2:41 | 2025-11-07 | 2025-11-21 |
 | [IShowSpeed](https://open.spotify.com/track/2wbk6A10eL8RASqph8aFlV) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Personal](https://open.spotify.com/album/0I8cCNiamdciUOWyt4efpy) | 1:53 | 2025-10-23 | 2025-11-07 |
-| [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [](https://open.spotify.com/album/null) | 2:51 | 2025-12-12 |  |
+| [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:51 | 2025-12-12 |  |
 | [KAMNESIA](https://open.spotify.com/track/7B5X6FiC3wzImVhO1ht9Kr) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [KAMNESIA](https://open.spotify.com/album/5D1ZO32xR36zp9s6lj331G) | 2:04 | 2025-11-21 | 2025-12-05 |
 | [Kolomental](https://open.spotify.com/track/0S5i6O9lGZDSMheN8p17aE) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Wicked](https://open.spotify.com/album/5qiNP8sA873ePgXKzXuztO) | 2:48 | 2025-11-14 | 2025-11-21 |
 | [Ladybird](https://open.spotify.com/track/6RYa2mxf1AnAx03OHeroMy) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Ladybird](https://open.spotify.com/album/7DJDMQUmgusYIKoWEv2L4K) | 3:09 | 2025-11-28 | 2025-12-12 |
@@ -140,6 +140,7 @@
 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 | 2025-10-23 | 2025-11-07 |
 | [Nearsight \[SID\]](https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 4:18 | 2025-10-23 | 2025-10-31 |
 | [Need a Moment](https://open.spotify.com/track/0XlkTuDHqNSfKd2MnjQ4GE) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Need a Moment](https://open.spotify.com/album/0Rh1CSVMLEfnTOXEL4uPJu) | 3:29 | 2025-12-12 |  |
+| [New Creation](https://open.spotify.com/track/7m3ByccI7ylP805A07Gr0g) | [Deca OTA](https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb), [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [The Human Condition](https://open.spotify.com/album/78oaC4ZYNN6NCzJ0TSxNp2) | 2:25 | 2025-12-12 |  |
 | [New Trip \(feat\. Yeat & BNYX®\)](https://open.spotify.com/track/2lpLHJXgSGFU5GuIk8qzgs) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [New Trip \(feat\. Yeat & BNYX®\)](https://open.spotify.com/album/2HxI1pO2yc8XFnZfp7AvbL) | 3:27 | 2025-11-07 | 2025-11-21 |
 | [Night Bus](https://open.spotify.com/track/4lzNhnPPUkyqavqQyqNnqz) | [Danny Sanchez](https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL) | [Night Bus](https://open.spotify.com/album/6urop77k3bbfqbj6rSffxk) | 1:52 | 2025-11-28 | 2025-12-12 |
 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 | 2025-11-21 | 2025-12-05 |
@@ -180,7 +181,7 @@
 | [Same Shit](https://open.spotify.com/track/1Hu9ijKYbuC9n5xb1eB5xW) | [yaemulli](https://open.spotify.com/artist/7A0S2z4SJghf7Nr6uI31xM) | [Same Shit](https://open.spotify.com/album/2UvdzDd6ILpARfeT4vXbTr) | 3:07 | 2025-11-14 | 2025-11-21 |
 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 | 2025-11-14 | 2025-12-05 |
 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 |  |
-| [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 2:22 | 2025-12-12 |  |
+| [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 3:23 | 2025-12-12 |  |
 | [Shot Caller](https://open.spotify.com/track/4i15z1pvFVNuaMEQQFBTDm) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Shot Caller](https://open.spotify.com/album/7p8iWzdtG32lZuqMdwc31G) | 2:28 | 2025-11-28 |  |
 | [show me](https://open.spotify.com/track/1t5gdRih9JNOeiRCOD2HYg) | [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [show me](https://open.spotify.com/album/1q6SyFtxA1DAu2GEflRLBp) | 2:38 | 2025-11-07 | 2025-11-14 |
 | [Signs](https://open.spotify.com/track/2OY1FPx3DtP1EejTyIMG1f) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Signs](https://open.spotify.com/album/0JFcLrkPDSyFJASHH94uII) | 2:42 | 2025-11-14 | 2025-11-28 |
@@ -207,7 +208,6 @@
 | [the gospel \(as according to tony blair\)](https://open.spotify.com/track/0cH4xuc2UOGWg2wpTxj77y) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [blair babies](https://open.spotify.com/album/5o7UOnKJFoPn38FPH4HNZL) | 3:31 | 2025-11-14 | 2025-11-28 |
 | [The Otherside](https://open.spotify.com/track/13YsxcCwZmPYLvwwTGMhbQ) | [Sandy](https://open.spotify.com/artist/26Bu7luPOZNb2vI6IL4VBg) | [Bunny](https://open.spotify.com/album/4FOpf4CSRmjU2z17jgM5mZ) | 3:16 | 2025-10-31 | 2025-11-07 |
 | [THE SCARLET WOMAN](https://open.spotify.com/track/2MMhVXYsFQ47WG60258IQ3) | [JAY10!](https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S) | [THE SCARLET WOMAN](https://open.spotify.com/album/1xWBUfptraCwcRQCdDo85T) | 2:34 | 2025-10-31 | 2025-11-14 |
-| [Track 7](https://open.spotify.com/track/7m3ByccI7ylP805A07Gr0g) | [Deca OTA](https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-12 |  |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Triple Double](https://open.spotify.com/track/2IjZIOg7b2t6abMmkWiMWp) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Where's The Wizard?](https://open.spotify.com/album/5vJ03f6VupR2ykhy9Uq1Hq) | 2:28 | 2025-12-12 |  |
 | [Trouble](https://open.spotify.com/track/1kvHfHpoqF3zm3bGgjUoYh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA) | [Trouble](https://open.spotify.com/album/013oyxu6GZfmFsjsDGIlNO) | 3:07 | 2025-10-23 | 2025-10-31 |

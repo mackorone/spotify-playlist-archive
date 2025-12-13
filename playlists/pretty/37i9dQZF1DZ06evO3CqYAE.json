@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAABSib81htS9+gXm8fMQkxyR",
+  "snapshot_id": "aToJgAAAAABnY1WdqYTobDN1GeKDv6RF",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+        "name": "Onyedikagi (feat. Glowrie)",
+        "url": "https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Glowrie",
+          "url": "https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF"
         }
       ],
-      "duration_ms": 629497,
-      "name": "Who Is on the Lord's Side",
-      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+      "duration_ms": 297966,
+      "name": "Onyedikagi (feat. Glowrie)",
+      "url": "https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y"
     },
     {
       "added_at": null,
@@ -427,22 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onyedikagi (feat. Glowrie)",
-        "url": "https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo"
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         },
         {
-          "name": "Glowrie",
-          "url": "https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 297966,
-      "name": "Onyedikagi (feat. Glowrie)",
-      "url": "https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y"
+      "duration_ms": 629497,
+      "name": "Who Is on the Lord's Side",
+      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
     },
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 361389,
-      "name": "None Like You Lord",
-      "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
+      "duration_ms": 405890,
+      "name": "Incredible God",
+      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
     },
     {
       "added_at": null,
@@ -503,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 405890,
-      "name": "Incredible God",
-      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
+      "duration_ms": 361389,
+      "name": "None Like You Lord",
+      "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
       "duration_ms": 286880,
       "name": "The Doing of the Lord",
       "url": "https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 367158,
+      "name": "Bor Ekom",
+      "url": "https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 367158,
-      "name": "Bor Ekom",
-      "url": "https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Overwhelming Victory",
         "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 613764,
       "name": "Oke Mmiri - Live",
       "url": "https://open.spotify.com/track/4qLYAlR2b0uwvNTtOapmFF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 346253,
+      "name": "Imenem",
+      "url": "https://open.spotify.com/track/7kX7zB3FrmhGgdMA19s7cf"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 346253,
-      "name": "Imenem",
-      "url": "https://open.spotify.com/track/7kX7zB3FrmhGgdMA19s7cf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suddenly + Amazing God (Double Single)",
         "url": "https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR"
       },
@@ -663,6 +663,26 @@
       "duration_ms": 291493,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+        }
+      ],
+      "duration_ms": 237479,
+      "name": "Regular (feat. Fiokee)",
+      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
     },
     {
       "added_at": null,
@@ -699,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Fiokee",
-          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
-        }
-      ],
-      "duration_ms": 237479,
-      "name": "Regular (feat. Fiokee)",
-      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -759,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 249673,
-      "name": "You No Let Them",
-      "url": "https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cross: My Gaze",
         "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
@@ -787,6 +755,38 @@
       "duration_ms": 327216,
       "name": "Igwe",
       "url": "https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 249673,
+      "name": "You No Let Them",
+      "url": "https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 281701,
-      "name": "All Powerful and Sovereign",
-      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 375563,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 281701,
+      "name": "All Powerful and Sovereign",
+      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
     },
     {
       "added_at": null,

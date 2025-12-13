@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(fernweh\)](https://open.spotify.com/track/7veAymqTvLUvcQwixp6aRI) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Hinterem Mond](https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR) | 2:55 | 2025-05-08 | 2025-05-16 |
-| [1234](https://open.spotify.com/track/0p1ZnifLGxSMQB2j8cl6hS) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [](https://open.spotify.com/album/null) | 3:42 | 2025-12-11 |  |
+| [1234](https://open.spotify.com/track/0p1ZnifLGxSMQB2j8cl6hS) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Nostalgia 9052](https://open.spotify.com/album/5cncVXB0GkIjaZcfSeqSSR) | 3:42 | 2025-12-11 |  |
 | [13 Juwele](https://open.spotify.com/track/1qNioJrOIFUj3oTZiI52up) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [13 Juwele](https://open.spotify.com/album/2uKIdayCMdHqX0VnmfhKyA) | 2:49 | 2025-11-13 | 2025-12-06 |
 | [1x1](https://open.spotify.com/track/5NaUNpm1Qjw90o1k0MUkKN) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [OG Florin](https://open.spotify.com/artist/5OxRSgisvdKcNLUsvCzZc9) | [1x1](https://open.spotify.com/album/7nrMFMyw0vcahCA98Djdi3) | 3:04 | 2025-05-15 | 2025-05-23 |
 | [2024 FREESTYLE](https://open.spotify.com/track/4kCCkzbocx5lvmceKxgIWC) | [Cosmo12](https://open.spotify.com/artist/0U4D0tyUIPeF0ithTTrYKK) | [2024 FREESTYLE](https://open.spotify.com/album/0MVVqc5fZFIrv1RAyE5QyH) | 2:33 | 2025-04-24 | 2025-05-02 |

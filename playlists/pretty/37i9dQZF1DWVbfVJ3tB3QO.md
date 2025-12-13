@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,072 likes - 93 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,080 likes - 93 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

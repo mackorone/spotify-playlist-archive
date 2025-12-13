@@ -4,7 +4,7 @@
 
 > The top Christian songs worldwide!  Cover: Brandon Lake
 
-157 songs - 12 hr 32 min
+158 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All Things](https://open.spotify.com/track/0Lo3YUgrsai0heN46qFzZo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 3:09 | 2024-06-22 | 2025-05-10 |
 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 | 2020-08-14 | 2024-04-19 |
 | [Almost Home](https://open.spotify.com/track/0BzPKbK1FMlEdH7AxrLdgr) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost Home](https://open.spotify.com/album/4rqgmldtQPc2yPZWCrLyiw) | 4:12 | 2020-08-14 | 2024-06-23 |
-| [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 | 2024-06-22 |  |
+| [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 | 2024-06-22 | 2025-12-13 |
 | [Another In The Fire \- Live](https://open.spotify.com/track/33zmnhKQpbGq73yKcLP9El) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg) | 6:33 | 2020-08-14 | 2024-03-20 |
 | [Another In The Fire \- Studio](https://open.spotify.com/track/4HP7ZEPa8nCVhKsGK9gzKM) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6) | 4:25 | 2020-08-14 | 2024-03-20 |
 | [Banks](https://open.spotify.com/track/4zQVafVtpPQMVfe96ES3CS) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Banks](https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D) | 4:00 | 2020-08-14 | 2024-06-23 |
@@ -153,6 +153,7 @@
 | [Waymaker \- Radio Version](https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Waymaker \(Radio Version\)](https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk) | 4:02 | 2020-08-14 | 2024-03-20 |
 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 | 2020-08-14 | 2024-06-23 |
 | [What A Beautiful Name \- Live](https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 5:41 | 2020-08-14 | 2024-03-20 |
+| [What A God \- Live](https://open.spotify.com/track/5IB4ugsKzjD4hWuIEFZtAE) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Move of God \(Live\)](https://open.spotify.com/album/0ihbB3q54H2tUCzS5I7Gsv) | 7:14 | 2025-12-12 |  |
 | [What An Awesome God](https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [What An Awesome God](https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc) | 3:31 | 2025-07-11 |  |
 | [Who Am I](https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 3:27 | 2020-08-14 | 2024-04-19 |
 | [Who Am I](https://open.spotify.com/track/74KwjCkAAb7eL1CPt86mux) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Who Am I](https://open.spotify.com/album/72CV1DFqBoUQL4acaFuN2R) | 3:27 | 2020-08-14 | 2025-06-14 |

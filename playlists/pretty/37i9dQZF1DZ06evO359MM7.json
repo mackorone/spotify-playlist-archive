@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 442517,
+  "num_followers": 442569,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAmzSECeW5dBGOoeC9fdmHo",
+  "snapshot_id": "aToJgAAAAADxbuBjaGXH6W1TXPLt/mZT",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Me",
-        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
       },
       "artists": [
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Skooly",
+          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
         }
       ],
-      "duration_ms": 135959,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
+      "duration_ms": 202162,
+      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
+      "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
     },
     {
       "added_at": null,
@@ -323,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 135959,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 247054,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/2bSk87AVkCIIC3Bcligq1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Skooly",
-          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
-        }
-      ],
-      "duration_ms": 202162,
-      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
-      "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 130714,
+      "name": "Guaranteed",
+      "url": "https://open.spotify.com/track/0wU2tBZRjLe84vEVSdCvQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 130714,
-      "name": "Guaranteed",
-      "url": "https://open.spotify.com/track/0wU2tBZRjLe84vEVSdCvQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street Gossip",
         "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 213287,
       "name": "Ready (feat. Gunna)",
       "url": "https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 187678,
+      "name": "What She Like",
+      "url": "https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 187678,
-      "name": "What She Like",
-      "url": "https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All On Me (feat. G Herbo)",
         "url": "https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 219767,
       "name": "All On Me (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 148860,
+      "name": "Mrs. Trendsetter",
+      "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 162969,
       "name": "CANZONE D'ODIO (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/55aJJZPGLrIjI0nYYb7Bul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "Mrs. Trendsetter",
-      "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 218210,
       "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
       "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pray 4 Love (Deluxe)",
         "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 235987,
       "name": "Rags2Riches 2 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
     },
     {
       "added_at": null,

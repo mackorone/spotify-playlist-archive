@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 이츠 \(IT'S\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Silica Gel\(실리카겔\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,089 songs - 2 day 18 hr 21 min
+1,090 songs - 2 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [better \(with you\)](https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [better \(with you\)](https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn) | 2:26 | 2024-07-30 | 2024-11-07 |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-06-23 | 2022-07-19 |
+| [BIG VOID](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 | 2025-12-12 |  |
 | [Bipolar](https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [Bipolar](https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId) | 3:26 | 2024-12-18 | 2025-02-19 |
 | [Birthday Song](https://open.spotify.com/track/2h6aWrQegkTFL1XyIXHZpT) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Birthday Song](https://open.spotify.com/album/3Ss1DQmaGehLA3yD3UMMKE) | 2:48 | 2025-05-07 | 2025-05-15 |
 | [Black Eye](https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [Black Eye](https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9) | 2:40 | 2024-06-05 | 2024-11-07 |
@@ -832,7 +833,7 @@
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-14 | 2025-04-26 |
 | [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |
 | [Snooze](https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snooze](https://open.spotify.com/album/3VUJRB3DuYAdrubSXwzH7e) | 4:52 | 2022-04-12 | 2022-07-28 |
-| [Snow Flower](https://open.spotify.com/track/0OnIo6sEMX6k0ibi8QyjuZ) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Snow Flower](https://open.spotify.com/album/4QlnrSMi4DgTxqYVNsR8gL) | 4:05 | 2025-12-02 |  |
+| [Snow Flower](https://open.spotify.com/track/0OnIo6sEMX6k0ibi8QyjuZ) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Snow Flower](https://open.spotify.com/album/4QlnrSMi4DgTxqYVNsR8gL) | 4:05 | 2025-12-02 | 2025-12-13 |
 | [snow8](https://open.spotify.com/track/2pfU9lw8L3BdOd1yV4V5xt) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [snow8](https://open.spotify.com/album/10bb8sXKqGV8ycEHeTsLEp) | 3:40 | 2025-01-07 | 2025-03-18 |
 | [So Nice \- GMF2025 ver.](https://open.spotify.com/track/4VNzaSSuErC65Lo9ktpcoG) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [So Nice \(GMF2025 ver.\)](https://open.spotify.com/album/1YyapFRjI81bZUy1K99uRE) | 3:07 | 2025-10-17 | 2025-10-22 |
 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 | 2025-04-12 |

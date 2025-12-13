@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,380 likes - 41 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,381 likes - 41 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 21 | [Shadow Forces](https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 14:04 |
 | 22 | [Inayaat](https://open.spotify.com/track/0SvzXilENkZzu9O1NPGs2K) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:47 |
 | 23 | [Whiskey](https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:07 |
-| 24 | [Baghon Main Pade Jhoole](https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 7:23 |
+| 24 | [Na Ja Balam](https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 5:27 |
 | 25 | [Haseen Thi](https://open.spotify.com/track/4e8agQaMAW7fb6xZaL8eJ1) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 12:08 |
 | 26 | [Abode](https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Анна Бо](https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 3:31 |
 | 27 | [Island No\. 2](https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ) | 7:57 |
-| 28 | [Na Ja Balam](https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 5:27 |
+| 28 | [Baghon Main Pade Jhoole](https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 7:23 |
 | 29 | [To Remain/To Return](https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 9:16 |
 | 30 | [Rainy Streets](https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 6:50 |
 | 31 | [Forgotten Land](https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [SPELLJAMS](https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa) | 7:49 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 40 | [Naja](https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc) | [Pawas](https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Naja](https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU) | 9:02 |
 | 41 | [Coming Home, Pt\. 2](https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:48 |
 
-Snapshot ID: `aTi4AAAAAACNHArJti4k8eZIkBBN5KTG`
+Snapshot ID: `aToJgAAAAABMlRpWuGHw+lr2s5hcJUJB`

@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: EDEN",
-  "num_followers": 138610,
+  "num_followers": 138701,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Roeper",
-        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
-      },
-      "artists": [
-        {
-          "name": "Theuns Jordaan",
-          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Sal Jy Bly",
-      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Dagdrome in Suburbia",
         "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 191466,
       "name": "Dagdrome in Suburbia",
       "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "Roeper",
+        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
+      },
+      "artists": [
+        {
+          "name": "Theuns Jordaan",
+          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Sal Jy Bly",
+      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Patriot",
-        "url": "https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 203413,
-      "name": "Nonna",
-      "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Rowwe Bliksem",
         "url": "https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 183729,
       "name": "Rowwe Bliksem",
       "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "Patriot",
+        "url": "https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "Nonna",
+      "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Shut Up & Soen My",
-        "url": "https://open.spotify.com/album/2nGlSHYxK3nHVx4nTlGw4d"
-      },
-      "artists": [
-        {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
-        },
-        {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Shut Up & Soen My",
-      "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Wat Kan 'n Man Dan Doen",
         "url": "https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR"
       },
@@ -1127,6 +1107,26 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
+        "name": "Shut Up & Soen My",
+        "url": "https://open.spotify.com/album/2nGlSHYxK3nHVx4nTlGw4d"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        },
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "Shut Up & Soen My",
+      "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
         "name": "Kom Klop Weer",
         "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Praat Duits",
-        "url": "https://open.spotify.com/album/2j4HaojiJQt5p6NgqJJIkh"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 207078,
-      "name": "Praat Duits",
-      "url": "https://open.spotify.com/track/3O5NhPYS1eZNmKwDk9b3tR"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "Praat Duits",
+        "url": "https://open.spotify.com/album/2j4HaojiJQt5p6NgqJJIkh"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 207078,
+      "name": "Praat Duits",
+      "url": "https://open.spotify.com/track/3O5NhPYS1eZNmKwDk9b3tR"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Liewe Jinne!",
-        "url": "https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm"
+        "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
+        "url": "https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw"
       },
       "artists": [
         {
-          "name": "Juanita du Plessis",
-          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
+          "name": "Len Muller",
+          "url": "https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0"
+        },
+        {
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
         }
       ],
-      "duration_ms": 211154,
-      "name": "Liewe Jinne!",
-      "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
+      "duration_ms": 182927,
+      "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
+      "url": "https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h"
     }
   ],
   "unique_name": "Afrikaanse Hits",

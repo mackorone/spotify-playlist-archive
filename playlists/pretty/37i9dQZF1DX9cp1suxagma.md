@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Elsa y Elmar
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,622 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,627 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 |
 | 100 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
 
-Snapshot ID: `AAAAAKlmSvCbRycwsODvJRw3rEPvUTLV`
+Snapshot ID: `AAAAAK9tcHkSbVI2yTgYQ6W7vMBvRblA`

@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-960 songs - 1 day 15 hr 39 min
+962 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,6 +880,7 @@
 | [Tree Dada](https://open.spotify.com/track/5gzM3QGZ8XeqYjOV6UbaJh) | [The Tree of Wisdom](https://open.spotify.com/artist/0L6LyoYskg5GYJWfsbSW8i), [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Tree Dada](https://open.spotify.com/album/25QXpiOQPEcBVvRaTa0eUH) | 2:26 | 2025-08-08 |  |
 | [Trouble \- Skye's Music Party](https://open.spotify.com/track/0k505n3iwGBO1rwn2LyYWk) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Trouble \(Skye's Music Party\)](https://open.spotify.com/album/2FUFtGiSyAC04IZjvZye1U) | 2:00 | 2025-08-01 |  |
 | [Truck Song](https://open.spotify.com/track/3pXqNZ3OG1OajYAEeW4eiS) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Truck Song](https://open.spotify.com/album/7dwbc7tCUlhrgI2qmsOXpq) | 2:28 | 2024-08-30 | 2025-03-08 |
+| [Twinkle Twinkle Little Star \(R&B Mix\)](https://open.spotify.com/track/7N08aWRnOachynM7GX6nJj) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Twinkle Twinkle Little Star \(R&B Mix\)](https://open.spotify.com/album/5Q3Iil7zkkHuleuTAi5G18) | 2:40 | 2025-12-12 |  |
 | [Under My Nose](https://open.spotify.com/track/6xZbvUXNxKEBCDsFrCDNTJ) | [Willow City](https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV) | [Under My Nose](https://open.spotify.com/album/20wXwI3kIxW7QL0YsI8h3S) | 3:04 | 2022-11-14 | 2024-01-05 |
 | [Unicorn Dance](https://open.spotify.com/track/4dh5DKB0clogAGcAb3ocDP) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Unicorn Dance](https://open.spotify.com/album/2hqk1BGj61gsnWUsT0B16p) | 2:57 | 2024-08-09 | 2025-03-08 |
 | [Unicorn Song](https://open.spotify.com/track/09MxtSLQheOkxH84Kg132N) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Unicorn Song](https://open.spotify.com/album/4jnak104rS4pKgYslMKHE2) | 3:01 | 2024-02-09 | 2024-08-24 |
@@ -933,6 +934,7 @@
 | [Wheels on the Bus](https://open.spotify.com/track/0aGG3stDlYVyoQX2SD6mdT) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Wheels on the Bus](https://open.spotify.com/album/1IXa2bOmhdN29xrbUr1hNn) | 2:34 | 2024-01-12 | 2024-08-24 |
 | [Wheels on the Bus \(at the Zoo\)](https://open.spotify.com/track/4Usdaj6QUoJUnb2r6B7TQ5) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Wheels on the Bus \(at the Zoo\)](https://open.spotify.com/album/52racqONS7nFcO7WlLo2jP) | 2:10 | 2025-05-23 |  |
 | [Wheels on the Bus \(feat\. Paul Wall\) \(H\-Town Remix\)](https://open.spotify.com/track/4h530TdFjTGeeoiLwRcY17) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Wheels on the Bus \(feat\. Paul Wall\) \(H\-Town Remix\)](https://open.spotify.com/album/2YGI4DO6RtBUyTYTM8bApz) | 2:23 | 2025-04-25 |  |
+| [Wheels On The Car](https://open.spotify.com/track/4jCoVhhRr1uOBihXW69m2J) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Wheels On The Car](https://open.spotify.com/album/7oyRYTqaKJAC44UWsupFXg) | 1:42 | 2025-12-12 |  |
 | [When I Grow Up \- Kids Songs](https://open.spotify.com/track/0oFTRt6ISS7QpfTO4UqQMv) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [When I Grow Up \- Kids Songs](https://open.spotify.com/album/12fkeCyERBVtHbQrCoJUmk) | 5:32 | 2024-09-13 | 2025-03-08 |
 | [When We Go Camping](https://open.spotify.com/track/1k7OW4RrUA3WYMuFHzWh6I) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [When We Go Camping](https://open.spotify.com/album/45RuOxAukZNsj4tOAbvHa3) | 2:16 | 2025-06-06 |  |
 | [When We Work Together](https://open.spotify.com/track/274L3hEEvLZMhMEHUGlJ1P) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [When We Work Together](https://open.spotify.com/album/65peX0LYAa8BqkYSemLsFl) | 1:45 | 2024-03-08 | 2024-08-24 |

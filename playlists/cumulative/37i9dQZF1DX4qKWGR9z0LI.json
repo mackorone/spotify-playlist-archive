@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Vazquez",
+  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Maria Becerra & Jay Wheeler",
   "name": "Salsa Nation",
   "tracks": [
     {
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 259586,
       "name": "El Combo del Mundo",
       "url": "https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7"
@@ -3550,7 +3550,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 216760,
       "name": "M\u00e1s Que Un Beso",
       "url": "https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT"
@@ -3873,6 +3873,24 @@
     },
     {
       "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
+    },
+    {
+      "album": {
         "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
         "url": "https://open.spotify.com/album/619jR5aODkum1ZlOGMx6Sg"
       },
@@ -3888,7 +3906,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 267130,
       "name": "Otra Noche M\u00e1s (feat. Frankie Ruiz)",
       "url": "https://open.spotify.com/track/5OOaAYlNPgBUtBviFtGpHl"
@@ -4517,6 +4535,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Tiene \u00c9l",
+        "url": "https://open.spotify.com/album/2Cf4P1Z1W1u1Fn4V7yCBpF"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        },
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207142,
+      "name": "Qu\u00e9 Tiene \u00c9l",
+      "url": "https://open.spotify.com/track/1qeQl1u6v27pL5TiyUHygY"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
@@ -4554,6 +4594,32 @@
       "duration_ms": 288600,
       "name": "Resistir\u00e9 - Salsa",
       "url": "https://open.spotify.com/track/4Qpom4kmnP9PEFOF2TAoxi"
+    },
+    {
+      "album": {
+        "name": "ROM\u00c1NTICA",
+        "url": "https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "ROM\u00c1NTICA",
+      "url": "https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb"
     },
     {
       "album": {
@@ -6068,7 +6134,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 257614,
       "name": "V\u00edctimas las Dos",
       "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"

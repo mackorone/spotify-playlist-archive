@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,859 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,923 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 49 | [1973](https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [1973](https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV) | 4:45 |
 | 50 | [Letting Go](https://open.spotify.com/track/4cliBLsKJiv3tno21brdKJ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Bigger Than All Of Us](https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm) | 3:19 |
 | 51 | [Keep Dancing](https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Keep Dancing](https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG) | 3:00 |
-| 52 | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W) | 2:42 |
-| 53 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
-| 54 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
+| 52 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
+| 53 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
+| 54 | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W) | 2:42 |
 | 55 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 56 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |
 | 57 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
 | 58 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |
-| 59 | [i don't know what to say](https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Hana Fatur](https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX) | [i don't know what to say](https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5) | 3:29 |
-| 60 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 |
+| 59 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 |
+| 60 | [Wander](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Wander](https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM) | 3:30 |
 
 Snapshot ID: `AAAAAPy1mx0L5ZMMlnU1tEtc64GYVqzf`

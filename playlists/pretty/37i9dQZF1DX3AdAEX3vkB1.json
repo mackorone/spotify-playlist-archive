@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 320215,
+  "num_followers": 320326,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 139560,
       "name": "Help! - Remastered 2009",
       "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Surrealistic Pillow",
@@ -391,6 +375,22 @@
       "duration_ms": 146720,
       "name": "I Want To Hold Your Hand - Remastered 2009",
       "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Please Please Me (Remastered)",
@@ -471,6 +455,22 @@
       "duration_ms": 173946,
       "name": "I Saw Her Standing There - Remastered 2009",
       "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "A's, B's & EP's",
-        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
-      },
-      "artists": [
-        {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "No Milk Today - Mono Version",
-      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "A's, B's & EP's",
+        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "No Milk Today - Mono Version",
+      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "At Abbey Road",
+        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 114986,
+      "name": "How Do You Do It? - Mono",
+      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Circulate (Expanded Edition)",
         "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 153093,
       "name": "Speedy Gonzales",
       "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "At Abbey Road",
-        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 114986,
-      "name": "How Do You Do It? - Mono",
-      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Rhino Hi-Five: Arthur Conley",
         "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
       },
@@ -1871,6 +1855,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -1880,25 +1880,9 @@
           "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Friday on My Mind",
-      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+      "duration_ms": 175893,
+      "name": "Carrie Anne",
+      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1915,6 +1899,22 @@
       "duration_ms": 175066,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Friday on My Mind",
+      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1960,9 +1960,9 @@
           "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 175893,
-      "name": "Carrie Anne",
-      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 131213,
+      "name": "Can't Buy Me Love - Remastered 2015",
+      "url": "https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "With The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn"
       },
@@ -2316,9 +2332,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 131213,
-      "name": "Can't Buy Me Love - Remastered 2015",
-      "url": "https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG"
+      "duration_ms": 140920,
+      "name": "She Loves You - Mono / Remastered",
+      "url": "https://open.spotify.com/track/2Fk411Ix3qnMG8t8Qa74ZX"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2335,22 +2351,6 @@
       "duration_ms": 154200,
       "name": "A Hard Day's Night - Remastered",
       "url": "https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 140920,
-      "name": "She Loves You - Mono / Remastered",
-      "url": "https://open.spotify.com/track/2Fk411Ix3qnMG8t8Qa74ZX"
     }
   ],
   "unique_name": "60s Party",

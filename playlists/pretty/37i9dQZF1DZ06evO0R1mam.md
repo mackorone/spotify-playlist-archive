@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,349 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,350 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 21 | [Holy You \(FrĒligious\)](https://open.spotify.com/track/55lD4Bw9nCYceU7TnVc82R) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Holy You \(FrĒligious\)](https://open.spotify.com/album/0LDkdvozl55KUGYUFK4lcL) | 4:03 |
 | 22 | [African Medley \- Live](https://open.spotify.com/track/4OpPtI0wirTyNdX1ZO1pJs) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Mumen Ngenge](https://open.spotify.com/artist/2hwdd67UqAm97Lc4tMb1BX) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 9:39 |
 | 23 | [All Things New](https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:07 |
-| 24 | [No Way \- Live In Houston](https://open.spotify.com/track/1p7UXXndGeDNrmqhO5gR44) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:42 |
-| 25 | [Same God \- Live](https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 3:19 |
+| 24 | [Same God \- Live](https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 3:19 |
+| 25 | [No Way \- Live In Houston](https://open.spotify.com/track/1p7UXXndGeDNrmqhO5gR44) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Only On The Road \(Live\)](https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe) | 2:42 |
 | 26 | [Nobody \- Live](https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:34 |
 | 27 | [Immanuel](https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:43 |
 | 28 | [Anyhow](https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Anyhow](https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6) | 5:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [1\-2 \(Victory Check\) \- Live](https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 3:18 |
 | 50 | [I Give You Glory](https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3) | 8:25 |
 
-Snapshot ID: `aTi4AAAAAADlYj+o4san+Z7Kr1tYmDNJ`
+Snapshot ID: `aToJgAAAAAAl1y59B/KTGOkaSmNtLsRC`

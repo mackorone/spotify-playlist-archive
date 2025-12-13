@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Tate McRae
 
-1,184 songs - 2 day 9 hr 37 min
+1,185 songs - 2 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-29 | 2025-06-26 |
 | [Echte Liefde](https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Echte liefde](https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd) | 3:32 | 2024-12-18 | 2025-01-07 |
 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-03-24 | 2025-03-28 |
+| [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 | 2025-12-12 |  |
 | [Een Chick Als \(Jade\)](https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Een Chick Als \(Jade\)](https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN) | 2:46 | 2023-07-27 | 2023-08-22 |
 | [Een Nacht Als Deze](https://open.spotify.com/track/6NETlrbxNer7Yj9NXhgTiA) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Een Nacht Als Deze](https://open.spotify.com/album/5gYLd9YEiTZCDPR0lkiGt6) | 3:00 | 2025-05-26 | 2025-08-08 |
 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 | 2024-12-11 | 2025-01-17 |

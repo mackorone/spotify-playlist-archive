@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 103492,
+  "num_followers": 103512,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -436,13 +436,13 @@
       },
       "artists": [
         {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+          "name": "Ram\u00f3n Avil\u00e9s",
+          "url": "https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1"
         }
       ],
-      "duration_ms": 184013,
-      "name": "El Hijo Var\u00f3n",
-      "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
+      "duration_ms": 180586,
+      "name": "Cabellitos de Mi Madre",
+      "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -452,13 +452,13 @@
       },
       "artists": [
         {
-          "name": "Ram\u00f3n Avil\u00e9s",
-          "url": "https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1"
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
         }
       ],
-      "duration_ms": 180586,
-      "name": "Cabellitos de Mi Madre",
-      "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
+      "duration_ms": 184013,
+      "name": "El Hijo Var\u00f3n",
+      "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "La Dama del Bolero",
+        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
+        }
+      ],
+      "duration_ms": 190365,
+      "name": "Coraz\u00f3n Herido",
+      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "Mis Mejores \u00c9xitos",
         "url": "https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 162699,
       "name": "Busco Tu Recuerdo",
       "url": "https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "La Dama del Bolero",
-        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
-      },
-      "artists": [
-        {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
-        }
-      ],
-      "duration_ms": 190365,
-      "name": "Coraz\u00f3n Herido",
-      "url": "https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 140249,
       "name": "El mago y la publicidad",
       "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2024-06-25 17:49:34",

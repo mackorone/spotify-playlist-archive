@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-695 songs - 1 day 19 hr 18 min
+696 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 | 2023-02-13 | 2023-03-19 |
 | [ANL](https://open.spotify.com/track/3zIvzPKUUdSpDCm1uua6Be) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:45 | 2021-05-12 | 2021-05-13 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-01-05 |
-| [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 | 2024-11-29 |  |
+| [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 | 2024-11-29 | 2025-12-13 |
 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-10-27 | 2023-02-25 |
 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 | 2024-07-10 | 2025-03-16 |
 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 | 2024-12-07 | 2025-02-02 |
@@ -315,7 +315,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-29 | 2021-06-27 |
 | [Kita Bikin Romantis](https://open.spotify.com/track/45A0Se2c4HciOCyB5Z0XJJ) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:56 | 2024-06-04 | 2024-06-06 |
 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 | 2024-03-16 | 2024-04-29 |
-| [Kita Ke Sana](https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8) | 4:42 | 2025-07-05 | 2025-12-11 |
+| [Kita Ke Sana](https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8) | 4:42 | 2025-07-05 |  |
 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 | 2025-05-13 | 2025-09-19 |
 | [Kita usahakan rumah itu](https://open.spotify.com/track/5Egm9N7FnzsThl1CFXB2mm) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:31 | 2025-04-16 |  |
 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 | 2021-06-08 | 2021-12-16 |
@@ -448,7 +448,8 @@
 | [Pelangi](https://open.spotify.com/track/5BgZ1bi8xeWVxmg12RfWzv) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:37 | 2021-12-10 | 2022-05-15 |
 | [penjaga hati](https://open.spotify.com/track/6i9Ci0IN1q1GcnhdbKU7kZ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:20 | 2024-06-22 |  |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-10-07 | 2024-06-23 |
-| [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-10-15 |  |
+| [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-10-15 | 2025-12-13 |
+| [Penyangkalan](https://open.spotify.com/track/5BEaISZ1DicXxN6DJ5kdtg) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Perayaan Patah Hati \- Babak 2](https://open.spotify.com/album/2unc5XA0Ukwit4IDDWPQno) | 4:00 | 2025-12-12 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-02-19 | 2023-05-06 |
 | [Peradaban](https://open.spotify.com/track/4YxEeCKhUl1DawPzsxCPbq) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Peradaban](https://open.spotify.com/album/3xlryrSJ3mQ3eY4CGd9ow5) | 5:39 | 2025-08-30 | 2025-09-11 |
 | [Peri Cintaku](https://open.spotify.com/track/1ZBZ8jvJbeIWaP7oJheEgq) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 4:19 | 2022-07-30 | 2022-10-09 |

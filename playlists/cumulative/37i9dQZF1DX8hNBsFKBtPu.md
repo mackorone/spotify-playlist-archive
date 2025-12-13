@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-747 songs - 1 day 14 hr 15 min
+748 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Girls Aren't Funny](https://open.spotify.com/track/0uKOZVjhq2UrtYNO79eoTL) | [CHILI](https://open.spotify.com/artist/7lgWDqwXIly6P4ms6naBJ0) | [Girls Aren't Funny](https://open.spotify.com/album/3DH9OCleI7eXxiqHP7no9d) | 3:00 | 2025-05-29 | 2025-07-04 |
 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 | 2025-01-30 | 2025-04-18 |
 | [Giv Mig Alt](https://open.spotify.com/track/6ypcV9TndUTwq9jgWxXk5d) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Giv Mig Alt](https://open.spotify.com/album/2kVPrELUEIEODDcCVkXjlU) | 3:22 | 2024-06-27 | 2024-11-08 |
+| [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-11 |  |
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-10 | 2025-09-12 |
 | [Gjort Hvad Jeg Kan](https://open.spotify.com/track/7nKXclXnCjbZiXv2yo8twY) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gjort Hvad Jeg Kan](https://open.spotify.com/album/2RfVIgXe5IJNwh4yVlym7k) | 3:23 | 2025-10-09 |  |
 | [god dag](https://open.spotify.com/track/2AfkO7eCM0UvVAXpVQWNBi) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [god dag](https://open.spotify.com/album/1ZFQUiw6YJvasou0MrkJck) | 3:04 | 2024-06-27 | 2024-10-04 |
@@ -403,7 +404,7 @@
 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 | 2024-10-04 |
 | [Likeable](https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Papaya](https://open.spotify.com/album/5J83TBJ13dS8FXyvqOlWTi) | 3:43 | 2025-04-24 | 2025-07-04 |
 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 | 2025-09-26 |
-| [LIttle Boy](https://open.spotify.com/track/6IOlDaveXdZW81OtCRcBGq) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [LIttle Boy](https://open.spotify.com/album/5jYy4pARrnvDg2MXd8Rjz2) | 2:39 | 2025-12-11 |  |
+| [Little Boy](https://open.spotify.com/track/6IOlDaveXdZW81OtCRcBGq) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Little Boy](https://open.spotify.com/album/5jYy4pARrnvDg2MXd8Rjz2) | 2:39 | 2025-12-11 |  |
 | [Little House](https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV) | 2:30 | 2025-11-27 |  |
 | [little things](https://open.spotify.com/track/0fLLC7cewptHpWjbhLoMQD) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [little things](https://open.spotify.com/album/6qbtBvOlFkr3CSdDwIvr9u) | 3:33 | 2025-11-06 | 2025-11-28 |
 | [Live Again](https://open.spotify.com/track/3VuEgYNwHDWB9Q9cdjtvQi) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Live Again](https://open.spotify.com/album/7HvwMFz2rJAU9ftzX9oMGf) | 2:56 | 2024-06-27 | 2024-07-30 |

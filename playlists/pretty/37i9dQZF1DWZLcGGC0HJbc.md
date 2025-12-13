@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,856 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,853 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 11 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
 | 12 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 |
 | 13 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
-| 14 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 |
-| 15 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
+| 14 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
+| 15 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 |
 | 16 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 |
 | 17 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 |
 | 18 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 38 | [My Heroine](https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 3:21 |
 | 39 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
 | 40 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 |
-| 41 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 |
-| 42 | [Shoulders](https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Shoulders](https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET) | 3:24 |
+| 41 | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/track/4pGpa879o8xiiHSJyhiMMZ) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/album/1HmFzWDqZsky5phafS74qD) | 3:18 |
+| 42 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 |
 | 43 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 |
-| 44 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |
-| 45 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
-| 46 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
-| 47 | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/track/4pGpa879o8xiiHSJyhiMMZ) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/album/1HmFzWDqZsky5phafS74qD) | 3:18 |
+| 44 | [Shoulders](https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Shoulders](https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET) | 3:24 |
+| 45 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |
+| 46 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
+| 47 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
 | 48 | [Always Lost](https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Always Lost](https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA) | 3:19 |
-| 49 | [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 |
-| 50 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
+| 49 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
+| 50 | [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 |
 
 Snapshot ID: `AAAAAIL8reX+B/CIzOrXmk/NwvXkdla1`

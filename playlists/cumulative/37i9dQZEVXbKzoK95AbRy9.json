@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 198678,
       "name": "Apaguei Pra Todos - Ao Vivo",
       "url": "https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8"
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 159480,
       "name": "C\u00f3pia Proibida",
       "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
@@ -5277,6 +5277,24 @@
     },
     {
       "album": {
+        "name": "Velhos H\u00e1bitos Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179215,
+      "name": "Ignora (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC"
+    },
+    {
+      "album": {
         "name": "Ilus\u00e3o De \u00d3tica (Ao Vivo)",
         "url": "https://open.spotify.com/album/0bI1I8N81JS2y2obt23JXS"
       },
@@ -5384,6 +5402,28 @@
       "duration_ms": 285000,
       "name": "Isso \u00e9 S\u00e9rio",
       "url": "https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD"
+    },
+    {
+      "album": {
+        "name": "JAPON\u00caS",
+        "url": "https://open.spotify.com/album/6XAPZm3B8QGc0QKe1sSob7"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192591,
+      "name": "JAPON\u00caS",
+      "url": "https://open.spotify.com/track/6JH5wCoto58vgqa61jvazc"
     },
     {
       "album": {
@@ -6666,7 +6706,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 220629,
       "name": "Mentes T\u00e3o Bem (Mientes Tan Bien)",
       "url": "https://open.spotify.com/track/1VEyDlRdDIKopb4YRgbCFe"
@@ -8804,7 +8844,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 171797,
       "name": "Pelo Bem da Minha Saudade",
       "url": "https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc"
@@ -10198,6 +10238,32 @@
       "duration_ms": 153103,
       "name": "Saudade De Quem Eu Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/7tesyGMnAFNI0l2xaxcFKi"
+    },
+    {
+      "album": {
+        "name": "Saudade do Carai",
+        "url": "https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        },
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170777,
+      "name": "Saudade do Carai",
+      "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
     },
     {
       "album": {
@@ -12672,7 +12738,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 140307,
       "name": "VAI NO CH\u00c3O BANDIDA",
       "url": "https://open.spotify.com/track/5bPVaf87iW31GGfmk2yqsd"
@@ -12740,7 +12806,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 157033,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/6OPfBo0J6yqzSY9WxNlbA5"
@@ -13080,7 +13146,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 281774,
       "name": "Vou pela Madrugada",
       "url": "https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq"

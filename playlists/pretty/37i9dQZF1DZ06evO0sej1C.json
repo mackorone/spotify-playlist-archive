@@ -1,13 +1,33 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 45182,
+  "num_followers": 45193,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTi4AAAAAAAStAPSo0ZbNOoEUvyfSaEz",
+  "snapshot_id": "aToJgAAAAAAzslzlPY3nwD1pOgjhYOnr",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solo Tuya",
+        "url": "https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Solo Tuya",
+      "url": "https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv"
+    },
     {
       "added_at": null,
       "album": {
@@ -699,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LQRA Session #3",
-        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "LQRA Session #3",
-      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -747,6 +747,26 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LQRA Session #3",
+        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "LQRA Session #3",
+      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
     },
     {
       "added_at": null,
@@ -927,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Roll",
+        "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "De Roll",
+      "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Que Qued\u00f3",
         "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
       },
@@ -963,26 +1003,6 @@
       "duration_ms": 200000,
       "name": "Serendipia",
       "url": "https://open.spotify.com/track/5QV0T0Fz6AgMhpDhQ1AKuu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Roll",
-        "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "De Roll",
-      "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
     },
     {
       "added_at": null,
@@ -1191,22 +1211,6 @@
       "duration_ms": 221538,
       "name": "De Ti Me Olvid\u00e9",
       "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PILLS",
-        "url": "https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "PILLS",
-      "url": "https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp"
     }
   ],
   "unique_name": "This Is Yoss Bones",

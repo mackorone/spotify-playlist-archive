@@ -3099,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "DREAMING",
+        "url": "https://open.spotify.com/album/2004DJWWUR21q5P1BzDt1Q"
+      },
+      "artists": [
+        {
+          "name": "hoshii",
+          "url": "https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187179,
+      "name": "DREAMING",
+      "url": "https://open.spotify.com/track/5mRbXc3BCZRH68rSKmELww"
+    },
+    {
+      "album": {
         "name": "drugi taniec - z filmu \u201eDru\u017cyna A(A)\u201d",
         "url": "https://open.spotify.com/album/3BHMi7fHjXFmQsTFx6DviT"
       },
@@ -4072,6 +4094,24 @@
       "duration_ms": 144240,
       "name": "Green Love",
       "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
+    },
+    {
+      "album": {
+        "name": "grudzie\u0144",
+        "url": "https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142479,
+      "name": "grudzie\u0144",
+      "url": "https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk"
     },
     {
       "album": {
@@ -7359,6 +7399,28 @@
     },
     {
       "album": {
+        "name": "KR\u00d3TKI METRA\u017b",
+        "url": "https://open.spotify.com/album/3opMMjlqIRq3CKBISGyRha"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        },
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306892,
+      "name": "nad ranem (kr\u00f3tki metra\u017c)",
+      "url": "https://open.spotify.com/track/4bT7K59EKjtBBn4RtGxvN1"
+    },
+    {
+      "album": {
         "name": "NADAL KOCHAM",
         "url": "https://open.spotify.com/album/6t7jtb5l7ezFCBmKtXCCZj"
       },
@@ -7748,7 +7810,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 122416,
       "name": "nie chc\u0119 si\u0119 zakocha\u0107",
       "url": "https://open.spotify.com/track/1wPUTxXRE759xb8IVGKqcS"
@@ -8016,7 +8078,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 236249,
       "name": "Nienawidzisz",
       "url": "https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8"
@@ -9599,6 +9661,24 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
+    },
+    {
+      "album": {
         "name": "Prywatna wyspa",
         "url": "https://open.spotify.com/album/589yWr3ogBNa6KPVhNMUZF"
       },
@@ -9632,7 +9712,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 144761,
       "name": "przed czym uciekasz?",
       "url": "https://open.spotify.com/track/6RSDTIt7XLuCX0BhntMm82"
@@ -13760,7 +13840,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 182876,
       "name": "Yeyeye",
       "url": "https://open.spotify.com/track/27JgqGnbH9hfTF1hy7GOCl"

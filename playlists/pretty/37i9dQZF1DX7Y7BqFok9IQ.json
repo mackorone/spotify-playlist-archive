@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: Samantha Fish",
-  "num_followers": 253706,
+  "num_followers": 253780,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAD5PXOV/6Hs4lUjEDghibQcYjlN/",
   "tracks": [
+    {
+      "added_at": "2025-12-12 05:00:30",
+      "album": {
+        "name": "Chevrolet",
+        "url": "https://open.spotify.com/album/4iNDYhHxLAUWyit4oRHMum"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 172558,
+      "name": "Chevrolet",
+      "url": "https://open.spotify.com/track/4VAKEOsaRTSeI2SNa9bEeN"
+    },
     {
       "added_at": "2025-10-24 04:00:05",
       "album": {
@@ -535,22 +551,6 @@
       "duration_ms": 329466,
       "name": "Blues Is Still Alive",
       "url": "https://open.spotify.com/track/65JFEj7OsgvyTZ89Y4DiRV"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hole In Your Soul",
-        "url": "https://open.spotify.com/album/7wJnNE79u2gUD5zEFuAWqs"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 388237,
-      "name": "Hole In Your Soul",
-      "url": "https://open.spotify.com/track/5s1cN2AJDr3QnHzwvRHh5b"
     },
     {
       "added_at": "2024-10-25 04:00:00",

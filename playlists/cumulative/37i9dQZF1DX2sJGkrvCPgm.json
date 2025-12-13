@@ -3298,7 +3298,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 184560,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/3SrvLPdiK7TpraE8gZ2BJw"
@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 213559,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/2TQ5LnGMe1vbzSeqLBDfSk"
@@ -4212,7 +4212,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 252612,
       "name": "If You Listen",
       "url": "https://open.spotify.com/track/6ayW4lNxB2dxFU9Kb812lw"
@@ -5848,6 +5848,28 @@
       "duration_ms": 218482,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/07uDNxlcxJ9yc97VPJHZTy"
+    },
+    {
+      "album": {
+        "name": "MESSIAH IN THE MESS",
+        "url": "https://open.spotify.com/album/1of1sb8Huv9qPBdQuIhKHK"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253188,
+      "name": "MESSIAH IN THE MESS",
+      "url": "https://open.spotify.com/track/5khAZJYQlRNCZERQuZFPjQ"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 ### [Mujeres latinas del 2025](https://open.spotify.com/playlist/37i9dQZF1DWSXAHZTiX76o)
 
-> Las mujeres que la rompieron este año con su música\. ROSALÍA en portada.
+> Las mujeres que la rompieron este año con su música\. Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,327 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,362 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 16 | [Da Me](https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Da Me](https://open.spotify.com/album/3G6VBoOpF7VtA6JwJxYdnv) | 2:25 |
 | 17 | [Lua Cheia](https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:17 |
 | 18 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
-| 19 | [FAVORITA](https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:53 |
-| 20 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:42 |
+| 19 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:42 |
+| 20 | [FAVORITA](https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:53 |
 | 21 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
 | 22 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
 | 23 | [Extraordinária](https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:47 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 43 | [69](https://open.spotify.com/track/3V7jJJq960AvmVLHffYZ9u) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN) | [El Secreto](https://open.spotify.com/album/4NJFWpVWPgPvrciytpxOvr) | 3:24 |
 | 44 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
 | 45 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 |
-| 46 | [Luna de Miel](https://open.spotify.com/track/1YkHOy8RzoHfYAPvu9ccxh) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:38 |
-| 47 | [en la cara](https://open.spotify.com/track/45VLxFP4Gk1eH5FMHf4Oy0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 2:37 |
+| 46 | [en la cara](https://open.spotify.com/track/45VLxFP4Gk1eH5FMHf4Oy0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 2:37 |
+| 47 | [Luna de Miel](https://open.spotify.com/track/1YkHOy8RzoHfYAPvu9ccxh) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo](https://open.spotify.com/album/373sjPmbcfb0MBTscza6S2) | 3:38 |
 | 48 | [desahogo](https://open.spotify.com/track/2aUri2vJaCT1qEEUAUtavg) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:09 |
 | 49 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
 | 50 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |

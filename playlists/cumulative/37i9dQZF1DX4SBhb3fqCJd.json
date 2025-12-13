@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: Tems",
+  "description": "Where R&B lives. Cover: Sasha Keable",
   "name": "RNB X",
   "tracks": [
     {
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 166333,
       "name": "Big Daddy",
       "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
@@ -7582,10 +7582,36 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 217694,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP"
+    },
+    {
+      "album": {
+        "name": "Lullaby (mega remix)",
+        "url": "https://open.spotify.com/album/4gHIGeVKDxDHB3c5T3dC5M"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "Paradise",
+          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233114,
+      "name": "Lullaby - mega remix",
+      "url": "https://open.spotify.com/track/3UKsi5Qkp4L8quumXsKnie"
     },
     {
       "album": {
@@ -10475,6 +10501,24 @@
     },
     {
       "album": {
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223275,
+      "name": "Recently Deleted",
+      "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
+    },
+    {
+      "album": {
         "name": "Rent Free / By Any Means",
         "url": "https://open.spotify.com/album/06nzu940k6jhkJ5TacM6y5"
       },
@@ -12567,6 +12611,24 @@
     },
     {
       "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
+    },
+    {
+      "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
       },
@@ -13064,7 +13126,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-13",
       "duration_ms": 193704,
       "name": "Thinkin About You",
       "url": "https://open.spotify.com/track/0F8PC2hasKm37MG3U1bhlu"

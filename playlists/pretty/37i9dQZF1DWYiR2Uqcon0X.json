@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 735802,
+  "num_followers": 735798,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Pack My Hometown",
-        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
-      },
-      "artists": [
-        {
-          "name": "Eli Winders",
-          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
-        }
-      ],
-      "duration_ms": 191615,
-      "name": "Pack My Hometown",
-      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "Far from Home",
         "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 187253,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "Pack My Hometown",
+        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
+      },
+      "artists": [
+        {
+          "name": "Eli Winders",
+          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+        }
+      ],
+      "duration_ms": 191615,
+      "name": "Pack My Hometown",
+      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "firstborn",
-        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
-      },
-      "artists": [
-        {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
-        }
-      ],
-      "duration_ms": 213340,
-      "name": "sunflower.",
-      "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "Western Wedding",
         "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 91554,
       "name": "Bulleit Blues",
       "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "duration_ms": 213340,
+      "name": "sunflower.",
+      "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
     },
     {
       "added_at": "2025-08-21 15:35:38",

@@ -1,13 +1,57 @@
 {
   "description": "50% techno, 50% house \ud83d\udca5 Tech house operators, featuring J. Worra",
-  "num_followers": 693981,
+  "num_followers": 694043,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEyuPKFFJ6yHW9TBlqdVMRLIYfTj",
+  "snapshot_id": "AAAAAOGgomrM3p5DYs0FKPKirhC6v4lM",
   "tracks": [
+    {
+      "added_at": "2025-12-05 05:00:23",
+      "album": {
+        "name": "Take Your Places",
+        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 237365,
+      "name": "Take Your Places",
+      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
+    },
+    {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5nGvw9JZ1x8m7cfCGFJGqQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/0469wpByAo3eX3BZZx25Yw"
+    },
     {
       "added_at": "2025-12-05 05:00:23",
       "album": {
@@ -41,6 +85,30 @@
       "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
     },
     {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+        }
+      ],
+      "duration_ms": 160496,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf"
+    },
+    {
       "added_at": "2025-11-14 15:05:32",
       "album": {
         "name": "Kids",
@@ -55,26 +123,6 @@
       "duration_ms": 138020,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5zWgxdYxIQWfn3JY3gogbz"
-    },
-    {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
-        "name": "Take Your Places",
-        "url": "https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 237365,
-      "name": "Take Your Places",
-      "url": "https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n"
     },
     {
       "added_at": "2025-11-14 05:00:31",
@@ -101,6 +149,26 @@
       "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
     },
     {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "Belong to Me",
+        "url": "https://open.spotify.com/album/762MVFLrTl2trqil8OnIoP"
+      },
+      "artists": [
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        },
+        {
+          "name": "Kamino",
+          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
+        }
+      ],
+      "duration_ms": 155014,
+      "name": "Belong to Me",
+      "url": "https://open.spotify.com/track/5PSepy5guowlWb1z0BQb0c"
+    },
+    {
       "added_at": "2025-11-21 05:00:30",
       "album": {
         "name": "For The Soul",
@@ -119,22 +187,18 @@
     {
       "added_at": "2025-12-05 05:00:23",
       "album": {
-        "name": "Another Hit",
-        "url": "https://open.spotify.com/album/6U9TTmxdR9b8RxNJGsRdvq"
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma"
       },
       "artists": [
         {
-          "name": "NAAR (US)",
-          "url": "https://open.spotify.com/artist/2MNWqxfraxtx61tyxwzyqq"
-        },
-        {
-          "name": "Parker Page",
-          "url": "https://open.spotify.com/artist/1jRRjPpIYv5Wzbu4oyNSwb"
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
         }
       ],
-      "duration_ms": 195589,
-      "name": "Another Hit",
-      "url": "https://open.spotify.com/track/4EczT6jRDLgPgqfo1CWmhK"
+      "duration_ms": 171162,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
     },
     {
       "added_at": "2025-11-14 05:00:31",
@@ -157,6 +221,22 @@
       "url": "https://open.spotify.com/track/351uaz0UJ7h0RYRD0e2w5V"
     },
     {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5559oL9ahxjQSc9KvqKOJK"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "duration_ms": 155629,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6r05V6Qo9SztSmiadRHGh8"
+    },
+    {
       "added_at": "2025-10-17 04:00:48",
       "album": {
         "name": "You & Me",
@@ -173,6 +253,26 @@
       "url": "https://open.spotify.com/track/6atTrGB6eK8NOT6nniI237"
     },
     {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "Uproar",
+        "url": "https://open.spotify.com/album/0pxQFTD5r8eoRqAf05e48Q"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Eskuche",
+          "url": "https://open.spotify.com/artist/26OGW7G9W6HKQ3yjQ2CEkX"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "Uproar",
+      "url": "https://open.spotify.com/track/0X8PKkCKYBD2o4jj9OJYiy"
+    },
+    {
       "added_at": "2025-11-28 05:04:31",
       "album": {
         "name": "Look Good",
@@ -187,22 +287,6 @@
       "duration_ms": 134095,
       "name": "Look Good",
       "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
-    },
-    {
-      "added_at": "2025-12-05 05:00:23",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma"
-      },
-      "artists": [
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 171162,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5"
     },
     {
       "added_at": "2025-11-28 05:04:31",
@@ -257,6 +341,42 @@
       "url": "https://open.spotify.com/track/18yUy5O5kd2FhyxURQ6rS2"
     },
     {
+      "added_at": "2025-12-05 05:00:23",
+      "album": {
+        "name": "Another Hit",
+        "url": "https://open.spotify.com/album/6U9TTmxdR9b8RxNJGsRdvq"
+      },
+      "artists": [
+        {
+          "name": "NAAR (US)",
+          "url": "https://open.spotify.com/artist/2MNWqxfraxtx61tyxwzyqq"
+        },
+        {
+          "name": "Parker Page",
+          "url": "https://open.spotify.com/artist/1jRRjPpIYv5Wzbu4oyNSwb"
+        }
+      ],
+      "duration_ms": 195589,
+      "name": "Another Hit",
+      "url": "https://open.spotify.com/track/4EczT6jRDLgPgqfo1CWmhK"
+    },
+    {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "How Deep Are Your Dreams?",
+        "url": "https://open.spotify.com/album/3d4ePJKLgTDCOfuPz4Jrl7"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 228901,
+      "name": "How Deep Are Your Dreams?",
+      "url": "https://open.spotify.com/track/31YCj2AQ7DMeMLVvtwfxhM"
+    },
+    {
       "added_at": "2025-11-28 05:04:31",
       "album": {
         "name": "Candela",
@@ -271,6 +391,26 @@
       "duration_ms": 145846,
       "name": "Candela",
       "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
+    },
+    {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "Bring That Beat",
+        "url": "https://open.spotify.com/album/0LPqhVuzNmq7aEmoupaYvl"
+      },
+      "artists": [
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        },
+        {
+          "name": "Will Cain",
+          "url": "https://open.spotify.com/artist/6geQBRSOoOQgjy0wRpNZfZ"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Bring That Beat",
+      "url": "https://open.spotify.com/track/0oRsLXUxw9d0qXsvYOpQBE"
     },
     {
       "added_at": "2025-11-14 05:00:31",
@@ -323,6 +463,22 @@
       "duration_ms": 191009,
       "name": "Fee Fi Fo Fum (feat. KAM-BU)",
       "url": "https://open.spotify.com/track/20NWjwDzsxz7CXIyyQFMCx"
+    },
+    {
+      "added_at": "2025-12-12 05:00:35",
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/5Mv2BPZz63phB2yyQkVlLi"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/4Dny38Rxq5EdaBju4FdJwH"
     },
     {
       "added_at": "2025-11-28 05:04:31",
@@ -1449,34 +1605,6 @@
       "url": "https://open.spotify.com/track/2HijZ3jluTBQszGJlBXqTK"
     },
     {
-      "added_at": "2025-10-10 04:00:34",
-      "album": {
-        "name": "Baiana (With L-Gante)",
-        "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Baiana - With L-Gante",
-      "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
-    },
-    {
       "added_at": "2025-10-24 04:00:29",
       "album": {
         "name": "Bad Luck / Feel",
@@ -1829,22 +1957,6 @@
       "url": "https://open.spotify.com/track/4rePkL5SpoLvbwRPzTvEM8"
     },
     {
-      "added_at": "2025-09-26 04:00:25",
-      "album": {
-        "name": "Bad & Boujee",
-        "url": "https://open.spotify.com/album/1SBBcumAohtQ9fDMAqxlcH"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        }
-      ],
-      "duration_ms": 188220,
-      "name": "Bad & Boujee",
-      "url": "https://open.spotify.com/track/4ij6tf3N49891vv5JzwyD2"
-    },
-    {
       "added_at": "2025-10-17 04:00:48",
       "album": {
         "name": "Agony",
@@ -1973,30 +2085,6 @@
       "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
     },
     {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
-        "name": "Cash Out (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/5NOs1ZONmk3QiXR2cmFjrt"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "Cash Out - Odd Mob Remix",
-      "url": "https://open.spotify.com/track/0J4akD95yVlI5NTEUtUsWg"
-    },
-    {
       "added_at": "2025-08-08 04:01:30",
       "album": {
         "name": "TESLA",
@@ -2011,26 +2099,6 @@
       "duration_ms": 186818,
       "name": "TESLA",
       "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "I Don't Trust A Soul",
-        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 146059,
-      "name": "I Don't Trust A Soul",
-      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -2067,26 +2135,6 @@
       "duration_ms": 180750,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/1RMcfaJ3f4a4vLU7veJU5H"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC"
-      },
-      "artists": [
-        {
-          "name": "Kamino",
-          "url": "https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -2151,26 +2199,6 @@
       "duration_ms": 207230,
       "name": "Up Front",
       "url": "https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "D.O.P.E.",
-        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
-      },
-      "artists": [
-        {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
-        },
-        {
-          "name": "Dan Molinari",
-          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "K.E.T. - Amine Mix",
-      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
     }
   ],
   "unique_name": "Tech House Operator",

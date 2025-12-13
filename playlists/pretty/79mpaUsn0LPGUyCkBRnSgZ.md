@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 619 songs - 1 day 16 hr 31 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 626 songs - 1 day 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -621,11 +621,18 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 611 | [Fine Line](https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Chaos And Creation In The Backyard](https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ) | 3:05 |
 | 612 | [Gone Under Sea](https://open.spotify.com/track/0s2fkGnkRf7uWaRiK4TrnW) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:12 |
 | 613 | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/track/6ZwdMyNfYEejW0ADt7pZy8) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 2:54 |
-| 614 | [painty paint pots](https://open.spotify.com/track/1CPoZksD5MBtt1bUr1de35) | [800 cherries](https://open.spotify.com/artist/47mrO8UvhD1Qt6iAIy4fCO) | [Romantico](https://open.spotify.com/album/3N9wv27gzl0UgFKxWiXwbZ) | 2:52 |
-| 615 | [Janie](https://open.spotify.com/track/1ZPct0Fm4bWqtdfmf1Cspt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 5:00 |
-| 616 | [As Scared As Can Be](https://open.spotify.com/track/0CoUc6KQK29UbNIckUB27e) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Peak Experience](https://open.spotify.com/album/2jfoofcxbrIC99cwR8qMbq) | 2:09 |
-| 617 | [Sleep](https://open.spotify.com/track/6tXvoKcGQvnKZKEV7jL094) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 0:36 |
-| 618 | [Golden Arrow](https://open.spotify.com/track/2uo4ZOD82ldcydWj5cPqAa) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 11:20 |
-| 619 | [TWICE REMOVED](https://open.spotify.com/track/6cMaeMxUUtPGZri4qPSQ5Y) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:59 |
+| 614 | [Janie](https://open.spotify.com/track/1ZPct0Fm4bWqtdfmf1Cspt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 5:00 |
+| 615 | [As Scared As Can Be](https://open.spotify.com/track/0CoUc6KQK29UbNIckUB27e) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Peak Experience](https://open.spotify.com/album/2jfoofcxbrIC99cwR8qMbq) | 2:09 |
+| 616 | [Sleep](https://open.spotify.com/track/6tXvoKcGQvnKZKEV7jL094) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Patience, Moonbeam](https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct) | 0:36 |
+| 617 | [Golden Arrow](https://open.spotify.com/track/2uo4ZOD82ldcydWj5cPqAa) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 11:20 |
+| 618 | [TWICE REMOVED](https://open.spotify.com/track/6cMaeMxUUtPGZri4qPSQ5Y) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:59 |
+| 619 | [Lonesome Is A State of Mind](https://open.spotify.com/track/5DcV7k8MIdYJAAIR0O3Iks) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 4:19 |
+| 620 | [Entrance](https://open.spotify.com/track/6jhgHlVsKiGDNsZnFDv0Ia) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 2:26 |
+| 621 | [Prelude](https://open.spotify.com/track/7jWUnmVEcqR3KggTiSNWAW) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 2:35 |
+| 622 | [London Song](https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:15 |
+| 623 | [Angel Of My Dreams](https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:17 |
+| 624 | [Salsa Verde](https://open.spotify.com/track/1oG4pF6HQpCdEh90q5SNxw) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pogo Rodeo](https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL) | 3:24 |
+| 625 | [time \(a dream deferred\)](https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 1:58 |
+| 626 | [Next To Me](https://open.spotify.com/track/16MKLKWVZPt84xOwCU56hg) | [DJ Sabrina The Teenage DJ](https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh) | [Charmed](https://open.spotify.com/album/3hufhPvd2yMXONUeQjyrT3) | 7:37 |
 
-Snapshot ID: `AAAIHRgqUlx6R3/hJbvCigHk6yp1gXfo`
+Snapshot ID: `AAAIJ1ZTDcIZYBilybR5CYMqV5e0IRrN`

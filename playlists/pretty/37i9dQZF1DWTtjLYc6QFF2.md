@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Найгучніші українські виконавиці у 2025 році! Обкладинка: Юля Юріна
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,340 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,342 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 49 | [Біль на смак](https://open.spotify.com/track/3X9ZCrv3JEhJJoD3819uFf) | [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [Біль на смак](https://open.spotify.com/album/06BL6ATqJ0WquP57UGOyaH) | 2:13 |
 | 50 | [задумано зникну](https://open.spotify.com/track/7kLZydv1IeXYgtIgeDLUzQ) | [yosyaa](https://open.spotify.com/artist/3G8XcG1zIsU5edIBQGsnIV) | [кілька фраз](https://open.spotify.com/album/20d06QHhQUE5qXVSEWh702) | 3:16 |
 
-Snapshot ID: `AAAAAGhwkL1tt2mamfopMMlzE/aTLdZ2`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

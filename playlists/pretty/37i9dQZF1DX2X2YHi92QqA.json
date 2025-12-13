@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 38957,
+  "num_followers": 38963,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
+        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
+      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
+    },
+    {
+      "added_at": "2025-12-02 11:28:48",
+      "album": {
         "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
         "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 237778,
       "name": "Alleys of My Mind",
       "url": "https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB"
-    },
-    {
-      "added_at": "2025-12-02 11:28:48",
-      "album": {
-        "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-        "url": "https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
-      "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
     },
     {
       "added_at": "2025-12-02 11:28:48",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
+        "name": "\u041a\u043e\u0433\u043e \u0442\u0438 \u0432\u0438\u0433\u0430\u0434\u0430\u0432?",
+        "url": "https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO"
+      },
+      "artists": [
+        {
+          "name": "Lely45",
+          "url": "https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw"
+        }
+      ],
+      "duration_ms": 186724,
+      "name": "\u041a\u043e\u0433\u043e \u0442\u0438 \u0432\u0438\u0433\u0430\u0434\u0430\u0432?",
+      "url": "https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB"
+    },
+    {
+      "added_at": "2025-12-02 11:28:48",
+      "album": {
         "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
         "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
-        "name": "\u041a\u043e\u0433\u043e \u0442\u0438 \u0432\u0438\u0433\u0430\u0434\u0430\u0432?",
-        "url": "https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO"
+        "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
+        "url": "https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os"
       },
       "artists": [
         {
-          "name": "Lely45",
-          "url": "https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw"
+          "name": "Maryna Krut",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
         }
       ],
-      "duration_ms": 186724,
-      "name": "\u041a\u043e\u0433\u043e \u0442\u0438 \u0432\u0438\u0433\u0430\u0434\u0430\u0432?",
-      "url": "https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB"
+      "duration_ms": 195859,
+      "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
+      "url": "https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710"
     },
     {
       "added_at": "2025-12-02 11:28:48",
@@ -915,22 +931,6 @@
       "duration_ms": 174730,
       "name": "Feel it Still",
       "url": "https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM"
-    },
-    {
-      "added_at": "2025-12-02 11:28:48",
-      "album": {
-        "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
-        "url": "https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os"
-      },
-      "artists": [
-        {
-          "name": "Maryna Krut",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
-        }
-      ],
-      "duration_ms": 195859,
-      "name": "\u041f\u0456\u0441\u043d\u0435 \u043c\u043e\u044f",
-      "url": "https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710"
     },
     {
       "added_at": "2025-12-02 11:28:48",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
-        "name": "\u041a\u043e\u043b\u0438 \u0442\u0438 \u043f\u043b\u0430\u0447\u0435\u0448",
-        "url": "https://open.spotify.com/album/0HJ2q77XaxzQoIht3HE0Gf"
-      },
-      "artists": [
-        {
-          "name": "\u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
-          "url": "https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD"
-        }
-      ],
-      "duration_ms": 230082,
-      "name": "\u041a\u043e\u043b\u0438 \u0442\u0438 \u043f\u043b\u0430\u0447\u0435\u0448",
-      "url": "https://open.spotify.com/track/0rV1Xyj5FyaGz3HyndDUJe"
-    },
-    {
-      "added_at": "2025-12-02 11:28:48",
-      "album": {
         "name": "\u0411\u043e\u0441\u0456",
         "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 144000,
       "name": "\u0411\u043e\u0441\u0456",
       "url": "https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN"
+    },
+    {
+      "added_at": "2025-12-02 11:28:48",
+      "album": {
+        "name": "\u041a\u043e\u043b\u0438 \u0442\u0438 \u043f\u043b\u0430\u0447\u0435\u0448",
+        "url": "https://open.spotify.com/album/0HJ2q77XaxzQoIht3HE0Gf"
+      },
+      "artists": [
+        {
+          "name": "\u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
+          "url": "https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD"
+        }
+      ],
+      "duration_ms": 230082,
+      "name": "\u041a\u043e\u043b\u0438 \u0442\u0438 \u043f\u043b\u0430\u0447\u0435\u0448",
+      "url": "https://open.spotify.com/track/0rV1Xyj5FyaGz3HyndDUJe"
     },
     {
       "added_at": "2025-12-02 11:28:48",

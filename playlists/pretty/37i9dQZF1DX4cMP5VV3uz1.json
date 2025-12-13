@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165922,
+  "num_followers": 165923,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT"
-      },
-      "artists": [
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "move ting",
         "url": "https://open.spotify.com/album/19QzUNqmaVUAokyW4TZ0dV"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 174186,
       "name": "move ting",
       "url": "https://open.spotify.com/track/035MWW56Wl7Wqzc0zk7HzR"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Maia Maia",
-        "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Maia Maia",
-      "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Don't Slow Down",
         "url": "https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 226206,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/081pMCvmyYlZ6G4cHoM8Ro"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Maia Maia",
+        "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Maia Maia",
+      "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "TEK",
-        "url": "https://open.spotify.com/album/474HNg0vy4i1r6ZRTkyaIo"
-      },
-      "artists": [
-        {
-          "name": "Nasser UK",
-          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        },
-        {
-          "name": "Addicted",
-          "url": "https://open.spotify.com/artist/29Z2ip6vZO0MhEynUazeWy"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "TEK (feat.Killa P)",
-      "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1107,6 +1083,46 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "TEK",
+        "url": "https://open.spotify.com/album/474HNg0vy4i1r6ZRTkyaIo"
+      },
+      "artists": [
+        {
+          "name": "Nasser UK",
+          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        },
+        {
+          "name": "Addicted",
+          "url": "https://open.spotify.com/artist/29Z2ip6vZO0MhEynUazeWy"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "TEK (feat.Killa P)",
+      "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "BODY DROP (Won't Stop)",
+        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "BODY DROP (Won't Stop)",
+      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Badman Step",
         "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
       },
@@ -1123,6 +1139,22 @@
       "duration_ms": 200914,
       "name": "Badman Step",
       "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1167,38 +1199,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "BODY DROP (Won't Stop)",
-        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "BODY DROP (Won't Stop)",
-      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Give Up The Ghost",
         "url": "https://open.spotify.com/album/1KvEL8BAgXyqxjtLVSVCHB"
       },
@@ -1227,26 +1227,6 @@
       "duration_ms": 180689,
       "name": "RUN",
       "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "On Your Feet",
-        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
-      },
-      "artists": [
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
-        },
-        {
-          "name": "Dogger",
-          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "On Your Feet",
-      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1283,6 +1263,26 @@
       "duration_ms": 202281,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "On Your Feet",
+        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Dogger",
+          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "On Your Feet",
+      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        }
-      ],
-      "duration_ms": 215481,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Satan's Alley",
         "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
       },
@@ -1387,22 +1371,18 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "MOTION",
-        "url": "https://open.spotify.com/album/2nbddblRCfy4MTsOwVoutS"
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
       },
       "artists": [
         {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        },
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
         }
       ],
-      "duration_ms": 193103,
-      "name": "MOTION",
-      "url": "https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy"
+      "duration_ms": 215481,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "MOTION",
+        "url": "https://open.spotify.com/album/2nbddblRCfy4MTsOwVoutS"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "MOTION",
+      "url": "https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Sell My Soul (VIP)",
         "url": "https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Come With It",
-        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
-      },
-      "artists": [
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Come With It",
-      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/66taP1euWf9VFCgzyeepb3"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 248300,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3eq1Yyh6tRpYDf7tWCdeoo"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Come With It",
+        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
+      },
+      "artists": [
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Come With It",
+      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Whose It",
-        "url": "https://open.spotify.com/album/2Nsnu2j7lJvxDybj7z5Slp"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/3KVezVSkQD5E4l4sMVZEKm"
       },
       "artists": [
         {
-          "name": "Sustance",
-          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
-        },
-        {
-          "name": "Sylla",
-          "url": "https://open.spotify.com/artist/3X2JC3TRBV13ERKkcIguiG"
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
         }
       ],
-      "duration_ms": 204137,
-      "name": "Whose It",
-      "url": "https://open.spotify.com/track/3HvMWWY1wkKG7MFIVUme1o"
+      "duration_ms": 208457,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/542RuKAa7204eeEjbAm9Vh"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1663,18 +1659,22 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/3KVezVSkQD5E4l4sMVZEKm"
+        "name": "Whose It",
+        "url": "https://open.spotify.com/album/2Nsnu2j7lJvxDybj7z5Slp"
       },
       "artists": [
         {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        },
+        {
+          "name": "Sylla",
+          "url": "https://open.spotify.com/artist/3X2JC3TRBV13ERKkcIguiG"
         }
       ],
-      "duration_ms": 208457,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/542RuKAa7204eeEjbAm9Vh"
+      "duration_ms": 204137,
+      "name": "Whose It",
+      "url": "https://open.spotify.com/track/3HvMWWY1wkKG7MFIVUme1o"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/4sfEJd0kHLYe0x7qTrnugx"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        }
+      ],
+      "duration_ms": 191724,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/1zJnBEBuLD42Ypoaum6BOu"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Notorious",
         "url": "https://open.spotify.com/album/30eaztlyRT2WzhZU2xsxA7"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 198857,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/5pT04hSz0CdiqdtyX0Znwy"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/4sfEJd0kHLYe0x7qTrnugx"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/1zJnBEBuLD42Ypoaum6BOu"
     },
     {
       "added_at": "2025-11-28 00:00:06",
