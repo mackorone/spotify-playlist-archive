@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ESMLExvnY4.md) - [plain]
 
 > The very best songs from a huge year for indie, according to Spotify editors\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,799 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,140 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ESMLExvnY4.md) - [plain]
 | 99 | [Falter](https://open.spotify.com/track/1SY5lbCdOQIRJuRPF2h4ht) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Blush Response](https://open.spotify.com/album/11wZb9A2jAk54mXF9FXM2r) | 2:41 |
 | 100 | [Bluebird](https://open.spotify.com/track/3jgZYDYIEthcx7BrDOzPCl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:37 |
 
-Snapshot ID: `AAAAAFKrABWrBTp0DCzg2uNGJ8oPKJBG`
+Snapshot ID: `AAAAADCIvDQjBP2FfUQ365FIIPEjiPQY`

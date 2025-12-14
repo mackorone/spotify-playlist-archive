@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > next gen pop and beyond  💫 cover: DJ Suzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,024 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,014 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [White Rabbit](https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [White Rabbit](https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N) | 3:05 |
-| 2 | [Superscar \- SONIKKU Remix](https://open.spotify.com/track/2DSo999j9b6tgCfWTBlj9t) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP), [SONIKUU](https://open.spotify.com/artist/6OTpU2ulcm9Xh1wKanHMOo) | [Superscar \(SONIKKU Remix\)](https://open.spotify.com/album/7raylxJ3XFNzulLbbFuwnH) | 3:14 |
+| 2 | [Superscar \- SONIKKU Remix](https://open.spotify.com/track/2DSo999j9b6tgCfWTBlj9t) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP), [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Superscar \(SONIKKU Remix\)](https://open.spotify.com/album/7raylxJ3XFNzulLbbFuwnH) | 3:14 |
 | 3 | [MAKE IT RIGHT](https://open.spotify.com/track/2yXyDFCnB6qcAmMZA2HfEl) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [MAKE IT RIGHT](https://open.spotify.com/album/7iVJ0ApHGfPqtcj8d4XTLS) | 1:48 |
 | 4 | [Bandit \(Dorian Electra Remix\)](https://open.spotify.com/track/0LMH04QeEZLVsJx9awYvsT) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Bandit \(Dorian Electra Remix\)](https://open.spotify.com/album/4tfSDRZDMZE2vDsQYZy6Rk) | 2:33 |
 | 5 | [This Is What We Dance For](https://open.spotify.com/track/1EDcmMFvd185Foe3b64fOD) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:04 |

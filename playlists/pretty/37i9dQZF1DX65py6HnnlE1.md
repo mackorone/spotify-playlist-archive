@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,534 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,588 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 34 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
 | 35 | [Se Acabo Lo Bonito](https://open.spotify.com/track/1kA2zpba5Tg4YsOoeCtD6S) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO) | 4:07 |
 | 36 | [Hombre No Muere de Pena](https://open.spotify.com/track/4vVvPFs0eszYfWHO2Qnzau) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Amor Bonito](https://open.spotify.com/album/3PUYcU1iMJDG30dwHgFDsX) | 3:54 |
-| 37 | [Se Te Nota](https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 3:58 |
-| 38 | [No Ha Sido Facil](https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 4:43 |
+| 37 | [No Ha Sido Facil](https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 4:43 |
+| 38 | [Se Te Nota](https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 3:58 |
 | 39 | [Princesa](https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 3:25 |
 | 40 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
 | 41 | [Mujer Infiel](https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:11 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 63 | [Muchachita Loca](https://open.spotify.com/track/7fvktGeoeOLJH3IBG8Ewlg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Bachata Con Sentimiento](https://open.spotify.com/album/0oqZ34A1hwi7DRdvckzBoY) | 4:03 |
 | 64 | [Ay hombe](https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Kings of Bachata](https://open.spotify.com/album/6mAyYaAFbwIrw3sFy6MPwB) | 5:02 |
 | 65 | [Vine a Decirte Adios](https://open.spotify.com/track/7gz5kxYuat0XNOPgmPEg40) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Tranquilo y Tropical](https://open.spotify.com/album/5UnTv9TpJrwHXy8ZSwCCY8) | 4:39 |
-| 66 | [Yo No Muero en Mi Cama](https://open.spotify.com/track/4WMyTanyayUglX70vm5tCl) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo No Muero en Mi Cama \- Single](https://open.spotify.com/album/6Gw6y33bYmAck07ZPjOu1z) | 4:07 |
+| 66 | [Si Tu Me Dejas](https://open.spotify.com/track/2eMCoeD8MWC7sCTnMQTSkP) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [En Persona](https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq) | 4:13 |
 | 67 | [Traicionera](https://open.spotify.com/track/28evvLLtLeY1UHHFOFuqSR) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Como Yo](https://open.spotify.com/album/07J3NTX23uaG0HbXkRKNLI) | 3:40 |
 | 68 | [No Le Pare](https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Dobletazo](https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy) | 2:59 |
 | 69 | [Si Tu Cariño No Esta](https://open.spotify.com/track/5xZPOd1s09Kr5VUXRwRKuI) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 4:12 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 88 | [Cuando El Amor Se Va](https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mas Bachata](https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW) | 3:55 |
 | 89 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
 | 90 | [Te Robaré](https://open.spotify.com/track/3fPMRb2gcFTZcYmR0bXnDc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:39 |
-| 91 | [Si Tu Me Dejas](https://open.spotify.com/track/2eMCoeD8MWC7sCTnMQTSkP) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [En Persona](https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq) | 4:13 |
+| 91 | [Yo No Muero en Mi Cama](https://open.spotify.com/track/4WMyTanyayUglX70vm5tCl) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo No Muero en Mi Cama \- Single](https://open.spotify.com/album/6Gw6y33bYmAck07ZPjOu1z) | 4:07 |
 | 92 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
 | 93 | [Me Voy De Ti](https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS) | 5:44 |
 | 94 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |

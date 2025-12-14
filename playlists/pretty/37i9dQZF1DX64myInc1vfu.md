@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: iLe
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,023 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,039 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 36 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 |
 | 37 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 | 38 | [Déjame Conocerte](https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Déjame Conocerte](https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2) | 3:37 |
-| 39 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
-| 40 | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi) | [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU) | 4:05 |
+| 39 | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi) | [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU) | 4:05 |
+| 40 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
 | 41 | [Gualero REFF12.31](https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Gualero REFF12.31](https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH) | 3:21 |
 | 42 | [cuando el mundo acabe](https://open.spotify.com/track/09CWemxTQUearEPP4pT4uB) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [TRAUMADOS](https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV) | 4:15 |
 | 43 | [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 |

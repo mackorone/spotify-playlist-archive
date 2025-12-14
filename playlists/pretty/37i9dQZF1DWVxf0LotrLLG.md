@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Sech
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,220 likes - 436 songs - 23 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,217 likes - 436 songs - 23 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 9 | [El Desquite \(En Vivo\)](https://open.spotify.com/track/29aNSfOPFusfGE9y0XTggo) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Honorables](https://open.spotify.com/artist/2v6VD5qt6G4oP02bxbJ87P) | [Chapayeka \(En Vivo\)](https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x) | 2:52 |
 | 10 | [LA FAVORITA DE DIOS](https://open.spotify.com/track/4M3I01LZqJDFJxs4veb7jt) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Private Suite \(Vol\. 3\)](https://open.spotify.com/album/5e5rU0LAzThZeH5YCc4Pmi) | 3:54 |
 | 11 | [MI DEMONIA](https://open.spotify.com/track/3LZ1UpsTus0Q5ofrvU5Kp3) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [MI DEMONIA](https://open.spotify.com/album/4RcEaPXzHUbxExvOTrgy4d) | 2:38 |
-| 12 | [QUE TE PASA?](https://open.spotify.com/track/1MEF77Kf5hZyYXmdNSg7pp) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 3\)](https://open.spotify.com/album/5e5rU0LAzThZeH5YCc4Pmi) | 3:11 |
+| 12 | [QUE TE PASA ?](https://open.spotify.com/track/1MEF77Kf5hZyYXmdNSg7pp) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 3\)](https://open.spotify.com/album/5e5rU0LAzThZeH5YCc4Pmi) | 3:11 |
 | 13 | [tiempo pasa](https://open.spotify.com/track/4q0E9LdUvQdNR2bSm3kkIV) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [VERANO SAUDADE](https://open.spotify.com/album/4NiMrAqxTakrdJi0DNGwFd) | 3:34 |
 | 14 | [mi breve juventud](https://open.spotify.com/track/0UmdLpEcA5PGxEPQH4wln3) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [VERANO SAUDADE](https://open.spotify.com/album/4NiMrAqxTakrdJi0DNGwFd) | 2:57 |
 | 15 | [TÚ ET MOI](https://open.spotify.com/track/0EsMceg5ksKflUYXt2WMne) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [TÚ ET MOI](https://open.spotify.com/album/5xaBP97FJpj4caWwxoxBVF) | 2:34 |

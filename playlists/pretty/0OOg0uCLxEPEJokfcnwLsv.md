@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 498 likes - 83 songs - 5 hr 3 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 509 likes - 87 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 81 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 |
 | 82 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 |
 | 83 | [Rose Tinted Eyes](https://open.spotify.com/track/76fmIfIURZyrGgdq2qGmm8) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Rose Tinted Eyes](https://open.spotify.com/album/6Vfc9B57eWm1cfzCijhMhI) | 2:47 |
+| 84 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 |
+| 85 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 |
+| 86 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 |
+| 87 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 |
 
-Snapshot ID: `AAAEK/8ai8ePr08H9xdN6jluu/2C65m7`
+Snapshot ID: `AAAEL7O6n5F7MWHTLfZIJT0ER744+AZm`

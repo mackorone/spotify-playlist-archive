@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,624 likes - 74 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,686 likes - 74 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

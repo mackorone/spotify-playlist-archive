@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,193 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,201 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Aquí Estamos](https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Aquí Estamos](https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s) | 3:03 |
 | 50 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 |
 
-Snapshot ID: `aToJgAAAAAAzslzlPY3nwD1pOgjhYOnr`
+Snapshot ID: `aTtbAAAAAAA5WlowKJv2nwXJ7KoUf2O/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,835 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,918 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 46 | [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 |
 | 47 | [Space Rider \- MJ Cole Vocal Mix](https://open.spotify.com/track/17FKIehIe3xjlwOxlC1kWW) | [Shaun Escoffery](https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Oyster Music \- The MJ Cole Mixes](https://open.spotify.com/album/0l8mKOWMYe3r0vV5bQo9IY) | 5:15 |
 | 48 | [Masquerade \- MJ Cole Vocal](https://open.spotify.com/track/6Y0rukXFNvg7b0EqlxEpSZ) | [Gerideau](https://open.spotify.com/artist/3R2svMuMZlY9RBETwlkuEJ), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Masquerade](https://open.spotify.com/album/69AdLMny9By0erdS3ZJBbI) | 6:29 |
-| 49 | [Love Bug \- Bump Mix](https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH) | [Ramsey](https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU), [Fen](https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL), [Lyndsey Moore](https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 5:55 |
-| 50 | [Deeper Love](https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt) | [Ruff Driverz](https://open.spotify.com/artist/0lBn2JE9uxCxlEhITJ8nuX) | [In\-Fidelity](https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35) | 3:54 |
+| 49 | [Deeper Love](https://open.spotify.com/track/0KwE2yUq2e5lKSjK1MsKCt) | [Ruff Driverz](https://open.spotify.com/artist/0lBn2JE9uxCxlEhITJ8nuX) | [In\-Fidelity](https://open.spotify.com/album/6019qvnF1CbqBi32pAiV35) | 3:54 |
+| 50 | [Love Bug \- Bump Mix](https://open.spotify.com/track/1aNW5AgRPpg4M10r7R7EcH) | [Ramsey](https://open.spotify.com/artist/0Jc5OpQ81K0Vbt6ESFB6zU), [Fen](https://open.spotify.com/artist/5YcvAFIoignxIQf2xrFOVL), [Lyndsey Moore](https://open.spotify.com/artist/7jc4bFQYRoQwlCWvquX5SD) | [Pure Garage Rewind](https://open.spotify.com/album/2SUjSPglsVlIv9pom5A9vq) | 5:55 |
 | 51 | [Oh Baby](https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 5:43 |
 | 52 | [Down On Me](https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:28 |
 | 53 | [Attitude](https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:09 |

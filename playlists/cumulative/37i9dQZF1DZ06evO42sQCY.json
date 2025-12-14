@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "ven a mi casa esta navidad",
+        "url": "https://open.spotify.com/album/3aAKIMnGWS3onBBquYKECS"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196187,
+      "name": "ven a mi casa esta navidad",
+      "url": "https://open.spotify.com/track/3ELI7WxrRSvTuzWnVuUT4H"
+    },
+    {
+      "album": {
         "name": "MIRADA",
         "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,919 likes - 85 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,869 likes - 85 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

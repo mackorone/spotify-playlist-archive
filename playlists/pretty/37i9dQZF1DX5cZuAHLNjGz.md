@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412,435 likes - 101 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412,453 likes - 101 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yeri Mua y lxs jarochxs..\. Ahueeeeeeevo
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,352 likes - 87 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,556 likes - 87 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

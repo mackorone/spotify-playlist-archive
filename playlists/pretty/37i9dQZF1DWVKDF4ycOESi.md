@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Gemitaiz, Paky, OneRepublic, Mumford & Sons, Becky G, camoufly e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,713 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,708 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 61 | [serotonina](https://open.spotify.com/track/1cjFUmSySY0dmXxN7JcmaX) | [nicotina](https://open.spotify.com/artist/2nU09GjOfh4WVzCi57Fy5z) | [serotonina](https://open.spotify.com/album/54kmJN7bKdChDRFRPSxlJq) | 2:24 |
 | 62 | [TWIN <3](https://open.spotify.com/track/3KQHjL8BUoaGM0bGrYOJ3s) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Rockstar Syndrome](https://open.spotify.com/album/1QBswvY0AxswTg1LsrPuDV) | 2:20 |
 | 63 | [DIMMI](https://open.spotify.com/track/4CIixeX5jUMTn45NGylsnx) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp) | [LUCE.](https://open.spotify.com/album/61nQxrBaRmmfm1fbMiZ1uc) | 2:54 |
-| 64 | [INCUBI \(feat\. Theo\)](https://open.spotify.com/track/6ex0FQKnXv5OzIfl45EWwo) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd) | [INCUBI](https://open.spotify.com/album/3JF8mPH0jz0KqoyMLhG4T1) | 2:32 |
+| 64 | [INCUBI \(feat\. Theø\)](https://open.spotify.com/track/6ex0FQKnXv5OzIfl45EWwo) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd) | [INCUBI \(feat\. Theø\)](https://open.spotify.com/album/3JF8mPH0jz0KqoyMLhG4T1) | 2:32 |
 | 65 | [Limerence](https://open.spotify.com/track/3O7BR08y9g7X52Js0Cuqyj) | [Heavywave](https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV) | [Limerence](https://open.spotify.com/album/7iprV4RmFGWsUAmI65s6nB) | 3:54 |
 | 66 | [Unica parte](https://open.spotify.com/track/2z1GP2wdIJxOXyigmjVvwo) | [Fitza](https://open.spotify.com/artist/55USAUiYquxBZIn1UJN0BM) | [Unica parte](https://open.spotify.com/album/70dTI4aZJFEjIliXicF5t2) | 3:52 |
 | 67 | [Daniel J](https://open.spotify.com/track/7mdSW1dFRCDJb4jokcZTdS) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [404DEI \(Errore degli Dei\)](https://open.spotify.com/album/538nuDVXhyOoEEGNCVMdYu) | 3:30 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 71 | [sono felice ok +](https://open.spotify.com/track/4sy2EpesCpHwWxBJTXryMD) | [fear](https://open.spotify.com/artist/7uYz8KI7EFdecCYUPADrVF) | [INDUSTRY+BREAKER\*](https://open.spotify.com/album/3JZR7kwkLVOkxwG7GORUr3) | 1:59 |
 | 72 | [Dopamina](https://open.spotify.com/track/5xiL50ugCLebNs2PbIRc1M) | [headows](https://open.spotify.com/artist/13LA1PXTvCYn9VT4dqGAfq), [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR) | [Dopamina](https://open.spotify.com/album/57FDAqTAnpVqdNVGSebA4M) | 2:50 |
 | 73 | [CAVALLO BIANCO](https://open.spotify.com/track/7akzt6WBT2EyZssMCB7I3z) | [Milord](https://open.spotify.com/artist/5XOBciTUZqGxJ8AHNo80aE), [popmolly](https://open.spotify.com/artist/6JohJ96OQXdnIxpCuY9LqG) | [CAVALLO BIANCO](https://open.spotify.com/album/1qjueGm75ZGwjqFOj2cifZ) | 2:30 |
-| 74 | [Un Piatto di Pasta \(feat\. MilleAllice\)](https://open.spotify.com/track/53yfSJGz8vcDe6PyG2F3Zf) | [Mazzoli](https://open.spotify.com/artist/1G786I5DFaOFRI2Q8quase), [MilleAlice](https://open.spotify.com/artist/7wtk4d8GuaMqOjPReuhlTa) | [Un Piatto di Pasta](https://open.spotify.com/album/2gP1NU4vo9EfIiO0mdR8Ct) | 2:29 |
+| 74 | [Un piatto di pasta \(feat\. MilleAlice\)](https://open.spotify.com/track/53yfSJGz8vcDe6PyG2F3Zf) | [Mazzoli](https://open.spotify.com/artist/1G786I5DFaOFRI2Q8quase), [MilleAlice](https://open.spotify.com/artist/7wtk4d8GuaMqOjPReuhlTa) | [Un piatto di pasta](https://open.spotify.com/album/2gP1NU4vo9EfIiO0mdR8Ct) | 2:29 |
 | 75 | [In Aria](https://open.spotify.com/track/7qN3JGuvDdkyVOzB9WBBqY) | [Fringuello](https://open.spotify.com/artist/1edHaSYr10CZ9jmCHK9OVl) | [In Aria](https://open.spotify.com/album/4S2SzhLnM2zqHQBrLqQAeD) | 3:37 |
 
 Snapshot ID: `AAAAALGe0C23rTq7MbXH7tt+uGLxTLlL`

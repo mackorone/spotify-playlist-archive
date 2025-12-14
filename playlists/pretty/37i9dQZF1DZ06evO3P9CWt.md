@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,363 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,356 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 26 | [Rubi](https://open.spotify.com/track/6dIkrUW18wrp0402u2It44) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Will Love](https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:13 |
 | 27 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
 | 28 | [AMEIANOITE](https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:46 |
-| 29 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:30 |
+| 29 | [SEREIA](https://open.spotify.com/track/4opMbzrzvBDYyCdph6Slsr) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx) | 2:35 |
 | 30 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/3XkzApmBofoR6p9eE4I6pI) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 3:12 |
-| 31 | [SEREIA](https://open.spotify.com/track/4opMbzrzvBDYyCdph6Slsr) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx) | 2:35 |
+| 31 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:30 |
 | 32 | [Shake It \(feat\. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar\)](https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 4:35 |
 | 33 | [Nada Se Compara a Ti \- Ao Vivo](https://open.spotify.com/track/7uzJJ3v91TG26zothutvV2) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Baú da Taty 2, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr) | 2:48 |
 | 34 | [Pra Te Esquecer](https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Priscilla](https://open.spotify.com/artist/785LtGRXUDaT638HvotpSI) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
 | 50 | [AmarElo \(Sample: Sujeito de Sorte \- Belchior\) \- Ao Vivo](https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:38 |
 
-Snapshot ID: `aToJgAAAAAAET15iqhclK8paeBpmbHnm`
+Snapshot ID: `aTtbAAAAAADo5hdRTorbyw9uRO5KDXvJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,749 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,955 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 28 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 |
 | 29 | [She Loves the Rain](https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:39 |
 | 30 | [Til I Change Your Mind](https://open.spotify.com/track/0SBsdYSakN6BViHUPMzXwN) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:08 |
-| 31 | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS) | 2:40 |
-| 32 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 31 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 32 | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS) | 2:40 |
 | 33 | [Not Your Man](https://open.spotify.com/track/1fQknzJ5j8dreu0zjTkFpl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:37 |
 | 34 | [Goodbye's Been Good to You](https://open.spotify.com/track/2L6pMQRcT6aM0Lq5FycBke) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:44 |
 | 35 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 49 | [Allegedly \(with Teddy Swims\)](https://open.spotify.com/track/6X6O1AbGQqs7Dewftjpoz7) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:36 |
 | 50 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
 
-Snapshot ID: `aToJgAAAAAC3njQ8rgoly7TtYRd0D5J1`
+Snapshot ID: `aTtbAAAAAAAU8npO7F/YBO4jVD+hZG+Z`

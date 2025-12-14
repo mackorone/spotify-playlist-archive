@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20676,
+  "num_followers": 20682,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACRdkMA3aAVbHg6Q9QfR9++",
+  "snapshot_id": "aTtbAAAAAAD5ZeCR5TBgbrggaXjpNbo3",
   "tracks": [
     {
       "added_at": null,
@@ -551,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+      "duration_ms": 350563,
+      "name": "Flava",
+      "url": "https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 350563,
-      "name": "Flava",
-      "url": "https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT"
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Season 2",
-        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Never Made Love (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 164622,
       "name": "Rich Homie Quando (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Season 2",
+        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Never Made Love (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 
 > Australian songs our editors want to put on your radar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,823 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,827 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 | 74 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
 | 75 | [PETRICHOR](https://open.spotify.com/track/45fzl7rJevEFLE2o593L3J) | [HEAVENSGATE](https://open.spotify.com/artist/5xxpBuljNlb95kr6fcf6hj) | [PETRICHOR](https://open.spotify.com/album/4Y1UJNAsHI09B5QydkcSYf) | 3:48 |
 
-Snapshot ID: `AAAAAAngs5X6awxwvYS4yGkaoASNhT07`
+Snapshot ID: `AAAAADjjJeMAHv1MeTDx0qjG7T+iWAEo`

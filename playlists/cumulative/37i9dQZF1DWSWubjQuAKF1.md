@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Piotr Odoszewski
 
-674 songs - 1 day 8 hr 56 min
+676 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,12 +60,13 @@
 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 | 2025-08-27 |
 | [Bez Ciebie](https://open.spotify.com/track/3HdQwGJ9gbYCH2YwqatNoR) | [Berie](https://open.spotify.com/artist/2hUbI0ebOh5Aq8QS1XB54r) | [Bez Ciebie](https://open.spotify.com/album/46XHKQ8GBkUoHoTugf8pjo) | 3:18 | 2025-03-06 | 2025-03-14 |
 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 | 2025-09-23 |  |
-| [Bez siebie](https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Bez siebie](https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p) | 2:58 | 2025-08-26 |  |
+| [Bez siebie](https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Bez siebie](https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p) | 2:58 | 2025-08-26 | 2025-12-14 |
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
 | [Bez urazy](https://open.spotify.com/track/3wdIdpCKVTV28KlMUr8ujE) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bez urazy](https://open.spotify.com/album/4VdAaDojISpUrmCVhIYO4Z) | 2:30 | 2024-08-01 | 2024-08-23 |
 | [Beze mnie](https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Beze mnie](https://open.spotify.com/album/5ZfStO86ShEJezgFv2ZQlk) | 2:27 | 2024-07-18 | 2024-11-29 |
 | [Beze mnie](https://open.spotify.com/track/5gEfm9EEabiqTP4e7TP79P) | [Martyna Wrochna](https://open.spotify.com/artist/6bDtZgCcEV7naaRe0ynqQ0) | [Beze mnie](https://open.spotify.com/album/2X450oRh85j549D67Bz6FT) | 2:36 | 2025-10-21 | 2025-10-31 |
 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 | 2025-11-04 |  |
+| [Biegnę](https://open.spotify.com/track/6kSOQUdPsMyl01zodZ3vFh) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Biegnę](https://open.spotify.com/album/2rmVfVOvDGqJJKz0MKtuKv) | 3:18 | 2025-12-11 |  |
 | [bilet beze mnie](https://open.spotify.com/track/3kZcv5aJNHdGWTe565b2On) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [bilet beze mnie](https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ) | 2:50 | 2025-02-20 | 2025-05-16 |
 | [Bliżej Niż Zwykle](https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Bliżej Niż Zwykle](https://open.spotify.com/album/66MZckGBmRYWcNmGODUtxI) | 3:40 | 2024-12-20 | 2025-03-01 |
 | [blokowiska](https://open.spotify.com/track/03Mok6f5NvRhv6cmPsytT8) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [blokowiska](https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy) | 3:28 | 2024-06-28 | 2024-08-02 |
@@ -197,6 +198,7 @@
 | [Gołębie](https://open.spotify.com/track/5HSDp4WE5al3NP8tKcZyJD) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [Gołębie](https://open.spotify.com/album/1yTlty7l1TWZYl3BrkYeBj) | 4:50 | 2025-07-17 | 2025-08-03 |
 | [Gra Gra Gra](https://open.spotify.com/track/2KlqoFI1E2SM5BNYY8bjJW) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Gra Gra Gra](https://open.spotify.com/album/2o5S6SO44MfFHc5ZiMzTNC) | 3:03 | 2024-06-28 | 2024-09-07 |
 | [Great White Sharks](https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Great White Sharks](https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm) | 3:19 | 2025-05-08 | 2025-06-20 |
+| [grudzień](https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [grudzień](https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE) | 2:22 | 2025-12-11 |  |
 | [Grzesiu](https://open.spotify.com/track/6BDV4Or3MFnqKNN9EH8p91) | [Oliver Gigon](https://open.spotify.com/artist/2FlyaCEJbYuZumkoDuFs0M) | [Grzesiu](https://open.spotify.com/album/4FZltuAdipxeoWAR0kYwWD) | 2:33 | 2024-06-28 | 2024-07-27 |
 | [Guess I'm better now](https://open.spotify.com/track/7zOroQXfgAFFfcTHMxb2F4) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Guess I'm better now](https://open.spotify.com/album/5Xom3m37TfRClXVepHBzrK) | 3:45 | 2025-01-23 | 2025-02-07 |
 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 | 2025-06-27 | 2025-07-18 |
@@ -577,7 +579,7 @@
 | [to nie ten stan](https://open.spotify.com/track/209gXdHjcXRxDxtGNALJLp) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [to nie ten stan](https://open.spotify.com/album/3MfOLXNdSTPvup7EW9qQy6) | 1:51 | 2025-10-07 | 2025-12-06 |
 | [To nie to](https://open.spotify.com/track/4sx1F5vrBxheiLB9LsGfPB) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [To nie to](https://open.spotify.com/album/1j5w8HDzPM4JYHvrvaBypb) | 3:03 | 2025-08-26 | 2025-09-24 |
 | [TOKIO](https://open.spotify.com/track/0FUgOyAUgA9FLdYv6rHENE) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [TOKIO](https://open.spotify.com/album/1UnwAXNTPp9frqmoWkQlp1) | 2:52 | 2025-07-17 | 2025-08-07 |
-| [Tonę](https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Tonę](https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk) | 3:27 | 2025-09-30 |  |
+| [Tonę](https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Tonę](https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk) | 3:27 | 2025-09-30 | 2025-12-14 |
 | [Tonę \(w skateparku\)](https://open.spotify.com/track/7Dr0N7ABvgd89mSuAjcBSB) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Tonę \(w skateparku\)](https://open.spotify.com/album/2WPsbVoKOg9g4nqUQQ6i57) | 3:22 | 2025-12-05 | 2025-12-12 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-27 | 2025-05-09 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 | 2025-06-20 |

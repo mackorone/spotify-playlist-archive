@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 171776,
+  "num_followers": 171786,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABT6VyIGm9GfM3SMFtw+Kjg",
+  "snapshot_id": "aTtbAAAAAABi/VyKKuremFHs7sC90a1b",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "If You Ever Did Believe - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1GD7JuqEbuvdWCALuIwqS4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street Angel",
         "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 263813,
       "name": "Blue Denim",
       "url": "https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "If You Ever Did Believe - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1GD7JuqEbuvdWCALuIwqS4"
     },
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+        "name": "Crystal Visions...The Very Best of Stevie Nicks",
+        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
       },
       "artists": [
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Deep Dish",
+          "url": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA"
         }
       ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+      "duration_ms": 279000,
+      "name": "Dreams (with Deep Dish)",
+      "url": "https://open.spotify.com/track/6ztHD7TBXLxAaPxJ3sO8a4"
     },
     {
       "added_at": null,
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystal Visions...The Very Best of Stevie Nicks",
-        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
       "artists": [
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Deep Dish",
-          "url": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Dreams (with Deep Dish)",
-      "url": "https://open.spotify.com/track/6ztHD7TBXLxAaPxJ3sO8a4"
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -775,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From Party of Five",
-        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 336560,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
+      "duration_ms": 291200,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 216266,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music From Party of Five",
+        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 336560,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-796 songs - 1 day 13 hr 46 min
+797 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 | 2025-03-14 | 2025-07-11 |
 | [MVP](https://open.spotify.com/track/0NEVYvt0Evz01fy43n29R2) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [MVP](https://open.spotify.com/album/7D4R7vF5RsHLebaC00iR1Z) | 2:02 | 2025-04-04 | 2025-05-10 |
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 | 2025-06-10 |
-| [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 | 2025-06-13 |  |
+| [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 | 2025-06-13 | 2025-12-14 |
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-03-28 | 2025-06-10 |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2023-06-23 | 2023-09-29 |
 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-05-17 | 2025-02-25 |
@@ -526,6 +526,7 @@
 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 | 2025-03-14 |  |
 | [Na So](https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Na So](https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs) | 3:34 | 2025-09-05 |  |
 | [Naija Funk](https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Naija Funk](https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O) | 2:06 | 2024-05-17 | 2024-08-02 |
+| [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 | 2025-12-12 |  |
 | [Namipa](https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Namipa](https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95) | 2:21 | 2025-06-27 | 2025-08-15 |
 | [New Religion](https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [New Religion](https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1) | 2:33 | 2023-06-02 | 2023-12-02 |
 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 | 2023-07-21 | 2024-06-28 |

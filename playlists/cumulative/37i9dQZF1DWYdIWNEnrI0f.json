@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "20250327",
+        "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144498,
+      "name": "20250327",
+      "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
+    },
+    {
+      "album": {
         "name": "Sofie's SOS Tape",
         "url": "https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit"
       },
@@ -926,7 +944,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 151932,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,028 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,065 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 29 | [Olvidemos el Reloj](https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Olvidemos el Reloj](https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr) | 3:52 |
 | 30 | [A Paso Lento](https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gordo Fu](https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:44 |
 | 31 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
-| 32 | [Ruego](https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:58 |
-| 33 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 |
+| 32 | [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 |
+| 33 | [Ruego](https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:58 |
 | 34 | [El Último Tango](https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Último Tango](https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W) | 4:10 |
 | 35 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 |
 | 36 | [400 Estrellas](https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [400 Estrellas](https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr) | 3:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 47 | [Suave](https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suave](https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv) | 3:34 |
 | 48 | [Lejos de Aquí](https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sin Maletas](https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf) | 2:43 |
 | 49 | [Otra Vela al Pastel](https://open.spotify.com/track/3UL2fjYLnEpxljZminVDwK) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Otra Vela al Pastel](https://open.spotify.com/album/7nU2hFwdJlfzet8yGeXNzq) | 4:44 |
-| 50 | [Quién la Quiere](https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Little el Crack](https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm) | [Quién la Quiere](https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH) | 5:38 |
+| 50 | [Voy a Estar Bien](https://open.spotify.com/track/2QrRQQh6xNSBl1ZXBcJ6HD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:01 |
 
-Snapshot ID: `aToJgAAAAABsC4Y48pbX1lpGCeB3uZ8r`
+Snapshot ID: `aTtbAAAAAACW/3LrBSb8IfqAYeAz0RJh`

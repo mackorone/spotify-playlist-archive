@@ -1,29 +1,13 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 52336,
+  "num_followers": 52392,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACigMFDXswV3otNj+jebjwh",
+  "snapshot_id": "aTtbAAAAAAC2YvP5noIsghdmEMvCT2oO",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 177601,
-      "name": "I Stay I Leave I Love I Lose",
-      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
-    },
     {
       "added_at": null,
       "album": {
@@ -135,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177601,
+      "name": "I Stay I Leave I Love I Lose",
+      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
       },
@@ -155,22 +155,6 @@
       "duration_ms": 204325,
       "name": "Heartbroken (feat. Jessie Murph & Polo G)",
       "url": "https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 178588,
-      "name": "Certain Kind of Love",
-      "url": "https://open.spotify.com/track/49ulaJeCHwGaSgAiiisHa7"
     },
     {
       "added_at": null,
@@ -207,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 178588,
+      "name": "Certain Kind of Love",
+      "url": "https://open.spotify.com/track/49ulaJeCHwGaSgAiiisHa7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -219,26 +219,6 @@
       "duration_ms": 178472,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 192416,
-      "name": "Forever (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
     },
     {
       "added_at": null,
@@ -275,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 192416,
+      "name": "Forever (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -291,26 +291,6 @@
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/67aaig0zaaSzf8zPqSUoN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Texas (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Texas (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
     },
     {
       "added_at": null,
@@ -347,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Texas (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Texas (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex Hysteria (Deluxe)",
         "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 271625,
       "name": "Wildflowers and Wine",
       "url": "https://open.spotify.com/track/3DjBBD4u8mxzAQRsS9ua1u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 125975,
-      "name": "Love Lies",
-      "url": "https://open.spotify.com/track/3abIPNFqcG1QvNKtjduDxU"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 125975,
+      "name": "Love Lies",
+      "url": "https://open.spotify.com/track/3abIPNFqcG1QvNKtjduDxU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sip",
         "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 172163,
       "name": "Sip",
       "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 155983,
-      "name": "Son of a Bitch",
-      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 155983,
+      "name": "Son of a Bitch",
+      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cowboys And Angels",
         "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
@@ -487,26 +487,6 @@
       "duration_ms": 133973,
       "name": "Cowboys And Angels",
       "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 200966,
-      "name": "Someone In This Room (feat. Bailey Zimmerman)",
-      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
       "duration_ms": 141724,
       "name": "Look Who's Cryin' Now",
       "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 200966,
+      "name": "Someone In This Room (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
       "duration_ms": 245459,
       "name": "Outside",
       "url": "https://open.spotify.com/track/37jbXze04RPOK8ZtPiIbHq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 183734,
-      "name": "Easy Sunday Living",
-      "url": "https://open.spotify.com/track/6JUXtFaAUMFX0q1rP7Kg4b"
     }
   ],
   "unique_name": "This Is Jessie Murph",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, made for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 862 likes - 396 songs - 20 hr 33 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 863 likes - 396 songs - 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 5 | [Coffee](https://open.spotify.com/track/5sAm0D4dCMjKjcm2xjoetv) | [Daniel Shaye](https://open.spotify.com/artist/2QBCZee5isY0iQEJMlredF) | [Coffee](https://open.spotify.com/album/4EBDDCnrkTESaPPmI9lb0U) | 3:19 |
 | 6 | [No Matter What \- 2024](https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo), [Sylver Stripe](https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [GalaxySquid](https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 4:35 |
 | 7 | [PREY](https://open.spotify.com/track/5TuDbn9gFxM8HZRHCdMOXT) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PREY](https://open.spotify.com/album/63GY1hMoq8g2EGO5MVJhLA) | 2:32 |
-| 8 | [mintbeat](https://open.spotify.com/track/62O8fbfn4KFxLQwpL81a9T) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [mintbeat](https://open.spotify.com/album/2FvUnnr64BMsoiMxXuVOiZ) | 1:51 |
-| 9 | [Jingle Bells, as Performed by the Pilford Squadron Seasonal Choral Group](https://open.spotify.com/track/6QuNhKTNlBTcLXwYbxz743) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 2:22 |
-| 10 | [the life im living](https://open.spotify.com/track/2iFM2U5yL9mjlCXp0zi4PS) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 1:46 |
-| 11 | [ROCKSTAR](https://open.spotify.com/track/2yJ5ttbALAxdihVUSRVfPt) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:44 |
-| 12 | [let's touch grass together](https://open.spotify.com/track/3XBWgopNs7PPK5e7MG8hxv) | [flower.puppy](https://open.spotify.com/artist/0jjZSbhJWA1exGhWKwQ2hM) | [outside time](https://open.spotify.com/album/7IMIrH52yvx2lQmcrKQtSu) | 3:26 |
-| 13 | [4K CARPET](https://open.spotify.com/track/284qRqsftKxNPWrejNEewL) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [4K CARPET](https://open.spotify.com/album/6H57oq4pjohzx036mRDRsO) | 2:00 |
-| 14 | [MYANXIETYISDEBILITATING](https://open.spotify.com/track/24d2nJidaomaWyt2SRYuBu) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 2:57 |
+| 8 | [MYANXIETYISDEBILITATING](https://open.spotify.com/track/24d2nJidaomaWyt2SRYuBu) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 2:57 |
+| 9 | [mintbeat](https://open.spotify.com/track/62O8fbfn4KFxLQwpL81a9T) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [mintbeat](https://open.spotify.com/album/2FvUnnr64BMsoiMxXuVOiZ) | 1:51 |
+| 10 | [Jingle Bells, as Performed by the Pilford Squadron Seasonal Choral Group](https://open.spotify.com/track/6QuNhKTNlBTcLXwYbxz743) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 2:22 |
+| 11 | [the life im living](https://open.spotify.com/track/2iFM2U5yL9mjlCXp0zi4PS) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 1:46 |
+| 12 | [ROCKSTAR](https://open.spotify.com/track/2yJ5ttbALAxdihVUSRVfPt) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:44 |
+| 13 | [let's touch grass together](https://open.spotify.com/track/3XBWgopNs7PPK5e7MG8hxv) | [flower.puppy](https://open.spotify.com/artist/0jjZSbhJWA1exGhWKwQ2hM) | [outside time](https://open.spotify.com/album/7IMIrH52yvx2lQmcrKQtSu) | 3:26 |
+| 14 | [4K CARPET](https://open.spotify.com/track/284qRqsftKxNPWrejNEewL) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [4K CARPET](https://open.spotify.com/album/6H57oq4pjohzx036mRDRsO) | 2:00 |
 | 15 | [CREDIT CARD](https://open.spotify.com/track/5P1LnQvlvZmhWvdieCyMoO) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PASSENGERPRINCESS](https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9) | 3:20 |
 | 16 | [LETMEGO](https://open.spotify.com/track/5m61G9851cDaXlwvTvX5es) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 4:24 |
 | 17 | [TUMMY](https://open.spotify.com/track/5knoabT77wyCXAq1dYGQco) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [TUMMY](https://open.spotify.com/album/7rEnBD1bxnkN2pmQnWIvun) | 2:18 |
@@ -405,4 +405,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 395 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 396 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAEiYLQF888D51uS0Kg3ZOcIflU/KgN`
+Snapshot ID: `AAAEiqxYLEB6/tUYX3T8hqT66LImp7Bx`

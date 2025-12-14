@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 八三夭 \(831\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,664 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,667 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [沒有翅膀的人](https://open.spotify.com/track/67N1QPoNCIFE2DsHhs83Kf) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [沒有翅膀的人](https://open.spotify.com/album/75tSlFKpM65HvzfCV8YJWL) | 4:14 |
 | 2 | [今天的我 \- 電影《冠軍之路》主題曲](https://open.spotify.com/track/75PnRxXcbLminTtBbR6Pph) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [今天的我 \(電影《冠軍之路》主題曲\)](https://open.spotify.com/album/1b55ipEd6TVIB4STqIIMXO) | 3:38 |
-| 3 | [過客](https://open.spotify.com/track/74kKHqhF5BkyIAPfIdatSm) | [Mavis Fan](https://open.spotify.com/artist/25rFapdPzsR0PEl8dFWL3I), [100%](https://open.spotify.com/artist/4f41wKRJwzp6TA3Hr9eMyx) | [過客](https://open.spotify.com/album/3jJBQxY8wOfD4FndaqAcrp) | 4:58 |
+| 3 | [過客](https://open.spotify.com/track/74kKHqhF5BkyIAPfIdatSm) | [Mavis Fan](https://open.spotify.com/artist/25rFapdPzsR0PEl8dFWL3I), [100%](https://open.spotify.com/artist/7qSDq2KfSA4iLyZl5MUDVM) | [過客](https://open.spotify.com/album/3jJBQxY8wOfD4FndaqAcrp) | 4:58 |
 | 4 | [白色定格 \(Eternal White\)](https://open.spotify.com/track/1dc9UVn5mc3UKbFzCml6v2) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [白色定格 \(Eternal White\) \- Winter Special Album](https://open.spotify.com/album/0pgch8UoKF7ofIMnOlxPYH) | 3:25 |
 | 5 | [和你一起的風景](https://open.spotify.com/track/5sXgC20W4HQKyJEp46qUqv) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [和你一起的風景未完待續](https://open.spotify.com/album/0tFoZb3tdwfNnjNIwG4mnO) | 3:25 |
 | 6 | [不在乎](https://open.spotify.com/track/1t2mpO9GpLjRHDDX6SFWRn) | [icyball 冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [我很抱歉](https://open.spotify.com/album/7FwNRozMaUvL25aFY6Nlif) | 3:27 |

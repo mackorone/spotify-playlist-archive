@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACla5Sz5m5ZLLJMbV2If+As",
+  "snapshot_id": "aTtbAAAAAADr5K30UiH7qvUenX/CZOmt",
   "tracks": [
     {
       "added_at": null,
@@ -495,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        }
-      ],
-      "duration_ms": 213851,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
         "url": "https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia"
       },
@@ -583,6 +559,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "duration_ms": 213851,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/2if5WMiU68CavgL7OJit4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "U (feat. Mally Mall & Sonny Wilson)",
         "url": "https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV"
       },
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STRIP",
-        "url": "https://open.spotify.com/album/2Y9kOV2VCBxTuVfMcwEliK"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        },
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        }
-      ],
-      "duration_ms": 177475,
-      "name": "STRIP",
-      "url": "https://open.spotify.com/track/4NmQFYQkKQFFUn3v81vtbT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HYPE HOP 003",
         "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 240000,
       "name": "WOKE B Hype Hop Edit",
       "url": "https://open.spotify.com/track/2i5FrnPE6cf7ert9Dzb7DY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STRIP",
+        "url": "https://open.spotify.com/album/2Y9kOV2VCBxTuVfMcwEliK"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "duration_ms": 177475,
+      "name": "STRIP",
+      "url": "https://open.spotify.com/track/4NmQFYQkKQFFUn3v81vtbT"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG MON",
-        "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
-      },
-      "artists": [
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 140204,
-      "name": "BIG MON",
-      "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swing My Way",
         "url": "https://open.spotify.com/album/5hOvPYDRbJpfVQ34rY3gQr"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 192200,
       "name": "Swing My Way",
       "url": "https://open.spotify.com/track/6nVP1QzLceLBUWLLBtqdb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIG MON",
+        "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 140204,
+      "name": "BIG MON",
+      "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
     },
     {
       "added_at": null,
@@ -931,6 +931,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAQX",
+        "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "BTK Villeion",
+          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "RAQX",
+      "url": "https://open.spotify.com/track/770erApKJNOvIdFGtn04G5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/0YyZnj5aMm44Ki54CfOolb"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        },
+        {
+          "name": "TELESCA.",
+          "url": "https://open.spotify.com/artist/7xcTVs6s46xb5VmfbZ89pO"
+        }
+      ],
+      "duration_ms": 182292,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/76Q9VH6V8XfWu1AjXoYceU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MIX IT UP",
         "url": "https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s"
       },
@@ -955,8 +1003,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPE HOP 003",
-        "url": "https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj"
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE CURE",
+        "url": "https://open.spotify.com/album/6qDp02pofjvyNpUY8qnHaC"
       },
       "artists": [
         {
@@ -970,31 +1034,7 @@
       ],
       "duration_ms": 203520,
       "name": "THE CURE",
-      "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAQX",
-        "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        },
-        {
-          "name": "BTK Villeion",
-          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "RAQX",
-      "url": "https://open.spotify.com/track/770erApKJNOvIdFGtn04G5"
+      "url": "https://open.spotify.com/track/5ZzXvXkeuw6vUksPfnWePI"
     },
     {
       "added_at": null,
@@ -1027,8 +1067,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Look Down",
-        "url": "https://open.spotify.com/album/0YyZnj5aMm44Ki54CfOolb"
+        "name": "RVPTVRE",
+        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
       },
       "artists": [
         {
@@ -1036,33 +1076,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
-        },
-        {
-          "name": "TELESCA.",
-          "url": "https://open.spotify.com/artist/7xcTVs6s46xb5VmfbZ89pO"
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
         }
       ],
-      "duration_ms": 182292,
-      "name": "Don't Look Down",
-      "url": "https://open.spotify.com/track/76Q9VH6V8XfWu1AjXoYceU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
+      "duration_ms": 214000,
+      "name": "RVPTVRE",
+      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
     },
     {
       "added_at": null,
@@ -1087,26 +1107,6 @@
       "duration_ms": 206888,
       "name": "Voices (feat. Najja)",
       "url": "https://open.spotify.com/track/0yZ7BOopH03rkVyny1XlpS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RVPTVRE",
-        "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "RVPTVRE",
-      "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
     },
     {
       "added_at": null,

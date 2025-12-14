@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [40 \- From the Prime Video Original Series, House of David](https://open.spotify.com/track/4l3fTWUbeRxu7EoYEzn4Gr) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [40 \(From the Prime Video Original Series, House of David\)](https://open.spotify.com/album/3GXViA0A7o2UVXLpFCnUmp) | 3:29 | 2025-02-07 |  |
+| [40 \- From the Prime Video Original Series, House of David](https://open.spotify.com/track/4l3fTWUbeRxu7EoYEzn4Gr) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [40 \(From the Prime Video Original Series, House of David\)](https://open.spotify.com/album/3GXViA0A7o2UVXLpFCnUmp) | 3:29 | 2025-02-07 |  |
 | [\[close to me\]](https://open.spotify.com/track/74ZyA0thjNZ5CMHaT2qLyI) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[close to me\]](https://open.spotify.com/album/4zJOypBETBxz0mt8jOXh1d) | 2:48 | 2022-02-17 | 2022-07-02 |
 | [\[welcome to the garden\]](https://open.spotify.com/track/59DiEYQhcAV7XNp9H8ldHK) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[welcome to the garden\]](https://open.spotify.com/album/2vsnx7y7uJ9iXr40qkgQlu) | 3:21 | 2023-01-25 | 2024-01-19 |
 | [\[wonder working\]](https://open.spotify.com/track/6KdS6nIKd0YKjukYsnj6IX) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[wonder working\]](https://open.spotify.com/album/1CslCV4Trf529mhODsZVRx) | 3:01 | 2022-02-17 | 2022-08-27 |

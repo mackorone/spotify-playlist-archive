@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 
 > all we want for christmas is..\. che finisca 🙃
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,836 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,799 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 | 25 | [Buzzcut Season](https://open.spotify.com/track/51QEyJI5M7uyd8DOh9tqQY) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:06 |
 | 26 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 |
 | 27 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
-| 28 | [Nettles](https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 8:03 |
-| 29 | [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 |
+| 28 | [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 |
+| 29 | [Nettles](https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 8:03 |
 | 30 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
 
 Snapshot ID: `AAAAANzWU33PA6cm5SJxDg7RDDKP62hO`

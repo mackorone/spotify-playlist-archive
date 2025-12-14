@@ -4,7 +4,7 @@
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-129 songs - 8 hr 44 min
+130 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [October Skies](https://open.spotify.com/track/4O7kxdfjLOFUwIB6Q63ScX) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 3:43 | 2022-10-17 | 2024-11-06 |
 | [October Skies](https://open.spotify.com/track/51y1G3rLwk6cBl0eUbLpeh) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ) | 3:43 | 2024-11-06 |  |
 | [October Skies](https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 3:43 | 2022-11-11 | 2024-11-04 |
+| [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 | 2025-12-14 |  |
 | [Reminder](https://open.spotify.com/track/6LPjdmMvIKGxuzVFsTKF6Z) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 2:04 | 2022-10-12 | 2024-11-04 |
 | [Reminder](https://open.spotify.com/track/6XMJ0ESQ7LZLklgOPpbZJV) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 2:04 | 2023-03-04 | 2024-10-22 |
 | [Roll Away Your Stone](https://open.spotify.com/track/6jC4VpzLZwfD6YkWqGY09s) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:24 | 2023-07-24 | 2024-07-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Dahlin, Nicklas Sahl og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,585 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,575 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 27 | [Call It What It Is](https://open.spotify.com/track/5NGaekNpvNF5Rt6lcxgTUp) | [Luanna Elise](https://open.spotify.com/artist/3HyeLobYzJezuXqKTHwem3) | [It Is What It Is](https://open.spotify.com/album/23ApOqEjEnTlq3XDVn0dpb) | 2:33 |
 | 28 | [Ginger Tea](https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 2:37 |
 | 29 | [Mirrors](https://open.spotify.com/track/1HEYW4REh7DLbv5aE5vqkI) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Mirrors](https://open.spotify.com/album/5klQzXGzwq3yxUhLuHehkd) | 2:08 |
-| 30 | [Ngisize](https://open.spotify.com/track/6JPfOYc8a8whAFhjEMNwdA) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Konke](https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU), [Ticozet](https://open.spotify.com/artist/4zolIbF49J60w0tA2TKvEJ) | [Xigubu](https://open.spotify.com/album/6t0RBt8Ae5khWhaQhOpRgD) | 6:46 |
+| 30 | [Ngisize](https://open.spotify.com/track/6JPfOYc8a8whAFhjEMNwdA) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf), [Konke](https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU), [Ticozet](https://open.spotify.com/artist/4zolIbF49J60w0tA2TKvEJ) | [Xigubu](https://open.spotify.com/album/6t0RBt8Ae5khWhaQhOpRgD) | 6:46 |
 | 31 | [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 |
 | 32 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |
 | 33 | [More Of The Same](https://open.spotify.com/track/0ce4nqi9EevtwI1keTBa07) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [More Of The Same](https://open.spotify.com/album/1EdrIK70b93chA3F2BKwmN) | 2:09 |

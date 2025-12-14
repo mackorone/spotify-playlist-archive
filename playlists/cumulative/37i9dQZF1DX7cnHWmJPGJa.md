@@ -4,7 +4,7 @@
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-53 songs - 2 hr 59 min
+54 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Everything Burns](https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Everything Burns](https://open.spotify.com/album/5GQAmOOjnfq8PgAEm8jgCH) | 2:52 | 2024-12-03 |  |
 | [Faceshopping](https://open.spotify.com/track/2rN1ODOsaNfYu782rw36jR) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:56 | 2024-12-03 |  |
 | [Feel The Fire](https://open.spotify.com/track/2fXx80HCSl6Up2kh7tBkn9) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Feel The Fire](https://open.spotify.com/album/3I65mO7Dtea7Wy73gmUjze) | 3:01 | 2024-12-03 |  |
-| [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2024-12-03 |  |
+| [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2024-12-03 | 2025-12-14 |
 | [Gaslight](https://open.spotify.com/track/6i5RonwR52WwcSmVcyzhsy) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Gaslight](https://open.spotify.com/album/5dZ1ojJdwqwTDwHs0s2nym) | 3:23 | 2024-12-03 |  |
 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 | 2024-12-03 |  |
 | [Hardly News](https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [2](https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe) | 3:22 | 2024-12-03 |  |
@@ -52,6 +52,7 @@
 | [Set Me Free, I’m an Animal](https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Set Me Free, I'm an Animal](https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h) | 3:36 | 2024-12-03 |  |
 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 | 2024-12-03 |  |
 | [State of Blue](https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F) | [Vincent Jäger](https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft) | [Freie Interpreten](https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu) | 3:49 | 2024-12-03 |  |
+| [Super Sonic](https://open.spotify.com/track/0lDfCA1oeceMzbXdSUUv0T) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Super Sonic](https://open.spotify.com/album/2tnYIe4nDilGv2lYzrsCAQ) | 3:11 | 2024-12-03 |  |
 | [The Heat](https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [The Heat](https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe) | 2:16 | 2024-12-03 |  |
 | [The Pretender](https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:40 | 2024-12-03 |  |
 | [The Rodeo](https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [The Rodeo](https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv) | 3:04 | 2024-12-03 | 2025-12-07 |

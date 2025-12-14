@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Beautiful Thunderstorm",
+        "url": "https://open.spotify.com/album/7nqJTaJ6Z2mZakOzt7x2vJ"
+      },
+      "artists": [
+        {
+          "name": "RainGirl",
+          "url": "https://open.spotify.com/artist/6s2UjNnE8eTAmvTR6oV7dN"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "A Beautiful Thunderstorm",
+      "url": "https://open.spotify.com/track/3GoB3XiepANq55EJH6aZbr"
+    },
+    {
+      "album": {
         "name": "Rain Sounds to Fall Asleep",
         "url": "https://open.spotify.com/album/63XNfdp6TaWsZflQDDgg3v"
       },
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 185242,
       "name": "Lightning in my Soul",
       "url": "https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf"
@@ -1486,10 +1504,28 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 224000,
       "name": "Rain and Thunder",
       "url": "https://open.spotify.com/track/0FjuflbopkwyPdYlo1dx8D"
+    },
+    {
+      "album": {
+        "name": "Rain and Thunder beneath the Leaves",
+        "url": "https://open.spotify.com/album/0Yw92qEbVjki2qQjfQoXHN"
+      },
+      "artists": [
+        {
+          "name": "Nebelune",
+          "url": "https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158502,
+      "name": "Rain and Thunder beneath the Leaves",
+      "url": "https://open.spotify.com/track/0Is4kNdtR9S3yRzK05Tp7g"
     },
     {
       "album": {

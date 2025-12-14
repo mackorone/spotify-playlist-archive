@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 with Dillon Francis & Marten Hørger
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,318,041 likes - 125 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,317,963 likes - 125 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 86 | [Sweating](https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Sweating](https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F) | 3:27 |
 | 87 | [Work](https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8), [Smith & Sorren](https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A) | [Work](https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8) | 3:00 |
 | 88 | [Count On You](https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Count On You](https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH) | 2:45 |
-| 89 | [Rock My World](https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Puku](https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9) | [Rock My World](https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe) | 3:18 |
-| 90 | [THE MADNESS \(With I.D.O.\)](https://open.spotify.com/track/7GYaiFYGr2AXZgEIjSLtm6) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [THE MADNESS \(With I.D.O.\)](https://open.spotify.com/album/1kMwgaN52w0jP58pbuhO84) | 3:13 |
+| 89 | [THE MADNESS \(With I.D.O.\)](https://open.spotify.com/track/7GYaiFYGr2AXZgEIjSLtm6) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [THE MADNESS \(With I.D.O.\)](https://open.spotify.com/album/1kMwgaN52w0jP58pbuhO84) | 3:13 |
+| 90 | [Rock My World](https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Puku](https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9) | [Rock My World](https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe) | 3:18 |
 | 91 | [Bass Face](https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Young Lyxx](https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk) | [Bass Face](https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw) | 3:03 |
 | 92 | [gImmE gImmE](https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [gImmE gImmE](https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82) | 3:17 |
 | 93 | [Hooligans](https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Hooligans](https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE) | 3:59 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 121 | [Lights Out](https://open.spotify.com/track/60vSMUTV1JtBk4Juh8nyfV) | [Matt Faulk](https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x) | [Lights Out](https://open.spotify.com/album/1DUm4jqxEuziygBJgn5bX1) | 3:04 |
 | 122 | [ZERO200](https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [ZERO200](https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB) | 3:06 |
 | 123 | [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 |
-| 124 | [Body Moving](https://open.spotify.com/track/5dNmJKFpZUvaz1VP19RIpR) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Body Moving](https://open.spotify.com/album/3NALb5hbAUKTDglObdPDWz) | 2:09 |
-| 125 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 |
+| 124 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 |
+| 125 | [Something To Believe In](https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Something To Believe In](https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A) | 2:26 |
 
 Snapshot ID: `AAAAAM7UsVhUP4OEfqEXMLsQeUMExEBj`

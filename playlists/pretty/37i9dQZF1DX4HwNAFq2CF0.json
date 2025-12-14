@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Foo Fighters",
-  "num_followers": 75640,
+  "num_followers": 75654,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 201726,
       "name": "R U Mine?",
       "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Mirrorball / Mind Over Matter (Reprise)",
-        "url": "https://open.spotify.com/album/2Xp4fbuZF8UNC3b774j7zE"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Mind Over Matter (Reprise)",
-      "url": "https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
+        "name": "Mirrorball / Mind Over Matter (Reprise)",
+        "url": "https://open.spotify.com/album/2Xp4fbuZF8UNC3b774j7zE"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Mind Over Matter (Reprise)",
+      "url": "https://open.spotify.com/track/77KnJc8o5G1eKVwX5ywMeZ"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
         "name": "Inside (Deluxe)",
         "url": "https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2"
       },
@@ -447,6 +447,38 @@
       "duration_ms": 215040,
       "name": "Hayloft II",
       "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
+    },
+    {
+      "added_at": "2025-09-04 22:32:47",
+      "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Sacred Hearts Club",
+        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Sit Next to Me",
+      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -467,38 +499,6 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
-        "name": "Sacred Hearts Club",
-        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Sit Next to Me",
-      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
-    },
-    {
-      "added_at": "2025-09-04 22:32:47",
-      "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Glitter & Gold",
-      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 192106,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/6rrKbzJGGDlSZgLphopS49"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 254509,
-      "name": "Robbers",
-      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 211960,
       "name": "Come with Me Now",
       "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 254509,
+      "name": "Robbers",
+      "url": "https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Fear Inoculum",
         "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 713191,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "War",
+      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
         "name": "Strange Desire",
         "url": "https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "War",
-      "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Unlimited Love",
-        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "For Crying Out Loud (Deluxe)",
         "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 215737,
       "name": "You're in Love with a Psycho",
       "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Unlimited Love",
+        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Starburster",
-        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 221450,
-      "name": "Starburster",
-      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "MCID",
         "url": "https://open.spotify.com/album/16ah4zHJlxx3wjRFg3nkSl"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 278656,
       "name": "16",
       "url": "https://open.spotify.com/track/7jHJ2MzIKO1kIMxGamKRKn"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Starburster",
+        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "The Foundations of Decay",
-        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 360760,
-      "name": "The Foundations of Decay",
-      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 183602,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "The Foundations of Decay",
+        "url": "https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 360760,
+      "name": "The Foundations of Decay",
+      "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
     },
     {
       "added_at": "2025-05-01 22:00:00",

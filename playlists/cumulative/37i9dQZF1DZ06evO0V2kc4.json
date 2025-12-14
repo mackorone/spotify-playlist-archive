@@ -1505,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "No Kings (feat. Joan Baez)",
+        "url": "https://open.spotify.com/album/6XJBVOUONYdjZWLio9emIz"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "No Kings (feat. Joan Baez)",
+      "url": "https://open.spotify.com/track/3TQeJtbJjv8Q4V0a7f5NvT"
+    },
+    {
+      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -1570,7 +1592,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 302000,
       "name": "North Country Blues",
       "url": "https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m"

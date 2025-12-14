@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAvRgyKkt5G3bQtN+D2mFCK",
+  "snapshot_id": "aTtbAAAAAAC0zbdMQIjIIQ1S5F3DEtef",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ginger Tea",
+        "url": "https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 157226,
+      "name": "Ginger Tea",
+      "url": "https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L"
+    },
     {
       "added_at": null,
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. Julieta Venegas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,808,688 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,808,893 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 | 69 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 |
 | 70 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 |
 
-Snapshot ID: `AAAAAAeBvzp8iIypW9DkbeieAxI6ju90`
+Snapshot ID: `AAAAAITtp/8Jwxs4z9JM6kAc+HlyJRvZ`

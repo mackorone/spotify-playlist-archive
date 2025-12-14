@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 290215,
+  "num_followers": 290293,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,18 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 254339,
-      "name": "La Pareja Ideal - En Vivo",
-      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
+      "duration_ms": 205373,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -999,22 +995,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Barra Abierta a los Dolidos... (En Vivo)",
         "url": "https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 236835,
       "name": "A Donde Vayas (En Vivo)",
       "url": "https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 254339,
+      "name": "La Pareja Ideal - En Vivo",
+      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
     },
     {
       "added_at": "2025-01-23 17:30:18",

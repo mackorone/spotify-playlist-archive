@@ -5289,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Low Self-Esteem",
+        "url": "https://open.spotify.com/album/4kq7H7BmmaqyHc9tcxBA5m"
+      },
+      "artists": [
+        {
+          "name": "GUMX",
+          "url": "https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185532,
+      "name": "Low Self-Esteem",
+      "url": "https://open.spotify.com/track/2zxm4rd4aBpEtrk67zHozK"
+    },
+    {
+      "album": {
         "name": "LUCKY BOY",
         "url": "https://open.spotify.com/album/7832Hv94keKPcy8D6Gc7dA"
       },
@@ -9492,7 +9510,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 161026,
       "name": "SUN MYSELF",
       "url": "https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z"

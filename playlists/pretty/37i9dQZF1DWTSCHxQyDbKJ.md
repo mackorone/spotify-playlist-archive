@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,063 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,062 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 75 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 |
 | 76 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
 | 77 | [L.E.E.C.H.E.S](https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [SEWERSTAR](https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp) | 4:04 |
-| 78 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
-| 79 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 |
+| 78 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 |
+| 79 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
 | 80 | [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 |
 | 81 | [breakdown.](https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown\. \(Underworld Rework\)](https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4) | 2:43 |
 | 82 | [It’s not my fault \(it’s yours\)](https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [It’s not my fault \(it’s yours\)](https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL) | 3:00 |

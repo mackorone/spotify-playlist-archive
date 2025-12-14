@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 163258,
+  "num_followers": 163274,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAzTxcQLqYGHb3S3y4+sjep",
+  "snapshot_id": "aTtbAAAAAABrOyA6JyHXA++XCKd9CZ5E",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 400646,
-      "name": "Closer (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/786kFVhHYQ3zIgTHWo6WHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Longer Bound (I'm Free)",
         "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 400646,
+      "name": "Closer (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/786kFVhHYQ3zIgTHWo6WHQ"
     },
     {
       "added_at": null,
@@ -259,30 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YET (feat. Ashley Hess & the King will come)",
-        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Ashley Hess",
-          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
-        },
-        {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
-        }
-      ],
-      "duration_ms": 350194,
-      "name": "YET (feat. Ashley Hess & the King will come)",
-      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at Maverick City",
         "url": "https://open.spotify.com/album/6EuI4oABuEdqtebGSWwtJt"
       },
@@ -303,6 +279,30 @@
       "duration_ms": 295312,
       "name": "Constant - Live",
       "url": "https://open.spotify.com/track/0iNHti6FqdUvPEBvto6WsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YET (feat. Ashley Hess & the King will come)",
+        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+        },
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        }
+      ],
+      "duration_ms": 350194,
+      "name": "YET (feat. Ashley Hess & the King will come)",
+      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Made A Way",
+        "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Bear Bailey",
+          "url": "https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz"
+        }
+      ],
+      "duration_ms": 379082,
+      "name": "Praise You Through It",
+      "url": "https://open.spotify.com/track/0vejLtgneNNOwcfT3E7ma0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Hold It All Together",
         "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 449704,
       "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
       "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Made A Way",
-        "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Bear Bailey",
-          "url": "https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz"
-        }
-      ],
-      "duration_ms": 379082,
-      "name": "Praise You Through It",
-      "url": "https://open.spotify.com/track/0vejLtgneNNOwcfT3E7ma0"
     },
     {
       "added_at": null,
@@ -971,34 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Move Your Heart",
-        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
-        }
-      ],
-      "duration_ms": 621222,
-      "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
-      "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -1027,6 +999,34 @@
       "duration_ms": 225768,
       "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
       "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "duration_ms": 621222,
+      "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
+      "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
     },
     {
       "added_at": null,
@@ -1060,13 +1060,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Majesty Rose",
-          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 629316,
-      "name": "You Keep on Getting Better (feat. Majesty Rose)",
-      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
+      "duration_ms": 563067,
+      "name": "Take Me Back (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
     },
     {
       "added_at": null,
@@ -1160,13 +1160,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Majesty Rose",
+          "url": "https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz"
         }
       ],
-      "duration_ms": 563067,
-      "name": "Take Me Back (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
+      "duration_ms": 629316,
+      "name": "You Keep on Getting Better (feat. Majesty Rose)",
+      "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
     },
     {
       "added_at": null,

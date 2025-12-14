@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,372 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,377 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 10 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
 | 11 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 |
 | 12 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 |
-| 13 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
+| 13 | [Dunia Tipu\-Tipu](https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:38 |
 | 14 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
 | 15 | [Tujuh Belas](https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:14 |
 | 16 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 |
 | 17 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
-| 18 | [Dunia Tipu\-Tipu](https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:38 |
+| 18 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
 | 19 | [All the Time](https://open.spotify.com/track/60zomg1pGnaSrapCzO6aPG) | [The SIGIT](https://open.spotify.com/artist/4RLzLs2SHeyA0nLLlAJBg4) | [Visible Idea of Perfection](https://open.spotify.com/album/3lIr5Sb74IEw4etgpnOluC) | 3:18 |
 | 20 | [Satu Kali](https://open.spotify.com/track/7hMW54xnFEPdmVy4nBHp9H) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:44 |
 | 21 | [Lupakan Cinta](https://open.spotify.com/track/4QhfKUW0Qn1W4nCfnjptw7) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:48 |

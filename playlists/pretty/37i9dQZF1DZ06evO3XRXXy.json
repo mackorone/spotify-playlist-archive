@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 150400,
+  "num_followers": 150413,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABbnrL3oENDJVrdg4DdI/Wz",
+  "snapshot_id": "aTtbAAAAAACzPzJG4Im+Ye0EblUtuMis",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 261866,
       "name": "How Could an Angel Break My Heart (with Toni Braxton)",
       "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 357733,
-      "name": "Passages",
-      "url": "https://open.spotify.com/track/3rddq2C6kmthJnC2VFYzyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 242266,
       "name": "Theme from \"Dying Young\"",
       "url": "https://open.spotify.com/track/6RLqhvZlpOxGHsf7EKoa25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 357733,
+      "name": "Passages",
+      "url": "https://open.spotify.com/track/3rddq2C6kmthJnC2VFYzyr"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 431893,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 431893,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songbird: The Best Of Kenny G",
+        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "The Champion's Theme",
+      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 298066,
       "name": "Everytime I Close My Eyes (with Babyface)",
       "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songbird: The Best Of Kenny G",
-        "url": "https://open.spotify.com/album/0QBvGlklvMn3Tx5xEzFZ06"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "The Champion's Theme",
-      "url": "https://open.spotify.com/track/6ZlnnjYGa9xsucij2hV5f7"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 207757,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 254640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7vK5XIuj2sglBRFFN4KR43"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 207757,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 146881,
-      "name": "Nocturne Op. 9 No. 2",
-      "url": "https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullaby Tres",
         "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 124976,
       "name": "Lullaby Tres",
       "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 146881,
+      "name": "Nocturne Op. 9 No. 2",
+      "url": "https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv"
     },
     {
       "added_at": null,

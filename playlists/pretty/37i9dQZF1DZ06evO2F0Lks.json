@@ -1,29 +1,13 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 151722,
+  "num_followers": 151723,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADlxk4Y/Ot9+ZC03EOy7m8W",
+  "snapshot_id": "aTtbAAAAAAAMH46SAb/AH0pmxpqjtm+z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Some Hearts (20th Anniversary)",
-        "url": "https://open.spotify.com/album/0um6RKG9p46czmye5nNklI"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Some Hearts - Live at Blackbird Studios, Nashville, TN - October 26, 2005",
-      "url": "https://open.spotify.com/track/07ukvgbZNkpnrTJTFJw3Wi"
-    },
     {
       "added_at": null,
       "album": {
@@ -171,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "Cowboy Casanova",
+      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
@@ -187,22 +187,6 @@
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "Cowboy Casanova",
-      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
       "added_at": null,
@@ -411,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Decade #1",
-        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Something in the Water",
-      "url": "https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk Through Fire",
         "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
       },
@@ -443,6 +411,22 @@
       "duration_ms": 194264,
       "name": "If It Was Up To Me",
       "url": "https://open.spotify.com/track/1fKrN4psGIjlo4sccpisJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits: Decade #1",
+        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF"
     },
     {
       "added_at": null,
@@ -479,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Decade #1",
-        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Little Toy Guns",
-      "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Denim & Rhinestones (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
       },
@@ -507,6 +475,22 @@
       "duration_ms": 243453,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits: Decade #1",
+        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Little Toy Guns",
+      "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
     },
     {
       "added_at": null,
@@ -543,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Denim & Rhinestones (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 177400,
       "name": "Out Of That Truck",
       "url": "https://open.spotify.com/track/0NJnqzKuU2zjmd64IXcYqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
     },
     {
       "added_at": null,
@@ -867,6 +851,26 @@
       "duration_ms": 209560,
       "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

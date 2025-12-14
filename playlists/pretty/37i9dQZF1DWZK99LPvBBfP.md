@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,762 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,911 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 36 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 37 | [Finally](https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [Julie McKnight](https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f) | [It's In the Lifestyle \(Limited Edition\)](https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt) | 5:15 |
 | 38 | [Domino](https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK) | [Domino Remixes](https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI) | 7:15 |
-| 39 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
+| 39 | [Pjanoo \- Club Mix](https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:30 |
 | 40 | [Go \(Radio Edit\)](https://open.spotify.com/track/6m97Mu089F0rYcvggzwS2W) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go \(Remixes\)](https://open.spotify.com/album/56kI0i0Zght0OYNwFwJL50) | 3:38 |
-| 41 | [Pjanoo \- Club Mix](https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 7:30 |
+| 41 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
 | 42 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 43 | [Everybody's Free \(Single Version\)](https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [Everybody's Free](https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X) | 3:32 |
 | 44 | [Music Is the Answer \- Original Extended 12\-Inch Mix](https://open.spotify.com/track/4n8YdXETqQ3NvWs5XNpvar) | [Celeda](https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Music Is the Answer \(Part 2\)](https://open.spotify.com/album/06DQnIInJxEezrxyFBHERC) | 14:09 |

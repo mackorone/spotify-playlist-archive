@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 100042,
+  "num_followers": 100037,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "In a Bar in Buenos Aires",
-        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 166900,
-      "name": "In a Bar in Buenos Aires",
-      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Mozart: 6 Sonatas for Piano Duet & Sonata for 2 Pianos, K. 488",
         "url": "https://open.spotify.com/album/7EMQ9izwD1Fnf48NdAxerw"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 606773,
       "name": "Mozart: Sonata for Two Pianos in D Major, K. 448: II. Andante",
       "url": "https://open.spotify.com/track/1sZPu1TAhwrGSSxThC0ZQF"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "In a Bar in Buenos Aires",
+        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 166900,
+      "name": "In a Bar in Buenos Aires",
+      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Starry Sky",
-        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
-      },
-      "artists": [
-        {
-          "name": "April Baxter",
-          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Starry Sky",
-      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Isonzo",
         "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 107500,
       "name": "Isonzo",
       "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran",
-        "url": "https://open.spotify.com/album/1czSDn7BftdygjY200OXTy"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Bruce Brubaker",
-          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
-        }
-      ],
-      "duration_ms": 353146,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/1QmhkjuUlosROqKk59sBSK"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 146000,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/43z2LSP0180NFwr720P3xk"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran",
+        "url": "https://open.spotify.com/album/1czSDn7BftdygjY200OXTy"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Bruce Brubaker",
+          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
+        }
+      ],
+      "duration_ms": 353146,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/1QmhkjuUlosROqKk59sBSK"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Plum Coulee",
-        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
-      },
-      "artists": [
-        {
-          "name": "Michael Janzen",
-          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Plum Coulee",
-      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Kj\u00e6reste",
         "url": "https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 143812,
       "name": "Kj\u00e6reste",
       "url": "https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Plum Coulee",
+        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
+      },
+      "artists": [
+        {
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Plum Coulee",
+      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Exhibitions",
-      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3"
       },
@@ -995,6 +979,38 @@
       "duration_ms": 167333,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Cassiopeia",
+        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
+      },
+      "artists": [
+        {
+          "name": "S.A. Karl",
+          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
+        }
+      ],
+      "duration_ms": 168833,
+      "name": "Cassiopeia",
+      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Exhibitions",
+      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Cassiopeia",
-        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
+        "name": "Mystique",
+        "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
       },
       "artists": [
         {
-          "name": "S.A. Karl",
-          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
         }
       ],
-      "duration_ms": 168833,
-      "name": "Cassiopeia",
-      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
+      "duration_ms": 150250,
+      "name": "Mystique",
+      "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Mystique",
-        "url": "https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Nestico",
-          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Mystique",
-      "url": "https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Piano 1 (Extended)",
         "url": "https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP"
       },
@@ -1091,26 +1091,6 @@
       "duration_ms": 193709,
       "name": "Ice Dance",
       "url": "https://open.spotify.com/track/3jUTFbimuRWC1pnikGG3YP"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Slowdance",
-        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
-      },
-      "artists": [
-        {
-          "name": "Luca Mazzillo",
-          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
-        },
-        {
-          "name": "Jacopo Croci",
-          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
-        }
-      ],
-      "duration_ms": 122883,
-      "name": "Slowdance",
-      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Slowdance",
+        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
+      },
+      "artists": [
+        {
+          "name": "Luca Mazzillo",
+          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
+        },
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+        }
+      ],
+      "duration_ms": 122883,
+      "name": "Slowdance",
+      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Fallboard",
         "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 145075,
       "name": "Valse pour Johann",
       "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Seven Days Walking (Day 7)",
+        "url": "https://open.spotify.com/album/4GEcFHTB7y9N8ciFFDIikp"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 324620,
+      "name": "Seven Days Walking / Day 7: Ascent",
+      "url": "https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Seven Days Walking (Day 7)",
-        "url": "https://open.spotify.com/album/4GEcFHTB7y9N8ciFFDIikp"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 324620,
-      "name": "Seven Days Walking / Day 7: Ascent",
-      "url": "https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Tampa",
         "url": "https://open.spotify.com/album/4lL79tsCuEZN5ClQjoNVDr"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amuse Bouche",
-        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
-      },
-      "artists": [
-        {
-          "name": "Yao Chen",
-          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Is it Over",
-      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Sacred Self",
         "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 188453,
       "name": "Inner Child",
       "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amuse Bouche",
+        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
+      },
+      "artists": [
+        {
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Is it Over",
+      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
-      },
-      "artists": [
-        {
-          "name": "Alexander Motovilov",
-          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
-        }
-      ],
-      "duration_ms": 165902,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 148132,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Motovilov",
+          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
+        }
+      ],
+      "duration_ms": 165902,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Adesso",
-        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Adesso",
-      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Stratosphere",
         "url": "https://open.spotify.com/album/6NM48j8dLlbd5EekSoKOyX"
       },
@@ -1639,18 +1623,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Fin de l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
+        "name": "Farvel til sommeren",
+        "url": "https://open.spotify.com/album/4ykDSRfJ83p4U2QJPIqq0H"
       },
       "artists": [
         {
-          "name": "Falerina Paquet",
-          "url": "https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B"
+          "name": "Nansen Christoffersen",
+          "url": "https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B"
         }
       ],
-      "duration_ms": 113000,
-      "name": "Fin de l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
+      "duration_ms": 123500,
+      "name": "Farvel til sommeren",
+      "url": "https://open.spotify.com/track/2xgBsQS1gpI57AJB5aQg2y"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Adesso",
+        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Adesso",
+      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
     }
   ],
   "unique_name": "Piano Study",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,520 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,568 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 32 | [Angel Baby](https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [The Unavailable 16 & The Original Nitty Gritty](https://open.spotify.com/album/0f9kpqUzaC1KwJ6avbN7Rj) | 3:47 |
 | 33 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
 | 34 | [Baby You Got It](https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Baby You Got It](https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N) | 2:08 |
-| 35 | [I'm Your Puppet](https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [James & Bobby Purify](https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK) | 3:01 |
-| 36 | [Thin Line Between Love and Hate](https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib) | [The Persuaders](https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB) | [Thin Line Between Love & Hate: Golden Classics](https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98) | 3:27 |
+| 35 | [Thin Line Between Love and Hate](https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib) | [The Persuaders](https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB) | [Thin Line Between Love & Hate: Golden Classics](https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98) | 3:27 |
+| 36 | [I'm Your Puppet](https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [James & Bobby Purify](https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK) | 3:01 |
 | 37 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
 | 38 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
 | 39 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
 | 40 | [Make It With You](https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a) | [Ralfi Pagan](https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz) | [With Love](https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud) | 4:45 |
 | 41 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 |
-| 42 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:21 |
-| 43 | [I Want to Be Your Man](https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:09 |
+| 42 | [I Want to Be Your Man](https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:09 |
+| 43 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:21 |
 | 44 | [You Beat Me To The Punch](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 |
 | 45 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
 | 46 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |

@@ -20975,6 +20975,28 @@
     },
     {
       "album": {
+        "name": "Satisfaction Skank",
+        "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199488,
+      "name": "Satisfaction Skank",
+      "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
+    },
+    {
+      "album": {
         "name": "Saturation EP",
         "url": "https://open.spotify.com/album/5N07AHUNsDWtPEoVLbFXBb"
       },
@@ -22908,7 +22930,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 217250,
       "name": "Still Riding",
       "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"

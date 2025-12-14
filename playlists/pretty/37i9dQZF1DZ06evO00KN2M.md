@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 
 > This is Fleetwood Mac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,350 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,573 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 11 | [Hold Me](https://open.spotify.com/track/4kRMsLX7bJqjIfK44qJ9h6) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:45 |
 | 12 | [You Make Loving Fun \- 2004 Remaster](https://open.spotify.com/track/28H3wOEKsaEa8NBEYCLl4j) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:33 |
 | 13 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 |
-| 14 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 |
-| 15 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 |
+| 14 | [Seven Wonders \- 2017 Remaster](https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:42 |
+| 15 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 |
 | 16 | [Second Hand News \- 2004 Remaster](https://open.spotify.com/track/0hlniElQOr5tvSKBaSpAQi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 2:56 |
 | 17 | [Thrown Down](https://open.spotify.com/track/4ffoKyYY6ElVpxUpE48jOc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Say You Will](https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx) | 4:00 |
-| 18 | [Over My Head](https://open.spotify.com/track/4rBnrnqnI0tcjcNAFO6RZO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:34 |
-| 19 | [Big Love \- 2017 Remaster](https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:43 |
+| 18 | [Big Love \- 2017 Remaster](https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:43 |
+| 19 | [Over My Head](https://open.spotify.com/track/4rBnrnqnI0tcjcNAFO6RZO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:34 |
 | 20 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
 | 21 | [Sara](https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 6:22 |
 | 22 | [Hypnotized](https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mystery to Me](https://open.spotify.com/album/7MprjyJe4SD8Sq9Nn7oYD5) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 49 | [Oh Diane \- 2016 Remaster](https://open.spotify.com/track/5JNOmrqg6hee3mtWMwYMPN) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(2016 Remaster\)](https://open.spotify.com/album/2962eYkQa0R7EnIGZqeARS) | 2:38 |
 | 50 | [Intro \- Live 1977](https://open.spotify.com/track/7iPabscOgrBuDkjZAvOVRD) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 0:48 |
 
-Snapshot ID: `aToJgAAAAAAWk6GUDf4ALuaHcPFQVmeU`
+Snapshot ID: `aTtbAAAAAACMG5MVUAMgyjmz1F2+xXOW`

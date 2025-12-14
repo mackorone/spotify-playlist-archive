@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-155 songs - 8 hr 27 min
+156 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Nkosi's Fantasia](https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ) | [Miki Ikhifa](https://open.spotify.com/artist/1U99EbW3KOGlztHeHqSjfo), [Nubalix](https://open.spotify.com/artist/6VdWeYimGqEwBMc0PQ1E5A) | [Nkosi's Fantasia: Chapter One](https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v) | 4:16 | 2025-12-03 |  |
 | [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-12-04 | 2025-12-04 |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-12-04 | 2025-12-04 |
+| [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 | 2025-12-03 |  |
 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-12-04 | 2025-12-04 |
 | [Onions](https://open.spotify.com/track/6R1NQXv3yXEMNmEoq3oV5w) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Onions](https://open.spotify.com/album/2QbGDADifKwU9DlKwQvK6I) | 3:08 | 2025-12-03 |  |
 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 | 2024-12-04 | 2025-12-04 |
@@ -119,7 +120,7 @@
 | [Rivet Gun](https://open.spotify.com/track/5HIUt05qG93skNLEAlNUSt) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/3pXXUt6jY1co9T0qm8URrD) | 2:17 | 2025-12-03 |  |
 | [roadkill](https://open.spotify.com/track/1zXma37Pj0qq04i7dcOZbi) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [roadkill](https://open.spotify.com/album/0yt0yQH4XcdyihCE4qCxPm) | 2:56 | 2024-12-04 | 2025-12-04 |
 | [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 | 2024-12-04 | 2025-12-04 |
-| [Sedona](https://open.spotify.com/track/7b7ILSiNTtbn16VYqvIqrG) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Sedona](https://open.spotify.com/album/7mIpzHi8pyp4pYudim7zwh) | 4:15 | 2025-12-03 |  |
+| [Sedona](https://open.spotify.com/track/7b7ILSiNTtbn16VYqvIqrG) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Sedona](https://open.spotify.com/album/7mIpzHi8pyp4pYudim7zwh) | 4:15 | 2025-12-03 | 2025-12-14 |
 | [SEEK](https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [SEEK](https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp) | 2:41 | 2025-12-03 |  |
 | [Selective](https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Selective](https://open.spotify.com/album/4RiqKfbxSn56Ra4n84rcT3) | 2:52 | 2025-12-03 |  |
 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 | 2024-12-04 | 2025-12-04 |

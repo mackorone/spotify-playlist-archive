@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 20 min
+108 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Amores Fingidos](https://open.spotify.com/track/2PYfmBDAfXilm300zaMTIC) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:59 | 2022-06-01 | 2023-05-26 |
 | [Arboles De La Barranca](https://open.spotify.com/track/0kUbjY97T4F4GLjYPdGUek) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Ayer, Hoy Y Siempre Con..\. Carlos Y José](https://open.spotify.com/album/53bk8gYAjNAtz9s6uEtOB7) | 2:21 | 2022-06-01 | 2023-09-26 |
 | [Arboles De La Barranca](https://open.spotify.com/track/3RIBgjIFE4UXMGTASfEk1s) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Retro Chingonas](https://open.spotify.com/album/4lYOAQavqEc198FSGiGbQe) | 2:21 | 2022-08-07 | 2022-09-21 |
-| [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 | 2022-07-27 |  |
+| [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 | 2022-07-27 | 2025-12-14 |
 | [Arboles de la Barranca](https://open.spotify.com/track/6EIZf1bmYU08aBOH3dtzZW) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 2:21 | 2025-03-14 | 2025-11-27 |
 | [Asesino A Sueldo](https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [¡Ay Que Triste!](https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5) | 3:06 | 2022-11-03 |  |
 | [Betillo Araujo](https://open.spotify.com/track/3JrJ5eReaNEUrhdNLC7KAk) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:09 | 2024-01-31 | 2024-07-21 |
@@ -115,5 +115,6 @@
 | [Tengo A Mi Lupe Aka Mi Lupita](https://open.spotify.com/track/0kbnsN5La8x5adu0AeebTT) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tengo A Mi Lupe](https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD) | 3:23 | 2022-06-01 | 2024-09-25 |
 | [Una Noche Serena Y Oscura](https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Una Noche Serena Y Obscura](https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A) | 4:09 | 2022-06-01 |  |
 | [Árboles de la Barranca](https://open.spotify.com/track/0DCWVnZP7u6h0FcjqE1wVB) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc) | 2:21 | 2023-11-10 | 2025-03-13 |
+| [Árboles de la Barranca](https://open.spotify.com/track/7vTARQmg9bvTRYmNRuFfyw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj) | 2:21 | 2025-12-14 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

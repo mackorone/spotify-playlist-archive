@@ -418,7 +418,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -462,6 +462,24 @@
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/27Cne97mFE21Ob0ScMewrV"
+    },
+    {
+      "album": {
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214647,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul"
     },
     {
       "album": {
@@ -574,6 +592,28 @@
       "duration_ms": 172871,
       "name": "Be Kind",
       "url": "https://open.spotify.com/track/0IAd3wUpWywdem1Fd96cOo"
+    },
+    {
+      "album": {
+        "name": "Be Kind (with Halsey)",
+        "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172761,
+      "name": "Be Kind (with Halsey)",
+      "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
     },
     {
       "album": {
@@ -1216,7 +1256,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -1538,7 +1578,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 246240,
       "name": "Come See About Me",
       "url": "https://open.spotify.com/track/448lrYt4In4wn8tBi4xVmb"
@@ -1776,10 +1816,28 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 198533,
       "name": "Death By A Thousand Cuts",
       "url": "https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D"
+    },
+    {
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187387,
+      "name": "Defibrillator",
+      "url": "https://open.spotify.com/track/4PZcbfLLzu3x1O49PNs2L5"
     },
     {
       "album": {
@@ -1834,7 +1892,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6ouhsRJ7gExB7LCYjITk4Y"
@@ -2040,6 +2098,40 @@
       "duration_ms": 230373,
       "name": "Dress",
       "url": "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105569,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1p7K0GCeGcRexeVApuIKnN"
     },
     {
       "album": {
@@ -2304,7 +2396,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 243264,
       "name": "Eyes Open (Taylor's Version)",
       "url": "https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP"
@@ -2948,10 +3040,80 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 266021,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113230,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
+    },
+    {
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214906,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/7aLT0tLcS40Penaplqu2cZ"
     },
     {
       "album": {
@@ -3068,6 +3230,28 @@
       "duration_ms": 183253,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws"
+    },
+    {
+      "album": {
+        "name": "Halo (feat. PIA MARIA)",
+        "url": "https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "PIA MARIA",
+          "url": "https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Halo (feat. PIA MARIA)",
+      "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
     },
     {
       "album": {
@@ -3238,10 +3422,32 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 193555,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/4SLDGKjU79rLXfSDWsUFXt"
+    },
+    {
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193555,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/7ApkuSWiIH7CWC9XeTirHu"
     },
     {
       "album": {
@@ -3256,7 +3462,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 181534,
       "name": "Honey",
       "url": "https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"
@@ -3787,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "SMILE! :D",
+        "url": "https://open.spotify.com/album/06zkvBCeKh3lMZverXKpLD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199668,
+      "name": "Is There Really No Happiness?",
+      "url": "https://open.spotify.com/track/59BNro4EvYBdUzW8SKvvl8"
+    },
+    {
+      "album": {
         "name": "It's ok I'm ok",
         "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
       },
@@ -3816,7 +4040,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 156642,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII"
@@ -3834,7 +4058,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 156642,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/6gBZsUc90myWngMU5VRYp5"
@@ -3888,7 +4112,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 223186,
       "name": "Juno",
       "url": "https://open.spotify.com/track/0w1qp04v2zehJXctW0JPjy"
@@ -4750,7 +4974,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 156952,
       "name": "midsummer pipe dream",
       "url": "https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV"
@@ -4898,7 +5122,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3YfHR9NFs5dJP82s5Y0dum"
@@ -5282,7 +5506,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 104813,
       "name": "Noises",
       "url": "https://open.spotify.com/track/3dTyQ8CON5t5jreYf2GRhA"
@@ -5481,6 +5705,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216655,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/6t9ufHmXg3up9VUBFeP390"
+    },
+    {
+      "album": {
         "name": "GUTS (spilled)",
         "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
       },
@@ -5644,7 +5886,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -5734,7 +5976,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 296653,
       "name": "party 4 u",
       "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
@@ -5770,10 +6012,28 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 185940,
       "name": "Pavement",
       "url": "https://open.spotify.com/track/05NOojSHkMcdUpAk01vd0r"
+    },
+    {
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185940,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/4DgJf7LsQG6Hb7dIhgiUqY"
     },
     {
       "album": {
@@ -6396,7 +6656,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 220564,
       "name": "Ruin The Friendship",
       "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
@@ -6836,7 +7096,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 141866,
       "name": "Stars",
       "url": "https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe"
@@ -7176,7 +7436,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-09",
+      "date_removed": null,
       "duration_ms": 161757,
       "name": "Talk talk",
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
@@ -7338,7 +7598,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/59mCYbP5mcOn7vIgHshRPv"
@@ -7418,6 +7678,24 @@
       "duration_ms": 299080,
       "name": "The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7"
+    },
+    {
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58032,
+      "name": "The Light Streams in and Hits my Face",
+      "url": "https://open.spotify.com/track/2LrdO7XXMgejQjwbgnlVAb"
     },
     {
       "album": {
@@ -7594,7 +7872,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -7612,7 +7890,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb"
@@ -7760,6 +8038,24 @@
       "duration_ms": 158667,
       "name": "TRASHMAN.",
       "url": "https://open.spotify.com/track/0mWmT0CJAGJ76wunSU8KEY"
+    },
+    {
+      "album": {
+        "name": "SO CLOSE TO WHAT??? (deluxe)",
+        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182017,
+      "name": "TRYING ON SHOES",
+      "url": "https://open.spotify.com/track/7AxXJXqJOMRqkgZxvG3r6E"
     },
     {
       "album": {
@@ -8254,7 +8550,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 173426,
       "name": "who\u2019s your boyfriend",
       "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
@@ -8380,7 +8676,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 150517,
       "name": "Wood",
       "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"

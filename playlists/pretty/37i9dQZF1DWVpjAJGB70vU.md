@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,122,789 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123,187 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 88 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
 | 89 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
 | 90 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:52 |
-| 91 | [Daddy's Money](https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Ricochet](https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8) | 3:03 |
-| 92 | [Blue](https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 2:49 |
+| 91 | [Blue](https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 2:49 |
+| 92 | [Daddy's Money](https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Ricochet](https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8) | 3:03 |
 | 93 | [How Do I Get There](https://open.spotify.com/track/34VnYs7xwpscz3DkbTMoHb) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:09 |
 | 94 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
 | 95 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 109 | [Is There Life Out There](https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 3:52 |
 | 110 | [It's A Little Too Late \- 1996 Greatest Hits Version](https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Greatest Hits: Mark Chesnutt](https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg) | 2:43 |
 | 111 | [One Way Ticket \(Because I Can\)](https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 3:43 |
-| 112 | [No News](https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonestar](https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq) | 2:53 |
-| 113 | [Boot Scootin' Boogie](https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 3:17 |
+| 112 | [Boot Scootin' Boogie](https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 3:17 |
+| 113 | [No News](https://open.spotify.com/track/2KgsImShtnuBYfKVgfbAuy) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonestar](https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq) | 2:53 |
 | 114 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
 | 115 | [Two Sparrows In A Hurricane](https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Can't Run From Yourself](https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS) | 4:10 |
 | 116 | [Love, Me](https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR) | [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [All I Can Be](https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA) | 3:51 |

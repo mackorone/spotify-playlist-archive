@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203652,
+  "num_followers": 203651,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAC3ow6HlQYezW5HOKhwGctU",
+  "snapshot_id": "aTtbAAAAAADdNstDjBpZJjKmVQ3b2y1K",
   "tracks": [
     {
       "added_at": null,
@@ -327,38 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 230457,
-      "name": "Against the Wind",
-      "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 231026,
       "name": "Seven Spanish Angels (with Ray Charles)",
       "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 230457,
+      "name": "Against the Wind",
+      "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "California Sober (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 230033,
+      "name": "California Sober (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 169326,
       "name": "Big River",
       "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "California Sober (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 230033,
-      "name": "California Sober (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterday's Wine",
-        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Me and Paul",
-      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 157053,
       "name": "Shotgun Willie",
       "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yesterday's Wine",
+        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Me and Paul",
+      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
     },
     {
       "added_at": null,
@@ -983,22 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 262663,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zez\u00e9 Di Camargo & Luciano 1993",
         "url": "https://open.spotify.com/album/6LOFKEu2x9qznKyY0KUHD3"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 229333,
       "name": "Eu S\u00f3 Penso em Voc\u00ea (Always On My Mind) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 262663,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
     },
     {
       "added_at": null,
@@ -1055,6 +1055,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here We Go Again: Celebrating The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/39xEJSZ5p2fJu7t9tA8Qt6"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 232431,
+      "name": "Come Rain Or Come Shine - Live",
+      "url": "https://open.spotify.com/track/07h5NNEp2Wp0LCDNNoaxRI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 220976,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here We Go Again: Celebrating The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/39xEJSZ5p2fJu7t9tA8Qt6"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 232431,
-      "name": "Come Rain Or Come Shine - Live",
-      "url": "https://open.spotify.com/track/07h5NNEp2Wp0LCDNNoaxRI"
     },
     {
       "added_at": null,

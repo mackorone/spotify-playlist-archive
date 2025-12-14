@@ -4,10 +4,11 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-180 songs - 8 hr 35 min
+182 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Beautiful Thunderstorm](https://open.spotify.com/track/3GoB3XiepANq55EJH6aZbr) | [RainGirl](https://open.spotify.com/artist/6s2UjNnE8eTAmvTR6oV7dN) | [A Beautiful Thunderstorm](https://open.spotify.com/album/7nqJTaJ6Z2mZakOzt7x2vJ) | 2:12 | 2025-11-11 |  |
 | [A Gentle Thunderstorm](https://open.spotify.com/track/7t2gqm0vQJ9sdmiLXgmb9o) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Rain Sounds to Fall Asleep](https://open.spotify.com/album/63XNfdp6TaWsZflQDDgg3v) | 3:06 | 2022-10-28 |  |
 | [A Storm For Sleep](https://open.spotify.com/track/7jV5HQ9V02hy2r0WjZDGnl) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [A Storm For Sleep](https://open.spotify.com/album/7IyU3zk03UTNgtMiW4U921) | 3:45 | 2022-10-28 |  |
 | [Aguacero](https://open.spotify.com/track/139xQGTwuv9suuSwg7hSLg) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:58 | 2025-07-23 |  |
@@ -62,7 +63,7 @@
 | [Light And Thunder](https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2022-10-28 |  |
 | [Light Rain Thunder in Tabio](https://open.spotify.com/track/4yfVltdD9apD0UuyXdAoGW) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Andean Serene Thunderstorms](https://open.spotify.com/album/0bta8z0QHhtpCVCi6sU7TH) | 2:13 | 2024-04-15 | 2024-10-04 |
-| [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 |  |
+| [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 | 2025-12-14 |
 | [Lightning in the Dark](https://open.spotify.com/track/3UEdcz71hKsKcad6rnC8tO) | [Thunder etc.](https://open.spotify.com/artist/1O2nK8zKtpXOckXSR76kaS) | [Thunderstorm Blues](https://open.spotify.com/album/0yC2vctUeh6ODo7qw1QFIj) | 3:02 | 2023-09-20 |  |
 | [Lightning in the Evening](https://open.spotify.com/track/3Wzk6YAWxFTw6wNzycn6q6) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:51 | 2023-09-20 | 2025-08-08 |
 | [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 |  |
@@ -89,7 +90,8 @@
 | [Pouring Some Thunder](https://open.spotify.com/track/64dYaCKeQk2Dki02HFoWOi) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Pouring Some Thunder](https://open.spotify.com/album/320FxgsXWekHkC6tuCJE6Z) | 2:50 | 2023-09-20 |  |
 | [Pouring Thunder Above The Ocean](https://open.spotify.com/track/67YztHRQ5ntq11LRrWN9KO) | [Somnolency](https://open.spotify.com/artist/6jBbuQOiZPrPl6Ehv7Lahb) | [Pouring Thunder Above The Ocean](https://open.spotify.com/album/2R6feIQUjvZFaauQAJM0Hw) | 3:04 | 2022-10-28 |  |
 | [Rain & Thunder Outside The Palace](https://open.spotify.com/track/5H6GwQZbsw9LSewKcfb57O) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain For The Queen](https://open.spotify.com/album/2q0IUlA89T4UMf4n4j2DMR) | 3:30 | 2022-10-28 |  |
-| [Rain and Thunder](https://open.spotify.com/track/0FjuflbopkwyPdYlo1dx8D) | [Lissening](https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja) | [Thunderstuck](https://open.spotify.com/album/0XlwevCM65m1dwMbmOVqNr) | 3:44 | 2023-09-20 |  |
+| [Rain and Thunder](https://open.spotify.com/track/0FjuflbopkwyPdYlo1dx8D) | [Lissening](https://open.spotify.com/artist/0nKn7U6mLdh9AtbUvK5dja) | [Thunderstuck](https://open.spotify.com/album/0XlwevCM65m1dwMbmOVqNr) | 3:44 | 2023-09-20 | 2025-12-14 |
+| [Rain and Thunder beneath the Leaves](https://open.spotify.com/track/0Is4kNdtR9S3yRzK05Tp7g) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Rain and Thunder beneath the Leaves](https://open.spotify.com/album/0Yw92qEbVjki2qQjfQoXHN) | 2:38 | 2025-11-11 |  |
 | [Rain Distant Thunder Samos](https://open.spotify.com/track/11tPKEkyvvguwJcghHEqhW) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Rain & Thunder Samos](https://open.spotify.com/album/6xmwcrMZbAxNsnuCrbbfsC) | 2:25 | 2023-09-20 |  |
 | [Rain On The Porch](https://open.spotify.com/track/0bXYBIzlncmj0LwOd3J5wn) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Relaxing Rain Sounds](https://open.spotify.com/album/1MvTpPYBFMJNYkThlmdC2l) | 2:47 | 2022-10-28 |  |
 | [Rain with Rolling and Clapping Thunder](https://open.spotify.com/track/4ndtxpFn1DfrKoXwsSnNug) | [In Natura](https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7) | [ETERNAL RAIN](https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF) | 2:08 | 2022-10-28 |  |

@@ -4,7 +4,7 @@
 
 > New arrivals as they come\. Cover: M Huncho
 
-229 songs - 11 hr 6 min
+229 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Same Shit](https://open.spotify.com/track/1Hu9ijKYbuC9n5xb1eB5xW) | [yaemulli](https://open.spotify.com/artist/7A0S2z4SJghf7Nr6uI31xM) | [Same Shit](https://open.spotify.com/album/2UvdzDd6ILpARfeT4vXbTr) | 3:07 | 2025-11-14 | 2025-11-21 |
 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 | 2025-11-14 | 2025-12-05 |
 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 |  |
-| [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 3:23 | 2025-12-12 |  |
+| [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 2:22 | 2025-12-12 |  |
 | [Shot Caller](https://open.spotify.com/track/4i15z1pvFVNuaMEQQFBTDm) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Shot Caller](https://open.spotify.com/album/7p8iWzdtG32lZuqMdwc31G) | 2:28 | 2025-11-28 |  |
 | [show me](https://open.spotify.com/track/1t5gdRih9JNOeiRCOD2HYg) | [Chopstix](https://open.spotify.com/artist/167yXtyZFzoIEl4650nGkt), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [show me](https://open.spotify.com/album/1q6SyFtxA1DAu2GEflRLBp) | 2:38 | 2025-11-07 | 2025-11-14 |
 | [Signs](https://open.spotify.com/track/2OY1FPx3DtP1EejTyIMG1f) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Signs](https://open.spotify.com/album/0JFcLrkPDSyFJASHH94uII) | 2:42 | 2025-11-14 | 2025-11-28 |

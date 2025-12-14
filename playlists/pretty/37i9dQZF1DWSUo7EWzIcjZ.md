@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,530 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,544 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 53 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
 | 54 | [Te Amo](https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Canta Manny Manuel](https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK) | 4:47 |
 | 55 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
-| 56 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
+| 56 | [Bailando](https://open.spotify.com/track/6aM2gI3fpSOXRuq5EecqTH) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 4:33 |
 | 57 | [Medley](https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:38 |
-| 58 | [Bailando](https://open.spotify.com/track/6aM2gI3fpSOXRuq5EecqTH) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 4:33 |
+| 58 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
 | 59 | [Te Buscare](https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI) | [La Orquesta Joven](https://open.spotify.com/artist/1gPNsezZhRqdoT1PBJj2RK) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 4:19 |
 | 60 | [Nadie Me Brinda Na'](https://open.spotify.com/track/6ZRcNiFhbuSisisClh4Axr) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:55 |
 | 61 | [Te Compro Tu Novia](https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Fiesta Latina](https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau) | 4:25 |

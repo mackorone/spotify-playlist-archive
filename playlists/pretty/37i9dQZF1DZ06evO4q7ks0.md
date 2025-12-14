@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,273 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,357 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 29 | [Stars](https://open.spotify.com/track/5iJ3ZTfEXjqxIU1BrgKhEe) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:31 |
 | 30 | [Liar](https://open.spotify.com/track/1ASMqs9x07lQPj4iMz46O3) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(The Complete Sessions 1991\-1993\)](https://open.spotify.com/album/3ySNx9AXPp4xdyU4WZ37NT) | 2:21 |
 | 31 | [Loud And Clear](https://open.spotify.com/track/5r8skcDoiyjfagGCwQLKsQ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 2:45 |
-| 32 | [I'm Still Remembering \- Live MTV Unplugged](https://open.spotify.com/track/40X0wVnlW0Dljw5XOgkFB4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 5:11 |
-| 33 | [Away](https://open.spotify.com/track/019HjfytZgeJRGpzSOVh5e) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:38 |
+| 32 | [Away](https://open.spotify.com/track/019HjfytZgeJRGpzSOVh5e) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:38 |
+| 33 | [I'm Still Remembering \- Live MTV Unplugged](https://open.spotify.com/track/40X0wVnlW0Dljw5XOgkFB4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 5:11 |
 | 34 | [Íosa](https://open.spotify.com/track/7nDnFw9CmNnxgnY1C7vozN) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Íosa](https://open.spotify.com/album/1HJXIxvS7UsHQWcXS34u48) | 4:08 |
 | 35 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 |
-| 36 | [Intro / Dreaming My Dreams \- Live MTV Unplugged](https://open.spotify.com/track/002yi5PoiijJ9Rxmo4ucs7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:39 |
-| 37 | [Hollywood](https://open.spotify.com/track/2uFBqk6flKDuXiaWt0vV68) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 5:07 |
+| 36 | [Hollywood](https://open.spotify.com/track/2uFBqk6flKDuXiaWt0vV68) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 5:07 |
+| 37 | [Intro / Dreaming My Dreams \- Live MTV Unplugged](https://open.spotify.com/track/002yi5PoiijJ9Rxmo4ucs7) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:39 |
 | 38 | [Wake Me When It's Over](https://open.spotify.com/track/1dJv9b2YEVMsWmtqcTskYr) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:11 |
 | 39 | [Schizophrenic Playboy](https://open.spotify.com/track/6FdVdYNgEbbWbtIyQh8fPL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:39 |
-| 40 | [Yesterday's Gone \- Live MTV Unplugged](https://open.spotify.com/track/1fjfSafHHZE6SpmA958ApR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:04 |
-| 41 | [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/7mKEw1zNstUEAjYdKEtgrl) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 4:34 |
+| 40 | [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/7mKEw1zNstUEAjYdKEtgrl) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 4:34 |
+| 41 | [Yesterday's Gone \- Live MTV Unplugged](https://open.spotify.com/track/1fjfSafHHZE6SpmA958ApR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [MTV Unplugged](https://open.spotify.com/album/3nd1Edu2U0C78WMCsDHF1d) | 4:04 |
 | 42 | [Joe](https://open.spotify.com/track/7ol1ASKne63N10YvJymAjy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 3:21 |
 | 43 | [Tomorrow](https://open.spotify.com/track/5wIKQRf5BreHJPGZaYCEVC) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Roses](https://open.spotify.com/album/75AjCgOwqEyU7WI33rfFH6) | 3:55 |
 | 44 | [All Over Now](https://open.spotify.com/track/7EkcnNdxjcdCjLa9K0CHYI) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 |
 | 50 | [Why](https://open.spotify.com/track/1UZns15TdY7BFYFrs51bJo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:01 |
 
-Snapshot ID: `aToJgAAAAABwtrk6M7zARN5P3ojmVfOu`
+Snapshot ID: `aTtbAAAAAADaBHw3XDjjpnWFiEVm7XoC`

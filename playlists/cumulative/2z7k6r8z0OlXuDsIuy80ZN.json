@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical en la \u00fanica e inimitable lista de LOS40! Actualizamos cada s\u00e1bado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar. Escucha a Taylor Swift, Rosal\u00eda, Rels B, HUNTR/X, y muchos m\u00e1s",
-  "name": "Lista de LOS40 (Oficial) - Rosal\u00eda en el N\u00ba1",
+  "name": "Lista de LOS40 (Oficial) - Rels B en el N\u00ba1",
   "tracks": [
     {
       "album": {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -3962,6 +3962,24 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "album": {

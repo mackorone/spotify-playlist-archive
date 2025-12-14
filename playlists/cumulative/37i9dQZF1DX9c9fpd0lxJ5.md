@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-269 songs - 14 hr 59 min
+270 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Fresa](https://open.spotify.com/track/3dsyfUHYPtqgToDCzV3W9H) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mosaico Pirata](https://open.spotify.com/album/7CtZHgAWrKZnzwJvzBxnyV) | 2:53 | 2024-09-20 |  |
 | [Fresh](https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fresh](https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD) | 2:45 | 2023-09-15 |  |
 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 | 2023-05-26 |  |
-| [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 | 2021-12-29 |  |
+| [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 | 2021-12-29 | 2025-12-14 |
 | [G CLASS](https://open.spotify.com/track/0HaADF00v1QZQr5tcY4URU) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Kuroh](https://open.spotify.com/artist/1SWKdOrynsD5faJKAoYTPp), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [G CLASS](https://open.spotify.com/album/5R8MCA9qPj2nulH42BeCHE) | 3:14 | 2024-05-31 | 2025-03-09 |
 | [Ganas](https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Ganas](https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2) | 2:46 | 2023-03-03 | 2024-09-13 |
 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 | 2021-12-29 | 2024-06-01 |
@@ -191,6 +191,7 @@
 | [Pausa](https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Gian Rojas](https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU) | [Pausa](https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93) | 3:52 | 2022-01-26 | 2023-04-22 |
 | [Pelo Negro](https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g) | [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie) | [Pelo Negro](https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD) | 3:12 | 2023-07-07 |  |
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2024-05-31 |  |
+| [Perdón por lo que dije](https://open.spotify.com/track/7IhNXZrIgXh5ZtNtW7CtK1) | [Julietas](https://open.spotify.com/artist/0Uh0FKNPaZmi4av7rp3586) | [Perdón por lo que dije](https://open.spotify.com/album/0bQiEyTwxJF5zxmacklfKc) | 3:25 | 2025-10-24 |  |
 | [Perreo Bonito](https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc) | 3:07 | 2023-03-03 |  |
 | [Persona Favorita](https://open.spotify.com/track/4vzTSRapnXGGZUoxsiCtL3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Persona Favorita](https://open.spotify.com/album/00cy9kHF15QYiSfD6Eyo5v) | 4:00 | 2023-03-03 | 2023-03-11 |
 | [Persona Favorita](https://open.spotify.com/track/6WklRgGMJsQEB74MvnS36U) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 4:01 | 2023-03-03 | 2024-04-19 |

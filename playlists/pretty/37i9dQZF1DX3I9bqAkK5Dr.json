@@ -1,13 +1,57 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Eknaath Kiran Goparaaju",
-  "num_followers": 42082,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Smita",
+  "num_followers": 42093,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXIBaKrdVsdM6VVx193Wj+4FDTE",
+  "snapshot_id": "AAAAAGjBxuqMH0n8aIUC6JE+3Uyreef0",
   "tracks": [
+    {
+      "added_at": "2025-12-13 17:33:05",
+      "album": {
+        "name": "OG x Masaka Masaka",
+        "url": "https://open.spotify.com/album/5lrVb481Qn1xvUPD62Z1Eq"
+      },
+      "artists": [
+        {
+          "name": "Smita",
+          "url": "https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve"
+        },
+        {
+          "name": "Noel Sean",
+          "url": "https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN"
+        },
+        {
+          "name": "Sumit Dinkar Suvarna",
+          "url": "https://open.spotify.com/artist/2pbRg5gYtASebmEvg3eP6i"
+        }
+      ],
+      "duration_ms": 185039,
+      "name": "OG x Masaka Masaka",
+      "url": "https://open.spotify.com/track/15RHsBDuuYBP93t2GibTYF"
+    },
+    {
+      "added_at": "2025-12-13 16:37:04",
+      "album": {
+        "name": "AbhinavaKavi",
+        "url": "https://open.spotify.com/album/5Nh7sYkNPBtOSEPBzza9Nf"
+      },
+      "artists": [
+        {
+          "name": "AbhinavaKavi",
+          "url": "https://open.spotify.com/artist/4JNNsOGz9LwbUJCVUoV3wG"
+        },
+        {
+          "name": "Royoto",
+          "url": "https://open.spotify.com/artist/0xfCyvNh798fse05rM1T37"
+        }
+      ],
+      "duration_ms": 175423,
+      "name": "AbhinavaKavi",
+      "url": "https://open.spotify.com/track/1S1O336fRRNAppsuafNrWh"
+    },
     {
       "added_at": "2025-12-05 06:33:44",
       "album": {
@@ -43,22 +87,6 @@
       "duration_ms": 187058,
       "name": "Mava",
       "url": "https://open.spotify.com/track/4DGW1TXNm20X2Z3sbts3pI"
-    },
-    {
-      "added_at": "2025-11-06 07:16:45",
-      "album": {
-        "name": "Kadhanametu",
-        "url": "https://open.spotify.com/album/4pk3pLkRE5JY1W0oL9KCDy"
-      },
-      "artists": [
-        {
-          "name": "Eknaath",
-          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
-        }
-      ],
-      "duration_ms": 202581,
-      "name": "Kadhanametu",
-      "url": "https://open.spotify.com/track/0KjqwXu7zvoaaPJpG7pEXP"
     },
     {
       "added_at": "2025-10-03 03:32:29",
@@ -279,22 +307,6 @@
       "duration_ms": 186000,
       "name": "Neetho",
       "url": "https://open.spotify.com/track/2JWW2XxFTitx26C0YzaNEE"
-    },
-    {
-      "added_at": "2025-11-11 11:15:08",
-      "album": {
-        "name": "Bangaru",
-        "url": "https://open.spotify.com/album/51t7QiRHzfXqyiZ3euyglO"
-      },
-      "artists": [
-        {
-          "name": "Sreerama Chandra",
-          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
-        }
-      ],
-      "duration_ms": 200365,
-      "name": "Bangaru",
-      "url": "https://open.spotify.com/track/09qjN4zFiZH8lcuINSJ5lk"
     },
     {
       "added_at": "2025-11-18 07:41:24",

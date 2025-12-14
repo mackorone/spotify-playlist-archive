@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,471 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,578 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 4 | [Arcticano](https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Arcticano](https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V) | 2:44 |
 | 5 | [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 |
 | 6 | [Old Friends](https://open.spotify.com/track/4ipco4orDngfmTXSaiBm4x) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [Old Friends](https://open.spotify.com/album/7MgEFOHLuO16karUWsZ19V) | 2:33 |
-| 7 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 |
-| 8 | [World](https://open.spotify.com/track/2tfGauk51uKPA5u2d0SFkM) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [World](https://open.spotify.com/album/6fEv2kZSdsp9U68tq1YFcs) | 2:24 |
+| 7 | [World](https://open.spotify.com/track/2tfGauk51uKPA5u2d0SFkM) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [World](https://open.spotify.com/album/6fEv2kZSdsp9U68tq1YFcs) | 2:24 |
+| 8 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 |
 | 9 | [if you do](https://open.spotify.com/track/5R4nEl8XfFBPS2kxk5KOgi) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [if you do](https://open.spotify.com/album/7anJkBjZABHWT2cSru4sBw) | 2:30 |
 | 10 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 |
 | 11 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 |
@@ -24,20 +24,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 14 | [less\-than\-flattering](https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [less\-than\-flattering](https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj) | 2:07 |
 | 15 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 |
 | 16 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 |
-| 17 | [Cozy Vinylesque](https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Cozy Vinylesque](https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH) | 3:14 |
-| 18 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 |
+| 17 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 |
+| 18 | [Cozy Vinylesque](https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Cozy Vinylesque](https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH) | 3:14 |
 | 19 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
 | 20 | [my own practice](https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [my own practice](https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe) | 2:12 |
 | 21 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 |
 | 22 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 |
 | 23 | [Whispers of the Wind](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Whispers of the Wind](https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00) | 2:13 |
 | 24 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 |
-| 25 | [Honey and Spice](https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Honey and Spice](https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw) | 2:08 |
-| 26 | [all the stars in the sky](https://open.spotify.com/track/2QJ3SfZuMA5nOi6LrDFJbs) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [all the stars in the sky](https://open.spotify.com/album/4iFeZo1H2srsSgeV5DLOrb) | 2:27 |
+| 25 | [all the stars in the sky](https://open.spotify.com/track/2QJ3SfZuMA5nOi6LrDFJbs) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [all the stars in the sky](https://open.spotify.com/album/4iFeZo1H2srsSgeV5DLOrb) | 2:27 |
+| 26 | [Honey and Spice](https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Honey and Spice](https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw) | 2:08 |
 | 27 | [another time, another place](https://open.spotify.com/track/6A0Nu9iDYTjeCVXCm2fplq) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [another time, another place](https://open.spotify.com/album/4dWPNuUqkN1yPICPJFFFTi) | 2:45 |
 | 28 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 |
-| 29 | [Forgotten Dreams](https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3) | [Holy Jamie](https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u) | [Forgotten Dreams](https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy) | 2:00 |
-| 30 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 |
+| 29 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 |
+| 30 | [Forgotten Dreams](https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3) | [Holy Jamie](https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u) | [Forgotten Dreams](https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy) | 2:00 |
 | 31 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 |
 | 32 | [Blue Horizon](https://open.spotify.com/track/0OA8PeZ8hLpAIku5Gg1C3U) | [Mareel](https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z) | [Blue Horizon](https://open.spotify.com/album/5zlNXnQTjDxiLeuS0fELY8) | 2:03 |
 | 33 | [Piano Roll](https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Piano Roll](https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt) | 2:05 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 65 | [once upon a time](https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [once upon a time](https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w) | 2:24 |
 | 66 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 |
 | 67 | [Friday Luxury](https://open.spotify.com/track/4hEtOsS3Hgn2vdVlchhXpT) | [Yankee Hart](https://open.spotify.com/artist/3QjEKf7OgPZayWOOt8AUBi) | [Friday Luxury](https://open.spotify.com/album/25dLRyb68yRiLszZWDidPW) | 2:03 |
-| 68 | [Crimson Red](https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:55 |
-| 69 | [high above](https://open.spotify.com/track/4iIFJ3anp1aKw6fx0tg8jD) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [high above](https://open.spotify.com/album/0dNK0JXw77i4UaG6HRVidc) | 1:42 |
-| 70 | [Sparkle](https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Sparkle](https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP) | 2:30 |
+| 68 | [Sparkle](https://open.spotify.com/track/6E3Ks7ElkgvfhF93unPTXj) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Sparkle](https://open.spotify.com/album/6pwc042jl4PQ5RQfSMUGOP) | 2:30 |
+| 69 | [Crimson Red](https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Road to Emmaus](https://open.spotify.com/album/1VQRmpVXZTjLs4ZW42mmwT) | 1:55 |
+| 70 | [high above](https://open.spotify.com/track/4iIFJ3anp1aKw6fx0tg8jD) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [high above](https://open.spotify.com/album/0dNK0JXw77i4UaG6HRVidc) | 1:42 |
 | 71 | [Bar Breeze](https://open.spotify.com/track/4cPDwwClSmyI85odEgVVgm) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Bar Breeze](https://open.spotify.com/album/58Igwkq1QIk5dfnfoqaB5M) | 2:18 |
 | 72 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
 | 73 | [dear](https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO) | [Ree Vozz](https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu) | [chai latay](https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki) | 2:51 |

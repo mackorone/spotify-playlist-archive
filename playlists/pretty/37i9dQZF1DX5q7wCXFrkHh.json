@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 136481,
+  "num_followers": 136540,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Solo Monk (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 157026,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The K\u00f6ln Concert",
         "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
       },
@@ -243,18 +227,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Ellington Suites",
-        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
+        "name": "Solo Monk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 244933,
-      "name": "The Single Petal Of A Rose - The Queen's Suite",
-      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
+      "duration_ms": 157026,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -271,6 +255,22 @@
       "duration_ms": 214440,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The Ellington Suites",
+        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "The Single Petal Of A Rose - The Queen's Suite",
+      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -323,30 +323,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Red Garland's Piano",
-        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
-        }
-      ],
-      "duration_ms": 588840,
-      "name": "Please Send Me Someone To Love",
-      "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -367,6 +343,30 @@
       "duration_ms": 360546,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7JtcCde09fsajDNHmPFrX7"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "duration_ms": 588840,
+      "name": "Please Send Me Someone To Love",
+      "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "We Will Meet Again - Remastered",
+      "url": "https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 282600,
       "name": "Take The Coltrane",
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "We Will Meet Again - Remastered",
-      "url": "https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Blues and Ballads",
-        "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
-        }
-      ],
-      "duration_ms": 565480,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Monk's Dream",
         "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 268400,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Blues and Ballads",
+        "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+        }
+      ],
+      "duration_ms": 565480,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Some More Love Songs",
-        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
-      },
-      "artists": [
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        }
-      ],
-      "duration_ms": 447813,
-      "name": "When I Fall in Love",
-      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Profile",
         "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 292333,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Some More Love Songs",
+        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
+      },
+      "artists": [
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        }
+      ],
+      "duration_ms": 447813,
+      "name": "When I Fall in Love",
+      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
-        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
-      },
-      "artists": [
-        {
-          "name": "James P. Johnson",
-          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Blue Note Boogie",
-      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Crystal Silence",
         "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 238800,
       "name": "I'm Your Pal",
       "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
+        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
+      },
+      "artists": [
+        {
+          "name": "James P. Johnson",
+          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Blue Note Boogie",
+      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Masterjazz: Vince Guaraldi Trio",
-        "url": "https://open.spotify.com/album/38HIowIbOOjNVilz8MqIam"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/1xHgQN5A8a7iNi9AHxm6wl"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Fatha",
         "url": "https://open.spotify.com/album/44GmAp9XFBoimjYya5tJzw"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 248600,
       "name": "St. James Infirmary Blues",
       "url": "https://open.spotify.com/track/50q2XoQmoHNt6imrugVV90"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Masterjazz: Vince Guaraldi Trio",
+        "url": "https://open.spotify.com/album/38HIowIbOOjNVilz8MqIam"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1xHgQN5A8a7iNi9AHxm6wl"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark Trio",
-          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
-        }
-      ],
-      "duration_ms": 225186,
-      "name": "Two Bass Hit - Remastered 2001/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/0lKhYEfTneqxxjLqs2jC24"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 407306,
       "name": "They Didn't Believe Me",
       "url": "https://open.spotify.com/track/2FaUOm50kOFVAn388NGxAe"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark Trio",
+          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
+        }
+      ],
+      "duration_ms": 225186,
+      "name": "Two Bass Hit - Remastered 2001/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe"
     },
     {
       "added_at": "2024-07-08 06:57:40",

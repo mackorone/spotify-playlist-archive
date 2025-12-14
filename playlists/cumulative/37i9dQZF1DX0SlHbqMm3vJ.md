@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover:  BOJ
 
-875 songs - 1 day 18 hr 42 min
+876 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,7 @@
 | [Ori Mi](https://open.spotify.com/track/4GVTQJCXD05fdxWrPu1ptK) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:30 | 2025-02-28 | 2025-03-15 |
 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 | 2021-10-14 | 2022-12-19 |
 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-03-03 | 2023-06-17 |
-| [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 | 2024-09-30 |  |
+| [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 | 2024-09-30 | 2025-12-14 |
 | [Ouuuh](https://open.spotify.com/track/02Su7UHGbnbAY7V3aFq14H) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Daboy Kenzi](https://open.spotify.com/artist/77HPdxhFodvllNDHT3JBmf) | [Ouuuh](https://open.spotify.com/album/5rnjVCYud03yFZtl846mjR) | 1:58 | 2025-11-28 | 2025-12-05 |
 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 | 2023-05-19 | 2024-06-28 |
 | [Over](https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [In Her Thoughts](https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx) | 3:13 | 2024-06-28 | 2024-07-05 |
@@ -881,6 +881,7 @@
 | [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 | 2024-11-16 |
 | [Your Matter](https://open.spotify.com/track/14c9HXha95gFZVJiEgRIZ0) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Your Matter](https://open.spotify.com/album/0iqTeEgr6priRCUW7kmKhj) | 3:11 | 2024-05-17 | 2024-07-27 |
 | [Your Number](https://open.spotify.com/track/57QcTLuRqbeyd6l9MgPPNd) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Your Number](https://open.spotify.com/album/2NC9XHUUFTUrgOrcgi3qld) | 3:07 | 2021-10-14 | 2022-02-27 |
+| [Your Type](https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m) | [EMO Grae](https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Your Type](https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6) | 2:48 | 2025-12-12 |  |
 | [Your Type](https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Your Type](https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k) | 2:36 | 2025-07-18 | 2025-08-01 |
 | [Zone \(feat\. 5ive Rings\)](https://open.spotify.com/track/3gbPlNSHpu7RFlf7oAoccM) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [5ive Rings](https://open.spotify.com/artist/1rYu7GER72nKaiEcCkXNjx) | [The 6th Wave](https://open.spotify.com/album/0Jvvr1GcdsiFsrY0Hp4VqJ) | 2:41 | 2022-10-20 | 2022-10-29 |
 

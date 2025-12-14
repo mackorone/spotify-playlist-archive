@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 18484,
+  "num_followers": 18506,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2025-12-12 00:01:29",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2025-12-12 00:01:29",
-      "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2025-12-12 00:01:29",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
-    },
-    {
-      "added_at": "2025-12-12 00:01:29",
-      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 194181,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
+    },
+    {
+      "added_at": "2025-12-12 00:01:29",
+      "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2025-12-12 00:01:29",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
-        "name": "Violence (feat. Kweku Smoke)",
-        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Violence (feat. Kweku Smoke)",
-      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
-    },
-    {
-      "added_at": "2025-12-12 00:01:29",
-      "album": {
         "name": "Have Mercy 2",
         "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 201627,
       "name": "Have Mercy 2",
       "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
+    },
+    {
+      "added_at": "2025-12-12 00:01:29",
+      "album": {
+        "name": "Violence (feat. Kweku Smoke)",
+        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Violence (feat. Kweku Smoke)",
+      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
     },
     {
       "added_at": "2025-12-12 00:01:29",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
-        "name": "Do You Know?",
-        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
-      },
-      "artists": [
-        {
-          "name": "siicie",
-          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 145794,
-      "name": "Do You Know?",
-      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
-    },
-    {
-      "added_at": "2025-12-12 00:01:29",
-      "album": {
         "name": "BALANCE (with Lasmid)",
         "url": "https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED"
       },
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
+        "name": "Do You Know?",
+        "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
+      },
+      "artists": [
+        {
+          "name": "siicie",
+          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 145794,
+      "name": "Do You Know?",
+      "url": "https://open.spotify.com/track/6fVjIo9wkW9Z1u0qWLa1Ql"
+    },
+    {
+      "added_at": "2025-12-12 00:01:29",
+      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD"
       },
@@ -1131,26 +1131,6 @@
       "duration_ms": 169285,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax"
-    },
-    {
-      "added_at": "2025-12-12 00:01:29",
-      "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
     },
     {
       "added_at": "2025-12-12 00:01:29",
@@ -1187,6 +1167,26 @@
       "duration_ms": 185660,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
+    },
+    {
+      "added_at": "2025-12-12 00:01:29",
+      "album": {
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
     },
     {
       "added_at": "2025-12-12 00:01:29",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
-        "name": "KANI: A Bantama Story",
-        "url": "https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE"
-      },
-      "artists": [
-        {
-          "name": "Ko-Jo Cue",
-          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 227937,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6jI9XYNr5wSkULVVPSHzvP"
-    },
-    {
-      "added_at": "2025-12-12 00:01:29",
-      "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
+    },
+    {
+      "added_at": "2025-12-12 00:01:29",
+      "album": {
+        "name": "KANI: A Bantama Story",
+        "url": "https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE"
+      },
+      "artists": [
+        {
+          "name": "Ko-Jo Cue",
+          "url": "https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 227937,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6jI9XYNr5wSkULVVPSHzvP"
     }
   ],
   "unique_name": "Troski Rhythms",

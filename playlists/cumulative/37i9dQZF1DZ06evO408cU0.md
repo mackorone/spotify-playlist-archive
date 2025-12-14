@@ -4,7 +4,7 @@
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 51 min
+113 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ando Que Me Lleva \- En Vivo Desde El Rancho](https://open.spotify.com/track/71e45Mjq3Tlda9o2J9Xv4n) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 3:02 | 2022-06-01 | 2022-10-13 |
 | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK) | 3:19 | 2024-03-14 |  |
 | [Así Te Necesito](https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:00 | 2022-06-01 |  |
-| [Ausencia Eterna](https://open.spotify.com/track/432N8047PMajG01RoyXHof) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Última Despedida](https://open.spotify.com/album/6saWvHCp5KIbQFgliUKT2a) | 3:13 | 2025-07-27 |  |
+| [Ausencia Eterna](https://open.spotify.com/track/432N8047PMajG01RoyXHof) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Última Despedida](https://open.spotify.com/album/6saWvHCp5KIbQFgliUKT2a) | 3:13 | 2025-07-27 | 2025-12-14 |
 | [Años Sin Saber De Ti](https://open.spotify.com/track/2WN2nNe4mYDA5uIOKxLMpq) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Segunda Temporada](https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt) | 3:26 | 2023-05-27 | 2023-09-16 |
 | [Borracho Conocido](https://open.spotify.com/track/6zVz0ihJiJse2eGIhUbAFb) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Borracho Conocido](https://open.spotify.com/album/07LeiBjD41ESGL4zF8qGVY) | 2:15 | 2022-06-01 | 2023-11-11 |
 | [Bote De Cerveza](https://open.spotify.com/track/21xeMj9uwa9cCJnk4qznRP) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 2:59 | 2024-01-05 | 2024-01-15 |
@@ -27,6 +27,7 @@
 | [Culpable Soy Yo \- En Vivo Desde El Rancho](https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 3:39 | 2022-10-12 |  |
 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 | 2022-06-01 |  |
 | [De Buen Perfil](https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:18 | 2022-06-01 |  |
+| [De Nuestro Amor No Queda Nada](https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [De Nuestro Amor No Queda Nada](https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt) | 3:35 | 2025-12-14 |  |
 | [El Becerro \- En Vivo](https://open.spotify.com/track/5afvrWUik1xfcvUrItN7Xm) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos Y Rancheras En Vivo \(En Vivo Desde Mazatlán, Sinaloa/México 2016\)](https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r) | 2:46 | 2022-06-02 | 2022-09-16 |
 | [El Becerro No Ha Mamado Y El Borrego Cachetón \- En Vivo](https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:11 | 2022-06-01 | 2025-11-12 |
 | [El Cajoncito \- En Vivo](https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 3:41 | 2022-06-01 | 2024-06-18 |

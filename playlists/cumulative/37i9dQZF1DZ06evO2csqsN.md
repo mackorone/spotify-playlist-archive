@@ -4,7 +4,7 @@
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-120 songs - 5 hr 51 min
+121 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-10-28 | 2025-09-20 |
 | [Big Mama](https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:53 | 2025-04-17 |  |
 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 | 2024-06-30 | 2025-04-17 |
-| [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 | 2022-10-28 |  |
+| [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 | 2022-10-28 | 2025-12-14 |
 | [Bitter \(feat\. Mulatto\)](https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 3:04 | 2022-10-28 | 2025-05-18 |
 | [Blick Sum](https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:11 | 2024-08-11 | 2025-01-30 |
 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 | 2025-01-30 |  |
@@ -90,6 +90,7 @@
 | [On God](https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:53 | 2022-10-28 | 2025-08-10 |
 | [One Light \(feat\. Yung Bleu\) \- Remix](https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [One Light \(feat\. Yung Bleu\) \[Remix\]](https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g) | 3:15 | 2022-10-28 | 2025-08-27 |
 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 | 2023-09-09 |  |
+| [POP IT](https://open.spotify.com/track/3BBMNT5kxTsYxe1r0DukIb) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 3:17 | 2025-12-14 |  |
 | [PROCEDURE \(feat\. Latto\)](https://open.spotify.com/track/0NrMjaEIssvhuzUhQOEwmJ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:54 | 2024-10-13 |  |
 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/0jlvmFdNJornvbrXIB4aqI) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 2:36 | 2023-06-04 | 2023-06-06 |
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2022-10-28 | 2024-01-28 |

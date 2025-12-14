@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,966 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,982 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 26 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
 | 27 | [Our Way](https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Our Way](https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5) | 3:05 |
 | 28 | [As Long As You Love Me \- Acoustic Version](https://open.spotify.com/track/1kN9UiyOSRVCrSc49ft0lp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:41 |
-| 29 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
-| 30 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
+| 29 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
+| 30 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
 | 31 | [Eastside \(with Halsey & Khalid\) \- Acoustic](https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\) \[Acoustic\]](https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk) | 2:53 |
 | 32 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 |
 | 33 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 84 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 85 | [Heartbeats](https://open.spotify.com/track/11X4Gw3T4hoktVruLgTnm1) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/7M6XGBvDi3smtRuPUkrqsG) | 2:40 |
 | 86 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
-| 87 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:02 |
-| 88 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
+| 87 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
+| 88 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:02 |
 | 89 | [Wonderful Life](https://open.spotify.com/track/0cqLFzFYsQurUI3McUZkLg) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Wonderful Life](https://open.spotify.com/album/5PzrmeHkX1u2Gt4j4O4oYr) | 4:07 |
 | 90 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 |
 | 91 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |

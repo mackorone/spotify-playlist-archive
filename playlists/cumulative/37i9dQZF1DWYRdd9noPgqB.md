@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-435 songs - 23 hr 49 min
+436 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Dreaming](https://open.spotify.com/track/2iQGLQk81BqoA5cJCwTawF) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Dreaming](https://open.spotify.com/album/7iALUtKcf57yVL2ncziE0K) | 3:36 | 2025-05-01 | 2025-09-12 |
 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-13 |  |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-07 | 2024-06-14 |
-| [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 | 2025-07-03 |  |
+| [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 | 2025-07-03 | 2025-12-14 |
 | [Every Bullet so Far](https://open.spotify.com/track/6qugUDiEBLgFFrhCa40RS5) | [AllttA](https://open.spotify.com/artist/1si6mnxJ6IpTOTW13ECa0o), [20syl](https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV), [Mr\. J\. Medeiros](https://open.spotify.com/artist/0r9XuUo5aHtAEZiWsOA0wT) | [Curio Part II](https://open.spotify.com/album/4RUvalMQW42XY9a1sgCDip) | 4:12 | 2023-12-08 | 2024-02-16 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-23 | 2024-07-05 |
 | [Everybody Gets Down](https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Everybody Gets Down](https://open.spotify.com/album/2itGQCqttw47maPiLdncOM) | 2:41 | 2025-07-10 |  |
@@ -201,6 +201,7 @@
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2025-01-30 | 2025-05-16 |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-20 | 2024-09-27 |
 | [Let her go](https://open.spotify.com/track/3lorZ6d6wi7xwzjP0tT1q2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Let her go](https://open.spotify.com/album/2cm797zjKrsntb3q2bfNKg) | 3:02 | 2023-09-28 | 2023-11-08 |
+| [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 | 2025-12-11 |  |
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-09-05 | 2025-01-17 |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2024-01-11 | 2024-02-16 |
 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 | 2024-10-17 | 2025-02-28 |

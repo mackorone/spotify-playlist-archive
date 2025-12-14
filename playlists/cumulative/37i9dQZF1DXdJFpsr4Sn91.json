@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175970,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
+    },
+    {
+      "album": {
         "name": "Alkuhuuma (feat. ANI)",
         "url": "https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36"
       },
@@ -8875,6 +8893,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
+        "url": "https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183305,
+      "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
+      "url": "https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB"
+    },
+    {
+      "album": {
         "name": "N\u00e4\u00e4 pirut on mun kavereit",
         "url": "https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7"
       },
@@ -9828,7 +9864,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 193084,
       "name": "Lumikki",
       "url": "https://open.spotify.com/track/4chiuEnr73PDWVKykVejqx"
@@ -13516,7 +13552,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 183232,
       "name": "Piece by piece",
       "url": "https://open.spotify.com/track/64zKK20cftPgCiu8VVE74u"

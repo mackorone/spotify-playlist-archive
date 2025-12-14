@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,015 likes - 150 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,078 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 79 | [Fields Of Gold](https://open.spotify.com/track/22gLGCKbFKwmgZhrpVcnFb) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Fields Of Gold \- The Best Of Sting 1984 \- 1994](https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf) | 3:37 |
 | 80 | [Dear Marie](https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 3:44 |
 | 81 | [Empty Space](https://open.spotify.com/track/1uru26I2JKd2mQZt0MDCUe) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Empty Space](https://open.spotify.com/album/2utLlsPJXe11YMuLwH2rf4) | 3:33 |
-| 82 | [Don't Be A Fool](https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:35 |
-| 83 | [If You're Not The One](https://open.spotify.com/track/6B6aCxSBsECsulzOkJRxGv) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Gotta Get Thru This](https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL) | 4:17 |
+| 82 | [If You're Not The One](https://open.spotify.com/track/6B6aCxSBsECsulzOkJRxGv) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Gotta Get Thru This](https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL) | 4:17 |
+| 83 | [Don't Be A Fool](https://open.spotify.com/track/7msCKNrI0vZw9H4MIgLnAh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:35 |
 | 84 | [Will You Still Love Me? \- 2009 Remaster](https://open.spotify.com/track/4gd4GEhNif1J4l78huiiO1) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 18 \(Expanded Edition\)](https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE) | 5:43 |
 | 85 | [Wonderful Tonight](https://open.spotify.com/track/3GBGdtSuPKI81bzrniHuF3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Classic Eric Clapton](https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ) | 3:42 |
 | 86 | [One in a Million You](https://open.spotify.com/track/1CzgvJvt2JRy4uEX3SVaxO) | [Larry Graham](https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2) | [One In A Million You](https://open.spotify.com/album/3sT09KMUA39aQYCofvoA1j) | 4:12 |
@@ -146,17 +146,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 136 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 |
 | 137 | [Back for Good \- Radio Mix](https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Nobody Else \(Deluxe\)](https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF) | 4:02 |
 | 138 | [Too Good At Goodbyes \- Edit](https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes](https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB) | 3:21 |
-| 139 | [Let's Get It On](https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:50 |
-| 140 | [More Than Words](https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [The Best Of Extreme \(An Accidental Collication Of Atoms\)](https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI) | 5:35 |
-| 141 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
-| 142 | [I'm Not In Love](https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3) | 6:06 |
-| 143 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47) | 6:33 |
+| 139 | [I'm Not In Love](https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3) | 6:06 |
+| 140 | [Let's Get It On](https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:50 |
+| 141 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47) | 6:33 |
+| 142 | [More Than Words](https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [The Best Of Extreme \(An Accidental Collication Of Atoms\)](https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI) | 5:35 |
+| 143 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
 | 144 | [To Be With You](https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR) | 3:28 |
 | 145 | [You Are The Reason](https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason](https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U) | 3:24 |
 | 146 | [When You Say Nothing At All](https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/1aYzN2EJMOgjFzuiDEiuEP) | 4:18 |
 | 147 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/2EnZ9bpgUtLgKkRFehp8xS) | [Glenn Medeiros](https://open.spotify.com/artist/0bByarMN8ryEFQsRo6iCUN) | [Glenn Medeiros](https://open.spotify.com/album/65kb5QQ9XBwQmxTdcyF1I8) | 3:52 |
 | 148 | [One More Night](https://open.spotify.com/track/5IlaV4UNciCTDGxWVPfMKL) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required](https://open.spotify.com/album/3qtMUaEjvbHbPCmnGcrVCi) | 4:52 |
-| 149 | [Say You, Say Me](https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F) | 4:01 |
-| 150 | [Fallin' All In You](https://open.spotify.com/track/5I8oEqbk2ZBmQfXCrZbUFb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/6AjREacSERvnQTe6GFTx3c) | 3:55 |
+| 149 | [You And Me](https://open.spotify.com/track/4T2SmVJPtDdugk5j5xV1d5) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse \(International Version\)](https://open.spotify.com/album/4mmUYaBXYsLKsuCoAE9UvX) | 3:15 |
+| 150 | [Say You, Say Me](https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F) | 4:01 |
 
 Snapshot ID: `AAAAANPSVfj3IJUeG52DeeWRzCAn2vAD`

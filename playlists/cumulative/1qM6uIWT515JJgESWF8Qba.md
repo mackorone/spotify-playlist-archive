@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-83 songs - 5 hr 3 min
+86 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-04 |  |
 | [All Alone](https://open.spotify.com/track/0k1C7p9IVaMMvrp4pAJ0f3) | [George Bacan](https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0) | [All Alone](https://open.spotify.com/album/1EP1jaofCyz0PlwwuZuvzC) | 3:46 | 2025-10-29 |  |
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
+| [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 |  |
 | [Bestia](https://open.spotify.com/track/6UYOETNWbvmNKpl07sjPpu) | [Décum](https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk) | [Bestia](https://open.spotify.com/album/2ozT91COp1GUchj542jq44) | 2:45 | 2025-12-13 |  |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 |  |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-11-13 |  |
@@ -49,6 +50,7 @@
 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2025-11-04 |  |
 | [King Tide](https://open.spotify.com/track/0oOfLzw44wpabfgz4GcZhU) | [The Fu King](https://open.spotify.com/artist/35TcrL9g3yu0tOfiTB4rVZ) | [From The Tide](https://open.spotify.com/album/0EQLgTtAsgyeQV9V1OmUPF) | 4:05 | 2025-11-08 |  |
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2025-12-01 |  |
+| [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 | 2025-12-13 |  |
 | [Lie \- '25](https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:02 | 2025-12-03 |  |
 | [Little Flint Lighter \- Single Version](https://open.spotify.com/track/5wKplKbLsM9GT7JnDy9TGh) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Little Flint Lighter](https://open.spotify.com/album/6VpPtIIYiPZjbDuAWWHfdD) | 3:19 | 2025-09-19 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-11-04 |  |
@@ -75,6 +77,7 @@
 | [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-09-08 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-12-11 |  |
+| [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 |  |
 | [Sugar Husk](https://open.spotify.com/track/5z1wdXc7CubJyvWkSqT8g6) | [Novelistme](https://open.spotify.com/artist/1x8JnJjZPlFO4UciBRXMQb) | [Sugar Husk](https://open.spotify.com/album/6FlVAZQscsAXMcXhtrNETh) | 2:13 | 2025-10-31 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 |  |
 | [Take Me to the Top](https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Take Me to the Top](https://open.spotify.com/album/0W2FAqh9grkIdrF21bhTTe) | 4:05 | 2025-12-06 |  |

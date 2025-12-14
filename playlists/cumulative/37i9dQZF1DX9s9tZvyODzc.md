@@ -4,7 +4,7 @@
 
 > Dale play y dejá que la música te lleve.
 
-244 songs - 15 hr 22 min
+245 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 | 2023-12-07 |  |
 | [flashié](https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [flashié](https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP) | 2:34 | 2024-03-08 | 2024-04-13 |
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 | 2023-12-07 |  |
+| [Got My Mind Set on You](https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq) | 3:54 | 2025-11-28 |  |
 | [Got My Mind Set on You](https://open.spotify.com/track/4wswaG5vmNINMZcVBsAyBP) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Cloud Nine](https://open.spotify.com/album/7MD06W6wJm7J6jqkBszV22) | 3:54 | 2023-12-07 | 2024-04-19 |
 | [Gris Analgésico](https://open.spotify.com/track/68OwDpAxaUgrh3J1nR1hYq) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Las Paritarias](https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK) | [Gris Analgésico](https://open.spotify.com/album/5HTNiFaAVKqa4FX9xFQBad) | 3:53 | 2025-02-07 | 2025-02-14 |
 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 | 2023-12-07 |  |
@@ -197,7 +198,7 @@
 | [Resaca](https://open.spotify.com/track/1vgwKBxFV0KRoKlEq2fqkk) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Resaca](https://open.spotify.com/album/0kXhUyBXTjElgrkGStIVMr) | 3:22 | 2024-02-23 | 2024-03-15 |
 | [REVELACIONES APARTE](https://open.spotify.com/track/5zVysKtBACHlyu7Ovt0Ezi) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 2:52 | 2025-11-28 |  |
 | [Ridículo](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Ridículo](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 | 2025-02-13 | 2025-02-21 |
-| [Rock del Gato](https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Furtivos](https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl) | 3:02 | 2024-08-30 |  |
+| [Rock del Gato](https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Furtivos](https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl) | 3:02 | 2024-08-30 | 2025-12-14 |
 | [Roma](https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:48 | 2025-07-18 | 2025-11-08 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-12-07 | 2024-08-31 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2023-12-07 |  |

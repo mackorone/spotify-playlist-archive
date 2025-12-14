@@ -1,6 +1,6 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Drake",
-  "num_followers": 506057,
+  "num_followers": 506052,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2025-12-12 15:05:28",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 291175,
       "name": "Fair Trade (with Travis Scott)",
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "added_at": "2025-12-12 15:05:28",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -435,50 +435,6 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 255915,
-      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
-      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": "2025-12-12 15:05:28",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 206711,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
-    },
-    {
-      "added_at": "2025-12-12 15:05:28",
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -507,18 +463,46 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 90760,
-      "name": "on one tonight",
-      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
+      "duration_ms": 206711,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+    },
+    {
+      "added_at": "2025-12-12 15:05:28",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -539,6 +523,22 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "added_at": "2025-12-12 15:05:28",
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 90760,
+      "name": "on one tonight",
+      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -655,22 +655,6 @@
       "duration_ms": 162053,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
-    },
-    {
-      "added_at": "2025-12-12 15:05:28",
-      "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -715,6 +699,22 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2025-12-12 15:05:28",
+      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "THE BIGGEST",
-        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 119015,
-      "name": "Mmhmm",
-      "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
-    },
-    {
-      "added_at": "2025-12-12 15:05:28",
-      "album": {
         "name": "Fetty Wap (Deluxe)",
         "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 222093,
       "name": "Trap Queen",
       "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+    },
+    {
+      "added_at": "2025-12-12 15:05:28",
+      "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2025-12-12 15:05:28",
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 132832,
       "name": "Martin & Gina",
       "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
+    },
+    {
+      "added_at": "2025-12-12 15:05:28",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 238249,
-      "name": "DUMBO",
-      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
-    },
-    {
-      "added_at": "2025-12-12 15:05:28",
-      "album": {
         "name": "Artist 2.0 (Deluxe)",
         "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 133331,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
+    },
+    {
+      "added_at": "2025-12-12 15:05:28",
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 238249,
+      "name": "DUMBO",
+      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -1223,22 +1223,22 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Love Sick (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 156988,
-      "name": "Mamushi (feat. Yuki Chiba)",
-      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+      "duration_ms": 192693,
+      "name": "Embarrassed (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
     },
     {
       "added_at": "2025-12-12 15:05:28",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2025-12-12 15:05:28",
       "album": {
-        "name": "Love Sick (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Embarrassed (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
       "added_at": "2025-12-12 15:05:28",

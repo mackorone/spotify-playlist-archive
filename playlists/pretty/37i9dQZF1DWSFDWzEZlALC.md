@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Vince
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,979 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,954 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

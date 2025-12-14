@@ -4,7 +4,7 @@
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 5 min
+85 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,10 +54,11 @@
 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/50pEs4BEQlgoZo6rKHNtEA) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/5BFBhnlWveg1RCn6Q4RX7W) | 4:01 | 2024-01-29 | 2024-02-28 |
 | [Manic Pixie Dream](https://open.spotify.com/track/6Tc4FcAwioZOazAmzcZtqr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 3:31 | 2024-08-19 | 2024-10-04 |
 | [Melancholy Ave\. / God Only Knows \(feat\. SAYAK DAS\)](https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 7:22 | 2024-11-17 | 2025-12-12 |
-| [Melancholy Ave\. / God Only Knows \(feat\. SAYAK DAS\)](https://open.spotify.com/track/1XClYWMRCZjrVblqpgudTS) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 7:22 | 2025-12-12 |  |
+| [Melancholy Ave\. / God Only Knows \(feat\. SAYAK DAS\)](https://open.spotify.com/track/1XClYWMRCZjrVblqpgudTS) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 7:22 | 2025-12-12 | 2025-12-14 |
 | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/track/3PP9CXeE0PYaM5GIGQqBIV) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/album/4Ghd5HEQg3vxneCjqRBu8N) | 3:38 | 2024-01-29 | 2024-08-19 |
 | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v) | 3:38 | 2024-08-30 | 2025-09-28 |
 | [Moon Rider \(feat\. Wrabel\) \- OTR Remix](https://open.spotify.com/track/2dJruelM5pKxBJbiDYGiG0) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider Remixes](https://open.spotify.com/album/6lxw2m2ovu82KLPMfyqaDn) | 3:41 | 2024-08-19 |  |
+| [My Tears Could Fill A Well](https://open.spotify.com/track/0zUZgHAxB1CK1wiwvokVZu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 6:06 | 2025-12-14 |  |
 | [My Tears Could Fill A Well](https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 6:06 | 2024-11-17 | 2025-12-11 |
 | [Red Eye \(feat\. rei brown\)](https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 4:43 | 2024-11-20 | 2025-12-10 |
 | [Red Eye \(feat\. rei brown\)](https://open.spotify.com/track/6YNFPf33hsayb5qwuehAQS) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 4:43 | 2025-12-10 |  |

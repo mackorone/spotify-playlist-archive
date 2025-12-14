@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-286 songs - 17 hr 22 min
+287 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [If You Want To Be Famous](https://open.spotify.com/track/7e6X8Ur99dU8spGoXF1Isp) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [If You Want To Be Famous](https://open.spotify.com/album/7bKu0dMVjSIJMRFomyajuc) | 4:41 | 2025-12-04 |  |
 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 | 2025-12-09 |  |
 | [Inside Out](https://open.spotify.com/track/3lBEdOphKxBREjmha6o0wN) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Inside Out](https://open.spotify.com/album/5okf9PZt4VlsBkGNOB5hPi) | 2:30 | 2024-01-28 |  |
-| [Integrity](https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Integrity](https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9) | 2:32 | 2025-11-04 |  |
+| [Integrity](https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Integrity](https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9) | 2:32 | 2025-11-04 |  |
 | [Itaca](https://open.spotify.com/track/0BkmtLxSHmj3UYK28E9ii6) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Stories: Lands, Men and Gods](https://open.spotify.com/album/28lSO60QhDMkpAaRWJDjme) | 2:26 | 2023-04-20 | 2025-11-29 |
 | [Jane E\. \- Piano solo](https://open.spotify.com/track/7BSf8jEEVwaILkwMFgojua) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Jane E\. \(Piano solo\)](https://open.spotify.com/album/1yqNwUK4HmHSRoX3FOgey5) | 2:50 | 2024-04-11 |  |
 | [Jonesing](https://open.spotify.com/track/0pItNE4YeIFf2ec6P7jlbe) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Jonesing](https://open.spotify.com/album/1xQgwPKRDhvit3UACsOj5q) | 3:18 | 2025-10-17 | 2025-11-29 |
@@ -265,6 +265,7 @@
 | [These Hands](https://open.spotify.com/track/6bCz2JsoZ29pe5k48osLoF) | [Adamz Skalze](https://open.spotify.com/artist/4mRRtJpUTxeDAGM1VbNLjE), [Beth Warren](https://open.spotify.com/artist/0YNg73EWevJK44TvQxepdY) | [These Hands](https://open.spotify.com/album/2PHTHw5QjKqBdzgOFMbrkS) | 4:14 | 2025-11-30 |  |
 | [Ticket To The Moon](https://open.spotify.com/track/6j5upLhN41mzpAwK3NWFrv) | [Earth Zep Tepi](https://open.spotify.com/artist/5rrEyXFSwau2wwN0JcrRLh), [420 Sir$mokealot](https://open.spotify.com/artist/4K1wW4mswgXDZUks88Up8O) | [Ticket To The Moon](https://open.spotify.com/album/1VpdLVkm6TIixsUtU68qnp) | 2:57 | 2025-11-14 |  |
 | [Tiempos malos](https://open.spotify.com/track/58Ew7nIxymuVUtR8hWFQVk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Mal Presagio](https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR) | 2:20 | 2025-12-09 |  |
+| [Touch](https://open.spotify.com/track/43NZJKAwliwhhf92fVfwwx) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Touch](https://open.spotify.com/album/4Ai7hZRY0AFkeTwZsVhgwt) | 2:46 | 2025-12-13 |  |
 | [Tracks and Trials](https://open.spotify.com/track/4xGRKrYSF8wyPqtXnYwnNp) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Tracks and Trials](https://open.spotify.com/album/0qti15pcmEyYpzolt4OiWB) | 3:40 | 2023-06-29 | 2025-11-29 |
 | [Tranquility](https://open.spotify.com/track/4GhdgLqCsD2cDPKZyXuNKR) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Tranquility](https://open.spotify.com/album/5EOfIpRs4JMH9M52TVzxs4) | 4:34 | 2025-11-04 |  |
 | [Trapani](https://open.spotify.com/track/6TUzdPGuBPV9OgH61eQcPW) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 5:09 | 2023-04-27 | 2025-11-29 |

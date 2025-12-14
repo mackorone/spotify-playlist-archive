@@ -4,7 +4,7 @@
 
 > 
 
-353 songs - 20 hr 49 min
+355 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2023-07-13 |  |
 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2021-10-12 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-07-13 |  |
+| [Defeated No More](https://open.spotify.com/track/5BITgueR6DF7rAxxvTzmS3) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Edward MacFarlane](https://open.spotify.com/artist/4lDk68AYMR0F8wSNKGmYLt) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 6:07 | 2025-12-14 |  |
 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 | 2025-10-20 |  |
 | [Disappear](https://open.spotify.com/track/02mQcDoU5cn15U6tqZmL4e) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [X](https://open.spotify.com/album/688l8IJXR4cmgGj0Ekl0DR) | 4:10 | 2023-07-13 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2023-07-13 |  |
@@ -174,6 +175,7 @@
 | [Look Back at It](https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 2:59 | 2023-07-13 |  |
 | [Losing It \- Radio Edit](https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It \(Radio Edit\)](https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t) | 2:43 | 2023-07-13 |  |
 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2025-07-17 |  |
+| [Lost Soul \- Slowed & Reverb](https://open.spotify.com/track/4B2qZ956CmSOA70HGvV3D5) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [Lost Soul \(Slowed & Reverb\)](https://open.spotify.com/album/22PQVyismZfPYnE3piqCpN) | 4:00 | 2025-12-13 |  |
 | [Love Lies](https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Lies](https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9) | 3:21 | 2023-07-13 |  |
 | [Love Me Again](https://open.spotify.com/track/7v6EVHw0iUL8ww77IaoLCZ) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Love Me Again](https://open.spotify.com/album/46ZM3XlLhd3rHbExzXRDbr) | 3:59 | 2022-10-03 |  |
 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 | 2025-03-24 |  |

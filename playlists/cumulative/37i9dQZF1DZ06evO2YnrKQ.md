@@ -4,7 +4,7 @@
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-76 songs - 5 hr 23 min
+77 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Hey, It's Your Funeral Mama](https://open.spotify.com/track/0isd7xJL3Oh1Cw9RraixQL) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 | 2025-05-25 |  |
 | [It Was Fear of Myself That Made Me Odd](https://open.spotify.com/track/2UXB3a87WOVeQWmRsVwTQ0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:54 | 2024-06-30 | 2024-07-27 |
 | [Jubella \- Live](https://open.spotify.com/track/2DeLdi7dH3cb57BMXe8GiS) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(LIVE\) \- Born & Raised 2022, St Catharines ON](https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip) | 3:04 | 2024-07-05 | 2024-08-06 |
-| [Little Girls Pointing and Laughing](https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:52 | 2022-10-25 |  |
+| [Little Girls Pointing and Laughing](https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:52 | 2022-10-25 | 2025-12-14 |
 | [Little Girls Pointing and Laughing \- Live](https://open.spotify.com/track/0UL9ahJncduDBElTmZJQ2Q) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Little Girls Pointing and Laughing \(Live\)](https://open.spotify.com/album/7Iy9LMILoGIaZLknGwZTac) | 4:53 | 2024-06-17 | 2024-07-21 |
 | [Midnight Regulations](https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:11 | 2022-10-25 |  |
 | [Midnight Regulations](https://open.spotify.com/track/2XtMlaDhm09wvKftVAeQv1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Death Letter](https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW) | 5:38 | 2024-09-30 | 2025-03-23 |
@@ -66,6 +66,7 @@
 | [Sons of Privilege](https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:21 | 2024-09-29 |  |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-10-25 |  |
 | [The Dead Heart](https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Aussie Tour 7inch](https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB) | 4:40 | 2022-10-25 | 2025-10-23 |
+| [The Kennedy Curse](https://open.spotify.com/track/0jRJkH0ZvfSzkGDlg7UYE8) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:37 | 2025-12-14 |  |
 | [The Northern](https://open.spotify.com/track/5obWUTDt34b0IGGsstvUTV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Death Letter](https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW) | 4:09 | 2024-10-02 | 2024-11-21 |
 | [The Northern](https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:28 | 2022-10-25 |  |
 | [This Could Be Anywhere in the World](https://open.spotify.com/track/0RuPijfryvqJXWsI7X66Mk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 4:03 | 2025-01-30 |  |

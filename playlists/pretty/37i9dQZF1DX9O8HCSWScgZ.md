@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,958 likes - 75 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,031 likes - 75 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 74 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 |
 | 75 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 |
 
-Snapshot ID: `AAAAANMCpUpeu+2tc9nteBIg+uzAjb5U`
+Snapshot ID: `AAAAAIjfjofYYYirA4UcP76UgU+aYowv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with MOTHICA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,392 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,473 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 84 | [Make It a Lie](https://open.spotify.com/track/3fse9bOfmU8yAUO8bpxb6q) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Make It a Lie](https://open.spotify.com/album/4xYVJMcqf4PtZmTKcaRGca) | 3:30 |
 | 85 | [Unbothered](https://open.spotify.com/track/52NbVdgo6VwhqqfsFkf0yV) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC) | [Unbothered](https://open.spotify.com/album/0xXdUgdOK3z9Mo0XSxx1bf) | 3:07 |
 
-Snapshot ID: `AAAAAJ+S7GMw/FEFF6ScWTQ7Kg++iein`
+Snapshot ID: `AAAAAMWpxHxWElakJBFApk29MHwWUzuy`

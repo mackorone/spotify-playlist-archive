@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 194733,
       "name": "Blondie",
       "url": "https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 167986,
       "name": "New Flesh",
       "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 201706,
       "name": "Shuggie",
       "url": "https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb"
@@ -2388,6 +2388,24 @@
       "duration_ms": 201706,
       "name": "Shuggie",
       "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
+    },
+    {
+      "album": {
+        "name": "Clash the Truth",
+        "url": "https://open.spotify.com/album/5azIxtaUJfDBczJd9o6l7p"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146293,
+      "name": "Sleep Apnea",
+      "url": "https://open.spotify.com/track/34LohAliZ2QKydqVJcFpwV"
     },
     {
       "album": {

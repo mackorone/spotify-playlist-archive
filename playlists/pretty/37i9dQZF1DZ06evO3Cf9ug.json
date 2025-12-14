@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 130741,
+  "num_followers": 130839,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABk/w1418DHo03kUz2aDgwx",
+  "snapshot_id": "aTtbAAAAAACjvz+3q5gmfdCzdNyxzfJB",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
       },
       "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 165586,
-      "name": "I THINK YOU'RE SPECIAL",
-      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3"
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
       "added_at": null,
@@ -175,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
       "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+      "duration_ms": 165586,
+      "name": "I THINK YOU'RE SPECIAL",
+      "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,514 likes - 81 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,322 likes - 81 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 32 | [Silent Night](https://open.spotify.com/track/2uiFS1m2JzcQGezOt5vpEv) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Harmonious Voices: An Acapella Christmas](https://open.spotify.com/album/5pVny6olyOzXV3nA2LSs6Q) | 4:23 |
 | 33 | [The Twelve Days of Christmas](https://open.spotify.com/track/3AUIIqiM46wZTA7kxmeRPq) | [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD) | [Traditional Christmas Carols & Songs \- The Essential Collection](https://open.spotify.com/album/2dxoNtDnzAQDMkyipJceIl) | 3:36 |
 | 34 | [O, Christmas Tree \(O Tannenbaum\)](https://open.spotify.com/track/2lyJrx5U3E7E6NeMFv2Kxz) | [The Oxford Trinity Choir](https://open.spotify.com/artist/3r3EF4IUivV9v7HYln1YzB) | [Christmas Hymns \- The Very Best \- A Collection of Traditional Christmas Songs \(Deluxe Hymns Version\)](https://open.spotify.com/album/0AHs8EwSL5VTHEEeMIgRAk) | 1:58 |
-| 35 | [Traditional: Angels from the Realms of Glory \(Arr\. Ledger\)](https://open.spotify.com/track/2oP2CNXLq2MwZ1VTI75e7V) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Philip Ledger](https://open.spotify.com/artist/66xtCjvWWjyvuD96T7uMXc) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 2:38 |
+| 35 | [Traditional: Angels from the Realms of Glory](https://open.spotify.com/track/2oP2CNXLq2MwZ1VTI75e7V) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Philip Ledger](https://open.spotify.com/artist/66xtCjvWWjyvuD96T7uMXc) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 2:38 |
 | 36 | [Christ Was Born on Christmas Day](https://open.spotify.com/track/7CpLcUTqo1wG4Q6tPX3gBM) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Sir David Willcocks](https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC) | [Christmas Carols](https://open.spotify.com/album/2IfPdn5qYxHNlik5Zb7fKT) | 2:24 |
 | 37 | [Love Came Down at Christmas](https://open.spotify.com/track/6d8C4p5vNvQm7ngmYhyg4t) | [Richard Lloyd](https://open.spotify.com/artist/7Kry4vMY7xRIGYIhIxSvhh), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [A Very English Christmas](https://open.spotify.com/album/50UivveZg6MTqlFmhPh9Wx) | 2:31 |
 | 38 | [Jingle Bells](https://open.spotify.com/track/25PqkhPZtMOUOrtYkAiNf7) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [A Capella Christmas Favourites](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) | 1:29 |

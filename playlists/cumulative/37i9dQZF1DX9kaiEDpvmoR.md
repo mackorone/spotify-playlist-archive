@@ -481,6 +481,6 @@
 | [Är det upp till dig och mig](https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG) | [Är det upp till dig och mig](https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd) | 4:25 | 2025-09-11 | 2025-10-31 |
 | [Ärligt misstag](https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU) | 2:29 | 2025-02-06 | 2025-09-05 |
 | [Ögonblick i livet](https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Ögonblick i livet](https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje) | 3:14 | 2024-06-27 | 2024-08-16 |
-| [Östra Svealand \(2025\)](https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Andra landskap](https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0) | 4:55 | 2025-12-11 |  |
+| [Östra Svealand \(2025\)](https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Andra landskap 50](https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0) | 4:55 | 2025-12-11 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment au Maroc\. Cover: Inkonnu
+> Les hits du moment au Maroc\. Cover: DYSTINCT
 
 502 songs - 1 day 2 hr 42 min
 

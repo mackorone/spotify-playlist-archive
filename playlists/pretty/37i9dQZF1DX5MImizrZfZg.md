@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,085 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,116 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kisses in the Rain](https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 4:32 |
-| 2 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
-| 3 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
+| 2 | [Slow Jam](https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:09 |
+| 3 | [On The Wes Side](https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Temptation](https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV) | 4:26 |
 | 4 | [Suede](https://open.spotify.com/track/4F00pGa6rKvXx043AXvowT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Player's Club](https://open.spotify.com/album/1Wpwzf5A9HPGwZx0Eolf2U) | 4:16 |
 | 5 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
 | 6 | [I'm Waiting For You](https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Lil' Man Soul](https://open.spotify.com/album/3GPPcFHouTopuZons7w27s) | 4:05 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 27 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/1Nu6wkDGw7JurB4AktFuoE) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Hang Time](https://open.spotify.com/album/5js3uGBKjYbpFyPhcVaw37) | 4:06 |
 | 28 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
 | 29 | [Tale of Two Cities](https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Talk of the Town](https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7) | 4:15 |
-| 30 | [Bumpin' on the Wes Side](https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Desire](https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX) | 5:27 |
-| 31 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
+| 30 | [4 On The Floor](https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Kickin' It Up](https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB) | 4:27 |
+| 31 | [Bumpin' on the Wes Side](https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Desire](https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX) | 5:27 |
 | 32 | [Honey\-Dipped](https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Saxophonic](https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l) | 4:23 |
 | 33 | [Say Something](https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [HeadBoppin \(with bonus track\)](https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE) | 4:08 |
 | 34 | [Floor & More](https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 5:04 |

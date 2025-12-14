@@ -557,24 +557,6 @@
     },
     {
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa"
-      },
-      "artists": [
-        {
-          "name": "JACE",
-          "url": "https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa"
-        }
-      ],
-      "date_added": "2025-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220769,
-      "name": "PTSD",
-      "url": "https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96"
-    },
-    {
-      "album": {
         "name": "REBOUND",
         "url": "https://open.spotify.com/album/3BWl8RiEO6qsdZeNuMxAZv"
       },
@@ -1676,6 +1658,24 @@
       "duration_ms": 236255,
       "name": "\u666e\u6e21\u773e\u751f - \u300a\u7834\uff0e\u5730\u7344\u300b THE LAST DANCE \u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6Yjk3YE3PYllze79YyRWp3"
+    },
+    {
+      "album": {
+        "name": "\u6703\u75ca\u7652\u7684 PTSD",
+        "url": "https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa"
+      },
+      "artists": [
+        {
+          "name": "JACE",
+          "url": "https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220769,
+      "name": "\u6703\u75ca\u7652\u7684 PTSD",
+      "url": "https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96"
     },
     {
       "album": {

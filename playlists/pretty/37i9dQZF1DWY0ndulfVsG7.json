@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 62813,
+  "num_followers": 62816,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "The Best of Dewa 19",
-        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "Kamulah Satu - Satunya",
-      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Kekasih Bayangan",
         "url": "https://open.spotify.com/album/2Xw7OI35YCxYybg7zDnK39"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 283142,
       "name": "Kekasih Bayangan",
       "url": "https://open.spotify.com/track/3PeIxOLCSZtpMCo24EcapU"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "The Best of Dewa 19",
+        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "Kamulah Satu - Satunya",
+      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
     }
   ],
   "unique_name": "Berjiran",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: CityAlight
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,981 likes - 74 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,001 likes - 74 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 73 | [Wild](https://open.spotify.com/track/1g1Csnn3lKuFllbBB39UEf) | [Newlands Worship](https://open.spotify.com/artist/7xOK1uz6b4wF2IntpG3Xbr), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Wild](https://open.spotify.com/album/51nXod2J5HOixc9ILiXNDZ) | 5:09 |
 | 74 | [Space \- Live](https://open.spotify.com/track/6sAWlBzfpgDxb9hxPnZrkX) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Songs for the Anxious Heart: Live from the HUB](https://open.spotify.com/album/6mA22vsD5MvgUPCEPKgjBg) | 6:00 |
 
-Snapshot ID: `AAAAAF0sFR1CJAgDoHdmR1EYXzwShZ+Q`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

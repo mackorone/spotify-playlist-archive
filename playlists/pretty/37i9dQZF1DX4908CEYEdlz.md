@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Lamb of God
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,986 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,888 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 37 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
 | 38 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
 | 39 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 |
-| 40 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 |
-| 41 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 |
+| 40 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 |
+| 41 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 |
 | 42 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 |
 | 43 | [T.I.M.E.](https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [T.I.M.E.](https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY) | 3:58 |
 | 44 | [Never Fading Light](https://open.spotify.com/track/5aX1uAVmcZKp7Q2hfilmW4) | [Ego Kill Talent](https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i) | [Never Fading Light](https://open.spotify.com/album/0mRChZDbdFBY6Fhba3PRQX) | 3:33 |

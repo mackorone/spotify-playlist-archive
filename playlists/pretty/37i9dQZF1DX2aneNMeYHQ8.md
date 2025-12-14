@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Goldie Boutilier
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,180 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,170 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 80 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 |
 | 81 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 |
 | 82 | [Everything I Wanted](https://open.spotify.com/track/0QoIbKcVeph4Kcxtr5RaJr) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/0iAjJKNZy9lzj5hkumY0U9) | 3:49 |
-| 83 | [Mistakes](https://open.spotify.com/track/5Pdy7tkX4AjEEN9zlAlWUu) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Mistakes / Fairview Feeling](https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr) | 3:18 |
+| 83 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
 | 84 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 |
-| 85 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 |
+| 85 | [Mistakes](https://open.spotify.com/track/5Pdy7tkX4AjEEN9zlAlWUu) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Mistakes / Fairview Feeling](https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr) | 3:18 |
 | 86 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
 | 87 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
 | 88 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 |

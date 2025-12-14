@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADp7DSvqpeB5yikH21XlC/D",
+  "snapshot_id": "aTtbAAAAAAAou2/F8MU+sjq4WQcecAUZ",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Megapop",
-        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "That's Not My Name",
-      "url": "https://open.spotify.com/track/0K9xvFSBFD1vyvIBB50RnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 34",
         "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 176866,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "That's Not My Name",
+      "url": "https://open.spotify.com/track/0K9xvFSBFD1vyvIBB50RnL"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/613lPhAJS6bj7VxuwkFFkS"
+        "name": "KIDZ BOP 37",
+        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 200732,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/13bQmqqTXXpQt4qmHPcINr"
+      "duration_ms": 161573,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/1dnJkyBbi3gDPoT1IFYR9j"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 37",
-        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/613lPhAJS6bj7VxuwkFFkS"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 161573,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/1dnJkyBbi3gDPoT1IFYR9j"
+      "duration_ms": 200732,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/13bQmqqTXXpQt4qmHPcINr"
     },
     {
       "added_at": null,
@@ -763,6 +763,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 192008,
+      "name": "About That Time",
+      "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP Halloween - 2025",
         "url": "https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 192803,
       "name": "Shivers - 2022",
       "url": "https://open.spotify.com/track/1TAvGnzn520qdy7Mt82ubm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP Halloween - 2025",
-        "url": "https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/7q34SDbdXJikkkWEZkJ0N9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP Halloween - 2025",
-        "url": "https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 168506,
-      "name": "I Want Candy - 2022",
-      "url": "https://open.spotify.com/track/7JMH1fURzJWdehgtg4qPWK"
     }
   ],
   "unique_name": "This Is Kidz Bop Kids",

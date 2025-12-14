@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,142 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,208 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 42 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |
 | 43 | [Moon River](https://open.spotify.com/track/1IRRqn75jaZHp7zMT1NGbZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 2](https://open.spotify.com/album/3zNi5dCpkbm4zv7h1vGOMy) | 8:16 |
 | 44 | [Autumn In New York](https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:47 |
-| 45 | [The Thrombey Family Theme](https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:47 |
-| 46 | [The Lady is a Tramp](https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 3:51 |
+| 45 | [The Lady is a Tramp](https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 3:51 |
+| 46 | [The Thrombey Family Theme](https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:47 |
 | 47 | [That's Life \- Music From The Motion Picture](https://open.spotify.com/track/4ph4EHuQi2tKtvNU12UTRu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 3:03 |
 | 48 | [Born to Play](https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:00 |
 | 49 | [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 |

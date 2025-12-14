@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,217 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,220 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 37 | [You Already Know](https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [You Already Know](https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh) | 3:06 |
 | 38 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 |
 | 39 | [Above Me](https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf) | 3:34 |
-| 40 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
-| 41 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
+| 40 | [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 |
+| 41 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
 | 42 | [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 |
 | 43 | [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 |
 | 44 | [Ocean Demon](https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:20 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 52 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
 | 53 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
 | 54 | [Suckerpunch](https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Suckerpunch](https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx) | 2:34 |
-| 55 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 |
-| 56 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
+| 55 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
+| 56 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 |
 | 57 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 |
 | 58 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 |
 | 59 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 |

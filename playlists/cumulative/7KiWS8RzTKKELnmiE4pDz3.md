@@ -4,7 +4,7 @@
 
 > 
 
-1,252 songs - 2 day 16 hr 57 min
+1,254 songs - 2 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -744,6 +744,7 @@
 | [No Hook](https://open.spotify.com/track/2vW0uLpB4C9FS1EnNuQRPz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:11 | 2023-08-14 | 2024-03-05 |
 | [No Joke](https://open.spotify.com/track/37ehwQANnRHdqvWdPlkFWA) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:15 | 2024-04-01 | 2024-11-06 |
 | [No Morals](https://open.spotify.com/track/6QjkUOZr21m8iSyHBiR5s5) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:36 | 2023-01-27 | 2023-04-17 |
+| [No Para](https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Para](https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N) | 3:18 | 2025-12-13 |  |
 | [No Respect](https://open.spotify.com/track/6M8Z8jdOfl1IksxfdEgH1z) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [No Respect](https://open.spotify.com/album/25suTRbGTSETjPEsoKR5GT) | 2:09 | 2023-01-11 | 2023-04-12 |
 | [No Rules](https://open.spotify.com/track/7kmXrIxANoDbLpPbDoeF3E) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/4ctaWxkPM0fPkUMB2nYClO) | [Rookie Of The Year](https://open.spotify.com/album/22aL7K3nl0vFqguOI5LQdv) | 2:54 | 2022-11-01 | 2023-04-12 |
 | [No Tears](https://open.spotify.com/track/3DnP2eTPfvOVGZr9covIU0) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:11 | 2024-06-11 | 2025-05-21 |
@@ -819,6 +820,7 @@
 | [Oye Mi Canción](https://open.spotify.com/track/1Eyll8ZpAU2U6rD3Yfos9q) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:35 | 2024-02-14 | 2024-11-06 |
 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 | 2025-07-25 |  |
 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:58 | 2025-06-03 |  |
+| [Pacas](https://open.spotify.com/track/7p79Gg3qf9kEjV6CzQrdzI) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pacas](https://open.spotify.com/album/4B4NiS8veDy5MdUB0GmBn1) | 3:03 | 2025-12-13 |  |
 | [Pack The Pipe](https://open.spotify.com/track/3jE1ffzfKtnALJVGlXgl7D) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 | 2025-09-23 |  |
 | [Paid In Full \(Outro\)](https://open.spotify.com/track/2CqHAcs1lgrxEmLdRK64Zu) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Crazy But It's True](https://open.spotify.com/album/5Am6t47OynK0Ft1qF6UjbX) | 4:07 | 2023-11-27 | 2024-04-24 |
 | [Palisades, CA](https://open.spotify.com/track/70wd1fE44Rb9mnZMaApmkc) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:14 | 2023-04-04 | 2024-03-05 |

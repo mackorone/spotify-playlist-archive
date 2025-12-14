@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Hofe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,247 likes - 120 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,243 likes - 120 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 513852,
+  "num_followers": 513907,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAolhbZHvzi6K5fnF6uUUh2",
+  "snapshot_id": "aTtbAAAAAAAFnu8SW+4BV3M+0jzB8sSr",
   "tracks": [
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
-        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
+        "name": "Pensando Positivo",
+        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
       "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 189620,
-      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
-      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
+      "duration_ms": 193300,
+      "name": "Pensando Positivo",
+      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
     },
     {
       "added_at": null,
@@ -803,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensando Positivo",
-        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
+        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
+        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
       },
       "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 193300,
-      "name": "Pensando Positivo",
-      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
+      "duration_ms": 189620,
+      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
+      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
     },
     {
       "added_at": null,

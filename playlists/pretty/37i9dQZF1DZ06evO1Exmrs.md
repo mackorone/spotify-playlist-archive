@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,944 likes - 45 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,104 likes - 45 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 37 | [Caves](https://open.spotify.com/track/1Pcz3lqppUM5OROz81qRAa) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:21 |
 | 38 | [Young Blood \- Acoustic](https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Young Blood \(Acoustic\)](https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v) | 3:20 |
 | 39 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 |
-| 40 | [Catastrophize](https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:18 |
+| 40 | [Hold It Down](https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hold It Down](https://open.spotify.com/album/61c9HH26RwgWbUyK6oSMRt) | 3:16 |
 | 41 | [Bad Luck](https://open.spotify.com/track/05CRP83e1AD3kl6rP1r5aB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:11 |
-| 42 | [Hold It Down](https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hold It Down](https://open.spotify.com/album/61c9HH26RwgWbUyK6oSMRt) | 3:16 |
-| 43 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
-| 44 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 |
+| 42 | [Catastrophize](https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:18 |
+| 43 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 |
+| 44 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
 | 45 | [Animal](https://open.spotify.com/track/00vhtWzNIISd9I04Cl3K7N) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:39 |
 
-Snapshot ID: `aToJgAAAAADPffZ0WX/o25P8e1dg+KIT`
+Snapshot ID: `aTtbAAAAAACS5KuqLxPygaVDuH+a3pxx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,794 likes - 149 songs - 13 hr 21 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,788 likes - 149 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 96 | [YOUR BODY AND YOUR BLOOD](https://open.spotify.com/track/2cdMeHUczTXFhKE3XTUEvs) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [YOUR BODY AND YOUR BLOOD](https://open.spotify.com/album/4LM2duR9ttpE3Sdy2oqCaB) | 5:56 |
 | 97 | [Making Room](https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Making Room](https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo) | 4:21 |
 | 98 | [Broken Into Beautiful \- Live](https://open.spotify.com/track/1YzMdlpqzZ0f9DrHYClYH9) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Sundown \(Live\)](https://open.spotify.com/album/2uFAfVjkwOukZJGWjWf1oT) | 6:25 |
-| 99 | [40](https://open.spotify.com/track/2X9N1HosFbqCi76BUSPhMU) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:29 |
+| 99 | [40](https://open.spotify.com/track/2X9N1HosFbqCi76BUSPhMU) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:29 |
 | 100 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
 | 101 | [Presence Of The Lord \- Live](https://open.spotify.com/track/2QcJrVRd2WkyL17vMe48i4) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Derek Johnson](https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y) | [Worthy Of Hallelujah \(Live\)](https://open.spotify.com/album/3wtjYn5O0FawhiX7M5XodK) | 5:21 |
 | 102 | [The Blessing \- Live From Europe](https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Live From Europe](https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB) | 8:09 |

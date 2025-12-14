@@ -4,7 +4,7 @@
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-183 songs - 10 hr 6 min
+184 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2023-12-01 |  |
 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 | 2024-04-12 | 2025-11-16 |
 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 | 2024-09-20 |  |
-| [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 | 2024-05-17 |  |
+| [Primer Recreo](https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Primer Recreo](https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor) | 3:55 | 2024-05-17 | 2025-12-14 |
 | [Puente](https://open.spotify.com/track/6XzNlsxA4RMUWgYC0GP5aq) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:07 | 2023-12-01 | 2024-04-19 |
 | [Que No](https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Que No](https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ) | 3:50 | 2024-09-20 |  |
 | [Quiero Que Me Llames](https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Quiero Que Me Llames \- Single](https://open.spotify.com/album/4v6mDMydcXb3vp69Jw6yta) | 4:17 | 2024-04-12 |  |
@@ -178,6 +178,7 @@
 | [Tu Nombre](https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Tu Nombre](https://open.spotify.com/album/5xMZupGDH5RJ6GLCoa6GqB) | 2:55 | 2024-04-12 |  |
 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2024-06-07 | 2025-06-08 |
 | [Tutank’mon](https://open.spotify.com/track/3rN9kZP0gnL6Li2YlUJdKP) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Tutank’mon](https://open.spotify.com/album/4Wlrq1ImA0Se5pJ0BiB4iL) | 2:32 | 2023-12-01 | 2024-06-08 |
+| [Tú](https://open.spotify.com/track/7e6vvTnOICR7sY6MKkmh20) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Tú](https://open.spotify.com/album/0CFy2tIg0L4rGxZ5NbgtFe) | 3:44 | 2024-09-20 |  |
 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 | 2024-04-25 |  |
 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 | 2023-12-01 | 2024-04-19 |
 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 | 2024-09-20 |  |

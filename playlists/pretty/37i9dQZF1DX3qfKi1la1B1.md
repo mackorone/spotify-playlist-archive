@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,129 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,130 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 41 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
 | 42 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 |
 | 43 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
-| 44 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
-| 45 | [Home](https://open.spotify.com/track/3TWLXrA7eWPFdXC52JK9IX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Home](https://open.spotify.com/album/4jvWaSlb6sOQ3QWYegTDJv) | 4:02 |
+| 44 | [Home](https://open.spotify.com/track/3TWLXrA7eWPFdXC52JK9IX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Home](https://open.spotify.com/album/4jvWaSlb6sOQ3QWYegTDJv) | 4:02 |
+| 45 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 |
 | 46 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
 | 47 | [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 |
 | 48 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 57 | [Bewitched \- Rework](https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bewitched \(Rework\)](https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB) | 4:22 |
 | 58 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
 | 59 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 |
-| 60 | [ネオンを消して](https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [the youth night](https://open.spotify.com/album/1ctyQFj7yDRDwU7dwcd43c) | 3:23 |
+| 60 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |
 
 Snapshot ID: `AAAAAIstJSGRhDa8p9axcih4jnrSuhEd`

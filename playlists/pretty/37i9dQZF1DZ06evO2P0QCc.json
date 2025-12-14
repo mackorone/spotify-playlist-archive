@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 121861,
+  "num_followers": 121879,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADMOBTPRZUuneQqvgWPO7iE",
+  "snapshot_id": "aTtbAAAAAABR5i6Z9eqV+USIYtcualkk",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 240189,
+      "name": "P\u00e1nico",
+      "url": "https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deja Ya De Mentir (Sonando Desde El Auditorio Nacional)",
         "url": "https://open.spotify.com/album/7i1vAGc0dDsVWxMZAEZiEa"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 237200,
       "name": "Deja Ya De Mentir - Sonando Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/5mOsvFJvqMUohlPperHALl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 240189,
-      "name": "P\u00e1nico",
-      "url": "https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8"
     },
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonando desde el Auditorio Nacional",
-        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
+      "duration_ms": 220080,
+      "name": "El Dejado",
+      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
     },
     {
       "added_at": null,
@@ -615,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+        "name": "Sonando desde el Auditorio Nacional",
+        "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         }
       ],
-      "duration_ms": 220080,
-      "name": "El Dejado",
-      "url": "https://open.spotify.com/track/2CImSOkWBJb7aX15imss53"
+      "duration_ms": 226466,
+      "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
     },
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/3QSTHfiY4StrlFtEoCvQK6"
         }
       ],
-      "duration_ms": 224000,
-      "name": "El Amargado",
-      "url": "https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH"
+      "duration_ms": 209793,
+      "name": "Volvamos a Ser Novios",
+      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
     },
     {
       "added_at": null,
@@ -679,22 +675,6 @@
       "duration_ms": 273559,
       "name": "Pasa la Vida",
       "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 209793,
-      "name": "Volvamos a Ser Novios",
-      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
     },
     {
       "added_at": null,
@@ -722,11 +702,15 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/3QSTHfiY4StrlFtEoCvQK6"
         }
       ],
-      "duration_ms": 242800,
-      "name": "La Tregua",
-      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
+      "duration_ms": 224000,
+      "name": "El Amargado",
+      "url": "https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH"
     },
     {
       "added_at": null,
@@ -771,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 172771,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska Wars Monterrey",
         "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
       },
@@ -812,9 +780,25 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 212000,
-      "name": "No Puedo Ser Tu Amigo",
-      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
+      "duration_ms": 242800,
+      "name": "La Tregua",
+      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 172771,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 219666,
       "name": "Mala Copa",
       "url": "https://open.spotify.com/track/7zrhd3m1VSWv8HMDXUEORm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "No Puedo Ser Tu Amigo",
+      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 718212,
+  "num_followers": 718784,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Why Can't We Be Friends?",
         "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 190826,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 170212,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Billy Ocean (Expanded Edition)",
@@ -1415,6 +1399,22 @@
       "duration_ms": 210973,
       "name": "Red Light Spells Danger",
       "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 170212,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Please Mr. Postman",
-      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Go West In the Navy",
         "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 339946,
       "name": "In the Navy - Original Version 1979",
       "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "You See The Trouble With Me",
-      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "McFadden & Whitehead",
         "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 420986,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "You See The Trouble With Me",
+      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2013,22 +2013,6 @@
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Back Stabbers",
-      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "It Only Takes a Minute: A Lifetime with Tavares",
@@ -2043,6 +2027,22 @@
       "duration_ms": 389760,
       "name": "Heaven Must Be Missing An Angel - Pt. 1",
       "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Back Stabbers",
+      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Average White Band",
-        "url": "https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC"
-      },
-      "artists": [
-        {
-          "name": "Average White Band",
-          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Pick up the Pieces",
-      "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Vehicle",
         "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 178066,
       "name": "Vehicle",
       "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Average White Band",
+        "url": "https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC"
+      },
+      "artists": [
+        {
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Pick up the Pieces",
+      "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
     },
     {
       "added_at": "2021-09-08 13:31:49",

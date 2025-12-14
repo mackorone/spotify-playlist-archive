@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,341 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,360 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 23 | [Straighten Up And Fly Right](https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:36 |
 | 24 | [The Party's Over](https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Just One Of Those Things](https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek) | 2:44 |
 | 25 | [You Made Me Love You \(I Didn't Want To Do It\) \- Remastered](https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Thank You, Pretty Baby](https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2) | 2:52 |
-| 26 | [Quizas, Quizas, Quizas \(Perhaps, Perhaps, Perhaps\)](https://open.spotify.com/track/6VuJLPtBlEOaR5oYI51ueN) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:45 |
+| 26 | [The More I See You](https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:25 |
 | 27 | [Too Young](https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:24 |
-| 28 | [The More I See You](https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:25 |
+| 28 | [Quizas, Quizas, Quizas \(Perhaps, Perhaps, Perhaps\)](https://open.spotify.com/track/6VuJLPtBlEOaR5oYI51ueN) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:45 |
 | 29 | [Walkin' My Baby Back Home](https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole's 8 Top Pops](https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC) | 2:38 |
 | 30 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 31 | [On The Street Where You Live](https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 3:12 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 41 | [I Could Have Danced All Night](https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [My Fair Lady](https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I) | 2:30 |
 | 42 | [Ansiedad](https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 3:27 |
 | 43 | [Just You, Just Me \- Remastered 1999](https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:02 |
-| 44 | [You'll Never Know \- Remastered](https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:42 |
-| 45 | [Love Me As Though There Were No Tomorrow \- Remastered 2001](https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:35 |
+| 44 | [Love Me As Though There Were No Tomorrow \- Remastered 2001](https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:35 |
+| 45 | [You'll Never Know \- Remastered](https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:42 |
 | 46 | [Aquellos Ojos Verdes](https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:13 |
 | 47 | [How I'd Love To Love You](https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:19 |
-| 48 | [Love Letters \- Remastered](https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:43 |
-| 49 | [That's All \- Remastered](https://open.spotify.com/track/5ru3nEtJjwEGjzPq3si0de) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:59 |
+| 48 | [That's All \- Remastered](https://open.spotify.com/track/5ru3nEtJjwEGjzPq3si0de) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:59 |
+| 49 | [Love Letters \- Remastered](https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:43 |
 | 50 | [Cappuccina](https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sincerely](https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M) | 2:48 |
 
-Snapshot ID: `aToJgAAAAACO+Sn9cA7JwBLBWLc3MD26`
+Snapshot ID: `aTtbAAAAAAA97xeK1Ps8Bpkf4bXrGV2S`

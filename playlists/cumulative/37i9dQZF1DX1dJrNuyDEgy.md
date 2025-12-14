@@ -4,7 +4,7 @@
 
 > qué no se apague la lumbre 🍺🔥 con Carin León, Lalo Mora y Eliseo Robles
 
-217 songs - 11 hr 59 min
+218 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [El Barzon](https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Sus Mas Grandes Exitos](https://open.spotify.com/album/4KKB85ZOmzv68N5UELFUpS) | 2:44 | 2022-11-19 | 2024-09-03 |
 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2022-01-25 | 2024-01-13 |
 | [El Carretero Se Va](https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Serie 20 Exitos](https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py) | 2:08 | 2022-01-25 | 2025-12-06 |
-| [El Disgusto](https://open.spotify.com/track/4vE13VR7KyMpIYoH6QcvaC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [21 Hits, Vol\. 2](https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI) | 4:05 | 2025-12-05 |  |
+| [El Disgusto](https://open.spotify.com/track/4vE13VR7KyMpIYoH6QcvaC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [21 Hits, Vol\. 2](https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI) | 4:05 | 2025-12-05 | 2025-12-14 |
 | [El Golpe Traidor](https://open.spotify.com/track/6P1G57zOECV3NYGChOan7U) | [Los Saylors](https://open.spotify.com/artist/6yoDVUyg5264OoQuXSPIzu) | [El Golpe Traidor](https://open.spotify.com/album/33AtEHrFcAgqtcfL3vM6Vo) | 3:05 | 2025-12-05 |  |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-11-19 | 2022-12-31 |
 | [El Lucero](https://open.spotify.com/track/2JRWLYIGFHAHGA15RrJ4QO) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [BAILAMOS TIA \- POLKAS, REDOVAS, HUAPANGOS \(Grabación Original Remasterizada\)](https://open.spotify.com/album/2db3vgPhGgfD4dTjDysVvx) | 1:56 | 2022-01-25 | 2022-09-13 |
@@ -176,6 +176,7 @@
 | [Prenda Querida](https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc) | 3:03 | 2025-12-05 |  |
 | [Puro Cachanilla](https://open.spotify.com/track/37Z8i6jx0D7Tw9VBaB1QeL) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:19 | 2022-01-25 | 2023-02-23 |
 | [Puro Cachanilla](https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:21 | 2022-01-25 | 2022-07-29 |
+| [Que Ironía](https://open.spotify.com/track/7MPNbGlgwJrfMoTDffoyX8) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:21 | 2025-12-12 |  |
 | [Que Lindo Es Michoacan](https://open.spotify.com/track/2DyZk4ScdZICG2bemfxba9) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/6BkY89AbAt2WAHoAeWrnSS) | 3:11 | 2022-01-25 | 2025-12-06 |
 | [Que Lindo Es Michoacan](https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF) | 3:11 | 2022-01-25 | 2024-09-03 |
 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Colección De Oro De Antonio Aguilar, Vol\. 5: 1990\-2000](https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy) | 3:07 | 2025-12-05 |  |

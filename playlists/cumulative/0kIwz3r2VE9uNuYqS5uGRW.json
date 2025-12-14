@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4PJ1P80qf9hVpFGchfhy13"
+      },
+      "artists": [
+        {
+          "name": "Second Story Duo",
+          "url": "https://open.spotify.com/artist/41awsJ9Gs9Ah8d5uX37r3h"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182682,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/0hnWQ00Z7cVWtcZDXLYq6x"
+    },
+    {
+      "album": {
         "name": "You at First Sight",
         "url": "https://open.spotify.com/album/7zGHcgMh4hf5jUm0EgA1z6"
       },

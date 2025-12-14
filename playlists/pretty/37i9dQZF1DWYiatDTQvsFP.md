@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > the golden era of r&b and hip\-hop with 2Pac.
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,357 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,654 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

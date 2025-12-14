@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Todd Dulaney
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,849 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,873 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 74 | [Everything Is Gonna Be ALRIGHT \(feat\. Tamela Mann\)](https://open.spotify.com/track/0frVFnb1XqyGwRehMYSL0m) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Everything Is Gonna Be ALRIGHT \(feat\. Tamela Mann\)](https://open.spotify.com/album/1CzshqIBJxCGq2Eyjz7Vn6) | 4:36 |
 | 75 | [Makes My Day](https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA) | [Cory Montell Scott](https://open.spotify.com/artist/4yXA1CoD2NZa6wechuaepF), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Makes My Day](https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8) | 4:55 |
 
-Snapshot ID: `AAAAAHQHEAPd8RQsDM5YH+o06VR7e/v+`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

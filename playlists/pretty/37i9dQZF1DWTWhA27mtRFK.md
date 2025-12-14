@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,990 likes - 56 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,034 likes - 56 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 55 | [First Stage \- A](https://open.spotify.com/track/3MvBKhKe9mI1idiBgKjORo) | [OSHO](https://open.spotify.com/artist/63Cd2A4y0kWaLw0yxYjo2F), [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Osho Chakra Sounds Meditation™](https://open.spotify.com/album/2zhADYsVJ3SCwjPBH5neZM) | 14:36 |
 | 56 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 
-Snapshot ID: `AAAAALS4Aty6ARfYBgYU8gjlevGNQ5Lg`
+Snapshot ID: `AAAAANwZZ0FlHPOEidhkVH1r2bRlJ2L+`

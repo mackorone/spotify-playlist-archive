@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 80640,
+  "num_followers": 80644,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Chakalicious",
-        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Chakalicious",
-      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Reggaeton Pesa\u2019o",
         "url": "https://open.spotify.com/album/3yhEt7BrCO7hi7aRdUFXuZ"
       },
@@ -1219,22 +1203,38 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "POPPER!",
-        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
+        "name": "Chakalicious",
+        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
       },
       "artists": [
         {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 110141,
-      "name": "POPPER!",
-      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
+      "duration_ms": 199546,
+      "name": "Chakalicious",
+      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
+        "name": "M\u00e1s Papel",
+        "url": "https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1"
+      },
+      "artists": [
+        {
+          "name": "Axel Guerra",
+          "url": "https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo"
+        },
+        {
+          "name": "Castro Angel",
+          "url": "https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "M\u00e1s Papel",
+      "url": "https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Best of this year's RADAR class\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,382 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,459 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 24 | [เติบโตโดยไม่มีฉัน \- End Of My Turn](https://open.spotify.com/track/6qokdF2ulHUVKntPfgKDsu) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เติบโตโดยไม่มีฉัน \(End Of My Turn\)](https://open.spotify.com/album/1sLZJuUH0pNb6tf6gXTZV2) | 4:37 |
 | 25 | [WHITE RABBIT](https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [WHITE RABBIT](https://open.spotify.com/album/7BpPRBr9YRghxFoNpzEC61) | 2:42 |
 | 26 | [Contagious](https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Contagious](https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ) | 2:55 |
-| 27 | [Yours](https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Yours](https://open.spotify.com/album/09xwz7U4Ho2qNALirus13F) | 3:33 |
-| 28 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
+| 27 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
+| 28 | [Yours](https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Yours](https://open.spotify.com/album/09xwz7U4Ho2qNALirus13F) | 3:33 |
 | 29 | [ちょうどいい \(feels just right\)](https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [ちょうどいい \(feels just right\)](https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv) | 3:47 |
 | 30 | [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 |
 | 31 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 |

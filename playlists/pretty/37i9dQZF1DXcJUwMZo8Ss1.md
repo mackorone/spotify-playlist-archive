@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJUwMZo8Ss1.md) - [plain]
 
 > The hottest tracks in the UAE\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,836 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,856 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

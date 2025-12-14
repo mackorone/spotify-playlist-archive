@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,580 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,621 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 43 | [It's in the Way That You Use It](https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [August](https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA) | 4:11 |
 | 44 | [Lonely Stranger \- Acoustic Live](https://open.spotify.com/track/09wkXiaJ2KJYX9M3SmToF8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 5:27 |
 | 45 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 |
-| 46 | [Six Strings Down](https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Art Neville](https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:21 |
-| 47 | [Something \- Live](https://open.spotify.com/track/6JnBljHLqBuGIhxvjkiSxO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Concert For George \(Live\)](https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu) | 4:25 |
+| 46 | [Something \- Live](https://open.spotify.com/track/6JnBljHLqBuGIhxvjkiSxO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Concert For George \(Live\)](https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu) | 4:25 |
+| 47 | [Six Strings Down](https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Art Neville](https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:21 |
 | 48 | [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 |
 | 49 | [It's Easy](https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:16 |
 | 50 | [San Francisco Bay Blues \- Acoustic Live](https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:28 |
 
-Snapshot ID: `aToJgAAAAAB27gMblMdCKAITQBM/h2U3`
+Snapshot ID: `aTtbAAAAAAAlK9hPB0jA0BnO2cK+Jpd5`

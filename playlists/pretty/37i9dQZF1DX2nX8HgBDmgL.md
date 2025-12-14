@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Faheem Abdullah
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,899 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,962 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 74 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 |
 | 75 | [Ehsaas](https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Duha Shah](https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt) | [Ehsaas](https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk) | 3:53 |
 
-Snapshot ID: `AAAAADwQIBmvoCACCcAvHbGCMa+/z3b/`
+Snapshot ID: `AAAAAJyep31SHciuV3NBsUTuR/GRW+eq`

@@ -4,7 +4,7 @@
 
 > høst hele året! 🍂
 
-282 songs - 14 hr 41 min
+283 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Don’t Say You Love Me \(2025\)](https://open.spotify.com/track/4KcaUU9ZjQJK6bJsURDisB) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Don’t Say You Love Me \(2025\)](https://open.spotify.com/album/1CT2uUKc93QF0Ymj5cP5Y4) | 3:17 | 2025-04-10 | 2025-06-13 |
 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 | 2025-01-30 |  |
 | [Dum og lovende](https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 3:07 | 2024-10-31 | 2024-12-11 |
-| [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 |  |
+| [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 | 2025-12-14 |
 | [Eli](https://open.spotify.com/track/3SZ2ts1QHO3rXYMkAhIOq8) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Eli](https://open.spotify.com/album/3ERn5HfbvgJ4shmGx5Pw7w) | 3:25 | 2025-03-27 |  |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 |  |
 | [eu te amo bebê](https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [eu te amo bebê](https://open.spotify.com/album/5AXj1uz4Ltn2R4bVtMQiuH) | 1:46 | 2025-04-24 |  |
@@ -127,6 +127,7 @@
 | [hvem kan seile foruten vind?](https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [hvem kan seile foruten vind?](https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3) | 3:23 | 2025-03-06 | 2025-07-18 |
 | [Hvis jeg ikke var meg selv](https://open.spotify.com/track/3tHXA83mhSXOHPAAIAgaMp) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N), [Me for Queen](https://open.spotify.com/artist/1H7mNprYkefKwq5C0VWS9M) | [20 Lillos uten filter](https://open.spotify.com/album/6BS9ZWKOhOfwryrPDg4lAa) | 4:12 | 2025-01-30 | 2025-02-08 |
 | [Hvit sommer](https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hvit sommer](https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u) | 2:28 | 2024-06-27 | 2024-10-11 |
+| [I Could Miss You Forever](https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [I Could Miss You Forever](https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx) | 3:37 | 2025-12-11 |  |
 | [I don't want nobody but your body](https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I don't want nobody but your body](https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD) | 2:51 | 2024-09-19 | 2024-10-28 |
 | [I Feel Like Myself \(When I'm With You\)](https://open.spotify.com/track/3FkFaiJLMqpUhoVJf8k6qf) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [I Feel Like Myself \(When I'm With You\)](https://open.spotify.com/album/5vGGauh3tlsMW47wY81Ozr) | 2:52 | 2025-04-03 | 2025-05-04 |
 | [I veit](https://open.spotify.com/track/2BVufDWowBtrpyN2rIHmzy) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [I veit](https://open.spotify.com/album/14aX895lIZdOR9iq3ZDvMj) | 2:27 | 2025-07-03 | 2025-07-18 |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,073 songs - 4 day 11 hr 30 min
+2,074 songs - 4 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,6 +647,7 @@
 | [Förstår Det Nu](https://open.spotify.com/track/2HnE1eny50TK0PAm804LDy) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Förstår Det Nu](https://open.spotify.com/album/0bZvMsk9hKtmw91qu6pqMp) | 3:52 | 2022-06-30 | 2022-12-29 |
 | [Förstöraren](https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Förstöraren](https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD) | 2:26 | 2025-04-24 | 2025-06-16 |
 | [FÖRSÖKER LE](https://open.spotify.com/track/3Jr1fTt0S8JZSVok1LwMR9) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [FÖRSÖKER LE](https://open.spotify.com/album/5bcB7h6aFU9mQj3hUjLmre) | 3:49 | 2023-09-14 | 2024-01-19 |
+| [Gabriela \- Spotify Singles](https://open.spotify.com/track/5zjQfzkf1umWY3T98RtX8b) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Gabriela \- Spotify Singles](https://open.spotify.com/album/72XfFKK5lNKEbhiPRxXyd3) | 3:04 | 2025-12-12 |  |
 | [GAMMAL I GEMET](https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GAMMAL I GEMET](https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz) | 2:39 | 2024-01-25 | 2024-02-23 |
 | [GASA & FÖRSVINNA](https://open.spotify.com/track/1gqpC4fhRcrzFU78N2VPyY) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [GASA & FÖRSVINNA](https://open.spotify.com/album/37830R470z3Zc89fK1QRl1) | 3:05 | 2024-05-30 | 2024-06-28 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-04-11 |
@@ -806,7 +807,7 @@
 | [Hora Madonna](https://open.spotify.com/track/47L8MluywBkWDA0HdgoeYC) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Hora Madonna](https://open.spotify.com/album/2qg2ETnqeEuJxBWltrHueo) | 2:57 | 2024-02-08 | 2024-03-16 |
 | [HORNY](https://open.spotify.com/track/7b2ErSyq557q0S5GqeOZry) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [HORNY](https://open.spotify.com/album/1jcKD4lL5GUfSZTCNoqv4g) | 2:22 | 2022-07-21 | 2022-07-27 |
 | [Hos dig är jag stark](https://open.spotify.com/track/0L7nPD6GbbEGI5KdN2scId) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Hos dig är jag stark](https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj) | 3:07 | 2025-09-18 |  |
-| [Hot Air Balloon](https://open.spotify.com/track/7CDxuWmKWMpUiGnWPck1ir) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Hot Air Balloon](https://open.spotify.com/album/1vXtqt9NfOginaQULdpuCH) | 2:34 | 2025-10-30 |  |
+| [Hot Air Balloon](https://open.spotify.com/track/7CDxuWmKWMpUiGnWPck1ir) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Hot Air Balloon](https://open.spotify.com/album/1vXtqt9NfOginaQULdpuCH) | 2:34 | 2025-10-30 | 2025-12-14 |
 | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/track/3m9GqZMWHtZPbGhamFjrN9) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Hotel Amigo \(feat\. First Aid Kit\)](https://open.spotify.com/album/1MrXU3B1fECuJ8QmRFyBNs) | 3:14 | 2021-12-16 | 2022-03-11 |
 | [Hours & Hours](https://open.spotify.com/track/15jY3QTULqNJWYlxQJduT0) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Hours & Hours](https://open.spotify.com/album/1ZgjsCBh5Or6Ef66YKF8PT) | 2:45 | 2024-03-14 | 2024-04-26 |
 | [How Can I Make You Stay](https://open.spotify.com/track/7tefLyHHCenSPKMfZ1jgDl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Truly Yours, Isak](https://open.spotify.com/album/1AcV0nmpenJzOStQBprXiV) | 3:09 | 2024-09-26 | 2025-04-11 |
@@ -893,7 +894,7 @@
 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 | 2024-04-19 | 2024-05-24 |
 | [IKNOW IKNOW](https://open.spotify.com/track/5w7VnCARb24upPxk3Q9nMW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:53 | 2024-10-24 | 2025-04-18 |
 | [Ikväll gör jag vad som helst...](https://open.spotify.com/track/0DDcohQ8MvYNZ114EYoudo) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Ikväll gör jag vad som helst...](https://open.spotify.com/album/4lyiMRIT2bhctP9hTJ2s3K) | 2:58 | 2024-06-06 | 2024-06-28 |
-| [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 | 2025-12-04 | 2025-12-12 |
+| [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 | 2025-12-04 |  |
 | [Ikväll måste nånting hända](https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Ikväll måste nånting hända](https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI) | 3:39 | 2025-04-03 | 2025-06-06 |
 | [Ikväll tar vi över stan](https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz) | 3:30 | 2024-11-07 | 2025-04-18 |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
@@ -911,7 +912,7 @@
 | [Ingen minns en fegis](https://open.spotify.com/track/1mcDObs1VQBCi8mEeCczj4) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Ingen minns en fegis](https://open.spotify.com/album/2N7RxOk1DtRJbQEfOS1Pg6) | 3:17 | 2023-03-23 | 2023-05-04 |
 | [Ingen reklam tack](https://open.spotify.com/track/7cNfQb7pMKKRQygje3oerX) | [Ninjaneers](https://open.spotify.com/artist/1NcntxsDrvr9p5PyqP5LwW), [Magnus Rytterstam](https://open.spotify.com/artist/27HfAM9HQFIzt33cg0ilcf) | [Ingen reklam tack](https://open.spotify.com/album/1IsTiCFLSJIdYNGe6bbr4k) | 2:24 | 2024-08-08 | 2024-09-19 |
 | [Ingen sorg utan kärlek](https://open.spotify.com/track/6Z1JPK51S9kPWM3K1NF0zI) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Ingen sorg utan kärlek](https://open.spotify.com/album/2auZZDcYwsver6xSCrQRtX) | 3:07 | 2023-11-30 | 2024-03-08 |
-| [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 |  |
+| [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 | 2025-12-14 |
 | [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I Rymden Finns Inga Tårar](https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z) | 3:46 | 2025-10-23 |  |
 | [Ingen, bara du](https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv) | [VIOL](https://open.spotify.com/artist/5mf2lROvATwH6apu0AZBmt) | [Ingen, bara du](https://open.spotify.com/album/7ycajtCnklHybUFzHJvPYA) | 2:46 | 2024-06-13 | 2024-08-16 |
 | [Ingenting](https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Ingenting](https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr) | 3:08 | 2024-09-05 | 2024-11-26 |

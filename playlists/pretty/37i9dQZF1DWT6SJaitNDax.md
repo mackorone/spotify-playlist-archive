@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,125 likes - 105 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,237 likes - 105 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

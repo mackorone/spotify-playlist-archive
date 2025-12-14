@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-510 songs - 1 day 7 hr 46 min
+511 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,8 +407,9 @@
 | [Silent Night](https://open.spotify.com/track/2pG1HDAy394Fuq7KMuCpFf) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Have Yourself A Merry Little Christmas / Silent Night](https://open.spotify.com/album/6RVLkAvG9rN7fcDYZYD5Pm) | 3:32 | 2021-12-24 | 2025-10-27 |
 | [Silent Night](https://open.spotify.com/track/3COMbciYueBYOSMSdjcYZV) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Silent Night](https://open.spotify.com/album/1ZVDtoMTHJCDMZfiQtonWo) | 3:11 | 2024-11-17 |  |
 | [Silent Night](https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Silent Night](https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD) | 3:03 | 2024-08-01 | 2025-05-07 |
-| [Silent Night](https://open.spotify.com/track/1z8Jfid7k90zN3UUEnOvrC) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Silent Night](https://open.spotify.com/album/5OS3woEzeXYIlP6fzjTo76) | 2:34 | 2025-11-22 |  |
+| [Silent Night](https://open.spotify.com/track/1z8Jfid7k90zN3UUEnOvrC) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Silent Night](https://open.spotify.com/album/5OS3woEzeXYIlP6fzjTo76) | 2:34 | 2025-11-22 | 2025-12-14 |
 | [Silent Night](https://open.spotify.com/track/5c36yPOfMB9Pq7kdkRxGkd) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf), [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [Silent Night](https://open.spotify.com/album/6qIpmmge0GlUTpeIgHXPnL) | 4:28 | 2024-11-29 |  |
+| [Silent Night \(All is Calm\)](https://open.spotify.com/track/7pN6xrri3k5DuSSIzf65ku) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Silent Night \(All is Calm\)](https://open.spotify.com/album/5kgwf9I3TzmAXLDxajb3Fs) | 3:52 | 2025-12-12 |  |
 | [Silent Night \(Heavenly Peace\)](https://open.spotify.com/track/70YEAMq9pi3B91b28dzcvt) | [Grayson Kessenich](https://open.spotify.com/artist/4MhfeSCdX4wB7EIzzeuW7d) | [Silent Night \(Heavenly Peace\)](https://open.spotify.com/album/3zUww2gulYQAziAdb7Yezv) | 4:21 | 2025-11-22 |  |
 | [Silent Night \(with Saviour King\) \- Live](https://open.spotify.com/track/1JqRuf1VFolpmDEBjeRLkF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/4jAmUwcMcth5Dc6FnxssVR) | 7:12 | 2021-12-24 | 2024-08-02 |
 | [Silent Night \- Live](https://open.spotify.com/track/2DfdmOmD8O70gT64e36RPI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Kristyn Getty](https://open.spotify.com/artist/70Rhe5rWMA8u4f6ptC1iMw) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:01 | 2021-12-24 | 2022-07-24 |

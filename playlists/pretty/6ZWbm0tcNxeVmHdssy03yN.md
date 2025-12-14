@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,898 likes - 86 songs - 4 hr 18 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,910 likes - 86 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 9 | [Comerte Enterita](https://open.spotify.com/track/1t0QLH9y2eb5bragG41f19) | [Paris Boy](https://open.spotify.com/artist/6ONwLtT6vOzlO3pfZNAOMw) | [Comerte Enterita](https://open.spotify.com/album/45xzWYjCSTceoqWwhioOuR) | 3:03 |
 | 10 | [BEEF W ME](https://open.spotify.com/track/1eO5SOiDSQhcTjNDZKiGTz) | [Ash Swaze](https://open.spotify.com/artist/0k3rKR4kG3WGg0xF6iaDRi) | [BEEF W ME](https://open.spotify.com/album/4unXVwpb9WSwq9QB5FWLKC) | 1:58 |
 | 11 | [Almost Famous](https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx), [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Almost Famous](https://open.spotify.com/album/1SOSnWv762jANFBAXNtiSG) | 2:46 |
-| 12 | [Fuego al cielo](https://open.spotify.com/track/7Ma65Rw2NITbTtYTwsbtWe) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [El Suchi](https://open.spotify.com/artist/2ggfffTqlYS3YMmJf1GPwD), [Quixoxis](https://open.spotify.com/artist/1kz1b14keB57dqau1U2G4N) | [Fuego al cielo](https://open.spotify.com/album/2F6fNUXcWj6ypsGpCYjaWy) | 4:08 |
+| 12 | [Fuego al cielo](https://open.spotify.com/track/7Ma65Rw2NITbTtYTwsbtWe) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [El Suchi](https://open.spotify.com/artist/2ggfffTqlYS3YMmJf1GPwD), [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Fuego al cielo](https://open.spotify.com/album/2F6fNUXcWj6ypsGpCYjaWy) | 4:08 |
 | 13 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 |
 | 14 | [Como Olvido A Una Bandida](https://open.spotify.com/track/3zyr39TlApZX1a6NbqcCHa) | [Big Yamo](https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Como Olvido A Una Bandida](https://open.spotify.com/album/2WP4jrrSo7YnmIWpnImssq) | 3:40 |
 | 15 | [Tanga](https://open.spotify.com/track/0JdQlxDlul93B0YsVBK73b) | [Jason Fernandez](https://open.spotify.com/artist/6gDAX4c7XR3ZMGsyb7pM7q) | [Tanga](https://open.spotify.com/album/0vHej8aMnhhHy32aOKWKFB) | 4:34 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 40 | [Smoov](https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Smoov](https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL) | 3:03 |
 | 41 | [where there's smoke there's fire](https://open.spotify.com/track/7KU1qH02NapOQbU6AXRTpn) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [where there's smoke there's fire](https://open.spotify.com/album/6pFGVxUhQbg84x3VhopyT5) | 3:01 |
 | 42 | [NO MORE](https://open.spotify.com/track/3hGpy57T8V9sq08GpuA0cc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [SALTY](https://open.spotify.com/album/4w04FX3x2th7nOS77tYdlw) | 2:21 |
-| 43 | [Ghanta \(Rap version\)](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Ghanta \(Rap version\)](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |
+| 43 | [Ghanta](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Ghanta](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |
 | 44 | [THE FOOL'S ERRAND](https://open.spotify.com/track/7yneILPTYvY25gWG5DWUOx) | [Kweku Collins](https://open.spotify.com/artist/2SPt3i9sJKS1qiMQQQr9LS) | [Ridgewood Sessions, Vol\. 1](https://open.spotify.com/album/0zS8dyDkmm96zDdUMYtGLF) | 4:24 |
 | 45 | [Selfish](https://open.spotify.com/track/1bWDepPIFdhj8b6FN6enRt) | [KYANTII](https://open.spotify.com/artist/3ATkLfCbfC4Hx4EdtkZbVl) | [Selfish](https://open.spotify.com/album/1nqOPr7Rfd1P75Ai1zyhpT) | 2:03 |
 | 46 | [Let Them Shine](https://open.spotify.com/track/3ZnZjXG9ywV0gOVb4ajONV) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [UNICEF Ghana](https://open.spotify.com/artist/32ieepecBAsTj145PBjZBI) | [Let Them Shine](https://open.spotify.com/album/0KPNBzHQ5Z1htSmT7nyvMt) | 3:08 |

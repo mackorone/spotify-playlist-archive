@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 498,
+  "num_followers": 509,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEK/8ai8ePr08H9xdN6jluu/2C65m7",
+  "snapshot_id": "AAAEL7O6n5F7MWHTLfZIJT0ER744+AZm",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1347,6 +1347,70 @@
       "duration_ms": 167786,
       "name": "Rose Tinted Eyes",
       "url": "https://open.spotify.com/track/76fmIfIURZyrGgdq2qGmm8"
+    },
+    {
+      "added_at": "2025-12-13 02:09:28",
+      "album": {
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE"
+      },
+      "artists": [
+        {
+          "name": "Jenine",
+          "url": "https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3"
+        }
+      ],
+      "duration_ms": 172250,
+      "name": "Hover",
+      "url": "https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH"
+    },
+    {
+      "added_at": "2025-12-13 02:46:16",
+      "album": {
+        "name": "Festivus Rocks!",
+        "url": "https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK"
+      },
+      "artists": [
+        {
+          "name": "The Lollygags",
+          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
+        }
+      ],
+      "duration_ms": 137990,
+      "name": "Festivus Rocks!",
+      "url": "https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5"
+    },
+    {
+      "added_at": "2025-12-13 03:08:59",
+      "album": {
+        "name": "Savour the Moment",
+        "url": "https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH"
+      },
+      "artists": [
+        {
+          "name": "Attic Theory",
+          "url": "https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "Savour the Moment",
+      "url": "https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc"
+    },
+    {
+      "added_at": "2025-12-13 03:19:00",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz"
+      },
+      "artists": [
+        {
+          "name": "Gizem Demirhan",
+          "url": "https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o"
+        }
+      ],
+      "duration_ms": 228929,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY"
     }
   ],
   "unique_name": "Unsigned Rock",

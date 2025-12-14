@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 49908,
+  "num_followers": 49912,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABqfvbjlGYF12TKVUKoL7s8",
+  "snapshot_id": "aTtbAAAAAACILFdCAyVSBDZ/lhBF4ANh",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 121560,
-      "name": "Nihilism",
-      "url": "https://open.spotify.com/track/5g1jCZ5cQuPw6YvEkd7Yni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All The Moon Stompers",
         "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
       },
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 121560,
+      "name": "Nihilism",
+      "url": "https://open.spotify.com/track/5g1jCZ5cQuPw6YvEkd7Yni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
       },
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 174386,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/1F653irkyfBQgMg0yfVJFc"
+      "duration_ms": 211013,
+      "name": "Olympia, WA",
+      "url": "https://open.spotify.com/track/0PcLpuKMkdy3hiG0rOJKll"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Hyena",
-      "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Hyena",
+      "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
       },
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 211013,
-      "name": "Olympia, WA",
-      "url": "https://open.spotify.com/track/0PcLpuKMkdy3hiG0rOJKll"
+      "duration_ms": 174386,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/1F653irkyfBQgMg0yfVJFc"
     },
     {
       "added_at": null,

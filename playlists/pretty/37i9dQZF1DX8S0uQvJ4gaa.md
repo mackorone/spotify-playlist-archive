@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Let’s band together and help kids facing cancer at St\. Jude: musicgives.org\. Cover:  Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,313 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,327 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

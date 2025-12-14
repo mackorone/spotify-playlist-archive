@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: TML Vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,450 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,495 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 35 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 |
 | 36 | [Type Sh\*t](https://open.spotify.com/track/2sTjJbgPuWC5dYY7xtJm7j) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Type Sh\*t](https://open.spotify.com/album/67pWb0xvEAFSaKPRnG98ep) | 2:31 |
 | 37 | [Letter To My Guys \- LTMG](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 2:51 |
-| 38 | [Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Crazy](https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y) | 2:14 |
+| 38 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 |
 | 39 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
-| 40 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 |
+| 40 | [Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Crazy](https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y) | 2:14 |
 | 41 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 |
 | 42 | [No Less](https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [The Feast](https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9) | 3:10 |
 | 43 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 66 | [Fly](https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Pawon + Fly](https://open.spotify.com/album/6twgGorVU0d808ToQ632pw) | 1:58 |
 | 67 | [Vibration](https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Vibration](https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh) | 3:01 |
 | 68 | [Obi \(feat\. Jeriq\)](https://open.spotify.com/track/5u1fmsqXSoiiWQz9eaVrMe) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Obi \(feat\. Jeriq\)](https://open.spotify.com/album/01yabVLbvmPfukkBYi6Otk) | 2:34 |
-| 69 | [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 |
-| 70 | [This Moment](https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [This Moment](https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4) | 2:43 |
+| 69 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 |
+| 70 | [Normally](https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Normally](https://open.spotify.com/album/416GBquOnS63wjc41I2aA8) | 3:55 |
 
 Snapshot ID: `AAAAANL/DB7KTWl1EtM4AMh8NwT9BuTS`

@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 182995,
+  "num_followers": 183032,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADpvhtp2pZu+TXKZS70lbFF",
+  "snapshot_id": "aTtbAAAAAAAJc/mOj4UzMkP5g9ZCud3o",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 316680,
-      "name": "Pira\u00f1a",
-      "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 295480,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 316680,
+      "name": "Pira\u00f1a",
+      "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
     },
     {
       "added_at": null,

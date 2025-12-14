@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,954 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,015 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 18 | [All That Glitters Is Not Gold, but It's Still Damn Beautiful](https://open.spotify.com/track/23A29DEDxMZdwpl0ZRrMOk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(III\)](https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD) | 2:17 |
 | 19 | [Kill Yourself \(Part IV\)](https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Kill Yourself \(Part IV\)](https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t) | 1:53 |
 | 20 | [COUNT YOUR BLESSINGS](https://open.spotify.com/track/0YmcHurKqkzDQeHB8zuzk0) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 4:08 |
-| 21 | [Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:24 |
-| 22 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
+| 21 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
+| 22 | [Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:24 |
 | 23 | [The Number You Have Dialed Is Not in Service](https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:45 |
 | 24 | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/track/2KrpmVncX2Ht0Lw8zqpVaT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 4:14 |
 | 25 | [The Thin Grey Line](https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 1:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [JOAN OF ARC](https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Goodnight Lovell](https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS) | 2:25 |
 | 50 | [Dead Batteries](https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:23 |
 
-Snapshot ID: `aToJgAAAAADbJhVTXX/wO2w103olHApz`
+Snapshot ID: `aTtbAAAAAAA2xvj8+CQDBS+JLrADPMo/`

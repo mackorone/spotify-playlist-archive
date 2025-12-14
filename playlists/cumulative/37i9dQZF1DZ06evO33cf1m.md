@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 16 min
+95 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aunque Tiren Hate](https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Tiren Hate](https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S) | 2:57 | 2025-06-08 | 2025-07-05 |
 | [Belleza Pura](https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Belleza Pura](https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5) | 3:24 | 2023-08-08 | 2023-08-28 |
 | [Cabecita Dura](https://open.spotify.com/track/1y8vhYug05asslmpY8bFel) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 2:54 | 2023-08-08 |  |
+| [Cada Día Más](https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Nos Tiren Hate](https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN) | 3:06 | 2025-12-14 |  |
 | [Cada Mañana](https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cada Mañana](https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9) | 3:21 | 2025-09-10 | 2025-10-05 |
 | [Calidad Y Cantidad](https://open.spotify.com/track/0nfp44XFmPrLDMMmYfNIP3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:30 | 2023-08-08 |  |
 | [Carita De Perdón](https://open.spotify.com/track/6apOgi25sgEaVSJO7znHCg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:04 | 2024-07-18 | 2024-07-19 |
@@ -89,7 +90,7 @@
 | [Tu Reemplazo](https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Tu Reemplazo](https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE) | 2:23 | 2024-11-17 | 2025-03-06 |
 | [Tú Eres La Razón](https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:11 | 2023-08-08 |  |
 | [Una Historia Mal Contada](https://open.spotify.com/track/4QwUdBfJPWi3Dmxa3axA0G) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Una Historia Mal Contada](https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x) | 2:40 | 2025-01-12 | 2025-05-11 |
-| [Una Noche Contigo](https://open.spotify.com/track/3XI2OcX3psYuOdeE5Pe77t) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Una Noche Contigo](https://open.spotify.com/album/67YPrHoO6YMZGY8yJ4Me7F) | 3:23 | 2025-11-16 |  |
+| [Una Noche Contigo](https://open.spotify.com/track/3XI2OcX3psYuOdeE5Pe77t) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Una Noche Contigo](https://open.spotify.com/album/67YPrHoO6YMZGY8yJ4Me7F) | 3:23 | 2025-11-16 | 2025-12-14 |
 | [Valió la Pena Equivocarme](https://open.spotify.com/track/3Tg6vd7RNktpxZCqp3sQjA) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 3:46 | 2023-08-08 |  |
 | [Valió La Pena Equivocarme \(En Vivo\)](https://open.spotify.com/track/6bANxR8naOx4pnq1795q31) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme \(En Vivo\)](https://open.spotify.com/album/7adBn21cJiGl0qGhmFy12R) | 4:01 | 2024-03-27 | 2025-01-16 |
 | [Y Que Quede Claro](https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:09 | 2023-08-08 |  |

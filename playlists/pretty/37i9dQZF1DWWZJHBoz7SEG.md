@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Empecemos el Guadalupe\-Reyes con puro rolón!  Marca Registrada pone la primera ronda de cheves 🍻🪅
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,659 likes - 56 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,454 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

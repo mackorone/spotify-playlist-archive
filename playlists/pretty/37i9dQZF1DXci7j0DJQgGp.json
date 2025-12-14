@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1704046,
+  "num_followers": 1703902,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 216026,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Who Else Could I Be",
+      "url": "https://open.spotify.com/track/0px8acghPxrLMXXGaS6Mwe"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Weird Faith",
         "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Who Else Could I Be",
-      "url": "https://open.spotify.com/track/0px8acghPxrLMXXGaS6Mwe"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 205905,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 205905,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Daniel",
-        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Present Tense",
         "url": "https://open.spotify.com/album/6xhv13hoRmxMHCXjp87Kl0"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 232907,
       "name": "Astral Projection",
       "url": "https://open.spotify.com/track/0cIcEuNjpHSKaXEiH3H1NW"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1099,22 +1099,6 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1167,6 +1151,22 @@
       "duration_ms": 266292,
       "name": "Holocene [feat. Weyes Blood]",
       "url": "https://open.spotify.com/track/0zbc8UgOfYyG96pAWjx3hH"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Faith Crisis Pt 1",
-        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
       "artists": [
         {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 177473,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Sorry Now",
-        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Sorry Now",
-      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Fruit",
         "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 204240,
       "name": "Fruit",
       "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Sorry Now",
+        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
     },
     {
       "added_at": "2024-03-08 16:42:43",

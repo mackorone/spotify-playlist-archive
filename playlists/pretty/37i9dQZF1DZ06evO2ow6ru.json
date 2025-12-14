@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 177403,
+  "num_followers": 177412,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAB/KHHqJlXeWgmoqeQcVH8z",
+  "snapshot_id": "aTtbAAAAAADXH4p/SpkAlqSKmiCFSqmT",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "The Sound of Letting Go",
+      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "The Sound of Letting Go",
-      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
     },
     {
       "added_at": null,
@@ -487,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ILLENIUM",
-        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
       "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 187317,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
+      "duration_ms": 244823,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
       "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 244823,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8"
+      "duration_ms": 187317,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 209933,
-      "name": "Time-Bomb",
-      "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
+      "duration_ms": 206839,
+      "name": "Old Scars / Future Hearts",
+      "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 206839,
-      "name": "Old Scars / Future Hearts",
-      "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
+      "duration_ms": 209933,
+      "name": "Time-Bomb",
+      "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
     },
     {
       "added_at": null,

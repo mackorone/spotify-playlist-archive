@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,468,295 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,284 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 102 | [Forget About Us](https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Forget About Us](https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i) | 3:16 |
 | 103 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
 | 104 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
-| 105 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
-| 106 | [Higher Power \- Acoustic Version](https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power \(Acoustic Version\)](https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By) | 3:34 |
+| 105 | [Higher Power \- Acoustic Version](https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power \(Acoustic Version\)](https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By) | 3:34 |
+| 106 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 |
 | 107 | [Can't Help Falling In Love](https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Can't Help Falling In Love](https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee) | 2:20 |
 | 108 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 |
 | 109 | [Nana](https://open.spotify.com/track/1JmLA5HZ7Wp7L8DNctLpUW) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:56 |

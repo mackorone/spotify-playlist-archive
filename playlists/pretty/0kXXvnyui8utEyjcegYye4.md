@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 340 songs - 20 hr 8 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 342 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -348,5 +348,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 338 | [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 |
 | 339 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |
 | 340 | [OH I DID](https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:56 |
+| 341 | [Lost Soul \- Slowed & Reverb](https://open.spotify.com/track/4B2qZ956CmSOA70HGvV3D5) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [Lost Soul \(Slowed & Reverb\)](https://open.spotify.com/album/22PQVyismZfPYnE3piqCpN) | 4:00 |
+| 342 | [Defeated No More](https://open.spotify.com/track/5BITgueR6DF7rAxxvTzmS3) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Edward MacFarlane](https://open.spotify.com/artist/4lDk68AYMR0F8wSNKGmYLt) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 6:07 |
 
-Snapshot ID: `AAADhQq6aXl+ScbgZy5qivPSUCuMDRR5`
+Snapshot ID: `AAADh1L2gNzJ06hdkyVfAaNYCDk11voe`

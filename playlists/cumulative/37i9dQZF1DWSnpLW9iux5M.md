@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
 
-206 songs - 13 hr 20 min
+207 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Christmas Praise \- Live](https://open.spotify.com/track/5rOvqA7zdL4jliyUNHjgNN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live \(Deluxe Edition\)](https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8) | 2:17 | 2021-12-24 |  |
 | [Christmas Time Has Come](https://open.spotify.com/track/0JDniarTARP2tibPvHenUH) | [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Christmas Time Has Come](https://open.spotify.com/album/3VuMd0LgmyZAt5h5pQeF2V) | 3:11 | 2025-11-16 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [Christmas Time Is Here](https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj) | 3:55 | 2022-12-10 |  |
+| [Christmas With You](https://open.spotify.com/track/0hUZD3chPxoNOMxYwmApNv) | [Jamil](https://open.spotify.com/artist/4JDmvmyrWfrOVik0WkuoSu) | [Christmas With You](https://open.spotify.com/album/34mMNngOp4CTJqEoOJs18l) | 3:15 | 2025-12-12 |  |
 | [Deck The Halls](https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [A Soulful Holiday](https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT) | 4:08 | 2021-12-24 |  |
 | [deck the halls.wav](https://open.spotify.com/track/3ZufhwNN7uZfVrjKID7gOS) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [christmas.wav](https://open.spotify.com/album/5lbkOntAn2fe657duD0s6b) | 2:36 | 2025-12-07 |  |
 | [Do You Believe \(feat\. Yolanda Adams\)](https://open.spotify.com/track/4Arl2nYTR4A0vTs4im5mYb) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 4:08 | 2021-12-24 |  |
@@ -97,7 +98,7 @@
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/7LsohUDYAUvnrsuOBgIQBt) | [J\. Moss](https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW), [Matt Jones Orchestra](https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf) | [A J Holiday](https://open.spotify.com/album/2nt6fN9ycbCmC7HaS5j3W5) | 3:08 | 2023-12-15 | 2024-04-19 |
 | [Jesus Is Love](https://open.spotify.com/track/1zX7Y1MKj9YDewdHvg7npc) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Jesus Is Love](https://open.spotify.com/album/1kaa971feChi4iqs7V2zxD) | 4:21 | 2025-11-22 |  |
 | [Jesus Is The Reason For The Season](https://open.spotify.com/track/1uIZzIYJFm7HpWMSZYvH1h) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 5:45 | 2021-12-24 |  |
-| [Jesus Oh What a Wonderful Child](https://open.spotify.com/track/6F6mzjDsaDHYxxFyWtMwTt) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT) | [Jesus Oh What a Wonderful Child](https://open.spotify.com/album/4MRqalm1uAT8EohleX3W9O) | 3:44 | 2023-11-03 |  |
+| [Jesus Oh What a Wonderful Child](https://open.spotify.com/track/6F6mzjDsaDHYxxFyWtMwTt) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT) | [Jesus Oh What a Wonderful Child](https://open.spotify.com/album/4MRqalm1uAT8EohleX3W9O) | 3:44 | 2023-11-03 | 2025-12-14 |
 | [Jesus Oh What a Wonderful Child](https://open.spotify.com/track/6Z9k6Q16ki5I46w1e8gmQA) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Jesus Oh What a Wonderful Child](https://open.spotify.com/album/74inwo6FUjP2QLjBzXLq4P) | 5:47 | 2024-11-17 | 2025-07-31 |
 | [Jesus What a Wonderful Child](https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC) | [Dottie Peoples](https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb) | [Christmas With Dottie](https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU) | 4:15 | 2021-12-24 |  |
 | [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/5ZSUJnyWR4cLijXtIdsuvY) | [The Collective](https://open.spotify.com/artist/4VJFjCxnsUyDyHdKGrxJIn), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0WovQO1a1e8ZUEIFKA9oGK) | 4:41 | 2023-12-15 | 2024-04-19 |

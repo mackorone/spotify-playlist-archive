@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,497 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,626 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 14 | [Siret El Hob](https://open.spotify.com/track/1PkyJNFqmxHhwGhphkcy5y) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 39:13 |
 | 15 | [Ana Bashaa El Bahr](https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Eyoun El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 5:29 |
 | 16 | [Betlomouny Leih](https://open.spotify.com/track/2VwqTz304YseLtNW8RjoyG) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Aghany Film Hekayet Hob](https://open.spotify.com/album/1dAYSuj4f2djYrKHSlLpSS) | 8:29 |
-| 17 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
-| 18 | [Baddi Choufik Koul Yom](https://open.spotify.com/track/4f4Z7WfFepkjUV9tvMwWLT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 2](https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU) | 4:32 |
+| 17 | [Baddi Choufik Koul Yom](https://open.spotify.com/track/4f4Z7WfFepkjUV9tvMwWLT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 2](https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU) | 4:32 |
+| 18 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
 | 19 | [Baeed Annak](https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 38:22 |
 | 20 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [ذكرى](https://open.spotify.com/artist/1pqxZozlopgLx5QhDAoKIB) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 |
 | 21 | [Zourouni Kouli Sanah Marah](https://open.spotify.com/track/5ZULv6JBpj8eS4T2Pa4UVE) | [Sayed Darwish](https://open.spotify.com/artist/71JpZH64gTrr2Wec59WvNr) | [Best of Sayed Darwish](https://open.spotify.com/album/3g8S82iCa6UjsiYDe8rDxw) | 2:21 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 29 | [Sallimleh Alayh](https://open.spotify.com/track/5CEGZuZqS8KVXZchxBDI1d) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:49 |
 | 30 | [Ya Habaiby Ya Ghaiben](https://open.spotify.com/track/1P1PnCp10v113ANU6WUfHa) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Nagham Fi Hayati](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 8:25 |
 | 31 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 |
-| 32 | [Alayl Ya Layla](https://open.spotify.com/track/1SGE7yd8w2bm8zt32pxs9Y) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Best of Wadih El Safi, Vol\. 1](https://open.spotify.com/album/297hr38v9aZGdsNgHoD9K2) | 6:11 |
-| 33 | [Ya Mesafer Wahdak](https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Aghany Film Mamnoa El Hob Pt.1](https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp) | 7:28 |
+| 32 | [Ya Mesafer Wahdak](https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Aghany Film Mamnoa El Hob Pt.1](https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp) | 7:28 |
+| 33 | [Alayl Ya Layla](https://open.spotify.com/track/1SGE7yd8w2bm8zt32pxs9Y) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Best of Wadih El Safi, Vol\. 1](https://open.spotify.com/album/297hr38v9aZGdsNgHoD9K2) | 6:11 |
 | 34 | [Ala Babee Waqef Qamaren](https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Badak Maleoun Seneh](https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va) | 15:54 |
 | 35 | [Laktob Aourak El Chagar](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Hikayet El Omr Kolloh \- Zaman Ya Hob](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 |
 | 36 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |

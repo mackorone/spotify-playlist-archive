@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 75161,
+  "num_followers": 75205,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAB53jSYFh0aUE99iDG0Q2Sw",
+  "snapshot_id": "aTtbAAAAAABWfMoX4C7F8YFCjNLN9Brc",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimmie A Light",
-        "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "Gimmie A Light",
-      "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y2K! (Bonus)",
         "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 114437,
       "name": "GYAT",
       "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gimmie A Light",
+        "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126153,
+      "name": "Gimmie A Light",
+      "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 1303232,
+  "num_followers": 1303418,
   "original_name": "Workout Beats",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2025-12-11 13:00:27",
+      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2025-12-11 13:00:27",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2025-12-11 13:00:27",
@@ -659,22 +659,6 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2025-12-11 13:00:27",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2025-12-11 13:00:27",
@@ -763,6 +747,22 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2025-12-11 13:00:27",
+      "album": {
         "name": "Hate Me (with Juice WRLD)",
         "url": "https://open.spotify.com/album/29FoTD5vBY3Fq1QWhbl3FM"
       },
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2025-12-11 13:00:27",
-      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -923,6 +903,26 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2025-12-11 13:00:27",
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -939,26 +939,6 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
-    },
-    {
-      "added_at": "2025-12-11 13:00:27",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 155588,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
     },
     {
       "added_at": "2025-12-11 13:00:27",
@@ -983,18 +963,38 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+      "duration_ms": 155588,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "added_at": "2025-12-11 13:00:27",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
       "added_at": "2025-12-11 13:00:27",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2025-12-11 13:00:27",
@@ -1079,6 +1079,30 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
+    },
+    {
+      "added_at": "2025-12-11 13:00:27",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
       "added_at": "2025-12-11 13:00:27",
@@ -1147,22 +1171,6 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
-    },
-    {
-      "added_at": "2025-12-11 13:00:27",
-      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1191,26 +1199,18 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Pussy & Millions (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
       "added_at": "2025-12-11 13:00:27",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-12-11 13:00:27",
       "album": {
-        "name": "Saving Up",
-        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 207514,
-      "name": "Saving Up",
-      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
-    },
-    {
-      "added_at": "2025-12-11 13:00:27",
-      "album": {
         "name": "Come Find Me (with Clementine Douglas)",
         "url": "https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 207149,
       "name": "Come Find Me (with Clementine Douglas)",
       "url": "https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE"
+    },
+    {
+      "added_at": "2025-12-11 13:00:27",
+      "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "added_at": "2025-12-11 13:00:27",

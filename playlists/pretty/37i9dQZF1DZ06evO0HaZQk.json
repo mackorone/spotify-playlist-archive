@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 522658,
+  "num_followers": 522651,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACC+KD8pzhS1/35sSVCrBrw",
+  "snapshot_id": "aTtbAAAAAABnOqnpo6CK/fhbEB06SRPX",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Te Muerdes el Labio",
-        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Diazepam",
-      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 257493,
       "name": "Gulliver (with Natalia Lafourcade, \u00c1lex Gonz\u00e1lez y Sergio Vall\u00edn) - MTV Unplugged",
       "url": "https://open.spotify.com/track/3O38qNyWTWL4QOdFNJqMS2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Te Muerdes el Labio",
+        "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Diazepam",
+      "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En el 2000",
+        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Amarte Duele",
+      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 238743,
       "name": "T\u00fa Ve",
       "url": "https://open.spotify.com/track/7pOuB6eH3MB758FlUqdcV7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En el 2000",
-        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Amarte Duele",
-      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
     },
     {
       "added_at": null,
@@ -939,22 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         },
         {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 348840,
-      "name": "Derecho de Nacimiento (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy"
+      "duration_ms": 179000,
+      "name": "Una Ma\u00f1ana (with Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 762538,
+  "num_followers": 762650,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADfkwsqCuZTWl84DZ+2mD4h",
+  "snapshot_id": "aTtbAAAAAABwm13qHmVdIRmb9dszyTpz",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "El Beso",
-      "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 215813,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Caderas Blancas",
-      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza (Deluxe)",
         "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 214120,
       "name": "Vendaval",
       "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Caderas Blancas",
+      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
     },
     {
       "added_at": null,

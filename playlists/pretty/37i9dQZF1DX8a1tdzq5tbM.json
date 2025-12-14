@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1753444,
+  "num_followers": 1753696,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Western Dream",
         "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
       },
@@ -1607,6 +1623,22 @@
       "duration_ms": 201413,
       "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
       "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1627,22 +1659,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1659,18 +1675,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+        "name": "Dance4Life (feat. Maxi Jazz)",
+        "url": "https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5"
       },
       "artists": [
         {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Maxi Jazz",
+          "url": "https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+      "duration_ms": 213320,
+      "name": "Dance4Life (feat. Maxi Jazz) - Radio Edit",
+      "url": "https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1711,26 +1731,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Dance4Life (feat. Maxi Jazz)",
-        "url": "https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Maxi Jazz",
-          "url": "https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "Dance4Life (feat. Maxi Jazz) - Radio Edit",
-      "url": "https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Put Your Hands Up For Detroit",
         "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
       },
@@ -1759,6 +1759,26 @@
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1799,26 +1819,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 404320,
+      "name": "Nyana",
+      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Floorfillers Club Anthems",
         "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 221493,
       "name": "Heartbreak - Radio Edit",
       "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 404320,
-      "name": "Nyana",
-      "url": "https://open.spotify.com/track/3gVqtCpLK6tHeFbiU20QL6"
     },
     {
       "added_at": "2024-07-12 15:40:20",

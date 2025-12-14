@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 81224,
+  "num_followers": 81251,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-12-09 09:25:31",
       "album": {
+        "name": "Tere Bin Jiya",
+        "url": "https://open.spotify.com/album/4itsjS5C9u50gUufh8Jfre"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Dr. Deepali Patil",
+          "url": "https://open.spotify.com/artist/5ZCkgKMHxQpCwchRoOhjyO"
+        }
+      ],
+      "duration_ms": 328334,
+      "name": "Tere Bin Jiya",
+      "url": "https://open.spotify.com/track/0LPYAOj31l7iV8gz5tfeQZ"
+    },
+    {
+      "added_at": "2025-12-09 09:25:31",
+      "album": {
         "name": "Mann Bheetar",
         "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 387099,
       "name": "Ithlati",
       "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
-    },
-    {
-      "added_at": "2025-12-09 09:25:31",
-      "album": {
-        "name": "Nadiya Bairi Bhayi",
-        "url": "https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Nakul Chugh",
-          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Nadiya Bairi Bhayi",
-      "url": "https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc"
     }
   ],
   "unique_name": "Fusion Finds",

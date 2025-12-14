@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 63473,
+  "num_followers": 63520,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACrS31zbOAugOu1qZnmyRyf",
+  "snapshot_id": "aTtbAAAAAACE+hUiyUX+98UYJ4rLp6e2",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Reel Problems",
+      "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rather Be",
         "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 243082,
       "name": "Where Corn Don\u2019t Grow",
       "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Reel Problems",
-      "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
     },
     {
       "added_at": null,

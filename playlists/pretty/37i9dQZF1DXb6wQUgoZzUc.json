@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1141664,
+  "num_followers": 1141917,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,30 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -703,30 +727,6 @@
       "duration_ms": 216066,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Mami T\u00fa",
-        "url": "https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Maury",
-          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Mami T\u00fa",
-      "url": "https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 209361,
       "name": "TOMMY & PAMELA",
       "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Mami T\u00fa",
+        "url": "https://open.spotify.com/album/3POL8ItQV6sUjrGBLbONMa"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Mami T\u00fa",
+      "url": "https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
         "name": "SUPREME",
         "url": "https://open.spotify.com/album/3xMzcA2wx69GXCwHAK8ydm"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 155294,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Singapur",
-      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Tu Sicaria",
-        "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
-      },
-      "artists": [
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        },
-        {
-          "name": "Beauty Brain",
-          "url": "https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Tu Sicaria",
-      "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "\u00d1ero Session 23",
         "url": "https://open.spotify.com/album/6qN493Dqvx508buRITESb6"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 164455,
       "name": "\u00d1ero Session 23",
       "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Tu Sicaria",
+        "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
+      },
+      "artists": [
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "Beauty Brain",
+          "url": "https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Tu Sicaria",
+      "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
         "name": "Forni",
         "url": "https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 203265,
       "name": "Forni",
       "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
-        "name": "Problem\u00f3n",
-        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Kiriki",
-        "url": "https://open.spotify.com/album/7eLwzopvFrjiPWWG4gve9f"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 204447,
-      "name": "Kiriki",
-      "url": "https://open.spotify.com/track/1S5lFLTOwraf98S5jOxuZO"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "La Motora",
         "url": "https://open.spotify.com/album/3zH5JHBP0CD2gh8h1cV2U8"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 203750,
       "name": "La Motora",
       "url": "https://open.spotify.com/track/7wH57Wibq1vdVr6QmlLL5c"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Kiriki",
+        "url": "https://open.spotify.com/album/7eLwzopvFrjiPWWG4gve9f"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 204447,
+      "name": "Kiriki",
+      "url": "https://open.spotify.com/track/1S5lFLTOwraf98S5jOxuZO"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "BB (with Blessd)",
-        "url": "https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "BB (with Blessd)",
-      "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "Chosen Few: Grandes Exitos",
         "url": "https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 185640,
       "name": "Freakytona",
       "url": "https://open.spotify.com/track/5Ps2ZqATo5drFSEHtpp8lt"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "BB (with Blessd)",
+        "url": "https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "BB (with Blessd)",
+      "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
     },
     {
       "added_at": "2025-12-12 06:00:31",

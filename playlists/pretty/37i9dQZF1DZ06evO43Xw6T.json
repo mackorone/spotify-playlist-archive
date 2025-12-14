@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 177870,
+  "num_followers": 177956,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADO6EiZs4oF8Um0CYt0gufp",
+  "snapshot_id": "aTtbAAAAAACWoz1z+11DJqu5JCDhgY31",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas",
-        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "CLEOPATRA",
-      "url": "https://open.spotify.com/track/6AnNmJG2OlQutOcfsE4B7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/6AnNmJG2OlQutOcfsE4B7e"
     },
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Se Llevan Serenatas (Deluxe)",
         "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Boss",
-        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 225212,
-      "name": "El Boss",
-      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERRA MADRE",
         "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 199459,
       "name": "PERRA MADRE",
       "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Boss",
+        "url": "https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 225212,
+      "name": "El Boss",
+      "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REGALO DE DIOS",
+        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 270328,
+      "name": "REGALO DE DIOS",
+      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Se Llevan Serenatas (Deluxe)",
         "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 186853,
       "name": "WAXHA",
       "url": "https://open.spotify.com/track/3D00WFXnh4PNMC3PvSTEKK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REGALO DE DIOS",
-        "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 270328,
-      "name": "REGALO DE DIOS",
-      "url": "https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFTERLIFE",
+        "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "AFTERLIFE",
+      "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
     },
     {
       "added_at": null,
@@ -899,26 +919,6 @@
       "duration_ms": 259876,
       "name": "CADAVER DE LA NOVIA",
       "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFTERLIFE",
-        "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "AFTERLIFE",
-      "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
     },
     {
       "added_at": null,

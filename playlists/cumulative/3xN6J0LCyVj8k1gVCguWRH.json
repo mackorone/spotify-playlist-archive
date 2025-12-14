@@ -44100,7 +44100,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 241137,
       "name": "I'm Not the Only One",
       "url": "https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME"
@@ -50426,6 +50426,24 @@
       "duration_ms": 267706,
       "name": "Leave",
       "url": "https://open.spotify.com/track/7ojOuwJIa8JHqQBtiGe6fG"
+    },
+    {
+      "album": {
+        "name": "Leave a Little to the Imagination",
+        "url": "https://open.spotify.com/album/4ZCpSskYo5vDF9H1zB5GIZ"
+      },
+      "artists": [
+        {
+          "name": "FORAGER",
+          "url": "https://open.spotify.com/artist/0DT51FXXTBgRb2YykneEyb"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338457,
+      "name": "Leave a Little to the Imagination",
+      "url": "https://open.spotify.com/track/5B55NAEl15wZLczu6QcQDp"
     },
     {
       "album": {
@@ -86834,7 +86852,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 215032,
       "name": "Sycamore Tree",
       "url": "https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK"

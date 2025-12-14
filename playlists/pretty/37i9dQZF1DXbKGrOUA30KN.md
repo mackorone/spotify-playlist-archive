@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,490 likes - 90 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,446 likes - 90 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-8,218 songs - 20 day 21 hr 9 min
+8,220 songs - 20 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3465,6 +3465,7 @@
 | [Last Surprise](https://open.spotify.com/track/66sLnZyVStXL8ry3GxcDqd) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [『ペルソナ5』オリジナル・サウンドトラック](https://open.spotify.com/album/23R5mT3eEeFXjsJYxvzC74) | 3:55 | 2025-01-04 |  |
 | [Last Train At 25 O'clock](https://open.spotify.com/track/3VPBPBZKxQu3bqeuzz8gRm) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 4:23 | 2025-01-03 |  |
 | [Last Train to London](https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:32 | 2025-01-03 |  |
+| [latch](https://open.spotify.com/track/0WfsDFQY3t0nDyWF89QKfe) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:40 | 2025-12-13 |  |
 | [Late](https://open.spotify.com/track/1mFHMzbaECWFaPfoePoEYl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:50 | 2025-01-03 |  |
 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 | 2025-01-04 |  |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2025-01-03 |  |
@@ -6646,6 +6647,7 @@
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2025-01-03 |  |
 | [Vast and Blue](https://open.spotify.com/track/6UUZtBKgK5zis8cGfZTQSc) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Shimmering Voyage \(Original Game Soundtrack\)](https://open.spotify.com/album/3Zw9PiPgAvNtNUnusZAcva) | 2:22 | 2025-07-28 |  |
 | [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 | 2025-01-15 |  |
+| [velvet bow](https://open.spotify.com/track/2IXbQfC4i173dhtSevaUPL) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [velvet bow](https://open.spotify.com/album/4i2A5j1qkWWzeoA1HC0vG3) | 3:04 | 2025-12-13 |  |
 | [Velvet Light](https://open.spotify.com/track/41o2ydrj7Xm9Yt5odIBqq4) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Velvet Light](https://open.spotify.com/album/2FcWsB0E2mFpSQylxYgZXb) | 2:21 | 2025-01-03 |  |
 | [Venetia](https://open.spotify.com/track/3BYIzNZ3t9lRQCACXSMLrT) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:08 | 2025-01-03 |  |
 | [VENGEANCE \| VENGEANCE \[FEAT\. JPEGMAFIA & ZILLAKAMI \| JPEGMAF1A + Z1LLAKAM1\]](https://open.spotify.com/track/4d8BSdhx6WT5GtTOWpv4rh) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [TA13OO](https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc) | 4:00 | 2025-01-03 |  |

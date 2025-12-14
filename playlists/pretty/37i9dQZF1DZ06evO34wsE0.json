@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 251558,
+  "num_followers": 251554,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAV6q6fDnT7MfbhXcUa3Cby",
+  "snapshot_id": "aTtbAAAAAABCCMuCTFAzKKkfkB+d3klL",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Pony",
-        "url": "https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
       "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 232773,
-      "name": "Legends Never Die - with Shania Twain",
-      "url": "https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb"
+      "duration_ms": 159382,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
+        "name": "Show Pony",
+        "url": "https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT"
       },
       "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 159382,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT"
+      "duration_ms": 232773,
+      "name": "Legends Never Die - with Shania Twain",
+      "url": "https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+        "name": "Last Day of Summer",
+        "url": "https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 224733,
-      "name": "I Ain't Goin' Down",
-      "url": "https://open.spotify.com/track/3wYYeT35QwPaJ207ao4UTh"
+      "duration_ms": 190268,
+      "name": "Last Day of Summer",
+      "url": "https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ"
     },
     {
       "added_at": null,

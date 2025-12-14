@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Arakezuri
 
-863 songs - 1 day 21 hr 38 min
+864 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [LOST IN THE "LIVEHOUSE"](https://open.spotify.com/track/166Fh9ya9Ni7jl8ogomOJu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [HELLO!](https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz) | 0:53 | 2025-12-02 |  |
 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2023-04-18 |  |
 | [Love song](https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY) | 2:33 | 2023-04-19 | 2023-06-01 |
+| [Low Self\-Esteem](https://open.spotify.com/track/2zxm4rd4aBpEtrk67zHozK) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Low Self\-Esteem](https://open.spotify.com/album/4kq7H7BmmaqyHc9tcxBA5m) | 3:05 | 2025-12-02 |  |
 | [LUCKY BOY](https://open.spotify.com/track/5assUIrvcCBk6wTw0YLNYT) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [LUCKY BOY](https://open.spotify.com/album/7832Hv94keKPcy8D6Gc7dA) | 2:32 | 2024-09-17 | 2024-11-11 |
 | [Lunch Box](https://open.spotify.com/track/21CwxQwgdOLisNTD0cdjyI) | [KUZIRA](https://open.spotify.com/artist/3BPlRvUsbJdNM0nM8wqmbV) | [Lunch Box](https://open.spotify.com/album/2zcJS2oxoP8c3ScmRcu3Gf) | 1:18 | 2025-01-07 |  |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/5kgoZGkBpXfmOWdfjUA4Tx) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [Lyin' Ass Bitch](https://open.spotify.com/album/6gGMooIW9FGPLa5c5XOxmK) | 4:14 | 2022-07-19 | 2022-09-15 |
@@ -528,7 +529,7 @@
 | [Stupid!!](https://open.spotify.com/track/4sWWmy5AKtN8isxqv6crsT) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Smoke!!](https://open.spotify.com/album/7vFJI5E9v7jFfxhCCXsIX2) | 2:11 | 2022-05-12 | 2022-07-29 |
 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 | 2025-07-01 |  |
 | [Summertime Blue](https://open.spotify.com/track/1Cia7gpB6Kqd9qlbSs0V48) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々2](https://open.spotify.com/album/7HFOgeQ6lNbNPI4TzsaYcO) | 4:29 | 2024-09-24 |  |
-| [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 | 2022-05-12 |  |
+| [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 | 2022-05-12 | 2025-12-14 |
 | [SUNTOWN](https://open.spotify.com/track/1UUoK3etmWU8lFOa4wLod6) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [WOKE](https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW) | 4:41 | 2022-05-12 |  |
 | [SUPER GO!](https://open.spotify.com/track/5dZn5XNaRnOASUaFetLC1r) | [BABY FIRST](https://open.spotify.com/artist/23FflV6MbhRnm5WreqxuoA) | [SPIN\-OFF](https://open.spotify.com/album/566mnh10XUVvkMHJpHiQKv) | 1:51 | 2022-05-19 | 2022-07-15 |
 | [SURF](https://open.spotify.com/track/7dXGfbpC6nEAClhgMSYXEZ) | [Track's](https://open.spotify.com/artist/7iBZYT8fyfa1J3EGTLHVGx) | [SURF](https://open.spotify.com/album/4Gz58i1XggFiaRFLwGCOv3) | 1:28 | 2022-05-19 | 2022-11-14 |

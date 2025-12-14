@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 
 > seamless, soft, soulful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,251 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,252 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 42 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
 | 43 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 | 44 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 |
-| 45 | [STEREO DRIVER](https://open.spotify.com/track/3ndgTTYs0dGZQPLHkVxGHl) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:51 |
-| 46 | [Courage](https://open.spotify.com/track/6WVWglJZaFth6NbuMFC81c) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:38 |
+| 45 | [Courage](https://open.spotify.com/track/6WVWglJZaFth6NbuMFC81c) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:38 |
+| 46 | [STEREO DRIVER](https://open.spotify.com/track/3ndgTTYs0dGZQPLHkVxGHl) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:51 |
 | 47 | [The Feels](https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [The Feels](https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa) | 2:56 |
 | 48 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 49 | [Four Long Years](https://open.spotify.com/track/3HSsitVWr2v52sq6C2o9fz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:40 |
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 53 | [Confirmation \(SSBD\)](https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk) | 4:18 |
 | 54 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 |
 | 55 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
-| 56 | [Is There Somebody Who Can Watch You](https://open.spotify.com/track/5K5ZGCme5SkNLsM5EaXgzc) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 2:54 |
-| 57 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
+| 56 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
+| 57 | [Is There Somebody Who Can Watch You](https://open.spotify.com/track/5K5ZGCme5SkNLsM5EaXgzc) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 2:54 |
 | 58 | [FKA Passat](https://open.spotify.com/track/2l4mvylvhhEQkU6xBVALaH) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 1:28 |
-| 59 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 |
-| 60 | [Your Love](https://open.spotify.com/track/0kY5Rpq4Wn6HUz6nWx8Mta) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Your Love](https://open.spotify.com/album/0kRjiljuqjwUkbsLDczX0w) | 3:27 |
+| 59 | [Your Love](https://open.spotify.com/track/0kY5Rpq4Wn6HUz6nWx8Mta) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Your Love](https://open.spotify.com/album/0kRjiljuqjwUkbsLDczX0w) | 3:27 |
+| 60 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 |
 | 61 | [Gladly](https://open.spotify.com/track/145xZcFMv1ccyKBgEMtV3y) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Devotion](https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv) | 3:41 |
 | 62 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 |
 | 63 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 76 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 |
 | 77 | [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 |
 | 78 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
-| 79 | [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 |
-| 80 | [CHARLES JEFFREY](https://open.spotify.com/track/618BwYUA98PyOVoCbckluW) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [CHARLES JEFFREY](https://open.spotify.com/album/1inYWUi6rRiaUyrfzl6qnj) | 2:27 |
+| 79 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
+| 80 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 |
 
 Snapshot ID: `AAAAAKgvSKIo466yd08vDKzfEU9RJ//2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,408 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,381 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 32 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
 | 33 | [State Of Hawaii](https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [State Of Hawaii](https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h) | 4:15 |
 | 34 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
-| 35 | [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 |
-| 36 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
+| 35 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
+| 36 | [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 |
 | 37 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
 | 38 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
 | 39 | [I AM NOT SO TALL](https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [I AM NOT SO TALL](https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U) | 2:54 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 65 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
 | 66 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
 | 67 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
-| 68 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
-| 69 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
+| 68 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
+| 69 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
 | 70 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
 | 71 | [Lara](https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl) | [Blanco Tranco](https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH) | [Lara](https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q) | 3:05 |
-| 72 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
+| 72 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
 | 73 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
-| 74 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
+| 74 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 75 | [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 |
 
 Snapshot ID: `AAAAAPECEQGq6yTVQ+ySz6ilNJUx9HLU`

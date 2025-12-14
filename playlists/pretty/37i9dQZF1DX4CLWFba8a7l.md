@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > In this house we celebrate Australian music\. Cover: Skin On Skin
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,639 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,643 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 59 | [ONE MORE](https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WHERE YOU'LL FIND ME](https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb) | 2:49 |
 | 60 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
 | 61 | [FACEDOWN](https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [FACEDOWN](https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee) | 3:41 |
-| 62 | [summer in december](https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [wraith](https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC) | 4:05 |
+| 62 | [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes A Girl](https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ) | 4:08 |
 | 63 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 |
 | 64 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 |
 | 65 | [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 |
-| 66 | [Rage Against The Fatigue](https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Fall From The Light](https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m) | 3:26 |
-| 67 | [Tangerine](https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tangerine](https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR) | 4:50 |
-| 68 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 |
+| 66 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 |
+| 67 | [Rage Against The Fatigue](https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Fall From The Light](https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m) | 3:26 |
+| 68 | [Tangerine](https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tangerine](https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR) | 4:50 |
 | 69 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 |
-| 70 | [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes A Girl](https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ) | 4:08 |
+| 70 | [summer in december](https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [wraith](https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC) | 4:05 |
 | 71 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
 | 72 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
-| 73 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
-| 74 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |
-| 75 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
+| 73 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |
+| 74 | [Big Ideas](https://open.spotify.com/track/75epmKQsn2S7ZGKKGHiupK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Big Ideas](https://open.spotify.com/album/7xfeC5mioThYz3byVAIeOO) | 2:39 |
+| 75 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
 
 Snapshot ID: `AAAAAKKJu6fXytnKNS3p8z0acF8ky4AQ`

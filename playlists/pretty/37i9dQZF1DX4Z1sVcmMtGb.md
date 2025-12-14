@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Z1sVcmMtGb.md) - [plain]
 
 > Enjoy the tripleS WORLD TOUR \[tripleS Come True\] LIVE SET including the voices of them on stage! \(tripleS의 무대 멘트와 목소리가 포함된 \[tripleS Come True\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,856 likes - 28 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 28 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

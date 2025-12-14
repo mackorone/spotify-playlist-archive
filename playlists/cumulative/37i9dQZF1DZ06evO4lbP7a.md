@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 46 min
+98 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 | 2023-12-26 |  |
 | [rain check](https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 4:30 | 2025-03-08 |  |
 | [semicolon](https://open.spotify.com/track/3FFeh3VjHhnJjjqmBydCF1) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 4:01 | 2025-03-09 | 2025-08-03 |
+| [shadow dance](https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 2:58 | 2025-12-14 |  |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-12-26 |  |
 | [slash（Anime Ver.）](https://open.spotify.com/track/6caEpxe0Pqu0z1dmuxH4VG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/3X5gMAOWqzq4Aouj3Dy1FO) | 1:32 | 2023-12-26 | 2025-02-09 |
 | [Sleeping town \(feat\. yama\)](https://open.spotify.com/track/33l85q7YTdJGn7PrR3LU8G) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Nerenaiyoruni ka\-tenwoakete](https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn) | 3:17 | 2023-12-26 |  |
@@ -103,7 +104,7 @@
 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 | 2023-12-26 |  |
 | [返光（Movie Edition）](https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [返光（Movie Edition）](https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ) | 4:05 | 2023-12-26 | 2025-10-05 |
 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 | 2024-01-28 | 2024-04-13 |
-| [雫](https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫](https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa) | 4:36 | 2025-03-01 |  |
+| [雫](https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫](https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa) | 4:36 | 2025-03-01 | 2025-12-14 |
 | [麻痺](https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:18 | 2023-12-26 |  |
 
 \*This playlist was first scraped on 2023-12-27. Prior content cannot be recovered.

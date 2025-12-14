@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 70780,
+  "num_followers": 70781,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MM+HeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MNDdqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/6D3NudgxdtKN4csseJ3yYP"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7ksKB1i7m3qe7ZpHOaG4je"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
         "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -73,23 +57,23 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
-        "name": "Stovky let",
-        "url": "https://open.spotify.com/album/7jKEFgDqdk6XtUDQivJN9W"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 161280,
-      "name": "Stovky let",
-      "url": "https://open.spotify.com/track/4ngeoCqT1A0H2l6tJX7KTr"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -105,7 +89,55 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Stovky let",
+        "url": "https://open.spotify.com/album/7jKEFgDqdk6XtUDQivJN9W"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Stovky let",
+      "url": "https://open.spotify.com/track/4ngeoCqT1A0H2l6tJX7KTr"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "V\u00e1noce Na M\u00edru",
+        "url": "https://open.spotify.com/album/1J0lFn8ciKpxY4MRbt20Fd"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "duration_ms": 194835,
+      "name": "V\u00e1noce Na M\u00edru",
+      "url": "https://open.spotify.com/track/3j30Y6jVypcZxFiWATyZ4Y"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Woah",
+        "url": "https://open.spotify.com/album/6Hfyf9kjaXHqdgmIZdtn6L"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/1HukU2OM3TeTPnZzWkLP5y"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
         "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
@@ -125,23 +157,7 @@
       "url": "https://open.spotify.com/track/3U7STcrcDjPQGj4wqNJqSA"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "V\u00e1noce Na M\u00edru",
-        "url": "https://open.spotify.com/album/1J0lFn8ciKpxY4MRbt20Fd"
-      },
-      "artists": [
-        {
-          "name": "Ewa Farna",
-          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
-        }
-      ],
-      "duration_ms": 194835,
-      "name": "V\u00e1noce Na M\u00edru",
-      "url": "https://open.spotify.com/track/3j30Y6jVypcZxFiWATyZ4Y"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "KARAKORAM",
         "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
@@ -173,27 +189,7 @@
       "url": "https://open.spotify.com/track/5tSBZk5XGiK9vMI4KeiQJh"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Sofian Medjmedj",
-          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
-      "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
@@ -221,7 +217,7 @@
       "url": "https://open.spotify.com/track/3QCRSIRZyCM2JjR4DTiwzF"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -237,23 +233,59 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
-        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
-        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
+        "name": "Bieber Fever Tour Life",
+        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
       },
       "artists": [
         {
-          "name": "BUKA",
-          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Sofian Medjmedj",
+          "url": "https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW"
         }
       ],
-      "duration_ms": 120000,
-      "name": "J\u00e1 u\u017e vid\u00edm",
-      "url": "https://open.spotify.com/track/5MASkrYZha9TxRywbo0CzS"
+      "duration_ms": 174117,
+      "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
+      "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Dobr\u00fd \u010casy",
+        "url": "https://open.spotify.com/album/4qbUWnbj76iuu7ginVhEX6"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1clav Neck\u00e1\u0159",
+          "url": "https://open.spotify.com/artist/2pexGBYCYZadfQvlrmvjGt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "P\u016flno\u010dn\u00ed",
+      "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "KARAKORAM",
+        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 97717,
+      "name": "BIG STEPPER",
+      "url": "https://open.spotify.com/track/6TF0zzItoEon7cjWN9XRhf"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
         "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
@@ -269,23 +301,7 @@
       "url": "https://open.spotify.com/track/4FRW1aDiN6Im16fHPA64ww"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Big Stepper RMX",
         "url": "https://open.spotify.com/album/4ppxQwWTcSUUXhdtSxICo1"
@@ -305,39 +321,7 @@
       "url": "https://open.spotify.com/track/36PoImm93KCSPdwEKE94uS"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "Dobr\u00fd \u010casy",
-        "url": "https://open.spotify.com/album/4qbUWnbj76iuu7ginVhEX6"
-      },
-      "artists": [
-        {
-          "name": "V\u00e1clav Neck\u00e1\u0159",
-          "url": "https://open.spotify.com/artist/2pexGBYCYZadfQvlrmvjGt"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "P\u016flno\u010dn\u00ed",
-      "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "KARAKORAM",
-        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 97717,
-      "name": "BIG STEPPER",
-      "url": "https://open.spotify.com/track/6TF0zzItoEon7cjWN9XRhf"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
         "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
@@ -348,28 +332,12 @@
           "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
         }
       ],
-      "duration_ms": 155294,
-      "name": "\u0160patn\u00fd karty",
-      "url": "https://open.spotify.com/track/41XQsl1TCPGbdNTHI97Y6B"
+      "duration_ms": 120000,
+      "name": "J\u00e1 u\u017e vid\u00edm",
+      "url": "https://open.spotify.com/track/5MASkrYZha9TxRywbo0CzS"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -389,59 +357,23 @@
       "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
-        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
-        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "BUKA",
-          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 152727,
-      "name": "Dostihy a s\u00e1zky",
-      "url": "https://open.spotify.com/track/6RMzO3ElcQp5hzsbc9OWvl"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "KARAKORAM",
-        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "TINTED WINDOWS",
-      "url": "https://open.spotify.com/track/7vyNS9qPNnSTZ1MXDyIzpG"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
-        }
-      ],
-      "duration_ms": 109759,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -457,7 +389,23 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
+        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
+      },
+      "artists": [
+        {
+          "name": "BUKA",
+          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "\u0160patn\u00fd karty",
+      "url": "https://open.spotify.com/track/41XQsl1TCPGbdNTHI97Y6B"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "V\u00e1no\u010dn\u00ed (feat. Teri Blitzen)",
         "url": "https://open.spotify.com/album/7LwJDJYDDYkcoyu7SuWjVp"
@@ -477,71 +425,7 @@
       "url": "https://open.spotify.com/track/2eDK36OyLEXUYP0DxlTLIE"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
-        "url": "https://open.spotify.com/album/1NX1KF6EB1zsSxEcd4zopL"
-      },
-      "artists": [
-        {
-          "name": "NEXTIME",
-          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
-        }
-      ],
-      "duration_ms": 96001,
-      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
-      "url": "https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
-        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
-      },
-      "artists": [
-        {
-          "name": "BUKA",
-          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Nem\u00e1\u0161 za\u010d",
-      "url": "https://open.spotify.com/track/23K6XSQArN5dWRVyXPGRjC"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Halyw\u016fd",
         "url": "https://open.spotify.com/album/6fOPFcFKTDYOhXKwfSQgAe"
@@ -561,7 +445,75 @@
       "url": "https://open.spotify.com/track/1qrpm14LqMOlDIV21wQ8aZ"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
+        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
+      },
+      "artists": [
+        {
+          "name": "BUKA",
+          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Dostihy a s\u00e1zky",
+      "url": "https://open.spotify.com/track/6RMzO3ElcQp5hzsbc9OWvl"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Barvy",
         "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
@@ -577,31 +529,151 @@
       "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
-        "name": "NAV\u017dDYCKY BL\u00c1ZEN",
-        "url": "https://open.spotify.com/album/0oNaM84SO3IYlkDwLypnRD"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "GUFRAU",
-          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
-        },
-        {
-          "name": "Victor Kal.",
-          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
-        },
-        {
-          "name": "Rohony",
-          "url": "https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 165728,
-      "name": "NAV\u017dDYCKY BL\u00c1ZEN",
-      "url": "https://open.spotify.com/track/0FvV3lYeJ5xiqhsFDT0rzI"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/1NX1KF6EB1zsSxEcd4zopL"
+      },
+      "artists": [
+        {
+          "name": "NEXTIME",
+          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
+        }
+      ],
+      "duration_ms": 96001,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "\u010cernob\u00edlej sv\u011bt",
+        "url": "https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Hasan",
+          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "A\u017e na m\u011bs\u00edc",
+      "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
+        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
+      },
+      "artists": [
+        {
+          "name": "BUKA",
+          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Nem\u00e1\u0161 za\u010d",
+      "url": "https://open.spotify.com/track/23K6XSQArN5dWRVyXPGRjC"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "SI JE*LA",
+        "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "SI JE*LA",
+      "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "KARAKORAM",
+        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "TINTED WINDOWS",
+      "url": "https://open.spotify.com/track/7vyNS9qPNnSTZ1MXDyIzpG"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -621,7 +693,7 @@
       "url": "https://open.spotify.com/track/1x1gDfbVvPYm8gaRVhDhIl"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "KSN (PINTLICH REMIX)",
         "url": "https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ"
@@ -657,151 +729,7 @@
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "In\u00e9 Plemen\u00e1",
-      "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Syndrom",
-      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "KARAKORAM",
-        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
-      },
-      "artists": [
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 140940,
-      "name": "V\u00cd\u0160 JAK BOL\u00cd \u0158\u00cdKAT RIP",
-      "url": "https://open.spotify.com/track/5jIAUi4NrvDDqA9Ma32Ej2"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
-        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
-      },
-      "artists": [
-        {
-          "name": "BUKA",
-          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Gambit",
-      "url": "https://open.spotify.com/track/0KO50WWIP8uwFW59XwXEpz"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "SI JE*LA",
-        "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "SI JE*LA",
-      "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "\u010cernob\u00edlej sv\u011bt",
-        "url": "https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        },
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Hasan",
-          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "A\u017e na m\u011bs\u00edc",
-      "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
-        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
-      },
-      "artists": [
-        {
-          "name": "BUKA",
-          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
-        }
-      ],
-      "duration_ms": 124081,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/0QrW8S5czS6QNz26y6Rie0"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -817,75 +745,39 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 214333,
-      "name": "Happy Xmas (War Is Over) - Remastered 2010",
-      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "P\u00e1tky",
-      "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
-    },
-    {
-      "added_at": "2025-12-12 13:59:03",
+      "added_at": "2025-12-13 13:33:41",
       "album": {
         "name": "Mili\u00f3\u00f3\u00f3ny P\u0159\u00e1n\u00ed",
         "url": "https://open.spotify.com/album/3RfV4hfOoLDbO9vckUrg0M"
@@ -903,6 +795,110 @@
       "duration_ms": 194285,
       "name": "Mili\u00f3\u00f3\u00f3ny P\u0159\u00e1n\u00ed",
       "url": "https://open.spotify.com/track/6cHIlTBxzGoCivKNUs8fwD"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Syndrom",
+      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "P\u00e1tky",
+      "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "KARAKORAM",
+        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "duration_ms": 140940,
+      "name": "V\u00cd\u0160 JAK BOL\u00cd \u0158\u00cdKAT RIP",
+      "url": "https://open.spotify.com/track/5jIAUi4NrvDDqA9Ma32Ej2"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "NAV\u017dDYCKY BL\u00c1ZEN",
+        "url": "https://open.spotify.com/album/0oNaM84SO3IYlkDwLypnRD"
+      },
+      "artists": [
+        {
+          "name": "GUFRAU",
+          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
+        },
+        {
+          "name": "Victor Kal.",
+          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
+        },
+        {
+          "name": "Rohony",
+          "url": "https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio"
+        }
+      ],
+      "duration_ms": 165728,
+      "name": "NAV\u017dDYCKY BL\u00c1ZEN",
+      "url": "https://open.spotify.com/track/0FvV3lYeJ5xiqhsFDT0rzI"
+    },
+    {
+      "added_at": "2025-12-13 13:33:41",
+      "album": {
+        "name": "Prozyum (Director\u2019s Cut)",
+        "url": "https://open.spotify.com/album/2b3VHocNH0l8kU0N1PkYi7"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Rodinnej Typ",
+      "url": "https://open.spotify.com/track/35nvMkQglkoeydD81a0b77"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

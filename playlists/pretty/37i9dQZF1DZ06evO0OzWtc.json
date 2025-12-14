@@ -1,13 +1,41 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2180,
+  "num_followers": 2181,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACEG1ncY9mJa+U5AeZjrZFC",
+  "snapshot_id": "aTtbAAAAAADb5cgcorW8wzPl3z0y7QtK",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta Mi Vida 2.0",
+        "url": "https://open.spotify.com/album/6Eqku4M86uTXBNQN7SUPeh"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Me Gusta Mi Vida 2.0",
+      "url": "https://open.spotify.com/track/16JufC0T9PMEdfZUJajoyK"
+    },
     {
       "added_at": null,
       "album": {
@@ -219,34 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mafioso Americano",
-        "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Tian Glez",
-          "url": "https://open.spotify.com/artist/1D8DPSHgRcnzzHyNFoplMS"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 142501,
-      "name": "Mafioso Americano",
-      "url": "https://open.spotify.com/track/26cw8A1zGvdQbmrrIZDWa8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/31rzW2cjlkcOlzg17R44At"
       },
@@ -271,6 +271,34 @@
       "duration_ms": 146779,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7HvWi85alJcNb2z3PFyVjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mafioso Americano",
+        "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Tian Glez",
+          "url": "https://open.spotify.com/artist/1D8DPSHgRcnzzHyNFoplMS"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 142501,
+      "name": "Mafioso Americano",
+      "url": "https://open.spotify.com/track/26cw8A1zGvdQbmrrIZDWa8"
     },
     {
       "added_at": null,
@@ -475,34 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlett\u00b4s",
-        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Scarlett\u00b4s",
-      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prendo Un Gallo",
         "url": "https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L"
       },
@@ -531,30 +531,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recio",
-        "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
+        "name": "Scarlett\u00b4s",
+        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
       },
       "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
         {
           "name": "Eugenio Esquivel",
           "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
         },
         {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
         }
       ],
-      "duration_ms": 151564,
-      "name": "Recio",
-      "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
+      "duration_ms": 170250,
+      "name": "Scarlett\u00b4s",
+      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
     },
     {
       "added_at": null,
@@ -583,6 +583,34 @@
       "duration_ms": 190161,
       "name": "Sobra y Falta",
       "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recio",
+        "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 151564,
+      "name": "Recio",
+      "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
     },
     {
       "added_at": null,
@@ -747,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Adiamantado",
-      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -795,6 +799,30 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Adiamantado",
+      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,

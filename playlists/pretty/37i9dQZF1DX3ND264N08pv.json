@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 90605,
+  "num_followers": 90642,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,26 @@
     {
       "added_at": "2025-12-11 23:00:23",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj"
+      },
+      "artists": [
+        {
+          "name": "Spiady",
+          "url": "https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs"
+        },
+        {
+          "name": "Darkside Retox",
+          "url": "https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp"
+        }
+      ],
+      "duration_ms": 194742,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto"
+    },
+    {
+      "added_at": "2025-12-11 23:00:23",
+      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/30iH2oEdaF4GpcESpvF7JB"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 196200,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/0Wwn53gqhMwRwhvqvGH5bq"
-    },
-    {
-      "added_at": "2025-12-11 23:00:23",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj"
-      },
-      "artists": [
-        {
-          "name": "Spiady",
-          "url": "https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs"
-        },
-        {
-          "name": "Darkside Retox",
-          "url": "https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp"
-        }
-      ],
-      "duration_ms": 194742,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto"
     }
   ],
   "unique_name": "Hardcore Rage 2025",

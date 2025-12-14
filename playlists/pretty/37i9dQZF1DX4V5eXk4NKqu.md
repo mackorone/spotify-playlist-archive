@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring Bebo Dumont.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,103 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,094 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 27 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 28 | [Terapia \- Remix](https://open.spotify.com/track/4IrbX1iwsvOHAstlaZT3XX) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Terapia \(Remix\)](https://open.spotify.com/album/3uNseXKMzM3Cl9GisbcUXz) | 3:18 |
 | 29 | [SOPHIA](https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SOPHIA](https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu) | 3:04 |
-| 30 | [Un Castigo](https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Un Castigo](https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h) | 3:09 |
-| 31 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
+| 30 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
+| 31 | [Un Castigo](https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Un Castigo](https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h) | 3:09 |
 | 32 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
 | 33 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 34 | [Destrucción \- Remix](https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Destrucción \(Remix\)](https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM) | 3:20 |

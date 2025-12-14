@@ -4,7 +4,7 @@
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-113 songs - 5 hr 29 min
+114 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2023-11-10 |  |
 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 | 2023-11-10 |  |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2023-11-10 |  |
-| [Speed](https://open.spotify.com/track/2cYmBbXWopJZDgJX2s4VGL) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/0ynRwRCJpD7TBk5dizYTiR) | 2:54 | 2025-11-16 |  |
+| [Speed](https://open.spotify.com/track/2cYmBbXWopJZDgJX2s4VGL) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/0ynRwRCJpD7TBk5dizYTiR) | 2:54 | 2025-11-16 | 2025-12-14 |
+| [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-12-14 |  |
 | [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:38 | 2023-11-10 | 2025-01-19 |
 | [still prevail](https://open.spotify.com/track/5ieqvcZfycFIMJnF84D1Du) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 3:12 | 2025-03-26 |  |
 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/3pjzb1lnMOJbWbghMGSp23) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:12 | 2025-04-24 | 2025-08-10 |

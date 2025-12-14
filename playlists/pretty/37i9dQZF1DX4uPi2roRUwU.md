@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,497 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,478 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 44 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
 | 45 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 |
 | 46 | [Baille](https://open.spotify.com/track/0vBqDdVYnqGAD41TsizN73) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Baille](https://open.spotify.com/album/3070nvzG2FbwF1H3oYmMFs) | 2:33 |
-| 47 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 |
-| 48 | [Have You Ever Seen The Rain](https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq) | [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL), [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Have You Ever Seen The Rain](https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k) | 2:05 |
+| 47 | [Have You Ever Seen The Rain](https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq) | [Outliers](https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL), [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t), [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Have You Ever Seen The Rain](https://open.spotify.com/album/5oDYNgWJJAzoqk5u5jZj8k) | 2:05 |
+| 48 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 |
 | 49 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 |
 | 50 | [Ex's & Oh's](https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Ex's & Oh's](https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR) | 2:03 |
 | 51 | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0) | 2:19 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 57 | [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 |
 | 58 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 59 | [K.O.](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [K.O.](https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee) | 2:17 |
-| 60 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
+| 60 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
 
 Snapshot ID: `AAAAAMpGcw+vzGpGpM7HPL0OhyzA7QkG`

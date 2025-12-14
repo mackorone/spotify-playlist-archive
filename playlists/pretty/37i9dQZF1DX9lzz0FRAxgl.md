@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lzz0FRAxgl.md) - [plain]
 
 > The most streamed artists of 2025\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,616 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,784 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lzz0FRAxgl.md) - [plain]
 | 49 | [Jaadu Hai Nasha](https://open.spotify.com/track/3AnZglmUlAVNi9lXnM5Hsq) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Jism \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SVO8picVZUX4BR41U8Bse) | 5:28 |
 | 50 | [All Night](https://open.spotify.com/track/6PtIZ4mdknICL8439aa2tn) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:45 |
 
-Snapshot ID: `AAAAAAYkUKtK+L/jHVRg3pQSTOcCnJSm`
+Snapshot ID: `AAAAABbm0gkhnYORyow3CUeNVOuRhjr8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,559 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,564 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 28 | [After the rain](https://open.spotify.com/track/0iHSBbDOd5JnwLu1o0y1u4) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Law and The City, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5jw9rhuN8Obf3JXzDvtYER) | 3:27 |
 | 29 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 |
 | 30 | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Even if I’m dying \(feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX) | 3:04 |
-| 31 | [To you.](https://open.spotify.com/track/60KO4Jd3LaG7XOJflLZ224) | [myojin](https://open.spotify.com/artist/1CAP5RxIYcoJ5aosA5xCC3) | [To you.](https://open.spotify.com/album/2cnQUJet3W9uEuPJ87RfZ6) | 3:52 |
-| 32 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
+| 31 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
+| 32 | [To you.](https://open.spotify.com/track/60KO4Jd3LaG7XOJflLZ224) | [myojin](https://open.spotify.com/artist/1CAP5RxIYcoJ5aosA5xCC3) | [To you.](https://open.spotify.com/album/2cnQUJet3W9uEuPJ87RfZ6) | 3:52 |
 | 33 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 |
 | 34 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 35 | [Chocolate, candy, bread, love and dreams!](https://open.spotify.com/track/0Jj5gPHhsrk4m6VQVuhKpU) | [Jade](https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE) | [Chocolate, candy, bread, love and dreams!](https://open.spotify.com/album/4h312U89sSeYyCnnDE2XOC) | 2:19 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 46 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
 | 47 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
 | 48 | [Sapporo](https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [Sapporo](https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty) | 3:18 |
-| 49 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
-| 50 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
+| 49 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
+| 50 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
 
 Snapshot ID: `AAAAAGuVuQc5fZvvm0xMKLuAIto7kHKT`

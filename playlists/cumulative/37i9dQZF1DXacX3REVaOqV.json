@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/1duRQZvyJyiZyIcAEdmy0f"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/18A6BM91m2IpFFsqDWn4RC"
+    },
+    {
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/54oAoS1aEqeTCFAlY6Q0LH"
       },
@@ -3261,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "Give You My Luv EP",
+        "url": "https://open.spotify.com/album/09YemHqZAksPmmdu0tbOpG"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180951,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/4xmBYMjW9lGBUopYOaErPG"
+    },
+    {
+      "album": {
         "name": "Don't Matter",
         "url": "https://open.spotify.com/album/61SOdgsmEVsXQCw589W6KE"
       },
@@ -3524,7 +3560,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 182125,
       "name": "Easily",
       "url": "https://open.spotify.com/track/5y4UnA1BOuxp2J0vbO575R"
@@ -7948,7 +7984,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 178763,
       "name": "LOOKS LIKE IT (SPACE TALK)",
       "url": "https://open.spotify.com/track/16XeipT6LkTIHfP3fcP2hu"

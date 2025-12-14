@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: giuliette price",
-  "num_followers": 12557,
+  "num_followers": 12560,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -423,78 +423,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Reawakening",
-        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
-      },
-      "artists": [
-        {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
-        },
-        {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
-        }
-      ],
-      "duration_ms": 449112,
-      "name": "A Fallist's Prayer",
-      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 322073,
-      "name": "Ransome, Pt. 1",
-      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "Come Home (feat. Filah Lah Lah)",
-        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
-      },
-      "artists": [
-        {
-          "name": "Ndabo Zulu",
-          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
-        }
-      ],
-      "duration_ms": 366048,
-      "name": "Come Home (feat. Filah Lah Lah)",
-      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "At This Point in Time: Voices in Volumes",
-        "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
-      },
-      "artists": [
-        {
-          "name": "Herbie Tsoaeli",
-          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
-        }
-      ],
-      "duration_ms": 484551,
-      "name": "Wozani Nonke Sizothandaza",
-      "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "Njia",
         "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
       },
@@ -519,6 +447,78 @@
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 322073,
+      "name": "Ransome, Pt. 1",
+      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Reawakening",
+        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
+      },
+      "artists": [
+        {
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "duration_ms": 449112,
+      "name": "A Fallist's Prayer",
+      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "At This Point in Time: Voices in Volumes",
+        "url": "https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr"
+      },
+      "artists": [
+        {
+          "name": "Herbie Tsoaeli",
+          "url": "https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn"
+        }
+      ],
+      "duration_ms": 484551,
+      "name": "Wozani Nonke Sizothandaza",
+      "url": "https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "Come Home (feat. Filah Lah Lah)",
+        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
+      },
+      "artists": [
+        {
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        },
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        }
+      ],
+      "duration_ms": 366048,
+      "name": "Come Home (feat. Filah Lah Lah)",
+      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
+        "name": "IZIBONGO",
+        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
+      },
+      "artists": [
+        {
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
+        }
+      ],
+      "duration_ms": 412966,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
         "name": "Inner Gaze",
         "url": "https://open.spotify.com/album/5VunFoN1MsB0pTcMYNHnUK"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "IZIBONGO",
-        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
       },
       "artists": [
         {
-          "name": "Sibusiso Mash Mashiloane",
-          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
         }
       ],
-      "duration_ms": 412966,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -887,22 +903,6 @@
       "duration_ms": 413906,
       "name": "Ebhedini",
       "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
-        "name": "MaBrrrrrrrrr",
-        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 296678,
-      "name": "MaBrrrrrrrrr",
-      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
       "added_at": "2025-11-07 00:07:51",

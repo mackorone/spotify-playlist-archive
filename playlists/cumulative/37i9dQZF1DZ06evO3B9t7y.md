@@ -4,7 +4,7 @@
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-187 songs - 9 hr 54 min
+188 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Si Tú Me Vieras](https://open.spotify.com/track/5R08hPTDZvTpHNtWfGfWSs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Si Tú Me Vieras](https://open.spotify.com/album/64TnljwBhhx5JBRKkRAofr) | 3:09 | 2025-05-25 | 2025-06-21 |
 | [Si Una Vez \- En Vivo](https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:54 | 2022-06-01 | 2023-08-22 |
 | [Si una Vez \- En Vivo](https://open.spotify.com/track/1ZYPtJnVttoAT4O5rbTdCm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4) | 2:54 | 2023-08-21 | 2025-05-24 |
-| [SIEMPRE FIRME](https://open.spotify.com/track/3suEWLuTlQcgG1bpvbH4M8) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy) | [SIEMPRE FIRME](https://open.spotify.com/album/7v2jKM3tEwjS549F087UgT) | 3:19 | 2025-11-16 |  |
+| [SIEMPRE FIRME](https://open.spotify.com/track/3suEWLuTlQcgG1bpvbH4M8) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy) | [SIEMPRE FIRME](https://open.spotify.com/album/7v2jKM3tEwjS549F087UgT) | 3:19 | 2025-11-16 | 2025-12-14 |
+| [Sin Fortuna \(En Vivo\)](https://open.spotify.com/track/5gUGD4wY6mnqLJtMCArXJ0) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Chapayeka \(En Vivo\)](https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x) | 3:33 | 2025-12-14 |  |
 | [Solo Un Día \- En Vivo](https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 3:52 | 2022-06-01 | 2023-06-03 |
 | [Soñador Eterno](https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:13 | 2022-06-01 | 2023-08-26 |
 | [Soñador Eterno](https://open.spotify.com/track/5u91nMfFrx63mbRENGOSUA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:13 | 2023-08-25 | 2023-12-14 |

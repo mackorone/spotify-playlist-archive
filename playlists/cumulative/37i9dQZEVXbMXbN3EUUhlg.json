@@ -930,7 +930,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "A Firma Segue Lucrando",
       "url": "https://open.spotify.com/track/2KINhc9Jf5Z6IxdJ3xM07Z"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 193600,
       "name": "ALTERADO",
       "url": "https://open.spotify.com/track/4sX07T4478VYdBm0R71POZ"
@@ -3740,6 +3740,18 @@
         {
           "name": "Matu\u00ea",
           "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "BNYX",
+          "url": "https://open.spotify.com/artist/4kuF7yS9DIeTXrnOvffJkV"
+        },
+        {
+          "name": "Azul Wynter",
+          "url": "https://open.spotify.com/artist/27sdmUjvXiJmhG4J9QHWFz"
+        },
+        {
+          "name": "Bryan",
+          "url": "https://open.spotify.com/artist/4HFlGBfeK2v86mUat5KqCF"
         }
       ],
       "date_added": "2025-12-12",
@@ -8864,7 +8876,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
@@ -11558,7 +11570,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "Esse Cupido N\u00e3o Me Ajuda",
       "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
@@ -12474,7 +12486,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 112651,
       "name": "FACAS E MACHADOS",
       "url": "https://open.spotify.com/track/1LT3tGHfUbjrdDT5BPa1Iq"
@@ -21942,7 +21954,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 43427,
       "name": "NANANANA",
       "url": "https://open.spotify.com/track/1TW1f8y05vumhinTrAU30h"
@@ -24105,6 +24117,28 @@
     },
     {
       "album": {
+        "name": "DEBAIXO DO MEU CHAP\u00c9U (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3S79haIwTxJKfLuZMpznWa"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165231,
+      "name": "OR\u00c7AMENTO - Ao Vivo",
+      "url": "https://open.spotify.com/track/79MxbO0fmeREiSUdODnqaq"
+    },
+    {
+      "album": {
         "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
         "url": "https://open.spotify.com/album/7bdWZHUJyzQAzV0qbBrZ4J"
       },
@@ -24134,7 +24168,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 155081,
       "name": "OS MELHORES",
       "url": "https://open.spotify.com/track/35df5zF0HOKz9bfNjOA7tZ"
@@ -25336,7 +25370,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 214008,
       "name": "PENSAMENTOS PERIGOSOS",
       "url": "https://open.spotify.com/track/0aksmcRh5LIs4DAL3pfcoY"
@@ -31836,7 +31870,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 152947,
       "name": "TALKING BOUT",
       "url": "https://open.spotify.com/track/5x6ZQVigUJhSIHN65rp6g9"
@@ -33264,7 +33298,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 153747,
       "name": "TODAS AS LUZES",
       "url": "https://open.spotify.com/track/2WIg2OljTQEbja74ZGOrxQ"
@@ -33406,7 +33440,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "Toma Gostosona",
       "url": "https://open.spotify.com/track/7G8V8LiyyqwzSlsQLiaitN"
@@ -34910,7 +34944,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 207136,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi"
@@ -34972,7 +35006,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 150936,
       "name": "Vai Cair \u00c1gua - Ao Vivo",
       "url": "https://open.spotify.com/track/0qZwqMsGSClyrKzbVbRto9"

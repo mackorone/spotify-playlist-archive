@@ -4,7 +4,7 @@
 
 > This is Sasha Keable\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 38 min
+45 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Put Your Love On Me \- Stylo G Mix](https://open.spotify.com/track/7oo0Qh2os8dcR5mhFUmZ5r) | [Diztortion](https://open.spotify.com/artist/35vjmhmFFVoYLg4gPJBvEV), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Put Your Love On Me \(Stylo G Mix\)](https://open.spotify.com/album/41BZcJBiIZCXoBclGYUHaj) | 3:07 | 2025-08-02 |  |
 | [Spoke To Myself](https://open.spotify.com/track/5CVnpiYwMTNYeJofND7y3x) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:28 | 2025-08-02 |  |
 | [Sweetest Talk](https://open.spotify.com/track/5faA5gSW8Yrpp3pxrhuzEn) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:22 | 2025-08-02 |  |
+| [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 | 2025-12-14 |  |
 | [Take Your Time \(feat\. 6lack\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6lack\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 | 2025-08-02 |  |
 | [Tempting As You Are](https://open.spotify.com/track/5XLIhPjfiKJ6MPFR3djTjh) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:48 | 2025-08-02 |  |
 | [That's the Shit](https://open.spotify.com/track/4yV3QkskfPf2dRJMBbVTqk) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [That's the Shit](https://open.spotify.com/album/2oAse00yR0sZoTByqVvmxn) | 3:06 | 2025-08-02 |  |

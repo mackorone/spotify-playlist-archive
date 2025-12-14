@@ -24672,7 +24672,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 153230,
       "name": "Call It What It Is",
       "url": "https://open.spotify.com/track/5NGaekNpvNF5Rt6lcxgTUp"
@@ -39372,7 +39372,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 244486,
       "name": "Do You Miss Me?",
       "url": "https://open.spotify.com/track/2A1jDOtaOI54y1L11kXE8j"
@@ -84227,6 +84227,24 @@
     },
     {
       "album": {
+        "name": "Juna",
+        "url": "https://open.spotify.com/album/3aspGiIGwBOqBlqDpLjjt9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212699,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/1IAwBNAULjZsqB2SHZAkw0"
+    },
+    {
+      "album": {
         "name": "Junction 3",
         "url": "https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3"
       },
@@ -99698,7 +99716,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 157660,
       "name": "Malala",
       "url": "https://open.spotify.com/track/7pvqSDVFGVoisO9Z4knakj"
@@ -110030,6 +110048,10 @@
           "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
         },
         {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        },
+        {
           "name": "Konke",
           "url": "https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU"
         },
@@ -119040,7 +119062,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 240229,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d"
@@ -130170,7 +130192,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 202559,
       "name": "Run",
       "url": "https://open.spotify.com/track/3iOgdgzaBPaOzYPg2cLEfb"
@@ -150044,7 +150066,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 192812,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/7kq367oi8aToIhnnCIb2To"
@@ -175058,7 +175080,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 114004,
       "name": "Wish It Was You",
       "url": "https://open.spotify.com/track/0ugudVhqSecc7o1TRgxaJz"

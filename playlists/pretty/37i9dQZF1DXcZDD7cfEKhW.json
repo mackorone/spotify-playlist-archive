@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: RAYE",
-  "num_followers": 4042004,
+  "num_followers": 4041825,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -316,8 +316,8 @@
           "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         },
         {
-          "name": "SONIKUU",
-          "url": "https://open.spotify.com/artist/6OTpU2ulcm9Xh1wKanHMOo"
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
         }
       ],
       "duration_ms": 194928,
@@ -547,6 +547,26 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -579,26 +599,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
@@ -621,26 +621,6 @@
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
     },
     {
-      "added_at": "2025-10-31 04:00:33",
-      "album": {
-        "name": "Camera (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 163948,
-      "name": "Camera (CYRIL Remix)",
-      "url": "https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF"
-    },
-    {
       "added_at": "2025-09-05 13:32:53",
       "album": {
         "name": "feelslikeimfallinginlove (Zerb x Coldplay)",
@@ -659,6 +639,26 @@
       "duration_ms": 236612,
       "name": "feelslikeimfallinginlove - Zerb x Coldplay",
       "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
+    },
+    {
+      "added_at": "2025-10-31 04:00:33",
+      "album": {
+        "name": "Camera (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 163948,
+      "name": "Camera (CYRIL Remix)",
+      "url": "https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "PROVENZA - REMIX",
+      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
         "name": "Born Again (Purple Disco Machine Remix) (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/3gQLayLf72WrSISvFr8iOt"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 212880,
       "name": "Born Again (feat. Doja Cat & RAYE) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 187670,
-      "name": "PROVENZA - REMIX",
-      "url": "https://open.spotify.com/track/7DmP5W2DbhXC7uKYbYXtIm"
     },
     {
       "added_at": "2025-09-05 13:32:53",

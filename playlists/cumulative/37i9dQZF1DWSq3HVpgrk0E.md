@@ -4,7 +4,7 @@
 
 > The whole truth\. Cover: 21 Savage
 
-59 songs - 2 hr 57 min
+60 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,11 +43,12 @@
 | [Middle of the Summer](https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Middle of the Summer](https://open.spotify.com/album/45BtT1eeb8MUrrmCtnduS2) | 2:52 | 2025-12-05 |  |
 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-10-17 |  |
 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 | 2025-10-17 |  |
-| [NEW DROP](https://open.spotify.com/track/0A189BUGs0WHvEA09bWdA6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 3:37 | 2025-10-17 |  |
+| [NEW DROP](https://open.spotify.com/track/0A189BUGs0WHvEA09bWdA6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 3:37 | 2025-10-17 | 2025-12-14 |
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2025-10-17 |  |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2025-10-17 |  |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-10-17 |  |
 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 | 2025-10-17 |  |
+| [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 | 2025-12-12 |  |
 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-10-17 |  |
 | [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 | 2025-10-17 |  |
 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 | 2025-10-17 |  |

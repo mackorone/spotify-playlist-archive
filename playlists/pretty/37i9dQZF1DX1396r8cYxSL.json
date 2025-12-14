@@ -1,6 +1,6 @@
 {
   "description": "2025 yaz\u0131na damga vuran \u015fark\u0131lar.",
-  "num_followers": 288649,
+  "num_followers": 288632,
   "original_name": "Yaz Hitleri 2025",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAKvqscOrpGqrTHUWpkzOoRywvhOF",
   "tracks": [
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
+        "name": "Virt\u00fc\u00f6z",
+        "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "git",
+      "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
+    },
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
-        "name": "Virt\u00fc\u00f6z",
-        "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "git",
-      "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
     },
     {
       "added_at": "2025-09-05 15:48:11",
@@ -103,6 +103,22 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
+        "name": "OBSESIF",
+        "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 172900,
+      "name": "SEVMEY\u0130 DENEMED\u0130N",
+      "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
         "name": "SONBAHAR",
         "url": "https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 150000,
       "name": "SONBAHAR",
       "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
-        "name": "OBSESIF",
-        "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 172900,
-      "name": "SEVMEY\u0130 DENEMED\u0130N",
-      "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
       "added_at": "2025-09-05 15:48:11",
@@ -199,26 +199,6 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
-        "name": "Yerinde Dur",
-        "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        },
-        {
-          "name": "Demet Akal\u0131n",
-          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Yerinde Dur",
-      "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
         "name": "Ke\u015fke",
         "url": "https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 207253,
       "name": "Ke\u015fke",
       "url": "https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
+        "name": "Yerinde Dur",
+        "url": "https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Yerinde Dur",
+      "url": "https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI"
     },
     {
       "added_at": "2025-09-05 15:48:11",

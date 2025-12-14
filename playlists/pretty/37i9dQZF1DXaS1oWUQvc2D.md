@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 
 > <a href="spotify:artist:4Bv3GYUzNM11yYGQslJOkp">Mr\. ID</a>'s favorite tracks\. Updated regularly\. Curated by Mr\. ID\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,842 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,847 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

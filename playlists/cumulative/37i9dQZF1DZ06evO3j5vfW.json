@@ -949,6 +949,36 @@
     },
     {
       "album": {
+        "name": "Gone Gone Gone (feat. Teddy Swims) [Nicky Romero Remix]",
+        "url": "https://open.spotify.com/album/4mCoMNg7V63ZgXNePrHwBd"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230909,
+      "name": "Gone Gone Gone (feat. Teddy Swims) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/6e1FpexOjC5Tx3Ij7UusJv"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/4EWr9IMsfwg20zWXGiacmp"
       },
@@ -2884,7 +2914,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 200791,
       "name": "The Moment (Novell)",
       "url": "https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r"

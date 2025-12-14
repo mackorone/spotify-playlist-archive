@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 434747,
+  "num_followers": 434781,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Otro Culito",
-        "url": "https://open.spotify.com/album/3t5c0UXgnZDIxpMy6JE75m"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 203929,
-      "name": "Otro Culito",
-      "url": "https://open.spotify.com/track/5GbsTPypLz8xm3Y8jK8vk5"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "davina mccall",
         "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Otro Culito",
+        "url": "https://open.spotify.com/album/3t5c0UXgnZDIxpMy6JE75m"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 203929,
+      "name": "Otro Culito",
+      "url": "https://open.spotify.com/track/5GbsTPypLz8xm3Y8jK8vk5"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "EL CORAZ\u00d3N MANDA",
         "url": "https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 123874,
       "name": "EL CORAZ\u00d3N MANDA",
       "url": "https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Mandela Place",
         "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 213563,
       "name": "Mandela Place",
       "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Dos L\u00e1grimas, Dos Peces",
-        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
-      },
-      "artists": [
-        {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Dos L\u00e1grimas, Dos Peces",
-      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Otras 3 Lunas",
         "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 162782,
       "name": "Algo que no duele",
       "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Dos L\u00e1grimas, Dos Peces",
+        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
+      },
+      "artists": [
+        {
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Dos L\u00e1grimas, Dos Peces",
+      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "A la muerte",
-        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "A la muerte",
-      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "\u00c1rboles",
         "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+        "name": "A la muerte",
+        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
         }
       ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+      "duration_ms": 295500,
+      "name": "A la muerte",
+      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1655,6 +1639,22 @@
       "duration_ms": 241738,
       "name": "La Jarrita del Tiempo",
       "url": "https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "La Espiral",
+      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Te perd\u00ed",
         "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 154500,
       "name": "Consid\u00e9rame",
       "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1923,38 +1939,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "The Inner City",
-        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
-      },
-      "artists": [
-        {
-          "name": "Echo Thrills",
-          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
-        }
-      ],
-      "duration_ms": 180808,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Hoguera",
         "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 243020,
       "name": "El Noi de la Mare",
       "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "The Inner City",
+        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "duration_ms": 180808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
     },
     {
       "added_at": "2025-12-04 23:00:16",

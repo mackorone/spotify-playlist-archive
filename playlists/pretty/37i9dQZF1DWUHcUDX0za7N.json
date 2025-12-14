@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: TML Vibes",
-  "num_followers": 74450,
+  "num_followers": 74495,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -695,18 +695,30 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
+        "name": "Anytime (feat. Ayo Maff)",
+        "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Id Cabasa",
+          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 134237,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
+      "duration_ms": 192028,
+      "name": "Anytime (feat. Ayo Maff)",
+      "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
     },
     {
       "added_at": "2025-12-12 00:01:29",
@@ -735,30 +747,18 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
-        "name": "Anytime (feat. Ayo Maff)",
-        "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
       },
       "artists": [
         {
-          "name": "Id Cabasa",
-          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 192028,
-      "name": "Anytime (feat. Ayo Maff)",
-      "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
+      "duration_ms": 134237,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
     },
     {
       "added_at": "2025-12-12 00:01:29",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2025-12-12 00:01:29",
       "album": {
+        "name": "Hello Habibi",
+        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 194661,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
+    },
+    {
+      "added_at": "2025-12-12 00:01:29",
+      "album": {
         "name": "Normally",
         "url": "https://open.spotify.com/album/416GBquOnS63wjc41I2aA8"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 235703,
       "name": "Normally",
       "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
-    },
-    {
-      "added_at": "2025-12-12 00:01:29",
-      "album": {
-        "name": "This Moment",
-        "url": "https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        }
-      ],
-      "duration_ms": 163738,
-      "name": "This Moment",
-      "url": "https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN"
     }
   ],
   "unique_name": "Naija Bars ",

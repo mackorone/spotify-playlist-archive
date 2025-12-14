@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,383 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,374 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 22 | [MEDLEY DO NOVO FIM](https://open.spotify.com/track/6vsV6AFvJGnPj7QBnbKUZu) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Isma](https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z), [Vita](https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO) | [MEDLEY DO NOVO FIM](https://open.spotify.com/album/5o7pyICFvHpNysLA3IfHu5) | 6:24 |
 | 23 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
 | 24 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
-| 25 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
-| 26 | [Twist The Knife](https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:25 |
+| 25 | [Twist The Knife](https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:25 |
+| 26 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
 | 27 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 |
 | 28 | [KISSING IN PUBLIC](https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [KISSING IN PUBLIC](https://open.spotify.com/album/4OTvEacbBrVMCYo7bk6cQa) | 3:56 |
 | 29 | [Sweet n' Low](https://open.spotify.com/track/1OG3R8TE8KMIIjXFQBxRic) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Sweet n' Low](https://open.spotify.com/album/20DAgaZMBGBBIbdUbfStci) | 2:57 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 43 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 |
 | 44 | [Something About Her](https://open.spotify.com/track/5YL9rgtFHTJpX1v4GKFK2h) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [Something About Her](https://open.spotify.com/album/0U4sNMu5LKDC41Y9unsXhG) | 3:02 |
 | 45 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
-| 46 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 |
-| 47 | [Pity Party](https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 3:17 |
+| 46 | [Pity Party](https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 3:17 |
+| 47 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 |
 | 48 | [Feel Good](https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Feel Good](https://open.spotify.com/album/79xO4G1MdymjwFgHwSCEab) | 3:36 |
-| 49 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 |
-| 50 | [I wanna see my friends dicks](https://open.spotify.com/track/7gkORxtKiWPlD3A0PVCyaN) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [Secrets](https://open.spotify.com/album/1wWsebXRPJa6lVwYbSCns4) | 2:28 |
+| 49 | [I wanna see my friends dicks](https://open.spotify.com/track/7gkORxtKiWPlD3A0PVCyaN) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [Secrets](https://open.spotify.com/album/1wWsebXRPJa6lVwYbSCns4) | 2:28 |
+| 50 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 |
 
 Snapshot ID: `AAAAAOaKOcFTFEE0cYblIFPYKmsxO8ea`

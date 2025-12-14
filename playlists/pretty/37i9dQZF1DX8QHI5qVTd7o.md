@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,608 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,613 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 16 | [C.U.B.A](https://open.spotify.com/track/1ZoHuLxbQho7N5ioKA6Hx1) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [C.U.B.A](https://open.spotify.com/album/12zQ9tz6fjLsB5RjxUgXFu) | 4:29 |
 | 17 | [Payback](https://open.spotify.com/track/5yR26TumS74yhIOGhn8Hs8) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Payback](https://open.spotify.com/album/2BoVLp1bG7rLETC2roj2kX) | 5:49 |
 | 18 | [Riverside 2099](https://open.spotify.com/track/4gCeoAADi0gWPVbwLhhuqq) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Riverside 2099](https://open.spotify.com/album/4JoKJiPMDmMuF8SHj4j47N) | 3:54 |
-| 19 | [The Power of Now](https://open.spotify.com/track/6DS51XJ8iV21mAcjPxASWZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 3:21 |
-| 20 | [Electric Elephants](https://open.spotify.com/track/4O2gRMLAIQYHXe25wjeTFj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Electric Elephants](https://open.spotify.com/album/1Vlj2MZ0h4LA0IYjPvX6eI) | 2:53 |
+| 19 | [Electric Elephants](https://open.spotify.com/track/4O2gRMLAIQYHXe25wjeTFj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Electric Elephants](https://open.spotify.com/album/1Vlj2MZ0h4LA0IYjPvX6eI) | 2:53 |
+| 20 | [The Power of Now](https://open.spotify.com/track/6DS51XJ8iV21mAcjPxASWZ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 3:21 |
 | 21 | [Burnin](https://open.spotify.com/track/5lByoyTJti3jYo22bLQKOH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:54 |
 | 22 | [Calling \- Original Instrumental Radio Edit](https://open.spotify.com/track/5MRsxkPZyRs1VfnXFdgSHm) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Calling \(Lose My Mind\)](https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc) | 3:25 |
 | 23 | [Koala](https://open.spotify.com/track/3Af7K6rJ85E9eS0yy8eRNA) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Last All Night \(Koala\) \[feat\. KStewart\] \[Remixes\]](https://open.spotify.com/album/02HK6sMyGpa7EdjE2KEUMx) | 4:24 |

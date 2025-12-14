@@ -4163,6 +4163,28 @@
     },
     {
       "album": {
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193273,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
+    },
+    {
+      "album": {
         "name": "Distant Dreams",
         "url": "https://open.spotify.com/album/0Q4XLAyugN6E1YqLwxAFTp"
       },
@@ -4178,7 +4200,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 199300,
       "name": "Distant Dreams",
       "url": "https://open.spotify.com/track/3FqKWnQVMGykKboxswiRsg"

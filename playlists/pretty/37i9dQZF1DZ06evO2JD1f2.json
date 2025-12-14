@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13128,
+  "num_followers": 13129,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAzDSGykuTBjxBqYtv18gAo",
+  "snapshot_id": "aTtbAAAAAAAP9PdwnY1/6mAFMwLUKJS6",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
       },
@@ -763,38 +763,6 @@
       "duration_ms": 139681,
       "name": "THE ONE & ONLY",
       "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Plug Motivation",
-      "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165878,
-      "name": "Break Check",
-      "url": "https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb"
     },
     {
       "added_at": null,
@@ -839,6 +807,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 165878,
+      "name": "Break Check",
+      "url": "https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Plug Motivation",
+      "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
       },
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Esteem Pack (Remixes)",
-        "url": "https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU"
-      },
-      "artists": [
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Self Esteem (featuring EST Gee)",
-      "url": "https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SNOFALL",
         "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
       },
@@ -915,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 164495,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6jmKbCmt3dsJT6xBUrKvOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shiesty Season: Certified",
         "url": "https://open.spotify.com/album/2lTh3MtdESaC4jg5E82JEE"
       },
@@ -951,6 +915,42 @@
       "duration_ms": 212331,
       "name": "7.62 God (Reloaded) [feat. EST Gee & BIG30]",
       "url": "https://open.spotify.com/track/3vtDYruaEKSuep0ZgfAsHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Esteem Pack (Remixes)",
+        "url": "https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Self Esteem (featuring EST Gee)",
+      "url": "https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 164495,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6jmKbCmt3dsJT6xBUrKvOB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 151008,
+  "num_followers": 151013,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADFCb4BYkVZQ+/r53lX3eV+",
+  "snapshot_id": "aTtbAAAAAACAxjMgyEH1s5iq/RDmbJWk",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 152453,
-      "name": "Family Is Family",
-      "url": "https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Biscuits",
+      "url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "She's Like Texas",
         "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Biscuits",
-      "url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 230733,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ"
+      "duration_ms": 152453,
+      "name": "Family Is Family",
+      "url": "https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Dime Store Cowgirl",
-      "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
+      "duration_ms": 196040,
+      "name": "Keep It To Yourself",
+      "url": "https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Keep It To Yourself",
-      "url": "https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2"
+      "duration_ms": 214986,
+      "name": "Dime Store Cowgirl",
+      "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 167120,
-      "name": "simple times",
-      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
+      "duration_ms": 200840,
+      "name": "breadwinner",
+      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 200840,
-      "name": "breadwinner",
-      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
+      "duration_ms": 167120,
+      "name": "simple times",
+      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
     },
     {
       "added_at": null,

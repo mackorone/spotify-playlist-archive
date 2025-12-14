@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,956 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,952 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,20 +62,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 52 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 53 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
 | 54 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
-| 55 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
-| 56 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 |
+| 55 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 |
+| 56 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
 | 57 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |
 | 58 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
 | 59 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
-| 60 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
-| 61 | [Mr\. Mountebank](https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux Deluxe](https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt) | 5:11 |
+| 60 | [Mr\. Mountebank](https://open.spotify.com/track/5tN8OqwUxsVKUCE1cea23k) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux Deluxe](https://open.spotify.com/album/3oaSSUc7HkXIpTb4NGLKDt) | 5:11 |
+| 61 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 62 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 63 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 |
 | 64 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 65 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 66 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 |
-| 67 | [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 |
-| 68 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
+| 67 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
+| 68 | [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 |
 | 69 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 70 | [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 |
 | 71 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 76 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 |
 | 77 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 78 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 |
-| 79 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 |
-| 80 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
+| 79 | [Hold On](https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Hold On](https://open.spotify.com/album/40Ksd3AVHtWcZbExDuuxVL) | 3:41 |
+| 80 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 |
 
 Snapshot ID: `AAAAAOrvO/tDvcQzYu8BXglftfz0RduO`

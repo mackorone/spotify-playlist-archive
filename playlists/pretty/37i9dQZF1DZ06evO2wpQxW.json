@@ -1,12 +1,12 @@
 {
   "description": "This is Calibre 50. The essential tracks, all in one playlist.",
-  "num_followers": 719345,
+  "num_followers": 719445,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAPEKjeXw83QSlRNERKABQw",
+  "snapshot_id": "aTtbAAAAAACmWK/oXGTsNt22lxeqFfYr",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Corrido De Juanito",
+      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuidando El Territorio",
         "url": "https://open.spotify.com/album/4wVfnheoToJD1kYyjpjcGZ"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 186833,
       "name": "Cuidando El Territorio",
       "url": "https://open.spotify.com/track/0RR9X1AxLrdldzwwIVrHYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Corrido De Juanito",
-      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Recompensa",
-        "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Buen Ejemplo",
         "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 189920,
       "name": "Mujer De Todos, Mujer De Nadie",
       "url": "https://open.spotify.com/track/6JcXGqCpM7k3B75XfOn9uz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Recompensa",
+        "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Sali\u00f3 A La Perfecci\u00f3n",
-      "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Sinaloa Para El Mundo",
         "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 193960,
       "name": "Te Estoy Enga\u00f1ando Con Otra",
       "url": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Sali\u00f3 A La Perfecci\u00f3n",
+      "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 128640,
+      "name": "Una Mala Elecci\u00f3n",
+      "url": "https://open.spotify.com/track/3UUAZLnbePuhLAlPsEFeL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 128640,
-      "name": "Una Mala Elecci\u00f3n",
-      "url": "https://open.spotify.com/track/3UUAZLnbePuhLAlPsEFeL6"
     },
     {
       "added_at": null,

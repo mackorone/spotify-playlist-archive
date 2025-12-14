@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,922 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,931 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Hot Shot \- David Wrench 2025 Mix](https://open.spotify.com/track/6W4Z5cIwAPe57XNo1VTvmE) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Hot Shot \(David Wrench 2025 Mix\)](https://open.spotify.com/album/5oHnyR5b3GSt6TxgTr0WkQ) | 3:37 |
 | 50 | [Nothing Is Real but the Girl](https://open.spotify.com/track/5ZCIPSKOAyOAYfDVNM9LrQ) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 3:13 |
 
-Snapshot ID: `aToJgAAAAADbx/Ltr/3921T/x04sJaKq`
+Snapshot ID: `aTtbAAAAAACMaAS62w7V/MaqMXWVWM9X`

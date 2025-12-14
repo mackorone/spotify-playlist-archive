@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,456 likes - 537 songs - 1 day 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,459 likes - 537 songs - 1 day 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,7 +274,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 264 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/20oqKObYsXRdDvhJb2QNrw) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/5mQKMz8qdYqO6gpbb07DzP) | 3:51 |
 | 265 | [Savages](https://open.spotify.com/track/6vx7gboeybkKFcfiJYInGs) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Savages](https://open.spotify.com/album/7dyGIJhUnVvkSbRCPDv3aG) | 3:21 |
 | 266 | [Guess You Could Say I’m In Love](https://open.spotify.com/track/4fEdyp5iZ7I8sWI9jcBSbp) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 3:13 |
-| 267 | [Walk My Way \- The Voice Performance](https://open.spotify.com/track/3PepA0VP8gOn10KJyXL7A9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [The Complete Season 14 Collection \(The Voice Performance\)](https://open.spotify.com/album/2GzNWOKPQPQgWd3AibCZsk) | 3:39 |
+| 267 | [Walk My Way \- The Voice Performance](https://open.spotify.com/track/3PepA0VP8gOn10KJyXL7A9) | [Brynn](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [The Complete Season 14 Collection \(The Voice Performance\)](https://open.spotify.com/album/2GzNWOKPQPQgWd3AibCZsk) | 3:39 |
 | 268 | [Take It Out On Me](https://open.spotify.com/track/7lISY14A9I1w3m7to2kWv1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:27 |
 | 269 | [I Still Do](https://open.spotify.com/track/1LZZo0JZZ65g5VN3FR0qw4) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 3:09 |
 | 270 | [Words](https://open.spotify.com/track/49uVH18E8TveD5iSGyhZS5) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wonderland](https://open.spotify.com/album/2vMjiqNP4eulgUhHaOA2Tc) | 3:38 |
@@ -546,4 +546,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 536 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 537 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcED2gAAAAAWm329V/UZwmEgnm0Z0qsR`
+Snapshot ID: `AcEJegAAAACXKosyNYFs77gjDOsVbWpT`

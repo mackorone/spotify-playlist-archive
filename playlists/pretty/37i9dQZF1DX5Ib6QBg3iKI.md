@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,300 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,516 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,21 +32,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 22 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
 | 23 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 |
 | 24 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
-| 25 | [Somewhere Only We Know](https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:28 |
-| 26 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
+| 25 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
+| 26 | [Somewhere Only We Know](https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:28 |
 | 27 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
 | 28 | [The Christmas Song \(Merry Christmas To You\) \- Remastered 1999](https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song](https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O) | 3:11 |
 | 29 | [Silent Night](https://open.spotify.com/track/7xCJ4D6ka7bXhGbL4NsEEi) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Silent Night](https://open.spotify.com/album/2InCKrQ5NeFtanOHA46WAz) | 3:45 |
-| 30 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
-| 31 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
+| 30 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
+| 31 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
 | 32 | [Let It Snow](https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:12 |
 | 33 | [I'll Be Home For Christmas](https://open.spotify.com/track/4BxLl0Pc6wvDX7iHX1xrMV) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Three Christmas Songs – An Abbey Road Live To Vinyl Cut](https://open.spotify.com/album/6fb3shhyfkXN5DlOlXEhcr) | 4:42 |
-| 34 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
-| 35 | [Christmas Never Gets Old](https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g) | 2:42 |
+| 34 | [Christmas Never Gets Old](https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g) | 2:42 |
+| 35 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 36 | [Only You](https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You](https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB) | 2:52 |
 | 37 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
-| 38 | [I'll Be Home For Christmas \- From The Kacey Musgraves Christmas Show](https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Kacey Musgraves Christmas Show](https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI) | 2:12 |
-| 39 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
+| 38 | [This Christmas Day](https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 3:45 |
+| 39 | [I'll Be Home For Christmas \- From The Kacey Musgraves Christmas Show](https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Kacey Musgraves Christmas Show](https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI) | 2:12 |
 | 40 | [A Winter's Tale](https://open.spotify.com/track/0KIxURk1JUhsf0UC7OgTbA) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [The Collection](https://open.spotify.com/album/7cembgX5mpEafu9m36iw6G) | 4:10 |
 | 41 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
 | 42 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [Stay Another Day](https://open.spotify.com/track/5npCyhoNJ3eJLIszVqOwIj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Stay Another Day](https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU) | 2:41 |
 | 80 | [Wonderful Christmastime \[Edited Version\] \- Remastered 2011 / Edited Version](https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:47 |
 
-Snapshot ID: `AAAAADF5R63YyB2prJqXF/Y/UxyfSb36`
+Snapshot ID: `AAAAABEbv/Gj5RjgiYlpfV8kpvrcka/M`

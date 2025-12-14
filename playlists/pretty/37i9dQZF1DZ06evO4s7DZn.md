@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,209 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,207 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 5 | [La Carcachita](https://open.spotify.com/track/1c27a82906o3Vuy6gdDJzC) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 2:15 |
 | 6 | [Lagrimas Del Corazon](https://open.spotify.com/track/0LdGrH5fhkj2NhMJstqpWM) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:51 |
 | 7 | [Medias Negras](https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 2:38 |
-| 8 | [Hoja en Blanco](https://open.spotify.com/track/4CcmnS70Yfcs5jm8J6OOWN) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:37 |
+| 8 | [Ay Maria](https://open.spotify.com/track/6go8tFTN8fJNxHEPehnXv1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:59 |
 | 9 | [Mi Última Parranda](https://open.spotify.com/track/3FCdny607s4cotns5zJ5SE) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:31 |
 | 10 | [Juan Colorado](https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 2:37 |
-| 11 | [Ay Maria](https://open.spotify.com/track/6go8tFTN8fJNxHEPehnXv1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:59 |
+| 11 | [Hoja en Blanco](https://open.spotify.com/track/4CcmnS70Yfcs5jm8J6OOWN) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:37 |
 | 12 | [La Guitarra de Lolo](https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:23 |
 | 13 | [Hasta La Miel Amarga](https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:09 |
 | 14 | [Signo Libra](https://open.spotify.com/track/51cv7tedxwQxahmV9Pux21) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:45 |
@@ -32,20 +32,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 22 | [Una Noche de Banda \- En Vivo](https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Desde Pico Rivera!](https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU) | 3:41 |
 | 23 | [Y Todavía Hay Amor](https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:37 |
 | 24 | [Que Le Vaya Bien](https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 4:08 |
-| 25 | [Lo Aprendi De Ti](https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:30 |
-| 26 | [Yo Te Amo](https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Cariño Donde Andaras](https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH) | 5:01 |
-| 27 | [La Otra España \- En Vivo](https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! , Vol.1](https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS) | 2:44 |
-| 28 | [Amor Ranchero](https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Amor Ranchero](https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky) | 2:23 |
-| 29 | [No Hay Vacante](https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:37 |
-| 30 | [Morenita \- En Vivo](https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 2:47 |
+| 25 | [La Otra España \- En Vivo](https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! , Vol.1](https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS) | 2:44 |
+| 26 | [Lo Aprendi De Ti](https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:30 |
+| 27 | [Yo Te Amo](https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Cariño Donde Andaras](https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH) | 5:01 |
+| 28 | [Morenita \- En Vivo](https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 2:47 |
+| 29 | [Amor Ranchero](https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Amor Ranchero](https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky) | 2:23 |
+| 30 | [No Hay Vacante](https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:37 |
 | 31 | [Mi Amor Bendito](https://open.spotify.com/track/0A7bJdzkWDMTCZKkj2GTvU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:04 |
 | 32 | [No Llega el Olvido](https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:05 |
-| 33 | [Llegaste A Mi Vida](https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:58 |
-| 34 | [Recuerdos](https://open.spotify.com/track/7vwSOJwTlaUcXdtHr1lQhp) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:52 |
+| 33 | [Recuerdos](https://open.spotify.com/track/7vwSOJwTlaUcXdtHr1lQhp) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:52 |
+| 34 | [Llegaste A Mi Vida](https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:58 |
 | 35 | [Popurrí: Fríos Enemigos / Noche de Banda \- En Vivo](https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 5:57 |
 | 36 | [Para Ellas](https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:13 |
-| 37 | [Amigo Mesero](https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 3:06 |
-| 38 | [De Que Me Sirve](https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:17 |
+| 37 | [De Que Me Sirve](https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:17 |
+| 38 | [Amigo Mesero](https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 3:06 |
 | 39 | [Popotitos \- En Vivo](https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:43 |
 | 40 | [Oh Gran Dios](https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 2:50 |
 | 41 | [El Brinquito de la Perra Roñosa](https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 49 | [Ya para Que](https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:16 |
 | 50 | [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 |
 
-Snapshot ID: `aToJgAAAAAA8wNmG0ioTG+HzRNagZANk`
+Snapshot ID: `aTtbAAAAAAA9DfnINrFXbV6vhD1jIFjn`

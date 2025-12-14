@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,224 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,251 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 46 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 47 | [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 |
 | 48 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
-| 49 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
-| 50 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 |
+| 49 | [Tere Bin Jiya](https://open.spotify.com/track/0LPYAOj31l7iV8gz5tfeQZ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Dr\. Deepali Patil](https://open.spotify.com/artist/5ZCkgKMHxQpCwchRoOhjyO) | [Tere Bin Jiya](https://open.spotify.com/album/4itsjS5C9u50gUufh8Jfre) | 5:28 |
+| 50 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
 
 Snapshot ID: `AAAAABbR1gscxk7T1OY+96+xgePfuceV`

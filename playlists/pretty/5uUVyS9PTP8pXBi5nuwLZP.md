@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 537,323 likes - 71 songs - 4 hr 29 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 537,583 likes - 71 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 17 | [Christmas in the Shadows](https://open.spotify.com/track/6HfcLAdqGKjiImJB59Qops) | [TraktorRocket](https://open.spotify.com/artist/2HM37L9gKFEPjnHdYQE4ZZ) | [Christmas in the Shadows](https://open.spotify.com/album/5heA2dn8WNOmW71fnvePkH) | 4:34 |
 | 18 | [Voyage of the Moon](https://open.spotify.com/track/04vWPrP2hiL9gWh8iZo75k) | [Gwyn Singer](https://open.spotify.com/artist/0yGhlKH7r4Oy1vghnYDKtO) | [Voyage of the Moon](https://open.spotify.com/album/0ogHO18YMZ0VTPEUqcgqkb) | 5:35 |
 | 19 | [Disaster Follows Disaster](https://open.spotify.com/track/4evxTxhwaJSfs1oESZQRRg) | [From The Start](https://open.spotify.com/artist/1uIvUOIq1fjYlPjx58rLEX) | [Disaster Follows Disaster](https://open.spotify.com/album/75kdAxPb1igPifbDquniDl) | 2:36 |
-| 20 | [En El Crei](https://open.spotify.com/track/0GjTeL42y3g86sMNyq31zn) | [Lee C\. Dwyer](https://open.spotify.com/artist/1A9MlwvAwlMezsDWivdZLx) | [En El Crei](https://open.spotify.com/album/5HalghBKu394muc3V0OPJC) | 3:01 |
+| 20 | [En El Crei](https://open.spotify.com/track/0GjTeL42y3g86sMNyq31zn) | [Lee C\. Dwyer](https://open.spotify.com/artist/2Cyaihe9xL02pFNYZ0T46M) | [En El Crei](https://open.spotify.com/album/5HalghBKu394muc3V0OPJC) | 3:01 |
 | 21 | [Kimia](https://open.spotify.com/track/7y6hgRP1qSRS20qQ8hGKHZ) | [Melda Ahmad](https://open.spotify.com/artist/0SQdTHT31B1UlDSJpkdx5F) | [Kimia](https://open.spotify.com/album/1fT8ZvJjKBX8mjx0ZH6Iua) | 3:09 |
 | 22 | [Yara Kintsugi](https://open.spotify.com/track/6rUQeD55dGjftITfftKjAc) | [Hasan Arthur Altuntaş](https://open.spotify.com/artist/6D5NDnftFDOelT5ssMe0ef) | [Yara Kintsugi](https://open.spotify.com/album/2LX56yGGhNrVZy7KSxU7ny) | 4:04 |
 | 23 | [Move Like That](https://open.spotify.com/track/1hSL27zCjDJflqlnKNILfJ) | [Dommy Sanaro](https://open.spotify.com/artist/0rNXt2rF9mFEJhmKOhoCYC) | [Move Like That](https://open.spotify.com/album/5wRzUwfbIiebz11CS7XFMg) | 2:47 |

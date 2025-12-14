@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,337 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,348 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 35 | [Si Hubiera Estado Allí](https://open.spotify.com/track/3uXGXOMNeRHSFULmV2AVur) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 3:55 |
 | 36 | [Suave Voz \- En Vivo](https://open.spotify.com/track/3w3FGKINqJhLZZGFvcp9eG) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Alex Campos y Sus Amigos \(En Vivo\)](https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz) | 3:38 |
 | 37 | [Tal Como Soy](https://open.spotify.com/track/6pkcy9PJt40IsyNpd7NV0s) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 7:39 |
-| 38 | [Princesas Mágicas \(magicas princesas\) \- En Vivo](https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Sencillos](https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5) | 4:39 |
-| 39 | [Vuelve \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u) | [Satélite](https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Encontrarme Contigo](https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql) | 4:15 |
+| 38 | [Vuelve \(feat\. Jesús Adrián Romero\)](https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u) | [Satélite](https://open.spotify.com/artist/64Hft9NLW8RfpDzegOZJum), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Encontrarme Contigo](https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql) | 4:15 |
+| 39 | [Princesas Mágicas \(magicas princesas\) \- En Vivo](https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Sencillos](https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5) | 4:39 |
 | 40 | [El Anhelo de Mi Voz](https://open.spotify.com/track/60dUV3Tt4lpU5ghaIIFKA6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:53 |
 | 41 | [Eras Tú](https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:22 |
 | 42 | [Mi Jesús, Mi Amado](https://open.spotify.com/track/6Th6d1tXLrROECGQHDaL5x) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 7:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Te Busqué \(feat\. Brian Sandoval\)](https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Brian Sandoval](https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:51 |
 | 50 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
 
-Snapshot ID: `aToJgAAAAACyOQoHabyDZVmh/WXDeM3J`
+Snapshot ID: `aTtbAAAAAAAiKbtwJVzaa/BqoDFA+aqI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,332 likes - 139 songs - 8 hr 46 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,342 likes - 141 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,5 +147,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 137 | [Show yourself](https://open.spotify.com/track/3fujlOlbpvP1QSkEriGy3S) | [Paul Martin](https://open.spotify.com/artist/1XIrTZoEDMzWssZ149WWZ8) | [winter rose](https://open.spotify.com/album/0BpLBp0VpUu2avnutskwT0) | 3:15 |
 | 138 | [No Sound](https://open.spotify.com/track/3PPFlKH9JsyHz9mHQkDNX7) | [Mercy Girl](https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn) | [Closer](https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf) | 2:57 |
 | 139 | [Blue\-Boy's Dreams](https://open.spotify.com/track/5rfd1i6hcL43i5kV4sg5fQ) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [Blue\-Boy's Dreams](https://open.spotify.com/album/6UVsgNAwJAedkBhGXWvEFA) | 4:55 |
+| 140 | [Fruit Flies](https://open.spotify.com/track/6rY8QNp26wvxJIZcOLpLLp) | [Semachos](https://open.spotify.com/artist/1CG5ZIyrRrIWEBMMu6cvLH) | [Fruit Flies](https://open.spotify.com/album/28WvifoppUEl3lL0iRmxfT) | 2:42 |
+| 141 | [Gear Shift](https://open.spotify.com/track/3Bj56ERbU5174dIOCEv0dZ) | [SonicSpecter](https://open.spotify.com/artist/72fdXgZpUfzyrVP8S77xZJ), [Delta 89](https://open.spotify.com/artist/31ooOx9ekZDPZGJFDne9yU) | [Gear Shift](https://open.spotify.com/album/64xWCdkXzE4LJlc2Ly4rhZ) | 3:44 |
 
-Snapshot ID: `AABr8KeFzcnalD9/Jwfg72ktpDutov5c`
+Snapshot ID: `AABr+HjEnCnJFRW/UPH3qaksiSQH6pmN`

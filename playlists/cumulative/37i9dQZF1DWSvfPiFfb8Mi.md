@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-415 songs - 1 day 3 hr 5 min
+416 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All Day](https://open.spotify.com/track/49S2zEVuoV3BcA2mdyowiA) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9), [Eren Cannata](https://open.spotify.com/artist/41RREi0dkr25wYIjgL6O69), [Aaron Janik](https://open.spotify.com/artist/29HcxjpgVWYBjERb3VGmmL) | [Made 4 U](https://open.spotify.com/album/7MtJoa3DKfwRls9963YtqX) | 3:06 | 2023-05-19 | 2023-05-27 |
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-02 |  |
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
+| [All Of The Time](https://open.spotify.com/track/4oiwfWqwbcAqGuHHkHbU7r) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [All Of The Time](https://open.spotify.com/album/1Y5W4ZrI5SXtqa6skp8JTn) | 3:29 | 2025-12-12 |  |
 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 | 2025-04-14 |
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-12 |  |
 | [Allora Amore](https://open.spotify.com/track/5LaJmV58x4FXGiz4mmdQBH) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Joe Le Groove](https://open.spotify.com/artist/3Vny01PfbbFxQ6bCtW4AFr) | [Allora Amore](https://open.spotify.com/album/3S5nQZtFOTcrJ8EUbRroE6) | 3:29 | 2025-06-06 | 2025-06-18 |
@@ -32,7 +33,7 @@
 | [Ask Yourself \(Can You Dance\)](https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [A Chance / Ask Yourself \(Can You Dance\)](https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc) | 3:36 | 2023-05-19 | 2025-02-12 |
 | [Awesome Ways](https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Awesome Ways](https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL) | 3:08 | 2023-07-28 | 2023-11-22 |
 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 | 2023-07-28 | 2023-08-12 |
-| [Backyard Galaxy](https://open.spotify.com/track/6oGlxroOg1FFP7YJC5gU3H) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Backyard Galaxy](https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL) | 4:42 | 2025-10-24 |  |
+| [Backyard Galaxy](https://open.spotify.com/track/6oGlxroOg1FFP7YJC5gU3H) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Backyard Galaxy](https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL) | 4:42 | 2025-10-24 | 2025-12-14 |
 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-09 | 2024-04-19 |
 | [Bamboo Mask](https://open.spotify.com/track/23xJy8COmTLKWsUcj3ng74) | [Boyoca](https://open.spotify.com/artist/2UZMTPwwvwD24gmqjX3OSE) | [Bamboo Mask](https://open.spotify.com/album/2MIf4ISMBARDWX8F5gZ9oz) | 3:43 | 2021-07-24 | 2023-05-20 |
 | [Be The One \(feat\. Yung Bae\)](https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:56 | 2023-07-21 |  |

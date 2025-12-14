@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,583 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,587 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 18 | [Jennifer Jennings](https://open.spotify.com/track/4nZ516wquSpoubxkqQ4ban) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [80](https://open.spotify.com/album/3ISffmPs7HEqXFUi9gXDXy) | 2:46 |
 | 19 | [1, 2, 3](https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK) | [Catherine Ferry](https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A) | [Mélodie bleue](https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm) | 2:30 |
 | 20 | [Tú Volverás](https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW) | [Sergio Y Estibaliz](https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV) | [Tal Como Eramos](https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A) | 3:29 |
-| 21 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
-| 22 | [Als Het Om De Liefde Gaat](https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM) | [Sandra & Andres](https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V) | [Als Het Om De Liefde Gaat \(Expanded Edition\)](https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf) | 2:56 |
+| 21 | [Als Het Om De Liefde Gaat](https://open.spotify.com/track/0ehNTBTIg4yPF0gwSSUqVM) | [Sandra & Andres](https://open.spotify.com/artist/6l30WCGgvUeyAdbs9JvB6V) | [Als Het Om De Liefde Gaat \(Expanded Edition\)](https://open.spotify.com/album/2HzLXyhWFusIaDoV436sNf) | 2:56 |
+| 22 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
 | 23 | [Yo soy aquél](https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Grandes éxitos](https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl) | 2:39 |
 | 24 | [Se Piangi Se Ridi](https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL) | [Bobby Solo](https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn) | [Bobby Solo Cantaitalia](https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy) | 3:24 |
 | 25 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 36 | [Congratulations \- 1998 Remaster](https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Singles Collection](https://open.spotify.com/album/6YZb35WBIM7ZlJf782E6gO) | 2:35 |
 | 37 | [Oh Oh Ik Heb Zorgen](https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [Het Beste Van Louis Neefs](https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O) | 2:25 |
 | 38 | [Su Canción](https://open.spotify.com/track/2YDMHFV05yjkhAbh2gDm6B) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Lo Mejor de Betty Missiego](https://open.spotify.com/album/1JvPV0pEYkITh1BRze9Ufi) | 3:03 |
-| 39 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
-| 40 | [Angelique](https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI) | [Dario Campeotto](https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE) | [Angelique](https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq) | 3:59 |
+| 39 | [Angelique](https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI) | [Dario Campeotto](https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE) | [Angelique](https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq) | 3:59 |
+| 40 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
 | 41 | [Sol och vår](https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H) | [Inger Berggren](https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS) | [Sol och vår](https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE) | 3:08 |
 | 42 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
 | 43 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 56 | [Un jardin sur la Terre](https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 3:07 |
 | 57 | [Djambo Djambo](https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk) | [Peter, Sue & Marc](https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh) | [Golden Hits \(Remastered\)](https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J) | 2:48 |
 | 58 | [Hablemos del amor](https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 2:51 |
-| 59 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |
-| 60 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
+| 59 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
+| 60 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |
 | 61 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
 | 62 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
 | 63 | [Wunder gibt es immer wieder](https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Wunder gibt es immer wieder](https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw) | 3:32 |

@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-237 songs - 15 hr 36 min
+238 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 | 2021-12-16 |  |
 | [Agüita e Coco \- Instrumental](https://open.spotify.com/track/0dwH1sfUCF7U6ZwaU9XoId) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Afrosound](https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q) | 4:03 | 2024-04-06 |  |
 | [Alicia Adorada](https://open.spotify.com/track/7CRIeEj0hYofPyXDMZGCxY) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 5:39 | 2024-04-06 | 2024-07-27 |
-| [Amaneciendo](https://open.spotify.com/track/2Q8w3QB6xBd46JAaXiVVbf) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Legado de la Música Tropical](https://open.spotify.com/album/5sGKNe6TAW206I3Fg5Tcwy) | 3:34 | 2024-04-06 |  |
+| [Amaneciendo](https://open.spotify.com/track/2Q8w3QB6xBd46JAaXiVVbf) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Legado de la Música Tropical](https://open.spotify.com/album/5sGKNe6TAW206I3Fg5Tcwy) | 3:34 | 2024-04-06 | 2025-12-14 |
 | [Amor Narcótico](https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 5:16 | 2021-12-16 | 2024-04-19 |
 | [Amor Sin Fronteras](https://open.spotify.com/track/0K0oGuHLOEAAGcRJNK1Bhi) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO), [La Decision Vallenata](https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 4:43 | 2024-04-06 | 2025-08-26 |
 | [Amor Sin Fronteras](https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs) | [Erick Escobar y La Decisión Vallenata](https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [14 Vallenatos Románticos, Vol\. 3](https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn) | 4:43 | 2021-12-16 | 2024-04-19 |
@@ -60,6 +60,7 @@
 | [Cumbia Indigena](https://open.spotify.com/track/6ldMNUXJpdxFcPecYTHNU5) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Historia Musical de Lisandro Meza: 40 Éxitos](https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo) | 2:29 | 2024-04-06 |  |
 | [Dame Tu Querer](https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:07 | 2024-04-06 |  |
 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 | 2021-12-16 |  |
+| [Del Tingo al Tango](https://open.spotify.com/track/1doiCnKZbuE7Ybfk4NfDzg) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Para Bailar..\. Sin Parar!!](https://open.spotify.com/album/00FAdiJMHJFfeGog5xZGqj) | 2:17 | 2024-07-12 |  |
 | [Destino](https://open.spotify.com/track/7wOZqiiDBA0krJNhlIvXf9) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 3:56 | 2024-07-12 |  |
 | [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 | 2021-12-16 | 2024-04-19 |
 | [Dime Qué Paso](https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:32 | 2024-04-06 |  |

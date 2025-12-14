@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 300348,
+  "num_followers": 300366,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADIGlN4vLyjBa330QqQATVi",
+  "snapshot_id": "aTtbAAAAAACG2W0/i8jNUsKDkmBCi98s",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Into the Fire - 1995 Remaster",
-      "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple",
         "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 305773,
       "name": "Lalena - 2000 Remaster",
       "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Into the Fire - 1995 Remaster",
+      "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
     },
     {
       "added_at": null,

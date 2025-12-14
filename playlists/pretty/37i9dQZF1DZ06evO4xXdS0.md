@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,630 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,690 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 17 | [Mr\. Bojangles](https://open.spotify.com/track/5ywoRjfVIlcJiSAxwPT3Pt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:59 |
 | 18 | [Don't Explain](https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:18 |
 | 19 | [Ne Me Quitte Pas](https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 3:34 |
-| 20 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
-| 21 | [Black Is The Color Of My True Love's Hair \- Jaffa Remix](https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Jaffa](https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt) | [Verve Remixed 2](https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje) | 4:57 |
+| 20 | [Black Is The Color Of My True Love's Hair \- Jaffa Remix](https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Jaffa](https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt) | [Verve Remixed 2](https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje) | 4:57 |
+| 21 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
 | 22 | [If I Should Lose You](https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 3:55 |
 | 23 | [Take Care Of Business](https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:05 |
 | 24 | [The Look of Love](https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:22 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 41 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 42 | [Suzanne](https://open.spotify.com/track/1rsTANyQavJLIiPIFUgoiM) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 4:19 |
 | 43 | [To Be Young, Gifted and Black \- 2005 Remix](https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Forever Young, Gifted And Black: Songs Of Freedom And Spirit](https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0) | 2:49 |
-| 44 | [One September Day](https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
+| 44 | [I Think It's Going to Rain Today](https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:20 |
 | 45 | [My Way](https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 5:14 |
-| 46 | [I Think It's Going to Rain Today](https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:20 |
+| 46 | [One September Day](https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
 | 47 | [Don't Smoke in Bed \(2013 \- Remaster\)](https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:10 |
 | 48 | [Save Me](https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:22 |
 | 49 | [Four Women](https://open.spotify.com/track/7urjzeGBtfHdwWmfYJjdAp) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:24 |
 | 50 | [Be My Husband](https://open.spotify.com/track/4ZFwqrpTFL9dRMDSyIH262) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:20 |
 
-Snapshot ID: `aToJgAAAAABpD7cwdc3rYpgSVJZAse87`
+Snapshot ID: `aTtbAAAAAAC678QUxPQDmRNWzJaVwVtJ`

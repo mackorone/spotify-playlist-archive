@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,605 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,642 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 46 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |
 | 47 | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG) | 4:33 |
 | 48 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |
-| 49 | [Flatline](https://open.spotify.com/track/0Wwn53gqhMwRwhvqvGH5bq) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Flatline](https://open.spotify.com/album/30iH2oEdaF4GpcESpvF7JB) | 3:16 |
-| 50 | [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 |
+| 49 | [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 |
+| 50 | [Flatline](https://open.spotify.com/track/0Wwn53gqhMwRwhvqvGH5bq) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Flatline](https://open.spotify.com/album/30iH2oEdaF4GpcESpvF7JB) | 3:16 |
 
 Snapshot ID: `AAAAAIF838UGOxvOvzFygUAPs7iBXLJr`

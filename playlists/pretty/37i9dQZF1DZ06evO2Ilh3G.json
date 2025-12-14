@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 118929,
+  "num_followers": 118941,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAsmICKbQfDNclGY23c/2QT",
+  "snapshot_id": "aTtbAAAAAACo86SLBxqRzYFAvWnjXIX0",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 205803,
-      "name": "Clout (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 268933,
       "name": "Ghostface Killers (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 205803,
+      "name": "Clout (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "WORTH IT (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 257600,
       "name": "Rap Saved Me (feat. Quavo)",
       "url": "https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 88888,
-      "name": "FREE PICK",
-      "url": "https://open.spotify.com/track/4UUlVqWOcN68QgLd1GnWVp"
+      "duration_ms": 151181,
+      "name": "HAUNTED BY FAME",
+      "url": "https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 151181,
-      "name": "HAUNTED BY FAME",
-      "url": "https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu"
+      "duration_ms": 88888,
+      "name": "FREE PICK",
+      "url": "https://open.spotify.com/track/4UUlVqWOcN68QgLd1GnWVp"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 108936,
-      "name": "NO SWEAT",
-      "url": "https://open.spotify.com/track/6f6A5411wNShdb21MzAFXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 157645,
       "name": "100 Racks (Offset feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 108936,
+      "name": "NO SWEAT",
+      "url": "https://open.spotify.com/track/6f6A5411wNShdb21MzAFXy"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts Like Hell (feat. Offset)",
-        "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 207108,
-      "name": "Hurts Like Hell (feat. Offset)",
-      "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 228431,
       "name": "Dubai Shit",
       "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurts Like Hell (feat. Offset)",
+        "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 207108,
+      "name": "Hurts Like Hell (feat. Offset)",
+      "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
     },
     {
       "added_at": null,

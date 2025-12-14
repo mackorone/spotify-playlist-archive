@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,255 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,259 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 21 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 | 22 | [Make Us Ready](https://open.spotify.com/track/0rvcVTWEzYXoQmCeqMyzwg) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Lauren Goans](https://open.spotify.com/artist/3tahOs894u23BZzpyXSTDh) | [Make Us Ready](https://open.spotify.com/album/1dksb98F4wZDXlXa5W1WJN) | 4:21 |
 | 23 | [Higher Places](https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Higher Places](https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf) | 2:33 |
-| 24 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 |
+| 24 | [Blood Stained Cross](https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [Blood Stained Cross](https://open.spotify.com/album/3NBB2PDKEh0RG8IBW6yD1a) | 4:51 |
 | 25 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |
-| 26 | [Blood Stained Cross](https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [Blood Stained Cross](https://open.spotify.com/album/3NBB2PDKEh0RG8IBW6yD1a) | 4:51 |
+| 26 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 |
 | 27 | [Wings](https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [His World](https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq) | 4:27 |
 | 28 | [Homeward Ache](https://open.spotify.com/track/2iEDTIFg9oMHQAq3tlpA1a) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [Homeward Ache](https://open.spotify.com/album/4iyzKhfv21pH7dPsZN0Kkf) | 4:17 |
 | 29 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |

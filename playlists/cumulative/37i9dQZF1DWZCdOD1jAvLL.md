@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Goodboys, Local Singles and Ryan Shepherd
 
-921 songs - 2 day 1 hr 48 min
+922 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Diet Coke](https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO) | 2:35 | 2025-11-14 |  |
 | [Different Shit](https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Different Shit](https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu) | 3:12 | 2024-12-13 | 2025-01-31 |
 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 | 2022-01-14 | 2022-03-12 |
-| [Distant Dreams](https://open.spotify.com/track/3FqKWnQVMGykKboxswiRsg) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Distant Dreams](https://open.spotify.com/album/0Q4XLAyugN6E1YqLwxAFTp) | 3:19 | 2025-06-27 |  |
+| [Disguise](https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Disguise](https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc) | 3:13 | 2025-12-12 |  |
+| [Distant Dreams](https://open.spotify.com/track/3FqKWnQVMGykKboxswiRsg) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Distant Dreams](https://open.spotify.com/album/0Q4XLAyugN6E1YqLwxAFTp) | 3:19 | 2025-06-27 | 2025-12-14 |
 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 | 2023-06-05 | 2025-08-30 |
 | [Do My Thing](https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Do My Thing](https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu) | 3:02 | 2023-07-14 | 2025-01-11 |
 | [Dola re Dola](https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Dola re Dola](https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le) | 2:05 | 2024-02-16 | 2024-06-20 |

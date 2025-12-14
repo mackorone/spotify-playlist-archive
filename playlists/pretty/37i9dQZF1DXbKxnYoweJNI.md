@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: JOYCE 就以斯
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,013 likes - 139 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,015 likes - 139 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 5 | [Mudita](https://open.spotify.com/track/6QRrpniezlY1MwOJaodMRV) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA) | [Mudita](https://open.spotify.com/album/5C8TSFexIstpLPpZA9GEP5) | 5:10 |
 | 6 | [上我的車](https://open.spotify.com/track/6KflUzVIfLwheXAsQABM4Z) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [上我的車](https://open.spotify.com/album/3d3ZchSoon6wPo15RD1ti9) | 4:13 |
 | 7 | [高中熱音社指南](https://open.spotify.com/track/5mgMulW2i2cqLABDjMXzV0) | [共振效應 Resonance Effect](https://open.spotify.com/artist/6NqHU787X96L2d3ItfceoM), [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x), [王嘉駿 Jun Wang](https://open.spotify.com/artist/3qlclL7WjdGRnrcIQFYaut) | [高中熱音社指南](https://open.spotify.com/album/75wiXr7c6OTsQSkrtvjW4z) | 3:49 |
-| 8 | [過客](https://open.spotify.com/track/74kKHqhF5BkyIAPfIdatSm) | [Mavis Fan](https://open.spotify.com/artist/25rFapdPzsR0PEl8dFWL3I), [100%](https://open.spotify.com/artist/4f41wKRJwzp6TA3Hr9eMyx) | [過客](https://open.spotify.com/album/3jJBQxY8wOfD4FndaqAcrp) | 4:58 |
+| 8 | [過客](https://open.spotify.com/track/74kKHqhF5BkyIAPfIdatSm) | [Mavis Fan](https://open.spotify.com/artist/25rFapdPzsR0PEl8dFWL3I), [100%](https://open.spotify.com/artist/7qSDq2KfSA4iLyZl5MUDVM) | [過客](https://open.spotify.com/album/3jJBQxY8wOfD4FndaqAcrp) | 4:58 |
 | 9 | [P WAY](https://open.spotify.com/track/64V16jSVUK7mo39jWPOtIy) | [Mula Sakee](https://open.spotify.com/artist/47FFjsWcH3dEadNQRdjYGC), [THOME](https://open.spotify.com/artist/0Ix8VdcAuHEG913ZtibvEw) | [永玄大典 \(THE OMNI ORACLE\)](https://open.spotify.com/album/6nFFPesYWKKKg6WxfmeLnL) | 3:16 |
 | 10 | [南蠻北撤](https://open.spotify.com/track/7sbrlU8Ts3lSsbBSSqi2ib) | [LBT路邊攤](https://open.spotify.com/artist/6O3BBUCNGxvDcQwHfjEvp9) | [南蠻北撤](https://open.spotify.com/album/4RjJrMsXC0VJPJzVHFlzZ4) | 3:05 |
 | 11 | [麥擱黑白講 \- 錯頻沒在稿 OFF THE RECORD \- DEMO](https://open.spotify.com/track/3zGykdGtjBQdezvPgLH8Uy) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Andrew Su](https://open.spotify.com/artist/4oIhsb4tPloa7dQH0TQfhu), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [麥擱黑白講 \- 錯頻沒在稿 OFF THE RECORD \(DEMO\)](https://open.spotify.com/album/5LeflMTsrPrGyVBsX4JZtN) | 2:01 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 78 | [謝謝你的愛](https://open.spotify.com/track/3WOJ8FMxm1TNzfyYv5XZxI) | [方立維 ALI](https://open.spotify.com/artist/5oiYskVLYnZXoPDYJU3NHc) | [謝謝你的愛](https://open.spotify.com/album/29ebHnviZ84zLTtx8u7ys1) | 3:43 |
 | 79 | [残翼](https://open.spotify.com/track/6ZMxeR2diL6vZUSOwSOZxi) | [Lokk](https://open.spotify.com/artist/6aEGtuPEh9zI1szpEybe4P) | [NOVA](https://open.spotify.com/album/5MSUqH2pWSa1zrSUYrYBcT) | 3:32 |
 | 80 | [這樣的曖](https://open.spotify.com/track/0irZkabu1mOunnAfzappLu) | [李花](https://open.spotify.com/artist/2J89hT2zLERJnYJcUj9gDv) | [這樣的曖](https://open.spotify.com/album/7ui9tPSN2JVSzRryNFBv4O) | 3:05 |
-| 81 | [辯護 \(feat\. 蛋堡\)](https://open.spotify.com/track/0jjazh2BBFlysEenENp48U) | [蘇明淵](https://open.spotify.com/artist/2eBf7OQG2b0uSFgBwBIDUN), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [辯護 \(feat\. 蛋堡\)](https://open.spotify.com/album/3PCMufc7w72rL1oZE5ixNj) | 4:16 |
+| 81 | [辯護 \(feat\. 蛋堡\)](https://open.spotify.com/track/0jjazh2BBFlysEenENp48U) | [Justin Su](https://open.spotify.com/artist/7rnyYNf7mNZjQIn83qvrlm), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [辯護 \(feat\. 蛋堡\)](https://open.spotify.com/album/3PCMufc7w72rL1oZE5ixNj) | 4:16 |
 | 82 | [拿起一颗苹果，咬了一口](https://open.spotify.com/track/6UF4I0Pw9XkNVpxy1mDKCY) | [小狗的骨头](https://open.spotify.com/artist/3pskeF4J6ACNDAWayecaYb), [沈以誠](https://open.spotify.com/artist/1WrIe6XUiiU9KovVimwqpE) | [拿起一颗苹果，咬了一口](https://open.spotify.com/album/7zLjPeqolPYUetZJievEeL) | 4:21 |
 | 83 | [一萬公里外的你](https://open.spotify.com/track/6FIhcAp2lj45eFlUkTriAr) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [一萬公里外的你](https://open.spotify.com/album/23DF05WD9sISXewi09oS22) | 4:13 |
 | 84 | [我不再是你依賴](https://open.spotify.com/track/5y1n9ce7mNhXenXitGPUKe) | [洪言翔](https://open.spotify.com/artist/7ll82EagFwV4Olz8zWnZLG) | [我不再是你依賴](https://open.spotify.com/album/7iWiecKsrrcLrs53I1RsCm) | 3:44 |

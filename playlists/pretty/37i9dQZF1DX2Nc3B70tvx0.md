@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Mother Soki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,939,389 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,939,273 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 49 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 |
 | 50 | [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 |
 
-Snapshot ID: `AAAAAB2tLX1zTc8Z/nFZ0+2sikXdj3x9`
+Snapshot ID: `AAAAAN32t8yATlZW6KPQwjB/vxXbeIzR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Reggaeton pero al sabor de Cristo! Foto: Alexxander
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,755 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,793 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

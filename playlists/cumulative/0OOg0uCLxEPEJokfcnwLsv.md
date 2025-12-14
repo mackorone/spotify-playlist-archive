@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-163 songs - 9 hr 56 min
+167 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,12 +64,14 @@
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2025-11-26 |  |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 | 2025-12-12 |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 |  |
+| [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-13 |  |
 | [Fly Away](https://open.spotify.com/track/1BPtiYG6hIuxlT79bPrvny) | [Springs of Autumn](https://open.spotify.com/artist/253bfrIVnxW1lBfhpvWijM) | [Fourteen](https://open.spotify.com/album/4qumeJ6UqZFk1aISguQLW8) | 3:35 | 2025-11-11 | 2025-12-12 |
 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 | 2025-12-03 |  |
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 | 2025-12-12 |
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 |  |
 | [Good Evening](https://open.spotify.com/track/4A99dvKXvbGihH1gfxjQRd) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 3:32 | 2025-11-27 |  |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 |  |
+| [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 |  |
 | [Hypernormal](https://open.spotify.com/track/1ACaEDG5jQ8KfvKTUKjEu5) | [Dead Broke](https://open.spotify.com/artist/5pAHHsGlcYhq7bUJNvjKsu) | [Hypernormal](https://open.spotify.com/album/1uwOBbr56z90M0sxbWYr6M) | 3:17 | 2025-12-12 |  |
 | [I Am Flawed](https://open.spotify.com/track/3oYFTvvRrZ9KSMq7hbuaOo) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [I Am Flawed](https://open.spotify.com/album/20ZRfSRKjTMNCYtRXmWI36) | 3:16 | 2025-12-07 |  |
 | [I Don't Believe in Anything](https://open.spotify.com/track/3a5ZYfcugq5ForOAOSplrb) | [Worthington's Law](https://open.spotify.com/artist/7mEM3d5nAPGHAIO16h96kx) | [When the Leaves Fall + I Don't Believe in Anything](https://open.spotify.com/album/6JVe5hfVRUPjwhPOsM8wma) | 2:39 | 2025-10-18 |  |
@@ -122,6 +124,7 @@
 | [Satu](https://open.spotify.com/track/2zBjzjeCTUG0ThIqwhutl8) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [Satu](https://open.spotify.com/album/0k9XH2GEapyuRdAD6nH3Me) | 3:18 | 2025-11-02 | 2025-11-22 |
 | [Save Me](https://open.spotify.com/track/0GSW18Q6Gm2sXv5z8NmMro) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:39 | 2025-11-26 |  |
 | [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-08-19 |  |
+| [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 | 2025-12-13 |  |
 | [Shake That Thing](https://open.spotify.com/track/36eCRqqm1Xac8b6fockewa) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [The Blues Ain't That Bad](https://open.spotify.com/album/7Az7QkvAHEfACkzyDw1G1Y) | 3:33 | 2025-11-26 |  |
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2025-12-12 |  |
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-30 | 2025-11-22 |
@@ -131,6 +134,7 @@
 | [So Long, it's a Shame About the Fish \- Radio Edit](https://open.spotify.com/track/1LRCIZlYb4bxhwAVjeUbMI) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [So Long, it's a Shame About the Fish](https://open.spotify.com/album/58jcUai7lmTiBkpotllfpl) | 2:26 | 2025-11-04 | 2025-12-12 |
 | [Sorrow](https://open.spotify.com/track/03WwAoY5g9cuENQZ8STzXn) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Steel Birds Scream](https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO) | 4:35 | 2025-10-29 | 2025-11-22 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-11-27 |  |
+| [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-11 |  |
 | [Streetlights](https://open.spotify.com/track/7ubD7mlFekl7QGt6Vb6MAE) | [Dylan Camp](https://open.spotify.com/artist/0j2dNJnUm8oeQGR10pbBGv) | [Streetlights](https://open.spotify.com/album/5HpOdgBKfslIGUTMCGrXJP) | 4:19 | 2025-12-11 |  |
 | [Strength](https://open.spotify.com/track/7sDdpxYqkM1iNdlKeICNpQ) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9) | [Strength](https://open.spotify.com/album/77PRbZD0JWk9peqfMxVsM1) | 4:12 | 2025-11-26 |  |

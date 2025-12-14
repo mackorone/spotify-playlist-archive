@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MSnVLI9GuJ.md) - [plain]
 
 > Enjoy music from GRIDMAN UNIVERSE!「グリッドマン」シリーズの楽曲を1つのプレイリストで。©円谷プロ ©2023 TRIGGER・雨宮哲／「劇場版グリッドマンユニバース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,076 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,079 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

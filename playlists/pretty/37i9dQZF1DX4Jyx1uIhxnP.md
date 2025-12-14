@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > Iconic indie tunes from your favourite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,987 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,003 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 18 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
 | 19 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
 | 20 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
-| 21 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
-| 22 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
+| 21 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
+| 22 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
 | 23 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 24 | [Teen Age Riot \(Album Version\)](https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 6:57 |
 | 25 | [I Want You to Want Me](https://open.spotify.com/track/3DcPLPvsZPcFcYfMPMfh4e) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:26 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 30 | [Ultraviolet \- From "Angus, Thongs and Perfect Snogging"](https://open.spotify.com/track/4Zf3vqW6M3tAQAvywYgKU6) | [Stiff Dylans](https://open.spotify.com/artist/1IaGetA2lSiOaDPMfHxzSM) | [Ultraviolet](https://open.spotify.com/album/2BEfAkOz9rNk16wdwLtAiS) | 3:46 |
 | 31 | [Silhouettes \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/2QMLICqo5TTiPv4BPD3N5t) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 4:31 |
 | 32 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
-| 33 | [Mile End \- From 'Trainspotting' Original Motion Picture Soundtrack](https://open.spotify.com/track/3DYnqG3jqB1bijSKsJzuzG) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1wDUCt2Jqcn4qKLnDdkMXh) | 4:30 |
-| 34 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
+| 33 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
+| 34 | [Mile End \- From 'Trainspotting' Original Motion Picture Soundtrack](https://open.spotify.com/track/3DYnqG3jqB1bijSKsJzuzG) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1wDUCt2Jqcn4qKLnDdkMXh) | 4:30 |
 | 35 | [Sing \- 2012 Remaster](https://open.spotify.com/track/7d1dGY0j55oqOmJFAdmQlR) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Leisure \(Special Edition\)](https://open.spotify.com/album/0cTdvscLZjCTEKxYUlJFwa) | 6:00 |
 | 36 | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/track/7IjL4IoQZMk1dOI4MH1T0i) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/album/1llgroOoPNwILl0RNnHoh7) | 3:24 |
 | 37 | [Black Sheep](https://open.spotify.com/track/1CBQ8XGwcu7BcsT8iByvwE) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 4:55 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 47 | [The Yeah Yeah Yeah Song](https://open.spotify.com/track/2mlIzqDE7RaMaMx1UPdsXL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War With the Mystics](https://open.spotify.com/album/4HAqJpa6YWefRXdLVpk5S6) | 3:52 |
 | 48 | [Lean \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/2wdRWIsv9QnDFO9trsniXw) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 4:31 |
 | 49 | [Lights \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/0hqh8M4ttzlNsQYHlIeEhr) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 3:45 |
-| 50 | [Sugar Mouse](https://open.spotify.com/track/2IDBZcXE4et3InW8KdQDeU) | [Oh, Atoms](https://open.spotify.com/artist/22IO5CtzZfPBbstfLyg74h) | [You Can't See The Stars From Here](https://open.spotify.com/album/0hULqk8gjSuTXlNJuAPkco) | 4:13 |
+| 50 | [Oh! Sweet Nuthin' \- 2015 Remaster](https://open.spotify.com/track/2O7ApvjB5AbvAL5LNPvxh9) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/1jYzTZV1cQXE89zA9ZSUpE) | 7:25 |
 
 Snapshot ID: `AAAAABpy7aNW4NV2N2RC7JG7DB5H4qai`

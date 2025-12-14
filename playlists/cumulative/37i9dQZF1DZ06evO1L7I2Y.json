@@ -519,6 +519,36 @@
     },
     {
       "album": {
+        "name": "M\u00fasicas Para Marolar",
+        "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
+      },
+      "artists": [
+        {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171008,
+      "name": "Gostoso esse Pretinho",
+      "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
+    },
+    {
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },

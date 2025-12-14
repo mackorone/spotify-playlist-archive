@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 12172,
+  "num_followers": 12192,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAB7r42yXgCVQyYeJF+j18qE",
+  "snapshot_id": "aTtbAAAAAAAKqHZxADlhV63BZoTW01R4",
   "tracks": [
     {
       "added_at": null,
@@ -86,11 +86,15 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
     },
     {
       "added_at": null,
@@ -154,15 +158,11 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
     },
     {
       "added_at": null,

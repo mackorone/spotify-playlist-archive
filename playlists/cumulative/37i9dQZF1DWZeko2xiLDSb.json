@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/0ic2yVzwWkmL0APveGjQAu"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223207,
+      "name": "Challenger",
+      "url": "https://open.spotify.com/track/18E1JTva63dkwEtgRSQiEp"
+    },
+    {
+      "album": {
         "name": "change ur mind",
         "url": "https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh"
       },
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 168920,
       "name": "The Efferusphere",
       "url": "https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC"

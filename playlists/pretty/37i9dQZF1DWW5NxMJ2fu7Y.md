@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,458 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,493 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 34 | [Maghandemch](https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O), [Xcep](https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 3:33 |
 | 35 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 |
 | 36 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
-| 37 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
-| 38 | [Iceburg](https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:11 |
-| 39 | [Kelma](https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kelma](https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH) | 3:05 |
-| 40 | [Porsche](https://open.spotify.com/track/5ROnVXz0rGkPlDmJ8oltUX) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf), [Dracofeuu](https://open.spotify.com/artist/1DS4sBigDOqhq0lbsa9PiB) | [Chapter 2 : Band Of Msaww](https://open.spotify.com/album/0dfytM4hEkDPs0bU8xGu0O) | 2:57 |
+| 37 | [Iceburg](https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:11 |
+| 38 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
+| 39 | [Porsche](https://open.spotify.com/track/5ROnVXz0rGkPlDmJ8oltUX) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf), [Dracofeuu](https://open.spotify.com/artist/1DS4sBigDOqhq0lbsa9PiB) | [Chapter 2 : Band Of Msaww](https://open.spotify.com/album/0dfytM4hEkDPs0bU8xGu0O) | 2:57 |
+| 40 | [Kelma](https://open.spotify.com/track/4vtD50wmruYW80fnTOWplJ) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kelma](https://open.spotify.com/album/05C5ZLaQkfgFDWKFwRRNtH) | 3:05 |
 
 Snapshot ID: `AAAAAHCHr7/q/yFSQ7S6qjQKyhicx6jD`

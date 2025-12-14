@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  Kweku Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,891 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,923 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 28 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
 | 29 | [Last Week](https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Bad Boy Etiquette 102: Continuous Assessment](https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC) | 3:55 |
 | 30 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 |
-| 31 | [Diamonds](https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Contraband / Diamonds](https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl) | 2:27 |
-| 32 | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq) | 3:05 |
+| 31 | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Violence \(feat\. Kweku Smoke\)](https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq) | 3:05 |
+| 32 | [Diamonds](https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Contraband / Diamonds](https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl) | 2:27 |
 | 33 | [Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Crazy](https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y) | 2:14 |
 | 34 | [So it Goes](https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So it Goes](https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC) | 3:43 |
 | 35 | [Soft](https://open.spotify.com/track/0Y3kQx93aK7cVwvNn6pfoB) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Soft](https://open.spotify.com/album/1AVJMO0Dyr4EwzLfBXcgrQ) | 2:15 |

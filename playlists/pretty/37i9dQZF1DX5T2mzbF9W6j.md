@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,162 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,157 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 51 | [Naiwna ja](https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Naiwna ja](https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz) | 2:20 |
 | 52 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
 | 53 | [Codzienność \(Pamiętaj Nas\)](https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Codzienność \(Pamiętaj Nas\)](https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m) | 2:37 |
-| 54 | [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 |
-| 55 | [Rzeka](https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S) | [LUNARIA](https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP), [W\. Krajewski](https://open.spotify.com/artist/7lEVFDOUQeA7Zw7DqUvO9F) | [Rzeka](https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh) | 3:00 |
+| 54 | [Rzeka](https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S) | [LUNARIA](https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP), [W\. Krajewski](https://open.spotify.com/artist/7lEVFDOUQeA7Zw7DqUvO9F) | [Rzeka](https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh) | 3:00 |
+| 55 | [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 |
 | 56 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
 | 57 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
 | 58 | [najgorsze restauracje](https://open.spotify.com/track/4zMKD8kgLfYwuZlzvGTqOJ) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [najgorsze restauracje](https://open.spotify.com/album/4N7S8DQNO3TIJqVtijain8) | 2:45 |

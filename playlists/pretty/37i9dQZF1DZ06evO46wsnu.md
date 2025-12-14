@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,553 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,567 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 21 | [The Dirt Whispered](https://open.spotify.com/track/5CAaWuGhF4XvUm2liCkThA) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:09 |
 | 22 | [Worth Dying For](https://open.spotify.com/track/2fFdjMCVUnIBU1jiKLBIKH) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:20 |
 | 23 | [Ricochet](https://open.spotify.com/track/2VQEHtJBOPqfqQ6i9m6OQq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:41 |
-| 24 | [Tragedy + Time](https://open.spotify.com/track/39yvhCgBmNrLf0m9lan0Ge) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:17 |
-| 25 | [Paper Wings](https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:43 |
+| 24 | [Paper Wings](https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:43 |
+| 25 | [Tragedy + Time](https://open.spotify.com/track/39yvhCgBmNrLf0m9lan0Ge) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:17 |
 | 26 | [House On Fire](https://open.spotify.com/track/4c75xeSteTcgSSxRtsKqOJ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:14 |
 | 27 | [Nod](https://open.spotify.com/track/0oVGfCae0v0ygXbYklG5fk) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:02 |
 | 28 | [Survivor Guilt](https://open.spotify.com/track/6z38xRV0gxWMyjtuz5T2Ea) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 49 | [Blood To Bleed](https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:48 |
 | 50 | [Far From Perfect \- Ghost Note Symphonies](https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:53 |
 
-Snapshot ID: `aToJgAAAAAAZCnlzXuZecyOo0FOWaZHN`
+Snapshot ID: `aTtbAAAAAABoUV4jWRjwqmvFOxsB6CI6`

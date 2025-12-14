@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these hip\-hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,943 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,991 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 35 | [The World Is Yours \- Clean Album Version](https://open.spotify.com/track/4BWBpj8D0krkebqLTQx7SZ) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [10 Year Anniversary Illmatic Platinum Series](https://open.spotify.com/album/6rXstoVf7abF1VyuYRzxBw) | 4:50 |
 | 36 | [The Next Movement](https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Jazzyfatnastees](https://open.spotify.com/artist/4o6gZFD9CkUCVzYqrDR3wV) | [Things Fall Apart](https://open.spotify.com/album/5Kv0SrABtsIyzCniJvR5ih) | 4:10 |
 | 37 | [I Go To Work](https://open.spotify.com/track/6tGtBvK6DezcjbtUxXGyxe) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [Knowledge Is King](https://open.spotify.com/album/31WVLciVB5ffpco1dZ9vHz) | 4:42 |
-| 38 | [This Be the Def Beat](https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri) | [Dana Dane](https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp) | [Dana Dane with Fame](https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5) | 3:18 |
+| 38 | [Wipeout \(Re\-Recorded Version\)](https://open.spotify.com/track/07CpuTGODTEA9VOjhJuoZ8) | [Fat Boys](https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt) | [Wipeout \(Re\-Recorded Versions\)](https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv) | 4:01 |
 | 39 | [My Adidas](https://open.spotify.com/track/64UQLXFp7Gs189kF3myYiq) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/5CFj95du24x9CwW0raRnmF) | 2:48 |
-| 40 | [Wipeout \(Re\-Recorded Version\)](https://open.spotify.com/track/07CpuTGODTEA9VOjhJuoZ8) | [Fat Boys](https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt) | [Wipeout \(Re\-Recorded Versions\)](https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv) | 4:01 |
+| 40 | [This Be the Def Beat](https://open.spotify.com/track/3vzFcaVtFsxJxXsI5MrHri) | [Dana Dane](https://open.spotify.com/artist/4LsQE9hwiCyFmUUkKWYnKp) | [Dana Dane with Fame](https://open.spotify.com/album/1cBQA6BENOelWaOJJRUHz5) | 3:18 |
 
 Snapshot ID: `AAAAAMBYKyJ0QEp2gydslm48hmDX9A8Y`

@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 91508,
+  "num_followers": 91525,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "detest me",
+        "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 118930,
+      "name": "detest me",
+      "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 178823,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "detest me",
-        "url": "https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 118930,
-      "name": "detest me",
-      "url": "https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon"
     },
     {
       "added_at": "2024-10-09 21:55:22",

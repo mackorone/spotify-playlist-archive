@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,255 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,259 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 21 | [Blinding Lights](https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Blinding Lights](https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7) | 2:57 |
 | 22 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
 | 23 | [Bad Husband \(feat\. X Ambassadors\)](https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 4:47 |
-| 24 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
-| 25 | [My Own Monster](https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:05 |
+| 24 | [My Own Monster](https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 3:05 |
+| 25 | [Gorgeous](https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:17 |
 | 26 | [Ahead Of Myself](https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Ahead Of Myself](https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf) | 3:43 |
 | 27 | [Friend For Life \(with Medium Build\)](https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Friend For Life \(with Medium Build\)](https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n) | 3:30 |
 | 28 | [Kerosene Dreams](https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS 2.0](https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 49 | [give me hell](https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:04 |
 | 50 | [CONFIDENCE \(feat\. K.Flay\)](https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:53 |
 
-Snapshot ID: `aToJgAAAAABHZ2GTTbLOobmZv/K+z6bi`
+Snapshot ID: `aTtbAAAAAAD3TW1DdLhg1Pqhc1gLIfVT`

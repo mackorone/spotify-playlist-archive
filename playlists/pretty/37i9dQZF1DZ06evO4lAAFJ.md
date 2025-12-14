@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,802 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,084 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 46 | [HIGHEST IN THE ROOM \(feat\. ROSALÍA & Lil Baby\) \- REMIX](https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 |
 | 47 | [Nothing’s Special](https://open.spotify.com/track/42XBr4TCOHEz2SP4vUsBGp) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Magic Oneohtrix Point Never \(Blu\-ray Edition\)](https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy) | 3:32 |
 
-Snapshot ID: `aToJgAAAAAA8j03Mz9K0Lqwx/hIom3JH`
+Snapshot ID: `aTtbAAAAAACLcjH0AEdiGFyk3nZ2EZWY`

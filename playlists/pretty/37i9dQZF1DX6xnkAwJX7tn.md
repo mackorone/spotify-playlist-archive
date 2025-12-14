@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312,297 likes - 150 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,266 likes - 150 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 78 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 |
 | 79 | [Bamboléo](https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl) | 3:23 |
 | 80 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:18 |
-| 81 | [Tell It to My Heart](https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 3:40 |
-| 82 | [Everything She Wants](https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 5:02 |
+| 81 | [Everything She Wants](https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 5:02 |
+| 82 | [Tell It to My Heart](https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 3:40 |
 | 83 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 |
 | 84 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 |
 | 85 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:57 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 100 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 |
 | 101 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 | 102 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 |
-| 103 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
-| 104 | [Pour Some Sugar On Me](https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:27 |
+| 103 | [Pour Some Sugar On Me](https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:27 |
+| 104 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
 | 105 | [It's Tricky](https://open.spotify.com/track/6jBCehpNMkwFVF3dz4nLIW) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:03 |
 | 106 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
 | 107 | [Two Hearts](https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Love Songs \(A Compilation Old and New\)](https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF) | 3:24 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 131 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
 | 132 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/2qURodWJech5Dv9T0Irrda) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 |
 | 133 | [Let It Whip](https://open.spotify.com/track/2UCgWpa2r4ytWueNItYbWE) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [Keep It Live \(Expanded Edition\)](https://open.spotify.com/album/5m2wPGGx4dS3oIyAhoWi37) | 4:41 |
-| 134 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
-| 135 | [One Night In Bangkok \- Radio Edit / From “Chess” / Remastered 2016](https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(Radio Edit / From “Chess” / Remastered 2016\)](https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g) | 3:13 |
+| 134 | [One Night In Bangkok \- Radio Edit / From “Chess” / Remastered 2016](https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(Radio Edit / From “Chess” / Remastered 2016\)](https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g) | 3:13 |
+| 135 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
 | 136 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 |
 | 137 | [Party All the Time](https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B) | [Eddie Murphy](https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc) | [How Could It Be](https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5) | 4:13 |
 | 138 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 145 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
 | 146 | [Teardrops](https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [Conscience](https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W) | 5:03 |
 | 147 | [When the Going Gets Tough, The Tough Get Going](https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:08 |
-| 148 | [Walk Like an Egyptian](https://open.spotify.com/track/3BGbqEDio3ocx1v4egIYr6) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light](https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd) | 3:24 |
-| 149 | [Simply Irresistible](https://open.spotify.com/track/7mmhMfqs3knRMMlvnMPTHn) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Heavy Nova \(Bonus Tracks Version\)](https://open.spotify.com/album/0GpLCi7mAAflASQlR26oib) | 4:14 |
+| 148 | [Simply Irresistible](https://open.spotify.com/track/7mmhMfqs3knRMMlvnMPTHn) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Heavy Nova \(Bonus Tracks Version\)](https://open.spotify.com/album/0GpLCi7mAAflASQlR26oib) | 4:14 |
+| 149 | [Walk Like an Egyptian](https://open.spotify.com/track/3BGbqEDio3ocx1v4egIYr6) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light](https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd) | 3:24 |
 | 150 | [Too Much Time On My Hands](https://open.spotify.com/track/4hWUOIDHda9XOb1zDchftP) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 4:31 |
 
 Snapshot ID: `AAAAAJHwSfMS7e+aF1Bj/Ct7mwLzKvB+`

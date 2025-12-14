@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 265989,
+  "num_followers": 265996,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABqdvV7JuKKGfEnv8Rx+0Q1",
+  "snapshot_id": "aTtbAAAAAADVdhst/amH2mFbaXqy9Zhu",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous Friends",
-        "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "Famous Friends",
-      "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 176800,
       "name": "The one (Pero no como yo)",
       "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Famous Friends",
+        "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "Famous Friends",
+      "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
     },
     {
       "added_at": null,

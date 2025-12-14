@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Eli
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,437 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,453 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 100 | [Happy Breakup!](https://open.spotify.com/track/6eJn6XejWj32KT6MCWaz9b) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Happy Breakup!](https://open.spotify.com/album/0wJbcsaxnjJpKc6pSU5gSa) | 2:58 |
 
-Snapshot ID: `AAAAADFEqKeKw732npdJRnV6zgSJlAtE`
+Snapshot ID: `AAAAAE+ueoto4r94TX4YzA7BMMvWh1Bj`

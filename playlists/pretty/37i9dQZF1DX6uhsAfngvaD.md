@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,052 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,067 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 63 | [Haunt You Still](https://open.spotify.com/track/7hLYnfqZ8IlIMxjdTkRFxO) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 4:02 |
 | 64 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 |
 | 65 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
-| 66 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 |
-| 67 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
+| 66 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
+| 67 | [Driving in My Car](https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [George Clanton and Nick Hexum](https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7) | 3:37 |
 | 68 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 69 | [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 |
 | 70 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
 | 71 | [Wry](https://open.spotify.com/track/4xwjpqfk8mHL36w1lsGcl2) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Wry](https://open.spotify.com/album/0CnWFjySZ8PqIo5S5OD7qC) | 3:00 |
-| 72 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
-| 73 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 |
-| 74 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
+| 72 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
+| 73 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
+| 74 | [How Can I Love? \- When I Can't Get Away from You](https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away from You\)](https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q) | 2:59 |
 | 75 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
 | 76 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |
 | 77 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 |
-| 78 | [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 |
-| 79 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
+| 78 | [Near](https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE), [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:40 |
+| 79 | [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 |
 | 80 | [nightingale](https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [all that heaven allows](https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI) | 3:35 |
 
 Snapshot ID: `AAAAAB5FEZDTK5w3ZVp2yeusHITsgvNW`

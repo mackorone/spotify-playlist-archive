@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,038 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,064 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 38 | [Infiernos](https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm) | 4:53 |
 | 39 | [Cumbia del Olvido](https://open.spotify.com/track/3OJ9kFQsKJxyx4aqFXZuHr) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 4:20 |
 | 40 | [Hasta Que Te Conocí](https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 5:22 |
-| 41 | [Bier & Ska](https://open.spotify.com/track/5gVD3wZsIjZM1iNZa5RJDp) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 3:25 |
-| 42 | [Si Una Vez](https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Si Una Vez](https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0) | 3:48 |
+| 41 | [Si Una Vez](https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Si Una Vez](https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0) | 3:48 |
+| 42 | [Bier & Ska](https://open.spotify.com/track/5gVD3wZsIjZM1iNZa5RJDp) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 3:25 |
 | 43 | [Lamento De Amor](https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Rigo Es Amor](https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26) | 3:15 |
-| 44 | [Seguir Bailando](https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:57 |
-| 45 | [Paria](https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 2:29 |
-| 46 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 44 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 45 | [Seguir Bailando](https://open.spotify.com/track/2Qe2zYpOydMAWtiliU6Rep) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:57 |
+| 46 | [Paria](https://open.spotify.com/track/77SRW1K8lpTUT2AdIVZlxv) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Sonoro](https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez) | 2:29 |
 | 47 | [Amargo Adios](https://open.spotify.com/track/0UvMeaPWStJGuXMe89bAoJ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:01 |
-| 48 | [C.D.A.](https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:36 |
-| 49 | [Inocente Pobre Amigo](https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:41 |
+| 48 | [Inocente Pobre Amigo](https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:41 |
+| 49 | [C.D.A.](https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:36 |
 | 50 | [Un Derecho de Nacimiento](https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 5:21 |
 
-Snapshot ID: `aToJgAAAAAClKMIEAzXWQDRfKvU61e20`
+Snapshot ID: `aTtbAAAAAACGb1h1OZkJMmBxgEMdL4pQ`

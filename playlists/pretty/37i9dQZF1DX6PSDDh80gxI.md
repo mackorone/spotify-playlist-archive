@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Marco Castello ha uscito un nuovo album, ah quantu è beddu 🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,544 likes - 83 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,538 likes - 83 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

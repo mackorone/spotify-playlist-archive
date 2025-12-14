@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,283 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,285 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 27 | [Truth Be Told](https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 2:53 |
 | 28 | [Rendezvous](https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Flip](https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8) | 3:05 |
 | 29 | [Kiss of fire](https://open.spotify.com/track/3tZhtCYISL5esUNEvcWclc) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:15 |
-| 30 | [Meat](https://open.spotify.com/track/0Kl6xCOt69FaQfhVYJ9f7A) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:03 |
+| 30 | [Come In](https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:02 |
 | 31 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 32 | [Woo](https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:12 |
-| 33 | [Come In](https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:02 |
+| 33 | [Meat](https://open.spotify.com/track/0Kl6xCOt69FaQfhVYJ9f7A) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:03 |
 | 34 | [Infrared Camera](https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:25 |
 | 35 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
 | 36 | [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 55 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |
 | 56 | [OVERZONE](https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [HORIZON : THE MIXTAPE](https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj) | 1:21 |
 | 57 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
-| 58 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
-| 59 | [POP \(feat\. BIBI\)](https://open.spotify.com/track/5Nj7MttRXIb3zui4jfhhnc) | [THE NEED](https://open.spotify.com/artist/1Fiav0wxfiy9DWTlshBV1Z), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [POP \(feat\. BIBI\)](https://open.spotify.com/album/3GdOrZTkwHELcx3ad5ABRN) | 2:20 |
-| 60 | [Wonderland \(Carol ver.\)](https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:17 |
+| 58 | [Wonderland \(Carol ver.\)](https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:17 |
+| 59 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
+| 60 | [POP \(feat\. BIBI\)](https://open.spotify.com/track/5Nj7MttRXIb3zui4jfhhnc) | [THE NEED](https://open.spotify.com/artist/1Fiav0wxfiy9DWTlshBV1Z), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [POP \(feat\. BIBI\)](https://open.spotify.com/album/3GdOrZTkwHELcx3ad5ABRN) | 2:20 |
 
 Snapshot ID: `AAAAAIrFo04ns9TyzuEB4WUYEXfWkiyc`

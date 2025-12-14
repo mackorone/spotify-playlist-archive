@@ -4,7 +4,7 @@
 
 > 
 
-2,728 songs - 5 day 22 hr 0 min
+2,730 songs - 5 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,6 +766,7 @@
 | [Execute \- INVADE Remix](https://open.spotify.com/track/4L2fzotymdHZ2QadB8bge4) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [Execute \(INVADE Remix\)](https://open.spotify.com/album/6gwA2eaGVUBwguLb7i4m60) | 4:20 | 2023-06-02 |  |
 | [EXPONENTIAL](https://open.spotify.com/track/1D95mK70oXYzswOfSDWaKJ) | [333CXT](https://open.spotify.com/artist/4waJTWGCY8IdHNTaslCI2U), [Koffeintablette](https://open.spotify.com/artist/7sbfu5ysHYk6ed643dSucI) | [EXPONENTIAL](https://open.spotify.com/album/2mxNRZd1E0xsrYF3VmjTfc) | 5:38 | 2025-10-09 |  |
 | [Exterminate](https://open.spotify.com/track/7GjjrJCrrRi4BvFJHJyPjv) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Exterminate](https://open.spotify.com/album/4kP56B2bGKRgsOUbiix5NA) | 2:09 | 2024-10-11 |  |
+| [Extraterrestrial Uprising](https://open.spotify.com/track/1m1uC3BUTQQQbXsXnVj4sl) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw), [Equalizer](https://open.spotify.com/artist/71oj8z57qtiH3A0s9xl82h) | [You Broke Me & Extraterrestrial Uprising](https://open.spotify.com/album/0thvX5NHkuBFeIQdkU198X) | 1:40 | 2025-12-13 |  |
 | [Eyes Closed](https://open.spotify.com/track/0rJmohoEvjdcbSRPoyThbP) | [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G) | [Eyes Closed](https://open.spotify.com/album/1MIOLNy83zZBZGylJvpofm) | 2:18 | 2024-08-29 |  |
 | [Eyes On The Prize](https://open.spotify.com/track/3CLljVLjMg6nYdXJWnqvZ9) | [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Eyes On The Prize](https://open.spotify.com/album/4u1PMEXXfNq5b0zS7ZgALd) | 3:03 | 2025-01-25 |  |
 | [F THE INDUSTRY](https://open.spotify.com/track/4c7sU7C4NMrYzwLCaTKxNB) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [FTW](https://open.spotify.com/album/0SccCfCTTGBNxxDTjrgbO6) | 3:13 | 2024-10-20 |  |
@@ -2718,6 +2719,7 @@
 | [YOU AND I \- RAVE LOVE LIVE EDIT](https://open.spotify.com/track/1cS93RYSTrNOgrxiFINgDZ) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [RAVE LOVE PT.2](https://open.spotify.com/album/3p3wFoUkTRpFah1PqWWfTK) | 2:51 | 2024-10-25 |  |
 | [You Are Mine](https://open.spotify.com/track/20szXJYQkLyuYRFkP0fWuG) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [You Are Mine](https://open.spotify.com/album/3y5GWG3zwX6mqybmEOUZJY) | 4:06 | 2023-09-22 |  |
 | [You Are Mine \- Illuszion Remix](https://open.spotify.com/track/1Mz2Vm4sgKEOb7PJjNYLy2) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [You Are Mine \(Illuszion Remix\)](https://open.spotify.com/album/568NOj3iqG15twFjO88p88) | 2:34 | 2023-07-14 |  |
+| [You Broke Me](https://open.spotify.com/track/399x8EFw3xYdiVUB5p6r54) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [You Broke Me & Extraterrestrial Uprising](https://open.spotify.com/album/0thvX5NHkuBFeIQdkU198X) | 1:19 | 2025-12-13 |  |
 | [You Can't See](https://open.spotify.com/track/5Tj5sDDsR87XVuaiikHW3q) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [You Can't See](https://open.spotify.com/album/2ZQTb4VFMoElqmzHbPLycj) | 4:01 | 2023-03-31 |  |
 | [You Can't Stop Me](https://open.spotify.com/track/04t2rESw6up8F0zPRKsD5t) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:19 | 2022-08-23 |  |
 | [You Got My Lovin' \- Extrended Mix](https://open.spotify.com/track/2nCnqncBb1UpTmmpS4Exng) | [Ryan Ganar](https://open.spotify.com/artist/4UXRCbEezbN48hApgmJond) | [You Got My Lovin'](https://open.spotify.com/album/5RdW0nG7JGDh1bUYDIQvHg) | 4:26 | 2022-02-17 |  |

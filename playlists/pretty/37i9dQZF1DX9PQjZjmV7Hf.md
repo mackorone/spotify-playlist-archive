@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jharden13/">James Harden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,437 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,453 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PQjZjmV7Hf.md) - [plain]
 | 19 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 |
 | 20 | [5500 Degrees \(feat\. Lil Baby, 42 Dugg & Rylo Rodriguez\)](https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:04 |
 | 21 | [Overrated](https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:26 |
-| 22 | [30 for 30 Freestyle](https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 4:13 |
-| 23 | [Blue Laces 2](https://open.spotify.com/track/7yB6GF5kgPEoeGE4EAWiJU) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 4:10 |
+| 22 | [Blue Laces 2](https://open.spotify.com/track/7yB6GF5kgPEoeGE4EAWiJU) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 4:10 |
+| 23 | [30 for 30 Freestyle](https://open.spotify.com/track/1DmnEYXa4WfbdhAPwNzgD8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 4:13 |
 | 24 | [late at night](https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [late at night](https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u) | 2:54 |
 | 25 | [Candy](https://open.spotify.com/track/6Ms3n5sUl0Bzg3bMCtUEAw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:56 |
 | 26 | [Toast Up](https://open.spotify.com/track/0nlQLaytSQwrY6d5cS2X2i) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:49 |

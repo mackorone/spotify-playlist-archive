@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,295 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,297 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 10 | [SURVIVE（feat\. LEO from ALI）](https://open.spotify.com/track/4ojAyqC0MO4dVzXr1TSUgD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Circus Funk](https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY) | 4:43 |
 | 11 | [EL MARIACHI](https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:32 |
 | 12 | [FEELIN' GOOD](https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:49 |
-| 13 | [FLASHBACK SYNDROME](https://open.spotify.com/track/0Vy313Gy9c3HdDwlQrrqqx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [FLASHBACK SYNDROME](https://open.spotify.com/album/3EqjUi6XXqIXcsuIlpL7Mv) | 3:37 |
-| 14 | [LOVE IS KILLING ME](https://open.spotify.com/track/2VgleP55EwSjpFU7710gkj) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE IS KILLING ME](https://open.spotify.com/album/2D49n0F5LDppEWbzuot6IS) | 3:29 |
+| 13 | [LOVE IS KILLING ME](https://open.spotify.com/track/2VgleP55EwSjpFU7710gkj) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE IS KILLING ME](https://open.spotify.com/album/2D49n0F5LDppEWbzuot6IS) | 3:29 |
+| 14 | [NEON](https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [NEON](https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT) | 5:10 |
 | 15 | [TEENAGE CITY RIOT](https://open.spotify.com/track/5OZGr81O9jLzE5vk8CHUJB) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:41 |
-| 16 | [NEON](https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [NEON](https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT) | 5:10 |
+| 16 | [FLASHBACK SYNDROME](https://open.spotify.com/track/0Vy313Gy9c3HdDwlQrrqqx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [FLASHBACK SYNDROME](https://open.spotify.com/album/3EqjUi6XXqIXcsuIlpL7Mv) | 3:37 |
 | 17 | [MOONBEAMS SATELLITE](https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [K.A.N.T.A](https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 4:22 |
 | 18 | [Temptations](https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Temptations](https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM) | 2:49 |
 | 19 | [IN THE MOOD FOR LOVE](https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [SARM](https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:29 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 32 | [KEEP YOUR HEAD UP](https://open.spotify.com/track/6obSLuEgeFp54c5iDa8BsR) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:14 |
 | 33 | [SPARKLE](https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:25 |
 | 34 | [WILD ANGEL](https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:40 |
-| 35 | [Vim](https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Vim](https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z) | 5:14 |
+| 35 | [Whole Lotta Love](https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [木村昴](https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:06 |
 | 36 | [METROPOLIS](https://open.spotify.com/track/6K67HToFgqOrit9qtRJZdB) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:06 |
-| 37 | [Whole Lotta Love](https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [木村昴](https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:06 |
+| 37 | [Vim](https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Vim](https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z) | 5:14 |
 | 38 | [LONELY LONELY](https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [LONELY LONELY](https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z) | 4:37 |
 | 39 | [I Want A Chance For Romance](https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:00 |
 | 40 | [KID feat\. LEO \(ALI\)](https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [踊救急箱](https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 49 | [Jungle Love（Instrumental）](https://open.spotify.com/track/3qhDpKJUvfcUAGGZL35p0A) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 |
 | 50 | [TRUE FICTION](https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:57 |
 
-Snapshot ID: `aToJgAAAAAC94EpVECeGyomH6xeBFBNF`
+Snapshot ID: `aTtbAAAAAAA8mSIqUwihoCuk5yVlOCQm`

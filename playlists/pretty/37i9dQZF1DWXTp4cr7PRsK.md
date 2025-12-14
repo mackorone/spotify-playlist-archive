@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/ogchaseb/">Chase B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,524 likes - 31 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,523 likes - 31 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTp4cr7PRsK.md) - [plain]
 | 21 | [Over Your Head](https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto \(Deluxe\)](https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR) | 3:06 |
 | 22 | [Barnacles](https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Barnacles](https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw) | 2:18 |
 | 23 | [Dance Like No One’s Watching](https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Dance Like No One's Watching](https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N) | 3:31 |
-| 24 | [CASINO](https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8), [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [CASINO](https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4) | 3:34 |
-| 25 | [Slidin](https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II \[CHOPPED NOT SLOPPED\]](https://open.spotify.com/album/263anqt2ayA25jSEXfs0i1) | 3:05 |
+| 24 | [Slidin](https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II \[CHOPPED NOT SLOPPED\]](https://open.spotify.com/album/263anqt2ayA25jSEXfs0i1) | 3:05 |
+| 25 | [CASINO](https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8), [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [CASINO](https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4) | 3:34 |
 | 26 | [Love Is Gangster](https://open.spotify.com/track/4zAGbKyTxOUUEovHovHMJU) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Rap N Roll](https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu) | 2:52 |
 | 27 | [Training Day](https://open.spotify.com/track/4S0oaxUJqJQVytyxcHNm0h) | [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [Without A Smile](https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr) | 2:37 |
 | 28 | [Prospect \(ft\. Lil Baby\)](https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Prospect \(feat\. Lil Baby\)](https://open.spotify.com/album/0EmINljXosug1gnqewNqnn) | 3:46 |

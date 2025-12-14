@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 
 > This is Lil Nas X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,678 likes - 31 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,686 likes - 31 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 | 18 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 |
 | 19 | [DONT WANT IT](https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:10 |
 | 20 | [P.B.S.](https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:24 |
-| 21 | [RIGHT THERE!](https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [RIGHT THERE!](https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso) | 3:18 |
-| 22 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
+| 21 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 |
+| 22 | [RIGHT THERE!](https://open.spotify.com/track/336VOfFpogXMtrKoZI3NsE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [RIGHT THERE!](https://open.spotify.com/album/4yW8JiZvkDk2hNdZPQ1Fso) | 3:18 |
 | 23 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 |
 | 24 | [LEAN ON MY BODY](https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:25 |
 | 25 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 | 30 | [SWISH](https://open.spotify.com/track/1pYuYyYV4JFZblFTPN6xK2) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:41 |
 | 31 | [DREAMBOY](https://open.spotify.com/track/2UNrGCSaMhtIY22gaiQuGm) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:35 |
 
-Snapshot ID: `aToJgAAAAAAeYHTsZVrokqbhWzXjtMYm`
+Snapshot ID: `aTtbAAAAAACmvfubsFNzpWuAxY+YpnUa`

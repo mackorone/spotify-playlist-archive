@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Cas\u00ed 16",
+        "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192928,
+      "name": "Cas\u00ed 16",
+      "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
+    },
+    {
+      "album": {
         "name": "Champagne O Cerveza",
         "url": "https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX"
       },
@@ -714,7 +732,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 195509,
       "name": "Eleodoro Elenes",
       "url": "https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY"

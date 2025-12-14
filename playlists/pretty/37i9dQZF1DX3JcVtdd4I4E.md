@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,786 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,788 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 33 | [Elevator Eyes](https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Elevator Eyes](https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ) | 2:58 |
 | 34 | [Borderline](https://open.spotify.com/track/14C1wNCWXW9KZgQHCPCbWe) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/3NJJbO7tp4poBxC7x0eoOl) | 2:54 |
 | 35 | [All I Want](https://open.spotify.com/track/0nrBYMziJMKR7u3ylc1iSE) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:09 |
-| 36 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
-| 37 | [Strawberry Dream](https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strawberry Dream](https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV) | 3:11 |
+| 36 | [Strawberry Dream](https://open.spotify.com/track/4IvZvCRIZ38fFL5kAPjeOB) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Strawberry Dream](https://open.spotify.com/album/7CQX6aejSNeztkuDRmkRhV) | 3:11 |
+| 37 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
 | 38 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 |
 | 39 | [Bad Bitch](https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Bad Bitch](https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ) | 2:57 |
 | 40 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 42 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
 | 43 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
 | 44 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 |
-| 45 | [Dance All Night](https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr) | 2:55 |
-| 46 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
-| 47 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
+| 45 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
+| 46 | [Dance All Night](https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr) | 2:55 |
+| 47 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
 | 48 | [Buffalo Stance](https://open.spotify.com/track/1cz1jiZlsUlKbHAkJZ2Pec) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Buffalo Stance](https://open.spotify.com/album/2PgI6x9bRitaXcU2Omh1HQ) | 5:07 |
 | 49 | [No Room For Love](https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [No Room For Love](https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8) | 2:57 |
 | 50 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 75 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:46 |
 | 76 | [h4msterb0y](https://open.spotify.com/track/6PNDkp573Zsb1yZDd4wjcD) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:48 |
 | 77 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
-| 78 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
-| 79 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 |
+| 78 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 |
+| 79 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
 | 80 | [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 |
 
 Snapshot ID: `AAAAANr+4XnZvqTOAnxs18nXCIALzpYZ`

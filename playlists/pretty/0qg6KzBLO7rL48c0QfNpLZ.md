@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,729 likes - 106 songs - 4 hr 33 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,711 likes - 106 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 36 | [Overflowing](https://open.spotify.com/track/5kRMyZiVmoYNtNtobW3xTJ) | [TEMP!E](https://open.spotify.com/artist/75TTHqbTvMOttu5BC9dare) | [Overflowing](https://open.spotify.com/album/15O02PGqKqCz2bZIw1BxuJ) | 2:24 |
 | 37 | [Not My Problem](https://open.spotify.com/track/4K3IRZq72PJsyWuIqLkRkX) | [Floating Club](https://open.spotify.com/artist/0NVIwt8ActAN9HoUOYAa0y) | [Not My Problem](https://open.spotify.com/album/0iWqiMaSv4Q0PiAPz7tVJV) | 2:19 |
 | 38 | [Right Here](https://open.spotify.com/track/53KT12S4Dzo0xw533fMiBD) | [LIKETHIS](https://open.spotify.com/artist/1Xk5SkXw8zwIyUHFX80pSh) | [Right Here](https://open.spotify.com/album/1e18LPze4SbWe5bydwfR1e) | 3:21 |
-| 39 | [All That's Left](https://open.spotify.com/track/7wn2ugtjgvX7O8E6EiEAlj) | [miravo](https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9) | [All That's Left](https://open.spotify.com/album/0xtQ2SGN6RBVWs4atfTniQ) | 2:50 |
+| 39 | [All That's Left](https://open.spotify.com/track/7wn2ugtjgvX7O8E6EiEAlj) | [Miravo](https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9) | [All That's Left](https://open.spotify.com/album/0xtQ2SGN6RBVWs4atfTniQ) | 2:50 |
 | 40 | [Haunting Me](https://open.spotify.com/track/13HyBy8sVih8i5Pq5udf3t) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [Haunting Me](https://open.spotify.com/album/2rO3BIIDq3FAFtHwm8vDHK) | 2:59 |
 | 41 | [Flower](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [AURIq](https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Flower](https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV) | 2:30 |
 | 42 | [REAL LIFE](https://open.spotify.com/track/5IWw83EL0g4ppWtGf94gu3) | [EMOCA](https://open.spotify.com/artist/5rk2n2NIB3kKhIl880B08S), [KHALIFI](https://open.spotify.com/artist/4PRc7pQGdXBgop2csGN0Lx), [Aidan Auci](https://open.spotify.com/artist/6JcfiwT0FLFv3LFnUgLxyV), [Aziz Baker](https://open.spotify.com/artist/1WJxnuwYPYbjfFcY1aZxgW) | [REAL LIFE](https://open.spotify.com/album/7lUdvHl0m00OpLop2tjfZD) | 2:39 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 101 | [Call Me When You Break Up](https://open.spotify.com/track/5fBVuk8KYYixQvROiqrMeK) | [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Call Me When You Break Up](https://open.spotify.com/album/1FTJdN3L5MOdQatZmGBX3u) | 2:23 |
 | 102 | [Eyes Shut](https://open.spotify.com/track/0NgOwfHLUzmfgRY0XoXzbr) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Eyes Shut](https://open.spotify.com/album/3XdLCfK6V5vtKrGlzmNrO1) | 2:16 |
 | 103 | [Every Night](https://open.spotify.com/track/64O22PBIITfHsF5Lfq19yj) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Every Night](https://open.spotify.com/album/3aQSYBt49ImLqpdP5Eve6r) | 2:03 |
-| 104 | [Marea](https://open.spotify.com/track/2mMibGiQzLxd1Cxo1Szf7p) | [Sol Ara](https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe) | [Marea](https://open.spotify.com/album/0E42uSbsFq2mYazk7p4roN) | 2:50 |
+| 104 | [Marea](https://open.spotify.com/track/2mMibGiQzLxd1Cxo1Szf7p) | [Solara](https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe) | [Marea](https://open.spotify.com/album/0E42uSbsFq2mYazk7p4roN) | 2:50 |
 | 105 | [Can You See Me](https://open.spotify.com/track/5AjOaLKEqowExktKdWE5kf) | [QT\-HIGH](https://open.spotify.com/artist/4NO2QKQ3zchF7KVU0a5cXo), [notdanilo](https://open.spotify.com/artist/2waW9QAXwhOAhjhNjxFYrE) | [Can You See Me](https://open.spotify.com/album/1CpIOr0o1c0zYOMVZSPHFJ) | 3:48 |
 | 106 | [Gatluak \- Miishu & MASSALA Remix](https://open.spotify.com/track/7CTxQltN03O7HkpxB3y5Cv) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [MASSALA](https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf) | [Gatluak \(Miishu & MASSALA Remix\)](https://open.spotify.com/album/3QCmEYzvUVUOxlMDstvPaB) | 3:30 |
 

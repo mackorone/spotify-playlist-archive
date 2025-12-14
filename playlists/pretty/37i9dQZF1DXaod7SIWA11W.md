@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Aklesso
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,492 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,512 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 74 | [June 13th](https://open.spotify.com/track/3iHuAhP89Z1d50rBTdjyoa) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [June 13th](https://open.spotify.com/album/3itU5IMx1xNr76TPtOq9me) | 2:51 |
 | 75 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 |
 
-Snapshot ID: `AAAAAE3Fb+KfLbEjsS7odbk9mfA+oroH`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

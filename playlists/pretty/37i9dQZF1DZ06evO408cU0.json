@@ -1,13 +1,29 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 62939,
+  "num_followers": 62952,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACwOfhWdf6V4WelILTe932F",
+  "snapshot_id": "aTtbAAAAAAAvskgD/DMclrDdtM7UbB5B",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Nuestro Amor No Queda Nada",
+        "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 215364,
+      "name": "De Nuestro Amor No Queda Nada",
+      "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
+    },
     {
       "added_at": null,
       "album": {
@@ -903,22 +919,6 @@
       "duration_ms": 188478,
       "name": "Con La Tierra Encima",
       "url": "https://open.spotify.com/track/7BSMwCPIQwvAtpVSb8WrHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La \u00daltima Despedida",
-        "url": "https://open.spotify.com/album/6saWvHCp5KIbQFgliUKT2a"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Ausencia Eterna",
-      "url": "https://open.spotify.com/track/432N8047PMajG01RoyXHof"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

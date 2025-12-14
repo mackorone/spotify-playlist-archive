@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Songs about the iconic city\. Welcome to the Big Apple! 📸 Chappell Roan is Lady Liberty
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,543 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,555 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 40 | [Manhattan](https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:19 |
 | 41 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:11 |
 | 42 | [Chelsea Hotel \#2](https://open.spotify.com/track/4krhCfJg0znykZoyjeMXRe) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [New Skin For The Old Ceremony](https://open.spotify.com/album/6LXadMatlf17dDrWzJO9eL) | 3:08 |
-| 43 | [Bleecker Street](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:47 |
-| 44 | [Angel Of Harlem](https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 3:49 |
+| 43 | [Angel Of Harlem](https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 3:49 |
+| 44 | [Bleecker Street](https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:47 |
 | 45 | [Brooklyn In The Summer](https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Brooklyn In The Summer](https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L) | 3:28 |
 | 46 | [girl in new york](https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [girl in new york](https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5) | 3:31 |
 | 47 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 |

@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Hazar Altın
 
-451 songs - 22 hr 39 min
+452 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Bi Şey Eksik](https://open.spotify.com/track/1TBMYatA8sUE0ne6Xm4FRZ) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bi Şey Eksik](https://open.spotify.com/album/7dAOHPimH2lfyxbOUmJ1V2) | 3:11 | 2024-06-27 | 2024-08-02 |
 | [Bi' Farkın Var](https://open.spotify.com/track/7yV4NuGTMAwTJyymp7vdrL) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Bi' Farkın Var](https://open.spotify.com/album/3vgV50xyw8ldVEPJEXbZqA) | 2:32 | 2024-10-10 | 2024-10-18 |
 | [Bil Ki](https://open.spotify.com/track/0QXwA2k5hAD6nWeAzcwjTJ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:18 | 2025-09-25 |  |
+| [Bilsen De](https://open.spotify.com/track/3vfPPNNAOPteFWU9xIwT1R) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bilsen De](https://open.spotify.com/album/0qol5uBtarWXta5lVvDc5h) | 2:40 | 2025-12-11 |  |
 | [Bir Başıma](https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bir Başıma](https://open.spotify.com/album/3eW6cRPWUdzifoxcHAar8g) | 6:13 | 2025-11-20 |  |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 | 2025-07-18 |
 | [Bir Gün Ölürsem](https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Gün Ölürsem](https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075) | 2:36 | 2024-12-19 | 2025-05-26 |
@@ -400,7 +401,7 @@
 | [Yansam](https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yansam](https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo) | 2:16 | 2024-07-18 | 2025-07-18 |
 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 | 2025-07-24 |  |
 | [Yara](https://open.spotify.com/track/15GIJTUYhVUO9zLJ2t8qcg) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP), [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Yaşam Çiçeği](https://open.spotify.com/album/0PEw8EZ84GWGe3YTeeBqbx) | 3:06 | 2024-06-27 | 2025-07-01 |
-| [YARADANDAN DİLE](https://open.spotify.com/track/7ox2tsaOJDE38h25Ol1td4) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si), [Bilici](https://open.spotify.com/artist/5282wFSMKx3QgLufnnaVLB) | [YARADANDAN DİLE](https://open.spotify.com/album/45c2mvHVJCvDAGrD4pE8kw) | 3:25 | 2025-10-23 |  |
+| [YARADANDAN DİLE](https://open.spotify.com/track/7ox2tsaOJDE38h25Ol1td4) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si), [Bilici](https://open.spotify.com/artist/5282wFSMKx3QgLufnnaVLB) | [YARADANDAN DİLE](https://open.spotify.com/album/45c2mvHVJCvDAGrD4pE8kw) | 3:25 | 2025-10-23 | 2025-12-14 |
 | [YARALI](https://open.spotify.com/track/0QT4Z3h5z1U757wy9XRLFT) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YARALI](https://open.spotify.com/album/1ItFcx7JXAQ1jQkNd963xl) | 3:25 | 2025-08-28 | 2025-09-05 |
 | [Yarem](https://open.spotify.com/track/2sBp2g6P6VCG19hzu56IOg) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Yarem](https://open.spotify.com/album/2cVkr3JnyqqACqhK4s0wm4) | 2:11 | 2024-08-22 | 2025-02-18 |
 | [Yarı Deli](https://open.spotify.com/track/4PUcdX1jTT7XB75zwCsXeN) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yarı Deli](https://open.spotify.com/album/5N48APJMjm14PAbNWGphDH) | 2:32 | 2024-07-11 | 2025-08-06 |

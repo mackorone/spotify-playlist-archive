@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,690 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,711 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [No Se Va](https://open.spotify.com/track/1Zh6HllrXT0Khrwk2j3TrZ) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [No Se Va](https://open.spotify.com/album/2slgi6IwbZ0frfvquBmEPv) | 3:35 |
 | 50 | [Bajo De La Piel](https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:48 |
 
-Snapshot ID: `MM+HeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNDdqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

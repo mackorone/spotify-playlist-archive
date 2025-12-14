@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 40941,
+  "num_followers": 40951,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAADu9muY56wnkjbx40eIDzj",
+  "snapshot_id": "aTtbAAAAAADLHZbsAWeQtVQCXnzXHKJ4",
   "tracks": [
     {
       "added_at": null,
@@ -294,15 +294,11 @@
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 232973,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
+      "duration_ms": 237320,
+      "name": "Hasta Que T\u00fa Me Quieras",
+      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
     },
     {
       "added_at": null,
@@ -370,11 +366,15 @@
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 237320,
-      "name": "Hasta Que T\u00fa Me Quieras",
-      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
+      "duration_ms": 232973,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 226253,
+      "name": "Aqu\u00ed Estoy Yo (feat. Andrea Echeverri)",
+      "url": "https://open.spotify.com/track/1B2tNAkR6GKP2PcjZqf7Sq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -771,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 226253,
-      "name": "Aqu\u00ed Estoy Yo (feat. Andrea Echeverri)",
-      "url": "https://open.spotify.com/track/1B2tNAkR6GKP2PcjZqf7Sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -863,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "IRENE ALEJANDRA",
-        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 217096,
-      "name": "Te Am\u00e9 Temprano",
-      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
+      "duration_ms": 212066,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
     },
     {
       "added_at": null,
@@ -899,18 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "IRENE ALEJANDRA",
+        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
       },
       "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 212066,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
+      "duration_ms": 217096,
+      "name": "Te Am\u00e9 Temprano",
+      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
     },
     {
       "added_at": null,

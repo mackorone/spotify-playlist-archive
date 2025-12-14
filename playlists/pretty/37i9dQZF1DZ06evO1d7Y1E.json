@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118212,
+  "num_followers": 118199,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADo6gzx3oixpJIC88lWB7WJ",
+  "snapshot_id": "aTtbAAAAAADAPoo0M+mj7AXoWPSACoPJ",
   "tracks": [
     {
       "added_at": null,
@@ -559,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 143255,
-      "name": "Sonho Dos Cria",
-      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 186947,
       "name": "Ai Calica",
       "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 143255,
+      "name": "Sonho Dos Cria",
+      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
     },
     {
       "added_at": null,

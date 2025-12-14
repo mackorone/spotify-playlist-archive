@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,237 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,263 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 11 | [Mirar Que Te Vas](https://open.spotify.com/track/2VLNxTDw9navilDsX6nNhL) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mirar Que Te Vas](https://open.spotify.com/album/5vGNBLsJMASajWHWu51RaN) | 4:07 |
 | 12 | [Don Ismael](https://open.spotify.com/track/6PNZYtWTOtGgIxuyPnSbab) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/5TZ27t1orP5BcTJ6i0KgiQ) | 2:38 |
 | 13 | [cómo dormiste?](https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 3:03 |
-| 14 | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/album/5jQT5UY5yJTHqYkkEkpuV3) | 2:51 |
-| 15 | [Prometiste](https://open.spotify.com/track/3ItPf9dxL8PGKiwGtTzzSA) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK) | 3:29 |
+| 14 | [Prometiste](https://open.spotify.com/track/3ItPf9dxL8PGKiwGtTzzSA) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK) | 3:29 |
+| 15 | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/track/4s1zaDDDsJtpV975lTE53j) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo elegiste a él \(la renta 2\)](https://open.spotify.com/album/5jQT5UY5yJTHqYkkEkpuV3) | 2:51 |
 | 16 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 |
 | 17 | [La Receta](https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta](https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX) | 2:16 |
 | 18 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [Chavo Félix](https://open.spotify.com/track/5bBpVTkDkvH0FwN7EtPChI) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:54 |
 | 50 | [No Vengas A Buscarme](https://open.spotify.com/track/7JS9AEJmz4Cpriz73u3tmB) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [No Vengas A Buscarme](https://open.spotify.com/album/5horTevZCjGFpqPGXKalaX) | 3:56 |
 
-Snapshot ID: `aToJgAAAAACoykkV7FwMsYcEWq22hxyq`
+Snapshot ID: `aTtbAAAAAAAHcSeRbdgP277qLEZ7jFw2`

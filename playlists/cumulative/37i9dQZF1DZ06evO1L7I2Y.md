@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 56 min
+69 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Fed Tracks \#14: Recado](https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Fed Tracks \#14: Recado](https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ) | 2:41 | 2023-12-30 |  |
 | [Ferve](https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 3:17 | 2023-12-30 |  |
 | [Fruto da Várzea](https://open.spotify.com/track/1VUFeSWY5QpK8BSwDbZ0a2) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:38 | 2025-10-26 |  |
+| [Gostoso esse Pretinho](https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt) | [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Músicas Para Marolar](https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp) | 2:51 | 2025-12-14 |  |
 | [Irreal](https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LUCA](https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Irreal](https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE) | 3:10 | 2023-12-30 |  |
 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 | 2023-12-30 |  |
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2023-12-30 |  |

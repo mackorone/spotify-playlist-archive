@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 75929,
+  "num_followers": 75984,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "GIRL I WANT YOU",
+        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "GIRL I WANT YOU",
+      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Roll the Dice (Konstantin Sibold Remix)",
         "url": "https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 285235,
       "name": "Roll the Dice - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "GIRL I WANT YOU",
-        "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "GIRL I WANT YOU",
-      "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
     },
     {
       "added_at": "2025-12-03 12:15:55",

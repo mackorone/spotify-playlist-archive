@@ -4,7 +4,7 @@
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 30 min
+94 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Caricias de Prepago](https://open.spotify.com/track/0uWw0mXCEq6Doj3lDrtcVD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Caricias de Prepago](https://open.spotify.com/album/3qCsESB0EryTIoxjn6N0AH) | 2:52 | 2024-07-05 | 2024-10-11 |
 | [Carros Empolvados \(En Vivo\)](https://open.spotify.com/track/4VrBl7rOcXvjIWhfeFniUj) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:22 | 2025-07-03 | 2025-07-04 |
 | [Carteles Unidos](https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 3:49 | 2025-08-14 |  |
+| [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 | 2025-12-14 |  |
 | [Champagne O Cerveza](https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Dany El Nise](https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8) | [Champagne O Cerveza](https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX) | 2:28 | 2024-06-09 | 2024-08-12 |
 | [Como Me Haces Falta \- En Vivo](https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mis Caballerizas, Vol\. 1](https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy) | 4:08 | 2024-09-06 | 2025-02-01 |
 | [Como Tu \(feat\. Kenia Rios\)](https://open.spotify.com/track/69WJE0HTS9acF3WOq5q4gF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Kenia Rios](https://open.spotify.com/artist/7cVq3EUeJq8EQpwKNIdU8a) | [Romanticas](https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V) | 3:27 | 2025-10-18 |  |
@@ -45,7 +46,7 @@
 | [El Tamarindo](https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado Vol\. 3](https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO) | 2:22 | 2024-01-29 | 2025-05-28 |
 | [El Tamarindo](https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:29 | 2025-07-18 |  |
 | [El Taquicardio](https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:00 | 2024-01-29 |  |
-| [Eleodoro Elenes](https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Rey del Corrido: Ayer, Hoy y Siempre, Vol\. 1](https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl) | 3:15 | 2025-10-08 |  |
+| [Eleodoro Elenes](https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Rey del Corrido: Ayer, Hoy y Siempre, Vol\. 1](https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl) | 3:15 | 2025-10-08 | 2025-12-14 |
 | [Estilo SL](https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:34 | 2024-01-29 |  |
 | [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 | 2024-04-09 |  |
 | [Fiesta En La Playa](https://open.spotify.com/track/52szO2POvp0hk3VnfWioib) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:56 | 2025-02-16 |  |

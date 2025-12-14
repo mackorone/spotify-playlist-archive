@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Celebrating Christmas with JESCOM's holiday favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,575 likes - 29 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,586 likes - 29 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

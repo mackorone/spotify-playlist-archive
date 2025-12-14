@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,842 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,920 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 16 | [Fever](https://open.spotify.com/track/2CeqxyOZEyiL6pTDYZ9gPH) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Best Of Peggy Lee](https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F) | 3:21 |
 | 17 | [My Funny Valentine](https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Young Lovers](https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur) | 2:30 |
 | 18 | [My Prayer](https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:47 |
-| 19 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 |
-| 20 | [Cry Me A River](https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:30 |
+| 19 | [Cry Me A River](https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:30 |
+| 20 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 |
 | 21 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 |
 | 22 | [That's Amore](https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Capitol Years](https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N) | 3:08 |
 | 23 | [Don't](https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:48 |

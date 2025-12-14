@@ -1,13 +1,29 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 310893,
+  "num_followers": 310991,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACBz+kya2Quq7sQmCb8bhej",
+  "snapshot_id": "aTtbAAAAAADIQF1tLzQt3CJI7ISK2uHu",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma Llanera / Venezuela (Live from Nobel Peace Prize 2025)",
+        "url": "https://open.spotify.com/album/1ZlHS1USF0HZtjBngdLwu1"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 238389,
+      "name": "Alma Llanera / Venezuela - Live from Nobel Peace Prize 2025",
+      "url": "https://open.spotify.com/track/2pvoBWRbXGXQrGgQF6swxn"
+    },
     {
       "added_at": null,
       "album": {

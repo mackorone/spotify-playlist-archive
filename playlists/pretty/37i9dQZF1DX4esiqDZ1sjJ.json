@@ -1,6 +1,6 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 386308,
+  "num_followers": 386312,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "Hood Hop",
         "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
       },
@@ -1103,6 +1087,26 @@
       "duration_ms": 243226,
       "name": "Tipsy - Club Mix",
       "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "Blackout!",
+        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Da Rockwilder",
+      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Blackout!",
-        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
       "artists": [
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 136093,
-      "name": "Da Rockwilder",
-      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2024-07-15 15:51:37",

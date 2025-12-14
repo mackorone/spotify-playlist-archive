@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,882 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,881 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 27 | [More Of The Same](https://open.spotify.com/track/0ce4nqi9EevtwI1keTBa07) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [More Of The Same](https://open.spotify.com/album/1EdrIK70b93chA3F2BKwmN) | 2:09 |
 | 28 | [NYC TO AMSTERDAM](https://open.spotify.com/track/4FaMyVHye64h67bfpECLmC) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [NYC TO AMSTERDAM](https://open.spotify.com/album/3q5lPnPktVfkS4CUzzexUQ) | 3:24 |
 | 29 | [I Feel The Air](https://open.spotify.com/track/35QlnizIdrzMuz0xhZfl6k) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh) | [I Feel The Air](https://open.spotify.com/album/4lIdDDtK5brGCGJNvDQsAa) | 2:50 |
-| 30 | [Back & Forth \- Tony Romera 2025 Rework](https://open.spotify.com/track/19mycRkZJvbHjquUrFdkfz) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Mr V](https://open.spotify.com/artist/42gpwkOlK8m00RBmB54sQD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Back & Forth \(Tony Romera 2025 Rework\)](https://open.spotify.com/album/4s0BZ73arwU8q0weGRLQ0S) | 3:12 |
+| 30 | [Back & Forth \- Tony Romera 2025 Rework](https://open.spotify.com/track/19mycRkZJvbHjquUrFdkfz) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Back & Forth \(Tony Romera 2025 Rework\)](https://open.spotify.com/album/4s0BZ73arwU8q0weGRLQ0S) | 3:12 |
 | 31 | [Belong to Me](https://open.spotify.com/track/5PSepy5guowlWb1z0BQb0c) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [Belong to Me](https://open.spotify.com/album/762MVFLrTl2trqil8OnIoP) | 2:35 |
 | 32 | [You & I \(feat\. Nova Tropics\)](https://open.spotify.com/track/0Jy4WX1rwTdXVrFzTgorCT) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [You & I \(feat\. Nova Tropics\)](https://open.spotify.com/album/6tzI7zDhMUN5lPRYhlTkLK) | 2:54 |
 | 33 | [Howweroll](https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ) | [Howweroll](https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz) | 2:35 |

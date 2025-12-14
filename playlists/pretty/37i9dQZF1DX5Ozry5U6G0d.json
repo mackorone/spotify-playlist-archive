@@ -1,6 +1,6 @@
 {
   "description": "That summer sound.",
-  "num_followers": 2090447,
+  "num_followers": 2090246,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -683,6 +683,26 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
         "name": "Ride Or Die, Pt. 2",
         "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2025-07-07 03:03:28",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-07-07 03:03:28",
       "album": {
-        "name": "The Best of Big Mountain",
-        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
-      },
-      "artists": [
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
-    },
-    {
-      "added_at": "2025-07-07 03:03:28",
-      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 246573,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
+    },
+    {
+      "added_at": "2025-07-07 03:03:28",
+      "album": {
+        "name": "The Best of Big Mountain",
+        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
+      },
+      "artists": [
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
     },
     {
       "added_at": "2025-07-07 03:03:28",

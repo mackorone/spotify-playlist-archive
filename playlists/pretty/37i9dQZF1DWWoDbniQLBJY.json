@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1829347,
+  "num_followers": 1829123,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 400826,
+      "name": "No Ha Parado de Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado de Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 344666,
       "name": "Vivir Sin Aire - Unplugged",
       "url": "https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -743,6 +743,30 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
+        "name": "DE SASTRE",
+        "url": "https://open.spotify.com/album/4QWe6IxRC0jkG03pNdYmAp"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 250259,
+      "name": "DE SASTRE",
+      "url": "https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
-        "name": "DE SASTRE",
-        "url": "https://open.spotify.com/album/4QWe6IxRC0jkG03pNdYmAp"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 250259,
-      "name": "DE SASTRE",
-      "url": "https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "SUBEME LA RADIO",
-        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "SUBEME LA RADIO",
-      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
         "name": "Shakira MTV Unplugged",
         "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 298773,
       "name": "Estoy Aqu\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1C4b2NM9ViU7PbCIA2PLVT"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
+        "name": "SUBEME LA RADIO",
+        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "SUBEME LA RADIO",
+      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
         "name": "Te acuerdas?",
         "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 183265,
       "name": "Te acuerdas?",
       "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 179501,
       "name": "Navegando",
       "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "Am\u00e9 (demo original)",
-        "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
-      },
-      "artists": [
-        {
-          "name": "Gera Demara",
-          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
-        }
-      ],
-      "duration_ms": 205197,
-      "name": "Am\u00e9 - demo original",
-      "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
         "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+        "name": "Am\u00e9 (demo original)",
+        "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
         }
       ],
-      "duration_ms": 152533,
-      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
+      "duration_ms": 205197,
+      "name": "Am\u00e9 - demo original",
+      "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -1271,6 +1255,22 @@
       "duration_ms": 295000,
       "name": "Enredadera",
       "url": "https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "A M\u00ed y a Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "A M\u00ed y a Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
         "name": "No Valgo Pa' Ciudad",
         "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 226844,
       "name": "Cuanto antes (feat. Lali)",
       "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
+        "name": "A M\u00ed y a Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "A M\u00ed y a Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "Los Cuatro Actos Ac\u00fasticos",
-        "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 260709,
-      "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 281640,
       "name": "No Lo So\u00f1\u00e9 - Version Acustico",
       "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
+        "name": "Los Cuatro Actos Ac\u00fasticos",
+        "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 260709,
+      "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
     },
     {
       "added_at": "2025-12-05 05:00:18",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-12-05 05:00:18",
       "album": {
-        "name": "Ojos Chiquitos",
-        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
-      },
-      "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        }
-      ],
-      "duration_ms": 186966,
-      "name": "Ojos Chiquitos",
-      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
-    },
-    {
-      "added_at": "2025-12-05 05:00:18",
-      "album": {
         "name": "enero (versi\u00f3n ac\u00fastica)",
         "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 206143,
       "name": "enero - versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
+    },
+    {
+      "added_at": "2025-12-05 05:00:18",
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        }
+      ],
+      "duration_ms": 186966,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
     },
     {
       "added_at": "2025-12-05 05:00:18",

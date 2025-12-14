@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,558 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,554 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 38 | [Nah! \- Red Version](https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
 | 39 | [Black Eyes, Blue Tears](https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:39 |
 | 40 | [Forever And Ever, Amen](https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Twenty Twenty](https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb) | 3:20 |
-| 41 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
+| 41 | [Best Friend](https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
 | 42 | [Thank You Baby! \(For Makin' Someday Come So Soon\) \- Red Version](https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:00 |
 | 43 | [Whatever You Do! Don't!](https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:48 |
-| 44 | [Best Friend](https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
+| 44 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
 | 45 | [Not Just A Girl](https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Not Just A Girl \(The Highlights\)](https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS) | 3:11 |
 | 46 | [In My Car \(I'll Be The Driver\) \- Red Version](https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:16 |
 | 47 | [I Ain't No Quitter \- Greatest Hits Version](https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Rock This Country](https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9) | 3:30 |
 | 48 | [If You Wanna Touch Her, Ask!](https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:03 |
-| 49 | [I Ain't Goin' Down](https://open.spotify.com/track/3wYYeT35QwPaJ207ao4UTh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:44 |
+| 49 | [Last Day of Summer](https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Last Day of Summer](https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo) | 3:10 |
 | 50 | [She's Not Just A Pretty Face \- Red Version](https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:49 |
 
-Snapshot ID: `aToJgAAAAAAV6q6fDnT7MfbhXcUa3Cby`
+Snapshot ID: `aTtbAAAAAABCCMuCTFAzKKkfkB+d3klL`

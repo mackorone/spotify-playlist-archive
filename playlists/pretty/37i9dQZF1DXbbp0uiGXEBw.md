@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: VSTRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,561 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,571 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [USO](https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:29 |
 | 50 | [Always U](https://open.spotify.com/track/4zU94woKSgQsYLFT2m5AsG) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [SGN\-TPE](https://open.spotify.com/album/4ZiPBd4PpdNsjQdJrXf8Uz) | 2:55 |
 
-Snapshot ID: `AAAAAC0h61ktDDp5429b68Q0OA60J0vn`
+Snapshot ID: `AAAAAEQIPYjhfayyGGxMAzbgnF4eBvP0`

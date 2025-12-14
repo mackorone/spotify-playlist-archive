@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover:  Aerosmith &amp; YUNGBLUD
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,666 likes - 100 songs - 6 hr 8 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,664 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Hannah Jadagu\. The essential tracks, all in one playlist.
 
-23 songs - 1 hr 16 min
+24 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,13 +19,14 @@
 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 | 2025-11-15 |  |
 | [More](https://open.spotify.com/track/2E6NaE4gzmWhdMbmjlLvQ7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:21 | 2025-11-15 |  |
 | [My Bones](https://open.spotify.com/track/10PZkDsZgIziek73hpqrsT) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q) | 2:18 | 2025-11-15 |  |
-| [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 | 2025-11-15 |  |
+| [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 | 2025-11-15 | 2025-12-14 |
+| [My Love](https://open.spotify.com/track/7lsaIknmHdm6MGA8AhJZcR) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 2:44 | 2025-12-14 |  |
 | [Normal Today](https://open.spotify.com/track/2VXzlbmIWTVQsKyQFnrJpT) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 3:13 | 2025-11-20 |  |
 | [Normal Today](https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Normal Today](https://open.spotify.com/album/26q3rNHs0qM9khbGaiWTcd) | 3:13 | 2025-11-15 | 2025-11-20 |
 | [Pollen](https://open.spotify.com/track/3nI7nsdOYItMJzNCqKmTkN) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Pollen](https://open.spotify.com/album/2ixshzDxGer6B0TumcUWTJ) | 3:44 | 2025-11-15 |  |
 | [Say It Now](https://open.spotify.com/track/0Nr1KCfTimYBjsqgL6dLqy) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:40 | 2025-11-15 |  |
 | [Sundown](https://open.spotify.com/track/0lTQrcDZtbH0GbsUN3Nvl0) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q) | 3:36 | 2025-11-15 |  |
-| [Tell Me That !!!!](https://open.spotify.com/track/41iUHMU2JSBuZmT8veZ99O) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 2:52 | 2025-11-15 |  |
+| [Tell Me That !!!!](https://open.spotify.com/track/41iUHMU2JSBuZmT8veZ99O) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Describe](https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI) | 2:52 | 2025-11-15 | 2025-12-14 |
 | [Think Too Much](https://open.spotify.com/track/0SUY74kKiijXCB05sPT9Od) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/2Jxjy37xVzXTJVgIDriV4q) | 2:50 | 2025-11-15 |  |
 | [Unending](https://open.spotify.com/track/2zSNMDuYTuFWvbTUkdZs6r) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Unending](https://open.spotify.com/album/3OqBICekeD89OwRyWZmiC6) | 3:53 | 2025-11-15 |  |
 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2025-11-15 |  |

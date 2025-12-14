@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1048041,
+  "num_followers": 1047960,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
         "name": "Won\u2019t Be Possible",
         "url": "https://open.spotify.com/album/6AsH075qDhDhjb7S56zY7p"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 136615,
       "name": "Won\u2019t Be Possible",
       "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
-      "added_at": "2025-11-10 13:27:55",
-      "album": {
-        "name": "Die Happy",
-        "url": "https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229650,
-      "name": "Die Happy",
-      "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
-    },
-    {
       "added_at": "2025-08-14 22:00:28",
       "album": {
         "name": "BITE ME",
@@ -843,6 +827,22 @@
       "duration_ms": 172320,
       "name": "Kiss It Kiss It",
       "url": "https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC"
+    },
+    {
+      "added_at": "2025-11-10 13:27:55",
+      "album": {
+        "name": "Die Happy",
+        "url": "https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229650,
+      "name": "Die Happy",
+      "url": "https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 180117,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 177118,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Day & Night",
         "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 152813,
       "name": "Pookie",
       "url": "https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 177118,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Pretty Ugly",
-        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 158696,
-      "name": "Pretty Ugly",
-      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Momma Song",
         "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 197160,
       "name": "Momma Song",
       "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 158696,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Suburbs",
-        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Suburbs",
-      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Lovesick Lullaby",
         "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 175134,
       "name": "Lovesick Lullaby",
       "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-08-14 22:00:28",

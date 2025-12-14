@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 799338,
+  "num_followers": 799429,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAC1kgQU/39Ln9ugCo02KPck",
+  "snapshot_id": "aTtbAAAAAADxP0a/+5irs4yS3QmfP4Ij",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 205080,
       "name": "Love The Hell Out Of You",
       "url": "https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Survive - EP",
-        "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 174688,
-      "name": "The Day That I Die",
-      "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
     },
     {
       "added_at": null,
@@ -139,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Survive - EP",
+        "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 174688,
+      "name": "The Day That I Die",
+      "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Almost",
         "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
       },
@@ -151,22 +151,6 @@
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
-        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 204430,
-      "name": "A Cure For Minds Unwell",
-      "url": "https://open.spotify.com/track/4PwTyisf9W7zfhAAflOKag"
     },
     {
       "added_at": null,
@@ -203,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 204430,
+      "name": "A Cure For Minds Unwell",
+      "url": "https://open.spotify.com/track/4PwTyisf9W7zfhAAflOKag"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 210213,
       "name": "Leaving My Love Behind",
       "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
-        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 214438,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
     },
     {
       "added_at": null,
@@ -267,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 214438,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 218900,
       "name": "Before You Go - Guitar Acoustic",
       "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 232837,
-      "name": "when the party's over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
       "duration_ms": 201880,
       "name": "Heavenly Kind Of State Of Mind",
       "url": "https://open.spotify.com/track/7lvfJHcumTCV5Yjt4Tl1I1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 232837,
+      "name": "when the party's over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 179907,
-      "name": "One",
-      "url": "https://open.spotify.com/track/5C1TucCRf4Vjjree1OItyv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 220120,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 179907,
+      "name": "One",
+      "url": "https://open.spotify.com/track/5C1TucCRf4Vjjree1OItyv"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everytime (BBC Radio 1 Live Lounge)",
-        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 181583,
-      "name": "Everytime - BBC Radio 1 Live Lounge",
-      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken By Desire To Be Heavenly Sent",
         "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 230533,
       "name": "Haven't You Ever Been In Love Before?",
       "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everytime (BBC Radio 1 Live Lounge)",
+        "url": "https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 181583,
+      "name": "Everytime - BBC Radio 1 Live Lounge",
+      "url": "https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Something Borrowed - Demo",
-      "url": "https://open.spotify.com/track/6UQGNRfns3nW2Nryl4aEGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/0PDuUFWUxyM329z0JnT8GT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 229282,
       "name": "Tough",
       "url": "https://open.spotify.com/track/3XXGqZX50zbGqSOup74UH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Something Borrowed - Demo",
+      "url": "https://open.spotify.com/track/6UQGNRfns3nW2Nryl4aEGh"
     },
     {
       "added_at": null,

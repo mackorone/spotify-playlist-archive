@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,521 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,534 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 43 | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 |
 | 44 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
 | 45 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
-| 46 | [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 |
-| 47 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
+| 46 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
+| 47 | [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 |
 | 48 | [Very Very Rare](https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1) | 3:16 |
 | 49 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
 | 50 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 |

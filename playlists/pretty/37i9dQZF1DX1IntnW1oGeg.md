@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IntnW1oGeg.md) - [plain]
 
 > Enjoy exclusive live performance videos from K\-Pop artists produced by Spotify! \(스포티파이가 프로듀싱한 케이팝 아티스트들의 특별한 라이브 퍼포먼스 비디오를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 17 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 17 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

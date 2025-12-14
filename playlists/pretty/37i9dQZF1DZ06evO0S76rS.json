@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 160542,
+  "num_followers": 160565,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADnuRcxTBnEbcj4gTRIVvIg",
+  "snapshot_id": "aTtbAAAAAAD6p15henVNkllwuK44GQ8I",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 283960,
-      "name": "Como Podr\u00e9 Disimular",
-      "url": "https://open.spotify.com/track/09oDhEqcxRtab69LIrNPEx"
+      "duration_ms": 326410,
+      "name": "Un D\u00eda Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tocando el Cielo Con las Manos",
-        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 326410,
-      "name": "Un D\u00eda Despu\u00e9s",
-      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
+      "duration_ms": 283960,
+      "name": "Como Podr\u00e9 Disimular",
+      "url": "https://open.spotify.com/track/09oDhEqcxRtab69LIrNPEx"
     },
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
       },
       "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
         {
           "name": "Grupo Niche",
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 262641,
-      "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+      "duration_ms": 315600,
+      "name": "Mujer de Novela",
+      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
     },
     {
       "added_at": null,
@@ -551,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1ales de Humo",
-        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Mujer de Novela",
-      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 356640,
       "name": "Solo un Cari\u00f1o",
       "url": "https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 335986,
-      "name": "Mi Hijo y Yo",
-      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tapando el Hueco",
         "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 305506,
       "name": "Mi Valle del Cauca",
       "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 335986,
+      "name": "Mi Hijo y Yo",
+      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tocando el Cielo Con las Manos",
-        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Tocando el Cielo Con las Manos",
-      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tapando el Hueco",
         "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 291893,
       "name": "El Amor Vendr\u00e1",
       "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 230013,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": null,

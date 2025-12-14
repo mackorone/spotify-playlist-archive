@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 99 | [How?](https://open.spotify.com/track/14zjPpctBiO8up0jD4vSOu) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [How?](https://open.spotify.com/album/6Ej0Fd2aH4lVXRJBicYlSn) | 2:47 |
 | 100 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
 
-Snapshot ID: `AAAAAMIR0eIGCdbuSxexlqNX1F3rEV1Z`
+Snapshot ID: `AAAAAIS6LJi8ih2i3gcWkoQC6fUiokX3`

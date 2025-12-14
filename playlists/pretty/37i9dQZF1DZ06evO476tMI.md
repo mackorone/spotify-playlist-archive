@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,854 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,936 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 19 | [All The Man That I Need](https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:11 |
 | 20 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
 | 21 | [I Will Always Love You \- Film Version](https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wish You Love: More From The Bodyguard](https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV) | 4:34 |
-| 22 | [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 3:24 |
-| 23 | [I Look to You](https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 4:25 |
+| 22 | [I Look to You](https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 4:25 |
+| 23 | [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 3:24 |
 | 24 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
 | 25 | [Heartbreak Hotel \(feat\. Faith Evans & Kelly Price\)](https://open.spotify.com/track/4J9u7UsXH7F6sFI32KnYuP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:41 |
 | 26 | [Try It On My Own](https://open.spotify.com/track/2IpeftovkFwpkWBYuS0qCz) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:40 |
 | 27 | [You Give Good Love](https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:36 |
 | 28 | [So Emotional](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 |
-| 29 | [Step by Step](https://open.spotify.com/track/5dEBcymDDG9TUjJnAouOPp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:12 |
+| 29 | [I Believe In You And Me \- Film Version](https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:01 |
 | 30 | [Miracle](https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 5:41 |
 | 31 | [Hold Me \(with Teddy Pendergrass\)](https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 6:02 |
 | 32 | [Million Dollar Bill](https://open.spotify.com/track/78Liq9m8u6xjuamJIeznTd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:23 |
-| 33 | [I Believe In You And Me \- Film Version](https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:01 |
+| 33 | [Step by Step](https://open.spotify.com/track/5dEBcymDDG9TUjJnAouOPp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:12 |
 | 34 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
 | 35 | [Queen of the Night \- Radio Edit](https://open.spotify.com/track/7lARcL3Gu0wKcPcQ3t9xiF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 3:08 |
 | 36 | [I Didn't Know My Own Strength](https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 49 | [I Believe In You And Me](https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Dream Duets](https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ) | 3:54 |
 | 50 | [If You Say My Eyes Are Beautiful \(with Jermaine Jackson\)](https://open.spotify.com/track/0xUUGElClB0LXZgdmavavN) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Whitney The Greatest Hits](https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP) | 4:20 |
 
-Snapshot ID: `aToJgAAAAADAsv5btnj6h2xZ1Sw6G3vK`
+Snapshot ID: `aTtbAAAAAADtGJHeSJCNun7RANHULrF7`

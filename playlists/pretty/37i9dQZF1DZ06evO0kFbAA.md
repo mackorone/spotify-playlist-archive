@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,821 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,830 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 20 | [Melinda](https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 5:04 |
 | 21 | [O Grande Amor](https://open.spotify.com/track/5GjCLHeNC77C0IbTkOU3tI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto Quintet](https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:27 |
 | 22 | [It Never Entered My Mind](https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Cool Velvet: Stan Getz And Strings](https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I) | 4:06 |
-| 23 | [If Ever I Would Leave You](https://open.spotify.com/track/5oTTjuVsncAETARz6yDmiJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz For Lovers](https://open.spotify.com/album/4gfH6Bco0I18IEHqXClxdG) | 2:13 |
-| 24 | [Samba Triste](https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 4:43 |
+| 23 | [Samba Triste](https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 4:43 |
+| 24 | [If Ever I Would Leave You](https://open.spotify.com/track/5oTTjuVsncAETARz6yDmiJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz For Lovers](https://open.spotify.com/album/4gfH6Bco0I18IEHqXClxdG) | 2:13 |
 | 25 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 |
 | 26 | [Insensatez](https://open.spotify.com/track/2js8wl7HG1i8jZNAyqFu8g) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:21 |
-| 27 | ['Tis Autumn](https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:14 |
-| 28 | [Samba De Uma Nota So](https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:09 |
+| 27 | [Samba De Uma Nota So](https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:09 |
+| 28 | ['Tis Autumn](https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:14 |
 | 29 | [Ballad Medley](https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 10:07 |
 | 30 | [Serenade In Blue](https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:53 |
 | 31 | [Samba Da Minha Terra \- Live At Carnegie Hall/1964](https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 3:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 46 | [I Didn't Know What Time It Was](https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf) | 9:02 |
 | 47 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 |
 | 48 | [Manha De Carnaval](https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY) | 5:49 |
-| 49 | [Summertime](https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Jazz \(Expanded Edition\)](https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y) | 6:08 |
+| 49 | [Stars Fell On Alabama](https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:22 |
 | 50 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
 
-Snapshot ID: `aToJgAAAAAAY8XlClcqHL1O4Wf9+cTix`
+Snapshot ID: `aTtbAAAAAABY0nyfxvdVIRM1nDukOihP`

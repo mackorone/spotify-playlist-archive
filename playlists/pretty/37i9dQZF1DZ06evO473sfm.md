@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,069 likes - 48 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,419 likes - 48 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 34 | [SOS](https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:49 |
 | 35 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |
 | 36 | [LE VA DOLER](https://open.spotify.com/track/04S5b4JL0qm7GAiRQLWzvc) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:33 |
-| 37 | [tu favorito](https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:25 |
-| 38 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 2:43 |
+| 37 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 2:43 |
+| 38 | [tu favorito](https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:25 |
 | 39 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 |
 | 40 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
-| 41 | [se me sale](https://open.spotify.com/track/0ot4EnQroudoSofYXOfgsU) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:26 |
-| 42 | [YA PEDO QUIÉN SABE](https://open.spotify.com/track/2psxw9j1vNkgIe3BcNOXVc) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 3:11 |
+| 41 | [YA PEDO QUIÉN SABE](https://open.spotify.com/track/2psxw9j1vNkgIe3BcNOXVc) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 3:11 |
+| 42 | [se me sale](https://open.spotify.com/track/0ot4EnQroudoSofYXOfgsU) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:26 |
 | 43 | [Apodo](https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Apodo](https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr) | 2:53 |
 | 44 | [Me Retiro](https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me Retiro](https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj) | 4:08 |
-| 45 | [Lalala](https://open.spotify.com/track/18xsbKZzR4MDG39Hv8bcNO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:10 |
-| 46 | [QUÉDATE BEBÉ](https://open.spotify.com/track/6VMpSP88kS8Rxc68BAgwAd) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 3:13 |
+| 45 | [QUÉDATE BEBÉ](https://open.spotify.com/track/6VMpSP88kS8Rxc68BAgwAd) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 3:13 |
+| 46 | [Lalala](https://open.spotify.com/track/18xsbKZzR4MDG39Hv8bcNO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:10 |
 | 47 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
 | 48 | [0 SENTIMIENTOS](https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:37 |
 
-Snapshot ID: `aToJgAAAAADoD2c1tFpFC1vZfgvoCukT`
+Snapshot ID: `aTtbAAAAAACFJKUxhx7g41GVvYygPW9s`

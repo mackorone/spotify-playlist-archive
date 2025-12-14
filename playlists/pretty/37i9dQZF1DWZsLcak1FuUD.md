@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,225 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,231 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 19 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
 | 20 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
 | 21 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
-| 22 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
-| 23 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
+| 22 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
+| 23 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
 | 24 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
 | 25 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
 | 26 | [Alguien Más en Quien Confiar \- '74 Single Version](https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 4:02 |

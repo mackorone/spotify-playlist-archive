@@ -1,12 +1,12 @@
 {
   "description": "This is Pink Floyd. The essential tracks, all in one playlist.",
-  "num_followers": 1548350,
+  "num_followers": 1548571,
   "original_name": "This Is Pink Floyd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABXTkNHgGMbyJQSCfF2FmpN",
+  "snapshot_id": "aTtbAAAAAABG7128yo8cScmyfvNo7RLr",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 1525826,
       "name": "Shine On You Crazy Diamond - Pts. 1-9, New Stereo Mix",
       "url": "https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish You Were Here 50",
+        "url": "https://open.spotify.com/album/3jlnaVYWc3QEqwCtdYCDS7"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 361253,
+      "name": "Wish You Were Here - Pedal Steel Instrumental Mix",
+      "url": "https://open.spotify.com/track/0yZEOlakqvTifw6XuAit6x"
     },
     {
       "added_at": null,

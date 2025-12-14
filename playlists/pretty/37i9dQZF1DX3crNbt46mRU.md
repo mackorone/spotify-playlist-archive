@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including GIMS and R2,  OneRepublic, Eileen Alister and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,362 likes - 74 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,365 likes - 74 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-863 songs - 2 day 13 hr 9 min
+864 songs - 2 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Avocado Dance](https://open.spotify.com/track/4iv05a9SwSKOOARqw5DMSa) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3) | [Time Grove Roots](https://open.spotify.com/album/59umCDU7qBz8Iyvtb58J6V) | 5:29 | 2021-10-06 | 2022-07-02 |
 | [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 | 2021-10-06 | 2024-04-19 |
 | [Ayonha](https://open.spotify.com/track/01NKQM0t8lyzOo4YZOZLYw) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Tape 19.11 / Ayonha](https://open.spotify.com/album/2ndCkboIEM4g6Z2n2IjLd1) | 3:41 | 2021-10-06 | 2022-11-20 |
+| [Azaman Amoutay](https://open.spotify.com/track/1KS7VXi6iCxHGnPhsV0HNC) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Azaman Amoutay](https://open.spotify.com/album/7CaWgV1I4kyyF8aytiY0lN) | 3:41 | 2025-12-12 |  |
 | [Aziz w Adda \- Habibi Funk 022](https://open.spotify.com/track/0k1OhYyvdbq8uDuOSqkfsL) | [Ahmed Ben Ali](https://open.spotify.com/artist/6Gej8kFQeKbjY7dS9HXu1w) | [Aziz w Adda \(Habibi Funk 022\)](https://open.spotify.com/album/4dTLaV7XSfwKGcbmAXm2ex) | 2:29 | 2023-05-24 | 2023-07-28 |
 | [Azul Oro](https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:26 | 2023-06-23 |  |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-17 | 2022-07-29 |
@@ -83,7 +84,7 @@
 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/1G4aMGkzJV5yqF3XRHNqWL) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/4S0GIZfnkA1kK07ACLPyZJ) | 3:10 | 2021-10-06 | 2022-11-20 |
 | [Baile Infinito](https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Visceras](https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j) | 1:41 | 2022-09-15 | 2025-02-28 |
 | [Baixada](https://open.spotify.com/track/4zzMUiu5slOh0lI7QL2yNd) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Baixada](https://open.spotify.com/album/76AlDMHVPDI9ao1r5lppHU) | 2:21 | 2022-01-07 | 2022-07-29 |
-| [Bakar](https://open.spotify.com/track/0fj6jEifZnrIGWclN346Qh) | [Nusantara Beat](https://open.spotify.com/artist/6iQZl7RmTVznyFCrML933x) | [Nusantara Beat](https://open.spotify.com/album/2sbFG9DBvAaju0TcE3AHw9) | 5:33 | 2025-12-12 |  |
+| [Bakar](https://open.spotify.com/track/0fj6jEifZnrIGWclN346Qh) | [Nusantara Beat](https://open.spotify.com/artist/6iQZl7RmTVznyFCrML933x) | [Nusantara Beat](https://open.spotify.com/album/2sbFG9DBvAaju0TcE3AHw9) | 5:33 | 2025-12-12 | 2025-12-14 |
 | [Bar Konon Mousso \(Musicien C'est Pas Quelqu'un\) \[Ben Gomori N'est Pas Musicien Edit\]](https://open.spotify.com/track/01WjUcodSI8u1srax6gr6y) | [Amadou Balaké](https://open.spotify.com/artist/1R3wyTMKl4aOXW9cbiFnME), [Ben Gomori](https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw) | [In Conclusion \(Ben Gomori Edits\)](https://open.spotify.com/album/6gw4pWgDD2gF2b5R80MYcD) | 8:01 | 2022-03-29 | 2022-04-21 |
 | [Barry White Vs\. Micheal Myers](https://open.spotify.com/track/6iGwa4Zfa7YGJ4jhga60gj) | [Chola Orange](https://open.spotify.com/artist/7ovA6Ves5dfylDwv6883wD) | [Chola Orange](https://open.spotify.com/album/3nnP9XAAzjXpkrqoFu07kA) | 2:51 | 2021-10-06 | 2022-04-21 |
 | [Bassa Bassa](https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs) | [Bassa Bassa](https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj) | 5:01 | 2022-03-29 |  |

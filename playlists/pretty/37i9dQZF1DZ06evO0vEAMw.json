@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 99319,
+  "num_followers": 99377,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADPPyE9ETm8qTzrkx1cNoxg",
+  "snapshot_id": "aTtbAAAAAABW6vX8WlmMAxNwjB3Q4LNf",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,42 @@
       "duration_ms": 171026,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/4UUh6WPTCy0l3BY6pvMOcL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
+      },
+      "artists": [
+        {
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        }
+      ],
+      "duration_ms": 333451,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
     },
     {
       "added_at": null,
@@ -275,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wallah Wallah",
-        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 142830,
-      "name": "Wallah Wallah",
-      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Galorizzy",
         "url": "https://open.spotify.com/album/7K7xjE4WLt5qg2rbvBQQLq"
       },
@@ -335,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wallah Wallah",
+        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 142830,
+      "name": "Wallah Wallah",
+      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -347,26 +383,6 @@
       "duration_ms": 153684,
       "name": "AWAY",
       "url": "https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 163826,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
     },
     {
       "added_at": null,
@@ -395,6 +411,26 @@
       "duration_ms": 192262,
       "name": "Ogechi (feat. Davido) - Remix",
       "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
     },
     {
       "added_at": null,
@@ -483,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
       },
       "artists": [
         {
@@ -492,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
     },
     {
       "added_at": null,
@@ -515,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
       "artists": [
         {
@@ -524,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/4bsuDNPQkP4mQWzoXglF52"
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
     },
     {
       "added_at": null,
@@ -767,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "La La (feat. Ckay)",
+      "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para",
         "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
       },
@@ -787,26 +843,6 @@
       "duration_ms": 146125,
       "name": "Para",
       "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "La La (feat. Ckay)",
-      "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
     },
     {
       "added_at": null,
@@ -987,26 +1023,6 @@
       "duration_ms": 206069,
       "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
       "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Bad Songz",
-        "url": "https://open.spotify.com/album/2hVFdC28JCrwg4bhnZ9WWo"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 208427,
-      "name": "One Ticket",
-      "url": "https://open.spotify.com/track/6SGT6Cd6Z5xF9GAOnf0XdZ"
     }
   ],
   "unique_name": "This Is Davido",

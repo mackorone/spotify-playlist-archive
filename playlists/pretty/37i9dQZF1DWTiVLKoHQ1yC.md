@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,923 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,987 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 56 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |
 | 57 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
 | 58 | [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 |
-| 59 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 |
-| 60 | [Wander](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Wander](https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM) | 3:30 |
+| 59 | [Wander](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Wander](https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM) | 3:30 |
+| 60 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 |
 
 Snapshot ID: `AAAAAPy1mx0L5ZMMlnU1tEtc64GYVqzf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Jenni Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,951 likes - 239 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,954 likes - 239 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,4 +248,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 238 | [El P8](https://open.spotify.com/track/244GwFv9Urc37Z7pyctpee) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8) | [QSFCE](https://open.spotify.com/album/0x69KZkG9mMgnQXyV4lTDk) | 3:11 |
 | 239 | [Porte Freson](https://open.spotify.com/track/1KeIzIrhHHBK86fRfK7OX1) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8) | [QSFCE](https://open.spotify.com/album/0x69KZkG9mMgnQXyV4lTDk) | 3:00 |
 
-Snapshot ID: `AAAAABs7yq2SOJKDFngMN4gQMzT+uk1D`
+Snapshot ID: `AAAAAJJMTWUp30ZuKBes3/KB2vLh/FEW`

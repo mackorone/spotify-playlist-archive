@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. José Madero en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,659 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,691 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [Laberinto](https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Laberinto](https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo) | 4:31 |
 | 100 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Quiero Dormir Cansado \(MTV Unplugged\)](https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr) | 4:50 |
 
-Snapshot ID: `AAAAAPk08BACDN9wUfpb5/vQjtsHyFWg`
+Snapshot ID: `AAAAAKEpu8tsJUeSXF7Pscy/NaS6c+Qr`

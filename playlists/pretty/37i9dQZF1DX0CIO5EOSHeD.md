@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,915 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,904 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 30 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 31 | [Fade](https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Fade](https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT) | 3:23 |
 | 32 | [Dreams Tonite](https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/5TGZvGolR6PoM1zYYyZNzX) | 3:16 |
-| 33 | [so be it in my dreams](https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [so be it in my dreams](https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L) | 2:26 |
-| 34 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
+| 33 | [lavender blood](https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Luxury Beverage](https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu) | 2:38 |
+| 34 | [so be it in my dreams](https://open.spotify.com/track/6vmRUL0ufQ7xRZoAt5bzzF) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [so be it in my dreams](https://open.spotify.com/album/6XLbi7HuzecyftkhuHVA0L) | 2:26 |
 | 35 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 |
 | 36 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 |
 | 37 | [Little Things](https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:29 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 39 | [Spiral Stairs](https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Spiral Stairs](https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO) | 2:26 |
 | 40 | [Silence Kid](https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 3:00 |
 | 41 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
-| 42 | [Paces](https://open.spotify.com/track/6RiF8SC99TQlhS1HkdM7sF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:44 |
-| 43 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
+| 42 | [Pumpkin](https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Scream from New York, NY](https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe) | 4:17 |
+| 43 | [Paces](https://open.spotify.com/track/6RiF8SC99TQlhS1HkdM7sF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 2:44 |
 | 44 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 |
 | 45 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
 | 46 | [My Heart Goes Bum Bum Bum](https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [I Clung to You Hoping We'd Both Drown](https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah) | 2:51 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 63 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 |
 | 64 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 |
 | 65 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
-| 66 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
-| 67 | [WHY DID YOU GO?](https://open.spotify.com/track/1UlbHKccQOxzFx7OwxY8xI) | [Kellan Christopher Cragg](https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq) | [WRONG BALLOON](https://open.spotify.com/album/15x3ySOZ2wxq5WsnlqPUZn) | 2:26 |
+| 66 | [WHY DID YOU GO?](https://open.spotify.com/track/1UlbHKccQOxzFx7OwxY8xI) | [Kellan Christopher Cragg](https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq) | [WRONG BALLOON](https://open.spotify.com/album/15x3ySOZ2wxq5WsnlqPUZn) | 2:26 |
+| 67 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 68 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 |
 | 69 | [mr\. rager](https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [mr\. rager](https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP) | 3:40 |
 | 70 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 96 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
 | 97 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
 | 98 | [August 19](https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [August 19](https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP) | 2:35 |
-| 99 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 |
-| 100 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
+| 99 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
+| 100 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 |
 
 Snapshot ID: `AAAAAFd1tOc13TNiSygoDIjm89mvx6ly`

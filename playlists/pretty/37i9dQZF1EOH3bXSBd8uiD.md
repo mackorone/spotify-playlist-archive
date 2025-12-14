@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOH3bXSBd8uiD.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 20 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOH3bXSBd8uiD.md) - [plain]
 | 15 | [Plastic](https://open.spotify.com/track/3wFnBRnYgpdoBQyXl3NxoH) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [The Sunset Tapes: A Cool Tape Story](https://open.spotify.com/album/5SEBhuhm9MbbRg3YOOuaCR) | 2:16 |
 | 16 | [Jaden Smith](https://open.spotify.com/episode/7rzHpSNNGZiTAzH6udUCe7) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/show/4JHRWijaDsdLCYje4qx9gb) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/album/4JHRWijaDsdLCYje4qx9gb) | 40:09 |
 | 17 | [dropout \(w/ blackbear\)](https://open.spotify.com/track/1hV0Ue00iyNCZvb1n0VyGf) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dropout \(w/ blackbear\)](https://open.spotify.com/album/5hxBw9Le7T09nRIDXoRbei) | 2:46 |
-| 18 | [Blackbear](https://open.spotify.com/episode/4hjCbYh0PLdwlZiY0XaPcN) | [Lipps Service with Scott Lipps](https://open.spotify.com/show/2XrQ8s1AUtpW1l2n234v9h) | [Lipps Service with Scott Lipps](https://open.spotify.com/album/2XrQ8s1AUtpW1l2n234v9h) | 1:03:15 |
-| 19 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
-| 20 | [Ep\. \#3 \| Alec Benjamin](https://open.spotify.com/episode/7HztB2eoxJl0EkBzRdU4qq) | [I Think You're Dope w/ Eric Nam](https://open.spotify.com/show/6wCxoCzOin6F2J6HKxkuWr) | [I Think You're Dope w/ Eric Nam](https://open.spotify.com/album/6wCxoCzOin6F2J6HKxkuWr) | 50:29 |
+| 18 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
+| 19 | [Ep\. \#3 \| Alec Benjamin](https://open.spotify.com/episode/7HztB2eoxJl0EkBzRdU4qq) | [I Think You're Dope w/ Eric Nam](https://open.spotify.com/show/6wCxoCzOin6F2J6HKxkuWr) | [I Think You're Dope w/ Eric Nam](https://open.spotify.com/album/6wCxoCzOin6F2J6HKxkuWr) | 50:29 |
 
 Snapshot ID: `AZiNkgAAAACdjf4PuCGf/fpmmotzDpkL`

@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 195013,
       "name": "All Day",
       "url": "https://open.spotify.com/track/70j1VkVMQizMGzLtYWyymS"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 242866,
       "name": "Be Still (Psalm 46:10)",
       "url": "https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94"
@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Father Abraham",
+        "url": "https://open.spotify.com/album/4enS7OqpL69wLkg299e5iW"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126357,
+      "name": "Father Abraham",
+      "url": "https://open.spotify.com/track/2OEWa3Bwdrp4IkadUMvK5a"
+    },
+    {
+      "album": {
         "name": "Undefeated",
         "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
       },
@@ -827,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0mFjaLCkfyQ6WQPSanvDJQ"
+      },
+      "artists": [
+        {
+          "name": "Kids Sing Praise",
+          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290980,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/6nzJgJ3w3qGEoAz9vp7TrC"
+    },
+    {
+      "album": {
         "name": "Great Big God",
         "url": "https://open.spotify.com/album/7qWraaPEw6TA0siJ9nrg3E"
       },
@@ -896,7 +932,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 164259,
       "name": "He Is the Light",
       "url": "https://open.spotify.com/track/7Bi1ZbcjXppd20X6IyldE7"
@@ -1214,7 +1250,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 68491,
       "name": "John 3:16",
       "url": "https://open.spotify.com/track/4OzzLRZuqPSIr5fBxD9sfV"
@@ -1312,10 +1348,32 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 186693,
       "name": "Let Your Light Shine",
       "url": "https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl"
+    },
+    {
+      "album": {
+        "name": "Lydia, Seller of Purple",
+        "url": "https://open.spotify.com/album/2cnBBglQlgWA7EBsqzbs7E"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        },
+        {
+          "name": "Becca Jordan",
+          "url": "https://open.spotify.com/artist/2KWuvQrbl3OtGuvGx0d1b6"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117518,
+      "name": "Lydia, Seller of Purple",
+      "url": "https://open.spotify.com/track/4xYoZPp1rEUsf21QZZRrn0"
     },
     {
       "album": {
@@ -1482,7 +1540,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 200020,
       "name": "Offering",
       "url": "https://open.spotify.com/track/3RYfCXHMK7eLqV9k1NzDiV"
@@ -1642,6 +1700,24 @@
       "duration_ms": 149538,
       "name": "Psalms 150",
       "url": "https://open.spotify.com/track/6uXSvz27nzIPY8rWDywweF"
+    },
+    {
+      "album": {
+        "name": "Remember Jesus",
+        "url": "https://open.spotify.com/album/1bWISFisYx7KhH65dvJRGn"
+      },
+      "artists": [
+        {
+          "name": "Slugs and Bugs",
+          "url": "https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209210,
+      "name": "Remember Jesus",
+      "url": "https://open.spotify.com/track/5lz1U2fW0ACCZYZwMDMcZk"
     },
     {
       "album": {
@@ -1855,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "The Lord Is My Shepherd (Psalm 23)",
+        "url": "https://open.spotify.com/album/1jmEcftZVoVodlENQQytLi"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124032,
+      "name": "The Lord Is My Shepherd (Psalm 23)",
+      "url": "https://open.spotify.com/track/10N1zPRXpTHQ03XYR7bY1A"
+    },
+    {
+      "album": {
         "name": "100 Songs from the Bible",
         "url": "https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky"
       },
@@ -1942,6 +2036,24 @@
       "duration_ms": 192799,
       "name": "The Wages and the Gift (Romans 3:23 & 6:23)",
       "url": "https://open.spotify.com/track/3LWWxrfBDgwfDVoami8lIL"
+    },
+    {
+      "album": {
+        "name": "Praise Songs for Kids",
+        "url": "https://open.spotify.com/album/7iZulFdEIYZRQ9gXCYlaYJ"
+      },
+      "artists": [
+        {
+          "name": "Kids Sing Praise",
+          "url": "https://open.spotify.com/artist/2naj1WalUXZdDxG61MODFm"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284479,
+      "name": "This Is Amazing Grace",
+      "url": "https://open.spotify.com/track/416g5ZwpOBOmfRt44SJzJg"
     },
     {
       "album": {

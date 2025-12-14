@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 408749,
+  "num_followers": 409034,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAC4j6fdFmgHnKboilBZLQ/X",
+  "snapshot_id": "aTtbAAAAAAAtd1Jz1sHUl4s8AXEqYB0Z",
   "tracks": [
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
+        "name": "vicious",
+        "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 142363,
-      "name": "greedy acoustic",
-      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
+      "duration_ms": 182930,
+      "name": "vicious",
+      "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "vicious",
-        "url": "https://open.spotify.com/album/0lRIk00NjjL2Io6732lPti"
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 182930,
-      "name": "vicious",
-      "url": "https://open.spotify.com/track/7nIPkUEV3HYE7yzXHvGOVB"
+      "duration_ms": 142363,
+      "name": "greedy acoustic",
+      "url": "https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a"
     }
   ],
   "unique_name": "This Is Tate McRae",

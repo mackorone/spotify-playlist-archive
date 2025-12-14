@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAZoHySzn2VaKPrLnNvSouc",
+  "snapshot_id": "aTtbAAAAAADfjdRZUMAoUuyt830RzKbi",
   "tracks": [
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Tee",
-        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "White Tee",
-      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
         "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 180609,
       "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Tee",
+        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "White Tee",
+      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
     },
     {
       "added_at": null,

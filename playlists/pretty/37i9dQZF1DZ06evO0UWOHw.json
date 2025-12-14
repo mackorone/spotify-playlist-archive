@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 15191,
+  "num_followers": 15216,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAD7/abfJCssIG8YBOLfXewZ",
+  "snapshot_id": "aTtbAAAAAACqexLp+AUC58p8w0QnqtYy",
   "tracks": [
     {
       "added_at": null,
@@ -214,11 +214,15 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 144592,
-      "name": "Gangsta Cry",
-      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
+      "duration_ms": 217302,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
     },
     {
       "added_at": null,
@@ -290,15 +294,11 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shorae Moore",
-          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 217302,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
+      "duration_ms": 144592,
+      "name": "Gangsta Cry",
+      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
     },
     {
       "added_at": null,
@@ -415,62 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 174452,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Protect Sarz At All Costs",
-        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 161656,
-      "name": "Up \u200b(f\u200beat. Victony\u200b)",
-      "url": "https://open.spotify.com/track/4s9SNosx6047q9AjLUJqY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -491,6 +435,62 @@
       "duration_ms": 227950,
       "name": "Holy Water (feat. Victony & Musa Keys)",
       "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 174452,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Protect Sarz At All Costs",
+        "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 161656,
+      "name": "Up \u200b(f\u200beat. Victony\u200b)",
+      "url": "https://open.spotify.com/track/4s9SNosx6047q9AjLUJqY2"
     },
     {
       "added_at": null,
@@ -679,42 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Sawa",
-      "url": "https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 192284,
-      "name": "All Power",
-      "url": "https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
       },
@@ -735,6 +699,42 @@
       "duration_ms": 206821,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 192284,
+      "name": "All Power",
+      "url": "https://open.spotify.com/track/12TjLPC70MRIDDnx8Ob3x4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Sawa",
+      "url": "https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk"
     },
     {
       "added_at": null,

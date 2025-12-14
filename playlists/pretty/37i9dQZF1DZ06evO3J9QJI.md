@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 
 > This is Irv Gotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 15 songs - 54 min 32 sec
+[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 15 songs - 57 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,6 +22,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 | 12 | [Come\-N\-Go](https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 4:29 |
 | 13 | [No One Does It Better \- Remix](https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Black Child](https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:43 |
 | 14 | [O.G\. \- Remix](https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Black Child](https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 2:49 |
-| 15 | [Boss \- Skit](https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 0:42 |
+| 15 | [Poverlous](https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:49 |
 
-Snapshot ID: `aToJgAAAAABLzBhUgCYRTxlDbGRbXaRp`
+Snapshot ID: `aTtbAAAAAAAOHyx/Id5w5wMWpI5ZBaMZ`

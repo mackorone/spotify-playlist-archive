@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-68 songs - 6 hr 41 min
+69 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Welcome to the Machine](https://open.spotify.com/track/5VWC7v2dC2K0SIIjT9WTLN) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 7:30 | 2022-09-17 |  |
 | [What Do You Want from Me](https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 4:21 | 2022-09-17 |  |
 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:38 | 2022-09-17 |  |
+| [Wish You Were Here \- Pedal Steel Instrumental Mix](https://open.spotify.com/track/0yZEOlakqvTifw6XuAit6x) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here 50](https://open.spotify.com/album/3jlnaVYWc3QEqwCtdYCDS7) | 6:01 | 2025-12-14 |  |
 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 | 2022-09-17 |  |
 | [Young Lust](https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:29 | 2022-09-17 |  |
 | [Your Possible Pasts](https://open.spotify.com/track/1IAiDrvZCOx8AHlNZGY5yU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:23 | 2025-03-23 |  |

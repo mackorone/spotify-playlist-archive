@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 75138,
+  "num_followers": 75149,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADSBdfr0XqQBuI0MN61TUX9",
+  "snapshot_id": "aTtbAAAAAABARwPIda4Fy0dzl5XsSZrV",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 179008,
+      "name": "Canto Pa' Desahogarme",
+      "url": "https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi 45 (En Vivo)",
         "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 156840,
       "name": "Mi 45 - En Vivo",
       "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 179008,
-      "name": "Canto Pa' Desahogarme",
-      "url": "https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "La Vida Que Nos Toco",
+        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 193190,
-      "name": "La Vida del Changuito",
-      "url": "https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG"
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Que Nos Toco",
-        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 174615,
-      "name": "Si Tu Jalas Yo Jalo",
-      "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
+      "duration_ms": 193190,
+      "name": "La Vida del Changuito",
+      "url": "https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 166917,
-      "name": "Ya No Se Olvidarte",
-      "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz De Dia",
         "url": "https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 166917,
+      "name": "Ya No Se Olvidarte",
+      "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Conquista",
         "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
@@ -883,6 +883,26 @@
       "duration_ms": 180250,
       "name": "Recuerdos del R",
       "url": "https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Atreves A Pecar",
+        "url": "https://open.spotify.com/album/1aOpxtDib9iNhjwJdQTqIy"
+      },
+      "artists": [
+        {
+          "name": "Los Bohemios de Sinaloa",
+          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 172839,
+      "name": "Te Atreves A Pecar",
+      "url": "https://open.spotify.com/track/3PUBzloHZxJseSDkuNdl5X"
     },
     {
       "added_at": null,
@@ -939,26 +959,6 @@
       "duration_ms": 189560,
       "name": "El G\u00fcero Bastidas",
       "url": "https://open.spotify.com/track/7dRpZqekjiKiQBrTqLjzlN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Atreves A Pecar",
-        "url": "https://open.spotify.com/album/1aOpxtDib9iNhjwJdQTqIy"
-      },
-      "artists": [
-        {
-          "name": "Los Bohemios de Sinaloa",
-          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 172839,
-      "name": "Te Atreves A Pecar",
-      "url": "https://open.spotify.com/track/3PUBzloHZxJseSDkuNdl5X"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

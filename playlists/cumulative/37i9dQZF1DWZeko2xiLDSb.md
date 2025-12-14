@@ -4,7 +4,7 @@
 
 > soundtrack long, dark days with warm favourites
 
-178 songs - 11 hr 8 min
+179 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Buddy's Rendezvous](https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 4:59 | 2024-04-12 |  |
 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 | 2024-01-12 |  |
 | [Careful](https://open.spotify.com/track/5LSjtkkZfkaqA5PyreYhtO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Careful](https://open.spotify.com/album/6fnWoPcMyzC3C5ckmqZwHI) | 2:28 | 2025-01-17 |  |
+| [Challenger](https://open.spotify.com/track/18E1JTva63dkwEtgRSQiEp) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Challenger](https://open.spotify.com/album/0ic2yVzwWkmL0APveGjQAu) | 3:43 | 2025-12-11 |  |
 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 | 2024-01-12 |  |
 | [Changing Winds](https://open.spotify.com/track/436awEpc0xnabbR0z4i0Qw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [INSCAPE](https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO) | 3:13 | 2024-01-12 | 2024-05-19 |
 | [chemicals](https://open.spotify.com/track/6mijtFNG6bFmNvoKU1T4EC) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [forever and always](https://open.spotify.com/album/1OknBAZwOC2TQJsDQjsRqC) | 2:28 | 2025-11-06 |  |
@@ -152,7 +153,7 @@
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-19 | 2024-01-27 |
 | [Sunset Boulevard Expedition](https://open.spotify.com/track/64SZmjw3aY5bZigPevDCHw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 8:19 | 2025-01-24 |  |
 | [The Beachland Ballroom](https://open.spotify.com/track/6kPGjAjso3mAm3nZ2VzhDY) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [The Beachland Ballroom](https://open.spotify.com/album/2N5OAV10wnJNZ0QBGMhY4p) | 4:00 | 2024-01-12 | 2025-10-25 |
-| [The Efferusphere](https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 2:48 | 2024-05-08 |  |
+| [The Efferusphere](https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 2:48 | 2024-05-08 | 2025-12-14 |
 | [The Good Side](https://open.spotify.com/track/4qAHuJq5T4Q97EQZG47H0P) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:28 | 2024-01-12 |  |
 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 | 2024-01-12 |  |
 | [The Magician](https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 3:51 | 2024-09-18 |  |

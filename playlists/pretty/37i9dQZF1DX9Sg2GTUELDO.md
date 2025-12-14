@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 20 | [i8](https://open.spotify.com/track/0SL9cVRHqAp8IJ6Lg7pixI) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [i8](https://open.spotify.com/album/6VPZxBLuNU4evPwBe4XP5o) | 2:37 |
 | 21 | [all up in your mouth \(like a dentist\)](https://open.spotify.com/track/4RVEx2IcalKPzgcvtw5gTR) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [all up in your mouth \(like a dentist\)](https://open.spotify.com/album/6EaQJOAF2bfDqFSWm4mAT9) | 2:32 |
 | 22 | [無心傷人](https://open.spotify.com/track/3H4LjQJbvzTcZr56hIu8Jk) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [無心傷人](https://open.spotify.com/album/7MBkUr8xipcopiV6J9o76K) | 4:04 |
-| 23 | [PTSD](https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [PTSD](https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa) | 3:40 |
+| 23 | [會痊癒的 PTSD](https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [會痊癒的 PTSD](https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa) | 3:40 |
 | 24 | [未來的歌](https://open.spotify.com/track/4KjnXaHhY2FQ09AXUe8MyP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [未來的歌](https://open.spotify.com/album/483w7AHmaDk6FzRu12frdN) | 4:11 |
 | 25 | [BABY YOU SO SWEET](https://open.spotify.com/track/6Az4FVq4hivzYn6kFEpduy) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [BABY YOU SO SWEET](https://open.spotify.com/album/0LwdSRmgnKv0jhCmZYrFzB) | 2:55 |
 | 26 | [AMERICANO \- nutty ver.](https://open.spotify.com/track/6hbk14eY4dgqoOoCUMPlqh) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [AMERICANO \(nutty ver.\)](https://open.spotify.com/album/4NFEtszSbF1iEFNdCnzs79) | 2:40 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 169 | [維納斯的誕生](https://open.spotify.com/track/2Pv8dvmyPDHEcPLUvtIEYp) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [維納斯的誕生](https://open.spotify.com/album/67zlgpo5ZskpaP9dcwTEky) | 4:20 |
 | 170 | [後來知道了](https://open.spotify.com/track/6H2Z2wFh92yo9Z5MNOh7xu) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [後來知道了](https://open.spotify.com/album/3Xwx9BUFl4s4aCzj6Rs1VV) | 3:31 |
 
-Snapshot ID: `AAAAAFUN2Pie7kc0fusodVnAtjsFqb3g`
+Snapshot ID: `AAAAAPrGO7Pzg9sH7dWuPAp2LAuj3GT9`

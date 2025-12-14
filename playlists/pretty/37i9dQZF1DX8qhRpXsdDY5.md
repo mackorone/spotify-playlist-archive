@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,948 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,422 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 13 | [Jingle Bells](https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:00 |
 | 14 | [Llegó La Navidad](https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:05 |
 | 15 | [Ven a mi casa esta navidad \(remastered\)](https://open.spotify.com/track/57eNUK2UE7zdckmKlZjJqk) | [Luis Aguile](https://open.spotify.com/artist/6spyavPiQ0fa6B3jgKc6Tt) | [Luis Aguilé\. Sus Grabaciones En Discos Showman Vol.2 \(1968\-1974\)](https://open.spotify.com/album/7wApPeeumUwWYWH1p788Mr) | 4:37 |
-| 16 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
-| 17 | [El Tamborilero](https://open.spotify.com/track/3Vrn9BAwRqcMh1jgNzgSNf) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/6Ff42qXok850iV7nee00V1) | 2:56 |
+| 16 | [El Tamborilero](https://open.spotify.com/track/3Vrn9BAwRqcMh1jgNzgSNf) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/6Ff42qXok850iV7nee00V1) | 2:56 |
+| 17 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
 | 18 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
 | 19 | [Rodolfo el Reno](https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Navidad](https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO) | 2:56 |
 | 20 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 41 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
 | 42 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 43 | [Tu Adiós Es Mi Navidad](https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Dios Me Señaló](https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N) | 2:28 |
-| 44 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
-| 45 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 4:13 |
+| 44 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 4:13 |
+| 45 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
 | 46 | [O Holy Night](https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:55 |
 | 47 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 |
 | 48 | [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 |

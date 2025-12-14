@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-275 songs - 16 hr 47 min
+276 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blank Space](https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:21 | 2022-01-11 |  |
 | [Blizzard in the Room](https://open.spotify.com/track/6KRklFhhniHx1FOSqGl3lZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 3:25 | 2024-01-04 | 2024-06-19 |
 | [Blown Away](https://open.spotify.com/track/6QdnBJU53sUlhFX4SjaD7I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:59 | 2024-01-03 | 2024-06-07 |
+| [Blue Monday](https://open.spotify.com/track/0aZ5pSRiDpjlhJelOTpzId) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 3:19 | 2025-12-14 |  |
 | [Blue Sky Blues](https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 5:18 | 2022-01-12 | 2023-01-07 |
 | [Breakdown \(Live\)](https://open.spotify.com/track/1OjL3GxpUySOMcmsWGRymB) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 3:42 | 2024-08-12 | 2024-08-14 |
 | [Broken Anyway \(Live\)](https://open.spotify.com/track/70dHBmG5GLYvPyZVtIKmpH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoners \(Live\)](https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx) | 2:49 | 2024-01-05 | 2024-08-15 |
@@ -116,7 +117,7 @@
 | [Hotel Chelsea Nights](https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:10 | 2022-01-11 | 2025-01-12 |
 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 | 2023-07-23 | 2025-01-04 |
 | [How Much Light](https://open.spotify.com/track/3nXM6fSbUdWugKFCukr8ib) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/2H2NlBrpEBELrgPIyTS1Tl) | 3:15 | 2022-01-11 | 2022-02-23 |
-| [I Am Dracula](https://open.spotify.com/track/1tBVKNy12thGdbDXlZy7eU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 2:38 | 2025-12-03 |  |
+| [I Am Dracula](https://open.spotify.com/track/1tBVKNy12thGdbDXlZy7eU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 2:38 | 2025-12-03 | 2025-12-14 |
 | [I Can't Remember](https://open.spotify.com/track/23gqNeMwhNIDeO7ZJhe7ab) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:11 | 2022-05-15 | 2023-01-09 |
 | [I Got Lost](https://open.spotify.com/track/0x8ZFTeXx3kOPah13CvMw6) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:34 | 2022-04-05 | 2022-07-15 |
 | [I Lost My Place](https://open.spotify.com/track/0UOljh32VrB0nwon0qhVXb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 5:11 | 2024-08-14 | 2024-08-15 |

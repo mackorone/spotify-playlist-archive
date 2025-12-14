@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 400683,
+  "num_followers": 400688,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240598,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240598,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Supply And Demand",
-        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 129626,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 426614,
       "name": "La femme d'argent",
       "url": "https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Supply And Demand",
+        "url": "https://open.spotify.com/album/7zAMTPQbo4MM4trmSpvsNo"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 129626,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/4KqBoq7MoDJeVsvUHTjXCM"
     },
     {
       "added_at": "2025-07-02 08:57:18",

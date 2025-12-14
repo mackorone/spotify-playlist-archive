@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-309 songs - 19 hr 56 min
+310 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Home](https://open.spotify.com/track/5c26OuSMT9s3zuNxA8GvHu) | [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/22vwnmmlPoPk04mJfvwTBo) | 3:51 | 2022-10-06 | 2025-05-17 |
 | [Hopefully sky](https://open.spotify.com/track/0w246i6rL2nkjgnyNNAmg6) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5qM2yc5dwte5lQiuw2Dnvy) | 4:29 | 2022-05-11 | 2022-07-22 |
 | [Horizon](https://open.spotify.com/track/0BDJTB38QlbuLJYQuP3NBZ) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2tJflNSw531Y0XW5KmabiA) | 4:14 | 2022-06-09 | 2022-07-01 |
-| [How Can I Love You](https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Descendants Of The Sun Pt.10 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl) | 4:20 | 2024-04-04 |  |
+| [How Can I Love You](https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Descendants Of The Sun Pt.10 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl) | 4:20 | 2024-04-04 | 2025-12-14 |
 | [Hyehwadong \(or Sangmundong\)](https://open.spotify.com/track/0OPtu3k4727xyRXVV5Yf6d) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6AD37A2yi3XJgsSdEwfyYi) | 4:24 | 2024-04-03 |  |
 | [I Believe](https://open.spotify.com/track/3Xksp5RxM8ozB7LawqAqDT) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [8th](https://open.spotify.com/album/6O7jMvf68Ce2UwfbUWkqrt) | 4:44 | 2022-05-11 | 2022-07-15 |
 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 | 2024-04-03 |  |
@@ -314,6 +314,7 @@
 | [아쉬운 마음인걸](https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG) | [에이 스타일](https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:08 | 2024-04-04 |  |
 | [안녕](https://open.spotify.com/track/7sZwWzSeCtGYo5ZQcWRLlJ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hotel del Luna \(Original Television Soundtrack\) Pt.10](https://open.spotify.com/album/4tW3kGnzsPIvpWOzgIew2A) | 3:45 | 2024-04-03 | 2024-04-19 |
 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 | 2024-04-03 |  |
+| [어떡하죠](https://open.spotify.com/track/1KldYdWxVyDrSepd1NY2Qg) | [지선](https://open.spotify.com/artist/2Mo9NQaNCFCWSR5CnlfmbN) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 4:04 | 2024-10-10 |  |
 | [잠시 안녕처럼](https://open.spotify.com/track/53J0Y4STDwhHgFJavctNja) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [운명처럼 널 사랑해 OST Part.6](https://open.spotify.com/album/17zz25W2bkGudJfXOhrpIa) | 4:16 | 2024-04-03 | 2024-04-19 |
 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 | 2022-05-11 |  |
 | [파라다이스 \(메인 테마\)](https://open.spotify.com/track/6HmqWhnp3mAgm8glPBzYVw) | [T\-Max](https://open.spotify.com/artist/4zYdTQheeWFEGotJyvhYJB) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:25 | 2024-04-04 |  |

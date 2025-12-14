@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,025 likes - 154 songs - 8 hr 47 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,024 likes - 155 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 77 | [La Cultura Del Sospetto \- feat\. Gianni Moretti](https://open.spotify.com/track/3HbYEChQJrQSmkBLeX86W2) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:37 |
 | 78 | [Tranquility](https://open.spotify.com/track/4GhdgLqCsD2cDPKZyXuNKR) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Tranquility](https://open.spotify.com/album/5EOfIpRs4JMH9M52TVzxs4) | 4:34 |
 | 79 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 |
-| 80 | [Integrity](https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Integrity](https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9) | 2:32 |
+| 80 | [Integrity](https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Integrity](https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9) | 2:32 |
 | 81 | [Screen Love](https://open.spotify.com/track/1N4AQ3hVyx4o98gZ3vDGzP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:20 |
 | 82 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 |
 | 83 | [Break the Chain](https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [My Tribe \- EP](https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh) | 3:27 |
@@ -162,5 +162,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 152 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 |
 | 153 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 |
 | 154 | [Xmas](https://open.spotify.com/track/0T8M5XbkqHUB99ZkbZDOHD) | [Andrea Bardelli](https://open.spotify.com/artist/0sjMrTuxISK7GfQRKy8FEE) | [The poets work at night](https://open.spotify.com/album/1mNoFSF448LaNDXIFThFnA) | 5:08 |
+| 155 | [Touch](https://open.spotify.com/track/43NZJKAwliwhhf92fVfwwx) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Touch](https://open.spotify.com/album/4Ai7hZRY0AFkeTwZsVhgwt) | 2:46 |
 
-Snapshot ID: `AAANrU5ZsFWpmKAsOWL7Ja5uvmb8p7cW`
+Snapshot ID: `AAANrmw8i7eWUSzjfzxpZlys/0D+Aqly`

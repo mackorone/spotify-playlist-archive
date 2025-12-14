@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 88110,
+  "num_followers": 88157,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 289963,
-      "name": "Samba Pa Ti",
-      "url": "https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "A Man And His Music: The Player",
         "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/0ERampYomIgYBMJlX3rKXY"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 289963,
+      "name": "Samba Pa Ti",
+      "url": "https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 205196,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 205196,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Estoy Enamorado de Ti",
-      "url": "https://open.spotify.com/track/6RxC3waOdRWE7GbNEuZ2Qa"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 401880,
       "name": "Pl\u00e1stico",
       "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Estoy Enamorado de Ti",
+      "url": "https://open.spotify.com/track/6RxC3waOdRWE7GbNEuZ2Qa"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Dejenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Joyas Rancheras Al Estilo",
         "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 231146,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Dejenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Por un Amor",
+      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Por un Amor",
-      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
     },
     {
       "added_at": "2024-04-24 22:48:02",

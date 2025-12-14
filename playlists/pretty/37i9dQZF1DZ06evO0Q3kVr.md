@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,431 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,438 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,18 +26,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 16 | [Ángeles de la Ciudad](https://open.spotify.com/track/6JkK65mfQxvlgtzRRi7i9L) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:27 |
 | 17 | [Jesus de Nazareth](https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 6:07 |
 | 18 | [Exceso de Droga](https://open.spotify.com/track/4jBagOx3OaqLv72nKacJex) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 5:46 |
-| 19 | [Trata de Cambiar](https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 2:26 |
+| 19 | [S.O.S\. de Amor](https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 3:57 |
 | 20 | [Malas Noticias](https://open.spotify.com/track/69RxGJRqsvpR92VnkETnNq) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:43 |
 | 21 | [Perdido](https://open.spotify.com/track/0yXNbmCKjFjDwyhOOw8Ghn) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 4:50 |
 | 22 | [Reclusorio Barrientos](https://open.spotify.com/track/1hZXjj7WMINIutzRkvh7wd) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 5:08 |
-| 23 | [S.O.S\. de Amor](https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 3:57 |
+| 23 | [Trata de Cambiar](https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 2:26 |
 | 24 | [El Sexo Opuesto y Su Realidad](https://open.spotify.com/track/33DP7d6lF7OZ1e9PFJm0mb) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En Pie de Guerra](https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD) | 3:19 |
 | 25 | [Llamarada de Petate](https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:19 |
 | 26 | [Trascendencia](https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 3:59 |
 | 27 | [Rateros Con Placa](https://open.spotify.com/track/5xQdOG1KuPAK6Ku1NFm7Il) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 2:54 |
 | 28 | [El Vigilante](https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 4:01 |
-| 29 | [Juan Sin Miedo](https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 5:46 |
-| 30 | [Donde Estas Hermano](https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:34 |
+| 29 | [Donde Estas Hermano](https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:34 |
+| 30 | [Juan Sin Miedo](https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 5:46 |
 | 31 | [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 |
 | 32 | [Hipocresía](https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:55 |
 | 33 | [Exceso de Drogas \- En Vivo](https://open.spotify.com/track/6E9ImakW9sqDliFdc6OS5w) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 1](https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD) | 6:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 49 | [Genoma Humano](https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:41 |
 | 50 | [Presentación](https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:09 |
 
-Snapshot ID: `aToJgAAAAACXH32WKiOl1jmjq1hROS9R`
+Snapshot ID: `aTtbAAAAAADgPq4jsm/E6tg/60BztKOo`

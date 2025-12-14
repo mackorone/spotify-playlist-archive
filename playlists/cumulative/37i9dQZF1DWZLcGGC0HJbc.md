@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-275 songs - 16 hr 30 min
+276 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Not Like Yesterday](https://open.spotify.com/track/4Xe76cpeT9hpLk2iD12Hl2) | [the.king.lost](https://open.spotify.com/artist/4vVV7Gm1SONBG9xgF4WYt0) | [Not Like Yesterday](https://open.spotify.com/album/2dLmW8ofhcrs8OYbRGjsqz) | 3:40 | 2025-02-03 | 2025-02-23 |
 | [Oh Wide World](https://open.spotify.com/track/6B16dc3mOK69pcPY0cDAiv) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Oh Wide World](https://open.spotify.com/album/7lAy11wBJhfqMwtURlwGgj) | 2:59 | 2025-05-01 |  |
 | [Old Fashioned Parade](https://open.spotify.com/track/4GF989jpzXhdUbDW8yGEO4) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [Old Fashioned Parade](https://open.spotify.com/album/2GnftziZGeLkdME4YYmzBR) | 3:18 | 2024-06-27 | 2025-01-24 |
+| [Old Fort Steel Trail](https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Old Fort Steel Trail](https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a) | 2:29 | 2025-12-11 |  |
 | [old friend](https://open.spotify.com/track/1qUeRctJ195WEm4fqVwBHQ) | [Roofman](https://open.spotify.com/artist/1OHs0NYmF2L7fL2ELOIvPu) | [old friend](https://open.spotify.com/album/0LX7BbebfFHpKPcp3Ky6ET) | 3:42 | 2024-06-27 | 2025-01-24 |
 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 | 2024-09-19 | 2025-02-04 |
 | [Our Kingdom](https://open.spotify.com/track/6hNK2xLiAZ139KFu8oRDFV) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Morphosis](https://open.spotify.com/album/0lG4NpIgDXIStDeC0Q0MLE) | 3:01 | 2024-06-27 | 2024-11-23 |
@@ -267,7 +268,7 @@
 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 | 2025-01-23 |  |
 | [Velvet Ring](https://open.spotify.com/track/7qshYIOUFQAGgYfWXg1m9N) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 2:35 | 2025-08-14 | 2025-09-20 |
 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 | 2025-07-03 | 2025-09-20 |
-| [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 | 2025-09-19 |  |
+| [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 | 2025-09-19 | 2025-12-14 |
 | [Waving](https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno), [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Waving](https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs) | 4:13 | 2024-06-27 | 2024-12-19 |
 | [Weathering](https://open.spotify.com/track/2vTRtqJiRpWulVrweTTPVs) | [Lucas Laufen](https://open.spotify.com/artist/19gboEzhj5N9maAsyg3TkW) | [Weathering](https://open.spotify.com/album/55kySmow7g8xhHkfB4jshH) | 4:11 | 2024-06-27 | 2024-08-30 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-01-23 | 2025-01-28 |

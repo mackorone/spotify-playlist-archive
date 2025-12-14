@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,640 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,644 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 55 | [Cada Vez](https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cada Vez](https://open.spotify.com/album/31SngBc9PCn2qDix3g745R) | 3:37 |
 | 56 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 57 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 |
-| 58 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
-| 59 | [Reggaeton Pesa’o](https://open.spotify.com/track/2Mc9kPytWq8zSmj9fqp5Cj) | [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp), [Cael Roldan](https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3) | [Reggaeton Pesa’o](https://open.spotify.com/album/3yhEt7BrCO7hi7aRdUFXuZ) | 2:49 |
-| 60 | [POPPER!](https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POPPER!](https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp) | 1:50 |
+| 58 | [Reggaeton Pesa’o](https://open.spotify.com/track/2Mc9kPytWq8zSmj9fqp5Cj) | [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp), [Cael Roldan](https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3) | [Reggaeton Pesa’o](https://open.spotify.com/album/3yhEt7BrCO7hi7aRdUFXuZ) | 2:49 |
+| 59 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
+| 60 | [Más Papel](https://open.spotify.com/track/2guH6Iwas87W7c4QjgLot7) | [Axel Guerra](https://open.spotify.com/artist/5Pi482fNZrF0kD8nyhDtvo), [Castro Angel](https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr) | [Más Papel](https://open.spotify.com/album/6PFtQgbQ6fVrf2sTKBgzn1) | 2:32 |
 
 Snapshot ID: `AAAAABE69jK4HKFjcNEnfNirvojHFFSa`

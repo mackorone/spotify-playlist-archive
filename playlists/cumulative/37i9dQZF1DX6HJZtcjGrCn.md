@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Mumford & Sons
 
-398 songs - 23 hr 39 min
+399 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bullseye \(with Hozier\)](https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:23 | 2025-03-28 |  |
 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 | 2025-02-07 | 2025-03-07 |
 | [Cada Qual Na Sua Mente](https://open.spotify.com/track/7sGFFDysdKSbgp2n9ghvYM) | [Sogranora](https://open.spotify.com/artist/1eJkontfYvbLBhh8U1aO9y) | [Cada Qual Na Sua Mente](https://open.spotify.com/album/3sQsyw7Cf8QUbccm20yvGG) | 3:47 | 2025-05-22 | 2025-06-06 |
-| [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-07 |  |
+| [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 | 2025-03-07 | 2025-12-14 |
 | [Canção de águas mil](https://open.spotify.com/track/6aBlpwwH4QK1val0g6FDUe) | [Samuel Úria](https://open.spotify.com/artist/5RRpftRxDNxlmo5lSn5UCg) | [Canção de águas mil](https://open.spotify.com/album/2mf1hnQvz6QWP3pfcfTFZU) | 3:58 | 2024-10-03 | 2024-10-18 |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-28 | 2025-11-28 |
 | [Castaway](https://open.spotify.com/track/4rD9YjjzbA2kAdUM7QlVqN) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Castaway](https://open.spotify.com/album/0dBFjxAi2chf1pfLuK6J63) | 3:19 | 2025-08-28 | 2025-09-19 |
@@ -159,6 +159,7 @@
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 | 2024-06-20 |  |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-29 |  |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 |  |
+| [Hold On](https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Hold On](https://open.spotify.com/album/40Ksd3AVHtWcZbExDuuxVL) | 3:41 | 2025-12-12 |  |
 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-07-25 | 2025-08-23 |
 | [Home Is Where the Hurt Is](https://open.spotify.com/track/0ytRXziKO9jo0FuMfXbgfp) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Satellites](https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5) | 2:40 | 2024-08-22 | 2024-09-28 |
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-06-20 |  |

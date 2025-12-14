@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 567528,
+  "num_followers": 567537,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABMS6L9HfOg5NhB0I/HA+0k",
+  "snapshot_id": "aTtbAAAAAADsdGaRmdxDIKdE924YEMXD",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 281803,
+      "name": "Darkness Settles In",
+      "url": "https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The End (feat. BABYMETAL) [2025 VERSION]",
         "url": "https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 222500,
       "name": "The End (feat. BABYMETAL) - 2025 VERSION",
       "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F8",
-        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 281803,
-      "name": "Darkness Settles In",
-      "url": "https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 215871,
-      "name": "My Nemesis",
-      "url": "https://open.spotify.com/track/5f2uoq4GfpeViLcsP3FtES"
+      "duration_ms": 187670,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 187670,
-      "name": "Hell To Pay",
-      "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
+      "duration_ms": 215871,
+      "name": "My Nemesis",
+      "url": "https://open.spotify.com/track/5f2uoq4GfpeViLcsP3FtES"
     },
     {
       "added_at": null,

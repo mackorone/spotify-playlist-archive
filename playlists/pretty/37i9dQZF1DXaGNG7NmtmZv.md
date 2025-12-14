@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,551 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,567 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 7 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
 | 8 | [Start Today](https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:03 |
 | 9 | [New York City](https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 2:01 |
-| 10 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
-| 11 | [Living to Die](https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [From Bliss To Devestation](https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC) | 4:06 |
-| 12 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
+| 10 | [Living to Die](https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [From Bliss To Devestation](https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC) | 4:06 |
+| 11 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
+| 12 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
 | 13 | [Some Came Running](https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA) | [Bane](https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi) | [Give Blood](https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9) | 2:37 |
 | 14 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
 | 15 | [Never Alone](https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [The Damned, the Shamed](https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW) | 2:50 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 42 | [Family Tree](https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:55 |
 | 43 | [Save Us](https://open.spotify.com/track/4wFOby3D08M6keJ3FH6roi) | [Stigmata](https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz) | [The Wounds That Never Heal](https://open.spotify.com/album/76VKJEp7KxcdcMapN0H1nJ) | 4:23 |
 | 44 | [Animal Farm](https://open.spotify.com/track/7z6t9FzbkML9y9iIxqqldr) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/0Q0PHWclqhQgGXUVr5Y6u5) | 3:40 |
-| 45 | [Chasing the Dragon](https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/1g3661VmArydCMCXltxVJk) | 3:23 |
-| 46 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 |
-| 47 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
-| 48 | [Thorn In My Side](https://open.spotify.com/track/2H7ECJNsqQDxOlisHd5n6k) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/2C26LLKc9asNxs9uXDyt9Q) | 2:36 |
+| 45 | [Thorn In My Side](https://open.spotify.com/track/2H7ECJNsqQDxOlisHd5n6k) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/2C26LLKc9asNxs9uXDyt9Q) | 2:36 |
+| 46 | [Chasing the Dragon](https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/1g3661VmArydCMCXltxVJk) | 3:23 |
+| 47 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 |
+| 48 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
 | 49 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
 | 50 | [The Disconnect](https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0) | 3:56 |
 

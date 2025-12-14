@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,709 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,709 likes - 38 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 27 | [Cuz](https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Cuz](https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL) | 2:55 |
 | 28 | [World Stops Turning](https://open.spotify.com/track/4LxurqXWbJhXHNwgRv4UV5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 8:16 |
 | 29 | [The Northern](https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:28 |
-| 30 | [Little Girls Pointing and Laughing](https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:52 |
+| 30 | [The Kennedy Curse](https://open.spotify.com/track/0jRJkH0ZvfSzkGDlg7UYE8) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:37 |
 | 31 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
 | 32 | [Committed to the Con](https://open.spotify.com/track/5gZ29XT8xSsdCEflTfWUyy) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 4:01 |
 | 33 | [Midnight Regulations](https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:11 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 37 | [Emerald Street](https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:15 |
 | 38 | [Sons of Privilege](https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:21 |
 
-Snapshot ID: `aToJgAAAAACHmtfGT0O/cBR9Bl471MbD`
+Snapshot ID: `aTtbAAAAAABb2wzVJykNvt6vFbIWW1xB`

@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: TobyMac",
-  "num_followers": 657064,
+  "num_followers": 657136,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "Neon Steeple",
-        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 289746,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
-    },
-    {
-      "added_at": "2025-12-12 06:19:56",
-      "album": {
         "name": "God's Not Dead",
         "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 258453,
       "name": "God's Not Dead (Like A Lion)",
       "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
+    },
+    {
+      "added_at": "2025-12-12 06:19:56",
+      "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
     },
     {
       "added_at": "2025-12-12 06:19:56",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "Winds Of Heaven, Stuff Of Earth",
-        "url": "https://open.spotify.com/album/7gMKbTLjTvHSxRJmdnRUZ5"
-      },
-      "artists": [
-        {
-          "name": "Rich Mullins",
-          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/5niLKxgCj4UriedJmPtJld"
-    },
-    {
-      "added_at": "2025-12-12 06:19:56",
-      "album": {
         "name": "Cutting Edge 1 & 2",
         "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
       },
@@ -1299,22 +1283,34 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+        "name": "Winds Of Heaven, Stuff Of Earth",
+        "url": "https://open.spotify.com/album/7gMKbTLjTvHSxRJmdnRUZ5"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Rich Mullins",
+          "url": "https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps"
         }
       ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
+      "duration_ms": 183893,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/5niLKxgCj4UriedJmPtJld"
+    },
+    {
+      "added_at": "2025-12-12 06:19:56",
+      "album": {
+        "name": "Jesus Freak (Remastered)",
+        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Jesus Freak - Remastered 2013",
+      "url": "https://open.spotify.com/track/4zAjQDduJhIRFSpfrIN68Z"
     },
     {
       "added_at": "2025-12-12 06:19:56",
@@ -1335,18 +1331,22 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "Jesus Freak (Remastered)",
-        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
       "artists": [
         {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 289906,
-      "name": "Jesus Freak - Remastered 2013",
-      "url": "https://open.spotify.com/track/4zAjQDduJhIRFSpfrIN68Z"
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "added_at": "2025-12-12 06:19:56",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/1YLE5mLgVo6zxJ0P9QZZH8"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 202159,
-      "name": "Thy Word - 2025 Remaster",
-      "url": "https://open.spotify.com/track/2stSTaiMmiko7BpW75RuYt"
-    },
-    {
-      "added_at": "2025-12-12 06:19:56",
-      "album": {
         "name": "One More Song for You",
         "url": "https://open.spotify.com/album/06cB2QYDAQBVfM2uhmXeNC"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 208266,
       "name": "Living Without Your Love",
       "url": "https://open.spotify.com/track/19JyDDO6hZmEjdagNDA2Km"
+    },
+    {
+      "added_at": "2025-12-12 06:19:56",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/1YLE5mLgVo6zxJ0P9QZZH8"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 202159,
+      "name": "Thy Word - 2025 Remaster",
+      "url": "https://open.spotify.com/track/2stSTaiMmiko7BpW75RuYt"
     },
     {
       "added_at": "2025-12-12 06:19:56",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust In You",
-      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
-    },
-    {
-      "added_at": "2025-12-12 06:19:56",
-      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 191710,
       "name": "Big God",
       "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
+    },
+    {
+      "added_at": "2025-12-12 06:19:56",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
     },
     {
       "added_at": "2025-12-12 06:19:56",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
-    },
-    {
-      "added_at": "2025-12-12 06:19:56",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
       },
@@ -2383,34 +2367,18 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "In Jesus Name (God Of Possible)",
-        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
       "artists": [
         {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 222039,
-      "name": "In Jesus Name (God Of Possible)",
-      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
-    },
-    {
-      "added_at": "2025-12-12 06:19:56",
-      "album": {
-        "name": "Welcome to the New",
-        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Greater",
-      "url": "https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc"
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
     },
     {
       "added_at": "2025-12-12 06:19:56",
@@ -2431,18 +2399,34 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
-        "name": "God Is on the Move",
-        "url": "https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0"
+        "name": "Welcome to the New",
+        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
       },
       "artists": [
         {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 176615,
-      "name": "God Is on the Move",
-      "url": "https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx"
+      "duration_ms": 247040,
+      "name": "Greater",
+      "url": "https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc"
+    },
+    {
+      "added_at": "2025-12-12 06:19:56",
+      "album": {
+        "name": "In Jesus Name (God Of Possible)",
+        "url": "https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 222039,
+      "name": "In Jesus Name (God Of Possible)",
+      "url": "https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja"
     },
     {
       "added_at": "2025-12-12 06:19:56",
@@ -2459,6 +2443,22 @@
       "duration_ms": 233774,
       "name": "Tell Your Heart To Beat Again",
       "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
+    },
+    {
+      "added_at": "2025-12-12 06:19:56",
+      "album": {
+        "name": "God Is on the Move",
+        "url": "https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 176615,
+      "name": "God Is on the Move",
+      "url": "https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx"
     },
     {
       "added_at": "2025-12-12 06:19:56",
@@ -2483,6 +2483,42 @@
     {
       "added_at": "2025-12-12 06:19:56",
       "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt"
+      },
+      "artists": [
+        {
+          "name": "Eric Champlin",
+          "url": "https://open.spotify.com/artist/00sjYUgXKrnRL9EajnFQTa"
+        },
+        {
+          "name": "Haylie Allcott",
+          "url": "https://open.spotify.com/artist/7JhR8iHc1tpV79FCvWFl6I"
+        }
+      ],
+      "duration_ms": 242122,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP"
+    },
+    {
+      "added_at": "2025-12-12 06:19:56",
+      "album": {
+        "name": "Light Up the Sky",
+        "url": "https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Light Up the Sky",
+      "url": "https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9"
+    },
+    {
+      "added_at": "2025-12-12 06:19:56",
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
       },
@@ -2495,42 +2531,6 @@
       "duration_ms": 197946,
       "name": "Different",
       "url": "https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf"
-    },
-    {
-      "added_at": "2025-12-12 06:19:56",
-      "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Even If",
-      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
-    },
-    {
-      "added_at": "2025-12-12 06:19:56",
-      "album": {
-        "name": "Death Was Arrested",
-        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 293331,
-      "name": "Death Was Arrested",
-      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
     }
   ],
   "unique_name": "Christian Classics",

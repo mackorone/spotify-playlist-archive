@@ -1,6 +1,6 @@
 {
   "description": "Certified hits. Cover: Ceebo",
-  "num_followers": 298351,
+  "num_followers": 298337,
   "original_name": "Certi",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "act ii: date @ 8 (feat. Drake) [remix]",
         "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
-        "name": "Glockoma 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "black british music (2025)",
-        "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "3x",
-      "url": "https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "Favourite Girl",
         "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
       },
@@ -847,22 +827,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Presido La Pluto",
-        "url": "https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR"
+        "name": "black british music (2025)",
+        "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 129123,
-      "name": "Cast",
-      "url": "https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM"
+      "duration_ms": 160000,
+      "name": "3x",
+      "url": "https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -879,6 +859,26 @@
       "duration_ms": 182000,
       "name": "No Comment",
       "url": "https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
+        "name": "Presido La Pluto",
+        "url": "https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Deep in the Water",
-        "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "DEEP IN THE WATER",
-      "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
+        "name": "Deep in the Water",
+        "url": "https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "DEEP IN THE WATER",
+      "url": "https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 297290,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
     },
     {
       "added_at": "2025-11-14 00:00:23",

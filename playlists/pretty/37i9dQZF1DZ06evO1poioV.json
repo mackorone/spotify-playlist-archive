@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 119481,
+  "num_followers": 119498,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAA40UMzoyHCZa9SDnQG3QXw",
+  "snapshot_id": "aTtbAAAAAABW1EPvMXDEn93Dn0dd/fkx",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,58 @@
       "duration_ms": 238493,
       "name": "The Story",
       "url": "https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 208864,
+      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 206267,
+      "name": "This Time Tomorrow",
+      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Heart's Content",
+      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
     },
     {
       "added_at": null,
@@ -59,58 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 208864,
-      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Heart's Content",
-      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 206267,
-      "name": "This Time Tomorrow",
-      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Returning To Myself",
         "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
       },
@@ -123,6 +123,42 @@
       "duration_ms": 260065,
       "name": "Human",
       "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "The Joke",
+      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
     },
     {
       "added_at": null,
@@ -159,42 +195,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "The Joke",
-      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 313167,
       "name": "Who Believes In Angels?",
       "url": "https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 230108,
-      "name": "Wherever is Your Heart",
-      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cayamo Sessions At Sea",
         "url": "https://open.spotify.com/album/0yqCt53npFro8Zj47FXO0o"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 287346,
       "name": "Angel From Montgomery",
       "url": "https://open.spotify.com/track/5cXqZHyuESB0haAwRm2SLV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 230108,
+      "name": "Wherever is Your Heart",
+      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
     },
     {
       "added_at": null,

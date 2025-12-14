@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Rosal\u00eda",
-  "num_followers": 1636603,
+  "num_followers": 1636460,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2025-11-07 03:17:05",
       "album": {
+        "name": "Moon Safari",
+        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "name": "Beth Hirsch",
+          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
+        }
+      ],
+      "duration_ms": 268306,
+      "name": "All I Need (feat. Beth Hirsch)",
+      "url": "https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj"
+    },
+    {
+      "added_at": "2025-11-07 03:17:05",
+      "album": {
         "name": "Janky Star",
         "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
@@ -1283,22 +1303,22 @@
     {
       "added_at": "2025-11-07 03:17:05",
       "album": {
-        "name": "Moon Safari",
-        "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
+        "name": "Just A Western (Boy Harsher Remix)",
+        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         },
         {
-          "name": "Beth Hirsch",
-          "url": "https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96"
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
         }
       ],
-      "duration_ms": 268306,
-      "name": "All I Need (feat. Beth Hirsch)",
-      "url": "https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj"
+      "duration_ms": 241379,
+      "name": "Just A Western - Boy Harsher Remix",
+      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
     },
     {
       "added_at": "2025-11-07 03:17:05",
@@ -1319,26 +1339,6 @@
       "duration_ms": 214986,
       "name": "Guilty Conscience - Tame Impala Remix",
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
-    },
-    {
-      "added_at": "2025-11-07 03:17:05",
-      "album": {
-        "name": "Just A Western (Boy Harsher Remix)",
-        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        },
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 241379,
-      "name": "Just A Western - Boy Harsher Remix",
-      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
     }
   ],
   "unique_name": "Ethereal",

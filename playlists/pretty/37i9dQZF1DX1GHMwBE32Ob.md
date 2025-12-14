@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Shallipopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,888 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,002 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 17 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
 | 18 | [ENJOYMENT](https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Diamond Boy](https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE) | [ENJOYMENT](https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur) | 2:55 |
 | 19 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |
-| 20 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 |
-| 21 | [Wuse Tu](https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:27 |
+| 20 | [Wuse Tu](https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:27 |
+| 21 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 |
 | 22 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
 | 23 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
 | 24 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 35 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 |
 | 36 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
 | 37 | [Nigga](https://open.spotify.com/track/0voiVxfuDYLdwVTmE4bErO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 3:05 |
-| 38 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
-| 39 | [Hello Hello](https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Hello Hello](https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH) | 2:35 |
+| 38 | [Hello Hello](https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Hello Hello](https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH) | 2:35 |
+| 39 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
 | 40 | [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 |
 | 41 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 42 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 57 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
 | 58 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 |
 | 59 | [Nati \(feat\. Olamide\)](https://open.spotify.com/track/1Zq9JpMFVaKzQdgkcltijZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:07 |
-| 60 | [Fuji Fusion](https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [K1 De Ultimate](https://open.spotify.com/artist/4QDPgnH8H5BkicUp3nbIWT) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 3:15 |
+| 60 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
 
 Snapshot ID: `AAAAAAnx6tSUXWmZYnQTqrPrFlFq3hKh`

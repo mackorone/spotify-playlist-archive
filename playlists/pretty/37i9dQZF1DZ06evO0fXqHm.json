@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAC27lb8p3HMO8KyAkh/FJPH",
+  "snapshot_id": "aTtbAAAAAADFIWK8Ix1J2qI0rZdTRiGg",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Vida",
         "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 165216,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
       "duration_ms": 168960,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beijo na Boca",
-        "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "MC Pel\u00e9",
-          "url": "https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU"
-        }
-      ],
-      "duration_ms": 125307,
-      "name": "Beijo na Boca",
-      "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
     },
     {
       "added_at": null,
@@ -919,6 +895,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beijo na Boca",
+        "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "MC Pel\u00e9",
+          "url": "https://open.spotify.com/artist/3w4A0rsyrCkOm5qM0VFLSU"
+        }
+      ],
+      "duration_ms": 125307,
+      "name": "Beijo na Boca",
+      "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "$IMBIO$E",
         "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
       },
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Sem Calcinha",
+      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu & Elas",
         "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 130212,
       "name": "Macetada Forte",
       "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Sem Calcinha",
-      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
     },
     {
       "added_at": null,
@@ -1027,42 +1027,6 @@
       "duration_ms": 181998,
       "name": "Tinta Na M\u00e3o",
       "url": "https://open.spotify.com/track/34fml1FqZOCpBwAsqWrFYY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set Ecko By Wave 01",
-        "url": "https://open.spotify.com/album/1dFBqf9mFTfgvZoB9guh17"
-      },
-      "artists": [
-        {
-          "name": "AK NF",
-          "url": "https://open.spotify.com/artist/6pR77mMkpiPLgWH4Xjx2AP"
-        },
-        {
-          "name": "Mc Mininin",
-          "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
-        },
-        {
-          "name": "Mc Anjim",
-          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DJ Lg do Sf",
-          "url": "https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q"
-        },
-        {
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Set Ecko By Wave 01",
-      "url": "https://open.spotify.com/track/0pTZxWzR6uVBrBIGn2meQr"
     },
     {
       "added_at": null,
@@ -1103,6 +1067,62 @@
       "duration_ms": 155889,
       "name": "Ranger Preta",
       "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set Ecko By Wave 01",
+        "url": "https://open.spotify.com/album/1dFBqf9mFTfgvZoB9guh17"
+      },
+      "artists": [
+        {
+          "name": "AK NF",
+          "url": "https://open.spotify.com/artist/6pR77mMkpiPLgWH4Xjx2AP"
+        },
+        {
+          "name": "Mc Mininin",
+          "url": "https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE"
+        },
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DJ Lg do Sf",
+          "url": "https://open.spotify.com/artist/72ipMVQcFmP8kVnlHbcV3q"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Set Ecko By Wave 01",
+      "url": "https://open.spotify.com/track/0pTZxWzR6uVBrBIGn2meQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Salto Alto",
+      "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
     },
     {
       "added_at": null,
@@ -1159,26 +1179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Salto Alto",
-      "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juma",
         "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
@@ -1219,26 +1219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+        "name": "Balan\u00e7a Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H"
       },
       "artists": [
         {
+          "name": "Gu Original",
+          "url": "https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi"
+        },
+        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DJ Cayoo",
-          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
-        },
-        {
-          "name": "Dj Nattan",
-          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
         }
       ],
-      "duration_ms": 99692,
-      "name": "Toma Cuidado pra N\u00e3o Se Apegar",
-      "url": "https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ"
+      "duration_ms": 204444,
+      "name": "Balan\u00e7a Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
     },
     {
       "added_at": null,

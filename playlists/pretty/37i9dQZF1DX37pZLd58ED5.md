@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,630 likes - 95 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,654 likes - 95 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 22 | [IL GIOCO DEL SILENZIO](https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:56 |
 | 23 | [Altezza cielo \(feat\. Kid Yugi\)](https://open.spotify.com/track/0GtGhO25XJZIwVVQzfOxVy) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 2:41 |
 | 24 | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/track/2TOwRQ8fN69NDxXe3s602O) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/album/3QAPKcbmBIfyQUAwWvLap4) | 3:04 |
-| 25 | [Flusso Di Coscienza \- Interlude](https://open.spotify.com/track/5DZEZRXsf63ovvIFXKYd6g) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:44 |
+| 25 | [Flusso Di Coscienza](https://open.spotify.com/track/5DZEZRXsf63ovvIFXKYd6g) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:44 |
 | 26 | [DUOMO](https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 3:44 |
 | 27 | [A Lei](https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:05 |
 | 28 | [Morto Mai \(Piano Solo\)](https://open.spotify.com/track/4vuQhmBVvyy4Zau0Ypv738) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida \(Aurum\)](https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99) | 2:40 |

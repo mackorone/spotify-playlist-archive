@@ -4,7 +4,7 @@
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 2 min
+62 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Falling Stars](https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:42 | 2025-08-16 |  |
 | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 | 2025-07-04 |  |
 | [Fire on the Horizon](https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:27 | 2025-07-04 |  |
-| [Fools Gold](https://open.spotify.com/track/3mjKFSYhauWShsarAEDtJU) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 1:53 | 2025-11-19 |  |
+| [Fools Gold](https://open.spotify.com/track/3mjKFSYhauWShsarAEDtJU) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 1:53 | 2025-11-19 | 2025-12-14 |
 | [Forever](https://open.spotify.com/track/1UM8l7AkaYK6jdeaFQW9EH) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Forever](https://open.spotify.com/album/3D8K2mdcOnYPdvxExDiUAa) | 3:54 | 2025-11-08 | 2025-12-08 |
 | [Forever](https://open.spotify.com/track/6AOAthWo71IHyLjwPMEXjr) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 3:54 | 2025-12-09 |  |
 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 | 2025-07-04 |  |
@@ -46,7 +46,7 @@
 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 | 2025-07-04 | 2025-08-16 |
 | [Paradise](https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:10 | 2025-07-04 |  |
 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 | 2025-07-04 |  |
-| [Rudeboy Riddim](https://open.spotify.com/track/0I6a9PuokMxDn6JrBtoUsg) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:15 | 2025-11-19 |  |
+| [Rudeboy Riddim](https://open.spotify.com/track/0I6a9PuokMxDn6JrBtoUsg) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:15 | 2025-11-19 | 2025-12-14 |
 | [Shine](https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:29 | 2025-07-04 |  |
 | [Show Love \(with Stick Figure\)](https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03) | [Sensamotion](https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Feel It All Around](https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01) | 3:14 | 2025-09-16 |  |
 | [Show Love \(with Stick Figure\)](https://open.spotify.com/track/77sjqCc9fDW6YdQ1NpAUyo) | [Sensamotion](https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Show Love \(with Stick Figure\)](https://open.spotify.com/album/1xzKO7tdVCsQuGrRYWxwnb) | 3:14 | 2025-07-04 | 2025-09-16 |
@@ -66,7 +66,8 @@
 | [Warning \(feat\. Stick Figure\)](https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Local Motion](https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0) | 3:52 | 2025-07-04 |  |
 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:13 | 2025-07-04 |  |
 | [Weight of Sound](https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 7:23 | 2025-07-04 |  |
-| [Welcome to My World](https://open.spotify.com/track/3aGUMAygaH3ne0AXyutHle) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Welcome to My World](https://open.spotify.com/album/4SdLtYp7F85nVAAmEWy8j7) | 2:59 | 2025-11-01 |  |
+| [Welcome to My World](https://open.spotify.com/track/1FDenbSYT98eqHUcP34yx5) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:59 | 2025-12-14 |  |
+| [Welcome to My World](https://open.spotify.com/track/3aGUMAygaH3ne0AXyutHle) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Welcome to My World](https://open.spotify.com/album/4SdLtYp7F85nVAAmEWy8j7) | 2:59 | 2025-11-01 | 2025-12-14 |
 | [What a Feeling](https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [What a Feeling](https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov) | 3:49 | 2025-07-04 |  |
 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 | 2025-07-04 |  |
 

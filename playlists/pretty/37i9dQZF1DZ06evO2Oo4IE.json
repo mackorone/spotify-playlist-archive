@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 188299,
+  "num_followers": 188305,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADW2zqyGEiaj6Vl70k9BjGV",
+  "snapshot_id": "aTtbAAAAAACpRdhX0Xp+06KmhHMwXykw",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin's Greatest Hits",
-        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 479600,
-      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raw Velvet (Live '66)",
         "url": "https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 231549,
       "name": "Call On Me - Live",
       "url": "https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janis Joplin's Greatest Hits",
+        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 479600,
+      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
     },
     {
       "added_at": null,

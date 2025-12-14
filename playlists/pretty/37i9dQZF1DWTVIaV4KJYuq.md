@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,551 likes - 110 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,572 likes - 110 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 67 | [Unchained Melody \(feat\. The Chapin Sisters\)](https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4), [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Classics](https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX) | 3:50 |
 | 68 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
 | 69 | [Tiny Dancer \- Live at Newport Music Festival, Newport, RI \- July 2002](https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Ben Folds Live](https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8) | 5:23 |
-| 70 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 |
-| 71 | [More Than a Woman](https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [More Than a Woman](https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM) | 3:44 |
+| 70 | [More Than a Woman](https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [More Than a Woman](https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM) | 3:44 |
+| 71 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 |
 | 72 | [Rocket Man](https://open.spotify.com/track/5ujvc1IFzGeBn2hsDX2n6w) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Rocket Man](https://open.spotify.com/album/2ybfxBbMNc3lyY3ekDuDy4) | 2:54 |
 | 73 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 74 | [California Dreamin \- Acoustic Mix](https://open.spotify.com/track/4FmVtdjLVhzHpNuBhMF8Wj) | [Freischwimmer](https://open.spotify.com/artist/185m2EJWTIm36MdqguiU8T) | [California Dreamin](https://open.spotify.com/album/561Ly3AThHF8GOSY0tm0Al) | 3:28 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 101 | [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 |
 | 102 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
 | 103 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
-| 104 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
-| 105 | [With A Little Help From My Friends](https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N) | 5:12 |
+| 104 | [With A Little Help From My Friends](https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N) | 5:12 |
+| 105 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
 | 106 | [Wicked Game](https://open.spotify.com/track/2a3B6JI0mY3QA5V9m8VzbY) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Gun Shy](https://open.spotify.com/album/6jvANzf2UaI8JmXllNzFD3) | 4:11 |
 | 107 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
 | 108 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |

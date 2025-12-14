@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,891 likes - 48 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,919 likes - 48 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 27 | [Le da Igual](https://open.spotify.com/track/30aOv2QHVEqm4PmDdJ6uvl) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Le da Igual](https://open.spotify.com/album/2HDu1meEZDzEvSq8BZtRYs) | 4:09 |
 | 28 | [Ideas Nuevas](https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:11 |
 | 29 | [Lento](https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Lento](https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB) | 3:49 |
-| 30 | [Para Mi](https://open.spotify.com/track/0rTsf701vQZJ45qhWyFde9) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/0MCdpAW6Uu1DKJ6xhrl85x) | 4:27 |
-| 31 | [Despertador Solar](https://open.spotify.com/track/0wciFVroPzYjoCcJjKzp3Z) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:19 |
+| 30 | [Despertador Solar](https://open.spotify.com/track/0wciFVroPzYjoCcJjKzp3Z) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:19 |
+| 31 | [Para Mi](https://open.spotify.com/track/0rTsf701vQZJ45qhWyFde9) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/0MCdpAW6Uu1DKJ6xhrl85x) | 4:27 |
 | 32 | [Musica Sin Tiempo](https://open.spotify.com/track/6YfZ7Mw1yjo97Ae7ZU5v3Z) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Musica Sin Tiempo](https://open.spotify.com/album/13pukodIQcLgPOSeekqsJj) | 4:44 |
 | 33 | [No Me Interesa](https://open.spotify.com/track/1lIBlgWFQCN9zLwUaUMJfL) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:44 |
 | 34 | [Árboles](https://open.spotify.com/track/109IRvp8IFTgPDllZdyWJV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:25 |
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 37 | [Suelta los Amarres](https://open.spotify.com/track/76G33BEy8ztidGLSPWlU1b) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:05 |
 | 38 | [Borikén](https://open.spotify.com/track/0i9k4cD2p8nqOLt0HMlIwh) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:15 |
 | 39 | [Love and Happiness](https://open.spotify.com/track/5NCh2Aw9rXRPTf5fETJgor) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 5:08 |
-| 40 | [Lágrimas](https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Lágrimas](https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu) | 4:40 |
-| 41 | [Tempestad Tranquila](https://open.spotify.com/track/3ITXSEYKUp1ISVFhWRClIx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV) | 3:37 |
+| 40 | [Tempestad Tranquila](https://open.spotify.com/track/3ITXSEYKUp1ISVFhWRClIx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV) | 3:37 |
+| 41 | [Lágrimas](https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Lágrimas](https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu) | 4:40 |
 | 42 | [Te Me Puedo Escapar](https://open.spotify.com/track/762XrYAcOYyYTQl9Ziypct) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Desahogo](https://open.spotify.com/album/3NKiKaXsCZTih6ZklMdJBN) | 5:16 |
 | 43 | [Reggea Rústico](https://open.spotify.com/track/34fBKRTK9eXXWF6DoUsgp4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 4:44 |
-| 44 | [Hasta la Noche \(Ilegal\)](https://open.spotify.com/track/6hpBf1QXo93YoGDipKr5wx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/0Niz5BRAbOVpC9tX2M4lCG) | 5:07 |
-| 45 | [Bocanada \- En Vivo](https://open.spotify.com/track/5hHsaH5b6zEKKo1igorHhT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/4O1tWQDZLiE3cE4fRv6a0C) | 4:29 |
+| 44 | [Bocanada \- En Vivo](https://open.spotify.com/track/5hHsaH5b6zEKKo1igorHhT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/4O1tWQDZLiE3cE4fRv6a0C) | 4:29 |
+| 45 | [Hasta la Noche \(Ilegal\)](https://open.spotify.com/track/6hpBf1QXo93YoGDipKr5wx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/0Niz5BRAbOVpC9tX2M4lCG) | 5:07 |
 | 46 | [La Musica](https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Codigos Del Alma](https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS) | 5:07 |
 | 47 | [Ley Natural](https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 6:22 |
 | 48 | [La Otra Galaxia](https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Ideas Nuevas](https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R) | 2:13 |
 
-Snapshot ID: `aToJgAAAAAAR9O6d5UOhNiDhlnJwjG1Q`
+Snapshot ID: `aTtbAAAAAADlz3PRe/39jUaBD+vs7Mod`

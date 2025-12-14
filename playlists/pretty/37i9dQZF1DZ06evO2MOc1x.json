@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 52577,
+  "num_followers": 52580,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAB8eVBgyL84d+k1QDO3lwDY",
+  "snapshot_id": "aTtbAAAAAAC6v4okIklTuTukeu9W10xU",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "Home - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Home - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "I Feel the Same - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0R5BQ3uQkPKITB7rDgNUhh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dog Ear",
         "url": "https://open.spotify.com/album/4QY53gmPaPnWAIHFiENYhK"
       },
@@ -603,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' My Time",
-        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "I Feel the Same - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0R5BQ3uQkPKITB7rDgNUhh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souls Alike",
-        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "I Will Not Be Broken",
-      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+        "name": "Souls Alike",
+        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Love Sneakin' Up On You",
-      "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
+      "duration_ms": 218960,
+      "name": "I Will Not Be Broken",
+      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Love Sneakin' Up On You",
+      "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 244560,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Write Me a Few of Your Lines / Kokomo Blues - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 213666,
       "name": "Good Man, Good Woman",
       "url": "https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' My Time",
-        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Write Me a Few of Your Lines / Kokomo Blues - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. A Carson Com\u00e1val k\u00f6z\u00f6sen \u00f6ssze\u00e1ll\u00edtott lej\u00e1tsz\u00e1si lista.",
-  "num_followers": 16026,
+  "num_followers": 16041,
   "original_name": "Nemazapop takeover by Carson Coma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPXI5UpVyflBLTjJi/NyeWY7j8uW",
+  "snapshot_id": "AAAAAL1PQzyX5WpBRNjNxMqJOpK8IOO+",
   "tracks": [
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
+        "name": "Az a szerelem",
+        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Az a szerelem",
+      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
         "name": "Sose halok meg",
         "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 128578,
       "name": "Sose halok meg",
       "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
-        "name": "Az a szerelem",
-        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Az a szerelem",
-      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
-      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "IM\u00c1G\u00d3",
         "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 185142,
       "name": "\u00dcDV A KLUBBAN",
       "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+        "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "hov\u00e1sz\u00f6kt\u00e9l?",
+      "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
     },
     {
       "added_at": "2025-12-04 23:00:15",

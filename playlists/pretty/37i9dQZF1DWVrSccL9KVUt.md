@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Frannie Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,469 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,480 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [Groove](https://open.spotify.com/track/3qB1ofzNRxrb3WLiMO1JNn) | [Holly Maduma](https://open.spotify.com/artist/00EIRyVAvMEKy4h5KDdUxH), [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [Groove](https://open.spotify.com/album/5D4wOE49SKljGRvWMfSBqm) | 3:14 |
 | 80 | [One Thing He Wouldn't Do](https://open.spotify.com/track/1XkMo7w7CfptNggLuJEoq9) | [Holly Brand](https://open.spotify.com/artist/7g6SnEgo46bultqgcRI5FI) | [One Thing He Wouldn't Do](https://open.spotify.com/album/24ZkWSBYktXLgQcvGfphIA) | 3:28 |
 
-Snapshot ID: `AAAAACKC9cYlj1ce4pInCo3KxaCP+4b/`
+Snapshot ID: `AAAAANMofV95cPO8TZ4wU5Xj6t6LCGBy`

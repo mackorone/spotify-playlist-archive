@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 > This is Julieta Venegas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,192 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,223 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 34 | [Te Vi](https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Los Momentos](https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49) | 3:29 |
 | 35 | [Mírame Bien](https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:36 |
 | 36 | [La Mirada](https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Cuentito](https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ) | 3:14 |
-| 37 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa) | 3:38 |
-| 38 | [Mala Memoria](https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:02 |
+| 37 | [Mala Memoria](https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:02 |
+| 38 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa) | 3:38 |
 | 39 | [Tu Cárcel](https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:40 |
 | 40 | [Tu Calor](https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH) | 3:20 |
 | 41 | [Tu Nombre \- Live](https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 49 | [Tristeza de la Ciudad](https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Tristeza de la Ciudad](https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ) | 2:44 |
 | 50 | [De Ti](https://open.spotify.com/track/1G4blOR671oPTfalkEIabL) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [De Ti](https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj) | 3:44 |
 
-Snapshot ID: `aToJgAAAAAB2aRRv2VOs08ITsWI8naP0`
+Snapshot ID: `aTtbAAAAAACySqDTwYFYjPbi/6ir9suP`

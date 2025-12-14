@@ -4,7 +4,7 @@
 
 > This is Ivan Cornejo\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 9 min
+39 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Tatuajes \- Deluxe](https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:18 | 2024-08-08 |  |
 | [Te Sigo Extrañando](https://open.spotify.com/track/16vD4FNr9InS8EC2K6bj1X) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:16 | 2024-08-08 |  |
 | [Triste](https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Triste](https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8) | 2:46 | 2024-08-08 |  |
+| [ven a mi casa esta navidad](https://open.spotify.com/track/3ELI7WxrRSvTuzWnVuUT4H) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ven a mi casa esta navidad](https://open.spotify.com/album/3aAKIMnGWS3onBBquYKECS) | 3:16 | 2025-12-14 |  |
 | [Vuelve](https://open.spotify.com/track/60fniRXixufxR4HCYjOyp6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:42 | 2024-08-08 |  |
 | [Ya Te Perdí \- Deluxe](https://open.spotify.com/track/4Nvm7kFymlxLeF5Qd69nuB) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 4:24 | 2024-08-08 |  |
 | [¡Corre!](https://open.spotify.com/track/6Ro1yaANVwZmoREZa5P8Bz) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:49 | 2025-09-28 | 2025-09-29 |

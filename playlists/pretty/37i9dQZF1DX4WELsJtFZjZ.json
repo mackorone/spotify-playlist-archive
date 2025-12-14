@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1628681,
+  "num_followers": 1629155,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Ice On Fire",
         "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
       },
@@ -1111,34 +1111,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 254476,
-      "name": "These Dreams",
-      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+      "duration_ms": 246933,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 236306,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+      "duration_ms": 254476,
+      "name": "These Dreams",
+      "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 287933,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Stars (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 257759,
-      "name": "For Your Babies",
-      "url": "https://open.spotify.com/track/58zZvqjTZdm98YhZXvsATa"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+        "name": "Stars (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 233400,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
+      "duration_ms": 257759,
+      "name": "For Your Babies",
+      "url": "https://open.spotify.com/track/58zZvqjTZdm98YhZXvsATa"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 318687,
       "name": "Man in the Mirror - 2012 Remaster",
       "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Lionel Richie",
-        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Truly",
-      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 266533,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Lionel Richie",
+        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Truly",
+      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Themes From \"Calmi Cuori Appassionati\"",
-        "url": "https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8"
-      },
-      "artists": [
-        {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Orinoco Flow",
-      "url": "https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 307027,
       "name": "Didn't We Almost Have It All",
       "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Themes From \"Calmi Cuori Appassionati\"",
+        "url": "https://open.spotify.com/album/6GWptUmmrWPABTWSed7Ow8"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Orinoco Flow",
+      "url": "https://open.spotify.com/track/0Fyj9w0HVfjoxm9S8nGClt"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "All That Jazz",
+        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
+      },
+      "artists": [
+        {
+          "name": "Breathe",
+          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
+        }
+      ],
+      "duration_ms": 284360,
+      "name": "How Can I Fall ?",
+      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 245413,
       "name": "Shake You Down",
       "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "All That Jazz",
-        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
-      },
-      "artists": [
-        {
-          "name": "Breathe",
-          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
-        }
-      ],
-      "duration_ms": 284360,
-      "name": "How Can I Fall ?",
-      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Essential Cyndi Lauper",
-        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Maxi",
         "url": "https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 218426,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "The Essential Cyndi Lauper",
+        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",

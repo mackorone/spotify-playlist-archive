@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280363,
+  "num_followers": 280356,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAET15iqhclK8paeBpmbHnm",
+  "snapshot_id": "aTtbAAAAAADo5hdRTorbyw9uRO5KDXvJ",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFTER",
-        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
+        "name": "LIA CLARK",
+        "url": "https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx"
       },
       "artists": [
         {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "O Kannalha",
-          "url": "https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 150824,
-      "name": "Penetra - Pedro Sampaio Remix",
-      "url": "https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq"
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/4opMbzrzvBDYyCdph6Slsr"
     },
     {
       "added_at": null,
@@ -619,22 +615,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIA CLARK",
-        "url": "https://open.spotify.com/album/4rrmFsCIpXicqb0UL0ledx"
+        "name": "AFTER",
+        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
       "artists": [
         {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "O Kannalha",
+          "url": "https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/4opMbzrzvBDYyCdph6Slsr"
+      "duration_ms": 150824,
+      "name": "Penetra - Pedro Sampaio Remix",
+      "url": "https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq"
     },
     {
       "added_at": null,

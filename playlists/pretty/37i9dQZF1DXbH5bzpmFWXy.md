@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. CAPO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,422 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,419 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 57 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 |
 | 58 | [Entre las de 20](https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Entre las de 20](https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6) | 2:48 |
 | 59 | [ANDO](https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ANDO](https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D) | 2:52 |
-| 60 | [Apaga El Cel](https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Apaga El Cel](https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ) | 2:50 |
-| 61 | [P.I.M.P\. \- Snoop Dogg Remix](https://open.spotify.com/track/0fLILzjVXRCLC0lsNKcQ8I) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 4:48 |
+| 60 | [P.I.M.P\. \- Snoop Dogg Remix](https://open.spotify.com/track/0fLILzjVXRCLC0lsNKcQ8I) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 4:48 |
+| 61 | [Apaga El Cel](https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Apaga El Cel](https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ) | 2:50 |
 | 62 | [Pocos Años Mil Errores](https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Carlos Manjarrez](https://open.spotify.com/artist/3nmpoFfQfHCsqho4taq5FK) | [Pocos Años Mil Errores](https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe) | 3:18 |
 | 63 | [Skin de Bandida](https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Skin de Bandida](https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw) | 2:56 |
 | 64 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 91 | [Capuchas](https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Capuchas](https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut) | 2:37 |
 | 92 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 93 | [Abayarde](https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:22 |
-| 94 | [La Brabus](https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Brabus](https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72) | 3:29 |
-| 95 | [La Despedida](https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [La Despedida](https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB) | 2:28 |
+| 94 | [La Despedida](https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [La Despedida](https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB) | 2:28 |
+| 95 | [La Brabus](https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Brabus](https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72) | 3:29 |
 | 96 | [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 |
 | 97 | [OKRA](https://open.spotify.com/track/74ZovzRxHBvCq5yIwe8boh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OKRA](https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6) | 2:31 |
 | 98 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |

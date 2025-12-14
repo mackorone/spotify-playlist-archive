@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Nunca Jamás en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,343 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,308 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 97 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 |
 | 98 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
 | 99 | [El Recuento de los Daños](https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [!!Puro Macanazo!!](https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ) | 4:31 |
-| 100 | [Las chingadas ganas de llorar](https://open.spotify.com/track/1NNx5a7BoQrKym6DKxmTAI) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Las chingadas ganas de llorar](https://open.spotify.com/album/6TR5ROAqehRhQDMAeOmqeR) | 3:19 |
+| 100 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 |
 
 Snapshot ID: `AAAAADA0BNck/yAJTnF4xriLisCk9fgd`

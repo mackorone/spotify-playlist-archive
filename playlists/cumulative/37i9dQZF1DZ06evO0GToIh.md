@@ -4,7 +4,7 @@
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 22 min
+104 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 | 2024-01-29 | 2025-11-11 |
 | [Alias Jabón](https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:03 | 2024-01-29 | 2024-04-27 |
 | [Amor Clandestino](https://open.spotify.com/track/0zmd3kkK4FL9qYBXhWiOKW) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:46 | 2024-01-29 | 2024-08-06 |
-| [Amor Clandestino](https://open.spotify.com/track/2Xi56Opl3a3lN6zgciEHO7) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Noches De Cantina](https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g) | 3:46 | 2025-06-20 |  |
+| [Amor Clandestino](https://open.spotify.com/track/2Xi56Opl3a3lN6zgciEHO7) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Noches De Cantina](https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g) | 3:46 | 2025-06-20 | 2025-12-14 |
 | [Aprovecha](https://open.spotify.com/track/14IFxN2AyzgRhFNTzOou1Z) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:32 | 2025-09-06 |  |
 | [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 | 2024-01-29 | 2024-08-25 |
 | [Bandido](https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Bandido](https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF) | 3:25 | 2024-01-29 | 2025-06-20 |
@@ -109,6 +109,7 @@
 | [Viejo](https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:01 | 2024-01-29 |  |
 | [Vuela Tú](https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vuela Tú](https://open.spotify.com/album/6HNlpNS9D207IT2vMafv4V) | 2:35 | 2024-01-29 | 2025-09-02 |
 | [Y Me Verán](https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:05 | 2024-01-29 |  |
+| [Yo No Sé Mañana](https://open.spotify.com/track/3Nebmmt4YUQl1CI13ublVu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 4:23 | 2025-12-14 |  |
 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 | 2024-01-29 | 2024-12-23 |
 | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [¿CÓMO TE FUE SIN MÍ?](https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP) | 3:36 | 2024-04-21 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,469 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,472 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 37 | [Mi Padre Me Ama \- Adoración Espontánea](https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef) | 7:38 |
 | 38 | [Como Dijiste](https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J) | [Aliento Kids](https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ambientes de Cuna](https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu) | 7:32 |
 | 39 | [Más Alto Honor](https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS) | 5:50 |
-| 40 | [El Gran Nombre del Señor](https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX) | 4:29 |
-| 41 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 |
+| 40 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 |
+| 41 | [El Gran Nombre del Señor](https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX) | 4:29 |
 | 42 | [Cristo Es Necesario](https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 4:05 |
 | 43 | [En Ti Confiaré](https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Desmayes Corazón](https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg) | 5:44 |
 | 44 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Seguirte](https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:38 |
 | 50 | [Para Mí Es Solo Cristo](https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 7:47 |
 
-Snapshot ID: `aToJgAAAAACqUOyGd8SXBwIazwG0T+QG`
+Snapshot ID: `aTtbAAAAAAA5Wbi0ow+eaPSTJ3rHIhRA`

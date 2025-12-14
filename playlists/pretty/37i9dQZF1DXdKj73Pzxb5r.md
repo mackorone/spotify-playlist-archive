@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Rifan Kalbuadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,944 likes - 93 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,946 likes - 93 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

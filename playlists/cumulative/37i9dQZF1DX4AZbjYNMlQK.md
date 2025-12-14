@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-217 songs - 11 hr 36 min
+218 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 | 2022-12-19 |  |
 | [Contigo](https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Contigo](https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX) | 2:23 | 2025-11-28 |  |
 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-25 |  |
-| [Diciembre](https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM) | [Ander](https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc), [Romo One](https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs) | [Diciembre](https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4) | 3:35 | 2023-12-20 |  |
+| [Diciembre](https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM) | [Ander](https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc), [Romo One](https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs) | [Diciembre](https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4) | 3:35 | 2023-12-20 | 2025-12-14 |
 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 | 2023-12-01 |  |
 | [Diciembre](https://open.spotify.com/track/4uXPGx3gKGFYPx6kkQfUm5) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 3:08 | 2021-12-15 | 2022-12-19 |
 | [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 | 2023-12-08 | 2025-12-10 |
@@ -216,6 +216,7 @@
 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/3FesP92gFJkKP3PMp2sYck) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/0EKT0DImKgqVlj93q9QfzX) | 3:10 | 2025-11-28 |  |
 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/5TjdsAoTKwSilPZAOayIEW) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 3:45 | 2022-11-08 | 2022-12-20 |
 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/5ISMjtLXxtXa5mWRQDaZK6) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/4uastmbjHgxrGP65Gigd4y) | 3:26 | 2022-12-19 | 2023-12-09 |
+| [ven a mi casa esta navidad](https://open.spotify.com/track/3ELI7WxrRSvTuzWnVuUT4H) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ven a mi casa esta navidad](https://open.spotify.com/album/3aAKIMnGWS3onBBquYKECS) | 3:16 | 2025-12-12 |  |
 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/4wzE6Qzq86autFUu0wZ9QF) | 2:34 | 2023-12-20 | 2025-11-29 |
 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 | 2022-12-18 |  |
 | [Volvernos a Encontrar](https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Volvernos a Encontrar](https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1) | 3:06 | 2023-11-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 
 > This is Lacuna Coil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,628 likes - 48 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,636 likes - 48 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 | 9 | [Losing My Religion](https://open.spotify.com/track/7tIXyFkZc4p3GTx5YQMbJl) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Dark Adrenaline](https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6) | 3:42 |
 | 10 | [Never Dawn](https://open.spotify.com/track/1GVFgRmh2yOam7YsezAQBj) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 4:49 |
 | 11 | [Blood, Tears, Dust](https://open.spotify.com/track/6gXWMvHAZ8EPYRmcXXoNxk) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Delirium](https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs) | 3:55 |
-| 12 | [Reckless](https://open.spotify.com/track/5LudgNwTAhX2sjfzdpLyAD) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 3:05 |
+| 12 | [These Scars Won't Define Us \- Tour Version](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us \(Tour Version\)](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 |
 | 13 | [Kill The Light](https://open.spotify.com/track/3DJbHfY5CMfsEDO935cWd5) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Dark Adrenaline](https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6) | 3:34 |
 | 14 | [Gravity](https://open.spotify.com/track/1ipx7qJSnTuFuPGnPnLWp8) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 4:03 |
-| 15 | [These Scars Won't Define Us \- Tour Version](https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [These Scars Won't Define Us \(Tour Version\)](https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab) | 3:32 |
+| 15 | [Reckless](https://open.spotify.com/track/5LudgNwTAhX2sjfzdpLyAD) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Black Anima \(Bonus Tracks Version\)](https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d) | 3:05 |
 | 16 | [We Might Be Giants](https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw), [Peyton Parrish](https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc), [Cristina Scabbia](https://open.spotify.com/artist/7AEYSYdB4fWxrRWCMtP2qk), [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Finsterwacht](https://open.spotify.com/album/6VbJXyZrazAAEfaS7uOyH1) | 3:39 |
 | 17 | [End of Time](https://open.spotify.com/track/5aDNR9kL3HsG3kUAeuguHl) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Dark Adrenaline](https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6) | 3:52 |
 | 18 | [Oxygen](https://open.spotify.com/track/4EsCBMrhAjCNu84DAo1tOn) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 3:45 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 | 47 | [Stars](https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [The Eps\- Lacuna Coil/halflife](https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG) | 4:41 |
 | 48 | [Entwined XX](https://open.spotify.com/track/5OpNtpewQJsLhyM11ZiyfC) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:51 |
 
-Snapshot ID: `aToJgAAAAAAwoCWGz7elq6dM7qLcrdas`
+Snapshot ID: `aTtbAAAAAAAEZfbjZHfvqQmmgGTibM0N`

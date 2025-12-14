@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: NCT DREAM\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: DOYOUNG\(도영\)\) \(Enjoy a playlist of songs that support music video features!\)
 
-175 songs - 9 hr 41 min
+178 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [La La Love Me](https://open.spotify.com/track/67HEeCRSWYzGfZEqgwl51b) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [La La Love Me](https://open.spotify.com/album/6RaOlm1b2E4KbcfSHfP6LI) | 3:10 | 2025-07-15 |  |
 | [Lemon Drop](https://open.spotify.com/track/09d3tp7hN0NrXMUdzJg8pB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Lemon Drop](https://open.spotify.com/album/09IydXd1KOgReAONummjt5) | 3:43 | 2025-07-15 |  |
 | [like JENNIE](https://open.spotify.com/track/2cYzrDoBQNHuZ1a8gn91Qx) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [like JENNIE](https://open.spotify.com/album/18D8t8yEsudCJfFYIzcEI1) | 3:02 | 2025-07-15 | 2025-08-20 |
+| [LOOK AT ME](https://open.spotify.com/track/7LUZEEGVPp2SsMUlUKg6sq) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [LOOK AT ME](https://open.spotify.com/album/2JiloDVxdzXC2DfLbUms7m) | 2:47 | 2025-12-13 |  |
 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm) | 4:06 | 2025-07-15 |  |
 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/2RCriW55nKo1k49PcgnzeK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661) | 4:06 | 2025-07-15 |  |
 | [Love Hangover](https://open.spotify.com/track/2yEdI37BR4XQsATAbtbBD0) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover](https://open.spotify.com/album/1OdyqCJWhfsRrhUarGejF1) | 3:37 | 2025-07-15 | 2025-08-20 |
@@ -131,6 +132,7 @@
 | [PARADISE](https://open.spotify.com/track/2yQgi0Zzx9E8wfmWDj5H7z) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [PARADISE](https://open.spotify.com/album/5yzF3SY6QRaB10ZxXtBvDU) | 3:03 | 2025-10-24 |  |
 | [Pivot](https://open.spotify.com/track/3A4rp0uvOKv1hyBFuPjSrx) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Pivot](https://open.spotify.com/album/2CN32qHnw9sXYEZpdScw4f) | 3:10 | 2025-07-15 | 2025-08-20 |
 | [POWER \[Official Video\]](https://open.spotify.com/track/3v4QrvFs2vFAht1MdOiAC8) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER \[Official Video\]](https://open.spotify.com/album/3SoygZ2zWfBPX3TSE9i2Kx) | 2:46 | 2025-07-15 | 2025-08-20 |
+| [Promise](https://open.spotify.com/track/6Dxr0JrIN3wOMhNQzxL9RW) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/4zjAHJSBQp7bifv39za7Kq) | 4:04 | 2025-12-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/4ABOx8gMHbKsWYrMOBa2ZD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/7DDuWzLVKJxRKPuKUgH9Ob) | 3:53 | 2025-08-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/1RJBfvb4imdz0YE0UMoG70) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/4Ze2b2wEqXr6dxntYIBnqk) | 3:55 | 2025-08-13 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/2GvaC8VwVrNwGTyrptfyhr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/7CYADSNmR8ZFjhrIg8JCqf) | 4:10 | 2025-08-13 |  |
@@ -154,6 +156,7 @@
 | [Summer Was You](https://open.spotify.com/track/3lM3PaTT8YhB4Tg7lqzLDg) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [Summer Was You](https://open.spotify.com/album/5AupM0jo6m6ZTgbamHUi1o) | 3:49 | 2025-07-15 |  |
 | [Supersonic](https://open.spotify.com/track/6MgrUUsEO2e17ESSp3iqf3) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1CAVxhbmoPHHpZEb5fDOsT) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/7kNbvAcTd6uiA4yWc5eOMr) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/6p4huDF8rJ4HVPQD3TF3iJ) | 3:38 | 2025-07-15 | 2025-08-20 |
+| [The Reason](https://open.spotify.com/track/2byNQPJUMOmyKdaQSw0k15) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason](https://open.spotify.com/album/2XhgPDYlVpFwirVHaHubHw) | 3:08 | 2025-12-13 |  |
 | [THIS IS FOR](https://open.spotify.com/track/5D3yEO19Qolv5NNK4WUyDL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/62742xRMCVA32EzRjyie94) | 2:13 | 2025-07-15 |  |
 | [THRILLER](https://open.spotify.com/track/0pKZGh1aecHm3JwouoKTdU) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [THRILLER](https://open.spotify.com/album/6g6IrJ9NH4WzXeegihzWjI) | 2:57 | 2025-10-24 |  |
 | [THUNDER](https://open.spotify.com/track/09cHsbaNC0cbuKgMzewblU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [THUNDER](https://open.spotify.com/album/4INtQ8JM15ujyeZU56L4Yd) | 3:05 | 2025-07-15 |  |

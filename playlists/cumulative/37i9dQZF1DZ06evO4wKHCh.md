@@ -4,7 +4,7 @@
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 21 min
+34 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 | 2024-01-10 |  |
 | [End of an Era](https://open.spotify.com/track/5esqIDtXmnl0EIoiuLFsjp) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 2:13 | 2024-01-10 |  |
 | [Ferris Bueller](https://open.spotify.com/track/14YzvOvrATzkS7f5sJOw2k) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 1:57 | 2024-01-10 |  |
+| [Ginger Tea](https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 2:37 | 2025-12-14 |  |
 | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 | 2024-01-10 |  |
 | [Human Being \- Demo](https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 1:59 | 2024-07-21 |  |
 | [Irresponsible](https://open.spotify.com/track/0zlJpc8mUU9x92uU8t5f6p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:04 | 2024-01-10 |  |

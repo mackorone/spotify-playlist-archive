@@ -1,29 +1,13 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 312925,
+  "num_followers": 312982,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAD1R4CphT5wMh9toZUJtqKE",
+  "snapshot_id": "aTtbAAAAAAC0In9dTADJeScFYirYZ5A/",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 189915,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
-    },
     {
       "added_at": null,
       "album": {
@@ -91,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 189915,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tipping Point",
         "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
       },
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "Peace Sells - Remastered",
-      "url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rust In Peace (2004 Remix / Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 319266,
       "name": "Tornado Of Souls - 2004 Remix",
       "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Sells...But Who's Buying (Deluxe Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "Peace Sells - Remastered",
+      "url": "https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rust In Peace (2004 Remix / Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 311200,
       "name": "Hangar 18 - 2004 Remix",
       "url": "https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Lying In State",
-      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
+      "duration_ms": 219800,
+      "name": "Architecture Of Aggression",
+      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Architecture Of Aggression",
-      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
+      "duration_ms": 214013,
+      "name": "Lying In State",
+      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
       "duration_ms": 327600,
       "name": "Addicted To Chaos - Remastered 2004",
       "url": "https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "The Threat Is Real",
-      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 344066,
       "name": "Rust In Peace...Polaris - 2004 Remix",
       "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "The Threat Is Real",
+      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
     },
     {
       "added_at": null,

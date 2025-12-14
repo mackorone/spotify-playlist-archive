@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11000,
+  "num_followers": 11008,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAD5EZgD2SzygAcwoV1rpaSi",
+  "snapshot_id": "aTtbAAAAAABnZS9IbAalsRUp1DEgfefp",
   "tracks": [
     {
       "added_at": null,
@@ -292,29 +292,13 @@
       },
       "artists": [
         {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Ethan Slater",
-          "url": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
-        },
-        {
-          "name": "Marissa Bode",
-          "url": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 587364,
-      "name": "Dancing Through Life",
-      "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
+      "duration_ms": 237043,
+      "name": "I\u2019m Not That Girl",
+      "url": "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX"
     },
     {
       "added_at": null,
@@ -384,13 +368,29 @@
       },
       "artists": [
         {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Ethan Slater",
+          "url": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
+        },
+        {
+          "name": "Marissa Bode",
+          "url": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
+        },
+        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 237043,
-      "name": "I\u2019m Not That Girl",
-      "url": "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX"
+      "duration_ms": 587364,
+      "name": "Dancing Through Life",
+      "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Color Purple New Broadway Cast",
-          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "The Color Purple (Reprise)",
-      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Tarantino III",
         "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 140370,
       "name": "Inside (feat. Cynthia Erivo)",
       "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Color Purple New Broadway Cast",
+          "url": "https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "The Color Purple (Reprise)",
+      "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
     },
     {
       "added_at": null,

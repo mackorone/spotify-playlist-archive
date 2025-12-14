@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,930 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,931 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 39 | [Beautiful Night](https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Seoul Check\-in OST Part 5](https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD) | 3:20 |
 | 40 | [City View](https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 3:28 |
 | 41 | [I want to know](https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Law and The City, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst) | 3:32 |
-| 42 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 |
-| 43 | [Why](https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:08 |
+| 42 | [Why](https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:08 |
+| 43 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 |
 | 44 | [어떤 오후 One Afternoon](https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) | 3:35 |
-| 45 | [Bad Liar](https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Marry My Husband OST Special Track](https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh) | 3:50 |
-| 46 | [Ladies Night](https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:56 |
+| 45 | [Ladies Night](https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:56 |
+| 46 | [Bad Liar](https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Marry My Husband OST Special Track](https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh) | 3:50 |
 | 47 | [Dancing in the dark](https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy) | [Yeo Jin](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Dancing in the dark](https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF) | 2:48 |
 | 48 | [Beautiful Night](https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:39 |
 | 49 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 68 | [You always \- Digging Club Seoul Ver.](https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Onstage Digging Club Seoul Part.05](https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d) | 4:54 |
 | 69 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
 | 70 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
-| 71 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
-| 72 | [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 |
+| 71 | [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 |
+| 72 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
 | 73 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 |
 | 74 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
 | 75 | [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 90 | [Memories of Summer](https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 4:43 |
 | 91 | [Sign](https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 3:36 |
 | 92 | [EOY \(feat\. Jay Park\)](https://open.spotify.com/track/6aLCAV1PYK1ONbmXnLeu7L) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EOY \(Eyes On You\)](https://open.spotify.com/album/2zdE9YhMYxBUdUujScCtIt) | 4:13 |
-| 93 | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/track/3TuC6O1f6Ivb9UMnzlNmpn) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/album/4K8Otb0E6r4xA9ju6iaL0C) | 3:28 |
-| 94 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 |
+| 93 | [Sorrow](https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Sorrow](https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0) | 3:28 |
+| 94 | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/track/3TuC6O1f6Ivb9UMnzlNmpn) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [2025 Monthly Yoon July \- Summer Seoul](https://open.spotify.com/album/4K8Otb0E6r4xA9ju6iaL0C) | 3:28 |
 | 95 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 |
 | 96 | [What's Your Number?](https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89) | [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [What's Your Number? \- The 2nd Mini Album](https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC) | 4:00 |
 | 97 | [Love Poison](https://open.spotify.com/track/0wt5AcwmWf9woYfRIVHXsW) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [<Love Poison>](https://open.spotify.com/album/01xDFuamcPJOW7Olu7g3FT) | 3:30 |
 | 98 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
-| 99 | [ONE THING](https://open.spotify.com/track/1oXhoLpaiz77Gv2K4BhADJ) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [loveletters](https://open.spotify.com/album/3u179JE30IBPPUPuyDcH1O) | 3:56 |
-| 100 | [Drive Thru](https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [Drive Thru](https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH) | 3:02 |
+| 99 | [Drive Thru](https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o) | [Drive Thru](https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH) | 3:02 |
+| 100 | [LOL \(LOUDNESS OF LOVE\)](https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [FM302](https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY) | 3:46 |
 
 Snapshot ID: `AAAAAPfKMN3DZ+/Tj7B3j1V83msI1wAU`

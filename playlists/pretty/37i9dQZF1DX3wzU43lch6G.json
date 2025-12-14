@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114664,
+  "num_followers": 114660,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Divane",
+        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Gel Benimle",
+      "url": "https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Tepeler",
         "url": "https://open.spotify.com/album/1uieUXynGKSwtAR2mBZX6Z"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 173986,
       "name": "G\u00fcne\u015fe Dokundum",
       "url": "https://open.spotify.com/track/1XSHAC96a1iNeOsq4bqe4o"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Divane",
-        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Gel Benimle",
-      "url": "https://open.spotify.com/track/3uIIQaHIV0cOOmBtitN0BX"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Kaybolur",
-        "url": "https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ"
-      },
-      "artists": [
-        {
-          "name": "Soft Analog",
-          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
-        }
-      ],
-      "duration_ms": 292794,
-      "name": "Kaybolur",
-      "url": "https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Kuantum 51",
         "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 213973,
       "name": "M\u00fcte\u015fekkir",
       "url": "https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Kaybolur",
+        "url": "https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ"
+      },
+      "artists": [
+        {
+          "name": "Soft Analog",
+          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
+        }
+      ],
+      "duration_ms": 292794,
+      "name": "Kaybolur",
+      "url": "https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Esirinim",
-        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Esirinim",
-      "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Al Senin Olsun D\u00fcnya",
         "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 195805,
       "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
       "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Esirinim",
+        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Esirinim",
+      "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Demos",
+        "url": "https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c"
+      },
+      "artists": [
+        {
+          "name": "Kaan Bo\u015fnak",
+          "url": "https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "G\u00f6rd\u00fcm G\u00fcn\u00fcm\u00fc",
+      "url": "https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Leyla & Mecnun",
         "url": "https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 182544,
       "name": "Leyla & Mecnun",
       "url": "https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Demos",
-        "url": "https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c"
-      },
-      "artists": [
-        {
-          "name": "Kaan Bo\u015fnak",
-          "url": "https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "G\u00f6rd\u00fcm G\u00fcn\u00fcm\u00fc",
-      "url": "https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l"
     },
     {
       "added_at": "2025-07-10 21:06:57",

@@ -1,6 +1,6 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 888015,
+  "num_followers": 887975,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-12-08 06:57:18",
       "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
+    },
+    {
+      "added_at": "2025-12-08 06:57:18",
+      "album": {
         "name": "I\u2019m Only F**king Myself",
         "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 288000,
       "name": "Kalimutan Ka",
       "url": "https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w"
-    },
-    {
-      "added_at": "2025-12-08 06:57:18",
-      "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
     },
     {
       "added_at": "2025-12-08 06:57:18",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-12-08 06:57:18",
       "album": {
-        "name": "A Piece of You",
-        "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Constantin",
-          "url": "https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r"
-        }
-      ],
-      "duration_ms": 237225,
-      "name": "A Piece of You",
-      "url": "https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe"
-    },
-    {
-      "added_at": "2025-12-08 06:57:18",
-      "album": {
         "name": "Paradise - EP",
         "url": "https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 256453,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv"
+    },
+    {
+      "added_at": "2025-12-08 06:57:18",
+      "album": {
+        "name": "A Piece of You",
+        "url": "https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Constantin",
+          "url": "https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r"
+        }
+      ],
+      "duration_ms": 237225,
+      "name": "A Piece of You",
+      "url": "https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe"
     },
     {
       "added_at": "2025-12-08 06:57:18",

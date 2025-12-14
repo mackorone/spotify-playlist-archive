@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : San T
 
-259 songs - 14 hr 1 min
+260 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bosu](https://open.spotify.com/track/7FwHjQkA7QOEo7x1XWP39v) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [DANNY JIN](https://open.spotify.com/artist/6iFEDdWuZ5u1yivKaBB3Y8), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Bosu](https://open.spotify.com/album/6IVF2akmAW3qdUWf4kZ0m6) | 2:25 | 2025-03-19 | 2025-06-04 |
 | [BRAND NEW!](https://open.spotify.com/track/4cPbFVkwMnK3bbxCSROu3C) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb) | [BRAND NEW!](https://open.spotify.com/album/1w3EjAd1zUpegs35wLFNkI) | 2:49 | 2025-09-05 |  |
 | [BRAT Theory \(From "BRAT "\) \[Tamil\]](https://open.spotify.com/track/5FGCNCH2vD9wfX8dpnPvJg) | [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [BRAT Theory \(From "BRAT "\) \[Tamil\]](https://open.spotify.com/album/1fo739fjp0Q0zPfPv9JSX4) | 2:40 | 2025-03-30 | 2025-11-05 |
-| [Broke Flex](https://open.spotify.com/track/1Yr5zkukfXR0A7jytyeRqC) | [MaPi Rapz](https://open.spotify.com/artist/1o0LANvTHGyMSfAClJpHE1), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [Broke Flex](https://open.spotify.com/album/6Mh8TfaQUyInVUtPZzJWBc) | 2:43 | 2025-10-08 |  |
+| [Broke Flex](https://open.spotify.com/track/1Yr5zkukfXR0A7jytyeRqC) | [MaPi Rapz](https://open.spotify.com/artist/1o0LANvTHGyMSfAClJpHE1), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [Broke Flex](https://open.spotify.com/album/6Mh8TfaQUyInVUtPZzJWBc) | 2:43 | 2025-10-08 | 2025-12-14 |
 | [Brother Bigson Mandela](https://open.spotify.com/track/2mSoTLvQtGpUpCkxARsY8A) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Valliamma Peraandi \- Vol\. 01](https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG) | 3:11 | 2024-12-29 | 2025-01-31 |
 | [BUILD UP](https://open.spotify.com/track/074cUACH6LjzkaMQ9plZdp) | [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [BUILD UP](https://open.spotify.com/album/2DARaFFotC6l4PEoaHPAxM) | 2:35 | 2025-02-21 | 2025-08-26 |
 | [Bum Bum](https://open.spotify.com/track/139ea9g2vGIKGLJds7chkE) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [JQueen](https://open.spotify.com/artist/6xWnLYqorRmx45XVLwSouu) | [Nexa Music Season 3 \- The Lab \- Playlist 2](https://open.spotify.com/album/1JJnpHKrCEVd8xNXzCqtId) | 3:01 | 2025-06-04 | 2025-09-06 |
@@ -212,6 +212,7 @@
 | [Spirit](https://open.spotify.com/track/4IkYT5X2UhTFspK6MHCFHB) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e) | [Spirit](https://open.spotify.com/album/7nBphIEonczpCOPosngLfv) | 2:02 | 2025-11-12 |  |
 | [Stable In The Game](https://open.spotify.com/track/516ahJ811GuLW1vgz1H0aB) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/41z6TiF47cBMfGdzEd9PBr) | 3:23 | 2024-12-29 | 2025-01-31 |
 | [STFUP](https://open.spotify.com/track/5s5Iyv81LvOC3gVDwxzxFC) | [Ess\-K](https://open.spotify.com/artist/5e0FCm0Oo1s5BEz2i1NPQN), [2puff](https://open.spotify.com/artist/5JoZGRsU5az5UXyI3OAt3L) | [STFUP](https://open.spotify.com/album/5t32im9JgdiMylv3uLufaC) | 2:20 | 2025-09-01 |  |
+| [Street Legacy](https://open.spotify.com/track/7DMq1u7CatXYDb8Q7NyXWr) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Street Legacy](https://open.spotify.com/album/7bF867tpUs8CHF9ON46Rhw) | 3:12 | 2025-12-13 |  |
 | [SUMMER SHOT](https://open.spotify.com/track/0V4SJS6mJas5o2Aafcpqf8) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [VENGAYO](https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [SUMMER SHOT](https://open.spotify.com/album/0NQQdfpsVuH1noFDDzrnB6) | 2:06 | 2025-07-22 |  |
 | [Summer time](https://open.spotify.com/track/4pctI9qSCIrSigQSSHAdbS) | [Viibe](https://open.spotify.com/artist/6otU5m3h8UgQYne4d6VSLD), [Kathiravan](https://open.spotify.com/artist/2rLYw3q5r1WE4E9xLrVWIS) | [Summer time](https://open.spotify.com/album/4lxPp5kHNu8XWIAgjb2vob) | 2:28 | 2025-10-06 |  |
 | [Suna Pana \(feat\. Jeruson\)](https://open.spotify.com/track/5oFUweeBMoGCLs0UzqQ5Yj) | [Manikandan](https://open.spotify.com/artist/4ujp5wk5AK1cMq0LHzRzLv), [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Suna Pana \(feat\. Jeruson\)](https://open.spotify.com/album/03pKi5SyllM186lRtJhd22) | 3:23 | 2024-12-29 | 2025-12-13 |

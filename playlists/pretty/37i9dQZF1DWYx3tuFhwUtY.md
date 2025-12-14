@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,791 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,780 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 48 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
 | 49 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 |
 | 50 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 |
-| 51 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
-| 52 | [I Don't Know What You See In Me](https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [I Don't Know What You See In Me](https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw) | 3:39 |
+| 51 | [I Don't Know What You See In Me](https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [I Don't Know What You See In Me](https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw) | 3:39 |
+| 52 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
 | 53 | [MYSTERY](https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:35 |
 | 54 | [Move to San Francisco](https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Move to San Francisco](https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw) | 3:01 |
 | 55 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 71 | [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 |
 | 72 | [Yo Cuidé a Tu Amor](https://open.spotify.com/track/2rlnTBTeAYRCiWRV5OiSug) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Yo Cuidé a Tu Amor](https://open.spotify.com/album/3wyR3TSvyR0tn6m3OFnyAU) | 3:54 |
 | 73 | [Worthy Girl](https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Kills Birds](https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF) | 2:36 |
-| 74 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
-| 75 | [Lost Day](https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [Lost Day](https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG) | 2:55 |
+| 74 | [Lost Day](https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [Lost Day](https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG) | 2:55 |
+| 75 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
 
 Snapshot ID: `AAAAACv/h/DA8E+ItjQ9u84KVKQCnw22`

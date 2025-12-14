@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 42482,
+  "num_followers": 42502,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABXas69UZ2Gi6H46DTCXbeZ",
+  "snapshot_id": "aTtbAAAAAACoyF18BaJC/YqUzMMdByDP",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 198108,
+      "name": "DOG $HIT",
+      "url": "https://open.spotify.com/track/3o6Wg0EOBtWXPdufCes5Lj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dlow Curry",
         "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
       },
@@ -271,6 +291,26 @@
       "duration_ms": 229745,
       "name": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I LUV HER (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/6jQeSeqn9AdsCe0NMrylxH"
     },
     {
       "added_at": null,
@@ -295,26 +335,6 @@
       "duration_ms": 202285,
       "name": "BOP (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I LUV HER (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/6jQeSeqn9AdsCe0NMrylxH"
     },
     {
       "added_at": null,
@@ -383,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 128858,
-      "name": "HOLLON",
-      "url": "https://open.spotify.com/track/1Tt4m8l00BI85uOr5EqXUh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MARCH",
         "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
       },
@@ -411,6 +415,22 @@
       "duration_ms": 170666,
       "name": "MARCH",
       "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 128858,
+      "name": "HOLLON",
+      "url": "https://open.spotify.com/track/1Tt4m8l00BI85uOr5EqXUh"
     },
     {
       "added_at": null,
@@ -755,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
       },
@@ -791,22 +827,6 @@
       "duration_ms": 192567,
       "name": "Finesse (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL"
     },
     {
       "added_at": null,
@@ -1003,26 +1023,6 @@
       "duration_ms": 190276,
       "name": "No More Love",
       "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get In There (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 195005,
-      "name": "Get In There (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
     }
   ],
   "unique_name": "This Is GloRilla",

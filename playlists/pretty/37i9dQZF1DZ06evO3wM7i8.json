@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35413,
+  "num_followers": 35421,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAVRj3TZnXtn+T+34ae9X1W",
+  "snapshot_id": "aTtbAAAAAABPWcI8uttqWOLiGsAKxWfc",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt",
-        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 187594,
-      "name": "Sweet Georgia Brown",
-      "url": "https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Django Reinhardt",
         "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 222266,
       "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
       "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Django Reinhardt",
+        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187594,
+      "name": "Sweet Georgia Brown",
+      "url": "https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Out of Nowhere",
+      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Limitless Jazz, Vol. 31",
         "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 174640,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Out of Nowhere",
-      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Clouds 1940",
-        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Coucou",
-      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reinhardt, Django: Swingin' With Django (1937)",
         "url": "https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 188333,
       "name": "The Sheik of Araby",
       "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War Clouds 1940",
+        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol6 / 1937",
-        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Improvisation sur le 1er mvt concerto r\u00e9 mineur",
-      "url": "https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "European Swing Giants, Vol.9: Django Reinhardt, Vol. 2,The HMV / Electrola Sessions (Recorded 1936-1937 in Paris) and Django in Brussels (The RhythmeSessions Part 2, Recorded 1942)",
         "url": "https://open.spotify.com/album/0NORmBz3eeTDS57d8wIvGU"
       },
@@ -915,32 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangology (feat. St\u00e9phane Grappelli)",
-        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "I Saw Stars (feat. St\u00e9phane Grappelli) - Remastered 2002",
-      "url": "https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+        "name": "Djangologie Vol6 / 1937",
+        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
       },
       "artists": [
         {
@@ -948,9 +908,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 182866,
-      "name": "My Serenade",
-      "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
+      "duration_ms": 198800,
+      "name": "Improvisation sur le 1er mvt concerto r\u00e9 mineur",
+      "url": "https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8"
     },
     {
       "added_at": null,
@@ -991,6 +951,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "My Serenade",
+      "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangology (feat. St\u00e9phane Grappelli)",
+        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "I Saw Stars (feat. St\u00e9phane Grappelli) - Remastered 2002",
+      "url": "https://open.spotify.com/track/7bK6vG5VbBtSbr831Fgsi5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Indispensible Django Reinhardt (1949-1950)",
         "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
       },
@@ -1003,6 +1003,26 @@
       "duration_ms": 259306,
       "name": "Beyond The Sea (La Mer)",
       "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limitless Jazz, Vol. 32",
+        "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stephane Grappelli",
+          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS"
     },
     {
       "added_at": null,
@@ -1027,26 +1047,6 @@
       "duration_ms": 177240,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/6oM4MacpuZJH6VUhIQfy3L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limitless Jazz, Vol. 32",
-        "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Stephane Grappelli",
-          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS"
     },
     {
       "added_at": null,

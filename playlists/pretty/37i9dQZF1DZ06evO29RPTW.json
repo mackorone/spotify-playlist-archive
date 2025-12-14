@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 133382,
+  "num_followers": 133398,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABcXcSurkJKsbHIVE5LZLdy",
+  "snapshot_id": "aTtbAAAAAAA8l8bPmzCEXaRcbUg1jxcP",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 30400,
-      "name": "Call Of The Zombie",
-      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
+      "duration_ms": 251866,
+      "name": "Demonoid Phenomenon",
+      "url": "https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Demonoid Phenomenon",
-      "url": "https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB"
+      "duration_ms": 30400,
+      "name": "Call Of The Zombie",
+      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 200853,
-      "name": "Boom-Boom-Boom",
-      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
+      "duration_ms": 190600,
+      "name": "Shake Your Ass-Smoke Your Grass",
+      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Shake Your Ass-Smoke Your Grass",
-      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
+      "duration_ms": 200853,
+      "name": "Boom-Boom-Boom",
+      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
     },
     {
       "added_at": null,
@@ -755,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+        "name": "The Wrong Side of Heaven Volume 1 + 2",
+        "url": "https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t"
       },
       "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 198613,
-      "name": "Lucifer Rising",
-      "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
+      "duration_ms": 217847,
+      "name": "Burn MF (feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39"
     },
     {
       "added_at": null,
@@ -787,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wrong Side of Heaven Volume 1 + 2",
-        "url": "https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t"
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
       "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 217847,
-      "name": "Burn MF (feat. Rob Zombie)",
-      "url": "https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39"
+      "duration_ms": 198613,
+      "name": "Lucifer Rising",
+      "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > in the pic: actual Italians \(also, us Spotify editors curating this list are Italian! hi!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,538 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,539 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

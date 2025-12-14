@@ -11959,6 +11959,24 @@
     },
     {
       "album": {
+        "name": "Gabriela - Spotify Singles",
+        "url": "https://open.spotify.com/album/72XfFKK5lNKEbhiPRxXyd3"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184838,
+      "name": "Gabriela - Spotify Singles",
+      "url": "https://open.spotify.com/track/5zjQfzkf1umWY3T98RtX8b"
+    },
+    {
+      "album": {
         "name": "GAMMAL I GEMET",
         "url": "https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz"
       },
@@ -14932,7 +14950,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 154754,
       "name": "Hot Air Balloon",
       "url": "https://open.spotify.com/track/7CDxuWmKWMpUiGnWPck1ir"
@@ -16554,7 +16572,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 113454,
       "name": "Ikv\u00e4ll handlar det om oss (en drink)",
       "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
@@ -16882,7 +16900,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"

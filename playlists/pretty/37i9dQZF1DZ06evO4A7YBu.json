@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 41777,
+  "num_followers": 41784,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADeHc3LcJmjU6a0UvVVqzmX",
+  "snapshot_id": "aTtbAAAAAAB9VuvICMSAM2SmMOjv9oC+",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Worth Dyin For",
-      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
+      "duration_ms": 236066,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 236066,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/2pk8DnOTpSmFw0DBSBHSjh"
+      "duration_ms": 206506,
+      "name": "Worth Dyin For",
+      "url": "https://open.spotify.com/track/7n84Px9d3eBa7G5W6YoHip"
     },
     {
       "added_at": null,
@@ -747,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+        "name": "Loud Rocks",
+        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
       "artists": [
         {
           "name": "Static-X",
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        },
+        {
+          "name": "Dead Prez",
+          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
         }
       ],
-      "duration_ms": 161013,
-      "name": "No Submission",
-      "url": "https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo"
+      "duration_ms": 232200,
+      "name": "Hip Hop",
+      "url": "https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP"
     },
     {
       "added_at": null,
@@ -779,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud Rocks",
-        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
       },
       "artists": [
         {
           "name": "Static-X",
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        },
-        {
-          "name": "Dead Prez",
-          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Hip Hop",
-      "url": "https://open.spotify.com/track/1UCVgSDDlH4vJ0jI4txWXP"
+      "duration_ms": 161013,
+      "name": "No Submission",
+      "url": "https://open.spotify.com/track/00AxXSPBavEKf4hwgX6ZMo"
     },
     {
       "added_at": null,

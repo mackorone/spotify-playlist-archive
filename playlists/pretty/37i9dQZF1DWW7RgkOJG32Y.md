@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Brandon Coleman of The Red Clay Strays
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,046 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,127 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Love Me Tonight](https://open.spotify.com/track/2xtJzZk0TkqB3wD6qaNKuw) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Love Me Tonight](https://open.spotify.com/album/49mkNoZXgbUHUnB97bfP4e) | 3:22 |
 | 50 | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b) | 5:00 |
 
-Snapshot ID: `AAAAAPQzmz3s+6MTkbRApBKZw+UTFWDE`
+Snapshot ID: `AAAAADGdNfrjeZEPThK+CWx7HyE2XfGt`

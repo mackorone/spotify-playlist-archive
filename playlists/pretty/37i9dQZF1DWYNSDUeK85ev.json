@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 690961,
+  "num_followers": 691085,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -531,30 +531,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "En La Intimidad | CROSSOVER #1",
-        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 165854,
-      "name": "En La Intimidad | CROSSOVER #1",
-      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "En La Intimidad | CROSSOVER #1",
+        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 165854,
+      "name": "En La Intimidad | CROSSOVER #1",
+      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1935,50 +1935,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "LATI2",
-        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "LATI2",
-      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "Perreo Medinas (Remix)",
         "url": "https://open.spotify.com/album/34xbT3PngxFIVPXsIbJTtl"
       },
@@ -2011,6 +1967,50 @@
       "duration_ms": 171924,
       "name": "Perreo Medinas - Remix",
       "url": "https://open.spotify.com/track/1Mdb9pSm4lQ5TtCblFX66N"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "LATI2",
+        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "LATI2",
+      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "added_at": "2025-11-20 12:09:53",

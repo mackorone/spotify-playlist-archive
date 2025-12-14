@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-143 songs - 8 hr 47 min
+144 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Birds song forest rain](https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Birds song forest rain](https://open.spotify.com/album/0rIdJAjdSjd8cePzPzrUOk) | 3:20 | 2021-12-22 |  |
 | [Borneo Jungle Oasis For Deep Sleep With Nature Sound](https://open.spotify.com/track/3BzfDBrjyvLLyDnhTynkOM) | [Relax Meditate Sleep](https://open.spotify.com/artist/2IPb9AuHE98BU4s8gbOk30) | [Relaxing Nature Sounds](https://open.spotify.com/album/7zVNlLfb6CSgCe5AMDhc74) | 6:00 | 2021-12-22 | 2022-07-29 |
 | [Breathe In The Forest](https://open.spotify.com/track/0mlUW1sZLOlLSy6XetboEZ) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Brazilian Wood Therapy](https://open.spotify.com/album/4QnmfbrXHv2xQpsiCmXNT7) | 1:46 | 2023-02-20 | 2023-06-21 |
+| [Calm Night Jungle](https://open.spotify.com/track/4B7V783QPTkmXegMMFzJEE) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Calm Night Jungle](https://open.spotify.com/album/06mgWn0cxtum3yNeSCekF0) | 2:31 | 2025-11-11 |  |
 | [Camping In the Forest \- \(Rain & Birds\)](https://open.spotify.com/track/0R2cDyGhOpTSl7Feeu4Zs6) | [Wide Noise HD](https://open.spotify.com/artist/2W6Z4GQCDaktUWbXP8huax) | [Cabin Rain, Crickets and Birds](https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6) | 2:19 | 2025-11-11 |  |
 | [Catching the Wild](https://open.spotify.com/track/6YEz0RELNHzC4NyxGahieP) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Below the Tree Crowns](https://open.spotify.com/album/6WpLLecUsmYisQNQpJcU6A) | 3:32 | 2023-02-20 |  |
 | [Chirping Melodies](https://open.spotify.com/track/75I25WfmlmxZxhSX4Uf88Z) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Wonders of Tranquility](https://open.spotify.com/album/1nsqaBBOXh4iPeJ6Mf1E9A) | 15:00 | 2025-11-11 |  |
@@ -85,7 +86,7 @@
 | [Night In The Rainforest](https://open.spotify.com/track/2x09aarUx5kXoWuyx2taZ7) | [California Nature Sounds](https://open.spotify.com/artist/6MUg2pu162aKWsqjBY5S2A) | [California Rain](https://open.spotify.com/album/3aOEiF4NaabKMdWbRgFXwO) | 2:40 | 2021-12-22 | 2025-11-15 |
 | [Night Nature in Bahia Solano](https://open.spotify.com/track/5x2zguWRJcv9aeLRpsPdPJ) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Colombian Late Night Nature](https://open.spotify.com/album/3Gd3PQOPihs3IKqRvR1PMX) | 2:30 | 2024-03-27 |  |
 | [Night Rain](https://open.spotify.com/track/5gLZB1i22XDHiHQwhXCYrQ) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:18 | 2024-03-27 |  |
-| [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 | 2021-12-22 |  |
+| [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 | 2021-12-22 | 2025-12-14 |
 | [Nights In The Forest](https://open.spotify.com/track/6s0YtX2hSVOoHJfgwnWhW9) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 | 2023-02-20 |  |
 | [Nocturnal Nature's Lullaby](https://open.spotify.com/track/1FUFAGT1hNaXeRyNnPwaKu) | [Times That Bind](https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X) | [Secluded Forest](https://open.spotify.com/album/2n58A84yz5qTPa3cFDEpR2) | 14:52 | 2025-07-21 |  |
 | [Pluie Nocturne](https://open.spotify.com/track/5PcMDn9rYtXjebDSYpkHeh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Pluie Nocturne](https://open.spotify.com/album/1lduLJdv1PQOwxnVdwVbJC) | 2:08 | 2022-05-24 |  |

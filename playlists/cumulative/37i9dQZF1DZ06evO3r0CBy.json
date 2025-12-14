@@ -355,6 +355,32 @@
     },
     {
       "album": {
+        "name": "Latinos del Mundo",
+        "url": "https://open.spotify.com/album/0WMM5TdUq0VgNUZXCwlnYG"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        },
+        {
+          "name": "E-LA",
+          "url": "https://open.spotify.com/artist/7aOghF4fGWkNo1Vh3zDHJ9"
+        },
+        {
+          "name": "Ander & Rossi",
+          "url": "https://open.spotify.com/artist/0eijjeT8lIc14E862vjaNz"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205599,
+      "name": "La Vida Es Una",
+      "url": "https://open.spotify.com/track/2yHMbsv5PMpJ1ubOhz3XXQ"
+    },
+    {
+      "album": {
         "name": "Rodriguez Rocks: Live In Australia",
         "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
       },

@@ -1,6 +1,6 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past. Cover: The Beach Boys",
-  "num_followers": 1250742,
+  "num_followers": 1250724,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2021-01-06 18:39:03",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
-      },
-      "artists": [
-        {
-          "name": "Looking Glass",
-          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
-        }
-      ],
-      "duration_ms": 189044,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
-    },
-    {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
         "name": "Minute by Minute",
         "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
+      },
+      "artists": [
+        {
+          "name": "Looking Glass",
+          "url": "https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI"
+        }
+      ],
+      "duration_ms": 189044,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
     },
     {
       "added_at": "2021-01-06 18:39:03",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/4T5SR1krNuVLOnxSjYb8nW"
     },
     {
+      "added_at": "2021-12-14 20:07:58",
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "What Is Life - Remastered 2014",
+      "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"
+    },
+    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "Jonathan Edwards",
@@ -795,22 +811,6 @@
       "duration_ms": 189506,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG"
-    },
-    {
-      "added_at": "2021-12-14 20:17:09",
-      "album": {
-        "name": "Excitable Boy",
-        "url": "https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg"
-      },
-      "artists": [
-        {
-          "name": "Warren Zevon",
-          "url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "Excitable Boy",
-      "url": "https://open.spotify.com/track/50fGkq9l9Zsn1x7C8GKIYr"
     }
   ],
   "unique_name": "Good Times, Great Oldies",

@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 380796,
+  "num_followers": 380877,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADO+Zyv8/UB29pPXCWdVcSo",
+  "snapshot_id": "aTtbAAAAAADO4zXznFoMSQ/RlOI3ImIH",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 163341,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Buho",
         "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 176703,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 163341,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Si Se Les Olvidaba",
+        "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Por Si Se Les Olvidaba",
+      "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 177900,
       "name": "Con Todo Respetillo",
       "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Si Se Les Olvidaba",
-        "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Alex Torres",
-          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Por Si Se Les Olvidaba",
-      "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
     },
     {
       "added_at": null,
@@ -963,6 +963,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Mire Con Talento",
+        "url": "https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Los Mire Con Talento",
+      "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meneo",
         "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
       },
@@ -991,30 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mire Con Talento",
-        "url": "https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Los Mire Con Talento",
-      "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
@@ -1035,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F*%K U Baby",
-        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 153024,
-      "name": "F*%K U Baby",
-      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 191320,
       "name": "PAJUELAZO",
       "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F*%K U Baby",
+        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 153024,
+      "name": "F*%K U Baby",
+      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
     }
   ],
   "unique_name": "This Is Luis R Conriquez",

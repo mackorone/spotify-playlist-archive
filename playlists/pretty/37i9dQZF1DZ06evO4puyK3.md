@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,244 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,256 likes - 48 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 46 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 |
 | 47 | [AO SOM DO TUIM](https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 3:03 |
 | 48 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 |
-| 49 | [Samba in Paris](https://open.spotify.com/track/3nlhqZHMXG2A5UkW633wwx) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 4:26 |
 
-Snapshot ID: `aToJgAAAAADT9R9bsY9DjGRS4rY/Ejt+`
+Snapshot ID: `aTtbAAAAAACs6iF7Hfc4YB2Y5KTzy85L`

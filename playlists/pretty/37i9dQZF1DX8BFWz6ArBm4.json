@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Mazonakis",
-  "num_followers": 37222,
+  "num_followers": 37230,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
-        "name": "To Viografiko",
-        "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 205202,
-      "name": "To Viografiko",
-      "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
         "name": "Gyrismos",
         "url": "https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 212250,
       "name": "Gyrismos",
       "url": "https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
+        "name": "To Viografiko",
+        "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 205202,
+      "name": "To Viografiko",
+      "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
+        "name": "Psixi Me Psixi",
+        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "duration_ms": 261117,
+      "name": "Psixi Me Psixi",
+      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
         "name": "Kourastika Na S' Agapo",
         "url": "https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 253420,
       "name": "Kourastika Na S' Agapo",
       "url": "https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
-        "name": "maZW Akoma (Ola Mou Ta Thelo)",
-        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 208355,
-      "name": "maZW Akoma (Ola Mou Ta Thelo)",
-      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
-        "name": "Psixi Me Psixi",
-        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
+        "name": "maZW Akoma (Ola Mou Ta Thelo)",
+        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
       },
       "artists": [
         {
-          "name": "Giorgos Sabanis",
-          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 261117,
-      "name": "Psixi Me Psixi",
-      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
+      "duration_ms": 208355,
+      "name": "maZW Akoma (Ola Mou Ta Thelo)",
+      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -723,6 +723,22 @@
       "duration_ms": 228835,
       "name": "Perifanos Aetos",
       "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
+        "name": "Unplugged 2025",
+        "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Simera - Unplugged",
+      "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -759,22 +775,6 @@
       "duration_ms": 167379,
       "name": "Ypervoles",
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
-        "name": "Unplugged 2025",
-        "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Simera - Unplugged",
-      "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
-        "name": "Ekptotos Aggelos",
-        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 263015,
-      "name": "Ekptotos Aggelos",
-      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
         "name": "Me Sighorite",
         "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 210007,
       "name": "Me Sighorite",
       "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
+        "name": "Ekptotos Aggelos",
+        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 263015,
+      "name": "Ekptotos Aggelos",
+      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
     },
     {
       "added_at": "2025-12-11 22:00:32",

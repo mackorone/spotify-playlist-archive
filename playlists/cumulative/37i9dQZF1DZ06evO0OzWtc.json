@@ -785,6 +785,36 @@
     },
     {
       "album": {
+        "name": "Me Gusta Mi Vida 2.0",
+        "url": "https://open.spotify.com/album/6Eqku4M86uTXBNQN7SUPeh"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Me Gusta Mi Vida 2.0",
+      "url": "https://open.spotify.com/track/16JufC0T9PMEdfZUJajoyK"
+    },
+    {
+      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/31rzW2cjlkcOlzg17R44At"
       },

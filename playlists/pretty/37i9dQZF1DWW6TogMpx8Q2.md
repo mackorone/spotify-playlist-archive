@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover:Nancy Kwai
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,808 likes - 73 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,817 likes - 73 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 6 | [想和你](https://open.spotify.com/track/1rxLVjcdrWFWtBbgNIzZ8Y) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [想和你](https://open.spotify.com/album/67rlnVM7GhTRCsIBJKAFew) | 3:28 |
 | 7 | [跟悲傷結了帳](https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [跟悲傷結了帳](https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo) | 3:03 |
 | 8 | [2882點85✈︎](https://open.spotify.com/track/5dMsZz8qVYPsPmVVBNh4Pe) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [2882點85✈︎](https://open.spotify.com/album/273zRDjGRv0ox0yIzXiQvO) | 3:39 |
-| 9 | [PTSD](https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [PTSD](https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa) | 3:40 |
+| 9 | [會痊癒的 PTSD](https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [會痊癒的 PTSD](https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa) | 3:40 |
 | 10 | [戀愛BB班](https://open.spotify.com/track/1vV0CAFs85GStDGwSL08MC) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [戀愛BB班](https://open.spotify.com/album/6VPYnffOUibcBFAbDyIwIU) | 2:49 |
 | 11 | [未存在的我們](https://open.spotify.com/track/7pPYZ8pQcoqHJTOOW4llei) | [PER SE](https://open.spotify.com/artist/4MR8lE0GqFrysJi3s18woQ) | [未存在的我們](https://open.spotify.com/album/3KA4gvnARpTIaNvOYbRYgg) | 4:00 |
 | 12 | [泥菩薩](https://open.spotify.com/track/2tuBX7EOqjzvWlbk9xqZul) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [泥菩薩](https://open.spotify.com/album/2XtwSkfkOukSfe52grncEH) | 4:01 |

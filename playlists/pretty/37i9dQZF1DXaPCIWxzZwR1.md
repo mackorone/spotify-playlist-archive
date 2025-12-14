@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,775 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,693 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Brand New](https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [CHILDSTAR](https://open.spotify.com/album/6mFk7NdiRWLRVSX784kyfS) | 2:51 |
 | 100 | [The First and Last of the Perfect Parties](https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [The First and Last of the Perfect Parties](https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2) | 4:08 |
 
-Snapshot ID: `AAAAAA5aMHIv3F70dlue9tzCkn8hwg4f`
+Snapshot ID: `AAAAAFWsun9SGXKa650eVg+NTSl0AogX`

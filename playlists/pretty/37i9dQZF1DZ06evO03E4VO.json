@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADTeZgeDJeE2E+cD6H9xeJV",
+  "snapshot_id": "aTtbAAAAAABszHx0yA/J7YpXIv/RzC/z",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 181480,
-      "name": "stfu (i got u)",
-      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
+      "duration_ms": 197160,
+      "name": "parallel universe",
+      "url": "https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 197160,
-      "name": "parallel universe",
-      "url": "https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y"
+      "duration_ms": 181480,
+      "name": "stfu (i got u)",
+      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 212937,
-      "name": "saboteo",
-      "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
     },
     {
       "added_at": null,
@@ -628,25 +628,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 166920,
-      "name": "get better",
-      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00e9xtasis",
-        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 185054,
-      "name": "\u00e9xtasis",
-      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
+      "duration_ms": 197666,
+      "name": "tell the one u love",
+      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00e9xtasis",
+        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 185054,
+      "name": "\u00e9xtasis",
+      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "malos h\u00e1bitos",
         "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 173000,
-      "name": "me conquistaste",
-      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
+      "duration_ms": 212937,
+      "name": "saboteo",
+      "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 197666,
-      "name": "tell the one u love",
-      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
+      "duration_ms": 166920,
+      "name": "get better",
+      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
     },
     {
       "added_at": null,

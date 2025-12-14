@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,546 likes - 44 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,739 likes - 45 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,17 +40,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 30 | [Foreign](https://open.spotify.com/track/500l6Cwe40hkPqS7Sf7ufY) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:22 |
 | 31 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
 | 32 | [BACKR00MS \(with Travis Scott\)](https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 2:40 |
-| 33 | [Yah Mean](https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:45 |
-| 34 | [New Tank](https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:29 |
+| 33 | [New Tank](https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:29 |
+| 34 | [Yah Mean](https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:45 |
 | 35 | [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 |
 | 36 | [FlatBed Freestyle](https://open.spotify.com/track/5nayhWICkQGMTkisxVMbRw) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:13 |
-| 37 | [Let It Go](https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:30 |
-| 38 | [Place](https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:57 |
+| 37 | [Place](https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:57 |
+| 38 | [Let It Go](https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:30 |
 | 39 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 |
 | 40 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
 | 41 | [DIFFERENT DAY](https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 2:46 |
 | 42 | [Summer Bummer \(feat\. A$AP Rocky & Playboi Carti\)](https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:20 |
 | 43 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
 | 44 | [Fire Your Manager \(feat\. Playboi Carti\)](https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:53 |
+| 45 | [flex fm \(freddit\) feat\. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\) feat\. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 |
 
-Snapshot ID: `aToJgAAAAAD9wpVdEAJSuuTe7RRwx0Ks`
+Snapshot ID: `aTtbAAAAAACU/+9sV06gDHXeR+oO5BAH`

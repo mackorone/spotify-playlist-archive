@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 210859,
       "name": "Antarktida",
       "url": "https://open.spotify.com/track/1IeSKALeTrDx7H17xqxlXT"
@@ -10259,6 +10259,28 @@
     },
     {
       "album": {
+        "name": "DIG ON(A)",
+        "url": "https://open.spotify.com/album/1W2WNZJHlrkxl9zQYkAsF4"
+      },
+      "artists": [
+        {
+          "name": "Frayer Flexking",
+          "url": "https://open.spotify.com/artist/6cu3kZ6CfnT6LF8USDmumJ"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174719,
+      "name": "DIG ON(A)",
+      "url": "https://open.spotify.com/track/3ltGfYpJA8svZLKybybTFB"
+    },
+    {
+      "album": {
         "name": "Jese\u0148 2015: \u010clovek z plan\u00e9ty Zem",
         "url": "https://open.spotify.com/album/7q2shzxcJx1iaRJ1WRjshM"
       },
@@ -12124,7 +12146,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 123946,
       "name": "D\u017eanes",
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
@@ -27195,6 +27217,28 @@
     },
     {
       "album": {
+        "name": "MOJ HLAS",
+        "url": "https://open.spotify.com/album/17PcZNMKL2iZPBnYzNyxYs"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/4521qGQWk4pQU8lvGgjNUx"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "MOJ HLAS",
+      "url": "https://open.spotify.com/track/0S8EzeiM20WI6GFGi7SOs4"
+    },
+    {
+      "album": {
         "name": "Moj \u017divot",
         "url": "https://open.spotify.com/album/3qLaEdpFc5Xb0FR4AoA5yg"
       },
@@ -30762,7 +30806,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -42794,7 +42838,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 165618,
       "name": "Svoboda",
       "url": "https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1"
@@ -50000,6 +50044,24 @@
       "duration_ms": 161384,
       "name": "WITHOUT YOU (with Miley Cyrus)",
       "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
+    },
+    {
+      "album": {
+        "name": "Woah",
+        "url": "https://open.spotify.com/album/6Hfyf9kjaXHqdgmIZdtn6L"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90461,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/1HukU2OM3TeTPnZzWkLP5y"
     },
     {
       "album": {

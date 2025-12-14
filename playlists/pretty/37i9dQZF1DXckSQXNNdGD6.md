@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Sofía Amores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,211 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,215 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 34 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 35 | [pies sin plomo](https://open.spotify.com/track/4CLP5XEbqjJAMbg03kO2S5) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [pies sin plomo](https://open.spotify.com/album/5wKYsfSm0ed3Dbe8AfoItZ) | 3:31 |
 | 36 | [No soy Diosa](https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [No soy Diosa](https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz) | 2:11 |
-| 37 | [SUPERSEXY](https://open.spotify.com/track/4gh4JKvxobKDIJxqstLmyR) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [SUPERSEXY](https://open.spotify.com/album/4F8Wj7frMTPcPdVRASJ4BY) | 3:18 |
-| 38 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
+| 37 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
+| 38 | [SUPERSEXY](https://open.spotify.com/track/4gh4JKvxobKDIJxqstLmyR) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [SUPERSEXY](https://open.spotify.com/album/4F8Wj7frMTPcPdVRASJ4BY) | 3:18 |
 | 39 | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/track/4k1copzAL7F5UiEbsq6AYX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/album/47zHBE2Fnlfezu7ZwX3mTw) | 2:54 |
 | 40 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
-| 41 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |
-| 42 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
+| 41 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
+| 42 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |
 | 43 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 44 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 |
 | 45 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |

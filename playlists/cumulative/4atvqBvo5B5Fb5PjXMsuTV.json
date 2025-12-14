@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Dec 04:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 Dec 04:05 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2282,6 +2282,24 @@
       "duration_ms": 241694,
       "name": "A Psychic Wound",
       "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
+    },
+    {
+      "album": {
+        "name": "A Pure Expression",
+        "url": "https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs"
+      },
+      "artists": [
+        {
+          "name": " I Promised The World",
+          "url": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243638,
+      "name": "A Pure Expression",
+      "url": "https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu"
     },
     {
       "album": {
@@ -38733,6 +38751,24 @@
     },
     {
       "album": {
+        "name": "Give Me Something (for Arknights Endfield)",
+        "url": "https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162789,
+      "name": "Give Me Something (for Arknights Endfield)",
+      "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
+    },
+    {
+      "album": {
         "name": "Give Me The Painkiller",
         "url": "https://open.spotify.com/album/5rzdkiqUZ7hmK2G8Em2sAh"
       },
@@ -40676,6 +40712,24 @@
       "duration_ms": 308424,
       "name": "Grow Wings and Fly",
       "url": "https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd"
+    },
+    {
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/6kDZ8DSSYv4wh8xw52K1yq"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272640,
+      "name": "Growin' Up",
+      "url": "https://open.spotify.com/track/56SnivwaK3FyGpnvKHFPH4"
     },
     {
       "album": {
@@ -43194,7 +43248,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 249941,
       "name": "Hello Revenge",
       "url": "https://open.spotify.com/track/6ewqXnUFLxYfuUJPiWS2Bj"
@@ -48142,7 +48196,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 232000,
       "name": "I'LL NEVER KNOW WHY",
       "url": "https://open.spotify.com/track/1IgmgXE7u8EojsElPe8TwJ"
@@ -77021,6 +77075,24 @@
     },
     {
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/3PRKzsCRtiJqRZJJpq0Acu"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4BQ9FKqj1qNwrVYhCAz3oV"
+    },
+    {
+      "album": {
         "name": "promises",
         "url": "https://open.spotify.com/album/1m7138O2yJiku77vNLBcJD"
       },
@@ -87876,7 +87948,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 138000,
       "name": "Solitary",
       "url": "https://open.spotify.com/track/1HlZyNtc0IhqsoIeu0ExKE"
@@ -95308,7 +95380,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 132725,
       "name": "That's How I'm Feeling - Live",
       "url": "https://open.spotify.com/track/6JD6pSfTa6jAumxb0lc9CJ"

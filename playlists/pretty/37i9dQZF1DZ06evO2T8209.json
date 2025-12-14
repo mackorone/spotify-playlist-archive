@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 733097,
+  "num_followers": 733187,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADUdmMUB9vtTExh3DT1/NlG",
+  "snapshot_id": "aTtbAAAAAADXuqJvY77OZQo1L7kCcvvA",
   "tracks": [
     {
       "added_at": null,
@@ -308,17 +308,13 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
         }
       ],
-      "duration_ms": 207273,
-      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
-      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
+      "duration_ms": 253834,
+      "name": "Darling, I (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
     },
     {
       "added_at": null,
@@ -384,13 +380,17 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
         }
       ],
-      "duration_ms": 253834,
-      "name": "Darling, I (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
+      "duration_ms": 207273,
+      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
     },
     {
       "added_at": null,
@@ -563,46 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 161041,
-      "name": "DOGTOOTH",
-      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 588139,
-      "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
-      "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -631,6 +591,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 588139,
+      "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+      "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 206049,
-      "name": "SORRY NOT SORRY",
-      "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
+      "duration_ms": 224893,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/0qtK3XwbuG153dmwB8iepL"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 224893,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/0qtK3XwbuG153dmwB8iepL"
+      "duration_ms": 206049,
+      "name": "SORRY NOT SORRY",
+      "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
     },
     {
       "added_at": null,
@@ -719,6 +719,30 @@
       "duration_ms": 166372,
       "name": "Tamale",
       "url": "https://open.spotify.com/track/60b6B2ULC85t4Y5IjZvP7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 320720,
+      "name": "Boredom (feat. Rex Orange County & Anna of the North)",
+      "url": "https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk"
     },
     {
       "added_at": null,
@@ -767,30 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 320720,
-      "name": "Boredom (feat. Rex Orange County & Anna of the North)",
-      "url": "https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 204109,
       "name": "WHARF TALK (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "Garden Shed (feat. Estelle)",
+      "url": "https://open.spotify.com/track/6ACiYjq5Q7e6BlhZEHz7cd"
     },
     {
       "added_at": null,
@@ -855,26 +875,6 @@
       "duration_ms": 282560,
       "name": "Something to Rap About (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "Garden Shed (feat. Estelle)",
-      "url": "https://open.spotify.com/track/6ACiYjq5Q7e6BlhZEHz7cd"
     },
     {
       "added_at": null,

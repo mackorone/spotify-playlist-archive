@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 11612,
+  "num_followers": 11634,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAD4jJftlZDCvvdU9WgXkHXd",
+  "snapshot_id": "aTtbAAAAAADJUbe8KkfIlM+Ea3woGSH/",
   "tracks": [
     {
       "added_at": null,
@@ -303,34 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eh Noiz Ki T\u00e1",
-        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 186273,
-      "name": "Cifr\u00e3o",
-      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
@@ -375,6 +347,34 @@
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eh Noiz Ki T\u00e1",
+        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 186273,
+      "name": "Cifr\u00e3o",
+      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
     },
     {
       "added_at": null,
@@ -879,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
       "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 120944,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
+      "duration_ms": 165454,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
     },
     {
       "added_at": null,
@@ -915,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 165454,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
+      "duration_ms": 120944,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
     },
     {
       "added_at": null,
@@ -947,46 +947,6 @@
       "duration_ms": 129407,
       "name": "OK",
       "url": "https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Aju",
-      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 138545,
-      "name": "Cigana",
-      "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
     },
     {
       "added_at": null,
@@ -1019,6 +979,46 @@
       "duration_ms": 246965,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 138545,
+      "name": "Cigana",
+      "url": "https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Aju",
+      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
     }
   ],
   "unique_name": "This Is AJULIACOSTA",

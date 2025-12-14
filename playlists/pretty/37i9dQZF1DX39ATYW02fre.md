@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,620 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,677 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 22 | [amelia](https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [mauv](https://open.spotify.com/artist/4ll5dtDkyA2xFOz9n7wBNo) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:21 |
 | 23 | [With You](https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo), [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [With You](https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O) | 3:42 |
 | 24 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
-| 25 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
-| 26 | [is this real love](https://open.spotify.com/track/2p3SjPcPdxZ9rYYzS6l6F0) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [is this real love](https://open.spotify.com/album/0kVBNM3IL2xyDCigklYFAF) | 2:46 |
+| 25 | [is this real love](https://open.spotify.com/track/2p3SjPcPdxZ9rYYzS6l6F0) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [is this real love](https://open.spotify.com/album/0kVBNM3IL2xyDCigklYFAF) | 2:46 |
+| 26 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
 | 27 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 |
 | 28 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
 | 29 | [No Pressure](https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [No Pressure](https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi) | 3:15 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 45 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
 | 46 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 |
 | 47 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 |
-| 48 | [Daybreak](https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY) | [Thief Traveler](https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0) | [Daybreak](https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX) | 2:21 |
-| 49 | [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 |
+| 48 | [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 |
+| 49 | [Daybreak](https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY) | [Thief Traveler](https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0) | [Daybreak](https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX) | 2:21 |
 | 50 | [Like Water \(feat\. Mohna\)](https://open.spotify.com/track/2YG3fktEoHQAUlXP9VtmRN) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mohna](https://open.spotify.com/artist/3azqDB8c8zEOTBscxif1gU) | [Graal \(Prologue\)](https://open.spotify.com/album/2dS99m3T1KFseI62HtLWe8) | 3:37 |
 
 Snapshot ID: `AAAAANpmZs+MB9VNq63EGeNounejKd79`

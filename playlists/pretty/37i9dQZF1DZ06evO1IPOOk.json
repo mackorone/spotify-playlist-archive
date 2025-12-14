@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1907950,
+  "num_followers": 1908120,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADthmi4uh6BZAqTcwfWn4Ni",
+  "snapshot_id": "aTtbAAAAAAAoqwptoHpRPhSpUCohi/0s",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252262,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 131240,
       "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
       "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252262,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 217478,
       "name": "hey now (feat. dody6)",
       "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me Home",
-        "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
-      },
-      "artists": [
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hood Gone Love It (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 216933,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me Home",
+        "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hood Gone Love It (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
     },
     {
       "added_at": null,

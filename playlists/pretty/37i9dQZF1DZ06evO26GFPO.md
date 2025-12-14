@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,236 likes - 46 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,231 likes - 46 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Maliciosa \- Ao Vivo](https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maliciosa \(Ao Vivo\)](https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E) | 2:47 |
-| 2 | [Ainda Gosto de Você / Já Era \- Ao Vivo](https://open.spotify.com/track/06WkQibI8OhOLjDxIRKu5B) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 5:45 |
+| 1 | [Ainda Gosto de Você / Já Era \- Ao Vivo](https://open.spotify.com/track/06WkQibI8OhOLjDxIRKu5B) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Sorriso Eu Gosto No Pagode \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v) | 5:45 |
+| 2 | [Maliciosa \- Ao Vivo](https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maliciosa \(Ao Vivo\)](https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E) | 2:47 |
 | 3 | [1% \- Ao Vivo](https://open.spotify.com/track/6gu8xo31Bsg22KhwTLJsmJ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:14 |
 | 4 | [Saudade da Gente \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS) | [Grupo BalacoBaco](https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Saudade da Gente \(Ao Vivo na Resenha Pagode e Chinelo\)](https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93) | 2:47 |
 | 5 | [Numanice Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano \- Ao vivo](https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Numanice Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano \(Ao vivo\)](https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu) | 8:49 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 45 | [Macetando](https://open.spotify.com/track/4uR8CslffeNgPZ3lSuyfAc) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/5hylnoVPMP3cRU2Jwh9z5r) | 2:47 |
 | 46 | [Apê 1001](https://open.spotify.com/track/6oVNrpMWlzS6UkQuuM8zHU) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:51 |
 
-Snapshot ID: `aToJgAAAAAAZkJMD2ROi/8SFE4F1c/7q`
+Snapshot ID: `aTtbAAAAAACyQUJmccAk1aE3rDdV/0J3`

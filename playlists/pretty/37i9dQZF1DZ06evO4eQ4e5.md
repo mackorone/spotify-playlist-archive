@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,684 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,687 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 24 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
 | 25 | [Ódiame](https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:53 |
 | 26 | [Yo Lo Extraño A Morir](https://open.spotify.com/track/2kqiZz3VORkKuO9n0om5fg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:43 |
-| 27 | [El Amor Acaba \(with Edith Márquez\)](https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:15 |
-| 28 | [Frente a Frente](https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:38 |
+| 27 | [Frente a Frente](https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:38 |
+| 28 | [El Amor Acaba \(with Edith Márquez\)](https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:15 |
 | 29 | [Hasta Que Amanezca](https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:45 |
 | 30 | [Ya que voy a estar sin ti](https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:59 |
 | 31 | [Esta vez](https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:11 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 42 | [Llamarada \(feat\. Edith Márquez\) \- En Vivo](https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h) | 3:40 |
 | 43 | [El Nido \(with Edith Márquez\)](https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 2:56 |
 | 44 | [El primero, el único, el último](https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 3:38 |
-| 45 | [Y Nos Dieron Las Diez](https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Y Nos Dieron Las Diez](https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM) | 5:14 |
-| 46 | [Adoro](https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 4:14 |
-| 47 | [Déjame Vivir](https://open.spotify.com/track/1AxXCwNLvlPVrLIJ7RagFz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Eterna e Inolvidable](https://open.spotify.com/album/3Mq3GqLLtZbkP6L6u4icY6) | 3:42 |
-| 48 | [Dígale](https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Pasiones de Cabaret](https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq) | 3:58 |
+| 45 | [Adoro](https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 4:14 |
+| 46 | [Y Nos Dieron Las Diez](https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Y Nos Dieron Las Diez](https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM) | 5:14 |
+| 47 | [Dígale](https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Pasiones de Cabaret](https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq) | 3:58 |
+| 48 | [Déjame Vivir](https://open.spotify.com/track/1AxXCwNLvlPVrLIJ7RagFz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Eterna e Inolvidable](https://open.spotify.com/album/3Mq3GqLLtZbkP6L6u4icY6) | 3:42 |
 | 49 | [Fue Un Placer Conocerte](https://open.spotify.com/track/0m7Ihm7rkUqeMxYdY7zOqt) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Memorias Del Corazón](https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26) | 3:08 |
 | 50 | [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 |
 
-Snapshot ID: `aToJgAAAAADUXXuWR8zGc4p4JiKRLJfV`
+Snapshot ID: `aTtbAAAAAABHRyPU5n71Y0MAVS7sr2jb`

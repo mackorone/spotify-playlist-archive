@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1389390,
+  "num_followers": 1389609,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADa0Wfu2YXeJMUCWQ7MF69s",
+  "snapshot_id": "aTtbAAAAAAA08xdfqqkuxosaiaOhQUrh",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 219960,
       "name": "CONTIGO VOY A MUERTE",
       "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "A Ella",
-      "url": "https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 205144,
       "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
       "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
     },
     {
       "added_at": null,

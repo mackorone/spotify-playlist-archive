@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127411,
+  "num_followers": 127428,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
+        "name": "Choosin'",
+        "url": "https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Choosin'",
+      "url": "https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 196968,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
-        "name": "Choosin'",
-        "url": "https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Choosin'",
-      "url": "https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
+        "name": "Diamonds And Pearls",
+        "url": "https://open.spotify.com/album/17v5uQhPTOV1xbNcHBWivY"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Diamonds And Pearls",
+      "url": "https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
         "name": "All Pride Aside with Summer Walker",
         "url": "https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "Diamonds And Pearls",
-        "url": "https://open.spotify.com/album/17v5uQhPTOV1xbNcHBWivY"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Diamonds And Pearls",
-      "url": "https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "Black Rainbows",
         "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "Took A Turn",
-        "url": "https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3"
-      },
-      "artists": [
-        {
-          "name": "J.P.",
-          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
-        }
-      ],
-      "duration_ms": 292923,
-      "name": "Took A Turn",
-      "url": "https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 244412,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "Took A Turn",
+        "url": "https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "duration_ms": 292923,
+      "name": "Took A Turn",
+      "url": "https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "SunStorm",
-        "url": "https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j"
-      },
-      "artists": [
-        {
-          "name": "Zo!",
-          "url": "https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz"
-        },
-        {
-          "name": "Monica Blaire",
-          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
-        }
-      ],
-      "duration_ms": 635533,
-      "name": "Make Luv 2 Me",
-      "url": "https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "beat of a slow dance",
         "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
       },
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
+        "name": "SunStorm",
+        "url": "https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j"
+      },
+      "artists": [
+        {
+          "name": "Zo!",
+          "url": "https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz"
+        },
+        {
+          "name": "Monica Blaire",
+          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
+        }
+      ],
+      "duration_ms": 635533,
+      "name": "Make Luv 2 Me",
+      "url": "https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
         "name": "No Love Song",
         "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "Little Men (Deluxe)",
         "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 240074,
       "name": "Crash for a Couple",
       "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2025-10-10 03:01:29",

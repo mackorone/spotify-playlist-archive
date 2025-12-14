@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: M Huncho
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,024 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,042 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 11 | [VET](https://open.spotify.com/track/3WrGCvUlj1r2pXJ8VgejXQ) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [VET](https://open.spotify.com/album/0XBl1ryxXPcGJbPLzIw7fA) | 2:20 |
 | 12 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
 | 13 | [Growing Up](https://open.spotify.com/track/3afeitE7piK1pD8AGrccLl) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Growing Up](https://open.spotify.com/album/0x7mxcYxOFfmj6x5T0JJVr) | 3:14 |
-| 14 | [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 3:23 |
+| 14 | [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 2:22 |
 | 15 | [Roll Alone](https://open.spotify.com/track/11lcv4htXgtnCnRpxh0sZi) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Roll Alone](https://open.spotify.com/album/6tnTPfF27aFxyljlThizSY) | 2:34 |
 | 16 | [New Creation](https://open.spotify.com/track/7m3ByccI7ylP805A07Gr0g) | [Deca OTA](https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb), [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [The Human Condition](https://open.spotify.com/album/78oaC4ZYNN6NCzJ0TSxNp2) | 2:25 |
 | 17 | [askeladd](https://open.spotify.com/track/5RvUqHb8YrOvy4V5MWDbX8) | [Kwákz](https://open.spotify.com/artist/2ZNbtfRwBDKN2k8drx3BrX) | [askeladd](https://open.spotify.com/album/4qkITEJJsPI2goRAmui95r) | 2:03 |

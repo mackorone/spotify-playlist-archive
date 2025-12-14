@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u70ba\u4f55\u653e\u68c4 \u70ba\u4f55\u61f7\u7591 \u5225\u592a\u5feb \u5c07\u6211\u63a8\u958b\u3002",
-  "num_followers": 977,
+  "num_followers": 980,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -303,38 +303,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-        "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
-      },
-      "artists": [
-        {
-          "name": "\u8521\u6069\u96e8 Priscilla Abby",
-          "url": "https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
-      "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
-        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 278914,
-      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u771f\u5be6",
         "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
       },
@@ -355,18 +323,34 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
+        "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 (\u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy"
       },
       "artists": [
         {
-          "name": "Fan Yi Chen",
-          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 288773,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
+      "duration_ms": 278914,
+      "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd\uff0c\u5225\u9b27\u4e86\uff01\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+        "url": "https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR"
+      },
+      "artists": [
+        {
+          "name": "\u8521\u6069\u96e8 Priscilla Abby",
+          "url": "https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "\u963f\u62c9\u65af\u52a0\u6d77\u6e7e",
+      "url": "https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -399,6 +383,22 @@
       "duration_ms": 259040,
       "name": "\u611b\u5b58\u5728",
       "url": "https://open.spotify.com/track/20eQ3szxVA3Ulq9Mgvu3yM"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
+      },
+      "artists": [
+        {
+          "name": "Fan Yi Chen",
+          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
+        }
+      ],
+      "duration_ms": 288773,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
     },
     {
       "added_at": "2025-02-03 08:01:17",

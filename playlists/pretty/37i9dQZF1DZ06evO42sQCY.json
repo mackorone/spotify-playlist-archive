@@ -1,13 +1,29 @@
 {
   "description": "This is Ivan Cornejo. The essential tracks, all in one playlist.",
-  "num_followers": 163468,
+  "num_followers": 163545,
   "original_name": "This Is Ivan Cornejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACMlBCiF7bBX/pEKr0PcsBb",
+  "snapshot_id": "aTtbAAAAAABCdD86SDRojUA8Zr5z/HQT",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "ven a mi casa esta navidad",
+        "url": "https://open.spotify.com/album/3aAKIMnGWS3onBBquYKECS"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 196187,
+      "name": "ven a mi casa esta navidad",
+      "url": "https://open.spotify.com/track/3ELI7WxrRSvTuzWnVuUT4H"
+    },
     {
       "added_at": null,
       "album": {

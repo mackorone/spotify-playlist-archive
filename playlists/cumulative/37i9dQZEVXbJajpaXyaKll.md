@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,956 songs - 4 day 7 hr 25 min
+1,957 songs - 4 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-09-12 | 2024-09-20 |
 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 | 2025-12-01 |  |
 | [I Think We're Alone Now](https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [Tiffany](https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C) | 3:48 | 2025-12-01 |  |
+| [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 | 2025-12-13 |  |
 | [I Want to Write You a Song](https://open.spotify.com/track/608R6FvRtAqf2dvgKMzebP) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 2:59 | 2024-10-20 | 2024-10-26 |
 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-04-16 | 2024-04-24 |
 | [I' AM](https://open.spotify.com/track/3e5gPPx7MTGoYffXH70Tqf) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 2:14 | 2024-07-30 | 2024-08-14 |
@@ -1419,7 +1420,7 @@
 | [Querido Rey](https://open.spotify.com/track/0SU6AGO9uKLQwCOfFugx7s) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6E8JFvTZk66aBah9RZkdDL) | 1:57 | 2024-08-11 | 2024-08-27 |
 | [Querido Rey](https://open.spotify.com/track/1xeVF7CVNZ3i4FwRaolkmp) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Gaucho](https://open.spotify.com/album/0GcL32YDn5yKK6Y4hMOhv2) | 1:57 | 2024-08-14 | 2024-08-18 |
 | [Quickie Preshow \(Flotando En Un Río\)](https://open.spotify.com/track/4OalexVifwyKk3kqSUyaPT) | [Tussiwarriors](https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh), [Mortedor](https://open.spotify.com/artist/3lrFHcazkKKqyy5WlN0fqf) | [Quickie Preshow \(Flotando En Un Río\)](https://open.spotify.com/album/51ukw9iZp6ArHKtrVIdzOY) | 2:15 | 2025-11-18 | 2025-12-10 |
-| [QUIERO AMARTE](https://open.spotify.com/track/09l76TiKhPfZTLhkLxFeFM) | [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [BACKSTAGE COVER VOL\. 1](https://open.spotify.com/album/2loqWNVvSbY09nN5x63DzU) | 2:05 | 2025-11-18 |  |
+| [QUIERO AMARTE](https://open.spotify.com/track/09l76TiKhPfZTLhkLxFeFM) | [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o), [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [BACKSTAGE COVER VOL\. 1](https://open.spotify.com/album/2loqWNVvSbY09nN5x63DzU) | 2:05 | 2025-11-18 | 2025-12-14 |
 | [Quiero Decirte](https://open.spotify.com/track/4Oc1qHsjM4kM0AARvlwSs3) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:42 | 2025-10-19 | 2025-11-19 |
 | [Quiero un Amor](https://open.spotify.com/track/09MrbfVQQcG5qSyXp9fsL9) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [El Elogio de la Sombra](https://open.spotify.com/album/3J76glqHSk7FhxCe7nlZD8) | 3:42 | 2025-02-12 | 2025-03-10 |
 | [quitate los Jeans](https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 1:43 | 2025-09-02 | 2025-11-19 |

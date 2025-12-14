@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 
 > Spotifyで人気のソニックシリーズ楽曲を収録したオフィシャルプレイリスト！/Official playlist of popular Sonic series songs on Spotify!  \(C\)SEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,542 likes - 53 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,565 likes - 53 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 | 52 | [Escape From the City \- Live](https://open.spotify.com/track/4i58yzIIBCkQgkQ8rg0PVS) | [Sonic Adventure Music Experience](https://open.spotify.com/artist/3KfX3JqP71VfIl25pWHEm3), [Nathan Sharp](https://open.spotify.com/artist/1X5diIf3QYBCTauZYgbzEi), [FILMharmonic Orchestra, Prague](https://open.spotify.com/artist/5wWxVeUfHDUXotmcddtzvF) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/2uPyiLBW1WZP4wIfwoHBaj) | 3:12 |
 | 53 | [Live & Learn \- Live](https://open.spotify.com/track/3pKvsK8fJozYG0jiul95U9) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL), [FILMharmonic Orchestra, Prague](https://open.spotify.com/artist/5wWxVeUfHDUXotmcddtzvF) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/2uPyiLBW1WZP4wIfwoHBaj) | 4:50 |
 
-Snapshot ID: `AAAAAEC7Wa09KCpssxhE6SfI34ABUYRP`
+Snapshot ID: `AAAAALx7+8VSy+c4zh98i4HsO9bcmx2X`

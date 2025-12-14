@@ -4,7 +4,7 @@
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 10 min
+60 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Leña de Pirul \- En Vivo](https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 3:34 | 2024-08-08 |  |
 | [Lo Que No Me Gusta](https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 4:14 | 2024-08-08 |  |
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 | 2024-08-08 |  |
+| [Mujeres de Alto Mando](https://open.spotify.com/track/0r5tlrcPYP9gmU5PBjhtfE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mujeres de Alto Mando](https://open.spotify.com/album/0c5BPUZCmU98mkIuLTeJgT) | 2:48 | 2025-12-14 |  |
 | [Nada Nuevo](https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Nada Nuevo](https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl) | 2:59 | 2024-08-08 |  |
 | [No Fuimos](https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Fuimos](https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE) | 2:46 | 2024-10-20 |  |
 | [No Te Contaron Mal](https://open.spotify.com/track/6PZSOXSEUGR0kKxffxccLU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Te Contaron Mal](https://open.spotify.com/album/3fu62wzox7RDVQV87lokIm) | 2:12 | 2024-08-08 |  |

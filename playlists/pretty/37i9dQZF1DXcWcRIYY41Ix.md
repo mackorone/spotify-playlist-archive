@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,890 likes - 105 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,894 likes - 105 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 104 | [Último Ritual](https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Último Ritual](https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3) | 3:27 |
 | 105 | [Vos](https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Vos](https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t) | 3:18 |
 
-Snapshot ID: `AAAAAMbEcvul2jjENzL0EUFIukAHRWPR`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

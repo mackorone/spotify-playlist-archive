@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-225 songs - 13 hr 22 min
+226 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [One Shot \(feat\. Shatta Wale & Sarkodie\)](https://open.spotify.com/track/2uhNP5JVU6OVoL5lOvH1tR) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [One Shot \(feat\. Shatta Wale & Sarkodie\)](https://open.spotify.com/album/67FjgBHWQh0hxSiGJOeaZm) | 3:40 | 2021-12-28 | 2024-02-03 |
 | [Onyame eyhira\(produced By Kaywa\) \(feat\. Castro\)](https://open.spotify.com/track/4Q33HiVThLk7DDDAfyu8S2) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:24 | 2021-12-28 | 2022-10-13 |
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2021-12-28 | 2025-03-31 |
-| [Oofeets](https://open.spotify.com/track/6AHcBAF5OFbachtFx1WiL0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/3OmwpHJA0I4yi8Jxa6CVK3) | 3:46 | 2025-12-13 |  |
+| [Oofeets](https://open.spotify.com/track/6AHcBAF5OFbachtFx1WiL0) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/3OmwpHJA0I4yi8Jxa6CVK3) | 3:46 | 2025-12-13 | 2025-12-14 |
 | [Original](https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:07 | 2022-07-19 | 2025-11-07 |
 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 | 2023-12-13 | 2025-09-18 |
 | [Otan](https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a) | 3:17 | 2025-09-18 |  |
@@ -203,6 +203,7 @@
 | [Sweetio \- Club Mix](https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe) | [Raquel](https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Best of Both Worlds](https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC) | 3:56 | 2025-08-31 | 2025-09-05 |
 | [Take My Love \(feat\. Tekno\)](https://open.spotify.com/track/7MjFK0v2TormiqNHFyXvDH) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 2:54 | 2022-01-12 | 2022-09-29 |
 | [Teef Teef](https://open.spotify.com/track/675Kfnzftrr18DztlsHekL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Teef Teef](https://open.spotify.com/album/1xikDf9KeiwGCPmi2BHEVX) | 4:30 | 2022-10-12 | 2023-06-26 |
+| [The Boys](https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Boys](https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu) | 3:47 | 2025-12-14 |  |
 | [Till We Die](https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die](https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV) | 3:00 | 2025-09-20 |  |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-11-10 | 2025-09-20 |
 | [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 | 2021-12-28 |  |

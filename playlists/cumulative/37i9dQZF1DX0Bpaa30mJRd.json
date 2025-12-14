@@ -125,9 +125,9 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 387832,
-      "name": "A Million Miles Away (reprise) - English Version",
-      "url": "https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS"
+      "duration_ms": 481378,
+      "name": "A Million Miles Away (From \"Belle\" Soundtrack) - English Version",
+      "url": "https://open.spotify.com/track/1sK8lWSdU9LftDYvckLd6V"
     },
     {
       "album": {
@@ -143,9 +143,9 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 481378,
-      "name": "A Million Miles Away - English Version",
-      "url": "https://open.spotify.com/track/1sK8lWSdU9LftDYvckLd6V"
+      "duration_ms": 387832,
+      "name": "A Million Miles Away (reprise) (From \"Belle\" Soundtrack) - English Version",
+      "url": "https://open.spotify.com/track/3LGIequcwZQo02cskDxXVS"
     },
     {
       "album": {
@@ -630,7 +630,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 239263,
-      "name": "Gales of Song - English Version",
+      "name": "Gales of Song (From \"Belle\" Soundtrack) - English Version",
       "url": "https://open.spotify.com/track/0jD2Fa9VjjtkeCOWyQftdt"
     },
     {
@@ -980,7 +980,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 303787,
-      "name": "Lend Me Your Voice - English Version",
+      "name": "Lend Me Your Voice (From \"Belle\" Soundtrack) - English Version",
       "url": "https://open.spotify.com/track/5ZnV5RzUKhkxBRUGcMr1K4"
     },
     {
@@ -1559,28 +1559,6 @@
     },
     {
       "album": {
-        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
-      },
-      "artists": [
-        {
-          "name": "Miho Hazama",
-          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
-        },
-        {
-          "name": "Taisei Iwasaki",
-          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
-        }
-      ],
-      "date_added": "2022-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176000,
-      "name": "Slingshot",
-      "url": "https://open.spotify.com/track/1VHURQwLNzdX6caacu1UDq"
-    },
-    {
-      "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
       },
@@ -1600,6 +1578,28 @@
       "duration_ms": 176000,
       "name": "Slingshot",
       "url": "https://open.spotify.com/track/3LhgpuRdAULZQkhO4aBSdB"
+    },
+    {
+      "album": {
+        "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
+      },
+      "artists": [
+        {
+          "name": "Miho Hazama",
+          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
+        },
+        {
+          "name": "Taisei Iwasaki",
+          "url": "https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Slingshot (From \"Belle\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1VHURQwLNzdX6caacu1UDq"
     },
     {
       "album": {
@@ -1688,7 +1688,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 98242,
-      "name": "Swarms of Song - English Version",
+      "name": "Swarms of Song (From \"Belle\" Soundtrack) - English Version",
       "url": "https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn"
     },
     {
@@ -2048,7 +2048,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183531,
-      "name": "U - English Version",
+      "name": "U (From \"Belle\" Soundtrack) - English Version",
       "url": "https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY"
     },
     {

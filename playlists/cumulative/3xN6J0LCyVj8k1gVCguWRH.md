@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,513 songs - 12 day 20 hr 3 min
+5,514 songs - 12 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2326,7 +2326,7 @@
 | [I'm Good](https://open.spotify.com/track/46iMo18vJAabHoIXupE5eu) | [MACY](https://open.spotify.com/artist/1yfEXhEdfxucShJs6NXXc9) | [I'm Good](https://open.spotify.com/album/6UpURbbdJTdWR3Acna4aBU) | 2:56 | 2021-12-31 | 2022-01-15 |
 | [I'm Happy](https://open.spotify.com/track/6rrK6kLqjoPHUyChkTTLGh) | [Tonal Graffiti](https://open.spotify.com/artist/1nd45Z3rbwZTh7CLAEBW4k) | [I'm Happy](https://open.spotify.com/album/1dyfZN6WR4gQcFW7tWLRXR) | 2:39 | 2023-08-25 | 2023-09-26 |
 | [I'm Home](https://open.spotify.com/track/0cyet2FV6brooO5mA4Gcco) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [I'm Home](https://open.spotify.com/album/204YFT7a78NcDohIL0TuSp) | 4:26 | 2022-08-19 | 2022-09-04 |
-| [I'm Not the Only One](https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:01 | 2025-10-14 | 2025-10-26 |
+| [I'm Not the Only One](https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:01 | 2025-10-14 |  |
 | [I'm Ok](https://open.spotify.com/track/5jBLoyyfD4ZzQ1WZhJGRPb) | [Emma Kern](https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz) | [80 Fenway](https://open.spotify.com/album/09YHB71puDqaIJinUFZEzt) | 3:31 | 2022-01-14 | 2023-01-21 |
 | [i'm out](https://open.spotify.com/track/6ZaMUeJbdksiE98WMZg9Gs) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [i'm out](https://open.spotify.com/album/4hzuJ1py4srcceyi5M3ldN) | 3:18 | 2021-06-01 | 2021-06-08 |
 | [I'm Ready](https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh) | 2:17 | 2023-07-31 | 2023-08-20 |
@@ -2660,6 +2660,7 @@
 | [Lean On Me](https://open.spotify.com/track/0YCELaUtj7DZ7AUXoYyK8Z) | [Hero Da Kyng](https://open.spotify.com/artist/5b6xoFlWI8D7XFQMwnGE6r) | [Lean On Me](https://open.spotify.com/album/66aalciMfBRygXCBySPJgP) | 2:30 | 2024-05-10 | 2024-05-22 |
 | [Leave](https://open.spotify.com/track/0nLJwlHN1oWp90y00bIWx7) | [AyoDéa](https://open.spotify.com/artist/6ZsNvTWmFPgGvnlEXzoKEU), [Tiran](https://open.spotify.com/artist/7yrzOokhxdgwUXXDHecsgy) | [Aurore](https://open.spotify.com/album/3Qd0dF6AInsP9pRPSodlZy) | 2:28 | 2025-10-28 | 2025-12-09 |
 | [Leave](https://open.spotify.com/track/7ojOuwJIa8JHqQBtiGe6fG) | [Jacob Miller](https://open.spotify.com/artist/5ETV1D5HBcoygYbYGEAln6) | [Leave](https://open.spotify.com/album/2Ec0JzyMefidRWUoITDtJN) | 4:27 | 2022-01-28 | 2022-02-13 |
+| [Leave a Little to the Imagination](https://open.spotify.com/track/5B55NAEl15wZLczu6QcQDp) | [FORAGER](https://open.spotify.com/artist/0DT51FXXTBgRb2YykneEyb) | [Leave a Little to the Imagination](https://open.spotify.com/album/4ZCpSskYo5vDF9H1zB5GIZ) | 5:38 | 2025-12-13 |  |
 | [leave her](https://open.spotify.com/track/1jRTd3222ruwh0czzrjZKo) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [leave her](https://open.spotify.com/album/4u7DeTIrAdV5lvatL0iWlO) | 3:03 | 2022-10-31 | 2022-11-21 |
 | [Leave It \- Acoustic](https://open.spotify.com/track/548IbHVmoE36ws8cpv7IKW) | [Caleb Flint](https://open.spotify.com/artist/6waeHMbG6L2SfnVLCB2uvA) | [Leave It \(Acoustic\)](https://open.spotify.com/album/7ym4EQehhbWjYFEA9cbfSE) | 2:58 | 2025-05-23 | 2025-06-04 |
 | [Leave It On The Floor](https://open.spotify.com/track/2sYMZ154MSn1nYEBnsyXfz) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Leave It On The Floor](https://open.spotify.com/album/0mOkUy4lrQxvqDIsCcj1Pn) | 3:50 | 2023-08-25 | 2024-02-11 |
@@ -4579,7 +4580,7 @@
 | [Swing With Me](https://open.spotify.com/track/4OIFVICOvkbP8yQ0k8LVrn) | [Leon Rosen](https://open.spotify.com/artist/13O0zKTEYQA0fx7VT0RFAr) | [The Night is for Jokers](https://open.spotify.com/album/5VoDkkbIWrOYWOec1rPJeQ) | 3:09 | 2021-01-05 | 2021-01-21 |
 | [Switch It Up \(feat\. Koffee\)](https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:54 | 2021-07-11 | 2024-04-21 |
 | [Switch Off](https://open.spotify.com/track/19DEsE9oHqRVZXtAO8wNNy) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Switch Off](https://open.spotify.com/album/26KLso0iYAnzXqVrJSyTYI) | 2:54 | 2020-02-27 | 2020-03-11 |
-| [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 | 2025-06-23 |  |
+| [Sycamore Tree](https://open.spotify.com/track/1qHDg5ObxDpRZjoqPQGIyK) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Sycamore Tree](https://open.spotify.com/album/43aG2nFhrrTXHXjJR2KoFR) | 3:35 | 2025-06-23 | 2025-12-14 |
 | [symptom of life](https://open.spotify.com/track/70nmpLYSyZ58QTUzUiB1VA) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:09 | 2024-08-12 |  |
 | [Synchronized Swimming](https://open.spotify.com/track/6UPGoBwrItSEid6J4zsFC1) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Synchronized Swimming](https://open.spotify.com/album/4uPiq7pZpa7b0SVTcnBMXO) | 3:30 | 2024-09-27 | 2024-10-10 |
 | [Syren](https://open.spotify.com/track/3cZtSRN6hwJur5olF8jdSR) | [syren water](https://open.spotify.com/artist/2DGleEHd00NfIwNyiPMrds) | [Syren](https://open.spotify.com/album/5llFuneLxyv0Y0bVTs4mXv) | 3:30 | 2023-05-19 | 2023-06-11 |

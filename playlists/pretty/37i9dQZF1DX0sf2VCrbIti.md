@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,636 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,639 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 67 | [El Dia De Suerte](https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 5:27 |
 | 68 | [A Dormir Juntitos \- Liz featuring Eddy Herrera](https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Paso Firme](https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP) | 4:42 |
 | 69 | [Me Enamoro de Ella](https://open.spotify.com/track/2r9sa01fZW9NEVwdqFvfzZ) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo) | 4:17 |
-| 70 | [Cielito Lindo](https://open.spotify.com/track/17UQaysFON93fn278DeWqg) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Total](https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD) | 3:41 |
-| 71 | [Aguinaldo Con Billo](https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de Billo Caracas Boy's, Vol II](https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W) | 3:13 |
-| 72 | [Viejo Año](https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 3:16 |
+| 70 | [Viejo Año](https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 3:16 |
+| 71 | [Cielito Lindo](https://open.spotify.com/track/17UQaysFON93fn278DeWqg) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Total](https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD) | 3:41 |
+| 72 | [Aguinaldo Con Billo](https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de Billo Caracas Boy's, Vol II](https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W) | 3:13 |
 | 73 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 |
 | 74 | [Gaita Onomatopeyica](https://open.spotify.com/track/0HAoMv4QDZ52UCiCSWwLyy) | [Gran Coquivacoa](https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 2:54 |
 | 75 | [En Estas Navidades](https://open.spotify.com/track/710cHHvEWf2gBkCzXnjnww) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Navideño](https://open.spotify.com/album/723wthgUpMymoNyzovCz5e) | 4:35 |

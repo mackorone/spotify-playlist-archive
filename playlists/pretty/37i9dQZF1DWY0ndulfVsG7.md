@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,813 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,816 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 46 | [Di Matamu](https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Di Matamu](https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc) | 4:07 |
 | 47 | [Sudah Ku Tahu](https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sudah Ku Tahu](https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0) | 4:18 |
 | 48 | [Isabella](https://open.spotify.com/track/39t7DAuFCoyGmzNluMLsSM) | [Search](https://open.spotify.com/artist/4LADVWbGgajvchOHelqZv2) | [Fenomena](https://open.spotify.com/album/2FjQr9dvsfICcVuQgOsect) | 5:08 |
-| 49 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
-| 50 | [Kekasih Bayangan](https://open.spotify.com/track/3PeIxOLCSZtpMCo24EcapU) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kekasih Bayangan](https://open.spotify.com/album/2Xw7OI35YCxYybg7zDnK39) | 4:43 |
+| 49 | [Kekasih Bayangan](https://open.spotify.com/track/3PeIxOLCSZtpMCo24EcapU) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Kekasih Bayangan](https://open.spotify.com/album/2Xw7OI35YCxYybg7zDnK39) | 4:43 |
+| 50 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
 
 Snapshot ID: `AAAAAHdP5Z/9sigil/UluybLzNf5WwV/`

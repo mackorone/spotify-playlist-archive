@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 62073,
+  "num_followers": 62119,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 233933,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI"
     },
     {
       "added_at": "2024-07-12 15:02:20",

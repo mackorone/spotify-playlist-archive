@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 629790,
+  "num_followers": 630098,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABeff14JoYESFgBxneDx7s+",
+  "snapshot_id": "aTtbAAAAAAD470KGD2gxAQ8xNKz7Etfd",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 199893,
       "name": "High Road",
       "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
       "added_at": null,

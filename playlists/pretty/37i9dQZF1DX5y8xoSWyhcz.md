@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,059 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,053 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 99 | [Rage](https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Rage](https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt) | 3:21 |
 | 100 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 |
 
-Snapshot ID: `AAAAAEJRTWyXRC9JcfP58QRRbLF4nZTq`
+Snapshot ID: `AAAAAM/ER/hXzTRuc+fvgZavzYRTzFd5`

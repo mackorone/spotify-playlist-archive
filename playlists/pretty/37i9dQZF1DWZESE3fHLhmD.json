@@ -1,6 +1,6 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1326729,
+  "num_followers": 1326715,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-12-05 07:13:12",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2025-12-05 07:13:12",
-      "album": {
         "name": "bittersweet",
         "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2025-12-05 07:13:12",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2025-12-05 07:13:12",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-12-05 07:13:12",
       "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
-    },
-    {
-      "added_at": "2025-12-05 07:13:12",
-      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 252305,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+    },
+    {
+      "added_at": "2025-12-05 07:13:12",
+      "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2025-12-05 07:13:12",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-12-05 07:13:12",
       "album": {
-        "name": "this is what autumn feels like",
-        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 219909,
-      "name": "this is what autumn feels like",
-      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
-    },
-    {
-      "added_at": "2025-12-05 07:13:12",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything",
       "url": "https://open.spotify.com/track/32iNr3J93tqFkxaMYwdRYi"
+    },
+    {
+      "added_at": "2025-12-05 07:13:12",
+      "album": {
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
     },
     {
       "added_at": "2025-12-05 07:13:12",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-12-05 07:13:12",
       "album": {
-        "name": "Weathervane",
-        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
-    },
-    {
-      "added_at": "2025-12-05 07:13:12",
-      "album": {
         "name": "Made In The A.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 200538,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6"
+    },
+    {
+      "added_at": "2025-12-05 07:13:12",
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
       "added_at": "2025-12-05 07:13:12",

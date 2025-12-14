@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Judeline x DELLAFUENTE, Mora, Roa x Dei V, Bunbury y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,835 likes - 58 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,858 likes - 58 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

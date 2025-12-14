@@ -1895,6 +1895,36 @@
     },
     {
       "album": {
+        "name": "The Holly and the Ivy",
+        "url": "https://open.spotify.com/album/2JOa9xgb3MMj20wowXs8E6"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Choir of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/0sHmVvDwPMhpqcFLBtiDPd"
+        },
+        {
+          "name": "Orchestra of Clare College, Cambridge",
+          "url": "https://open.spotify.com/artist/6Epkp141HpLSLEb2Kp7lP4"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128960,
+      "name": "Ding Dong! Merrily on High",
+      "url": "https://open.spotify.com/track/29jt9fjDgLpvkDWTmlDPdf"
+    },
+    {
+      "album": {
         "name": "Christmas Choirs",
         "url": "https://open.spotify.com/album/7n4h5GUmeFj4Z8MhaIVOK2"
       },
@@ -1952,32 +1982,6 @@
       "duration_ms": 129693,
       "name": "Ding Dong! Merrily on High",
       "url": "https://open.spotify.com/track/5deugvvBm2rJBPI2S0BZmQ"
-    },
-    {
-      "album": {
-        "name": "The Holly and the Ivy",
-        "url": "https://open.spotify.com/album/2JOa9xgb3MMj20wowXs8E6"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Orchestra of Clare College, Cambridge",
-          "url": "https://open.spotify.com/artist/6Epkp141HpLSLEb2Kp7lP4"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128960,
-      "name": "Ding Dong! Merrily on High",
-      "url": "https://open.spotify.com/track/29jt9fjDgLpvkDWTmlDPdf"
     },
     {
       "album": {
@@ -6878,7 +6882,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158493,
-      "name": "Traditional: Angels from the Realms of Glory (Arr. Ledger)",
+      "name": "Traditional: Angels from the Realms of Glory",
       "url": "https://open.spotify.com/track/2oP2CNXLq2MwZ1VTI75e7V"
     },
     {

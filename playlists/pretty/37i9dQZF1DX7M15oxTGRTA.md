@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,356 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,423 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 41 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin \(Expanded Edition\)](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
 | 42 | [One Hundred Ways](https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:19 |
 | 43 | [I Want to Be Your Man \- Remastered Version](https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [Unlimited!](https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux) | 4:11 |
-| 44 | [All This Love](https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 5:52 |
+| 44 | [Caught Up in the Rapture](https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:10 |
 | 45 | [Mornin'](https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 4:18 |
-| 46 | [Caught Up in the Rapture](https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:10 |
+| 46 | [All This Love](https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 5:52 |
 | 47 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
 | 48 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 49 | [Tell Me If You Still Care](https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 6:56 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 78 | [Angel](https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [The Songstress](https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj) | 5:00 |
 | 79 | [Caravan of Love](https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:41 |
 | 80 | [The Closer I Get to You](https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:40 |
-| 81 | [Remind Me \- Remastered](https://open.spotify.com/track/0vDu3wX2y4gMCYxkkvN08W) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 5:19 |
-| 82 | [One Step Ahead](https://open.spotify.com/track/1L2v0m8OZthSoBHGpOwpV2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Genesis of Aretha: 1960\-1966](https://open.spotify.com/album/46rXeT9V36y4MaVgPWXlKf) | 2:33 |
+| 81 | [One Step Ahead](https://open.spotify.com/track/1L2v0m8OZthSoBHGpOwpV2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Genesis of Aretha: 1960\-1966](https://open.spotify.com/album/46rXeT9V36y4MaVgPWXlKf) | 2:33 |
+| 82 | [Remind Me \- Remastered](https://open.spotify.com/track/0vDu3wX2y4gMCYxkkvN08W) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 5:19 |
 | 83 | [Good Love](https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Giving You the Best That I Got](https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W) | 5:33 |
 | 84 | [Silky Soul](https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Silky Soul](https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC) | 6:45 |
 | 85 | [On My Own \- Single Version](https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Patti LaBelle's Greatest Hits](https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R) | 4:43 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 96 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:14 |
 | 97 | [For the Good Times](https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [The Love Songs Collection](https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG) | 6:13 |
 | 98 | [Dream Lover](https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg) | [Liz Hogue](https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm) | [Vicious & Fresh](https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft) | 5:57 |
-| 99 | [Where There Is Love \- Remastered](https://open.spotify.com/track/1HWOX9Er7FnEm9yuM7bTtj) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 3:10 |
-| 100 | [Stronger Than Before](https://open.spotify.com/track/4Xt62tjE20m3ATFv9zXrgi) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:21 |
+| 99 | [Stronger Than Before](https://open.spotify.com/track/4Xt62tjE20m3ATFv9zXrgi) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:21 |
+| 100 | [Where There Is Love \- Remastered](https://open.spotify.com/track/1HWOX9Er7FnEm9yuM7bTtj) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 3:10 |
 
 Snapshot ID: `AAAAAM1Sy8JkV+afg6j9K14vi1DeT1WO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnjjHJCYzB8.md) - [plain]
 
 > Spotify Singles, Outside, and Live Room releases from 2025\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,032 likes - 33 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,056 likes - 33 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnjjHJCYzB8.md) - [plain]
 | 32 | [Sleep Now In The Fire \- Spotify Singles](https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 3:20 |
 | 33 | [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 |
 
-Snapshot ID: `AAAAAKgB4o5EipHn8EADgycoNXb9S691`
+Snapshot ID: `AAAAAI7R1Xg5VtK3HwGpo7iEMOGBHxFu`

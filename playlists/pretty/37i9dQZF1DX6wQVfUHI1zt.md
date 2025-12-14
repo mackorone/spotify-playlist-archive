@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,834 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,880 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 53 | [Hasta Cuando](https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke), [Los Musicales](https://open.spotify.com/artist/71Vi0mhi8ZgBczjBNJlLah) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:26 |
 | 54 | [Amor Querido](https://open.spotify.com/track/3Wx6K6u4Q13a4lbdCLlXjR) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [12 Favoritas](https://open.spotify.com/album/6AAXyPYIMRcRSJjsboOZdk) | 4:00 |
 | 55 | [Todavía](https://open.spotify.com/track/7bHkADmhokpM5nIwkZYkbo) | [Elsa Garcia](https://open.spotify.com/artist/1ueN9z9M3Xyk27jcjn8tLE) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:38 |
-| 56 | [Lágrimas](https://open.spotify.com/track/0Ni9rZBFkAXXQgeVli29zM) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:43 |
+| 56 | [Por Favor Corazon](https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:43 |
 | 57 | [Ay Mujer](https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 2:49 |
 | 58 | [Al Partir](https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:14 |
 | 59 | [Rosas Para Una Rosa](https://open.spotify.com/track/4upZxV6D7P9tRoHPssVGTx) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:32 |
-| 60 | [Por Favor Corazon](https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:43 |
+| 60 | [Lágrimas](https://open.spotify.com/track/0Ni9rZBFkAXXQgeVli29zM) | [La Tropa F](https://open.spotify.com/artist/4SsZpXami0QZZ5ScCsGsL1) | [Yo Sé Que Te Acordarás Texano \(Vol.2 / 20 Temas Originales\)](https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9) | 3:43 |
 | 61 | [Me Duele Estar Solo](https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:27 |
 | 62 | [Te Aprovechas](https://open.spotify.com/track/5XDzjngBmRhuY9Q1PAPvpe) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/7z6Mg4FgZucMjSfMxbXkoA) | 3:06 |
 | 63 | [Como Te Extrano](https://open.spotify.com/track/1xXacwtojBabEce1MTLvkY) | [Pete Astudillo](https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY) | [Tejano Award Nominees](https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy) | 3:50 |

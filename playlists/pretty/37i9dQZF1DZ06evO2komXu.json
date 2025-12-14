@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 53550,
+  "num_followers": 53574,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADVsRgGxbZR5XLWLxqBVxDS",
+  "snapshot_id": "aTtbAAAAAACkANphnO0y2MwL7t2Ag0kq",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sability",
+        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 166558,
+      "name": "Sability",
+      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 211200,
       "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
       "url": "https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sability",
-        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 166558,
-      "name": "Sability",
-      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
     },
     {
       "added_at": null,

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md) - cumulative - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \- Rosalía en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Rels B en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-359 songs - 18 hr 40 min
+360 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [amor de verano](https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [amor de verano](https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG) | 2:56 | 2024-01-20 | 2024-05-19 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-11-26 | 2023-03-26 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-05-17 |  |
-| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-12-14 |  |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-12-14 | 2025-12-14 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-16 | 2023-03-05 |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-10-28 | 2024-06-30 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-12 | 2025-12-07 |
@@ -208,6 +208,7 @@
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-10-14 | 2024-07-07 |
 | [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-03-02 | 2024-09-01 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-05-07 | 2022-10-09 |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-12-13 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-07-19 | 2025-10-19 |
 | [Maníaca](https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Maníaca](https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye) | 2:55 | 2023-07-08 | 2024-04-07 |
 | [Mares De Miel](https://open.spotify.com/track/1tJrLUcqjzQVZLFCV8lym0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Mares De Miel](https://open.spotify.com/album/3FpD9Rogk6RmMLvKMxT6ba) | 4:41 | 2022-01-15 | 2022-04-03 |

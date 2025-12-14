@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 19 songs - 39 min 11 sec
+[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 19 songs - 39 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,18 +14,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 4 | [Supper at Six](https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:48 |
 | 5 | [You're Gloating](https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:06 |
 | 6 | [LaBelle Opera](https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:23 |
-| 7 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
+| 7 | [Best Alone](https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:10 |
 | 8 | [Ceiling Games](https://open.spotify.com/track/3ATRPvWFMu2F1U8b1Bh7ep) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:17 |
 | 9 | [You Lost Your Shadow, Bill](https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:26 |
 | 10 | [Saint Luke's](https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:43 |
 | 11 | [Playing Townes](https://open.spotify.com/track/7H3rsvWLf1KZZRvF1zQdzl) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:45 |
 | 12 | [Alice](https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:58 |
-| 13 | [Best Alone](https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:10 |
+| 13 | [A Lead](https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:02 |
 | 14 | [Training With Mr\. Schaibel](https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:04 |
 | 15 | [Mcnue Leaves](https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 3:04 |
-| 16 | [Lessons In Chemistry](https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:16 |
+| 16 | [Science](https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:00 |
 | 17 | [Sygrayem \(Let's Play\)](https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:11 |
 | 18 | [Mary Agnes & Callie](https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:21 |
-| 19 | [A Lead](https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:02 |
+| 19 | [Lessons In Chemistry](https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:16 |
 
-Snapshot ID: `aToJgAAAAAAm6Raa6jUs2wVIdo5KHfF2`
+Snapshot ID: `aTtbAAAAAAA3BjrSPRvjgpfIVD1QKzg2`

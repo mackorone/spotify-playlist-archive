@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 107496,
+  "num_followers": 107529,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "When The Night (Deluxe)",
-        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 308360,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Flume",
         "url": "https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 154414,
       "name": "Holdin On",
       "url": "https://open.spotify.com/track/4s5652m7A8iuDQsZ0UWNcO"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "When The Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 308360,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
     },
     {
       "added_at": "2025-03-14 12:16:12",

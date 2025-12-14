@@ -1,6 +1,6 @@
 {
   "description": "dois quebrada na bola de meia, kyan e mu540",
-  "num_followers": 1417229,
+  "num_followers": 1417116,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,30 @@
     {
       "added_at": "2025-12-11 16:00:16",
       "album": {
+        "name": "Sentido \u00e0 Zona Leste",
+        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 123508,
+      "name": "Sentido \u00e0 Zona Leste",
+      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
+    },
+    {
+      "added_at": "2025-12-11 16:00:16",
+      "album": {
         "name": "Marmita de Blogueira",
         "url": "https://open.spotify.com/album/4U6TbTVXKGwF7OAmZPNczl"
       },
@@ -1015,30 +1039,6 @@
       "duration_ms": 131520,
       "name": "Marmita de Blogueira",
       "url": "https://open.spotify.com/track/6TFne3kuZiI7kfSVCx1OFg"
-    },
-    {
-      "added_at": "2025-12-11 16:00:16",
-      "album": {
-        "name": "Sentido \u00e0 Zona Leste",
-        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 123508,
-      "name": "Sentido \u00e0 Zona Leste",
-      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
     },
     {
       "added_at": "2025-12-11 16:00:16",
@@ -1323,42 +1323,6 @@
     {
       "added_at": "2025-12-11 16:00:16",
       "album": {
-        "name": "A Milh\u00e3o",
-        "url": "https://open.spotify.com/album/26oy1EOZbD6AeisGnGHezR"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "A Milh\u00e3o",
-      "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
-    },
-    {
-      "added_at": "2025-12-11 16:00:16",
-      "album": {
         "name": "Efeito Borboleta",
         "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
       },
@@ -1391,6 +1355,42 @@
       "duration_ms": 180923,
       "name": "Sensa\u00e7\u00e3o de Poder",
       "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
+    },
+    {
+      "added_at": "2025-12-11 16:00:16",
+      "album": {
+        "name": "A Milh\u00e3o",
+        "url": "https://open.spotify.com/album/26oy1EOZbD6AeisGnGHezR"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "A Milh\u00e3o",
+      "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
     },
     {
       "added_at": "2025-12-11 16:00:16",

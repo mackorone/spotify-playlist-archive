@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,251 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,256 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22rN53.md) - [plain]
 | 18 | [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 |
 | 19 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 
-Snapshot ID: `aToJgAAAAADpH74qjYYAbSC/ZpOLm3tq`
+Snapshot ID: `aTtbAAAAAAAGeCERnLzDco53NMLJWyru`

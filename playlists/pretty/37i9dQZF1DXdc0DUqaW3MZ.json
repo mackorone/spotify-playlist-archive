@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 373091,
+  "num_followers": 373095,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
+        "name": "Static on My Tongue",
+        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Static on My Tongue",
+      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 284573,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
-        "name": "Static on My Tongue",
-        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Static on My Tongue",
-      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "touch",
-        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
-      },
-      "artists": [
-        {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
-        },
-        {
-          "name": "Bad Honey",
-          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "touch",
-      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
-    },
-    {
-      "added_at": "2025-12-12 00:00:12",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -1203,26 +1183,22 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "All that Glitters is not Gold",
-        "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
       },
       "artists": [
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
         },
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
         }
       ],
-      "duration_ms": 171613,
-      "name": "All that Glitters is not Gold",
-      "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1243,6 +1219,30 @@
       "duration_ms": 154735,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
+    },
+    {
+      "added_at": "2025-12-12 00:00:12",
+      "album": {
+        "name": "All that Glitters is not Gold",
+        "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "All that Glitters is not Gold",
+      "url": "https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz"
     },
     {
       "added_at": "2025-12-12 00:00:12",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2025-12-12 00:00:12",
       "album": {
-        "name": "Guiding Star (feat. Reek0)",
-        "url": "https://open.spotify.com/album/1yO8K3BFCjAomHgbRQKPjp"
+        "name": "UP DOWN BOUNCE",
+        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
       },
       "artists": [
         {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
         },
         {
-          "name": "Reek0",
-          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
         }
       ],
-      "duration_ms": 181067,
-      "name": "Guiding Star (feat. Reek0)",
-      "url": "https://open.spotify.com/track/0VCY5ggSvAMMaxTiyryRSL"
+      "duration_ms": 188571,
+      "name": "UP DOWN BOUNCE",
+      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
     }
   ],
   "unique_name": "Soultronic",

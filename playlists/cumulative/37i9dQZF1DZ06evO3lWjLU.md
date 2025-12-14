@@ -4,13 +4,14 @@
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 55 min
+99 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4:22](https://open.spotify.com/track/1TRnIxwWeJoE6MVimzjw2w) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:13 | 2023-11-10 | 2025-08-14 |
 | [???](https://open.spotify.com/track/6yng30OK3qqZWW2DJCiMCt) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 3:23 | 2024-06-18 | 2024-06-19 |
 | [a mi también me duele](https://open.spotify.com/track/443NlczMsHNzZuTX3cTQtz) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:50 | 2024-07-21 | 2025-04-15 |
+| [Alma Llanera / Venezuela \- Live from Nobel Peace Prize 2025](https://open.spotify.com/track/2pvoBWRbXGXQrGgQF6swxn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Alma Llanera / Venezuela \(Live from Nobel Peace Prize 2025\)](https://open.spotify.com/album/1ZlHS1USF0HZtjBngdLwu1) | 3:58 | 2025-12-14 |  |
 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 | 2023-11-10 |  |
 | [AMOR](https://open.spotify.com/track/58UCQZoSDprVXVLgcCVBHt) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:00 | 2024-06-30 |  |
 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 | 2024-02-10 | 2024-06-30 |

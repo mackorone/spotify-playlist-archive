@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,768 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,177 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 51 | [Wave](https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/6QvzomkvvLBVo8Mmsy4bEh) | 2:54 |
 | 52 | [One Note Samba](https://open.spotify.com/track/00KsnoekYhjdUu9yAPvXVh) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI) | 3:01 |
 | 53 | [Bluchanga](https://open.spotify.com/track/1zxMcomnqXDoPipY4ACR8t) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Bluchanga](https://open.spotify.com/album/4UxbD3B7SIIBphqtKpdTKU) | 4:26 |
-| 54 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 |
+| 54 | [Rosa Morena](https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Hô\-Bá\-Lá\-Lá](https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp) | 2:04 |
 | 55 | [Vivo Sonhando](https://open.spotify.com/track/6tGwpf1CczvEvzVaDVUPjk) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 3:04 |
 | 56 | [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 |
 | 57 | [Meu Mundo Caiu](https://open.spotify.com/track/4XWgUf9Hke6SekbfxEhdGG) | [Maysa](https://open.spotify.com/artist/6O67GI6ayhWHyFmOOJRLEq) | [The Sound Of Love](https://open.spotify.com/album/3KYK6KPU7EFjCsrt5cvsXC) | 3:23 |
 | 58 | [Águas De Março](https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Tom Jobim E Amigos](https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M) | 3:32 |
-| 59 | [Rosa Morena](https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Hô\-Bá\-Lá\-Lá](https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp) | 2:04 |
+| 59 | [De Conversa Em Conversa](https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 2:16 |
 | 60 | [Pela luz dos olhos teus](https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Miúcha](https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2) | [Jobim, Vinicius, Baden, Menescal, Lyra..\. \(54 Songs\)](https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt) | 2:48 |
 | 61 | [Unhappy Remark \(Palpite Infeliz\)](https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/0u32q4Evsx4fHtpkUUwodh) | 3:55 |
 | 62 | [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 |

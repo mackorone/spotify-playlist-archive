@@ -1,13 +1,33 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 43418,
+  "num_followers": 43471,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADSiR44UxUwMrskZuQ8IcQs",
+  "snapshot_id": "aTtbAAAAAABK2TUG1hNYSBorsYm8+koi",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
+      },
+      "artists": [
+        {
+          "name": "EMO Grae",
+          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
+    },
     {
       "added_at": null,
       "album": {

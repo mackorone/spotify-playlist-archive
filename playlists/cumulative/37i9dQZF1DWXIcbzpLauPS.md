@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Abbie Falls
 
-1,436 songs - 3 day 15 hr 34 min
+1,437 songs - 3 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,6 +539,7 @@
 | [Gaping Wounds of Earth](https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:43 | 2023-11-27 | 2024-01-13 |
 | [Generation Genocide](https://open.spotify.com/track/0LasUChReFGGNWmry0IlFU) | [Lonewolf](https://open.spotify.com/artist/3zn6Fa4a9bUUmgXH6sH7IC) | [Generation Genocide](https://open.spotify.com/album/3DgG62Z7goTUZ7jWVAsXNi) | 2:40 | 2021-12-17 | 2022-01-28 |
 | [Generation No Surrender](https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Generation No Surrender](https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg) | 2:47 | 2024-12-18 | 2025-05-07 |
+| [Genesis](https://open.spotify.com/track/6PwPVP7QAMJIeSfex4DXrk) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Genesis](https://open.spotify.com/album/4HmQ16rds9WlbFrFnra9Wa) | 3:29 | 2025-12-12 |  |
 | [Get By Then Die](https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Get By Then Die](https://open.spotify.com/album/6bAjeZOa0tKK4CdeH8a2NR) | 3:31 | 2025-11-21 |  |
 | [Get Out](https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Get Out](https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY) | 3:00 | 2024-06-10 | 2024-08-17 |
 | [Get Outta My Head](https://open.spotify.com/track/0PvXhHobvoA0dprf2Moi3K) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Get Outta My Head](https://open.spotify.com/album/46HUWkwh5UZkhMxLqqD993) | 3:17 | 2022-05-20 | 2022-06-11 |
@@ -1292,7 +1293,7 @@
 | [Toxicant](https://open.spotify.com/track/39OtaFg1VC0Ae5s9QByKH1) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Toxicant](https://open.spotify.com/album/6DhFyCsqxvVJOVvq0cYbiO) | 4:41 | 2022-07-13 | 2022-07-22 |
 | [Trace Erase](https://open.spotify.com/track/2WpNu8Z5IMLOKI1q216LOk) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Reload, Repeat](https://open.spotify.com/album/6sEqYJT20gP7uD65W7FFsh) | 3:18 | 2025-04-25 | 2025-05-22 |
 | [Transcendent](https://open.spotify.com/track/5oWgLIrSTgqqNRh1AhsiQ1) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Transcendent](https://open.spotify.com/album/3YMpCrGOIp8ZXy0ft4piEA) | 3:37 | 2022-03-11 | 2022-05-14 |
-| [Trapped](https://open.spotify.com/track/0i1qmOamOjQQYZEmyYJe5E) | [Beyond Awareness](https://open.spotify.com/artist/4QLBCc2W2uxqr6ZbBMjMBs) | [Trapped](https://open.spotify.com/album/2e4MPhmuHfBf9MoVFCgnlh) | 3:07 | 2025-05-23 |  |
+| [Trapped](https://open.spotify.com/track/0i1qmOamOjQQYZEmyYJe5E) | [Beyond Awareness](https://open.spotify.com/artist/4QLBCc2W2uxqr6ZbBMjMBs) | [Trapped](https://open.spotify.com/album/2e4MPhmuHfBf9MoVFCgnlh) | 3:07 | 2025-05-23 | 2025-12-14 |
 | [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 | 2022-06-17 | 2023-02-11 |
 | [Trapped](https://open.spotify.com/track/4XbVasB4Gwwgvdua5fmI8l) | [The Amsterdam Red Light District](https://open.spotify.com/artist/1ptorm1HpGuBCrIE5BLijx) | [Trapped](https://open.spotify.com/album/5ACncvxgoQCS5YJpCtuDj1) | 3:20 | 2022-04-08 | 2022-06-24 |
 | [Trembling Level](https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [Trembling Level](https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4) | 2:37 | 2025-01-31 | 2025-05-16 |

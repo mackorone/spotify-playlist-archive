@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195985,
+  "num_followers": 195977,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,26 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
+        "name": "Sweet Emotion",
+        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 157441,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
         "name": "Hos dig \u00e4r jag stark",
         "url": "https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 187183,
       "name": "Hos dig \u00e4r jag stark",
       "url": "https://open.spotify.com/track/0L7nPD6GbbEGI5KdN2scId"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
-        "name": "Sweet Emotion",
-        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 157441,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -703,6 +703,42 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
+        "name": "Tiden l\u00e4ker alla s\u00e5r",
+        "url": "https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q"
+      },
+      "artists": [
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "duration_ms": 183449,
+      "name": "Tiden l\u00e4ker alla s\u00e5r",
+      "url": "https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
+        "name": "Konfetti",
+        "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 194425,
+      "name": "Konfetti",
+      "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
         "name": "Edge of the Earth",
         "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
       },
@@ -735,38 +771,18 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Konfetti",
-        "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
       },
       "artists": [
         {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 194425,
-      "name": "Konfetti",
-      "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
-        "name": "Tiden l\u00e4ker alla s\u00e5r",
-        "url": "https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q"
-      },
-      "artists": [
-        {
-          "name": "Fanny Avonne",
-          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
-        }
-      ],
-      "duration_ms": 183449,
-      "name": "Tiden l\u00e4ker alla s\u00e5r",
-      "url": "https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz"
+      "duration_ms": 162070,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -787,18 +803,18 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
+        "name": "Gabriela - Spotify Singles",
+        "url": "https://open.spotify.com/album/72XfFKK5lNKEbhiPRxXyd3"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 162070,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3"
+      "duration_ms": 184838,
+      "name": "Gabriela - Spotify Singles",
+      "url": "https://open.spotify.com/track/5zjQfzkf1umWY3T98RtX8b"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -839,6 +855,22 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
+        "name": "Love is for Losers",
+        "url": "https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 204167,
+      "name": "Love is for Losers",
+      "url": "https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
         "name": "Haunted Disco",
         "url": "https://open.spotify.com/album/1n9r7bEikcyEqGbMenMySZ"
       },
@@ -855,22 +887,6 @@
       "duration_ms": 187576,
       "name": "Haunted Disco",
       "url": "https://open.spotify.com/track/3rb03cQotAdhTuM4wHMojD"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
-        "name": "Love is for Losers",
-        "url": "https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs"
-      },
-      "artists": [
-        {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
-        }
-      ],
-      "duration_ms": 204167,
-      "name": "Love is for Losers",
-      "url": "https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Bl\u00e5\u00f6gd",
-        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 215834,
-      "name": "Bl\u00e5\u00f6gd",
-      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
         "name": "Superhj\u00e4ltar",
         "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
+        "name": "Till evigheten",
+        "url": "https://open.spotify.com/album/4pPX1hnP4aUtTmDhAYZFiA"
+      },
+      "artists": [
+        {
+          "name": "Edvin T\u00f6rnblom",
+          "url": "https://open.spotify.com/artist/1DA1Zox6VID0zJWCeLY3n2"
+        }
+      ],
+      "duration_ms": 191558,
+      "name": "Till evigheten",
+      "url": "https://open.spotify.com/track/5awpE3fWEAIjvzqvKn82eF"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
         "name": "Forevers",
         "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
       },
@@ -1043,18 +1059,34 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Till evigheten",
-        "url": "https://open.spotify.com/album/4pPX1hnP4aUtTmDhAYZFiA"
+        "name": "Bl\u00e5\u00f6gd",
+        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
       },
       "artists": [
         {
-          "name": "Edvin T\u00f6rnblom",
-          "url": "https://open.spotify.com/artist/1DA1Zox6VID0zJWCeLY3n2"
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
         }
       ],
-      "duration_ms": 191558,
-      "name": "Till evigheten",
-      "url": "https://open.spotify.com/track/5awpE3fWEAIjvzqvKn82eF"
+      "duration_ms": 215834,
+      "name": "Bl\u00e5\u00f6gd",
+      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
+        "name": "M\u00e4nniskobarn",
+        "url": "https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "M\u00e4nniskobarn",
+      "url": "https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -1127,22 +1159,6 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "M\u00e4nniskobarn",
-        "url": "https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "M\u00e4nniskobarn",
-      "url": "https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
         "name": "Stockholm \u00e4r f\u00f6r stort",
         "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Tryna make it in LA",
-        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "En av alla andra",
-      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
         "name": "Margaretas s\u00e5ng",
         "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 252629,
       "name": "Margaretas s\u00e5ng",
       "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Steep Hills",
-        "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 187135,
-      "name": "Steep Hills",
-      "url": "https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
         "name": "Mistakes",
         "url": "https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 215298,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
+        "name": "Steep Hills",
+        "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 187135,
+      "name": "Steep Hills",
+      "url": "https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -1407,6 +1423,22 @@
       "duration_ms": 180233,
       "name": "C-dur",
       "url": "https://open.spotify.com/track/0cZ2ad4mATKwobLdVYWgAS"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
+        "name": "mexico / is this how you said you'd be gone",
+        "url": "https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "is this how you said you\u2019d be gone",
+      "url": "https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -1463,22 +1495,6 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "mexico / is this how you said you'd be gone",
-        "url": "https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "is this how you said you\u2019d be gone",
-      "url": "https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
         "name": "4L",
         "url": "https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "East of the Sun...",
-        "url": "https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 175339,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
         "name": "Love is for Losers",
         "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
       },
@@ -1543,18 +1543,34 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/7IP8sUzagDg6erM28zt11h"
+        "name": "East of the Sun...",
+        "url": "https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL"
       },
       "artists": [
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
         }
       ],
-      "duration_ms": 175482,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0hbHIyjHstT9nXy1frfdoM"
+      "duration_ms": 175339,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
+        "name": "N\u00e5n annan tar sm\u00e4llen",
+        "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 180195,
+      "name": "N\u00e5n annan tar sm\u00e4llen",
+      "url": "https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -1575,18 +1591,34 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "N\u00e5n annan tar sm\u00e4llen",
-        "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/7IP8sUzagDg6erM28zt11h"
       },
       "artists": [
         {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 180195,
-      "name": "N\u00e5n annan tar sm\u00e4llen",
-      "url": "https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL"
+      "duration_ms": 175482,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0hbHIyjHstT9nXy1frfdoM"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
+        "name": "Bl\u00e5ljus",
+        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 207349,
+      "name": "Bl\u00e5ljus",
+      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -1643,38 +1675,6 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Bl\u00e5ljus",
-        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 207349,
-      "name": "Bl\u00e5ljus",
-      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
-        "name": "om vi f\u00f6rsvann",
-        "url": "https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 163269,
-      "name": "om vi f\u00f6rsvann",
-      "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
         "name": "Ringar p\u00e5 vatten",
         "url": "https://open.spotify.com/album/0TLgK4U330eUAGOJok5Anc"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 153998,
       "name": "Ringar p\u00e5 vatten",
       "url": "https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY"
+    },
+    {
+      "added_at": "2025-12-12 09:58:59",
+      "album": {
+        "name": "Slott av luft",
+        "url": "https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 161447,
+      "name": "Slott av luft",
+      "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Slott av luft",
-        "url": "https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n"
+        "name": "om vi f\u00f6rsvann",
+        "url": "https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ"
       },
       "artists": [
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
         }
       ],
-      "duration_ms": 161447,
-      "name": "Slott av luft",
-      "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
+      "duration_ms": 163269,
+      "name": "om vi f\u00f6rsvann",
+      "url": "https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt"
     },
     {
       "added_at": "2025-12-12 09:58:59",
@@ -1803,34 +1819,18 @@
     {
       "added_at": "2025-12-12 09:58:59",
       "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+        "name": "Ikv\u00e4ll handlar det om oss (en drink)",
+        "url": "https://open.spotify.com/album/6twcBceHcvChiodG82Jryb"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
-    },
-    {
-      "added_at": "2025-12-12 09:58:59",
-      "album": {
-        "name": "Hot Air Balloon",
-        "url": "https://open.spotify.com/album/1vXtqt9NfOginaQULdpuCH"
-      },
-      "artists": [
-        {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
-        }
-      ],
-      "duration_ms": 154754,
-      "name": "Hot Air Balloon",
-      "url": "https://open.spotify.com/track/7CDxuWmKWMpUiGnWPck1ir"
+      "duration_ms": 113454,
+      "name": "Ikv\u00e4ll handlar det om oss (en drink)",
+      "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
     }
   ],
   "unique_name": "Made in Sweden",

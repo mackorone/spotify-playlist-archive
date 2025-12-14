@@ -4,7 +4,7 @@
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: Dynamite Kiss\(키스는 괜히 해서\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-30 songs - 1 hr 50 min
+33 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,10 @@
 | [Butterfly](https://open.spotify.com/track/6rgRp6WVWibI0c58wmH3vc) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Butterfly](https://open.spotify.com/album/4N3HlHwGTNPgkBMz5iiQ2n) | 3:16 | 2025-07-06 |  |
 | [Close My Eyes](https://open.spotify.com/track/6fwlsk4L5qVSRUFnhmKaj8) | [DaHye](https://open.spotify.com/artist/6MHofs3y2bwFn1s79DfaXw) | [Close My Eyes](https://open.spotify.com/album/4aV0SZlbG7vFQSzmjkMmOZ) | 3:31 | 2025-07-06 |  |
 | [Day after day](https://open.spotify.com/track/4s7RVZG7rTaNR51dJKlA3y) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Day after day](https://open.spotify.com/album/1xlq7MBZYQ1e0DyE6ATnks) | 3:46 | 2025-10-15 |  |
+| [Eyes On Me \(From "Dear\. X"\)](https://open.spotify.com/track/5Ml5AqSqVAx7Mz8XlMN6eI) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Eyes On Me \(From "Dear\. X"\)](https://open.spotify.com/album/2n1baPHnD6IwnNzYxc4IcJ) | 3:03 | 2025-12-13 |  |
 | [Fall In Love](https://open.spotify.com/track/09UK5kAe4SNJPOdU10DH73) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Fall In Love](https://open.spotify.com/album/4Z7wwnpo2e2FQplLqLXyNz) | 4:02 | 2025-07-06 |  |
 | [Friend](https://open.spotify.com/track/1RrQAan4viT8Spfbipxdns) | [Kim Heewon](https://open.spotify.com/artist/04WbtSXMhEPlcV5e41OBWL) | [Friend](https://open.spotify.com/album/6bJwmKR5LFN3Rjmc7dSNUR) | 4:24 | 2025-07-06 |  |
+| [Funky Player](https://open.spotify.com/track/0JZAtX6MqrqAf430c11VGi) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Funky Player](https://open.spotify.com/album/4Mc9e5msOv56J3NRzEwX2x) | 3:31 | 2025-12-13 |  |
 | [HALLEY](https://open.spotify.com/track/1LXHzXrQBQwzbbCFNeM7oe) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [HALLEY](https://open.spotify.com/album/51tc6r9V8QGvv3Tukbz5YZ) | 3:03 | 2025-12-03 |  |
 | [Heavy Heart](https://open.spotify.com/track/3VfIcpqpEr8q0M9OuvS1c7) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [Heavy Heart](https://open.spotify.com/album/7srQjmEGwrbYEWU0SQviXF) | 3:36 | 2025-07-06 |  |
 | [I still love you](https://open.spotify.com/track/3u6FvRmmMc1ta2rtCQhL9W) | [VIOLA](https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3) | [I still love you](https://open.spotify.com/album/6EXdOZ4SvaepJTA82Kdv20) | 3:46 | 2025-10-15 |  |
@@ -31,6 +33,7 @@
 | [Open Your Eyes \(From "My Girlfriend is the Man"\)](https://open.spotify.com/track/45ZwNX7iKXrFkno1BitVyX) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [Open Your Eyes \(From "My Girlfriend is the Man"\)](https://open.spotify.com/album/0L0zgCff0P31hbrfcJayar) | 3:16 | 2025-08-12 |  |
 | [Prayer](https://open.spotify.com/track/5CTHojDjkrlzi1CruSa3n2) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Prayer](https://open.spotify.com/album/2vsaciWzeUtmWE44eP2PwX) | 4:08 | 2025-12-03 |  |
 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/0bppRVbxbVfZO0QrSdTeJi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/0OL3dNYRwEE1yCB3DdzLHZ) | 3:12 | 2025-07-06 |  |
+| [Rhapsody of Lee Gang](https://open.spotify.com/track/0MvYgm9jXmB9omUonC2kqr) | [KIM SIHWAN](https://open.spotify.com/artist/28cqMY9MV18lRetgp0sUYA), [MOON SUNGJUN](https://open.spotify.com/artist/0MOf2HSEJ5Xkf76fOxqkrx), [PARK JAEHOON](https://open.spotify.com/artist/5njF2usEbKdd0787NTIN49), [TAIRA](https://open.spotify.com/artist/5ny0iH6L5rZ1ADPDAyhK4a) | [Rhapsody of Lee Gang](https://open.spotify.com/album/1Nt4gcn0KpUGK4zRli6eP4) | 2:46 | 2025-12-13 |  |
 | [Say You Love Me \(From "Dynamite Kiss"\)](https://open.spotify.com/track/7j0kGxwZ5XFFLDXohRIkgf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Say You Love Me \(From "Dynamite Kiss"\)](https://open.spotify.com/album/4UGcDJJ8buGQa8tBbH3q0Q) | 4:28 | 2025-12-03 |  |
 | [Summer](https://open.spotify.com/track/5xcYw37nCyK3ZbKus3hFDr) | [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [Summer](https://open.spotify.com/album/7xa5fCOTIUaTq1SHjhmzfh) | 3:58 | 2025-10-15 | 2025-10-29 |
 | [Think about you](https://open.spotify.com/track/0rDe9cOac9175L43dYzS6B) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Think about you](https://open.spotify.com/album/5pgmrPqABXofBAgao3fmYf) | 3:16 | 2025-10-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,200 likes - 103 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,281 likes - 103 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

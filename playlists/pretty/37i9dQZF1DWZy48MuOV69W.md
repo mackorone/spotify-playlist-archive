@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,494 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,471 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 25 | [Merry Christmas Darling](https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36), [Alanna Vicente](https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK) | [Merry Christmas Darling](https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF) | 2:35 |
 | 26 | [Christmas Blues](https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Jazz To The World](https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh) | 2:57 |
 | 27 | [Christmas Morning](https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:58 |
-| 28 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:50 |
-| 29 | [Santa Baby](https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK) | [Javon Jackson](https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 4:22 |
+| 28 | [Santa Baby](https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK) | [Javon Jackson](https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 4:22 |
+| 29 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:50 |
 | 30 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
 | 31 | [Winter Wonderland \- 1959 Version](https://open.spotify.com/track/73I5rgoTrAOnRLIOMnAcSM) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 3:26 |
 | 32 | [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 |

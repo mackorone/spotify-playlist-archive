@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdF2fNg82Z7l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdF2fNg82Z7l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdF2fNg82Z7l)
 
-### [Raw Silk](https://open.spotify.com/playlist/37i9dQZF1DXdF2fNg82Z7l)
+### [Raw Silk ](https://open.spotify.com/playlist/37i9dQZF1DXdF2fNg82Z7l)
 
-> a strictly smooth mood...cover: SAILORR
+> a strictly smooth mood...cover: Kehlani
 
 271 songs - 14 hr 17 min
 

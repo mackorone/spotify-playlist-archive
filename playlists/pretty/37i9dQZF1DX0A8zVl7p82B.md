@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,472,872 likes - 92 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,475,059 likes - 92 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

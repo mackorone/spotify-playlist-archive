@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Addams Family",
+        "url": "https://open.spotify.com/album/6hjab4R2v5lXe95fDfPq8h"
+      },
+      "artists": [
+        {
+          "name": "Blaxx33",
+          "url": "https://open.spotify.com/artist/0AZ12fgRJLBnceKZWhXy83"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125053,
+      "name": "Addams Family",
+      "url": "https://open.spotify.com/track/1fxPc0OWkBKjPFMxlChV82"
+    },
+    {
+      "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
       },
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4058,7 +4076,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -8356,7 +8374,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 201600,
       "name": "Boomerang!",
       "url": "https://open.spotify.com/track/6aYcqUp8bc9kfN4Et5gz6X"
@@ -15838,7 +15856,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -16788,7 +16806,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -16958,7 +16976,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/7y6RcmZyMDZ49yVupz7JdO"
@@ -22274,7 +22292,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 103961,
       "name": "God Loves You - From \"Star with a Name\"",
       "url": "https://open.spotify.com/track/0AdbYXR9m2KRWt5V8HgIJI"
@@ -29016,7 +29034,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 170498,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw"
@@ -31686,7 +31704,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -34806,7 +34824,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -34860,7 +34878,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -47598,7 +47616,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/6zum0WbkyrPO7C548rhn8G"
@@ -47674,7 +47692,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -48954,6 +48972,24 @@
       "duration_ms": 184615,
       "name": "Skywalker Haze - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq"
+    },
+    {
+      "album": {
+        "name": "Chaos Rush XXV",
+        "url": "https://open.spotify.com/album/28OUpMqLIZXSnFC02bdLsG"
+      },
+      "artists": [
+        {
+          "name": "kirklow",
+          "url": "https://open.spotify.com/artist/6UolkZhAvNQm4giebiOv4z"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204759,
+      "name": "Slat",
+      "url": "https://open.spotify.com/track/5Wi7hsPUmDyOLspt0UoHdP"
     },
     {
       "album": {
@@ -50988,7 +51024,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
@@ -54211,6 +54247,24 @@
     },
     {
       "album": {
+        "name": "The Running Man",
+        "url": "https://open.spotify.com/album/1Dg6aPEE52KO4xHaY8K4dT"
+      },
+      "artists": [
+        {
+          "name": "J Saint James",
+          "url": "https://open.spotify.com/artist/1HlFFbN0aFZYdRPl91Nuvj"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226635,
+      "name": "The Running Man",
+      "url": "https://open.spotify.com/track/4SjYk4s1dB3cli94iuw9HP"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -56922,6 +56976,24 @@
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
+    },
+    {
+      "album": {
+        "name": "T\u00e4ter",
+        "url": "https://open.spotify.com/album/4CUH04VVu5wPx4EgMMRm6x"
+      },
+      "artists": [
+        {
+          "name": "Blaxx33",
+          "url": "https://open.spotify.com/artist/0AZ12fgRJLBnceKZWhXy83"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153468,
+      "name": "T\u00e4ter",
+      "url": "https://open.spotify.com/track/1BsGv7uPGXFDFQVdU0wXgc"
     },
     {
       "album": {

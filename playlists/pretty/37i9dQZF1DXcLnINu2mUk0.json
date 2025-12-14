@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles",
-  "num_followers": 53054,
+  "num_followers": 53063,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
+        "name": "Por Enquanto",
+        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "Por Enquanto",
+      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
         "name": "IT WILL HURT BOTH WAYS",
         "url": "https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 187869,
       "name": "Even",
       "url": "https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
-        "name": "Por Enquanto",
-        "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "Por Enquanto",
-      "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
         "name": "B\u00ean\u00e7\u00e3o (with Van Zee & Bispo)",
         "url": "https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 294368,
+      "name": "Agradecido",
+      "url": "https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
         "name": "Mais Antigo",
         "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
       "artists": [
         {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 294368,
-      "name": "Agradecido",
-      "url": "https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T"
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -563,42 +563,6 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "SWEET LIKE SUGAR",
-        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 170723,
-      "name": "SWEET LIKE SUGAR",
-      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -623,18 +587,22 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Gota D'Espa\u00e7o",
-        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Ar",
-      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -651,6 +619,38 @@
       "duration_ms": 188593,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
+        "name": "Gota D'Espa\u00e7o",
+        "url": "https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Ar",
+      "url": "https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
+        "name": "SWEET LIKE SUGAR",
+        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 170723,
+      "name": "SWEET LIKE SUGAR",
+      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
+        "name": "Before I Lose My Voice",
+        "url": "https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 186483,
+      "name": "Before I Lose My Voice",
+      "url": "https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
-        "name": "Before I Lose My Voice",
-        "url": "https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 186483,
-      "name": "Before I Lose My Voice",
-      "url": "https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -815,6 +815,22 @@
       "duration_ms": 221818,
       "name": "Beijo Teu",
       "url": "https://open.spotify.com/track/5zHX2uGzE8lPOPvkpcrF5D"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 187643,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -879,22 +895,6 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
         "name": "Sei-te de Cor",
         "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR"
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 187643,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng"
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Rico",
-        "url": "https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu"
-      },
-      "artists": [
-        {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
-        }
-      ],
-      "duration_ms": 153396,
-      "name": "Rico",
-      "url": "https://open.spotify.com/track/2v8HWzaIKCOlKuctXLZY7T"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
         "name": "Ontem, Hoje e Para Sempre",
         "url": "https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 224100,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
+        "name": "Rico",
+        "url": "https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu"
+      },
+      "artists": [
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        }
+      ],
+      "duration_ms": 153396,
+      "name": "Rico",
+      "url": "https://open.spotify.com/track/2v8HWzaIKCOlKuctXLZY7T"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+      "duration_ms": 182876,
+      "name": "23:40",
+      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1283,24 +1283,24 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
+        "name": "Ber\u00e7o de Ouro",
+        "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
       },
       "artists": [
         {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 153029,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
+      "duration_ms": 177637,
+      "name": "Ber\u00e7o de Ouro",
+      "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
     },
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 182876,
-      "name": "23:40",
-      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "M\u00f4 Amigo",
-        "url": "https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB"
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
       },
       "artists": [
         {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
         }
       ],
-      "duration_ms": 161887,
-      "name": "M\u00f4 Amigo",
-      "url": "https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl"
+      "duration_ms": 153029,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
     }
   ],
   "unique_name": "Seda",

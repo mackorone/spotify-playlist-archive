@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 
 > Chill acoustic, mellow pop and singer\-songwriter tracks for focus, relaxation, studying and working\. Coffeehouse vibes and calm background music for a cozy café or lounge mood \|\| Rustige playlist voor focus, ontspanning, studeren en werken, met ontspannen vibes voor een knusse lounge of café sfeer
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,075 likes - 230 songs - 12 hr 27 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,062 likes - 230 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

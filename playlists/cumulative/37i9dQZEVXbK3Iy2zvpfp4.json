@@ -578,7 +578,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 140108,
       "name": "10s",
       "url": "https://open.spotify.com/track/1UmjJwP1jpPWmDfR2Tebvn"
@@ -19134,7 +19134,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 193103,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
@@ -25512,7 +25512,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 113230,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0myPb7rgTdf5dTHnfwdvO9"
@@ -26604,7 +26604,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 142663,
       "name": "HAPPY MEAL",
       "url": "https://open.spotify.com/track/2nYfquEwFRhAV5ZofFdLeq"
@@ -42102,7 +42102,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -48432,7 +48432,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -57420,7 +57420,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
@@ -68372,7 +68372,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 205066,
       "name": "Ticha noc",
       "url": "https://open.spotify.com/track/1KkwI1nxE0ApQk9glt8ZBs"
@@ -78321,6 +78321,24 @@
     },
     {
       "album": {
+        "name": "\u017eeny sa chc\u00fa zab\u00e1va\u0165",
+        "url": "https://open.spotify.com/album/6Vjl0DxSo9DvDFEeZo6Kw9"
+      },
+      "artists": [
+        {
+          "name": "Nia",
+          "url": "https://open.spotify.com/artist/4Z1CxJhs6F9RGY84vEHpeJ"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128243,
+      "name": "\u017eeny sa chc\u00fa zab\u00e1va\u0165",
+      "url": "https://open.spotify.com/track/2IjBYco8prABxmQ7UeX1id"
+    },
+    {
+      "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
       },
@@ -78478,7 +78496,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 135157,
       "name": "\u0411\u0430\u0437\u043e\u0432\u044b\u0439 \u043c\u0438\u043d\u0438\u043c\u0443\u043c",
       "url": "https://open.spotify.com/track/5zCEpG9EVGBNq0Z35rSWvW"

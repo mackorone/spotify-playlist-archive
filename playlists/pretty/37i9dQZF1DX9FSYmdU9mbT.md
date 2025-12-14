@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460,875 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461,047 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 46 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
 | 47 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 |
 | 48 | [Outra Vez](https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Outra Vez](https://open.spotify.com/album/2NylFxVu73peifK68z2fuc) | 4:14 |
-| 49 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
-| 50 | [Encontro](https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:24 |
-| 51 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
+| 49 | [Encontro](https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:24 |
+| 50 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
+| 51 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
 | 52 | [Rosa de Hiroshima](https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 1:58 |
 | 53 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
 | 54 | [Bom\-Senso](https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 5:05 |

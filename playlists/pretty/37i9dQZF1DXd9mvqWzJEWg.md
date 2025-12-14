@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Lag
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,790 likes - 79 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,850 likes - 79 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NgyaSindelwa](https://open.spotify.com/track/6PUTXnLSGYwKdtSmbTTHXa) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Southside Mixtape](https://open.spotify.com/album/0IaY7EpYoRhsMEo3B5nWBD) | 6:25 |
 | 2 | [Vele Kwaphoseka \(feat\. Thabiso Lavish\)](https://open.spotify.com/track/0TgpA1IOebwPFv1qi91Wr2) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Thabiso Lavish](https://open.spotify.com/artist/31gaX166pm8kfjpM9yujDA) | [We Don't Play The Same Gqom 3](https://open.spotify.com/album/3JpSQMyMchqaFY5MN247Ev) | 4:43 |
-| 3 | [Dumplets](https://open.spotify.com/track/1f57Bcrpa1XBQjL4VrVIeN) | [Still That Combo](https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv), [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr) | [Dumplets](https://open.spotify.com/album/49rehxM9gn2KJJJlUG1dC0) | 5:21 |
+| 3 | [Dumplet](https://open.spotify.com/track/1f57Bcrpa1XBQjL4VrVIeN) | [Still That Combo](https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv), [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr) | [Dumplet](https://open.spotify.com/album/49rehxM9gn2KJJJlUG1dC0) | 5:21 |
 | 4 | [Puku Puku](https://open.spotify.com/track/6wmhahysG7mgaz6CDXZHHu) | [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ) | [Puku Puku](https://open.spotify.com/album/2cp7lRk6eNDbYNYcZUkpDa) | 5:18 |
 | 5 | [Abangani \(feat\. TNS, Dj Tira, Beast & Big John\)](https://open.spotify.com/track/1LFsiaybPEOZdxvCGkM54q) | [Dj Boonu](https://open.spotify.com/artist/1w0eeBGeEEmud1xym4RrvW), [Dankie Boi](https://open.spotify.com/artist/2GuftRtL7ZIB4dRuJx644M), [TNS](https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC), [Big John](https://open.spotify.com/artist/3OUHlq8l0Ww3EgEmJNdyB8) | [Abangani \(feat\. TNS, Dj Tira, Beast & Big John\)](https://open.spotify.com/album/4vy79gAx8Szi41yUzXMnZH) | 4:27 |
 | 6 | [Last Dance](https://open.spotify.com/track/4UDysN1OGxyovYsOm6nUGt) | [Afro Tech Boyz](https://open.spotify.com/artist/79FvZ8T3TzuN1bDoEZuSlB) | [Last Dance](https://open.spotify.com/album/1F0mYbxstDi7z9qgQ1joky) | 5:07 |

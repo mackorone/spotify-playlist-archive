@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(커버: LE SSERAFIM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,034 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,038 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

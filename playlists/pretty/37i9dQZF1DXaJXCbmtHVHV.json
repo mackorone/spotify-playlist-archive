@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Shaboozey",
-  "num_followers": 665617,
+  "num_followers": 665651,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-12-12 05:00:30",
       "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 261601,
-      "name": "River Washed Hair",
-      "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
-    },
-    {
-      "added_at": "2025-12-12 05:00:30",
-      "album": {
         "name": "you look like you love me (feat. Riley Green)",
         "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2025-12-12 05:00:30",
       "album": {
-        "name": "Man of the Year",
-        "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Man of the Year",
-      "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
+      "duration_ms": 261601,
+      "name": "River Washed Hair",
+      "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
+    },
+    {
+      "added_at": "2025-12-12 05:00:30",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
     },
     {
       "added_at": "2025-12-12 05:00:30",
@@ -871,22 +871,18 @@
     {
       "added_at": "2025-12-12 05:00:30",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 237493,
-      "name": "Save Me - with Lainey Wilson",
-      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
+      "duration_ms": 228546,
+      "name": "Man of the Year",
+      "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
     },
     {
       "added_at": "2025-12-12 05:00:30",
@@ -903,6 +899,38 @@
       "duration_ms": 246141,
       "name": "Thought It Was Love",
       "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"
+    },
+    {
+      "added_at": "2025-12-12 05:00:30",
+      "album": {
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 179294,
+      "name": "Where It Ends",
+      "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
+    },
+    {
+      "added_at": "2025-12-12 05:00:30",
+      "album": {
+        "name": "Heart Like A Truck",
+        "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
     },
     {
       "added_at": "2025-12-12 05:00:30",
@@ -927,50 +955,22 @@
     {
       "added_at": "2025-12-12 05:00:30",
       "album": {
-        "name": "Heart Like A Truck",
-        "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 199040,
-      "name": "Heart Like A Truck",
-      "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:30",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "I'm Not Pretty",
-      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
-    },
-    {
-      "added_at": "2025-12-12 05:00:30",
-      "album": {
-        "name": "Bad State of Mind",
-        "url": "https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 261006,
-      "name": "Bad State of Mind",
-      "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
+      "duration_ms": 237493,
+      "name": "Save Me - with Lainey Wilson",
+      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {
       "added_at": "2025-12-12 05:00:30",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-12-12 05:00:30",
       "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
+        "name": "Bad State of Mind",
+        "url": "https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
         }
       ],
-      "duration_ms": 179294,
-      "name": "Where It Ends",
-      "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
+      "duration_ms": 261006,
+      "name": "Bad State of Mind",
+      "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
     },
     {
       "added_at": "2025-12-12 05:00:30",

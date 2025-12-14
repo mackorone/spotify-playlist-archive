@@ -4,7 +4,7 @@
 
 > 
 
-1,146 songs - 2 day 16 hr 57 min
+1,147 songs - 2 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [Stars](https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:21 | 2025-06-27 |  |
 | [State Of Grace](https://open.spotify.com/track/786NsUYn4GGUf8AOt0SQhP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red](https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5) | 4:55 | 2025-05-31 |  |
 | [Stateside](https://open.spotify.com/track/5UBfLYnkImP1RKMMy4TGs8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:48 | 2025-06-27 |  |
+| [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2025-12-13 |  |
 | [Stay Alive](https://open.spotify.com/track/27MB0qHaYAZiTlwg25js1Y) | [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 2:39 | 2024-07-13 |  |
 | [Stay Alive \- Reprise](https://open.spotify.com/track/2ydKgIVZAQXeYLWtxU8DFS) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 1:51 | 2024-07-13 |  |
 | [Stay Beautiful](https://open.spotify.com/track/41sjzdjScVwnxnxADElts6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift \(Deluxe Edition\)](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw) | 3:56 | 2025-05-31 |  |

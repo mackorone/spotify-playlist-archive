@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 139992,
+  "num_followers": 140027,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAA4y43wWB+en8lGllhKKaqJ",
+  "snapshot_id": "aTtbAAAAAADTJ120JyCmjRWYfth4hZWX",
   "tracks": [
     {
       "added_at": null,
@@ -483,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184524,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -543,6 +511,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -555,42 +555,6 @@
       "duration_ms": 166133,
       "name": "It'll All Work Out (Bonus Track)",
       "url": "https://open.spotify.com/track/0QTdNeshBSmLmpgHP7R5iV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Silk Chiffon",
-      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/0Jm0RTOlF7DsbQ689QclaF"
     },
     {
       "added_at": null,
@@ -623,6 +587,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 190093,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/0Jm0RTOlF7DsbQ689QclaF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Silk Chiffon",
+      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Emmylou",
         "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
@@ -635,6 +635,34 @@
       "duration_ms": 173714,
       "name": "Prayer in Open D",
       "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 251469,
+      "name": "Salt In The Wound",
+      "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
     },
     {
       "added_at": null,
@@ -691,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -712,29 +760,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 251469,
-      "name": "Salt In The Wound",
-      "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+      "duration_ms": 215689,
+      "name": "Ketchum, ID",
+      "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
     },
     {
       "added_at": null,
@@ -779,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264120,
+      "name": "Laugh Track (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -800,29 +848,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 215689,
-      "name": "Ketchum, ID",
-      "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Laugh Track",
-        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264120,
-      "name": "Laugh Track (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z"
+      "duration_ms": 240983,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/2yIfFEE5GMtK5XqMz2704V"
     },
     {
       "added_at": null,
@@ -867,34 +895,6 @@
       "duration_ms": 243226,
       "name": "Didn't Know What I Was In For",
       "url": "https://open.spotify.com/track/31nH2FO5og83YmI3K845Jn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 240983,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/2yIfFEE5GMtK5XqMz2704V"
     }
   ],
   "unique_name": "This Is Phoebe Bridgers",

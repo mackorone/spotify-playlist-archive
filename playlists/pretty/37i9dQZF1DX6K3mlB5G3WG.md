@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Becky G in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,986 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,987 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 2 | [Brother & Sister](https://open.spotify.com/track/6nj4wh9cZNfhF3mTETeo8w) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [ELSEWHERE](https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I) | 3:26 |
 | 3 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 |
 | 4 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
-| 5 | [Rumore \- Remix](https://open.spotify.com/track/4ozkNCaitVMxT5zLiLPfX8) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Rumore \(Remix\)](https://open.spotify.com/album/18TM8asyBiyqSbsn48rDs8) | 3:18 |
+| 5 | [Rumore \- Remix](https://open.spotify.com/track/4ozkNCaitVMxT5zLiLPfX8) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Rumore \(Remix\)](https://open.spotify.com/album/18TM8asyBiyqSbsn48rDs8) | 3:18 |
 | 6 | [Milano Cortina](https://open.spotify.com/track/3uBe5PtCuviIGgnM1TZJua) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Milano Cortina](https://open.spotify.com/album/3tYjRk5iiycGHsXlB0l0uk) | 2:04 |
 | 7 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 8 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |

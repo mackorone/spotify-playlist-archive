@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,058 likes - 240 songs - 13 hr 53 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,058 likes - 249 songs - 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,5 +248,14 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 238 | [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 |
 | 239 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 |
 | 240 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 |
+| 241 | [Running out of Time](https://open.spotify.com/track/1EF1Va0fHanPiD8BXXzfRr) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Missing Since Monday](https://open.spotify.com/album/6rfNqD4BYVSDlko64nP080) | 2:35 |
+| 242 | [Chemtrails](https://open.spotify.com/track/4RnJHlFySudDfGEokB4ro4) | [The Picnic](https://open.spotify.com/artist/6x2UCfTPMvxBUEM8seebng) | [Chemtrails](https://open.spotify.com/album/4VI1Dfm1kYSrRn8ZYJcrtw) | 3:51 |
+| 243 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:07 |
+| 244 | [Just like the sun](https://open.spotify.com/track/7k3gLYH5TVALDBHWRoBb2e) | [Me & Melancholy](https://open.spotify.com/artist/6ZZZwGgM356RFi7YH7uSOs) | [Just like the sun](https://open.spotify.com/album/3YFfdDiUb0Am1mJZSGA5Hf) | 3:06 |
+| 245 | [Fading Flame \- Elektrostaub Remix](https://open.spotify.com/track/7i6ojIGcNpavUmcemVXZ5x) | [DiarBlack](https://open.spotify.com/artist/1TuXgYYpWspueXIs9VEBDi), [Alex Braun](https://open.spotify.com/artist/0Bc5wKPfJiSVWos10zUnEv), [Elektrostaub](https://open.spotify.com/artist/6ulZf0dGE7VOtCkC5FIO1W) | [Fading Flame](https://open.spotify.com/album/0WtXNoSlmraznasMkggYif) | 4:28 |
+| 246 | [The Demise of Susan Wiley](https://open.spotify.com/track/1IzsNekpfYkF6IRElYcGdp) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [The Demise of Susan Wiley](https://open.spotify.com/album/4wOeHz2aYbZPE26GtvumhG) | 5:46 |
+| 247 | [Stay with Me](https://open.spotify.com/track/6b2bvHhn6kTmp8KDPHTigA) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [Ravecøre](https://open.spotify.com/album/02S523fv6pPpr4kHdBHzdR) | 3:33 |
+| 248 | [Whispers](https://open.spotify.com/track/2p0eZHx0qKnmtYN1mLmAin) | [MVSOCHIST](https://open.spotify.com/artist/1672dFqWagsXe3E5riUIF0) | [Whispers](https://open.spotify.com/album/494CEc6Bt2uSBIedJAGNPV) | 3:46 |
+| 249 | [Alright](https://open.spotify.com/track/56plBR3SfhuF0BwD9QN66H) | [t3rrible humans](https://open.spotify.com/artist/4iC1Bpe1kMhU5jpL7smqud) | [Alright](https://open.spotify.com/album/7sa3zIYb5Q6NHv7R1oJIfu) | 2:18 |
 
-Snapshot ID: `AAAIQJSfjk2UaEeYHnd4RzHNdBKaRaQC`
+Snapshot ID: `AAAISRuUhzcx+joIWgJPx/VRlgUg7Jfj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,720 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,736 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 46 | [Yambeque \(feat\. José Alberto "El Canario"\)](https://open.spotify.com/track/0FcQUg9H6RC3fr7I8ecUpx) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [50 Aniversario, Vol.2](https://open.spotify.com/album/7ftFj2k39BuPU2jpiVAvkt) | 10:45 |
 | 47 | [Que Manera De Quererte \- Live Version](https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Dos Soneros..\. Una Historia](https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU) | 6:37 |
 | 48 | [Mata Siguaraya \- Live Version](https://open.spotify.com/track/0OBiNNQRUHrxTyhttCje8w) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:32 |
-| 49 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
-| 50 | [Anacaona \- Live Version](https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:03 |
+| 49 | [Anacaona \- Live Version](https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:03 |
+| 50 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
 
 Snapshot ID: `AAAAALvBCeye4UL5Wi/5OPLkIEKXxqsW`

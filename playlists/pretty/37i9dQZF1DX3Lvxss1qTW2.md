@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,336 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,415 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 |
 | 80 | [How Do You?](https://open.spotify.com/track/1ByWHNLTkPtzImR5jUjvQ2) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [How Do You?](https://open.spotify.com/album/7fLcgyXSupsaclb9IwC736) | 3:30 |
 
-Snapshot ID: `AAAAAOVNZylDY0Y+xE51BaJ9k91Kthx6`
+Snapshot ID: `AAAAAHkqNub4wiwXNW7401JUFcc8zsjA`

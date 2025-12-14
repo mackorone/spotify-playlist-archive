@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > Our editors'  picks for the best global Afrobeats songs this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,525 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,641 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 47 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 48 | [Sdudla or Slender](https://open.spotify.com/track/2Ufc72Ojfx9lR30r5srBPB) | [Shandesh](https://open.spotify.com/artist/5ZJCmUoFCgVzfXtralZ9Wy), [Mvzzle](https://open.spotify.com/artist/7qgIC4hEF2z301fXmyY8UD) | [Sdudla or Slender](https://open.spotify.com/album/6qlg7d5vq6vqMn3Ti7LFhq) | 3:44 |
 | 49 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
-| 50 | [Ngisakuthanda](https://open.spotify.com/track/2tUXE87QNnoVQZApV3uyVZ) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [PYY Log Drum King](https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP), [Dj Tearz](https://open.spotify.com/artist/3WAuGYW5O6SHDLpboZMbiZ), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Ngisakuthanda](https://open.spotify.com/album/1Y5TphK5oq4DmAGIvHNsUt) | 6:52 |
+| 50 | [Ngisakuthanda](https://open.spotify.com/track/2tUXE87QNnoVQZApV3uyVZ) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [PYY Log Drum King](https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP), [Dj Tearz SA](https://open.spotify.com/artist/4Nxf3jCcsMsxCNQrHq27M7), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Ngisakuthanda](https://open.spotify.com/album/1Y5TphK5oq4DmAGIvHNsUt) | 6:52 |
 | 51 | [Calor](https://open.spotify.com/track/4JfNOa4cXfaTryi361HDVS) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Tempo Certo](https://open.spotify.com/album/1VcP3WDtCsE58XEEDiKu1e) | 2:29 |
 | 52 | [YSF \(with Teni & Seyi Vibez\)](https://open.spotify.com/track/1Xrb4Mg1DAyUrvYxLBrZj0) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:31 |
 | 53 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 |

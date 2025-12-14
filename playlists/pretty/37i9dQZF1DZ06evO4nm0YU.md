@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,995 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,032 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 33 | [Déjala Que Siga](https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 6:27 |
 | 34 | [Aléjate](https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio](https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze) | 7:07 |
 | 35 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 |
-| 36 | [Piraña](https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 5:16 |
-| 37 | [Te Conozco](https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 4:55 |
+| 36 | [Te Conozco](https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Cosa Nuestra](https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf) | 4:55 |
+| 37 | [Piraña](https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 5:16 |
 | 38 | [Plato De Segunda Mesa](https://open.spotify.com/track/0urCMoVOripqfDJYQbdNAq) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 4:42 |
 | 39 | [De Ti Depende](https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Tú Bien Lo Sabes](https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6) | 4:35 |
 | 40 | [Songoro Cosongo](https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 7:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nm0YU.md) - [plain]
 | 49 | [Ublabadú](https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 5:51 |
 | 50 | [Comedia](https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 3:31 |
 
-Snapshot ID: `aToJgAAAAADpvhtp2pZu+TXKZS70lbFF`
+Snapshot ID: `aTtbAAAAAAAJc/mOj4UzMkP5g9ZCud3o`

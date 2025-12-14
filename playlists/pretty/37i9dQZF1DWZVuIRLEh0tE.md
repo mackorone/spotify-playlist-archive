@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Amenazzy, Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,010 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,069 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 99 | [CUELNERA \(with Rochy RD\)](https://open.spotify.com/track/4FL2YNpmv2HWP7bqgjQOXi) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [CUELNERA \(with Rochy RD\)](https://open.spotify.com/album/3QHEx3Y23vrOQQcTLXgpgM) | 2:25 |
 | 100 | [No Me Rindo](https://open.spotify.com/track/7bY4GV3VDWtcldN84JjD6X) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Richard Miller Dr](https://open.spotify.com/artist/4fIsIORlRuJGkNxFmX22fA) | [No Me Rindo](https://open.spotify.com/album/6FVm2vL6evmybGkJMXoqFR) | 2:35 |
 
-Snapshot ID: `AAAAANmWQDQcDhMtQn6zGcVgk3gUWWvu`
+Snapshot ID: `AAAAAMkSdxNuMe2eQ7sNd8y+gpse9slg`

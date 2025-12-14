@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 
 > For your lounge room DF!
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,791 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,846 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

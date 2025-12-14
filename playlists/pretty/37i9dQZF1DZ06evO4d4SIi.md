@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,262 likes - 42 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,280 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 23 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 |
 | 24 | [Selfish](https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:12 |
 | 25 | [Know You Like That](https://open.spotify.com/track/3J13eOBVaFS1ltmQ4i0yGW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:56 |
-| 26 | [Part Of It](https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:08 |
+| 26 | [Short Fuse](https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:49 |
 | 27 | [Need To Not](https://open.spotify.com/track/1nJ9J9k4fOJZVU8CmvNv4o) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:02 |
 | 28 | [Leaving New Orleans](https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:30 |
 | 29 | [Her Way Or The Highway](https://open.spotify.com/track/59SCat3LTL5d1SBOBRB43D) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:52 |
-| 30 | [Short Fuse](https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:49 |
+| 30 | [Part Of It](https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:08 |
 | 31 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 |
 | 32 | [Detours](https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Detours](https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj) | 3:31 |
 | 33 | [Learn The Hard Way](https://open.spotify.com/track/0iigBOIOsjNlHdlwmS5t2O) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:48 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 41 | [Buy Dirt](https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Among Friends](https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT) | 2:46 |
 | 42 | [Trouble Town](https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Trouble Town](https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF) | 3:04 |
 
-Snapshot ID: `aToJgAAAAABWR6rTz9NTJdbiVo/VN2hH`
+Snapshot ID: `aTtbAAAAAAAyNhMh4aYXiTRK7DWhTwip`

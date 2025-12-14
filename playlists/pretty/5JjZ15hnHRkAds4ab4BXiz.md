@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 495 songs - 1 day 7 hr 27 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 516 songs - 1 day 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -503,5 +503,26 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 493 | [Cain Said to Abel](https://open.spotify.com/track/5c1W1k7JOUVyZ1DTjs0oYY) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:23 |
 | 494 | [Vision of Heaven](https://open.spotify.com/track/3r2ZjlNOKBGzgziQKXluHN) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:31 |
 | 495 | [We Were Lovers](https://open.spotify.com/track/615nJULTt5bVaxrWzfA0JB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 4:08 |
+| 496 | [Rhododendrons](https://open.spotify.com/track/7ysKZ44T4NygSQRvuU3mtH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 4:49 |
+| 497 | [Atonement](https://open.spotify.com/track/2ygfeESKb99s8PuTUUVYO5) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:48 |
+| 498 | [England](https://open.spotify.com/track/46MCGGEGVfDNf2jbO9sEqD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 4:11 |
+| 499 | [Emma Kate's Accident](https://open.spotify.com/track/2vCcyQiguH64Mc2QmYuVOp) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 5:38 |
+| 500 | [Version 2.0](https://open.spotify.com/track/6OVVGLwZmVfdOtejpLAmpE) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:18 |
+| 501 | [Cavaliers and Roundheads](https://open.spotify.com/track/0P7XtQKiJSNh7aCqSARmWJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:44 |
+| 502 | [Staying Fat](https://open.spotify.com/track/0BwMJ2rkYRXwhUqPCmlxC7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Bloc Party EP](https://open.spotify.com/album/4CD1aUh0batIMz8oWc2tpi) | 2:23 |
+| 503 | [The Marshalls Are Dead](https://open.spotify.com/track/43MO2TDtbR5X2VnO4tuxjb) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Bloc Party EP](https://open.spotify.com/album/4CD1aUh0batIMz8oWc2tpi) | 3:52 |
+| 504 | [The Answers](https://open.spotify.com/track/3nBF5LXzycysBGpgapjSRh) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Bloc Party EP](https://open.spotify.com/album/4CD1aUh0batIMz8oWc2tpi) | 4:04 |
+| 505 | [Skeleton](https://open.spotify.com/track/147fFC2gtiRMw9KMmhxVgP) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Little Thoughts \- EP](https://open.spotify.com/album/4rdldUL6CaQB4mXVqyA32i) | 3:16 |
+| 506 | [Storm and Stress](https://open.spotify.com/track/0O7ZJ4wdVHJ4q9n6xdnWtU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Little Thoughts \- EP](https://open.spotify.com/album/4rdldUL6CaQB4mXVqyA32i) | 2:46 |
+| 507 | [Tulips \- Original Mix](https://open.spotify.com/track/7qBDz0DTZTQT8ep9rNZWhw) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Little Thoughts \- EP](https://open.spotify.com/album/4rdldUL6CaQB4mXVqyA32i) | 3:39 |
+| 508 | [Hero \- Single Version](https://open.spotify.com/track/4GokoUloO8IZ1USDqyXZF2) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Two More Years](https://open.spotify.com/album/0sNiexTlomWQt4LDpzMWtn) | 4:09 |
+| 509 | [Two More Years \- Single Version](https://open.spotify.com/track/2FftgMvQiJeWRlXKtIvpw2) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Two More Years](https://open.spotify.com/album/0sNiexTlomWQt4LDpzMWtn) | 4:27 |
+| 510 | [Unholy Lover](https://open.spotify.com/track/0L6td4sFXEb94be1Cq9GAJ) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Męğż Øf Råm](https://open.spotify.com/album/23yOb113LVBJwXUbyCj7GZ) | 3:47 |
+| 511 | [Russian Coney Island](https://open.spotify.com/track/6LKN8NCJfAABDXvsS2cKgl) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Męğż Øf Råm](https://open.spotify.com/album/23yOb113LVBJwXUbyCj7GZ) | 6:46 |
+| 512 | [Drifto](https://open.spotify.com/track/0AJ47btoUj1UIKOkyYmNZF) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Męğż Øf Råm](https://open.spotify.com/album/23yOb113LVBJwXUbyCj7GZ) | 4:59 |
+| 513 | [Ludlow St.](https://open.spotify.com/track/0kxQTfplg7tjX5aOCrGDns) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 5:42 |
+| 514 | [Telomere](https://open.spotify.com/track/12iGqMLLcwr5Ou1hg0r278) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Curve Of The Earth](https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6) | 3:53 |
+| 515 | [Star Power](https://open.spotify.com/track/1I5carVSU369PIJzWSxh2m) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Star Power](https://open.spotify.com/album/728YaMJauikKmE5dRQwkTO) | 3:27 |
+| 516 | [Wallflower](https://open.spotify.com/track/2yMtXgbMV3CV9L0ZESYtjB) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Wallflower](https://open.spotify.com/album/4NYeFLdZrMlN2I01mzbZgU) | 3:41 |
 
-Snapshot ID: `AAATkmg0Jy2mnpGET9aqxokmhtXEihV1`
+Snapshot ID: `AAATq/EMZf9e2ZjCuN8ooeg6yxfWiQQh`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Gecko&Tokage Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,344 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,348 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Raw](https://open.spotify.com/track/0M6DNTW1xQoPMoF6VyodiT) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Rawment](https://open.spotify.com/album/29cM0Z0AM9lp3DRCerozSt) | 3:10 |
-| 2 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
+| 2 | [Lamp \(feat\. Nujabes\)](https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [MELODICA](https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3) | 6:40 |
 | 3 | [SKY SO HIGH](https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [TRUE BLUE](https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP) | 4:36 |
-| 4 | [Lamp \(feat\. Nujabes\)](https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [MELODICA](https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3) | 6:40 |
+| 4 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
 | 5 | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/track/4TgNRA05pRMz0oBaQYMyS3) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Groove Delight \(feat.Ovall\)](https://open.spotify.com/album/7dCw1GWPdLc8exWpsmn1vn) | 3:37 |
 | 6 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 7 | [ARISTOTELES](https://open.spotify.com/track/7AYVvhSHziAX3Myjr1glEp) | [TRIX](https://open.spotify.com/artist/6bQlQn3QZhhTtcO4TG9lkE) | [CHANCE](https://open.spotify.com/album/23zLtoecBw8w0K9HOFO4tS) | 5:23 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 39 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 |
 | 40 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
 | 41 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
-| 42 | [Relativity](https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Relativity](https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG) | 4:28 |
-| 43 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
+| 42 | [犬、逃げた。\-ver\. 2.0\-](https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX) | [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [REAL KICKS](https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL) | 3:06 |
+| 43 | [Relativity](https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Relativity](https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG) | 4:28 |
 | 44 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
 | 45 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 | 46 | [Acceleration](https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 4:05 |
 | 47 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 |
-| 48 | [Greenfield](https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [New Horizon](https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F) | 2:26 |
-| 49 | [marten](https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz) | 4:27 |
+| 48 | [marten](https://open.spotify.com/track/5qqzkyf0OCSvqoSEAhNyPe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz) | 4:27 |
+| 49 | [Greenfield](https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [New Horizon](https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F) | 2:26 |
 | 50 | [El Ron Zacapa](https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Aromatic](https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN) | 4:54 |
 
 Snapshot ID: `AAAAAEAkT5CIfzU9p+WrnWS2B9301iVv`

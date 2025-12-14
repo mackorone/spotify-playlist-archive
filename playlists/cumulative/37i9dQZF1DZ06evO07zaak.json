@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Wish You Were Here 50",
+        "url": "https://open.spotify.com/album/3jlnaVYWc3QEqwCtdYCDS7"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361253,
+      "name": "Wish You Were Here - Pedal Steel Instrumental Mix",
+      "url": "https://open.spotify.com/track/0yZEOlakqvTifw6XuAit6x"
+    },
+    {
+      "album": {
         "name": "Obscured by Clouds",
         "url": "https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ"
       },

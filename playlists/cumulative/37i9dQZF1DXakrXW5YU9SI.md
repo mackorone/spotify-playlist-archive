@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-754 songs - 1 day 18 hr 10 min
+755 songs - 1 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Beze mnie](https://open.spotify.com/track/3Et7ioYSx63lA5mzLqeo4R) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Beze mnie](https://open.spotify.com/album/6iJVtJ2PuA4uvk3YT5vjp7) | 2:41 | 2024-07-11 | 2024-08-21 |
 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 | 2025-11-07 |  |
 | [Bezruch](https://open.spotify.com/track/1wi803YpJn9jTkpUxawGN5) | [Hey](https://open.spotify.com/artist/3z5O1IzrnIQfWHAMuQEeZB) | [Bezruch](https://open.spotify.com/album/1yKRuE5bMRJliSr9pj0E2B) | 3:09 | 2025-09-15 | 2025-09-30 |
-| [Bezsenność](https://open.spotify.com/track/1NNXRzTQsLMpfkcVoDcaUl) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Bezsenność](https://open.spotify.com/album/65gtLhABYfdIUN7OxaaHMd) | 2:37 | 2025-10-10 |  |
+| [Bezsenność](https://open.spotify.com/track/1NNXRzTQsLMpfkcVoDcaUl) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Bezsenność](https://open.spotify.com/album/65gtLhABYfdIUN7OxaaHMd) | 2:37 | 2025-10-10 | 2025-12-14 |
 | [BIAŁY BEZ](https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [NIE CIERPIE NIE](https://open.spotify.com/album/02e0lE7f2bukYoOJWwBSPT) | 3:44 | 2024-06-28 | 2024-07-19 |
 | [Biegnij ze mną](https://open.spotify.com/track/4gBemV0vYcmFsWS78S5Ozp) | [Cheap Tobacco](https://open.spotify.com/artist/15kkqvIcypRQGUiE17Shej), [hugo](https://open.spotify.com/artist/6CqTCNzbNNnLKJVFROmqty) | [Biegnij ze mną](https://open.spotify.com/album/6ljAjOLidOlNIBRgsfAax8) | 4:14 | 2025-09-15 | 2025-09-27 |
 | [Big Jet Plane](https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji) | 3:59 | 2024-09-12 | 2024-11-22 |
@@ -310,6 +310,7 @@
 | [kyoto](https://open.spotify.com/track/0opYvODIONdV6edM316xO8) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 2:43 | 2025-02-28 | 2025-12-06 |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-10 | 2025-09-16 |
 | [Laila](https://open.spotify.com/track/0VS6Zx5v82N0LFDgVOvgMO) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Laila](https://open.spotify.com/album/1uLpQLcdpCv6F3MtxDm47b) | 3:18 | 2024-11-21 | 2024-11-30 |
+| [Landline](https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Landline](https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR) | 3:04 | 2025-12-12 |  |
 | [Latawce](https://open.spotify.com/track/4LlmrFWkS7N8b53CZdxs6J) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Latawce](https://open.spotify.com/album/7c8U6QYolAJGd58eCMd0k3) | 3:10 | 2024-11-21 | 2025-03-01 |
 | [Latem](https://open.spotify.com/track/04aFFKwZDaOMSNZRxeq7H2) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Latem](https://open.spotify.com/album/4gZuMSy6Nl72X2FvTClO3B) | 4:53 | 2024-07-25 | 2024-08-04 |
 | [Lato](https://open.spotify.com/track/5sb5d7Thxc5dWFy4HCO0m5) | [Andy Birds](https://open.spotify.com/artist/7iWZRPwpiKyAL5PLXEhAeg) | [Lato](https://open.spotify.com/album/7xd0zcxXw9jaudzU7SCes7) | 2:49 | 2025-10-10 | 2025-10-24 |

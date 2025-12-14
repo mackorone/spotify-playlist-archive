@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 580186,
+  "num_followers": 580248,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
         "name": "Camas Separadas (ft. Disco Bah\u00eda)",
         "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 235136,
       "name": "Camas Separadas - ft. Disco Bah\u00eda",
       "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "Love from the Other Side",
-        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 249405,
-      "name": "Love from the Other Side",
-      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 216094,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1099,22 +1099,6 @@
       "duration_ms": 434758,
       "name": "Pray for Me",
       "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
-        "name": "Where Do You Go",
-        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1155,18 +1139,34 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "#dreamcore",
-        "url": "https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw"
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
       },
       "artists": [
         {
-          "name": "Malcriada",
-          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 224750,
-      "name": "www.malcriadamusic.com",
-      "url": "https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ"
+      "duration_ms": 237493,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
+        "name": "Pulsar",
+        "url": "https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Pulsar",
+      "url": "https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "Pulsar",
-        "url": "https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB"
+        "name": "#dreamcore",
+        "url": "https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
         }
       ],
-      "duration_ms": 253733,
-      "name": "Pulsar",
-      "url": "https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo"
+      "duration_ms": 224750,
+      "name": "www.malcriadamusic.com",
+      "url": "https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
         "name": "Sof\u00eda Vald\u00e9s",
         "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
         "name": "In The Half Light",
         "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "Sounds Of Blue",
-        "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
       },
       "artists": [
         {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
         }
       ],
-      "duration_ms": 214897,
-      "name": "Sounds Of Blue",
-      "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1395,6 +1379,22 @@
       "duration_ms": 172436,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
+        "name": "Sounds Of Blue",
+        "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 214897,
+      "name": "Sounds Of Blue",
+      "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
+        "name": "A-Game",
+        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/2J8xeayw3INkn3DUzYNPuf"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 158975,
       "name": "Lua",
       "url": "https://open.spotify.com/track/1LpMS6bJh5wYqtmTpD48M7"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
-        "name": "A-Game",
-        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 191927,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
         "name": "Drifting Out EP",
         "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 162401,
       "name": "Stream of Consciousness",
       "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        }
-      ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2025-12-05 16:19:29",

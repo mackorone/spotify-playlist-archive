@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,598 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,618 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 31 | [Léa](https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:17 |
 | 32 | [Prière païenne](https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:09 |
 | 33 | [La goffa Lolita](https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN) | [Vincè la petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [La goffa Lolita](https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC) | 3:41 |
-| 34 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 |
-| 35 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
+| 34 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
+| 35 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 |
 | 36 | [J'ai cherché](https://open.spotify.com/track/1lzRxwbdl86iJlYMz48KoD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Au coeur de moi](https://open.spotify.com/album/7qmzJKB20IS9non9kBkPgF) | 3:32 |
 | 37 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
-| 38 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
-| 39 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |
+| 38 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |
+| 39 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
 | 40 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
 | 41 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 |
 | 42 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 55 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 56 | [Le Dernier Jour du Disco](https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Le Dernier Jour du Disco](https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA) | 3:26 |
 | 57 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
-| 58 | [Au soleil](https://open.spotify.com/track/3J7L4214bjQfnry4dKjZZt) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Jenifer](https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD) | 3:39 |
-| 59 | [L'autre finistère](https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj) | [Les Innocents](https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP) | [Meilleurs souvenirs \- Best Of](https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg) | 4:09 |
+| 58 | [L'autre finistère](https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj) | [Les Innocents](https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP) | [Meilleurs souvenirs \- Best Of](https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg) | 4:09 |
+| 59 | [Au soleil](https://open.spotify.com/track/3J7L4214bjQfnry4dKjZZt) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Jenifer](https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD) | 3:39 |
 | 60 | [Les voisines](https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:35 |
 
 Snapshot ID: `AAAAAK/aAXOoZ+Vk6sLQDtEr9qbFrv31`

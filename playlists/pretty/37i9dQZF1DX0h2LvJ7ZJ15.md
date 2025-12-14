@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589,470 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589,805 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 43 | [MONTAGEM \- PR FUNK \- Slowed & Reveerb](https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI) | 1:23 |
 | 44 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
 | 45 | [Goth \(Slowed + Reverb\)](https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Goth \(Slowed + Reverb\)](https://open.spotify.com/album/2cu8b9WLmyDoK0mLwfhysh) | 4:12 |
-| 46 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 |
-| 47 | [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 |
+| 46 | [Flare \- Slowed](https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Flare \(Remixes\)](https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I) | 2:41 |
+| 47 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 |
 | 48 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 49 | [Living Life, In The Night \- slowed](https://open.spotify.com/track/5kcNmFn1llGqEw6tAKq1IQ) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night \(slowed\)](https://open.spotify.com/album/6NoezhYM82PEROFIrhLIDY) | 2:21 |
 | 50 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \- Slowed + Reverb](https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\) \[Slowed + Reverb\]](https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC) | 2:18 |

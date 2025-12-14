@@ -1,18 +1,18 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 109105,
+  "num_followers": 109113,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAB1RNN9uTXba9cF9HRPzacU",
+  "snapshot_id": "aTtbAAAAAAAwRm5ZzEE2H2J6o+1VFRuq",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "B.B. King's Blues Summit 100, Vol. III",
-        "url": "https://open.spotify.com/album/1ftanCZBzedbtiJRhhjton"
+        "name": "B.B. King's Blues Summit 100, Vol. IV",
+        "url": "https://open.spotify.com/album/6GJ8cjx6k5RkpzbHx0HGiL"
       },
       "artists": [
         {
@@ -20,13 +20,21 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         },
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
         }
       ],
-      "duration_ms": 284413,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/13VHDjjcRPrkijON7JVd31"
+      "duration_ms": 251346,
+      "name": "When Love Comes To Town",
+      "url": "https://open.spotify.com/track/65K5MkheeKyH9L4fhPqCu5"
     },
     {
       "added_at": null,
@@ -231,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Little Angel",
+        "url": "https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We're All In This Together",
         "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
       },
@@ -251,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Greek Theatre",
-        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 374846,
-      "name": "I'll Play The Blues For You (Live)",
-      "url": "https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -279,6 +291,22 @@
       "duration_ms": 250453,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 374846,
+      "name": "I'll Play The Blues For You (Live)",
+      "url": "https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB"
     },
     {
       "added_at": null,
@@ -315,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Another Kind of Love",
-      "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
       },
@@ -343,6 +355,22 @@
       "duration_ms": 214640,
       "name": "I'll Take The Blame",
       "url": "https://open.spotify.com/track/0f0URCUVpgCJdmu3VjsiI6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Another Kind of Love",
+      "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
     },
     {
       "added_at": null,
@@ -395,6 +423,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Trigger Finger",
+      "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "That's What Love Will Make You Do",
+      "url": "https://open.spotify.com/track/1s9pvVcRTbeGjT7RqMGVa1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beacon Theatre - Live from New York",
+        "url": "https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 341466,
+      "name": "I'll Take Care of You",
+      "url": "https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
       },
@@ -420,49 +504,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Trigger Finger",
-      "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beacon Theatre - Live from New York",
-        "url": "https://open.spotify.com/album/3NOga2NO6MSegEIgDNUZnN"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 341466,
-      "name": "I'll Take Care of You",
-      "url": "https://open.spotify.com/track/0V4JkOAwH9bOAmJ1aIaBSz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "That's What Love Will Make You Do",
-      "url": "https://open.spotify.com/track/1s9pvVcRTbeGjT7RqMGVa1"
+      "duration_ms": 247426,
+      "name": "Shake This Ground",
+      "url": "https://open.spotify.com/track/1l9iy4tXChdwVacJWASwnn"
     },
     {
       "added_at": null,
@@ -479,38 +523,6 @@
       "duration_ms": 400333,
       "name": "Happier Times",
       "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Shake This Ground",
-      "url": "https://open.spotify.com/track/1l9iy4tXChdwVacJWASwnn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
     },
     {
       "added_at": null,
@@ -563,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe Bonamassa Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
       "artists": [
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 344853,
-      "name": "Further On Up the Road - Live",
-      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
+      "duration_ms": 260173,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ"
     },
     {
       "added_at": null,
@@ -599,6 +607,26 @@
       "duration_ms": 297106,
       "name": "Train (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joe Bonamassa Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 344853,
+      "name": "Further On Up the Road - Live",
+      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
     },
     {
       "added_at": null,
@@ -639,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Radio City Music Hall",
-        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 338771,
-      "name": "One Less Cross to Bear - Live Version",
-      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
@@ -675,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+        "name": "Live at Radio City Music Hall",
+        "url": "https://open.spotify.com/album/26KqnXS7z05nYCYGiGG7di"
       },
       "artists": [
         {
@@ -684,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 400240,
-      "name": "Just 'Cos You Can Don't Mean You Should",
-      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
+      "duration_ms": 338771,
+      "name": "One Less Cross to Bear - Live Version",
+      "url": "https://open.spotify.com/track/1OzeFaTHSjQ20ycXdUgHCl"
     },
     {
       "added_at": null,
@@ -727,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
       },
       "artists": [
         {
@@ -736,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 340186,
-      "name": "One of these Days",
-      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
+      "duration_ms": 400240,
+      "name": "Just 'Cos You Can Don't Mean You Should",
+      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
     },
     {
       "added_at": null,
@@ -759,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
       "artists": [
         {
@@ -768,9 +780,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 333333,
-      "name": "What I've Known For A Very Long Time",
-      "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
+      "duration_ms": 340186,
+      "name": "One of these Days",
+      "url": "https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK"
     },
     {
       "added_at": null,
@@ -807,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sloe Gin",
-        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
       "artists": [
         {
@@ -816,29 +828,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 207386,
-      "name": "Ball Peen Hammer",
-      "url": "https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Life",
-        "url": "https://open.spotify.com/album/131ESyuAiA1Gk90WPTGSex"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Paul Rodgers",
-          "url": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
-        }
-      ],
-      "duration_ms": 310560,
-      "name": "Night Life",
-      "url": "https://open.spotify.com/track/6VzM0yQLGMkYjyijO4tgUd"
+      "duration_ms": 333333,
+      "name": "What I've Known For A Very Long Time",
+      "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
     },
     {
       "added_at": null,
@@ -863,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Want A Man Like Me",
-        "url": "https://open.spotify.com/album/0n2T7hKzdd74enBQZCN8j6"
+        "name": "Night Life",
+        "url": "https://open.spotify.com/album/131ESyuAiA1Gk90WPTGSex"
       },
       "artists": [
         {
@@ -872,13 +864,29 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         },
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Paul Rodgers",
+          "url": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
         }
       ],
-      "duration_ms": 174786,
-      "name": "Don't You Want A Man Like Me",
-      "url": "https://open.spotify.com/track/0QN7xWTtLbYGMH9PUtBh47"
+      "duration_ms": 310560,
+      "name": "Night Life",
+      "url": "https://open.spotify.com/track/6VzM0yQLGMkYjyijO4tgUd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sloe Gin",
+        "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Ball Peen Hammer",
+      "url": "https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

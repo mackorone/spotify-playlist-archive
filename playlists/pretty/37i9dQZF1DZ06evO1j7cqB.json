@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11276,
+  "num_followers": 11273,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAVg5CMce0UE6Xn8WDXyKy+",
+  "snapshot_id": "aTtbAAAAAAB7kOunLy2qGCwIsH1TVvlZ",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Castle Leoch",
-      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
+      "duration_ms": 338280,
+      "name": "Fallen Through Time",
+      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 338280,
-      "name": "Fallen Through Time",
-      "url": "https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy"
+      "duration_ms": 178333,
+      "name": "Castle Leoch",
+      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
     },
     {
       "added_at": null,
@@ -450,11 +450,15 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 565666,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
+      "duration_ms": 213163,
+      "name": "Holding On (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
     },
     {
       "added_at": null,
@@ -491,42 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Lullaby of the Giants",
-      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 213163,
-      "name": "Holding On (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 139988,
       "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
       "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 565666,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5rBXF4jd4xsenZnv5h3mfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Lullaby of the Giants",
+      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "War Is Inevitable",
+      "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -751,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
+        "name": "Foundation: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG"
       },
       "artists": [
         {
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 219293,
-      "name": "War Is Inevitable",
-      "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
+      "duration_ms": 86546,
+      "name": "Foundation Main Title",
+      "url": "https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 164173,
       "name": "Sun Rising on the Flagstone (feat. Julie Fowlis)",
       "url": "https://open.spotify.com/track/7oEBKN5354KHGntRFRHjv1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Foundation: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 86546,
-      "name": "Foundation Main Title",
-      "url": "https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Echoes of an Old Life",
+      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
       },
@@ -859,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
       },
       "artists": [
         {
@@ -868,25 +884,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Echoes of an Old Life",
-      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 226936,
-      "name": "Raindrop Becoming an Ocean",
-      "url": "https://open.spotify.com/track/4cB3O55dXAJVXZh8J9rivU"
+      "duration_ms": 209624,
+      "name": "Black Flags",
+      "url": "https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari For Revenge, OneRepublic, ALLDAY PROJECT dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,022 likes - 69 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,078 likes - 69 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

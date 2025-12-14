@@ -4,7 +4,7 @@
 
 > seamless, soft, soulful.
 
-83 songs - 4 hr 55 min
+85 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 | 2025-03-28 |  |
 | [Bubba](https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:12 | 2025-03-28 |  |
 | [Care](https://open.spotify.com/track/3MklLppNRhuAupVGO3uNW2) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Care](https://open.spotify.com/album/2b1U4077xOeivHAa3Jz8HY) | 2:49 | 2025-03-28 |  |
-| [CHARLES JEFFREY](https://open.spotify.com/track/618BwYUA98PyOVoCbckluW) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [CHARLES JEFFREY](https://open.spotify.com/album/1inYWUi6rRiaUyrfzl6qnj) | 2:27 | 2025-03-28 |  |
+| [CHARLES JEFFREY](https://open.spotify.com/track/618BwYUA98PyOVoCbckluW) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [CHARLES JEFFREY](https://open.spotify.com/album/1inYWUi6rRiaUyrfzl6qnj) | 2:27 | 2025-03-28 | 2025-12-14 |
 | [Coat](https://open.spotify.com/track/5fC7PXEG80aCHs2HXixNGD) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Coat](https://open.spotify.com/album/7gKWo8kiC3Ohj0soQmyImM) | 4:20 | 2025-03-28 |  |
 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 | 2025-03-28 |  |
 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 | 2025-03-28 |  |
@@ -39,6 +39,7 @@
 | [FKA Passat](https://open.spotify.com/track/2l4mvylvhhEQkU6xBVALaH) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 1:28 | 2025-03-28 |  |
 | [Four Long Years](https://open.spotify.com/track/3HSsitVWr2v52sq6C2o9fz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:40 | 2025-03-28 |  |
 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 | 2025-03-28 |  |
+| [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2025-03-28 |  |
 | [Ghosting](https://open.spotify.com/track/4V7zaJB949FXEfRWj5ADL5) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:15 | 2025-03-28 |  |
 | [Gladly](https://open.spotify.com/track/145xZcFMv1ccyKBgEMtV3y) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Devotion](https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv) | 3:41 | 2025-03-28 |  |
 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 | 2025-03-28 |  |
@@ -78,10 +79,11 @@
 | [STEREO DRIVER](https://open.spotify.com/track/3ndgTTYs0dGZQPLHkVxGHl) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:51 | 2025-03-28 |  |
 | [stuck on you](https://open.spotify.com/track/5fkRXB8f07EDw7Eg6qkTzI) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [stuck on you](https://open.spotify.com/album/7uIeXvLJufnhza0A98o5Fd) | 2:47 | 2025-03-28 |  |
 | [Summer Rain](https://open.spotify.com/track/3JgLXkayVYWkQr1G9VhIV5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Rain](https://open.spotify.com/album/2xKGcZ5dvdKpiK973Ixid6) | 2:53 | 2025-03-28 |  |
+| [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2025-03-28 |  |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2025-03-28 |  |
 | [The Feels](https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [The Feels](https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa) | 2:56 | 2025-03-28 |  |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2025-03-28 |  |
-| [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 | 2025-03-28 |  |
+| [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 | 2025-03-28 | 2025-12-14 |
 | [WE SAW THE SUN!](https://open.spotify.com/track/7FqH4CO8H5j9EXHKTBP7xE) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:31 | 2025-03-28 |  |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2025-03-28 |  |
 | [Where Sky Becomes Sea](https://open.spotify.com/track/4R9CJUZVrHTyL8L1bkVlAT) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Where Sky Becomes Sea](https://open.spotify.com/album/5HnWBgUMo42JHHsDMOkAdD) | 5:17 | 2025-03-28 | 2025-11-25 |

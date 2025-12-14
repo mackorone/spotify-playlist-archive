@@ -4,7 +4,7 @@
 
 > Robe, siempre en nuestros corazones.
 
-723 songs - 1 day 22 hr 14 min
+724 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Algo Está Ardiendo](https://open.spotify.com/track/6w0lW9Xddc43207cyvAFdA) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Algo Está Ardiendo](https://open.spotify.com/album/6K3cLMqFP3I29smSu80scj) | 3:18 | 2022-05-26 | 2022-06-10 |
 | [Alguien pa ti](https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Alguien pa ti](https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM) | 2:59 | 2022-11-24 | 2022-12-17 |
 | [Aliento](https://open.spotify.com/track/3g5tVCjkO5n1DgnWLOm0Pr) | [Ártico](https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ) | [Aliento](https://open.spotify.com/album/7bDAlSKUBnOucRPGvcBQaR) | 3:57 | 2024-09-19 | 2024-09-27 |
+| [Ama, ama, ama y ensancha el alma](https://open.spotify.com/track/06ED6YIqNb66Mh6HXjmEa6) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Deltoya](https://open.spotify.com/album/022zIyy4TicgTuuqLco8t8) | 2:35 | 2025-12-13 |  |
 | [Amargo Ataúd](https://open.spotify.com/track/4tijOvigzqwBTNpkJKzGjo) | [La Piojera](https://open.spotify.com/artist/2y10Zc9dxnYdyoToA8xeq4), [Estrago](https://open.spotify.com/artist/5xtCZLuxMQuLUhO5s6Gr0D), [Tahúres Zúrdos](https://open.spotify.com/artist/5B6JwEo3bqy1bun6WKFCxR), [Aurora Beltrán](https://open.spotify.com/artist/3GnMrfvoW6rrZxbau2b6fu) | [Amargo Ataúd](https://open.spotify.com/album/1sYlA6P4lU4cHv7kZ8Tmj1) | 4:17 | 2023-07-06 | 2023-07-14 |
 | [AMarte](https://open.spotify.com/track/0vPqLuHLNfYAr9WEOARDkv) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [AMarte](https://open.spotify.com/album/3J97R90pa2d4CdPvDJbJI1) | 2:41 | 2025-09-25 | 2025-10-04 |
 | [Amor al aire](https://open.spotify.com/track/6212NqCTqhlXD1lliUMbbT) | [MATEO ERAÑA](https://open.spotify.com/artist/1sDUoF8qwvVEcTYv2MYwLk) | [406](https://open.spotify.com/album/6Exg7eOc74YG4IoFotHuvJ) | 3:15 | 2024-10-24 | 2024-11-08 |
@@ -516,7 +517,7 @@
 | [Olvidarte](https://open.spotify.com/track/5NFMUKGSpXKEI31Wz1Cp9g) | [Pablo Senator](https://open.spotify.com/artist/4JsKSQfvfwor3kiOV7RCHG) | [Olvidarte](https://open.spotify.com/album/1Nhuq87KZ1RFxBA97tRXCb) | 3:09 | 2025-05-01 | 2025-05-13 |
 | [Oro Irlandés](https://open.spotify.com/track/6gesNT3gtru3WI4nB4jZDr) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Oro Irlandés](https://open.spotify.com/album/6fxrUfD9cQy3HeEjKxWUEk) | 4:46 | 2025-09-18 | 2025-09-26 |
 | [P\*\#% Cantautor](https://open.spotify.com/track/5vEE3mNVCgHvcFH9nI4TgU) | [Se ha perdido un niño](https://open.spotify.com/artist/3hBFtHSUfUl6qa3NdDnUbL) | [P\*\#% Cantautor](https://open.spotify.com/album/27OhREemhxU6SiqOPON0mP) | 3:12 | 2023-01-12 | 2023-01-27 |
-| [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 | 2022-05-19 |  |
+| [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 | 2022-05-19 | 2025-12-14 |
 | [Pajaros de Barro](https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 4:06 | 2022-05-19 |  |
 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 | 2022-05-26 |  |
 | [PALIQUE](https://open.spotify.com/track/3isUnEQtuJhx771cMLqcsP) | [Kumar Kislo](https://open.spotify.com/artist/5TJTtM4EhlrA8uEJ1QSrFL) | [II](https://open.spotify.com/album/1SrCXxji6qdDaAcp8E2MLR) | 2:36 | 2024-04-11 | 2024-04-19 |

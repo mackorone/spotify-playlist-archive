@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Haile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,673 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,631 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 32 | [A Thousand Times](https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [A Thousand Times](https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5) | 3:17 |
 | 33 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 34 | [One Gift](https://open.spotify.com/track/3QlDKHTHvO7LHD6JUjgjms) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [One Gift](https://open.spotify.com/album/6L8qJyXZrmzunTMq03oHOo) | 3:00 |
-| 35 | [Finally](https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Finally](https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks) | 3:09 |
-| 36 | [Love That Don't Change](https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Zion I Kings](https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj) | [Love That Don't Change](https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe) | 3:16 |
+| 35 | [Love That Don't Change](https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Zion I Kings](https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj) | [Love That Don't Change](https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe) | 3:16 |
+| 36 | [Finally](https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Finally](https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks) | 3:09 |
 | 37 | [Hustling In My Blood](https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Damian "Jr Gong" Marley](https://open.spotify.com/artist/3QWR83BS6UYBWy8wWkm1nN), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Hustling In My Blood](https://open.spotify.com/album/2RBVosWbf5PCDS0b44NiaK) | 4:15 |
 | 38 | [Wisemen](https://open.spotify.com/track/2u3aTF3PxyJt7XQ5w0z04t) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Wisemen](https://open.spotify.com/album/4IgOYbYLa7t750vdIx2QRZ) | 3:48 |
 | 39 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 54 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 |
 | 55 | [Pilates](https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Pilates](https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs) | 2:25 |
 | 56 | [Good Over Evil](https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 4:24 |
-| 57 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
-| 58 | [Gunman Town](https://open.spotify.com/track/48r2Nnf0nBUbcBMgIzuXkW) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Gunman Town](https://open.spotify.com/album/41GAvPH9GV6aLrwGZnJ19X) | 2:50 |
-| 59 | [COCONUT WATA \(SIP\)](https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [COCONUT WATA \(SIP\)](https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU) | 3:05 |
+| 57 | [Gunman Town](https://open.spotify.com/track/48r2Nnf0nBUbcBMgIzuXkW) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Gunman Town](https://open.spotify.com/album/41GAvPH9GV6aLrwGZnJ19X) | 2:50 |
+| 58 | [COCONUT WATA \(SIP\)](https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [COCONUT WATA \(SIP\)](https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU) | 3:05 |
+| 59 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
 | 60 | [Refund](https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Refund](https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp) | 3:24 |
 | 61 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
 | 62 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |

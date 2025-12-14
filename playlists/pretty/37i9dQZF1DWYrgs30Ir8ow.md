@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,378 likes - 41 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,385 likes - 41 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 174786,
       "name": "Don't You Want A Man Like Me",
       "url": "https://open.spotify.com/track/0QN7xWTtLbYGMH9PUtBh47"
@@ -3294,10 +3294,32 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 284413,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/13VHDjjcRPrkijON7JVd31"
+    },
+    {
+      "album": {
+        "name": "Sweet Little Angel",
+        "url": "https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284413,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf"
     },
     {
       "album": {
@@ -4118,6 +4140,36 @@
       "duration_ms": 333333,
       "name": "What I've Known For A Very Long Time",
       "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
+    },
+    {
+      "album": {
+        "name": "B.B. King's Blues Summit 100, Vol. IV",
+        "url": "https://open.spotify.com/album/6GJ8cjx6k5RkpzbHx0HGiL"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251346,
+      "name": "When Love Comes To Town",
+      "url": "https://open.spotify.com/track/65K5MkheeKyH9L4fhPqCu5"
     },
     {
       "album": {

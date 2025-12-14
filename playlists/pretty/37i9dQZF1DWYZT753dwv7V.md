@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,492 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,500 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 30 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
 | 31 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
 | 32 | [SESSO OCCASIONALE](https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [SESSO OCCASIONALE](https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6) | 3:15 |
-| 33 | [Dove Si Balla](https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [NEI SOGNI NESSUNO È MONOGAMO](https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e) | 3:18 |
-| 34 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
+| 33 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
+| 34 | [Dove Si Balla](https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [NEI SOGNI NESSUNO È MONOGAMO](https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e) | 3:18 |
 | 35 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
-| 36 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |
-| 37 | [Non E' L'Inferno](https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Sarò Libera \(Sanremo Edition\)](https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT) | 3:45 |
+| 36 | [Non E' L'Inferno](https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Sarò Libera \(Sanremo Edition\)](https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT) | 3:45 |
+| 37 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |
 | 38 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
 | 39 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 |
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 91 | [Nostalgia canaglia](https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj) | [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw), [Romina Power](https://open.spotify.com/artist/2ZUY3LkHAoSiPSO7tXNwZM) | [Tutto Al Bano](https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk) | 3:46 |
 | 92 | [Amare](https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Amare](https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU) | 3:20 |
 | 93 | [Contessa \- Original Version 1980](https://open.spotify.com/track/0CWJIpU0D8Bk78H1k7ELC6) | [Decibel](https://open.spotify.com/artist/0wSk7M2UXea9whwjDzmK4R) | [Le origini \- Gli anni d'oro \(1978 \- 1982\)](https://open.spotify.com/album/3u9mKrMogJjg9W0Y8tYKMH) | 3:03 |
-| 94 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
-| 95 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
-| 96 | [Come saprei](https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 5:00 |
+| 94 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
+| 95 | [Come saprei](https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 5:00 |
+| 96 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
 | 97 | [Salirò](https://open.spotify.com/track/0Oheso9xvbCsZc6rzZjaWe) | [Daniele Silvestri](https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF) | [Monetine](https://open.spotify.com/album/3mfahOk88mQBdYnbLfT7GZ) | 3:57 |
 | 98 | [Il mondo prima di te](https://open.spotify.com/track/6dNtIe63iTj60GXprm8H4j) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Il mondo prima di te](https://open.spotify.com/album/4FuHwClY6AO9CEyCigVoXJ) | 3:40 |
 | 99 | [Cosa ti aspetti da me](https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Cosa ti aspetti da me](https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC) | 3:44 |

@@ -4,7 +4,7 @@
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 18 min
+92 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [El Exitoso](https://open.spotify.com/track/2nbZDGc8nrRk7pUtuuPBsU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 3:42 | 2023-12-13 | 2023-12-18 |
 | [El Exitoso](https://open.spotify.com/track/4E1QkNe7kxIzBAOvOWGgPH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/4SQZsm1mpAPJuxKW7Nlauy) | 3:42 | 2023-11-10 | 2023-12-14 |
 | [El Falsete del Potrero](https://open.spotify.com/track/4KzLrPyBU5o2ptSRjAHYtp) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Entre Hierba, Polvo y Plomo](https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q) | 2:46 | 2025-02-12 | 2025-06-20 |
-| [El Fue Arturo \- En Vivo](https://open.spotify.com/track/6B9VpihRaveXPH0awrkIBG) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 3:05 | 2025-12-12 |  |
+| [El Fue Arturo \- En Vivo](https://open.spotify.com/track/6B9VpihRaveXPH0awrkIBG) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 3:05 | 2025-12-12 | 2025-12-14 |
 | [El Gato](https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Gato](https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9) | 3:19 | 2023-08-08 |  |
 | [El Mes de Mayo](https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:47 | 2023-08-08 |  |
 | [El Morro Pirata](https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [El Morro Pirata](https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ) | 2:38 | 2023-09-18 | 2025-05-15 |
@@ -78,6 +78,7 @@
 | [Mi Ranchito](https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:25 | 2023-08-08 |  |
 | [Mi Tiempo](https://open.spotify.com/track/2A1eiNAgxHeUAzOqAK3JBt) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Mi Tiempo](https://open.spotify.com/album/4ddYhPxSE6ucq6YMcpBTrA) | 1:54 | 2025-11-07 |  |
 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 | 2023-08-08 |  |
+| [Navaja Libre \- En Vivo](https://open.spotify.com/track/3yENxFZlc45byls2278Gxb) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Puras Pa' Tomar Vol.1 \(En Vivo\)](https://open.spotify.com/album/03LCGIUYnwjxMEugeG46Xe) | 2:44 | 2025-12-14 |  |
 | [Nemesio](https://open.spotify.com/track/6bd5RNCLkKrNTdMBiehixh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nemesio](https://open.spotify.com/album/7dDDAkoT9xPwxcCc9cn28o) | 3:42 | 2023-08-14 | 2024-03-08 |
 | [Nemesio](https://open.spotify.com/track/2zOIGIlHpkN32dvnj19MHP) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:40 | 2024-01-06 | 2025-06-30 |
 | [Palabra de Hombre](https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 3:16 | 2023-08-08 |  |

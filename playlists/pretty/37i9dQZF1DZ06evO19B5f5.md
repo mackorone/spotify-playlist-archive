@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 
 > This is Lauren Aquilina\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576 likes - 34 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 575 likes - 34 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 | 33 | [Wicked Game](https://open.spotify.com/track/1MNevc3dOPDPRZ3SinWfje) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 4:06 |
 | 34 | [Teenage Self](https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 1:51 |
 
-Snapshot ID: `aToJgAAAAAA0Cxkk42s7zs+U3x8vcIuR`
+Snapshot ID: `aTtbAAAAAAApIArI7RxPQTri1PjcQl6E`

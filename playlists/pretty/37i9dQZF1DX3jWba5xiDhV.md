@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,525 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,727 likes - 75 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 23 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
 | 24 | [Babylon, baby](https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Grégoire Tine](https://open.spotify.com/artist/1B9hG7Ts0USXnTr2n9UuWO) | [Babylon, baby](https://open.spotify.com/album/7e791Xxbe2X0igt1okm20T) | 3:27 |
 | 25 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Hypnotic Tango](https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C) | 6:09 |
-| 26 | [Splendida giornata](https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:39 |
-| 27 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
+| 26 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 |
+| 27 | [Splendida giornata](https://open.spotify.com/track/01lvgdQKXkM8AHUXRhawMk) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:39 |
 | 28 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 |
 | 29 | [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 |
 | 30 | [La Notte Infinita](https://open.spotify.com/track/6JZEpNCioYdAeWOyAgni3d) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Kapote presents Italomania Vol\. 3](https://open.spotify.com/album/5ZD6dHZ3XudQGMhFDrKFrY) | 3:54 |

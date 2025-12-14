@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3395924,
+  "num_followers": 3395716,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229404,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229404,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Best 1991 - 2004",
-        "url": "https://open.spotify.com/album/3Fb7L1abcJbTt729nCq2eZ"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/0z5E34e7ZT3XKMYQNXh6tH"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "No Judgement",
         "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 176283,
       "name": "No Judgement",
       "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Best 1991 - 2004",
+        "url": "https://open.spotify.com/album/3Fb7L1abcJbTt729nCq2eZ"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/0z5E34e7ZT3XKMYQNXh6tH"
     },
     {
       "added_at": "2022-12-08 16:33:34",

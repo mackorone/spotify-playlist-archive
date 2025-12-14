@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 85897,
+  "num_followers": 85902,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAByan6rT8ooGhANXZNqraiJ",
+  "snapshot_id": "aTtbAAAAAACzm/erb9m+3MHiQI6fg+AZ",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascendancy (Special Edition)",
-        "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 489960,
-      "name": "Master of Puppets",
-      "url": "https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 204570,
       "name": "Scattering The Ashes",
       "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascendancy (Special Edition)",
+        "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 489960,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crusade",
-        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 243746,
-      "name": "Anthem (We Are the Fire)",
-      "url": "https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What The Dead Men Say",
         "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 340288,
       "name": "Amongst The Shadows & The Stones",
       "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Crusade",
+        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 243746,
+      "name": "Anthem (We Are the Fire)",
+      "url": "https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z"
     },
     {
       "added_at": null,

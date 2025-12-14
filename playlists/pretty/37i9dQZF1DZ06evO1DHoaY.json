@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2068443,
+  "num_followers": 2068475,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAzEjCZpk1vJBIGLhQcmsgM",
+  "snapshot_id": "aTtbAAAAAACu04OGZyufFext+WALphlD",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 231773,
-      "name": "One Drop",
-      "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
+      "duration_ms": 240333,
+      "name": "So Much Trouble In The World",
+      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 240333,
-      "name": "So Much Trouble In The World",
-      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
+      "duration_ms": 231773,
+      "name": "One Drop",
+      "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
     },
     {
       "added_at": null,
@@ -687,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+        "name": "Duets: The Final Chapter",
+        "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
       },
       "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
         {
           "name": "Bob Marley & The Wailers",
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 412026,
-      "name": "Punky Reggae Party - 12\" Version",
-      "url": "https://open.spotify.com/track/1WgOedf4pKmgepml1CMW6o"
+      "duration_ms": 165746,
+      "name": "Hold Ya Head (feat. Bob Marley)",
+      "url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif"
     },
     {
       "added_at": null,
@@ -719,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets: The Final Chapter",
-        "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
       },
       "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
         {
           "name": "Bob Marley & The Wailers",
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 165746,
-      "name": "Hold Ya Head (feat. Bob Marley)",
-      "url": "https://open.spotify.com/track/2FaEEdFTp6Ub0oojqjpSif"
+      "duration_ms": 412026,
+      "name": "Punky Reggae Party - 12\" Version",
+      "url": "https://open.spotify.com/track/1WgOedf4pKmgepml1CMW6o"
     },
     {
       "added_at": null,

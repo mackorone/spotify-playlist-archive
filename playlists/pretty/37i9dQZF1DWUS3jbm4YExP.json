@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 856014,
+  "num_followers": 856121,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Adalan",
-        "url": "https://open.spotify.com/album/4i9Cw8PIF5TIUQRwxZhUjp"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 271708,
-      "name": "Chaghaybou - Adalan",
-      "url": "https://open.spotify.com/track/43JYYdR72cOIZ934hgTy8E"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Road Of The Lonely Ones",
         "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 218466,
       "name": "Road Of The Lonely Ones",
       "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Adalan",
+        "url": "https://open.spotify.com/album/4i9Cw8PIF5TIUQRwxZhUjp"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 271708,
+      "name": "Chaghaybou - Adalan",
+      "url": "https://open.spotify.com/track/43JYYdR72cOIZ934hgTy8E"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Perak",
-        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 172777,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "The Return of\u2026",
         "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 224882,
       "name": "Sunset Sound",
       "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 172777,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1919,30 +1919,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Keep Me On The Dancefloor",
-        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Soul Speech",
-          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
-        },
-        {
-          "name": "Harry Stone",
-          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
-        }
-      ],
-      "duration_ms": 150803,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Mount Pleasant Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK"
       },
@@ -1963,18 +1939,26 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Music Save Me (One More Time)",
-        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
+        "name": "Keep Me On The Dancefloor",
+        "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
       "artists": [
         {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Soul Speech",
+          "url": "https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
         }
       ],
-      "duration_ms": 256490,
-      "name": "How It Goes",
-      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
+      "duration_ms": 150803,
+      "name": "House Of Mirrors",
+      "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2007,6 +1991,22 @@
       "duration_ms": 177068,
       "name": "Chica de Favela - Radio Edit",
       "url": "https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Music Save Me (One More Time)",
+        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
+      },
+      "artists": [
+        {
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        }
+      ],
+      "duration_ms": 256490,
+      "name": "How It Goes",
+      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Atlantic Oscillations",
-        "url": "https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 351146,
-      "name": "Atlantic Oscillations",
-      "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
         "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 267316,
       "name": "Bumay\u00e9 - Voilaaa Disco Remix",
       "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Atlantic Oscillations",
+        "url": "https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 351146,
+      "name": "Atlantic Oscillations",
+      "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 208444,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Mira Bien",
         "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 208444,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 353109,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "ELCANO",
         "url": "https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw"
       },
@@ -2459,26 +2475,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
-        "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
-      },
-      "artists": [
-        {
-          "name": "Zoufris Maracas",
-          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
-        },
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 220452,
-      "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
-      "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Ancients / It's Starting",
         "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
       },
@@ -2491,42 +2487,6 @@
       "duration_ms": 309857,
       "name": "It's Starting",
       "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 353109,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "No Be Today",
-        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
-      },
-      "artists": [
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Os\u00e8",
-      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2547,6 +2507,26 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
+        "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
+      },
+      "artists": [
+        {
+          "name": "Zoufris Maracas",
+          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+        },
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 220452,
+      "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
+      "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Afro Edits",
         "url": "https://open.spotify.com/album/3WPUH9O57Xem6YyswXOa9C"
       },
@@ -2563,6 +2543,26 @@
       "duration_ms": 248659,
       "name": "Samarin Bolga",
       "url": "https://open.spotify.com/track/6P2HSEAhpvApOQ7PTGDcj0"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "No Be Today",
+        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
+      },
+      "artists": [
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Os\u00e8",
+      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2603,22 +2603,18 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Fighting Slowly",
-        "url": "https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk"
+        "name": "Azaman Amoutay",
+        "url": "https://open.spotify.com/album/7CaWgV1I4kyyF8aytiY0lN"
       },
       "artists": [
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Ayuune Sule",
-          "url": "https://open.spotify.com/artist/1BCpaANNqLwc9rEBNt0KrL"
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
         }
       ],
-      "duration_ms": 322819,
-      "name": "Fighting Slowly",
-      "url": "https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6"
+      "duration_ms": 221582,
+      "name": "Azaman Amoutay",
+      "url": "https://open.spotify.com/track/1KS7VXi6iCxHGnPhsV0HNC"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2639,6 +2635,26 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Fighting Slowly",
+        "url": "https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Ayuune Sule",
+          "url": "https://open.spotify.com/artist/1BCpaANNqLwc9rEBNt0KrL"
+        }
+      ],
+      "duration_ms": 322819,
+      "name": "Fighting Slowly",
+      "url": "https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Kodak",
         "url": "https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD"
       },
@@ -2651,22 +2667,6 @@
       "duration_ms": 176083,
       "name": "Kodak",
       "url": "https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Nusantara Beat",
-        "url": "https://open.spotify.com/album/2sbFG9DBvAaju0TcE3AHw9"
-      },
-      "artists": [
-        {
-          "name": "Nusantara Beat",
-          "url": "https://open.spotify.com/artist/6iQZl7RmTVznyFCrML933x"
-        }
-      ],
-      "duration_ms": 333424,
-      "name": "Bakar",
-      "url": "https://open.spotify.com/track/0fj6jEifZnrIGWclN346Qh"
     }
   ],
   "unique_name": "Global Groove",

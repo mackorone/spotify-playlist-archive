@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Juan Boucher, SANFRANDISCO, Gerhard Steyn, Liezel Pieters, Robbie Wessels en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,845 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,871 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

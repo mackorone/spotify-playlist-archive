@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,026 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,042 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 24 | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/track/0tyHtkMv3PMWIUbK0ZqOHi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/album/5qYCzmTt8Vnw9B0Ok95HtI) | 4:59 |
 | 25 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 |
 | 26 | [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:41 |
-| 27 | [Chitti Nadumune](https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX) | [Mallikarjun](https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2) | [Gudumba Shankar](https://open.spotify.com/album/330aGp8Rl5dhqKoPRsY203) | 5:54 |
-| 28 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
+| 27 | [Ohho Puththadi Bommaa](https://open.spotify.com/track/3WaggvoQP7BjMXTeIQp8mV) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thika Maka Thanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hsMB3LBXnEB9yHTvN0Qa2) | 3:35 |
+| 28 | [Chitti Nadumune](https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX) | [Mallikarjun](https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2) | [Gudumba Shankar](https://open.spotify.com/album/330aGp8Rl5dhqKoPRsY203) | 5:54 |
 | 29 | [Vachindamma](https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:10 |
-| 30 | [Ohho Puththadi Bommaa](https://open.spotify.com/track/3WaggvoQP7BjMXTeIQp8mV) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thika Maka Thanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hsMB3LBXnEB9yHTvN0Qa2) | 3:35 |
+| 30 | [Gulabi Kallu Rendu Mullu](https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Govindudu Andarivaadele](https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W) | 4:24 |
 | 31 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
 | 32 | [Nammavemo](https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF) | [Saketh Naidu](https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v) | [Parugu](https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C) | 4:46 |
 | 33 | [Poovullo Daagunna](https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Jeans](https://open.spotify.com/album/5CcuoUl0yhFPRLMohxwvIt) | 6:55 |

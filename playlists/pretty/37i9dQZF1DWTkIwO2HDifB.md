@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: DJ YUZAK, MC BN, Mc RN Original
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,666,910 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,667,690 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Sexta Feira Hoje Tem](https://open.spotify.com/track/7jCgslBhuPF61B6yk90VYb) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Sexta Feira Hoje Tem](https://open.spotify.com/album/3QDz4QyC01WzuUaYi6BOin) | 6:27 |
 | 50 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |
 
-Snapshot ID: `AAAAACZcNR6UkBzJ2z+OMq6t+nK7+LdR`
+Snapshot ID: `AAAAAMGZ3FB91+gXPi47kNIOqxIWcSwh`

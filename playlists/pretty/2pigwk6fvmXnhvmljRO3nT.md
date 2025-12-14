@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,082 songs - 20 day 13 hr 7 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,084 songs - 20 day 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8090,5 +8090,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8080 | [ビターチョコデコレーション](https://open.spotify.com/track/4uy2VPS6prqLqRUBtbvs7G) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:17 |
 | 8081 | [再生](https://open.spotify.com/track/271QLLXvcPOzTHC4MQu8c0) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:26 |
 | 8082 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 |
+| 8083 | [velvet bow](https://open.spotify.com/track/2IXbQfC4i173dhtSevaUPL) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [velvet bow](https://open.spotify.com/album/4i2A5j1qkWWzeoA1HC0vG3) | 3:04 |
+| 8084 | [latch](https://open.spotify.com/track/0WfsDFQY3t0nDyWF89QKfe) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:40 |
 
-Snapshot ID: `AAAKCGXA/7MsbxMArb/UdZcnNvyMF2hU`
+Snapshot ID: `AAAKCp/2Opckk6qVINEL4rtp+NgPjuFQ`

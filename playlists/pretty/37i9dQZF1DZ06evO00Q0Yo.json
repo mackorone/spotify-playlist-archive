@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19804,
+  "num_followers": 19810,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABNtVCDWSCC4Myr4QFiVajH",
+  "snapshot_id": "aTtbAAAAAAAVT1mDqoNDYwxpuAW8F3Kv",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORINIAN",
-        "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 137196,
-      "name": "Lotion (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/5aAYGulyyGNWXBtbHm1wdF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
         "url": "https://open.spotify.com/album/5nsV6k7g6rZVLW3Xhru07O"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 200769,
       "name": "Bundles 2 (feat. Flo Milli, Taylor Girlz)",
       "url": "https://open.spotify.com/track/4HwFQ5AndYR51q9ru81JtQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORINIAN",
+        "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 137196,
+      "name": "Lotion (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/5aAYGulyyGNWXBtbHm1wdF"
     },
     {
       "added_at": null,
@@ -707,26 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Snatched (Remix)",
-        "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
       "artists": [
         {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        },
-        {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
         }
       ],
-      "duration_ms": 159820,
-      "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
-      "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
+      "duration_ms": 106763,
+      "name": "Pockets Bigger",
+      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
     },
     {
       "added_at": null,
@@ -747,18 +739,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+        "name": "Snatched (Remix)",
+        "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
       "artists": [
         {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        },
+        {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
         }
       ],
-      "duration_ms": 106763,
-      "name": "Pockets Bigger",
-      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
+      "duration_ms": 159820,
+      "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
+      "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
     },
     {
       "added_at": null,

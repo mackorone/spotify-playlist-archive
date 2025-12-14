@@ -4,7 +4,7 @@
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-85 songs - 3 hr 39 min
+86 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [New](https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:49 | 2024-08-14 |  |
 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 | 2025-04-13 |  |
 | [On the Low](https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:17 | 2023-11-10 | 2025-10-26 |
-| [open it up \(with Ken Carson\)](https://open.spotify.com/track/0F8K7mgOVEZ7cpOLBPQx38) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3wUVDdRTNWxMeYxbfYFPBi) | 4:22 | 2025-10-10 |  |
+| [open it up \(with Ken Carson\)](https://open.spotify.com/track/0F8K7mgOVEZ7cpOLBPQx38) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3wUVDdRTNWxMeYxbfYFPBi) | 4:22 | 2025-10-10 | 2025-12-14 |
 | [open it up \(with Ken Carson\)](https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 4:22 | 2025-09-21 | 2025-10-10 |
 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 | 2024-08-31 |  |
 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 | 2024-04-14 | 2024-08-31 |
@@ -79,6 +79,7 @@
 | [Teen X](https://open.spotify.com/track/5HfzHLzYEJI8mMmq1WNWth) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 2:01 | 2023-11-10 | 2023-12-14 |
 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 | 2023-11-10 | 2025-11-25 |
 | [Teenager Rager](https://open.spotify.com/track/0MwOpzSByFjvmgjeY0It4a) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:44 | 2023-11-10 | 2025-04-14 |
+| [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 | 2025-12-14 |  |
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2024-11-24 | 2025-04-13 |
 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 | 2024-09-01 |  |
 | [Thx](https://open.spotify.com/track/4EJaMoBaqhbhGn4KX0vwOU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:52 | 2025-04-15 | 2025-11-10 |

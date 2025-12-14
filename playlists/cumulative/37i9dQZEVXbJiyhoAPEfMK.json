@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -1122,6 +1122,28 @@
       "duration_ms": 256280,
       "name": "24h plus t\u00f4t",
       "url": "https://open.spotify.com/track/2Mv0GikoJ4MwwfSaYyERKS"
+    },
+    {
+      "album": {
+        "name": "24K (Ohne Tabak)",
+        "url": "https://open.spotify.com/album/0Mhlnj9qg4IX76r7tKACkK"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102793,
+      "name": "24K (Ohne Tabak)",
+      "url": "https://open.spotify.com/track/0dq6sZ4vPS4ntht0HoEipC"
     },
     {
       "album": {
@@ -21922,7 +21944,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -21940,7 +21962,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -26077,6 +26099,28 @@
     },
     {
       "album": {
+        "name": "Aura X G-wave",
+        "url": "https://open.spotify.com/album/19oWIQY8EuiAaxbS7Atbga"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141389,
+      "name": "G\u00e9n\u00e9ration impolie",
+      "url": "https://open.spotify.com/track/7EyB1sN9IUO1YXIoHTyZRk"
+    },
+    {
+      "album": {
         "name": "Stubete G\u00e4ng",
         "url": "https://open.spotify.com/album/0Kt0oARMyCDq8I053zVNlU"
       },
@@ -26373,24 +26417,6 @@
     },
     {
       "album": {
-        "name": "A Pentatonix Christmas",
-        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "date_added": "2022-12-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268956,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
-    },
-    {
-      "album": {
         "name": "A Pentatonix Christmas Deluxe",
         "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
       },
@@ -26402,10 +26428,28 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
-      "duration_ms": 268960,
+      "date_removed": null,
+      "duration_ms": 268937,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
+    },
+    {
+      "album": {
+        "name": "A Pentatonix Christmas",
+        "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2022-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2025-12-14",
+      "duration_ms": 268956,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx"
     },
     {
       "album": {
@@ -30766,6 +30810,28 @@
       "duration_ms": 190434,
       "name": "inati",
       "url": "https://open.spotify.com/track/2mP6y6A4quVs0RqEfrzePh"
+    },
+    {
+      "album": {
+        "name": "INCOGNITO",
+        "url": "https://open.spotify.com/album/5vxY4g17h34gpaeuiMfSo5"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158776,
+      "name": "INCOGNITO",
+      "url": "https://open.spotify.com/track/2uoKEakNdnvTGA5YOgQKZx"
     },
     {
       "album": {
@@ -37316,7 +37382,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -56964,7 +57030,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -58420,7 +58486,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
@@ -59576,7 +59642,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -61022,7 +61088,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
@@ -61040,7 +61106,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - Non-Album Single",
       "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
@@ -64940,7 +65006,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -64958,7 +65024,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

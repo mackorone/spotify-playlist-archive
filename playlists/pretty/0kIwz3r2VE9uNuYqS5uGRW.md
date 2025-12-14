@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 529 likes - 123 songs - 6 hr 23 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 529 likes - 124 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,5 +131,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 121 | [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 |
 | 122 | [4:44AM](https://open.spotify.com/track/4M03RhnysxttvTKqQKE8it) | [SCRAZ](https://open.spotify.com/artist/6hQQsPJ3df9XVj8CMBy5Yk), [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [4:44AM](https://open.spotify.com/album/4TEX17jd6bREevtW8c8LG1) | 3:00 |
 | 123 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 |
+| 124 | [Whiskey](https://open.spotify.com/track/0hnWQ00Z7cVWtcZDXLYq6x) | [Second Story Duo](https://open.spotify.com/artist/41awsJ9Gs9Ah8d5uX37r3h) | [Reflections](https://open.spotify.com/album/4PJ1P80qf9hVpFGchfhy13) | 3:02 |
 
-Snapshot ID: `AAAVgYYGrADi0yHKYEiaCLlFxWPG8s28`
+Snapshot ID: `AAAVgkWGFp2lVtQ9LisMKJg1ptVQ+1xw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,929 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,984 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 32 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 33 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 | 34 | [Monsters](https://open.spotify.com/track/09YIQFg8QleQknfduk71HE) | [AEREA](https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA) | [Monsters](https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7) | 2:52 |
-| 35 | [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 |
-| 36 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
+| 35 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
+| 36 | [Roll the Dice \- Konstantin Sibold Remix](https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Roll the Dice \(Konstantin Sibold Remix\)](https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0) | 4:45 |
 | 37 | [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 |
 | 38 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |
 | 39 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |

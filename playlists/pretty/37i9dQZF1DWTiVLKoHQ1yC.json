@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 250923,
+  "num_followers": 250987,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Eusexua (Anyma Remix)",
-        "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 198808,
-      "name": "Eusexua - Anyma Remix",
-      "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Wander",
         "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 210967,
       "name": "Wander",
       "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Eusexua (Anyma Remix)",
+        "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 198808,
+      "name": "Eusexua - Anyma Remix",
+      "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
     }
   ],
   "unique_name": "Melodic & Euphoric",

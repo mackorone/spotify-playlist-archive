@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,836 likes - 49 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,862 likes - 49 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

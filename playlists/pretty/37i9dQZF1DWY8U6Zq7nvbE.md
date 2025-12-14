@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,438,997 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439,043 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 32 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
 | 33 | [Lift Me Up](https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Lift Me Up](https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ) | 2:49 |
 | 34 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 |
-| 35 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
-| 36 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
+| 35 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
+| 36 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 |
 | 37 | [Fireflies](https://open.spotify.com/track/5sL5bdiNQFH0FKyqE1OduP) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [Fireflies](https://open.spotify.com/album/6W5cgtJFbeWa8EsAC0y7Nl) | 3:40 |
 | 38 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
 | 39 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 |
@@ -84,18 +84,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 74 | [Back to Black](https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi) | [Sky Garden](https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC) | [Back to Black](https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9) | 3:03 |
 | 75 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
 | 76 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 |
-| 77 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 |
-| 78 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 |
+| 77 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 |
+| 78 | [Because the Night](https://open.spotify.com/track/53b0UGKJrMVpyq5yF3Uaru) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Because the Night](https://open.spotify.com/album/3eFo0L4Dt442Fbl0F6S7zD) | 3:10 |
 | 79 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Out Of My Head And Back In My Bed](https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M) | 3:10 |
 | 80 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 |
 | 81 | [Got You \(Where I Want You\)](https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Got You \(Where I Want You\)](https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd) | 3:13 |
-| 82 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 |
-| 83 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 |
+| 82 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 |
+| 83 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 |
 | 84 | [Jealous \(Acoustic\)](https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Jealous \(Acoustic\)](https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg) | 3:31 |
 | 85 | [Dance Monkey](https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Dance Monkey](https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT) | 3:17 |
 | 86 | [Cupid](https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav) | [seaiiana](https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps) | [Cupid](https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E) | 3:01 |
-| 87 | [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 |
-| 88 | [How to save a life \- Acoustic version](https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [How to save a life \- Acoustic version](https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353) | 3:27 |
+| 87 | [How to save a life \- Acoustic version](https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [How to save a life \- Acoustic version](https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353) | 3:27 |
+| 88 | [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 |
 | 89 | [Without You](https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Without You](https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6) | 2:43 |
 | 90 | [Anti\-Hero](https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Anti\-Hero](https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm) | 3:43 |
 | 91 | [I'm Good \(Blue\)](https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I'm Good \(Blue\)](https://open.spotify.com/album/27wqComza4OEQnzS4AniQe) | 2:55 |

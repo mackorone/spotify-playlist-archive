@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,436 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,517 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 45 | [El Huizache](https://open.spotify.com/track/2zL6yRd7BBITUAYBBNnh1n) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:56 |
 | 46 | [Piel de Azúcar](https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 2:41 |
 | 47 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 2:36 |
-| 48 | [Se Me Mamo El Becerro](https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 2](https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt) | 3:58 |
+| 48 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:00 |
 | 49 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
-| 50 | [No Se Ha Dado Cuenta](https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:00 |
+| 50 | [Se Me Mamo El Becerro](https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 2](https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt) | 3:58 |
 | 51 | [Mi Buen Corazón](https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 4:39 |
 | 52 | [No Existe Amor Igual \- Versiones con Guitarras](https://open.spotify.com/track/38xi2dkB1aNLCLxlV9l4su) | [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Contigo](https://open.spotify.com/album/5ulSs304XcWr5uHQhGnHFw) | 2:58 |
 | 53 | [Te vi venir](https://open.spotify.com/track/37ELDkWCHvpfcRHUQCqhEw) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 2:57 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 61 | [Hombre de Rancho](https://open.spotify.com/track/1wroMcCg0IfrL4FzB78Xfe) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de Rancho](https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t) | 3:20 |
 | 62 | [Entre la lluvia y mi llorar](https://open.spotify.com/track/0WCMzGVDGntss0FTQHotNX) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 2:58 |
 | 63 | [Aunque No Seas Para Mi](https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI) | [Los Parientes](https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1) | [Ni Te Imaginas](https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg) | 3:12 |
-| 64 | [Que Te Casas](https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 2:34 |
-| 65 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:05 |
+| 64 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:05 |
+| 65 | [Que Te Casas](https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 2:34 |
 | 66 | [Rama Verde](https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:36 |
 | 67 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
 | 68 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |

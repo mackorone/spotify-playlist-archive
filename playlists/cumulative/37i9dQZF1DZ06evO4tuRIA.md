@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 11 min
+108 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [El Popeye](https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:36 | 2024-01-29 | 2025-10-27 |
 | [EL QUE LA MUEVE](https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 2:27 | 2025-10-27 |  |
 | [El Que Me Cerró la Puerta](https://open.spotify.com/track/1t4U0iirg1JtCJQnRdHuY5) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Que Me Cerró la Puerta](https://open.spotify.com/album/0RxCvHCUdi49gwWg83eIcq) | 3:02 | 2024-06-16 | 2024-10-02 |
-| [El Que Me Cerró la Puerta](https://open.spotify.com/track/3meYy69YC7gKmHgTJGq7Q4) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:02 | 2024-10-02 |  |
+| [El Que Me Cerró la Puerta](https://open.spotify.com/track/3meYy69YC7gKmHgTJGq7Q4) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:02 | 2024-10-02 | 2025-12-14 |
 | [El Ranchero](https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:55 | 2025-02-04 |  |
 | [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 | 2024-03-02 | 2025-02-04 |
 | [El Sapo \(En Vivo\)](https://open.spotify.com/track/2zW9p9utfRxWoT4usDt8jq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes \(En Vivo\)](https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r) | 3:10 | 2025-01-25 | 2025-03-30 |
@@ -67,6 +67,7 @@
 | [Hasta Enfrente](https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Hasta Enfrente](https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD) | 2:44 | 2024-12-08 |  |
 | [Hasta Parece Que Fue Ayer](https://open.spotify.com/track/47dZfQB8ZIltg17pPQn7N7) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo Con Tololoche](https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E) | 3:27 | 2024-01-29 | 2024-08-30 |
 | [Hombre Nuevo](https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Hombre Nuevo](https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d) | 3:21 | 2024-01-29 | 2025-04-03 |
+| [Hoy Vi a Santa Claus Besar a Mamá](https://open.spotify.com/track/1jDR7DohjweArwg58eR3pt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Hoy Vi a Santa Claus Besar a Mamá](https://open.spotify.com/album/3GN78Ey9kjxMDQMa1DfqXK) | 3:33 | 2025-12-14 |  |
 | [Jardin Verde \(feat\. Hijos de Garcia & Fuerza Regida\)](https://open.spotify.com/track/10Je5SzWya58a2eTc8hQa8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Hijos de Garcia](https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:14 | 2024-01-29 | 2024-04-29 |
 | [La Flechiza](https://open.spotify.com/track/25uKb1KGbYRB0QXepM67Oi) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Gabriel Silva](https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:24 | 2024-09-02 | 2024-10-02 |
 | [La Madrugada](https://open.spotify.com/track/1YjkB7y1ab01bX0e7YtE9Q) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [La Madrugada](https://open.spotify.com/album/6bcJJPXLOd0mpMc3eV6NYv) | 2:57 | 2025-03-16 | 2025-09-16 |

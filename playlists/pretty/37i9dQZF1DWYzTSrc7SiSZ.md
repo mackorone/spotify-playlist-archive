@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,112 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,095 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 45 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 46 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 |
 | 47 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 |
-| 48 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
-| 49 | [Duele](https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Leonardo La Croix](https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm) | [Duele](https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl) | 2:46 |
+| 48 | [Duele](https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Leonardo La Croix](https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm) | [Duele](https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl) | 2:46 |
+| 49 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 50 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 |
 | 51 | [¿DÓNDE COMIENZA TU AMOR?](https://open.spotify.com/track/1Bx8DbcW6mSJlRWhmOdpV3) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [¿DÓNDE COMIENZA TU AMOR?](https://open.spotify.com/album/1bieD2ow8uJp6Zf1AAJZZo) | 3:01 |
 | 52 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 67 | [FOK YO](https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:06 |
 | 68 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 |
 | 69 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 |
-| 70 | [tu piel me ha besado](https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M) | [Cariatydes](https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W) | [tu piel me ha besado](https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx) | 3:42 |
-| 71 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 |
+| 70 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 |
+| 71 | [tu piel me ha besado](https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M) | [Cariatydes](https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W) | [tu piel me ha besado](https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx) | 3:42 |
 | 72 | [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 |
 | 73 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
 | 74 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 |

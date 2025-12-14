@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,671 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,688 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 |
+| 1 | [Goodness Of God \- Live](https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 4:57 |
 | 2 | [Holy Forever](https://open.spotify.com/track/45UENol7XHzhtasaMlCXVf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever](https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4) | 9:43 |
 | 3 | [That's My King](https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:11 |
 | 4 | [I Know A Name \(with Cece Winans\)](https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [King Of Hearts](https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw) | 5:39 |
-| 5 | [Goodness Of God \- Live](https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 4:57 |
+| 5 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 |
 | 6 | [Holy Forever \(Live\)](https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever \(Live\)](https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM) | 10:42 |
 | 7 | [Come Jesus Come](https://open.spotify.com/track/5H54ytOuf58gezNGEkXzsp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:58 |
 | 8 | [How Great Is Our God/How Great Thou Art \- Medley](https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 5:27 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 37 | [Fill My Cup](https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 0:51 |
 | 38 | [Pray](https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:30 |
 | 39 | [Alone In The Presence](https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:06 |
-| 40 | [Waging War](https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:20 |
-| 41 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 |
+| 40 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 |
+| 41 | [Waging War](https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:20 |
 | 42 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Gaither Homecoming Classics Vol.1](https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT) | 1:58 |
 | 43 | [King Of Kings \(He's A Wonder\)](https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:24 |
-| 44 | [You're The One](https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:54 |
-| 45 | [He's Concerned](https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 3:26 |
+| 44 | [He's Concerned](https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 3:26 |
+| 45 | [You're The One](https://open.spotify.com/track/2tONY3nhewmWTmVcvZ6HnM) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:54 |
 | 46 | [At The Cross](https://open.spotify.com/track/1IAhLdE6jDVfLyV10b68cG) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [At The Cross](https://open.spotify.com/album/7IYkLgcSw21e6uBRiXJKHI) | 3:39 |
 | 47 | [Looking Back At You](https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:48 |
 | 48 | [Because Of You](https://open.spotify.com/track/2mcVTWPqxa2LVC8LJdD2xJ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:52 |
 | 49 | [Bless His Holy Name](https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:31 |
 | 50 | [Agnus Dei](https://open.spotify.com/track/2NuaEqLJ34II6Av4Dk3A70) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 3:08 |
 
-Snapshot ID: `aToJgAAAAADNyaCOCE8XIEy/aawkdEXC`
+Snapshot ID: `aTtbAAAAAADm0VlR09tW9GloaLIE72+I`

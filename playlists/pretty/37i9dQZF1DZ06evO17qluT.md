@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,940 likes - 44 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,022 likes - 44 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 43 | [Vivos](https://open.spotify.com/track/2xL2K3GgaY8Af0gxwTntcn) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/7FnbBNvZtQ2uDIEj3WXhZx), [Luccas Carlos](https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa), [Nave Beatz](https://open.spotify.com/artist/6lusycMceUnPNXywfiSBF6) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 4:09 |
 | 44 | [Sigo na Sombra](https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:15 |
 
-Snapshot ID: `aToJgAAAAAC7O1Wzxw8s542xk2Udn7Kl`
+Snapshot ID: `aTtbAAAAAABXVUo2xIsEWGJsphs9gdDH`

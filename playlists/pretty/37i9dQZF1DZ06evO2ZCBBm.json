@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 48722,
+  "num_followers": 48729,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADD7dtHHjJBFDL1+4gzqkhX",
+  "snapshot_id": "aTtbAAAAAADGVodVuye6FA8C3zfyFErC",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 252453,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
+      "duration_ms": 120640,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
     },
     {
       "added_at": null,
@@ -631,38 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 120640,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 168891,
-      "name": "I Hate Everybody",
-      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
       },
@@ -672,9 +640,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 248720,
-      "name": "Kissing You Goodbye",
-      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
+      "duration_ms": 252453,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
     },
     {
       "added_at": null,
@@ -699,6 +667,54 @@
       "duration_ms": 196560,
       "name": "Dearly Departed (feat. robbietheused)",
       "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 168891,
+      "name": "I Hate Everybody",
+      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "Kissing You Goodbye",
+      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
     },
     {
       "added_at": null,
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginary Enemy",
-        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 244680,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
+      "duration_ms": 184133,
+      "name": "Slit Your Own Throat",
+      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Slit Your Own Throat",
-      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
       },
@@ -835,22 +835,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+        "name": "NEED",
+        "url": "https://open.spotify.com/album/1aMzqU6B4mJ78P6YBGYkaN"
       },
       "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         },
         {
-          "name": "Mark Hoppus",
-          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
         }
       ],
-      "duration_ms": 171741,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+      "duration_ms": 148642,
+      "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/5Ay2ZYlRNc9KUlhPeJmse4"
     }
   ],
   "unique_name": "This Is The Used",

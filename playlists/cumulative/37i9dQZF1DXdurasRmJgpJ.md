@@ -4,7 +4,7 @@
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-450 songs - 1 day 2 hr 24 min
+451 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 | 2024-07-18 | 2024-10-11 |
 | [ビターバカンス](https://open.spotify.com/track/6DYV1GqwCTrvfPcjeFwjLt) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ビターバカンス](https://open.spotify.com/album/3pyb3jN1Ul9xr4zifPZxCz) | 3:18 | 2024-12-05 | 2025-06-21 |
 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 | 2024-07-18 |  |
+| [ファンファーレ](https://open.spotify.com/track/29nEadzf4CqeLYzcf44zub) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [ファンファーレ](https://open.spotify.com/album/59e5bf9rKTEJkr6wsAccQE) | 3:41 | 2025-12-02 |  |
 | [ブルーアンバー](https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ブルーアンバー](https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0) | 3:27 | 2025-05-13 |  |
 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 | 2024-09-06 |  |
 | [プレゼント](https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [プレゼント](https://open.spotify.com/album/7jf3rMyieGNYzn7iDGskLV) | 4:08 | 2024-10-11 | 2025-01-23 |
@@ -359,8 +360,8 @@
 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 | 2025-05-13 | 2025-08-13 |
 | [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 | 2024-09-27 | 2025-02-07 |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-04-16 | 2024-07-12 |
-| [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 | 2025-08-01 |  |
-| [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 | 2024-01-23 | 2025-06-25 |
+| [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 | 2025-08-01 | 2025-12-14 |
+| [冬と春](https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [冬と春](https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN) | 4:16 | 2024-01-23 |  |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-12-12 | 2023-12-31 |
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-23 | 2024-12-30 |
 | [初ＫＯ勝ち](https://open.spotify.com/track/1CgrzghxC7VBPNHrAPqFab) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [のっち](https://open.spotify.com/artist/1Y1Uce4qIuL8b1fOMpZZoV) | [初ＫＯ勝ち](https://open.spotify.com/album/65MDsIZ8w32fVfbFhz68gH) | 3:31 | 2024-06-06 | 2024-07-05 |
@@ -457,6 +458,6 @@
 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2024-10-26 | 2025-09-19 |
 | [駄叉](https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [駄叉](https://open.spotify.com/album/5qTt4dRAWF5PZt7jxk79I9) | 4:13 | 2024-07-18 | 2024-08-08 |
 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-22 | 2025-03-11 |
-| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-10-04 |  |
+| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-10-04 | 2025-12-14 |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

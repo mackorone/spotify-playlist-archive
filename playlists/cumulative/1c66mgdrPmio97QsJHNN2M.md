@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-600 songs - 1 day 9 hr 20 min
+605 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Bright Lights](https://open.spotify.com/track/79caC7QTXBTXBcNqcreT0X) | [GŁOWA](https://open.spotify.com/artist/7uYJbXkQ0M7ipmJWICdLl9) | [Singular Moments in Time](https://open.spotify.com/album/0xyI8aoYYvYmv3bXs8ZE8X) | 5:13 | 2025-11-25 |  |
 | [Brighter than the sun](https://open.spotify.com/track/3spowjHKymv1fFlybDm1dt) | [Bumblebirdai](https://open.spotify.com/artist/3AZN3Wd2uuuzwcJBJyK8wl) | [Brighter than the sun](https://open.spotify.com/album/7HYVZsmdkIMEdzPnGyHSP2) | 3:28 | 2025-11-19 |  |
 | [Brighter, Inside](https://open.spotify.com/track/278dp2hvYlfhLO1UCxfwcG) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Brighter, Inside](https://open.spotify.com/album/3IDTCJtroXLiuDQgBJ9Cjd) | 3:56 | 2025-10-20 | 2025-11-23 |
+| [Broke \- Instrumental](https://open.spotify.com/track/5hDq0JsMP5HF1843WY09fS) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Broke \- Instrumental](https://open.spotify.com/album/3MCAOHFZli7bcLOyRRhbTR) | 4:10 | 2025-12-13 |  |
 | [Broken \(Psalm 13\)](https://open.spotify.com/track/6qSJZGM4tZaA6Wib4ci1Wq) | [We Who Wrestle](https://open.spotify.com/artist/1pfYB0WLqhlbIBWBp0lR0m) | [Every Breath](https://open.spotify.com/album/49IyajfL869H1mcKFyO4kd) | 4:23 | 2025-10-27 | 2025-11-30 |
 | [Brothers and Sisters \(Stop the Hate\)](https://open.spotify.com/track/4Iyy0mLEmGAYgnHUJ6vdnz) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Brothers and Sisters \(Stop the Hate\)](https://open.spotify.com/album/2wmEwAyjPyMqnx9QNalIQM) | 4:23 | 2025-10-04 |  |
 | [Buried Love](https://open.spotify.com/track/3MFuQz6xJzXV0o4hlcWkhv) | [Even Y](https://open.spotify.com/artist/2LEvhFJcAneAcY6SWXDIBk) | [Buried Love](https://open.spotify.com/album/7IivDtNGNPt190yoCVFPTV) | 2:56 | 2025-10-30 | 2025-12-01 |
@@ -308,6 +309,7 @@
 | [Lost in Your Grace](https://open.spotify.com/track/2HPEKzJ0mRmsv7vkBdX0ws) | [Hope Beasley](https://open.spotify.com/artist/4za7ua1uPGHxEwbxAEAapI) | [I’ve Found My Wings](https://open.spotify.com/album/3UEmfPuCz2S4838lzbLaJF) | 3:35 | 2025-11-05 | 2025-12-07 |
 | [lost my love](https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E) | [Mustafa!](https://open.spotify.com/artist/5pcPIjWVjazBClmhAp7mr4) | [lost my love](https://open.spotify.com/album/7oQ2JJdkZ2enJhA8muW4Cw) | 3:21 | 2025-12-03 |  |
 | [LOVE 2099!](https://open.spotify.com/track/0oQgiZ4SmJn4G7q924NIdB) | [!GNIT](https://open.spotify.com/artist/4jKNcjcuuHtdhndwgWZK4R) | [!G](https://open.spotify.com/album/0NY7Y1w7DCQgEVX4J4yTjj) | 2:49 | 2025-12-07 |  |
+| [Love City](https://open.spotify.com/track/4OCAhNWlSmkrD1DmSSGRRT) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Love City](https://open.spotify.com/album/6v7CaxYtJJnq0BeBFvAPLX) | 2:43 | 2025-12-13 |  |
 | [Love Is a Stranger](https://open.spotify.com/track/3hs7FZwopRhxMeyVVohWP9) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Love Is a Stranger](https://open.spotify.com/album/3mD3ZttYam1p7meTY6QJDJ) | 3:03 | 2025-10-04 |  |
 | [Love The Child In Me](https://open.spotify.com/track/7muZ571mQQwuk5cuCAqPm1) | [Optikz](https://open.spotify.com/artist/5enbAMYzYcOt2rudGLs3T3) | [The Optikz EP](https://open.spotify.com/album/2hvW3oxcZDeABfRJt2SmD8) | 3:46 | 2025-11-11 | 2025-12-13 |
 | [Love Will Find You](https://open.spotify.com/track/40y9PnTjlCJMOXQsyThjZh) | [Violet TV](https://open.spotify.com/artist/5rI3JwMKOlCO7bPoV4ebBI), [Maria Possato](https://open.spotify.com/artist/4XuAJrU0L7oDhgFTqAjN4p) | [Love Will Find You](https://open.spotify.com/album/0aKOkq01xnSoIDhSwaX6aD) | 2:04 | 2025-11-13 |  |
@@ -329,6 +331,7 @@
 | [Masquerade](https://open.spotify.com/track/4UOmzam7Hu6HlHbHrIx5Hg) | [TJ Kidwell](https://open.spotify.com/artist/2NsemkSjtAPqgf57Vl1tpO) | [Masquerade of Me](https://open.spotify.com/album/0vLk7TOQ6eCUQeukDt44Vv) | 3:41 | 2025-11-10 | 2025-12-11 |
 | [MATCHBOX BRIDGE](https://open.spotify.com/track/7vUqcgI02GSxQgKI8abyqC) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b), [R\-Tilla](https://open.spotify.com/artist/1UIANgWXQR40KfezILbrQR) | [MATCHBOX BRIDGE](https://open.spotify.com/album/1g95XKBS5WXRuf3g4gJTpY) | 3:30 | 2025-12-08 |  |
 | [May Sunset](https://open.spotify.com/track/136Q1IiijFsB0dBKD3pLYa) | [Ilia Chkolnik](https://open.spotify.com/artist/020ktVWMg5BAOiYI5B9Ffa) | [May Sunset](https://open.spotify.com/album/6yZolKuA99kELUnkAGvEHt) | 3:37 | 2025-11-26 |  |
+| [Maybe](https://open.spotify.com/track/2t9PVmla7BqnFdSqzjqYP4) | [Amelia](https://open.spotify.com/artist/4VpGlxlUhyKr5cBAkvmIDG) | [Meet Me in the Maybe](https://open.spotify.com/album/7sx92J3QcAUIagioL5pSIb) | 3:01 | 2025-12-13 |  |
 | [Medium Ugly](https://open.spotify.com/track/2hoQ1QWYFoHoxmMCNErCmt) | [Megan Burke](https://open.spotify.com/artist/6hyEvVAoREnUuUEfzOAG7C) | [Medium Ugly](https://open.spotify.com/album/6QAQWfuw2WH0VOXPNpgxm5) | 3:22 | 2025-11-10 | 2025-12-11 |
 | [Melody Rules](https://open.spotify.com/track/0H784Zsy48coFQLHTwthPA) | [Tim McInnes](https://open.spotify.com/artist/0J71GWwjERGNLrEBjOOiQX) | [Melody Rules](https://open.spotify.com/album/0Hsux3OUWvxIkTPhzTWWsm) | 3:00 | 2025-10-24 | 2025-11-26 |
 | [Memories By The Sea](https://open.spotify.com/track/2cQN2GNkJxJrXaIAW4GdJv) | [Gina DiGiorgio](https://open.spotify.com/artist/5g4rQ3oztGj7XljSJ2eHe6), [Ventura Howie](https://open.spotify.com/artist/0EGmRfKAmYr9r9SDt6NgAz), [KATARINA JOVCHEVSKA](https://open.spotify.com/artist/7sbTUP3Ut789sWXF4IxCvm) | [Memories By The Sea](https://open.spotify.com/album/3YOsuX7dyYJ1NIwdPQWfhi) | 2:41 | 2025-10-20 | 2025-11-23 |
@@ -568,6 +571,7 @@
 | [Venom](https://open.spotify.com/track/5lr1O5jLSGnifzxwwMnwoY) | [Paytra](https://open.spotify.com/artist/2OG7pww56UaYyXIf6Agpeg) | [Venom](https://open.spotify.com/album/7aIBqtPzDT6oABeZr1uUfb) | 3:04 | 2025-12-08 |  |
 | [VIENNA WHISPER \(VICE\)](https://open.spotify.com/track/09FPNtlUfHNkRdQks6uWOv) | [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [WILD TYPE](https://open.spotify.com/album/7lrzBhmvK7eKUAdNzp4uNP) | 3:07 | 2025-12-04 |  |
 | [Waist](https://open.spotify.com/track/6gWYJb9O9SPaAgrW8kZtCt) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Waist](https://open.spotify.com/album/634TyUFhrkZ97mvTQj7iI5) | 3:12 | 2025-10-28 | 2025-11-30 |
+| [WAITING](https://open.spotify.com/track/5ye9ksJ0I3fjOv5oRskAYz) | [BRADLEY](https://open.spotify.com/artist/7FTHkjnUKEfp1zZi5WN1rX) | [WAITING](https://open.spotify.com/album/6QyF6hrVnWByHSaXDRT7Ll) | 2:20 | 2025-12-13 |  |
 | [Walking](https://open.spotify.com/track/7zxmi2jmTMKXBlyxyv9sqN) | [TORSEN](https://open.spotify.com/artist/6Te1X0fBMJ1ioYzpgcgytk) | [Walking](https://open.spotify.com/album/1hjrJGrt5ND4SUlXcThwlR) | 2:41 | 2025-12-08 |  |
 | [We Come to You](https://open.spotify.com/track/77DOY6oYX2raJmRjn5fVxL) | [Even the Stones](https://open.spotify.com/artist/61fz1O255Ugkef2PIhI2gB) | [We Come to You](https://open.spotify.com/album/25hpO9dMKQXN3beG8q7xwJ) | 4:29 | 2025-10-19 | 2025-11-23 |
 | [We Had A Good Run](https://open.spotify.com/track/6uSdmQGT9uqOU4nak1nevA) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [We Had A Good Run](https://open.spotify.com/album/2JA8IEGhElcwvNZvd5Apzk) | 3:23 | 2025-11-26 |  |
@@ -598,6 +602,7 @@
 | [Yellow](https://open.spotify.com/track/58pq0rNTKIRAYhRiljdqGJ) | [Electrekated](https://open.spotify.com/artist/1MnywL795Nz1Nxdf6Bsu8m) | [under the shining stars](https://open.spotify.com/album/6oU7qXlxf3XFzmyk5UdHGM) | 4:19 | 2025-11-17 |  |
 | [You Are Amazing](https://open.spotify.com/track/5XSAhdtDQaRZQaUcCTd8XH) | [Enise Tamarugo](https://open.spotify.com/artist/75j44Z6A1bHU5tHmpegRqJ) | [You Are Amazing](https://open.spotify.com/album/7cWnG2NZlZ7qxo4F1o93PC) | 3:33 | 2025-11-12 |  |
 | [You are the Spark](https://open.spotify.com/track/5RfjV0g2ZzIGxNVdciytkD) | [Renato Savoia](https://open.spotify.com/artist/70mc8LTZReg191oZ4ZgtLG) | [You are the Spark](https://open.spotify.com/album/3QDQcYfjrLDXJOikXjBhHX) | 2:59 | 2025-10-20 | 2025-11-23 |
+| [You at First Sight](https://open.spotify.com/track/5Jb8z94wh7eUBUIhaqoKFm) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [You at First Sight](https://open.spotify.com/album/7zGHcgMh4hf5jUm0EgA1z6) | 3:04 | 2025-12-13 |  |
 | [You Don't Love](https://open.spotify.com/track/3iRjF0CZVdqSjK0aRPKs6z) | [Chloé Caroline](https://open.spotify.com/artist/4XVGlRSNTpzNRW63mIFJ8l) | [You Don't Love](https://open.spotify.com/album/2INOurJxJsZHpG3jnC0w13) | 3:42 | 2025-11-17 |  |
 | [You Jump I Jump](https://open.spotify.com/track/532tRmaahHS98o2JgenBUG) | [Aimee Zarder](https://open.spotify.com/artist/6i1vSYTAEFpLPnuEpBrZhY) | [Soulmates Exist After All](https://open.spotify.com/album/02BvI52svra050pnRGeVsd) | 3:14 | 2025-12-06 |  |
 | [YOU LOVE ME?](https://open.spotify.com/track/64r4tI2MGDJr9FrFIOmk59) | [Tairey](https://open.spotify.com/artist/5hqTfJgU0YaqfOhRoD1o3A) | [MAXIMUM PLEASURE](https://open.spotify.com/album/5bUbJyBuWx06CxecBFCYED) | 2:43 | 2025-11-14 |  |

@@ -4,7 +4,7 @@
 
 > atopa risers
 
-58 songs - 2 hr 52 min
+59 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB) | 2:39 | 2025-10-24 |  |
 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 | 2025-10-24 |  |
 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 | 2025-10-24 |  |
-| [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2025-12-05 |  |
+| [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2025-12-05 | 2025-12-14 |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-10-24 |  |
 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2025-10-24 |  |
 | [MY SOUL](https://open.spotify.com/track/2Fef2S4viehsoIRRsGFZvu) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [MY SOUL](https://open.spotify.com/album/5OF2j24aSFySoqK5om2fQ1) | 2:20 | 2025-10-24 | 2025-12-05 |
@@ -44,6 +44,7 @@
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2025-10-24 |  |
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2025-10-24 |  |
 | [Piano](https://open.spotify.com/track/4DaXszE7xeaw9uNCvc9pza) | [Raevin](https://open.spotify.com/artist/1Rn5xVELEoqHc9BPRPwSTv) | [Feelings Of Raevin](https://open.spotify.com/album/57HOVCdbIcATmV3TwUwGic) | 2:40 | 2025-10-24 | 2025-12-05 |
+| [PUSH 2 START](https://open.spotify.com/track/04W1rCBWcbkogGiozt8kIJ) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [PUSH 2 START](https://open.spotify.com/album/4rzpnKgrccF9roaG2ZZSjd) | 2:46 | 2025-12-12 |  |
 | [Put Am on God](https://open.spotify.com/track/6Qw5ZCRSOXLL5WlDb4YkN3) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Put Am on God](https://open.spotify.com/album/5MYUW4xuYLfc5LCFLIxVqc) | 2:39 | 2025-10-24 | 2025-12-06 |
 | [Puul](https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Puul](https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj) | 2:52 | 2025-10-24 |  |
 | [Real Thing](https://open.spotify.com/track/2FkPTIoTRM5oF0IzqdOp9e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Real Thing](https://open.spotify.com/album/3eBBdUae9jnILYuCweK1yA) | 2:28 | 2025-10-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69587,
+  "num_followers": 69585,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADZ1cX8t/equ/d73R9HVQUD",
+  "snapshot_id": "aTtbAAAAAAAXy8m7M1Py6ziBFlN4WpyY",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WLGS",
-        "url": "https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Baby (with Lunay)",
-      "url": "https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 164494,
       "name": "Nena Buena",
       "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw"
     },
     {
       "added_at": null,

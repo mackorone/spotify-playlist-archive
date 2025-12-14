@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Gavin Adcock, The Jack Wharff Band, Maggie Antone and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,001 likes - 108 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,075 likes - 108 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

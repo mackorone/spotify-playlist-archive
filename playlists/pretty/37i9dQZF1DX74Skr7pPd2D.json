@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 48135,
+  "num_followers": 48149,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/3EpJ36yrwkPvlUXKeQa7ca"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 154306,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Mel Torme: Swings Shubert Alley",
@@ -531,22 +547,6 @@
       "duration_ms": 245800,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 154306,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 312133,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Sonny Side Up",
@@ -1315,22 +1331,6 @@
       "duration_ms": 340960,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "High Life",
-        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 312133,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
     },
     {
       "added_at": "2019-10-02 08:54:10",

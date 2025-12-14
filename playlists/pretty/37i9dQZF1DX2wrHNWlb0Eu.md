@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,161 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,168 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 83 | [พิง \(เพลงประกอบละคร กระเช้าสีดา\)](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [พิง \- Single](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 |
 | 84 | [ข้างกัน \(City\)](https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:56 |
 | 85 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
-| 86 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง \- Single](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 |
-| 87 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 |
+| 86 | [ดวงใจ](https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [ดวงใจ \- Single](https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ) | 3:27 |
+| 87 | [ถ้าเธอรักใครคนหนึ่ง OST.บุพเพสันนิวาส 2](https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง \- Single](https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU) | 4:06 |
 | 88 | [ลั่นทม \(เพลงประกอบละคร หอมกลิ่นความรัก\)](https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ลั่นทม \- Single](https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs) | 4:37 |
 | 89 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม \- Single](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 |
-| 90 | [ดวงใจ](https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [ดวงใจ \- Single](https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ) | 3:27 |
+| 90 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 |
 | 91 | [กะทันหัน](https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu) | [Fymme Bongkot](https://open.spotify.com/artist/5DU5PyU8u0JZSRyJdMWgsl), [Ruj Supharuj](https://open.spotify.com/artist/3OBLHdh35n5TrEeYQawkO0), [LOWFAT](https://open.spotify.com/artist/6NqYduReZoJZDuPLNiqqGR) | [All You Need is Love 3](https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD) | 4:40 |
-| 92 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [YOU YOU YOU \- Single](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
-| 93 | [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 |
+| 92 | [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 |
+| 93 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [YOU YOU YOU \- Single](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
 | 94 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/4CTgPJbgNQ031q8HzhTtq2) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/5fFOH4YGk6BS0yXc7SZWtI) | 3:08 |
 | 95 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \- Single](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 |
 | 96 | [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 |

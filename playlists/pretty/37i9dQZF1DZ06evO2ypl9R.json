@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3746,
+  "num_followers": 3752,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAABXkC1P9AwGV5onbmSnbiyn",
+  "snapshot_id": "aTtbAAAAAACj8KtUEyX0XoX4eOYjLWZo",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Thing",
-        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Maiya James",
-          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
-        }
-      ],
-      "duration_ms": 379160,
-      "name": "Same Thing - Vocal Mix",
-      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Beings (Remixes)",
         "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 414247,
       "name": "Human Beings - Atjazz Remix",
       "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Maiya James",
+          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
+        }
+      ],
+      "duration_ms": 379160,
+      "name": "Same Thing - Vocal Mix",
+      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 301713,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 301713,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elements Beyond",
         "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 470506,
       "name": "April",
       "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 182071,
-      "name": "MOSS",
-      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
         "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 425011,
       "name": "Cantos a Ochun et Oya - Juan Valentine Re-Edit",
       "url": "https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 182071,
+      "name": "MOSS",
+      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ache'",
+        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 281604,
+      "name": "Comin' Around",
+      "url": "https://open.spotify.com/track/2TLAATjDGstuELmuUKnfoW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Basic Sketches For Beginners",
         "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
       },
@@ -783,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ache'",
-        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
+        "name": "Natives Tongue",
+        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
       },
       "artists": [
         {
@@ -792,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 281604,
-      "name": "Comin' Around",
-      "url": "https://open.spotify.com/track/2TLAATjDGstuELmuUKnfoW"
+      "duration_ms": 236303,
+      "name": "Natives Tongue",
+      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 258019,
       "name": "Reign",
       "url": "https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natives Tongue",
-        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 236303,
-      "name": "Natives Tongue",
-      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cucumber Sweat",
+        "url": "https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Cucumber Sweat",
+      "url": "https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 514164,
       "name": "Black Woman Cry",
       "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquarian Moon",
-        "url": "https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 400480,
-      "name": "Music For The Gods",
-      "url": "https://open.spotify.com/track/60mWMUdenqnSjEqPVOpomd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,149 likes - 40 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,208 likes - 40 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 28 | [Maajo](https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Synchro System](https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I) | 3:26 |
 | 29 | [Juliana](https://open.spotify.com/track/7II6pBzmOKIwTWZA6EhHjH) | [Tony Okoroji](https://open.spotify.com/artist/3JFUA6La6HVGT8bYYsmucd) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 8:55 |
 | 30 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
-| 31 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
-| 32 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
+| 31 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
+| 32 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
 | 33 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
 | 34 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
 | 35 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |

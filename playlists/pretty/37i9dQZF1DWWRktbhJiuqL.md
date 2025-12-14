@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,029,650 likes - 150 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,029,690 likes - 150 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,15 +103,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 93 | [Living In A Ghost Town](https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Living In A Ghost Town](https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR) | 4:07 |
 | 94 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 |
 | 95 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
-| 96 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
-| 97 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 |
-| 98 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
+| 96 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 |
+| 97 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
+| 98 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
 | 99 | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt, and Mick Mars\)](https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt and Mick Mars\)](https://open.spotify.com/album/4iF02KjL3iDF4lADzaVQqg) | 3:08 |
 | 100 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 101 | [Gods Of Rock N Roll](https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Gods Of Rock N Roll](https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf) | 5:16 |
-| 102 | [Man in the Box](https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ) | 4:44 |
-| 103 | [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 |
-| 104 | [Ten Tonne Skeleton](https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:07 |
+| 102 | [Ten Tonne Skeleton](https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:07 |
+| 103 | [Man in the Box](https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ) | 4:44 |
+| 104 | [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 |
 | 105 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
 | 106 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
 | 107 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI5fbMaBtko.md) - [plain]
 
 > Our editors' picks for the best reggaeton songs of the year! \#SpotifyWrapped Cover: Katteyes, Jere Klein, Lucky Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,988 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,086 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

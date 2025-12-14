@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,183 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,226 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 20 | [Pra Me Conquistar](https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo Que Conquistou o Brasil \- Vol.03](https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3) | 2:58 |
 | 21 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
 | 22 | [Galera da Golada](https://open.spotify.com/track/1nOi7O71UVjCPS4AT1BLDQ) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:31 |
-| 23 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
-| 24 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
+| 23 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
+| 24 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
 | 25 | [Disse Adeus](https://open.spotify.com/track/6naHDFlQZ1TvcPYN0Uasgm) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 4:10 |
 | 26 | [Meteoro](https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:36 |
 | 27 | [Reacender a Chama](https://open.spotify.com/track/3kH39Eb5UCv8Wl81U9sJK9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:43 |
-| 28 | [Tchau Pra Você \- Ao Vivo em Portugal](https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:50 |
-| 29 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
+| 28 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
+| 29 | [Tchau Pra Você \- Ao Vivo em Portugal](https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:50 |
 | 30 | [Eu Vou Recomeçar](https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 2:40 |
 | 31 | [Vem Curtir Com Jackson](https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:49 |
 | 32 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 64 | [Não Deixei De Amar](https://open.spotify.com/track/1F7NChVuwGbrPf7DIQQ9eK) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Não Deixei De Amar](https://open.spotify.com/album/5dEzsBRLiiXgDF7bqUyha9) | 2:42 |
 | 65 | [Haja Paciência](https://open.spotify.com/track/3ZsTuBLM2zCPnMxOGgepZH) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Verão VB 2024](https://open.spotify.com/album/6sBpsha1YNZBbVARh4SZR3) | 2:40 |
 
-Snapshot ID: `AAAAAP5uO9Jgniq8Psji+SjmyShR2Dih`
+Snapshot ID: `AAAAALPmh1KQtkuOpB1phKGkQsfMNSZG`

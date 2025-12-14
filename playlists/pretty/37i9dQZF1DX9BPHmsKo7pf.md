@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Petre Stefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,439 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,427 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

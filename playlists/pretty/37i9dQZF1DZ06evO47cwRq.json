@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2996284,
+  "num_followers": 2996753,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAoanpgM0OJWtGbo7SnjGZX",
+  "snapshot_id": "aTtbAAAAAAAJJDQK2RQ8q99sLaDa7BRP",
   "tracks": [
     {
       "added_at": null,
@@ -591,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
         }
       ],
-      "duration_ms": 339853,
-      "name": "The Catalyst",
-      "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
+      "duration_ms": 169800,
+      "name": "Heavy (feat. Kiiara)",
+      "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
     },
     {
       "added_at": null,
@@ -623,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Light",
-        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Kiiara",
-          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Heavy (feat. Kiiara)",
-      "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
+      "duration_ms": 339853,
+      "name": "The Catalyst",
+      "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
     },
     {
       "added_at": null,

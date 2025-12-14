@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Emre Fel, Tarkan, Ezhel ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,472 likes - 127 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,498 likes - 127 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 31 | [KISS ME](https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [KISS ME](https://open.spotify.com/album/17kOTawNON2BERiDHgPKjQ) | 3:08 |
 | 32 | [MI AMOR](https://open.spotify.com/track/0Fp91RLQckI4QkZQtjcCNC) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [MI AMOR](https://open.spotify.com/album/0LIz3jMkXG41FRhXWfdleu) | 2:32 |
 | 33 | [ecem](https://open.spotify.com/track/4IBN5BQ3S4ciThab2vUOb7) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [ecem](https://open.spotify.com/album/63c17dSprnV3wEyXq18TL2) | 2:28 |
-| 34 | [Yaralarım](https://open.spotify.com/track/6wNEtgz0gYvP0jUxO7DbHS) | [Tülay Maciran](https://open.spotify.com/artist/4j6jsMeLNhbGsukg8ofn92), [Sinan Güngör](https://open.spotify.com/artist/30sJcjMC6XHlKqIMAVjTKk) | [Yaralarım](https://open.spotify.com/album/6BpkNVMMG4BTP8MuymWyN1) | 4:33 |
+| 34 | [Yaralarım Var](https://open.spotify.com/track/6wNEtgz0gYvP0jUxO7DbHS) | [Tülay Maciran](https://open.spotify.com/artist/4j6jsMeLNhbGsukg8ofn92), [Sinan Güngör](https://open.spotify.com/artist/30sJcjMC6XHlKqIMAVjTKk) | [Yaralarım Var](https://open.spotify.com/album/6BpkNVMMG4BTP8MuymWyN1) | 4:33 |
 | 35 | [bugün yarın gel](https://open.spotify.com/track/14hibbGg9QhJKFcqkUjBFQ) | [yunusemre](https://open.spotify.com/artist/0dfex4kZyUbI489BMy0fqK) | [bugün yarın gel](https://open.spotify.com/album/0Kl8JJ41VNX2fzPdZzSwoW) | 2:53 |
 | 36 | [XTRA](https://open.spotify.com/track/7wwVCvJeOukAbjBxeUEboN) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Metth](https://open.spotify.com/artist/6T5EThaaQrfKqzdQ4eRuHf) | [XTRA](https://open.spotify.com/album/3BbLdzKhuqjxLDS2mOGN6O) | 3:39 |
 | 37 | [Neye Yarar](https://open.spotify.com/track/4V93LhhOGcTqjngbQJPrjl) | [Hazar Altın](https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ) | [Neye Yarar](https://open.spotify.com/album/51h9GUSsDMFF3J9EfAPWmS) | 2:50 |

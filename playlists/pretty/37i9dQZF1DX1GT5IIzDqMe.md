@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,534 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,552 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 12 | [Big Fun \(Remastered\)](https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Big Fun \(Remastered\)](https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr) | 3:18 |
 | 13 | [Frisk](https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Frisk](https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb) | 3:11 |
 | 14 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
-| 15 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
-| 16 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
+| 15 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
+| 16 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
 | 17 | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB) | 3:18 |
 | 18 | [World Of Deep](https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:28 |
 | 19 | [Low Life](https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Clocks / Low Life / Go](https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1) | 5:34 |

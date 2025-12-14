@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Macky Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,588 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,608 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 33 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
 | 34 | [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 |
 | 35 | [Do U Feel It Now?](https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Do U Feel It Now?](https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL) | 3:51 |
-| 36 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 |
-| 37 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 36 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 37 | [No Excuses \- Hedex Remix](https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [No Excuses \(Hedex Remix\)](https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4) | 2:43 |
 | 38 | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Nathan Smoker](https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN) | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM) | 2:51 |
 | 39 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 |
 | 40 | [Vandal](https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Vandal](https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml) | 2:41 |

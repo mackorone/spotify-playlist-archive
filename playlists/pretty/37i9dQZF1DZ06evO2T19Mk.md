@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,874 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,915 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 14 | ["The Take Over, The Breaks Over"](https://open.spotify.com/track/3rG8ZkmKHb4Ms6CsSzEITv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:33 |
 | 15 | [Irresistible](https://open.spotify.com/track/3znPiywA0q1VK2jgAZFDoI) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:26 |
 | 16 | [Just One Yesterday](https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:04 |
-| 17 | [Electric Touch \(feat\. Fall Out Boy\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:26 |
-| 18 | [Headfirst Slide Into Cooperstown On A Bad Bet](https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:54 |
+| 17 | [Headfirst Slide Into Cooperstown On A Bad Bet](https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:54 |
+| 18 | [Electric Touch \(feat\. Fall Out Boy\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:26 |
 | 19 | [I'm Like A Lawyer With The Way I'm Always Trying To Get You Off \(Me & You\)](https://open.spotify.com/track/6A9nyMBdNUzVcFHZUEZ71F) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 |
 | 20 | [Alone Together](https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3) | 3:23 |
 | 21 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 49 | [Wilson \(Expensive Mistakes\)](https://open.spotify.com/track/2W6kVW3UZ3hwr4qbfCDp6B) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:36 |
 | 50 | [Dear Future Self \(Hands Up\)](https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Believers Never Die \- Greatest Hits \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 2:50 |
 
-Snapshot ID: `aToJgAAAAAAeAihE2ejWhBEbrbqYIYcg`
+Snapshot ID: `aTtbAAAAAADWmd/sdcE2o6dRpR13k6ck`

@@ -4,7 +4,7 @@
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-135 songs - 7 hr 5 min
+136 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [La Escuela de la Vida](https://open.spotify.com/track/1yplnIFFnaIPgiOOKdlQDa) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:22 | 2022-06-01 | 2025-10-08 |
 | [La Escuela de la Vida](https://open.spotify.com/track/4SWNOnYG8zGt2YSTzx4HkU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/7rCXWWp8dk5w1qiO1WyW0v) | 2:22 | 2025-10-08 |  |
 | [La Gran Pachanga](https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El General](https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78) | 2:35 | 2024-06-02 | 2024-09-27 |
-| [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 | 2025-10-08 |  |
+| [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 | 2025-10-08 | 2025-12-14 |
 | [La Loba del Mar](https://open.spotify.com/track/6ozLwDnOkZBN1yir033PyG) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como una Huella Digital](https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6) | 2:23 | 2022-06-01 | 2025-10-07 |
 | [La Manuelita](https://open.spotify.com/track/4mSRvEUd338ZSDGR4ApCOR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Porque Te Amé \(Vol\. 1\)](https://open.spotify.com/album/11RxvUuFr3iNGo6b3V7wi8) | 3:36 | 2022-06-01 | 2022-10-13 |
 | [La Prieta Linda](https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 3:27 | 2023-06-27 |  |
@@ -130,6 +130,7 @@
 | [Treinta Cartas](https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:28 | 2022-06-01 |  |
 | [Trienta Cartas](https://open.spotify.com/track/2h2e7oQQrXOMFSy4ttLaLU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Exitos En Vivo Vol\. 2](https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW) | 2:37 | 2022-12-02 | 2024-05-25 |
 | [Tu Lo Decidiste](https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Tu Lo Decidiste](https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB) | 3:38 | 2025-05-08 | 2025-09-09 |
+| [Tu Regalo Se Quedó En El Arbolito](https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Tu Regalo Se Quedó En El Arbolito](https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j) | 4:03 | 2025-12-14 |  |
 | [Un Besito](https://open.spotify.com/track/3qNEbFjEci7MJ9O3JLRHTZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 3:55 | 2022-06-25 | 2023-01-04 |
 | [Una Aventura](https://open.spotify.com/track/2W6OFlCUxNinyLVnbIzch8) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección](https://open.spotify.com/album/5Nb8Vdd63qIpNwi9mNl5yH) | 3:32 | 2022-06-01 | 2022-08-28 |
 | [Una Flor Quise Cortar](https://open.spotify.com/track/6AHRob7H24pzadi03Ycnao) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Pa Pistear Volumen 1](https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk) | 2:26 | 2025-03-08 | 2025-04-24 |

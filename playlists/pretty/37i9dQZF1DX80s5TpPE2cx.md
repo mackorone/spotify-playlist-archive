@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,081 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,094 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 50 | [Air](https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:16 |
 | 51 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 |
 | 52 | [China Designer](https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Lagos City Vice](https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5) | 2:52 |
-| 53 | [Mondays](https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [Mondays](https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK) | 2:14 |
-| 54 | [Freaky](https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Freaky](https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h) | 3:57 |
+| 53 | [Freaky](https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Freaky](https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h) | 3:57 |
+| 54 | [Mondays](https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Mafeni](https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs) | [Mondays](https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK) | 2:14 |
 | 55 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 |
 | 56 | [Unruly](https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Unruly](https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T) | 2:33 |
 | 57 | [On My Life](https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [On My Life](https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ) | 2:05 |

@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -7890,7 +7890,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 155492,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
@@ -9100,10 +9100,36 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 152727,
       "name": "Dans Gewoon",
       "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
+    },
+    {
+      "album": {
+        "name": "Z\u00f3 Dan (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZeN7aPktFllZL3jkh9HRg"
+      },
+      "artists": [
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Dans Gewoon",
+      "url": "https://open.spotify.com/track/7aOdTSNgDp6Mtix1oOu2Rs"
     },
     {
       "album": {
@@ -19921,6 +19947,24 @@
     },
     {
       "album": {
+        "name": "In Mijn Hart",
+        "url": "https://open.spotify.com/album/1Px6Mv4OE8cXlcBQoeZGrQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154475,
+      "name": "In Mijn Hart",
+      "url": "https://open.spotify.com/track/2GiENDK9r194HJxo2QuFh6"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
       },
@@ -20258,7 +20302,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -23088,7 +23132,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -41440,7 +41484,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 178577,
       "name": "Voorbestemd",
       "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"
@@ -41694,7 +41738,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 186676,
       "name": "Wacht Op Mij",
       "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
@@ -43266,7 +43310,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 245693,
       "name": "Why Couldn't It Be Christmas Everyday?",
       "url": "https://open.spotify.com/track/4wNl6yUAr6S81XlG4JCPB8"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,289 songs - 2 day 20 hr 47 min
+1,290 songs - 2 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -973,6 +973,7 @@
 | [San Frandisco](https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/1yvc0dwbzh1nGEBk6rOZoc) | 3:05 | 2022-07-14 | 2022-09-15 |
 | [San Frandisco](https://open.spotify.com/track/4KrATQEoEbKAAY7j0kMDBl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/66IfXKLEgsVPqwElkk8aeP) | 3:05 | 2020-05-22\* | 2022-07-29 |
 | [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 | 2024-11-29 | 2025-03-11 |
+| [Satisfaction Skank](https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Satisfaction Skank](https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW) | 3:19 | 2025-12-12 |  |
 | [Saturation](https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Saturation EP](https://open.spotify.com/album/5N07AHUNsDWtPEoVLbFXBb) | 2:53 | 2020-12-27 | 2021-03-23 |
 | [Saturday Love](https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Dino DZ](https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si) | [Saturday Love](https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6) | 2:21 | 2023-05-26 | 2024-04-06 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-13 | 2022-08-15 |
@@ -1060,7 +1061,7 @@
 | [Stephanie](https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw) | [Stephanie](https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk) | 3:08 | 2024-12-06 | 2025-02-08 |
 | [Stephanie \- HNTR Remix](https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Stephanie \(HNTR Remix\)](https://open.spotify.com/album/36ugkxRl0vThlv2ytPo1ZD) | 2:25 | 2025-03-07 |  |
 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 | 2024-10-25 |  |
-| [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 | 2024-09-27 |  |
+| [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 | 2024-09-27 | 2025-12-14 |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2022-04-01 | 2023-04-07 |
 | [Stockholm](https://open.spotify.com/track/1qbfDP2K3YhA02U1KX06UM) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Stockholm](https://open.spotify.com/album/6igOkvOpRiiJkQXj1454v2) | 3:17 | 2020-12-27 | 2021-11-20 |
 | [Strangers \(with Mansionair\)](https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Strangers \(with Mansionair\)](https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ) | 3:37 | 2021-12-17 | 2022-07-30 |

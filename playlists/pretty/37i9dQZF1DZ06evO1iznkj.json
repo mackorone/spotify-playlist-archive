@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 190085,
+  "num_followers": 190245,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACbkB3sBjxpUxFAw7lAzdOc",
+  "snapshot_id": "aTtbAAAAAAADqzWNbyxVleSfWP1i3iyt",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/0ynRwRCJpD7TBk5dizYTiR"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 174812,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/2cYmBbXWopJZDgJX2s4VGL"
     },
     {
       "added_at": null,
@@ -431,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "still prevail",
+      "url": "https://open.spotify.com/track/5ieqvcZfycFIMJnF84D1Du"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -451,22 +447,6 @@
       "duration_ms": 194732,
       "name": "Never Recover (Lil Baby & Gunna, Drake)",
       "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "still prevail",
-      "url": "https://open.spotify.com/track/5ieqvcZfycFIMJnF84D1Du"
     },
     {
       "added_at": null,
@@ -839,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 232727,
-      "name": "Heat (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 193333,
       "name": "back to the moon",
       "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Heat (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck"
     },
     {
       "added_at": null,

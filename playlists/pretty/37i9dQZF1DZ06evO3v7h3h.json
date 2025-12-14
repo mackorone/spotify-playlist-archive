@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46089,
+  "num_followers": 46091,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAChmPdRtaSq2FaJeVqLKP5o",
+  "snapshot_id": "aTtbAAAAAACuNP7KwEpGbv+a61KQft/4",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,30 @@
       "duration_ms": 223488,
       "name": "Bilhete 2.0",
       "url": "https://open.spotify.com/track/2O2E2MTkbJkEJaBlsFsJbd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
+        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 344373,
+      "name": "A mema pra\u00e7a",
+      "url": "https://open.spotify.com/track/6j02jeNHYIiQmEooAaE4kP"
     },
     {
       "added_at": null,
@@ -75,30 +99,6 @@
       "duration_ms": 243370,
       "name": "Ver Em Cores",
       "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
-        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 344373,
-      "name": "A mema pra\u00e7a",
-      "url": "https://open.spotify.com/track/6j02jeNHYIiQmEooAaE4kP"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Ellen Ol\u00e9ria",
-          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
-        }
-      ],
-      "duration_ms": 255914,
-      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
-      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guizo de Cascavel",
         "url": "https://open.spotify.com/album/2N7w7GgMZi5zik4jPOLrHa"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 226026,
       "name": "Pegapacap\u00e1",
       "url": "https://open.spotify.com/track/7MZhs8zhPIEKSs5VKsEs4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Ellen Ol\u00e9ria",
+          "url": "https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B"
+        }
+      ],
+      "duration_ms": 255914,
+      "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
+      "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Segura Seu BO",
-      "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 243424,
       "name": "Jogo S\u00e9rio",
       "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 213145,
+      "name": "Segura Seu BO",
+      "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Linhas Inimigas",
+      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Coragem da Luz",
         "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
       },
@@ -919,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
       },
       "artists": [
         {
@@ -928,9 +944,53 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 162066,
-      "name": "Linhas Inimigas",
-      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 261478,
+      "name": "Um Tom de Azul",
+      "url": "https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "DJ Mr Brown",
+          "url": "https://open.spotify.com/artist/17dJnYNrUDbyUIqXnoF0hu"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "Confundindo S\u00e1bios",
+      "url": "https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww"
     },
     {
       "added_at": null,
@@ -959,42 +1019,6 @@
       "duration_ms": 193416,
       "name": "Depois do Depois - RMX",
       "url": "https://open.spotify.com/track/7jd1NNRTjnE2iaz5TWKZpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 261478,
-      "name": "Um Tom de Azul",
-      "url": "https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -1066,19 +1090,11 @@
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "DJ Mr Brown",
-          "url": "https://open.spotify.com/artist/17dJnYNrUDbyUIqXnoF0hu"
         }
       ],
-      "duration_ms": 238515,
-      "name": "Confundindo S\u00e1bios",
-      "url": "https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww"
+      "duration_ms": 206982,
+      "name": "A Fila Anda",
+      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
     },
     {
       "added_at": null,
@@ -1139,22 +1155,6 @@
       "duration_ms": 280864,
       "name": "Castelos de Papel",
       "url": "https://open.spotify.com/track/4AlsQRbrk5PbKhbIuuuxEt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 206982,
-      "name": "A Fila Anda",
-      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
     }
   ],
   "unique_name": "This Is Rashid",

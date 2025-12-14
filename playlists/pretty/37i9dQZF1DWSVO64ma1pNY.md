@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,502 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,500 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 83 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 |
 | 84 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
 | 85 | [Sitting Confused](https://open.spotify.com/track/0dwcnVpM3DbSWlW11P8wzG) | [Flowers For Emily](https://open.spotify.com/artist/0VhdOT93Owd0K2RhpaqJk5) | [Sitting Confused](https://open.spotify.com/album/3TmTuVp63IEJ8hNBiaAm8e) | 2:45 |
-| 86 | [JOY](https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [JOY](https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG) | 3:46 |
-| 87 | [Wring It Out](https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [Pedals](https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO) | 3:29 |
-| 88 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 |
-| 89 | [Medicine](https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Sunday / Medicine](https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1) | 4:16 |
+| 86 | [Wring It Out](https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [Pedals](https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO) | 3:29 |
+| 87 | [JOY](https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX) | [CHIG](https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i) | [JOY](https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG) | 3:46 |
+| 88 | [Medicine](https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Sunday / Medicine](https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1) | 4:16 |
+| 89 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 |
 | 90 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 |
 | 91 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
-| 92 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |
-| 93 | [Let You Down](https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish](https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58) | 4:10 |
+| 92 | [Let You Down](https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish](https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58) | 4:10 |
+| 93 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |
 | 94 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 |
 | 95 | [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 |
 | 96 | [Two Toned](https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu) | [Deadshowws](https://open.spotify.com/artist/7EuesNfKdlNP6q9kXLGLbU) | [Two Toned // She Said](https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B) | 3:46 |

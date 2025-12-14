@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,773 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,800 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 2 | [Sabre Olvidar](https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32) | [TNT Band](https://open.spotify.com/artist/4ljGaqO3BLQFsZKlV63RLF) | [Discos Bailables](https://open.spotify.com/album/04bxlf3LWGIRIC1b0lZKoI) | 3:56 |
 | 3 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
 | 4 | [Watermelon Man](https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc) | [Poncho Sanchez](https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL), [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Conga Blue](https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf) | 3:45 |
-| 5 | [Evil Ways](https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:40 |
+| 5 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 |
 | 6 | [Tiempo Pa’ Matar](https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 4:59 |
-| 7 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 |
+| 7 | [Evil Ways](https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:40 |
 | 8 | [Descarga Caliente](https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [De Panama A Nueva York](https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR) | 5:23 |
 | 9 | [Lo Atará la Arache](https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:32 |
 | 10 | [José](https://open.spotify.com/track/7yMjkYSTGoqFPsMYd8qi2Q) | [Los Calvos](https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z) | [José](https://open.spotify.com/album/2cGi5V4SM4khnF43D3NOnC) | 3:32 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 32 | [California Sun](https://open.spotify.com/track/6VZZx248WTQ4mligzYLILP) | [Ricardo Ray Orchestra](https://open.spotify.com/artist/3UmPZOpOL6veEtZ0g0J1jo) | [Let's Get Down To The Real Nitty Gritty](https://open.spotify.com/album/269lCCNvG2Nc91rXWh2ICp) | 2:40 |
 | 33 | [El Borracho](https://open.spotify.com/track/5rbhgXOL4AkkMr7A4GU9mJ) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [La Moderna De Siempre](https://open.spotify.com/album/5yuDeyPDVTKLQHtRXa24z7) | 2:38 |
 | 34 | [En Puerta de Tierra](https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g) | [Joe Quijano](https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4) | [Exitos de Oro \(Golden Hits\)](https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH) | 2:27 |
-| 35 | [Gypsy Woman](https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Joe Bataan Anthology](https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv) | 4:06 |
-| 36 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
+| 35 | [I Like It Like That](https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like it Like That](https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ) | 4:25 |
+| 36 | [Gypsy Woman](https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Joe Bataan Anthology](https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv) | 4:06 |
 | 37 | [I'll Be A Happy Man](https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK) | [The Latin Blues Band Featuring Luis Aviles](https://open.spotify.com/artist/5QnFEYXvvMgy6Skex2yNdM), [The Latin Blues Band](https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W) | [Take A Trip Pussycat \(feat\. Luis Aviles\)](https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ) | 3:34 |
 | 38 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 |
 | 39 | [A la la E](https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6) | [Pete Terrace](https://open.spotify.com/artist/1WzIuVArOislB6oLlBkxMP) | [Pachanguerisimo, Vol\. 1](https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq) | 2:24 |

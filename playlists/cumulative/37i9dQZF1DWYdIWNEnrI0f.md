@@ -4,11 +4,12 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-55 songs - 2 hr 44 min
+56 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#02 untitled](https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [\#02 untitled](https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK) | 4:17 | 2025-10-24 |  |
+| [20250327](https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [20250327](https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC) | 2:24 | 2025-12-12 |  |
 | [Abeja](https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sofie's SOS Tape](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) | 3:39 | 2025-10-24 |  |
 | [Atélier](https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO) | [Atélier](https://open.spotify.com/album/6tZ4rSXp5XdyHxIs8kQpWE) | 3:01 | 2025-10-24 |  |
 | [balance](https://open.spotify.com/track/4mJcc7iXKgVP7gZxQs3dNr) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [balance](https://open.spotify.com/album/40ewMDtpcM95qQaPRIPVrN) | 3:07 | 2025-10-24 |  |
@@ -53,7 +54,7 @@
 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 | 2025-10-24 |  |
 | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV) | 4:31 | 2025-10-24 |  |
 | [Stories & Studies](https://open.spotify.com/track/0tKmZJqFwmQ539WrqWrMYM) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Stories & Studies](https://open.spotify.com/album/6GThZMuDzGscijM6iM5dcc) | 1:52 | 2025-10-24 |  |
-| [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2025-10-24 |  |
+| [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2025-10-24 | 2025-12-14 |
 | [Visions of You](https://open.spotify.com/track/1WVcBCMEt5UgvFGTiEbhsn) | [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC), [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Spirit of the Golden Era](https://open.spotify.com/album/345VVBjIO5Ck3bRYmXSGMe) | 1:01 | 2025-10-24 | 2025-11-01 |
 | [Water Flow](https://open.spotify.com/track/2LeF018m9vGgIAirUuOgCr) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Water Flow](https://open.spotify.com/album/7qk8OPhLH17s6PdUxJKxCM) | 2:34 | 2025-10-24 |  |
 | [While You Dooooo \(Extended\)](https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Collections 01](https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi) | 3:27 | 2025-10-24 |  |

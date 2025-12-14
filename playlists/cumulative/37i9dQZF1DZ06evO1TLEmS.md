@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-116 songs - 7 hr 26 min
+117 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Races Are Run](https://open.spotify.com/track/1Of90R6Q9TtVVx2EPnZCwF) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 3:35 | 2024-10-20 | 2024-11-09 |
 | [Redemption Ground](https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 4:46 | 2022-10-12 | 2024-10-04 |
 | [Remember, Remember](https://open.spotify.com/track/2X0imj3VOfDGWXOwaYlChu) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:50 | 2022-09-16 | 2024-07-14 |
-| [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 | 2022-09-16 |  |
+| [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 | 2022-09-16 | 2025-12-14 |
+| [Send My Regards](https://open.spotify.com/track/52RARR33qj7sGt36uCO9Xk) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [What Plans?](https://open.spotify.com/album/15QjPdc8Tazu5gXvZmuRcB) | 4:07 | 2025-12-14 |  |
 | [Shatter Into Form I](https://open.spotify.com/track/6EMoj6E5RIx4i3H3tJFI7V) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 0:46 | 2025-10-12 |  |
 | [Shatter Into Form II](https://open.spotify.com/track/0edZNzTmsogYgDdXVSnRk3) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 0:51 | 2025-10-12 | 2025-10-23 |
 | [Shore](https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ace](https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV) | 5:30 | 2025-10-12 |  |

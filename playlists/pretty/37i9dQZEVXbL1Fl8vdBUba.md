@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,467 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,472 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 28 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 | 29 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 30 | [UWAIE](https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:52 |
-| 31 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
-| 32 | [Se Vá la Vida](https://open.spotify.com/track/7csAIjc6cFGMEyJDdHwxv9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hermanos Aicardi](https://open.spotify.com/artist/1ad7426spDWBAEabgT2iHn) | [Qué Chévere, Vol\. 3](https://open.spotify.com/album/6KrgDGSqKAObr1DqE5fv9l) | 3:38 |
+| 31 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
+| 32 | [Se Va La Vida](https://open.spotify.com/track/2zqdWJxskydGmP0IeCxhsD) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Éxitos De Rodolfo Aicardi, Vol\. 4](https://open.spotify.com/album/1kwvxuaNe1g48e6U7IPTad) | 3:39 |
 | 33 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 |
 | 34 | [Adonay](https://open.spotify.com/track/51PN9C6MlZbHLYWzEYaXff) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Éxitos De Rodolfo Aicardi, Vol\. 1](https://open.spotify.com/album/2nZbI4CGmtsPKHpoQTRkOK) | 3:07 |
 | 35 | [Soltera \- W Sound 01](https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Soltera \(W Sound 01\)](https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [URUS BLUE](https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 3:27 |
 | 50 | [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 |
 
-Snapshot ID: `MM+HeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNDdqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -553,6 +553,46 @@
     },
     {
       "album": {
+        "name": "Fruit Flies",
+        "url": "https://open.spotify.com/album/28WvifoppUEl3lL0iRmxfT"
+      },
+      "artists": [
+        {
+          "name": "Semachos",
+          "url": "https://open.spotify.com/artist/1CG5ZIyrRrIWEBMMu6cvLH"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162884,
+      "name": "Fruit Flies",
+      "url": "https://open.spotify.com/track/6rY8QNp26wvxJIZcOLpLLp"
+    },
+    {
+      "album": {
+        "name": "Gear Shift",
+        "url": "https://open.spotify.com/album/64xWCdkXzE4LJlc2Ly4rhZ"
+      },
+      "artists": [
+        {
+          "name": "SonicSpecter",
+          "url": "https://open.spotify.com/artist/72fdXgZpUfzyrVP8S77xZJ"
+        },
+        {
+          "name": "Delta 89",
+          "url": "https://open.spotify.com/artist/31ooOx9ekZDPZGJFDne9yU"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224095,
+      "name": "Gear Shift",
+      "url": "https://open.spotify.com/track/3Bj56ERbU5174dIOCEv0dZ"
+    },
+    {
+      "album": {
         "name": "Go With The Flow",
         "url": "https://open.spotify.com/album/0NTPzQuAxK1HwURrVlbd4S"
       },

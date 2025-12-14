@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Marcos Witt
 
-269 songs - 17 hr 35 min
+270 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Allá En Belén \- Pista](https://open.spotify.com/track/4tzeOvyRwaQYTLra810GPU) | [Daniel Fraire](https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF) | [Navidad Con Vástago, Vol\. 2](https://open.spotify.com/album/7picko9RD3JTYbdZkpNzz2) | 3:04 | 2021-12-24 | 2024-04-19 |
 | [Allá en el Pesebre](https://open.spotify.com/track/5Suxa6aEsrt4ejClulSvK7) | [Mas Vida Real](https://open.spotify.com/artist/1E6zJooX4xc8NMCpM2cU6x) | [El Regalo de Jesùs](https://open.spotify.com/album/22N1H1kYux0EHW109AfaYv) | 2:53 | 2021-12-24 |  |
 | [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 | 2021-12-24 | 2024-07-30 |
+| [Blanca Navidad](https://open.spotify.com/track/4LUWLcOE81pawH4FAi3UXu) | [Cuarteto Vocal Sabbath](https://open.spotify.com/artist/7stUAI6LTmGJWKaea2TOJo) | [Blanca Navidad](https://open.spotify.com/album/7GoNMSAQcTiPui6V2LcJNe) | 3:58 | 2025-12-12 |  |
 | [Blanca Navidad](https://open.spotify.com/track/460i7EzVcjlmNM7fy2N8gk) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Blanca Navidad](https://open.spotify.com/album/3vDRQj8aNwIj3Yjk4SgkhM) | 2:24 | 2022-11-26 |  |
 | [Blanca Navidad](https://open.spotify.com/track/6dLYDxIKy3kMj8Dfx5kqS7) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/1KM8kjXX0KdfcGCj3iDgiG) | 4:07 | 2021-12-24 | 2022-07-29 |
 | [Blanca Navidad](https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Tiempo de Navidad](https://open.spotify.com/album/24oEKVhOhLL7WaiALZjwbP) | 4:07 | 2021-12-24 | 2024-04-19 |
@@ -130,7 +131,7 @@
 | [Hoy puede ser Navidad](https://open.spotify.com/track/09C7fTa3TJuIi8mOv163yw) | [Ríos de Vida](https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h), [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/album/0ZlxVLjxem18Yk5WkiYswK) | 5:28 | 2022-12-10 | 2023-03-23 |
 | [Hoy Puede Ser Navidad](https://open.spotify.com/track/1WTqYoiusgeMYeOeGz4xSi) | [Ríos de Vida](https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h), [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD), [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/album/7AAySYmxfLbTfxTNGhR3e0) | 5:28 | 2021-12-24 | 2024-12-14 |
 | [Jesús Es Navidad](https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB) | [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Jesús Es Navidad](https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6) | 2:37 | 2024-11-29 |  |
-| [Jesús Nació](https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 2:59 | 2021-12-24 |  |
+| [Jesús Nació](https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Llegó La Navidad](https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya) | 2:59 | 2021-12-24 | 2025-12-14 |
 | [Jesús Nació](https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC) | [Nxtwave](https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm) | [Jesús Nació](https://open.spotify.com/album/4a9bQgsXGA1MA6iEHF8lPR) | 3:48 | 2021-12-24 |  |
 | [Jesús Nació](https://open.spotify.com/track/1HKw8juIvBsEZfZ15YK1dG) | [Ríos de Vida](https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h), [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD), [Villancicos](https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq) | [Villancicos de Navidad y Canciones de Navidad](https://open.spotify.com/album/0ZlxVLjxem18Yk5WkiYswK) | 6:40 | 2023-12-15 | 2025-10-27 |
 | [La Estrella](https://open.spotify.com/track/2bAOPA1ys7TqGTreNb8icO) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [La Estrella](https://open.spotify.com/album/0TpbxHTKQ1LduJLtlwg2Ze) | 3:41 | 2021-12-24 |  |

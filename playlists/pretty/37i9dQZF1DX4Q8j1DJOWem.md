@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ไฮไลท์ RADAR Thailand ปี 2025 โดย Spotify Editor\. ปก: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,793 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,797 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [เวลาไม่เยียวยา](https://open.spotify.com/track/2XFImI07ekwDgnkDeJkJtk) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [Like You Never Left](https://open.spotify.com/album/33UVHOkjjuWshFXOwMKTNP) | 3:59 |
 | 50 | [เพลงที่ไม่มีคนฮัม \(NO HUM\)](https://open.spotify.com/track/1Vk0H2sb6hHY4mE0eDizAu) | [Hunsick](https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv) | [เพลงที่ไม่มีคนฮัม \(NO HUM\)](https://open.spotify.com/album/0oZhuQp7SunUQpwBqgz8Fp) | 3:09 |
 
-Snapshot ID: `AAAAABmhzNIHCt35sa7jl3Yyul4RiJTd`
+Snapshot ID: `AAAAALnE7k1ZjtOKVC1TcwiTGpwQUfst`

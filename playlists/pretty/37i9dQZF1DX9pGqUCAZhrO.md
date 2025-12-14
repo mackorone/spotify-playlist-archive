@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pGqUCAZhrO.md) - [plain]
 
 > In the end, it's all love\. Listen to the official playlist inspired by the final season of Bel\-Air, streaming now exclusively on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,783 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,795 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

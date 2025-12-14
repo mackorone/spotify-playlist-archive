@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Fido, Khaid, Nektunez, TxC, 21Savage and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,470 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,539 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 49 | [The Boys](https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Boys](https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu) | 3:47 |
 | 50 | [Higher](https://open.spotify.com/track/0eszwyvJZq4o9NRVabRHS6) | [Dove Nicol](https://open.spotify.com/artist/4EivwNwx6JdqaTRF9yT89Q) | [Dove Nicol](https://open.spotify.com/album/0YcPsqbCp8kcJo2zzwpIJQ) | 2:34 |
 | 51 | [Afro Smooth](https://open.spotify.com/track/0t1PHsyWzP1smyLRolTf1c) | [Bubunaé](https://open.spotify.com/artist/7BP4cfASLxOh3yloYjJAk3) | [Afro Vibes](https://open.spotify.com/album/5ApDoSxA2hYBVrsvHc3mDv) | 3:17 |
-| 52 | [Ngisize](https://open.spotify.com/track/6JPfOYc8a8whAFhjEMNwdA) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Konke](https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU), [Ticozet](https://open.spotify.com/artist/4zolIbF49J60w0tA2TKvEJ) | [Xigubu](https://open.spotify.com/album/6t0RBt8Ae5khWhaQhOpRgD) | 6:46 |
+| 52 | [Ngisize](https://open.spotify.com/track/6JPfOYc8a8whAFhjEMNwdA) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf), [Konke](https://open.spotify.com/artist/5perSoW1Lo1rJJgyKvIMrU), [Ticozet](https://open.spotify.com/artist/4zolIbF49J60w0tA2TKvEJ) | [Xigubu](https://open.spotify.com/album/6t0RBt8Ae5khWhaQhOpRgD) | 6:46 |
 | 53 | [MARBLE ZONE \- Spotify Singles](https://open.spotify.com/track/4ExEyYveJq0222GvTrWMGb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [MARBLE ZONE \(Spotify Singles\)](https://open.spotify.com/album/4MrxvRXDmRFSfHwsz5PWX7) | 2:39 |
 | 54 | [Full Sete \(feat\. Mulest Vankay, Toss, LeeMcKrazy & Mdeshkayro\)](https://open.spotify.com/track/3ZHUBiVvwPvSeCOBQ9ttah) | [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Mulest Vankay](https://open.spotify.com/artist/3xqiosg5nLMwVd8w3lO5li), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Mdeshkayro](https://open.spotify.com/artist/2lIjcEyKmYOFm92ewg11o8) | [Piato \(Chapter 1\)](https://open.spotify.com/album/321RhSmIYhwQf72S6LbC7G) | 6:20 |
 | 55 | [ALLEZ LES LIONS](https://open.spotify.com/track/5Cs1dUkyVc2jH2BT3eR07a) | [Barros](https://open.spotify.com/artist/3nCLhfRJAqY7NQE3jn3xJ9), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA) | [ALLEZ LES LIONS](https://open.spotify.com/album/1hRdpCaMp76wsvTXkjyOm0) | 2:51 |

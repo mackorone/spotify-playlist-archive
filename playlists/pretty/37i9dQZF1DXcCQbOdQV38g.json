@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60053,
+  "num_followers": 60050,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Slapeloosheid",
         "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 177142,
       "name": "Slapeloosheid",
       "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Stiekem ft. Goldband",
-        "url": "https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G"
-      },
-      "artists": [
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        },
-        {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Stiekem",
-      "url": "https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Doe Je Dansie",
         "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
       },
@@ -575,22 +555,6 @@
       "duration_ms": 148000,
       "name": "Doe Je Dansie",
       "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -615,6 +579,42 @@
       "duration_ms": 167209,
       "name": "Missen Zou",
       "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Stiekem ft. Goldband",
+        "url": "https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        },
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Stiekem",
+      "url": "https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Stapje",
         "url": "https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4"
       },
@@ -803,22 +787,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Laat Me Lekker Leven",
-        "url": "https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 191590,
-      "name": "Laat Me Lekker Leven",
-      "url": "https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "HJB",
         "url": "https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D"
       },
@@ -839,22 +807,34 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Lars",
-        "url": "https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX"
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
       },
       "artists": [
         {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 181731,
-      "name": "In De Schuur",
-      "url": "https://open.spotify.com/track/4d2NiGtCaVrMihMfarLE8o"
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Laat Me Lekker Leven",
+        "url": "https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 191590,
+      "name": "Laat Me Lekker Leven",
+      "url": "https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -879,6 +859,26 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Lars",
+        "url": "https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 181731,
+      "name": "In De Schuur",
+      "url": "https://open.spotify.com/track/4d2NiGtCaVrMihMfarLE8o"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "M\u00e1s M\u00e1s M\u00e1s",
         "url": "https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Zomernacht In Griekenland",
-        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
-      },
-      "artists": [
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 167002,
-      "name": "Zomernacht In Griekenland",
-      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Nooit Meer Regen",
         "url": "https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 200717,
       "name": "Nooit Meer Regen",
       "url": "https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Zomernacht In Griekenland",
+        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "Zomernacht In Griekenland",
+      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Se\u00f1orita, Meisje van de nacht",
+        "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 176012,
+      "name": "Se\u00f1orita, Meisje van de nacht",
+      "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Nog Geen Si\u00ebsta",
         "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Se\u00f1orita, Meisje van de nacht",
-        "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
+        "name": "Ontspanje",
+        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
       },
       "artists": [
         {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         }
       ],
-      "duration_ms": 176012,
-      "name": "Se\u00f1orita, Meisje van de nacht",
-      "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
+      "duration_ms": 160123,
+      "name": "Ontspanje",
+      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1075,22 +1091,6 @@
       "duration_ms": 156000,
       "name": "Zij Wil Mij",
       "url": "https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Ontspanje",
-        "url": "https://open.spotify.com/album/0qrftwHhC9K9rDHewAQB9N"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 160123,
-      "name": "Ontspanje",
-      "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1131,6 +1131,38 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Als Ik Naar Malaga Ga",
+        "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "duration_ms": 143203,
+      "name": "Als Ik Naar Malaga Ga",
+      "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Eiland",
+        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
+      },
+      "artists": [
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "duration_ms": 126239,
+      "name": "Eiland",
+      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Eenzame Nacht",
         "url": "https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb"
       },
@@ -1159,38 +1191,6 @@
       "duration_ms": 152827,
       "name": "Hypnose",
       "url": "https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Eiland",
-        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
-      },
-      "artists": [
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 126239,
-      "name": "Eiland",
-      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Als Ik Naar Malaga Ga",
-        "url": "https://open.spotify.com/album/68P4kgJpgPfw0FflrDVh5X"
-      },
-      "artists": [
-        {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
-        }
-      ],
-      "duration_ms": 143203,
-      "name": "Als Ik Naar Malaga Ga",
-      "url": "https://open.spotify.com/track/7xkDCLLtAYQ4nHjOIKXnZ6"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Het Lijkt Hier Wel Ibiza",
+        "url": "https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg"
+      },
+      "artists": [
+        {
+          "name": "Jaman",
+          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 146514,
+      "name": "Het Lijkt Hier Wel Ibiza",
+      "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "(Die Man Is) Verliefd [Bonte Carlo - Holiday Remix]",
         "url": "https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 205448,
       "name": "(Die Man Is) Verliefd - Bonte Carlo - Holiday Remix",
       "url": "https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Het Lijkt Hier Wel Ibiza",
-        "url": "https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg"
-      },
-      "artists": [
-        {
-          "name": "Jaman",
-          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 146514,
-      "name": "Het Lijkt Hier Wel Ibiza",
-      "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
     },
     {
       "added_at": "2025-10-16 22:00:34",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,949 songs - 4 day 10 hr 41 min
+1,950 songs - 4 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-04-21 | 2023-02-01 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-25 | 2024-09-01 |
 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-22 | 2025-07-25 |
+| [BIG VOID](https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz) | 3:41 | 2025-12-13 |  |
 | [Big world](https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 3:54 | 2023-01-02 | 2023-01-06 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-10-29 | 2022-11-01 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/3pSziKVQ331bLbgHYssZxS) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Billyeoon Goyangi \(Do the Dance\) \(Remixes\)](https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni) | 3:08 | 2025-06-28 | 2025-07-10 |
@@ -324,7 +325,7 @@
 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:45 | 2023-09-07 | 2023-09-14 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2025-03-24 |  |
 | [Closer \(with Paul Blanco, Mahalia\)](https://open.spotify.com/track/5AmBIWCnsLscPSYsfCApBy) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:16 | 2022-12-03 | 2022-12-16 |
-| [Closer Than This](https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:43 | 2024-07-20 |  |
+| [Closer Than This](https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:43 | 2024-07-20 | 2025-12-14 |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-23 | 2024-07-21 |
 | [Closer to You \(feat\. Major Lazer\)](https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:50 | 2023-11-04 | 2024-06-09 |
 | [Coca Cola Red \(Feat\. oygli\)](https://open.spotify.com/track/0Tc5rJmMphUeuOp1mTUPAu) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 3:20 | 2023-07-04 | 2023-07-10 |

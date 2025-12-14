@@ -810,7 +810,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 242500,
       "name": "Chuck Taylors - Live from the HIGH AND ALIVE WORLD TOUR",
       "url": "https://open.spotify.com/track/5YdCM7VdYtorz1pUBW95Vd"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 233849,
       "name": "Cue Country Roads - Live From The Steel City",
       "url": "https://open.spotify.com/track/4Ujz3Y8BmoOo1FE0YbtuQc"
@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Hate How You Look (Live From London)",
+        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203375,
+      "name": "Hate How You Look - Live From London",
+      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
+    },
+    {
+      "album": {
         "name": "All My Homies Hate Ticketmaster (Live from Red Rocks)",
         "url": "https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 230970,
       "name": "Humble And Kind - Live",
       "url": "https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 976253,
       "name": "It Ain't My Fault - Live",
       "url": "https://open.spotify.com/track/68Dz3MBc6FblfGmMhpeLcg"
@@ -4136,6 +4154,24 @@
       "duration_ms": 281746,
       "name": "you don't deserve a country song - Live from the Ryman",
       "url": "https://open.spotify.com/track/5L7WGjIElVTxfZ7gXYYeg0"
+    },
+    {
+      "album": {
+        "name": "HIGH AND A(LIVE)",
+        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
     },
     {
       "album": {

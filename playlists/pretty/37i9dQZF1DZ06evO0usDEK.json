@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48898,
+  "num_followers": 48902,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADz3Q7GmOoOZZU6S9nq9fMI",
+  "snapshot_id": "aTtbAAAAAADTBfcDier4qyk3ZO3F/PjN",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 316586,
-      "name": "Compared to What",
-      "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best of Roberta Flack",
         "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 287853,
       "name": "Killing Me Softly With His Song - 2006 Remaster",
       "url": "https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 316586,
+      "name": "Compared to What",
+      "url": "https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 248213,
-      "name": "Hey, That's No Way to Say Goodbye",
-      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack Featuring Donny Hathaway",
         "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 254453,
       "name": "You Are My Heaven (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/5nM4eEn2NYvJFTvoIahTLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 248213,
+      "name": "Hey, That's No Way to Say Goodbye",
+      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 308240,
-      "name": "Tryin' Times",
-      "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set the Night to Music",
         "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
       },
@@ -399,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 243360,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
+      "duration_ms": 308240,
+      "name": "Tryin' Times",
+      "url": "https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB"
     },
     {
       "added_at": null,
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 169693,
-      "name": "I Wanted It Too",
-      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
+      "duration_ms": 243360,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
     },
     {
       "added_at": null,
@@ -467,6 +451,38 @@
       "duration_ms": 319893,
       "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
       "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "I Wanted It Too",
+      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299693,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
       "duration_ms": 224733,
       "name": "'Till the Morning Comes",
       "url": "https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299693,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Some Gospel According to Matthew",
-      "url": "https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm the One",
         "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 238506,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Some Gospel According to Matthew",
+      "url": "https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RENDEZVOUS (2017 Remaster)",
         "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 266160,
       "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3"
     }
   ],
   "unique_name": "This Is Roberta Flack",

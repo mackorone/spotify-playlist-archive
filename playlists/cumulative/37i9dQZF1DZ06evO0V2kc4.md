@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-123 songs - 7 hr 25 min
+124 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,10 +88,11 @@
 | [Mary Hamilton](https://open.spotify.com/track/7rL6dZzydhWSimA6TouJ6K) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 5:57 | 2022-10-02 | 2022-10-05 |
 | [Never Dreamed You'd Leave In Summer](https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 2:45 | 2022-09-22 |  |
 | [No Expectations](https://open.spotify.com/track/3bWxltjraNlnSdX4bpEkPm) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:50 | 2022-09-22 | 2022-12-17 |
+| [No Kings \(feat\. Joan Baez\)](https://open.spotify.com/track/3TQeJtbJjv8Q4V0a7f5NvT) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [No Kings \(feat\. Joan Baez\)](https://open.spotify.com/album/6XJBVOUONYdjZWLio9emIz) | 2:51 | 2025-12-14 |  |
 | [No Nos Moveran](https://open.spotify.com/track/2lAgIXk4uz8VRpUEevxDxO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:41 | 2022-09-22 | 2022-11-30 |
 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 | 2023-05-12 | 2025-12-05 |
 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 | 2022-09-22 | 2024-03-18 |
-| [North Country Blues](https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 5:02 | 2025-12-05 |  |
+| [North Country Blues](https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 5:02 | 2025-12-05 | 2025-12-14 |
 | [O Brother!](https://open.spotify.com/track/3jCJ7aVeifPBOz85jocPFo) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gulf Winds](https://open.spotify.com/album/54L1BlmPFkgJ2HznanXsRG) | 3:20 | 2025-04-07 | 2025-04-29 |
 | [Oh, Freedom \- Live At Newport](https://open.spotify.com/track/0E7aHyjcnIrIZ5XhI5fuiO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 3:15 | 2025-02-01 | 2025-02-15 |
 | [One Too Many Mornings](https://open.spotify.com/track/2EEwfPipVVar4QgttlX7UR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:13 | 2025-03-23 | 2025-11-26 |

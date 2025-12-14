@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Brett Kissel
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,416 likes - 107 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,419 likes - 107 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

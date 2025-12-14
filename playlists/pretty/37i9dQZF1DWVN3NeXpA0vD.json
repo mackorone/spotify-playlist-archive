@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 173640,
       "name": "AOK",
       "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Bones (feat. OneRepublic)",
-        "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 205792,
-      "name": "Bones (feat. OneRepublic)",
-      "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Love Me Less (feat. Quinn XCII)",
         "url": "https://open.spotify.com/album/0BHgyJ3dblyBOmxV8pRmGg"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 177669,
       "name": "Love Me Less (feat. Quinn XCII)",
       "url": "https://open.spotify.com/track/2tOOcDDYkh0PSjr6GwPEAJ"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Bones (feat. OneRepublic)",
+        "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 205792,
+      "name": "Bones (feat. OneRepublic)",
+      "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 211784,
-      "name": "Still Learning",
-      "url": "https://open.spotify.com/track/2Mfv5HaqnI18Q9JRv9hqnn"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "All The Lies",
         "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 211784,
+      "name": "Still Learning",
+      "url": "https://open.spotify.com/track/2Mfv5HaqnI18Q9JRv9hqnn"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Sixteen",
         "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
       },
@@ -1575,22 +1575,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Can We Pretend (feat. Cash Cash)",
-        "url": "https://open.spotify.com/album/1CXDHsSaA7UgUPvRm2AVRH"
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 224360,
-      "name": "Can We Pretend (feat. Cash Cash)",
-      "url": "https://open.spotify.com/track/3O0e0LHTpza0rYVDbZfQ4r"
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1615,22 +1615,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+        "name": "Can We Pretend (feat. Cash Cash)",
+        "url": "https://open.spotify.com/album/1CXDHsSaA7UgUPvRm2AVRH"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         },
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
         }
       ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+      "duration_ms": 224360,
+      "name": "Can We Pretend (feat. Cash Cash)",
+      "url": "https://open.spotify.com/track/3O0e0LHTpza0rYVDbZfQ4r"
     },
     {
       "added_at": "2024-07-03 14:32:39",

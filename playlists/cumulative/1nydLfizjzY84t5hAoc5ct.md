@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-82 songs - 5 hr 4 min
+84 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,8 @@
 | [Fever](https://open.spotify.com/track/2CaeoDenCPTMU1ilc4f19z) | [CRASHKID!](https://open.spotify.com/artist/79gH2g5UhKfGvukkk3Mria) | [Fever](https://open.spotify.com/album/37Hg5Pzk6T83nxMSBy4ivP) | 3:15 | 2025-11-16 | 2025-11-24 |
 | [Five After Dark](https://open.spotify.com/track/7aA340rxW0YcyEvaKhgkpw) | [Diving Horse](https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9) | [Five After Dark](https://open.spotify.com/album/0F8NX9CDfofzju2QJUM6mn) | 4:02 | 2025-11-16 |  |
 | [Forever and a Day](https://open.spotify.com/track/1f3ENIIFLd67DajPERsgTH) | [Sonnet](https://open.spotify.com/artist/3ls4dfFZj167KBeapbQ6lv) | [Forever and a Day](https://open.spotify.com/album/4ePq5YLi7cb9dVw8RNijFL) | 3:07 | 2025-11-16 | 2025-11-24 |
+| [Fruit Flies](https://open.spotify.com/track/6rY8QNp26wvxJIZcOLpLLp) | [Semachos](https://open.spotify.com/artist/1CG5ZIyrRrIWEBMMu6cvLH) | [Fruit Flies](https://open.spotify.com/album/28WvifoppUEl3lL0iRmxfT) | 2:42 | 2025-12-13 |  |
+| [Gear Shift](https://open.spotify.com/track/3Bj56ERbU5174dIOCEv0dZ) | [SonicSpecter](https://open.spotify.com/artist/72fdXgZpUfzyrVP8S77xZJ), [Delta 89](https://open.spotify.com/artist/31ooOx9ekZDPZGJFDne9yU) | [Gear Shift](https://open.spotify.com/album/64xWCdkXzE4LJlc2Ly4rhZ) | 3:44 | 2025-12-13 |  |
 | [Go With The Flow](https://open.spotify.com/track/2CPEnBK8DzLrIWOKBeRSNF) | [Vagrant Real Estate](https://open.spotify.com/artist/6AxpNvP90GRajaB0TOYY9H), [Jackill](https://open.spotify.com/artist/0FJnIjCk83jmkwEOh8Jhsx), [Katherine Aly](https://open.spotify.com/artist/424I82CapATJ5wpqqvPFDX), [Aiitee](https://open.spotify.com/artist/4GhW4AQoDwme5T37OlpMAM), [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv), [Danny Cliff](https://open.spotify.com/artist/7mauGgfGsbfIgiSlRDLCft) | [Go With The Flow](https://open.spotify.com/album/0NTPzQuAxK1HwURrVlbd4S) | 4:23 | 2025-11-16 | 2025-11-24 |
 | [Gods Among Us](https://open.spotify.com/track/0L4DwuyfeJXxqtMgtQQF1P) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Gods Among Us](https://open.spotify.com/album/6wVmq7Wfn65mmXkxzCX9GD) | 3:19 | 2025-11-16 | 2025-11-24 |
 | [Half Life](https://open.spotify.com/track/2Y6or9DSLWcgZH4OjsIG4u) | [The Great Pleasure](https://open.spotify.com/artist/4rtT6yqwmkxRfG366YZjUU) | [Half Life](https://open.spotify.com/album/3JDd6ZWfo8AepAJVIFu92F) | 5:00 | 2025-11-16 |  |

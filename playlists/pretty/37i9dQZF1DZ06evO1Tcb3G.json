@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 509162,
+  "num_followers": 509307,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAAF/o7M/8kmzvr047U2soPB",
+  "snapshot_id": "aTtbAAAAAAAmaLv+9LkPgl1mKKzh9Yap",
   "tracks": [
     {
       "added_at": null,
@@ -120,15 +120,15 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 246973,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/2kXjRzwcTZhGLnVjUud8l3"
+      "duration_ms": 254160,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 217675,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/27U4sg4Z7tCnQ55jETIXDA"
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
     },
     {
       "added_at": null,
@@ -184,15 +184,15 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 254160,
-      "name": "White Blank Page",
-      "url": "https://open.spotify.com/track/6MAev6g8Vz8UF7QfFlb6JD"
+      "duration_ms": 246973,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/2kXjRzwcTZhGLnVjUud8l3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18"
+      "duration_ms": 217675,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/27U4sg4Z7tCnQ55jETIXDA"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Indomable",
         "url": "https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day of the Dead",
-        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delta",
         "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 276780,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4sUkoGq1ln1KmfxJEiOkUK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 271025,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
     },
     {
       "added_at": null,

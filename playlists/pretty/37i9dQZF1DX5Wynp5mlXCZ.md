@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Irina Rimes & Jerry Heil
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,954 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,965 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 57 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
 | 58 | [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 |
 | 59 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
-| 60 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 |
+| 60 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 61 | [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 |
-| 62 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 62 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 |
 | 63 | [ЧОМУ](https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [ЧОМУ](https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY) | 2:44 |
 | 64 | [Earth \(Dradada\)](https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Earth \(Dradada\)](https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me) | 3:29 |
 | 65 | [Чай \- «Ховаючи колишню»](https://open.spotify.com/track/7EbBBVkxknlzRi20czbAws) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Чай \(«Ховаючи колишню»\)](https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB) | 3:09 |
 | 66 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
 | 67 | [Небесами](https://open.spotify.com/track/1sEXmH4Ch0o6p2EETkgErS) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Небесами](https://open.spotify.com/album/6fa4E3bm7kDmxKomRw0nyv) | 3:07 |
-| 68 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 |
-| 69 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
-| 70 | [If you know what I mean](https://open.spotify.com/track/6LOGjbEFqTrjfNsGgtd1eC) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Вічно Танцююча Людина](https://open.spotify.com/album/5gBKxnzXdF8eR8M5yos90c) | 3:37 |
+| 68 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
+| 69 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 |
+| 70 | [Галіція](https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Галіція](https://open.spotify.com/album/7e4CpwI6XNosDUS6bpYz6r) | 3:22 |
 
 Snapshot ID: `AAAAAG7n1j9506mUkW77ulCbgpKsIK5c`

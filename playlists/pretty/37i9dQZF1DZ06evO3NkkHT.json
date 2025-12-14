@@ -1,33 +1,13 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 72139,
+  "num_followers": 72222,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAAB7fdLa2Zpfp3RHg0T+4Qro",
+  "snapshot_id": "aTtbAAAAAAAmqDgLrdWG6wbgD7CFJqTO",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Cold (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
-    },
     {
       "added_at": null,
       "album": {
@@ -119,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
       },
       "artists": [
         {
@@ -128,13 +108,13 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         },
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Holy Ground (feat. Jessie Murph)",
-      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
+      "duration_ms": 188800,
+      "name": "Cold (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
     },
     {
       "added_at": null,
@@ -167,6 +147,26 @@
       "duration_ms": 94426,
       "name": "Back On My BS",
       "url": "https://open.spotify.com/track/7hrFCoyWwKep7qp1lP4oga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Holy Ground (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
     },
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cottonwood 2 (Deluxe 2.0)",
-        "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 149449,
-      "name": "PISTOL PACCIN",
-      "url": "https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 122266,
       "name": "From The Bottom",
       "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cottonwood 2 (Deluxe 2.0)",
+        "url": "https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 149449,
+      "name": "PISTOL PACCIN",
+      "url": "https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 108133,
-      "name": "Therapy Session",
-      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good To Me",
         "url": "https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 208583,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 108133,
+      "name": "Therapy Session",
+      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
     },
     {
       "added_at": null,

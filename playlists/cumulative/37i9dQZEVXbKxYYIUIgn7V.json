@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 153698,
       "name": "Aff im Kopf",
       "url": "https://open.spotify.com/track/21nuXb9yhcyA91gRVVBpfI"
@@ -7652,7 +7652,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 142857,
       "name": "Burn",
       "url": "https://open.spotify.com/track/50TaxyRVO6Fbc8bMfBalix"
@@ -13658,7 +13658,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -13888,10 +13888,28 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 156529,
       "name": "Erlk\u00f6nig",
       "url": "https://open.spotify.com/track/3TyNmDkPI3KOcVaS2COsVj"
+    },
+    {
+      "album": {
+        "name": "Erlk\u00f6nig",
+        "url": "https://open.spotify.com/album/0eYMNcQ8Ngg5Yc9v4k0Fdu"
+      },
+      "artists": [
+        {
+          "name": "L\u016bcadelic",
+          "url": "https://open.spotify.com/artist/65WfmKecS1GdKkxURvvY1s"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156529,
+      "name": "Erlk\u00f6nig",
+      "url": "https://open.spotify.com/track/5YqhT9Jiw4wz1qliKQksoZ"
     },
     {
       "album": {
@@ -17140,7 +17158,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Gar nichts",
       "url": "https://open.spotify.com/track/2YkxFSMwunJ7V5tzpctFRR"
@@ -22212,7 +22230,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
@@ -25128,6 +25146,28 @@
       "duration_ms": 123809,
       "name": "Klimpa Klimpa",
       "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
+    },
+    {
+      "album": {
+        "name": "Klingelingelingelingeling (From \"Aufputzt is\")",
+        "url": "https://open.spotify.com/album/4VGsFCG4LV6B2oD0fJdLol"
+      },
+      "artists": [
+        {
+          "name": "Gery Seidl",
+          "url": "https://open.spotify.com/artist/39iQbPMWchefK0k3mGheAY"
+        },
+        {
+          "name": "Christopher Seiler",
+          "url": "https://open.spotify.com/artist/5r5xnXo3phIPy981g2WVty"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "Klingelingelingelingeling - From \"Aufputzt is\"",
+      "url": "https://open.spotify.com/track/3HUVmYFKb892S6qEXy0gM1"
     },
     {
       "album": {
@@ -28196,7 +28236,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 124462,
       "name": "Love In A Bottle",
       "url": "https://open.spotify.com/track/7u3BVQ9DG1KA9c3Q8W3BLr"
@@ -32560,7 +32600,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 133984,
       "name": "Nacht Voll Schatten",
       "url": "https://open.spotify.com/track/0362oY8NzSnRrvbEMHOBEp"
@@ -33038,7 +33078,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 144325,
       "name": "Nie genug",
       "url": "https://open.spotify.com/track/0GMSAGcboGY8xLQvZ8AFrC"
@@ -46398,7 +46438,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 163950,
       "name": "Turning Heads",
       "url": "https://open.spotify.com/track/6xByvzzTaI5GzNrPbbUoX0"

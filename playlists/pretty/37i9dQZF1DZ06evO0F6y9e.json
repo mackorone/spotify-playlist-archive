@@ -1,33 +1,13 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1083758,
+  "num_followers": 1084046,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAACECFlCLx9Eyf6q1cN6+VA3",
+  "snapshot_id": "aTtbAAAAAABb1ROJ6//cpB3eiY27HWWf",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Te Quieran Bonito",
-        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 162211,
-      "name": "Que Te Quieran Bonito",
-      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
-    },
     {
       "added_at": null,
       "album": {
@@ -67,6 +47,26 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/4rX1QSvkaQE2y5LJLVjFqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Te Quieran Bonito",
+        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 162211,
+      "name": "Que Te Quieran Bonito",
+      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
-        }
-      ],
-      "duration_ms": 226815,
-      "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yakifest Vol. 4 (En Vivo)",
         "url": "https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 226345,
       "name": "Dile A Tu Orgullo (En Vivo)",
       "url": "https://open.spotify.com/track/5QxL7Nv8J5gPqD6H0bKmAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+        }
+      ],
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (En Vivo)",
-        "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 235221,
-      "name": "Gracias (En Vivo)",
-      "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 198952,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 235221,
+      "name": "Gracias (En Vivo)",
+      "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
     },
     {
       "added_at": null,

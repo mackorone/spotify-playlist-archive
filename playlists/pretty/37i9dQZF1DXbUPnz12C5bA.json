@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 161259,
+  "num_followers": 161347,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "Mas Vallenato",
         "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 267840,
       "name": "A Besitos",
       "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -719,8 +719,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Mas Cerca De T\u00ed",
-        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
       },
       "artists": [
         {
@@ -728,25 +728,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 287426,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -763,6 +747,22 @@
       "duration_ms": 266573,
       "name": "Me Tiraste Al Mar",
       "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
+        "name": "Mas Cerca De T\u00ed",
+        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
       },
       "artists": [
         {
@@ -808,9 +808,25 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 300786,
-      "name": "Me Ilusione",
-      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
+      "duration_ms": 287426,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -835,22 +851,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "Grandes Hits - Los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        }
+      ],
+      "duration_ms": 316279,
+      "name": "Dime que me quieres",
+      "url": "https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -899,22 +915,6 @@
       "duration_ms": 246726,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 298986,
-      "name": "Quiero Que Seas Mi Estrella",
-      "url": "https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

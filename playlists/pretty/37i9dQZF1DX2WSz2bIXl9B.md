@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 > Pódcasts que necesitas mantener en tu RADAR: Mamarracha, No Todo Vale, Me Cago Vivo, Fluir con el Caos, Te la pinto<br/><br/>En portada, Te la pinto
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,473 likes - 10 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,472 likes - 10 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

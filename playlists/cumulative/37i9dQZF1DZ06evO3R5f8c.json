@@ -383,6 +383,28 @@
     },
     {
       "album": {
+        "name": "Best of the Last",
+        "url": "https://open.spotify.com/album/2DICCoDzKa9OoHbuZU5qbt"
+      },
+      "artists": [
+        {
+          "name": "Monique Bingham",
+          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393195,
+      "name": "Deep In The Bottom (of Africa)",
+      "url": "https://open.spotify.com/track/4CsVcnKcMD3SQvlj8PyZ1I"
+    },
+    {
+      "album": {
         "name": "Deep In The Bottom (Of Africa) The Remixes [Pt. 1]",
         "url": "https://open.spotify.com/album/7Hxso4QkJOmkRdiIlZUtNy"
       },
@@ -402,7 +424,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-14",
       "duration_ms": 432579,
       "name": "Deep In The Bottom (of Africa) (feat. Black Coffee) - JazzWRLD Remix",
       "url": "https://open.spotify.com/track/5KGedtn4FWmPaw4MpWIGAk"

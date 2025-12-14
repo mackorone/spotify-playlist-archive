@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,617 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,619 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 26 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
 | 27 | [Azul](https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Azul](https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc) | 2:00 |
 | 28 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 |
-| 29 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 |
-| 30 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
+| 29 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
+| 30 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 |
 | 31 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
 | 32 | [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 |
 | 33 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 41 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 |
 | 42 | [Forgive Them](https://open.spotify.com/track/5ygpixsIV7ess0ZwLGJ5Nn) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm), [The David Roy Collective](https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt), [MajorLink](https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS) | [Forgive Them](https://open.spotify.com/album/78orR2kosXcnldCpBF24Cf) | 4:34 |
 | 43 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 |
-| 44 | [Sparrow Eye](https://open.spotify.com/track/5fsFankh47Uve3ugGEKyyG) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Sparrow Eye](https://open.spotify.com/album/2ebbOKUcsgBBhyQ83DjA6H) | 2:46 |
-| 45 | [Goodwill](https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Goodwill](https://open.spotify.com/album/5AkNMQIU6nLtldzxl4YGYH) | 3:26 |
+| 44 | [Goodwill](https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Goodwill](https://open.spotify.com/album/5AkNMQIU6nLtldzxl4YGYH) | 3:26 |
+| 45 | [Sparrow Eye](https://open.spotify.com/track/5fsFankh47Uve3ugGEKyyG) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Sparrow Eye](https://open.spotify.com/album/2ebbOKUcsgBBhyQ83DjA6H) | 2:46 |
 | 46 | [Mare Nostrum](https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Mare Nostrum](https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7) | 3:15 |
 | 47 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 48 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 |
 | 49 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 |
 | 50 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 |
-| 51 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
-| 52 | [My Hands](https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [My Hands](https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw) | 3:57 |
-| 53 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
+| 51 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
+| 52 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
+| 53 | [My Hands](https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [My Hands](https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw) | 3:57 |
 | 54 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
 | 55 | [Moments of Joy](https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd) | [Noel Oliver](https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE) | [Moments of Joy](https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf) | 2:15 |
 | 56 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 67 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 |
 | 68 | [What We Say](https://open.spotify.com/track/5KiGarBX9pitdRxbFRUYAn) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [What We Say](https://open.spotify.com/album/3XrAGJAi6CQKGkRaNRJljd) | 2:47 |
 | 69 | [Sequences](https://open.spotify.com/track/26TCO6nueNbCvXPvQs7Dma) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Sequences](https://open.spotify.com/album/3eSV3Kevxi5cSiFyNmkiFD) | 2:25 |
-| 70 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
-| 71 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
+| 70 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
+| 71 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
 | 72 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
 | 73 | [Son's and Daughter's](https://open.spotify.com/track/4CTmMZznjMORw49F4HK8u5) | [Meyer Wilen](https://open.spotify.com/artist/4nToVQre9DbvPZG2rBoe6m) | [Son's and Daughter's](https://open.spotify.com/album/6zHhf9wt2HfPQJce7vydk4) | 2:34 |
 | 74 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 94 | [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 |
 | 95 | [A Heap Of Broken Images](https://open.spotify.com/track/6BwKf64Z6sOKV0sF94jQZL) | [Kevin Lloyd](https://open.spotify.com/artist/2rxmb9Wqs2GFwtlCeaJkHx) | [A Heap Of Broken Images](https://open.spotify.com/album/4IJjuk9izSUymkjfhc9ZG1) | 3:08 |
 | 96 | [3 A.M.](https://open.spotify.com/track/2Ns0FbBGsOVhnr6hnJckbU) | [IA Landon](https://open.spotify.com/artist/26eN1lvWB6W7lyoPnGT4I2) | [Frozen Cloud](https://open.spotify.com/album/7Au4LzrZg2bOzvIjJPYNtU) | 2:16 |
-| 97 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 |
-| 98 | [When The Raindrops Begin To Cry](https://open.spotify.com/track/2x85LEhnRE6mlLrKfwoJuD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [When The Raindrops Begin To Cry](https://open.spotify.com/album/7Ld77MOEeYRSORFRGMKL9g) | 2:40 |
+| 97 | [When The Raindrops Begin To Cry](https://open.spotify.com/track/2x85LEhnRE6mlLrKfwoJuD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [When The Raindrops Begin To Cry](https://open.spotify.com/album/7Ld77MOEeYRSORFRGMKL9g) | 2:40 |
+| 98 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 |
 | 99 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 |
 | 100 | [Arcticgrey](https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Arcticgrey](https://open.spotify.com/album/4e3FQVTO1Sa0Tsmu3C7IMt) | 2:02 |
 

@@ -4,7 +4,7 @@
 
 > The Indie highlights of 2013\. Cover: HAIM
 
-191 songs - 12 hr 52 min
+192 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 | 2021-09-02 |  |
 | [Berlin](https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z) | 2:54 | 2021-09-02 | 2025-12-07 |
 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2021-09-02 | 2024-04-19 |
-| [Blondie](https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 3:14 | 2021-09-02 | 2025-12-10 |
+| [Blondie](https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 3:14 | 2021-09-02 |  |
 | [Blondie](https://open.spotify.com/track/7sIx70dGj3VBiHWr0KZXfD) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 3:14 | 2021-09-02 | 2024-04-19 |
 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 | 2021-09-02 |  |
 | [Cardiac Arrest](https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9) | 3:02 | 2021-09-02 | 2024-04-19 |
@@ -103,7 +103,7 @@
 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 | 2021-09-02 |  |
 | [Needle](https://open.spotify.com/track/6FV9xcL49P5jMdzyBDG9wY) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Birthmarks](https://open.spotify.com/album/3WDn6Zj4NRmYSperrOJcJZ) | 3:33 | 2021-09-02 | 2023-03-29 |
 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 | 2021-09-02 | 2024-04-19 |
-| [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 | 2021-09-02 |  |
+| [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 | 2021-09-02 | 2025-12-14 |
 | [Nightcall](https://open.spotify.com/track/4PRQ8IJzRvbDWNONJWGbwH) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 4:30 | 2021-09-02 | 2022-11-13 |
 | [Nightcall](https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait \(Deluxe Version\)](https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5) | 4:30 | 2021-09-02 |  |
 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 | 2021-09-02 |  |
@@ -137,8 +137,9 @@
 | [San Francisco](https://open.spotify.com/track/2SOT09giYc28fUo9ppjCpw) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:47 | 2021-09-02 | 2024-08-21 |
 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 | 2021-09-02 | 2024-04-19 |
 | [Sex](https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:27 | 2021-09-02 |  |
-| [Shuggie](https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:21 | 2025-03-14 |  |
+| [Shuggie](https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:21 | 2025-03-14 | 2025-12-14 |
 | [Shuggie](https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:21 | 2021-09-02 | 2024-04-19 |
+| [Sleep Apnea](https://open.spotify.com/track/34LohAliZ2QKydqVJcFpwV) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Clash the Truth](https://open.spotify.com/album/5azIxtaUJfDBczJd9o6l7p) | 2:26 | 2025-03-14 |  |
 | [Sleep Apnea](https://open.spotify.com/track/6XyjwF7CAwuEaW77noJr6I) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Clash the Truth](https://open.spotify.com/album/4qC8mysA680i7chkL3JQQw) | 2:26 | 2021-09-02 | 2024-04-19 |
 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 | 2021-09-02 | 2022-10-14 |
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2021-09-02 | 2024-04-19 |

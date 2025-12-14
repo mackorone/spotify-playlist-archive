@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Doja Cat \[Ma Vie World Tour\] 2025.12.13 @ 킨텍스 제2전시장 10홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,213 likes - 26 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,313 likes - 26 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 25 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
 | 26 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
 
-Snapshot ID: `AAAAAFAJjirqIffwzZMCtPth+Fccy8jo`
+Snapshot ID: `AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1`

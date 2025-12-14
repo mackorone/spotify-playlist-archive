@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43367,
+  "num_followers": 43372,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aToJgAAAAADgpHDqjiUqeUspi+OnkNa3",
+  "snapshot_id": "aTtbAAAAAADRLydrI/FgYijsYSa1VY0O",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigo a Lo M\u00edo",
-        "url": "https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "\u00bfQu\u00e9 Ha Pasao'?",
-      "url": "https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 170081,
       "name": "Saberte Querer",
       "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigo a Lo M\u00edo",
+        "url": "https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "\u00bfQu\u00e9 Ha Pasao'?",
+      "url": "https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 133604,
-      "name": "Si Me Ven Llorando",
-      "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
+      "duration_ms": 128669,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 128669,
-      "name": "De To'",
-      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
+      "duration_ms": 133604,
+      "name": "Si Me Ven Llorando",
+      "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 136015,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
         "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 204707,
       "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
       "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 136015,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
     },
     {
       "added_at": null,

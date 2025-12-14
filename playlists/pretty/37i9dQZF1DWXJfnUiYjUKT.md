@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with 21 Savage on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,212 likes - 98 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,287 likes - 98 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

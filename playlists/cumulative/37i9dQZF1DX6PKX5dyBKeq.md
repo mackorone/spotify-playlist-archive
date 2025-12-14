@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: J Hus, Skepta
 
-2,219 songs - 4 day 14 hr 0 min
+2,219 songs - 4 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1761,7 +1761,7 @@
 | [Shine On Me \(feat\. Dubz\)](https://open.spotify.com/track/13FsUjiEUV1wcpZ52LSy9Y) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs), [Dubz](https://open.spotify.com/artist/43jySAjj0BKSQDAr6yloo3) | [Shine On Me](https://open.spotify.com/album/5mf7jkR5umw4dqfDL7CXwC) | 3:05 | 2022-03-08 | 2022-03-09 |
 | [Shippūden](https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Shippūden](https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F) | 2:59 | 2020-05-22\* | 2020-05-30 |
 | [Shivers](https://open.spotify.com/track/4H3WOS82hXoKzHdPPApR2t) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Shivers](https://open.spotify.com/album/1aCeONYwhA5AFENEzxJmv7) | 3:29 | 2020-06-29 | 2020-08-07 |
-| [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 3:23 | 2025-12-12 |  |
+| [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 2:22 | 2025-12-12 |  |
 | [Shoot Like Curry](https://open.spotify.com/track/1Vpedr1TGNcY3rSSTMxZAe) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Shoot Like Curry](https://open.spotify.com/album/6Hs1CRMHKI4rdLIqCALdu1) | 3:12 | 2021-10-16 | 2022-01-08 |
 | [Shoreditch](https://open.spotify.com/track/0PrLVRKLIuYmluI9h36PYf) | [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb) | [Shoreditch](https://open.spotify.com/album/6mMGBXfiHvjy4UqtkHrtzw) | 3:09 | 2022-03-08 | 2022-03-09 |
 | [Short & Sweet](https://open.spotify.com/track/0VC5ZKg8JpvtldQwwOGD8Z) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd) | [Short & Sweet](https://open.spotify.com/album/4TFYL3qN9Goqgdp9i7S14N) | 3:10 | 2020-05-22\* | 2020-06-29 |
