@@ -1,4 +1,4 @@
-## Playlists \(9030\)
+## Playlists \(9031\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3631,6 +3631,7 @@
 - [Late Night Jazz](/playlists/pretty/37i9dQZF1DX4wta20PHgwo.md)
 - [Late Night Music](/playlists/pretty/49MqbWUSYMpxaUzog7MDqG.md)
 - [Late Night Nature Music  🌙](/playlists/pretty/37i9dQZF1DX709Kv0V067V.md)
+- [Late Night Thoughts](/playlists/pretty/5JM4hQVvXAySPYy6bOaUnf.md)
 - [Late Night Workout](/playlists/pretty/2AYDglM1LTpPSn5cSRvGDM.md)
 - [Latest Dance Tamil](/playlists/pretty/37i9dQZF1DX7vl8XKmpwdM.md)
 - [Latest Kannada](/playlists/pretty/37i9dQZF1DWZqTcNLmb3sH.md)
