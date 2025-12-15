@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 212805,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/386DhHFXyxwwWG0AUZoiGS"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 213002,
       "name": "Comraderie",
       "url": "https://open.spotify.com/track/0GFcXILH9vqMJ0sBFeOTsS"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 174812,
       "name": "Letter To DMX",
       "url": "https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 304553,
       "name": "Outlaw By Nature (feat. E.D.I. Mean, Trigga Trife & Treach)",
       "url": "https://open.spotify.com/track/7BWvmOQJm6KOw6XgzFpZMZ"
@@ -2299,6 +2299,32 @@
     },
     {
       "album": {
+        "name": "Reality (feat. Young Noble & Black C)",
+        "url": "https://open.spotify.com/album/6PE2n5VczJRUKnq7MRYgg3"
+      },
+      "artists": [
+        {
+          "name": "AK47",
+          "url": "https://open.spotify.com/artist/2E68BYCz4PE0BYM0r9JYSo"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Black C",
+          "url": "https://open.spotify.com/artist/5EkEc0HbZrNlqmdLDoj6Wm"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152759,
+      "name": "Reality (feat. Young Noble & Black C)",
+      "url": "https://open.spotify.com/track/4VQ64nltSngqNnYD9qqjXe"
+    },
+    {
+      "album": {
         "name": "Outlaw University",
         "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
       },
@@ -2314,7 +2340,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"

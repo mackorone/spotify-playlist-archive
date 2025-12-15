@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 Dec 04:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Dec 04:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWr6kFF7X9mbFdsv3KJPyMaWGXae7r",
+  "snapshot_id": "AAAWsxgHDfTWQ+yRqdNHC1sMEb8YiLYa",
   "tracks": [
     {
       "added_at": "2025-12-12 23:06:13",
@@ -39,6 +39,38 @@
       "duration_ms": 319213,
       "name": "FDO",
       "url": "https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX"
+    },
+    {
+      "added_at": "2025-12-15 04:04:59",
+      "album": {
+        "name": "ROCKY BALBOA",
+        "url": "https://open.spotify.com/album/7lUxNiyLBKzRxp4daMIz6F"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 126802,
+      "name": "ROCKY BALBOA",
+      "url": "https://open.spotify.com/track/58pBH4a7HQ9yeU9ZjPZRDr"
+    },
+    {
+      "added_at": "2025-12-14 19:04:55",
+      "album": {
+        "name": "OUBLIETTE",
+        "url": "https://open.spotify.com/album/22O4eii04TxV3E36VTtfxl"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 262036,
+      "name": "OUBLIETTE",
+      "url": "https://open.spotify.com/track/4tvOXEaUFnBZt72O5kKsz9"
     },
     {
       "added_at": "2025-12-12 09:06:07",
@@ -799,38 +831,6 @@
       "duration_ms": 216377,
       "name": "Goat Stamp",
       "url": "https://open.spotify.com/track/4H6OFCJ5GHuM3NzuCHjvsc"
-    },
-    {
-      "added_at": "2025-12-02 19:04:42",
-      "album": {
-        "name": "BFF",
-        "url": "https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p"
-      },
-      "artists": [
-        {
-          "name": "MGNA Crrrta",
-          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
-        }
-      ],
-      "duration_ms": 145025,
-      "name": "BFF",
-      "url": "https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh"
-    },
-    {
-      "added_at": "2025-11-28 19:04:06",
-      "album": {
-        "name": "Booga",
-        "url": "https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 112733,
-      "name": "Booga",
-      "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
     }
   ],
   "unique_name": "New Singles Now",

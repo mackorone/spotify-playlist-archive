@@ -1,6 +1,6 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 147031,
+  "num_followers": 147047,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u96e8\u611b",
-        "url": "https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8"
-      },
-      "artists": [
-        {
-          "name": "Rainie Yang",
-          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "\u96e8\u611b",
-      "url": "https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "\u5979\u8aaa",
         "url": "https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u7c21\u55ae\u4e0d\u7c21\u55ae",
-        "url": "https://open.spotify.com/album/1L5TJ2XkW8pXgSwHYMZsJJ"
+        "name": "\u96e8\u611b",
+        "url": "https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8"
       },
       "artists": [
         {
-          "name": "\u9ec3\u5c0f\u7425",
-          "url": "https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz"
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
         }
       ],
-      "duration_ms": 310133,
-      "name": "\u6c92\u90a3\u9ebd\u7c21\u55ae",
-      "url": "https://open.spotify.com/track/4xZIMRwaaBx7CZMmM6KLuh"
+      "duration_ms": 261560,
+      "name": "\u96e8\u611b",
+      "url": "https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -539,6 +523,22 @@
       "duration_ms": 320400,
       "name": "\u6211\u4e0d\u96e3\u904e",
       "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
+        "name": "\u7c21\u55ae\u4e0d\u7c21\u55ae",
+        "url": "https://open.spotify.com/album/1L5TJ2XkW8pXgSwHYMZsJJ"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u5c0f\u7425",
+          "url": "https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "\u6c92\u90a3\u9ebd\u7c21\u55ae",
+      "url": "https://open.spotify.com/track/4xZIMRwaaBx7CZMmM6KLuh"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u9b5a\u4ed4",
-        "url": "https://open.spotify.com/album/5m26LRbGYAZIr0YE1IC3x6"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 280954,
-      "name": "\u9b5a\u4ed4 - \u96fb\u8996\u5287<\u82b1\u7532\u7537\u5b69\u8f49\u5927\u4eba>\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/2sb6AZQLeoD3VgA4zglQB6"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "I'm O.K.",
         "url": "https://open.spotify.com/album/1tOMQ0MGYaMF4F0YtyUKXN"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 255200,
       "name": "\u5929\u5929",
       "url": "https://open.spotify.com/track/4rzTxZaFsTXQN54WimO4QU"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
+        "name": "\u9b5a\u4ed4",
+        "url": "https://open.spotify.com/album/5m26LRbGYAZIr0YE1IC3x6"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 280954,
+      "name": "\u9b5a\u4ed4 - \u96fb\u8996\u5287<\u82b1\u7532\u7537\u5b69\u8f49\u5927\u4eba>\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/2sb6AZQLeoD3VgA4zglQB6"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
-        "url": "https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX"
-      },
-      "artists": [
-        {
-          "name": "Silence Wang",
-          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
-        },
-        {
-          "name": "\u8d75\u9732\u601d Rosy",
-          "url": "https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv"
-        }
-      ],
-      "duration_ms": 194423,
-      "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
-      "url": "https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "\u5c1a\u672a\u754c\u5b9a",
         "url": "https://open.spotify.com/album/3Izw8Ec6jQUYjSDUifh7XO"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 242560,
       "name": "\u6d41\u6c99",
       "url": "https://open.spotify.com/track/5ZZwQy1wofQhj7LJDNLflT"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
+        "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
+        "url": "https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX"
+      },
+      "artists": [
+        {
+          "name": "Silence Wang",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+        },
+        {
+          "name": "\u8d75\u9732\u601d Rosy",
+          "url": "https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
+      "url": "https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU"
     },
     {
       "added_at": "2025-06-25 03:20:27",

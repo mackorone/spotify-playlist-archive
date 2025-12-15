@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,728 songs - 8 day 5 hr 42 min
+3,729 songs - 8 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3457,6 +3457,7 @@
 | [Vibrant Life](https://open.spotify.com/track/3dCyQlhzyguNwlS79gZ9HN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 2:23 | 2025-06-04 |  |
 | [Vibrant Life \(another\)](https://open.spotify.com/track/4uedQvdqgDk5BXycjCuMf1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 2:54 | 2025-09-17 |  |
 | [Vibrazioni Infinite](https://open.spotify.com/track/50SeAEJAxsIpsoZbgNNko1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 1:59 | 2025-09-12 |  |
+| [Vicios](https://open.spotify.com/track/5aIsFPmNUDxWhkIdG4u9oY) | [Furgas](https://open.spotify.com/artist/2Z9qZOW7lMlsOqDe7BmugC) | [Vicios](https://open.spotify.com/album/41gky5C7FWZinOe4jQoY2Y) | 5:03 | 2025-12-14 |  |
 | [Victoria: Dawn of the Cosmos](https://open.spotify.com/track/0DtTwIsKBBkMQRFTa2YBat) | [ALCON](https://open.spotify.com/artist/7ngtgFbMpJPid3SAzCNkQX) | [Victoria: Dawn of the Cosmos](https://open.spotify.com/album/1CmRduKoi7XQ1tmhPFdTcp) | 2:43 | 2025-06-05 |  |
 | [Viernes Impar](https://open.spotify.com/track/6nIzS0eniRxxQBw3QynDlm) | [Verbikí](https://open.spotify.com/artist/68SurnefW0jhCfLwU4IwP6) | [Viernes Impar](https://open.spotify.com/album/699r6pdOMtHEwYJPcOuQLN) | 3:24 | 2025-10-08 |  |
 | [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 | 2025-12-02 |  |

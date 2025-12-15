@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 36999,
+  "num_followers": 37000,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,26 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Moonlight Juice",
+        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Shetafacker",
+          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Moonlight Juice",
+      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Autorretrato",
         "url": "https://open.spotify.com/album/3Mz3vMXm002M6VTs6Swg9V"
       },
@@ -315,22 +335,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Moonlight Juice",
-        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+        "name": "Lo-Fi el Panadero Con el Pan",
+        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
       },
       "artists": [
         {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Shetafacker",
-          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 147786,
-      "name": "Moonlight Juice",
-      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+      "duration_ms": 224000,
+      "name": "Lo-Fi el Panadero Con el Pan",
+      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -391,22 +407,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Lo-Fi el Panadero Con el Pan",
-        "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Lo-Fi el Panadero Con el Pan",
-      "url": "https://open.spotify.com/track/6gKY6VRenfWTzg5JpxAC1S"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 190000,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Cumbia Don Juan",
-        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 134451,
-      "name": "Cumbia Don Juan",
-      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -455,6 +439,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Cumbia Don Juan",
+        "url": "https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 134451,
+      "name": "Cumbia Don Juan",
+      "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Donde Estas?",
         "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 124245,
       "name": "Donde Estas?",
       "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "la espera",
+        "url": "https://open.spotify.com/album/1WWq4XoeC07MZOBdxBce28"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 87529,
+      "name": "la espera",
+      "url": "https://open.spotify.com/track/2FXnJjGKL6G6StzO0vST1l"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -491,22 +507,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "la espera",
-        "url": "https://open.spotify.com/album/1WWq4XoeC07MZOBdxBce28"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 87529,
-      "name": "la espera",
-      "url": "https://open.spotify.com/track/2FXnJjGKL6G6StzO0vST1l"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Bolero lo-fi para el coraz\u00f3n",
         "url": "https://open.spotify.com/album/7gw1sD1ewqfVJSUGrsakhl"
       },
@@ -527,6 +527,26 @@
       "duration_ms": 143294,
       "name": "Bolero lo-fi para el coraz\u00f3n",
       "url": "https://open.spotify.com/track/7oN0peZfa6jylWx4TinJP3"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -567,26 +587,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Guapachosa",
-        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Guapachosa",
-      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Nos Usamos",
         "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 269800,
       "name": "Nos Usamos",
       "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "El Jard\u00edn",
+        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "El Jard\u00edn",
+      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -635,18 +651,38 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "El Jard\u00edn",
-        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
       "artists": [
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 140500,
-      "name": "El Jard\u00edn",
-      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
+      "duration_ms": 113333,
+      "name": "Vibrando Alto En Tulum",
+      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Un Final",
+        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 235863,
+      "name": "Un Final",
+      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -671,26 +707,6 @@
       "duration_ms": 114500,
       "name": "Songbird Serenity",
       "url": "https://open.spotify.com/track/1RDwAD9cyldvgcHn1TvnyK"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Vibrando Alto En Tulum",
-      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -727,22 +743,6 @@
       "duration_ms": 141742,
       "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
       "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Un Final",
-        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 235863,
-      "name": "Un Final",
-      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Nadie sabe nada de nadie",
+        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Nadie sabe nada de nadie",
+      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -807,38 +823,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "jazz y cdmx",
-        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 121213,
-      "name": "jazz y cdmx",
-      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "LOFI CHRISTMAS VI",
         "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 132000,
       "name": "THE CHRISTMAS SONG LOFI",
       "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "jazz y cdmx",
+        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "duration_ms": 121213,
+      "name": "jazz y cdmx",
+      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "El Tambor",
         "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 106357,
       "name": "El Tambor",
       "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Nadie sabe nada de nadie",
-        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Nadie sabe nada de nadie",
-      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -923,6 +923,22 @@
       "duration_ms": 134261,
       "name": "que chulada",
       "url": "https://open.spotify.com/track/6H58pGPGHVWaoK2JOe0r5y"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -971,18 +987,42 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+        "name": "Lofi En La Mamalona",
+        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+      "duration_ms": 116666,
+      "name": "Lofi En La Mamalona",
+      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Lost Memories",
+        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 146845,
+      "name": "Lost Memories",
+      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1011,42 +1051,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Lost Memories",
-        "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
       },
       "artists": [
         {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 146845,
-      "name": "Lost Memories",
-      "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Lofi En La Mamalona",
-        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Lofi En La Mamalona",
-      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+      "duration_ms": 121258,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1115,22 +1131,6 @@
       "duration_ms": 140411,
       "name": "El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 121258,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
       },
@@ -1551,30 +1531,6 @@
       "duration_ms": 132551,
       "name": "Arrebol",
       "url": "https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Childhood",
-        "url": "https://open.spotify.com/album/3mZSAo3BYAk094HH8NEoYc"
-      },
-      "artists": [
-        {
-          "name": "Ima Dyllow",
-          "url": "https://open.spotify.com/artist/7ItgEU7CZzu8EwvICrTyd4"
-        },
-        {
-          "name": "Ilzki",
-          "url": "https://open.spotify.com/artist/3eFY9eN9bi1RzEMuKr8j46"
-        },
-        {
-          "name": "Nostalgic Yume",
-          "url": "https://open.spotify.com/artist/7ntor9UbzbRRZMt8gKMwzs"
-        }
-      ],
-      "duration_ms": 136041,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/4DJkAM4L9T7lGDyBemnNd8"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1603,22 +1559,46 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "In the crown of the trees, I find you",
-        "url": "https://open.spotify.com/album/3JSuSK1A0YzaPjO2f1CtAt"
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/3mZSAo3BYAk094HH8NEoYc"
       },
       "artists": [
         {
-          "name": "Titania",
-          "url": "https://open.spotify.com/artist/4i4mt83QSWCr73ipKTMn1X"
+          "name": "Ima Dyllow",
+          "url": "https://open.spotify.com/artist/7ItgEU7CZzu8EwvICrTyd4"
         },
         {
-          "name": "The Yume Collective",
-          "url": "https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7"
+          "name": "Ilzki",
+          "url": "https://open.spotify.com/artist/3eFY9eN9bi1RzEMuKr8j46"
+        },
+        {
+          "name": "Nostalgic Yume",
+          "url": "https://open.spotify.com/artist/7ntor9UbzbRRZMt8gKMwzs"
         }
       ],
-      "duration_ms": 142222,
-      "name": "In the crown of the trees, I find you",
-      "url": "https://open.spotify.com/track/1E3ZcM10ZAUWtlibEHUd0P"
+      "duration_ms": 136041,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/4DJkAM4L9T7lGDyBemnNd8"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1639,6 +1619,42 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "In the crown of the trees, I find you",
+        "url": "https://open.spotify.com/album/3JSuSK1A0YzaPjO2f1CtAt"
+      },
+      "artists": [
+        {
+          "name": "Titania",
+          "url": "https://open.spotify.com/artist/4i4mt83QSWCr73ipKTMn1X"
+        },
+        {
+          "name": "The Yume Collective",
+          "url": "https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "In the crown of the trees, I find you",
+      "url": "https://open.spotify.com/track/1E3ZcM10ZAUWtlibEHUd0P"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Midnight Celadon",
+        "url": "https://open.spotify.com/album/2MjAbv2xEUKyaySEy6jaua"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 112527,
+      "name": "Midnight Celadon",
+      "url": "https://open.spotify.com/track/7xDl7RH0Gk6JkHx4Zi3xSX"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
       },
@@ -1655,6 +1671,22 @@
       "duration_ms": 197802,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+      },
+      "artists": [
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1715,22 +1747,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Midnight Celadon",
-        "url": "https://open.spotify.com/album/2MjAbv2xEUKyaySEy6jaua"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 112527,
-      "name": "Midnight Celadon",
-      "url": "https://open.spotify.com/track/7xDl7RH0Gk6JkHx4Zi3xSX"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Viscaria Corto",
         "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Trompo de Pastor",
-        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
-      },
-      "artists": [
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Trompo de Pastor",
-      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -1783,26 +1783,6 @@
       "duration_ms": 183370,
       "name": "Martes Azul",
       "url": "https://open.spotify.com/track/7C2znQxQdm8Ck7nvdJnitF"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "offline",
-        "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
-      },
-      "artists": [
-        {
-          "name": "Pika Man",
-          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
-        },
-        {
-          "name": "Universatility Group",
-          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
-        }
-      ],
-      "duration_ms": 118440,
-      "name": "diamond dreams",
-      "url": "https://open.spotify.com/track/69GW33RVlbt7H9Ce7A2Cs1"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1835,6 +1815,26 @@
       "duration_ms": 164117,
       "name": "Canci\u00f3n en Forma de Elefante",
       "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "offline",
+        "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
+      },
+      "artists": [
+        {
+          "name": "Pika Man",
+          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
+        },
+        {
+          "name": "Universatility Group",
+          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
+        }
+      ],
+      "duration_ms": 118440,
+      "name": "diamond dreams",
+      "url": "https://open.spotify.com/track/69GW33RVlbt7H9Ce7A2Cs1"
     },
     {
       "added_at": "2025-10-17 06:00:24",

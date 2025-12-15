@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-825 songs - 2 day 0 hr 38 min
+827 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Ce matin\-là \- Demo 2](https://open.spotify.com/track/6lMaS9WVQMB2BDYvDiKuDt) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari Rarities \(25th Anniversary Edition\)](https://open.spotify.com/album/3Dy5c5GMKUEgJJnDu9CPV8) | 3:15 | 2025-01-14 | 2025-03-02 |
 | [Ceffylau](https://open.spotify.com/track/16c7tL31q18QfNsFi6bXzR) | [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818), [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Clychau Dibon](https://open.spotify.com/album/6sMLaItoTxTwETaIPYrEiv) | 5:23 | 2025-10-01 | 2025-11-15 |
 | [Celesta](https://open.spotify.com/track/43zrSh64eLYs8fpHbT20LJ) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [In Phases](https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze) | 4:09 | 2024-02-13 | 2024-03-10 |
+| [Change](https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:14 | 2025-12-14 |  |
 | [Chasing Blue](https://open.spotify.com/track/2g1kSvIoQGINyhjnzma7bT) | [Daniel DaVinchy](https://open.spotify.com/artist/4PMpQNVTHYseyuy8gq73iO) | [Chasing Blue](https://open.spotify.com/album/3O2ZeAfmunYwTz6F8C4KzV) | 3:25 | 2025-07-09 | 2025-09-11 |
 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-26 | 2025-01-12 |
 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 | 2024-04-03 | 2024-05-16 |
@@ -326,6 +327,7 @@
 | [I Feel It Starts Again](https://open.spotify.com/track/5BRBSRdSHRbq5E9GmdZ6ye) | [Suzanne Menzel](https://open.spotify.com/artist/6As3O7Fndk3au4CcOSYT3H) | [Goodbyes And Beginnings](https://open.spotify.com/album/0NehyKBbhDRF123SuqLe4c) | 3:28 | 2025-04-20 | 2025-05-09 |
 | [I Gave Up All I Had](https://open.spotify.com/track/1hTl6P4cObJLDJEMS6Saif) | [Ted Hawkins](https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU) | [Watch Your Step](https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d) | 2:56 | 2025-12-02 |  |
 | [I Guess I Got My Answer](https://open.spotify.com/track/5TFUU8NZXb8h5evhyiCGBp) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Scenic Route \- Road Less Travelled, Vol​​​.​​​ 2](https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8) | 2:52 | 2024-06-20 | 2024-07-12 |
+| [I Have The Touch](https://open.spotify.com/track/7gl4P3X846By90qi9uolSM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 4: Security \(Remastered Version\)](https://open.spotify.com/album/0O3lEaGkc2Q8TkxCShZyfa) | 4:35 | 2025-12-14 |  |
 | [I Hope You Like Me Too](https://open.spotify.com/track/3tx60M0Bvhzlk2y4bqoZew) | [The Maybellines](https://open.spotify.com/artist/1JvhzOsfMYwQHRB9cSYaBu) | [The Maybellines](https://open.spotify.com/album/43KuGKCsf99Oq5G8WtJEOA) | 1:43 | 2024-08-12 | 2024-09-08 |
 | [I Hope You Really Love Me](https://open.spotify.com/track/1LBvNIbA5kd4W3aOIKVrI1) | [The Family Circle](https://open.spotify.com/artist/3hrkdQYKnihdWrvt66YNM3) | [Family Circle](https://open.spotify.com/album/5l3yLjP4MtAPtVbO1G4PPm) | 2:25 | 2025-09-10 | 2025-11-15 |
 | [I Just Want to Be Your Friend](https://open.spotify.com/track/4rKpi6H6IFtuBVAdNN3fUe) | [The Millennium](https://open.spotify.com/artist/2C49JSiNeHN0xwLQCohpyY) | [Begin](https://open.spotify.com/album/6sSb8m6MPGJIEMKH8FWCS0) | 2:37 | 2024-03-26 | 2024-05-16 |

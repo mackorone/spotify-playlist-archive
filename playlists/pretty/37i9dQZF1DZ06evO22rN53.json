@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 5256,
+  "num_followers": 5260,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAAAGeCERnLzDco53NMLJWyru",
+  "snapshot_id": "aTysgAAAAABKcMRAj6597SOqnQc41rE7",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stay For A While",
+        "url": "https://open.spotify.com/album/0ZHmsLeg3D3rrHqe6DROOP"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "Stay For A While",
+      "url": "https://open.spotify.com/track/5bawzkHFN5uwIasKhvni7X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 142135,
       "name": "Space",
       "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay For A While",
-        "url": "https://open.spotify.com/album/0ZHmsLeg3D3rrHqe6DROOP"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "Stay For A While",
-      "url": "https://open.spotify.com/track/5bawzkHFN5uwIasKhvni7X"
     },
     {
       "added_at": null,

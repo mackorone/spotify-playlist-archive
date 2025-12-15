@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-182 songs - 8 hr 40 min
+183 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,13 +63,13 @@
 | [Light And Thunder](https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2022-10-28 |  |
 | [Light Rain Thunder in Tabio](https://open.spotify.com/track/4yfVltdD9apD0UuyXdAoGW) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Andean Serene Thunderstorms](https://open.spotify.com/album/0bta8z0QHhtpCVCi6sU7TH) | 2:13 | 2024-04-15 | 2024-10-04 |
-| [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 | 2025-12-14 |
+| [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 |  |
 | [Lightning in the Dark](https://open.spotify.com/track/3UEdcz71hKsKcad6rnC8tO) | [Thunder etc.](https://open.spotify.com/artist/1O2nK8zKtpXOckXSR76kaS) | [Thunderstorm Blues](https://open.spotify.com/album/0yC2vctUeh6ODo7qw1QFIj) | 3:02 | 2023-09-20 |  |
 | [Lightning in the Evening](https://open.spotify.com/track/3Wzk6YAWxFTw6wNzycn6q6) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:51 | 2023-09-20 | 2025-08-08 |
 | [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 |  |
 | [Lightning in the Rain](https://open.spotify.com/track/6d0kV5XiW515IZ0TFYeN7W) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:51 | 2023-09-20 |  |
 | [Lightning in the Rainstorm](https://open.spotify.com/track/4CmkMB6iijzP1caVtiKHJs) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Ocean Of Thunder Sound](https://open.spotify.com/album/2C6XUBZdsSfFoaX54IwymA) | 3:19 | 2023-09-20 | 2025-06-24 |
-| [Lightning in the Sunrise](https://open.spotify.com/track/2BHzD5rOBRUhtYiorjqndT) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Thunder in the Desert Night](https://open.spotify.com/album/6RToM8hYUswESrNvnCsDq0) | 2:33 | 2023-09-20 |  |
+| [Lightning in the Sunrise](https://open.spotify.com/track/2BHzD5rOBRUhtYiorjqndT) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Thunder in the Desert Night](https://open.spotify.com/album/6RToM8hYUswESrNvnCsDq0) | 2:33 | 2023-09-20 | 2025-12-15 |
 | [Lightning in the Thunderstorm](https://open.spotify.com/track/1iyLHA2sSdFi8jw0nrwLG4) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Lightning in the Afternoon](https://open.spotify.com/album/0Mu1JfxyBPhMs5o4c1wTKa) | 2:33 | 2023-09-20 | 2025-03-15 |
 | [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Low Rumble of Rain and Thunder](https://open.spotify.com/track/1xxD524mnciVxvx1xQK3bJ) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 2:35 | 2023-01-13 |  |
@@ -132,7 +132,7 @@
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [BioSounds](https://open.spotify.com/artist/714vmv7c7CRLZXkJG1xzPO) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2022-11-15 |  |
 | [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 |  |
 | [Summer Thunderstorm](https://open.spotify.com/track/6c2vveoFDpdo2VqxcclXkk) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Summer Thunderstorm](https://open.spotify.com/album/3cqdn3oQaHziJGZunQv8VL) | 3:27 | 2023-09-20 | 2025-12-12 |
-| [The Beauty in the Sky](https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:39 | 2023-09-20 |  |
+| [The Beauty in the Sky](https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:39 | 2023-09-20 | 2025-12-15 |
 | [The Light Beyond](https://open.spotify.com/track/0ZqPKp59r2vRU28YB28k1X) | [Paracloud](https://open.spotify.com/artist/7IVFkv5KIYGpqzewofOqP2) | [The Light Beyond](https://open.spotify.com/album/6gmJaxaU3qjSo7NyhE6aO9) | 2:46 | 2023-09-20 | 2023-12-21 |
 | [The Mighty Storm](https://open.spotify.com/track/5aBkKR82MfLvIBmJYL5vsz) | [Thunderwards](https://open.spotify.com/artist/5xTEuFn2jsIs8REcyyQpoq) | [The Mighty Storm](https://open.spotify.com/album/2iCrGUGNFBbyHD8IGz4xId) | 2:06 | 2023-09-20 |  |
 | [The Storm is Here](https://open.spotify.com/track/3xforc0NmrEkc9VQduBcSR) | [Steve Shock](https://open.spotify.com/artist/0FgkiggVnGr0M7L693o0tY) | [Let There be Light](https://open.spotify.com/album/4NUuZHIeOaReJOPinJiptd) | 2:45 | 2023-09-20 | 2023-12-21 |
@@ -168,6 +168,7 @@
 | [Thunder Volts](https://open.spotify.com/track/3sQRC5dgFDkPbVReUwMN9W) | [650 Watts](https://open.spotify.com/artist/0LC81vaWHA3XuTkp8pqWOW) | [Thunder Volts](https://open.spotify.com/album/1go2Vu6ge1LxQIOH3ot16t) | 2:45 | 2023-01-13 |  |
 | [Thunderbolt Blitz](https://open.spotify.com/track/7tn4tHgB0yfNVv1hoS2RKg) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Electrifying Thunder](https://open.spotify.com/album/4vXUtxHGMiwqsYXVRxt9fT) | 3:06 | 2024-03-11 |  |
 | [Thundering Heights](https://open.spotify.com/track/2tameDUM4Zo3pLcEzg9OFU) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:10 | 2023-01-13 |  |
+| [Thunders Might](https://open.spotify.com/track/3TKfVSARe9m8N6QUT6u8zI) | [Noise Matters](https://open.spotify.com/artist/4NZCehSaIGVPKa1nGQZqJA) | [Thunders Might](https://open.spotify.com/album/1CNVjxT73r4iKuyRAMm60R) | 3:05 | 2025-11-11 |  |
 | [Thunderstorm](https://open.spotify.com/track/6H5aGE9xZEPkpeEAn4f7b8) | [Pure Sleeping Vibes](https://open.spotify.com/artist/3mIBjlyLYr6VwPH3kvcsEy) | [Thunder and Rain Sounds to Fall Asleep](https://open.spotify.com/album/5mFo23J7LOWQA9kHw97DVH) | 5:17 | 2025-07-23 | 2025-10-01 |
 | [Thunderstorm at Night](https://open.spotify.com/track/2Uuu9xFGwFfoY30wGWOG01) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 1:37 | 2022-12-09 |  |
 | [Thunderstorm Dreams](https://open.spotify.com/track/1OLPJ23bUhdDSHXrUs5Tbj) | [Lycro Sale](https://open.spotify.com/artist/5F3VOYcGYByzeuoUCn11My) | [Thunderstorm Serenade](https://open.spotify.com/album/6CVhlRudKSObIqgPJTkG76) | 2:55 | 2023-09-20 |  |

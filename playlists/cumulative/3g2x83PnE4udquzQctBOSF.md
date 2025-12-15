@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-427 songs - 1 day 1 hr 25 min
+430 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Outer Space \- SLVR Remix](https://open.spotify.com/track/2NKQH2R0sqi4zBeQKkZ3vC) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Outer Space \(Remixes\)](https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j) | 3:34 | 2023-08-27 | 2023-09-26 |
 | [Pablo](https://open.spotify.com/track/76NTYF4tcQ7pMErL0PPpCO) | [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6), [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Pablo](https://open.spotify.com/album/54sLNgzlkwJa22OGF5G56N) | 2:53 | 2023-08-20 | 2023-09-26 |
 | [Paradise](https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 4:11 | 2023-03-31 | 2023-04-17 |
+| [PEOPLE](https://open.spotify.com/track/0DLnXvcFb6f70DZ3NJTOpa) | [Enrico Chialastri](https://open.spotify.com/artist/79gyVvzs3cLxfCleiiZ9e5) | [PEOPLE](https://open.spotify.com/album/4VbAEgz7EDCz8k6C4z6hRn) | 3:32 | 2025-12-14 |  |
 | [Perreo](https://open.spotify.com/track/0B5wxpAcOlXYvvPyC4L933) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [Perreo](https://open.spotify.com/album/2l59DNMUyDHJazlbBkew3b) | 2:41 | 2023-07-16 | 2023-08-20 |
 | [Piano Cut \- Original Mix](https://open.spotify.com/track/47xYP9z5UvuRinGKLuFHba) | [Krizman Toni](https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0) | [Piano Cut](https://open.spotify.com/album/4Btco6sLBM6L2mQtIJbwtu) | 5:42 | 2023-04-16 | 2023-05-01 |
 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-07-07 |  |
@@ -322,6 +323,7 @@
 | [Ready Or Not](https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Ready Or Not](https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7) | 3:09 | 2023-02-10 | 2024-03-09 |
 | [Real](https://open.spotify.com/track/0sHxBKvOOrPfCfBZjOIbkN) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Isenberg](https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal) | [Real](https://open.spotify.com/album/1S3kgoT0prKVmnoX18HZRk) | 3:24 | 2023-01-29 | 2023-03-06 |
 | [Red Tape](https://open.spotify.com/track/0WauEaIUUp3RBd22n7hSM4) | [White Off](https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N) | [Red Tape](https://open.spotify.com/album/4XFQEDf0gtebWEEdB7gT2h) | 3:07 | 2024-10-13 |  |
+| [Relative](https://open.spotify.com/track/6tPBj6TsuJWRiDVgIavgoB) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu) | [Relative](https://open.spotify.com/album/54LJSXrny0n1aFXxR0bg0N) | 3:49 | 2025-12-14 |  |
 | [Reload](https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg) | [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [Reload](https://open.spotify.com/album/5PbhhWEN3BsplhcFBTDIAH) | 3:52 | 2023-07-16 | 2023-08-20 |
 | [Rhymorator](https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Rhymorator](https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW) | 2:32 | 2023-01-29 | 2023-03-06 |
 | [Roce](https://open.spotify.com/track/68EdmTrrTvdUh1RP32OTsp) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Off Week Special](https://open.spotify.com/album/3nHqThiSPmbFfZUxQuTz2K) | 5:31 | 2023-06-18 | 2023-07-17 |
@@ -435,5 +437,6 @@
 | [You're Not Alone \- Sinner & James Radio Edit](https://open.spotify.com/track/7A7XNiQSeL58ejbuJNflzE) | [Jerome Robins](https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [You're Not Alone](https://open.spotify.com/album/7imt6YSRHWhpP0FfKorKXY) | 4:14 | 2023-01-22 | 2023-02-20 |
 | [Your Mind Is Dirty](https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Your Mind Is Dirty](https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR) | 3:18 | 2023-05-21 | 2023-06-12 |
 | [Z Pack](https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Z Pack](https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood) | 3:07 | 2023-06-11 | 2023-07-03 |
+| [Zed](https://open.spotify.com/track/6ve2DARqa8GFqpDBpYj65y) | [Laera](https://open.spotify.com/artist/66dGFhhv24QNwzclFPMlIz), [Henrik Voght](https://open.spotify.com/artist/2p3u5Wl9xYehO9QRwmnvTc) | [Zed](https://open.spotify.com/album/2Wjq0qdw3QQghtFWcH2zkS) | 4:05 | 2025-12-14 |  |
 
 \*This playlist was first scraped on 2023-02-03. Prior content cannot be recovered.

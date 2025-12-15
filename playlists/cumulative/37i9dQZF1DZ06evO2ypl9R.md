@@ -4,10 +4,11 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-70 songs - 6 hr 25 min
+71 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Cloudy Mist](https://open.spotify.com/track/4J1VMEOAQeqFVaAUwY4o5d) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 8:56 | 2025-12-15 |  |
 | [A Day Without U](https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 3:37 | 2025-06-28 |  |
 | [A Time To Remember \- Remix](https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Blue Note Revisited](https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h) | 4:43 | 2025-06-28 |  |
 | [Amnesia](https://open.spotify.com/track/2S7PGZYwLFzzqjp0WCP4XO) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 5:13 | 2025-07-25 | 2025-10-02 |
@@ -54,7 +55,7 @@
 | [Music For The Gods](https://open.spotify.com/track/60mWMUdenqnSjEqPVOpomd) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 6:40 | 2025-10-06 | 2025-12-14 |
 | [My Reflection](https://open.spotify.com/track/1vQstVQMpgM26zzHUyoDTA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 5:24 | 2025-06-28 |  |
 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 | 2025-06-28 |  |
-| [No Way](https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 6:01 | 2025-08-23 |  |
+| [No Way](https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 6:01 | 2025-08-23 | 2025-12-15 |
 | [Plantation Earth](https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |
 | [Pride \(Main Mix\)](https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Nadirah Shakoor](https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy) | [Pride](https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68) | 6:28 | 2025-06-28 |  |
 | [Put It On \- Osunlade Club Mix](https://open.spotify.com/track/1SpdnBjTgVNmtjdmAHMR9K) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Ernesto](https://open.spotify.com/artist/1whoHyyDCn7LqwFWdJjyqg) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:52 | 2025-07-02 | 2025-07-06 |

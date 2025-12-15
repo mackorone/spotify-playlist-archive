@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Calero LDN.",
-  "num_followers": 113512,
+  "num_followers": 113514,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACg+ufkzB9VsnlvnQSpeoUR8/Hwx",
+  "snapshot_id": "AAAAAM/fD0I7lDw9pfmeOShWfSrZNJCT",
   "tracks": [
     {
       "added_at": "2025-12-05 13:00:12",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
-      },
-      "artists": [
-        {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Demasiados Enemigos",
         "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 267038,
       "name": "Adios Reina Mia",
       "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Raska Y Pierde",
+        "url": "https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        }
+      ],
+      "duration_ms": 210279,
+      "name": "Preso 2023",
+      "url": "https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -215,18 +215,34 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Raska Y Pierde",
-        "url": "https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH"
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
       },
       "artists": [
         {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
         }
       ],
-      "duration_ms": 210279,
-      "name": "Preso 2023",
-      "url": "https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w"
+      "duration_ms": 103000,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Impuesto Revolucionario",
+        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
+      },
+      "artists": [
+        {
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Historia triste",
+      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -243,22 +259,6 @@
       "duration_ms": 192800,
       "name": "La \u00daltima Patada",
       "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
-      },
-      "artists": [
-        {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Enemigo Publico",
-      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Impuesto Revolucionario",
-        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
       },
       "artists": [
         {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Historia triste",
-      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
+      "duration_ms": 158946,
+      "name": "Enemigo Publico",
+      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "XX5",
-        "url": "https://open.spotify.com/album/50nfGrvQcaeQdqzFxlN6u3"
+        "name": "Los Chicos No Est\u00e1n Bien",
+        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
       },
       "artists": [
         {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 190801,
-      "name": "Otra noche - XX5",
-      "url": "https://open.spotify.com/track/4EneUyoQbFXysxjuK11Jve"
+      "duration_ms": 202488,
+      "name": "Los Chicos No Est\u00e1n Bien",
+      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Los Chicos No Est\u00e1n Bien",
-        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
+        "name": "XX5",
+        "url": "https://open.spotify.com/album/50nfGrvQcaeQdqzFxlN6u3"
       },
       "artists": [
         {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
         }
       ],
-      "duration_ms": 202488,
-      "name": "Los Chicos No Est\u00e1n Bien",
-      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
+      "duration_ms": 190801,
+      "name": "Otra noche - XX5",
+      "url": "https://open.spotify.com/track/4EneUyoQbFXysxjuK11Jve"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "N.S.A. La Santa Familia",
-        "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
-      },
-      "artists": [
-        {
-          "name": "Non Servium",
-          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "El Espiritu del Oi!",
-      "url": "https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "HARRERA LEKU BAT",
         "url": "https://open.spotify.com/album/0jxfXOaoffTj6hng0Uljip"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 179846,
       "name": "HARRERA LEKU BAT",
       "url": "https://open.spotify.com/track/1uApsPmvPTyzr4T4SBTHON"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "N.S.A. La Santa Familia",
+        "url": "https://open.spotify.com/album/2z3V6ipEnmD9CbaOcWAjKF"
+      },
+      "artists": [
+        {
+          "name": "Non Servium",
+          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
+        }
+      ],
+      "duration_ms": 313946,
+      "name": "El Espiritu del Oi!",
+      "url": "https://open.spotify.com/track/1tef2YV1xTcWBqr6K376ab"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "D\u00edmelo a la Cara",
-        "url": "https://open.spotify.com/album/7bd1ysAXXkN3kE1Gi9rx8H"
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
       },
       "artists": [
         {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
         }
       ],
-      "duration_ms": 169415,
-      "name": "D\u00edmelo a la Cara",
-      "url": "https://open.spotify.com/track/3cBiSF13DvX2km6FbfJ1uK"
+      "duration_ms": 147653,
+      "name": "Escupe",
+      "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+        "name": "D\u00edmelo a la Cara",
+        "url": "https://open.spotify.com/album/7bd1ysAXXkN3kE1Gi9rx8H"
       },
       "artists": [
         {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 147653,
-      "name": "Escupe",
-      "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
+      "duration_ms": 169415,
+      "name": "D\u00edmelo a la Cara",
+      "url": "https://open.spotify.com/track/3cBiSF13DvX2km6FbfJ1uK"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
+        "name": "Ni Descanso, Ni Paz!",
+        "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
+      },
+      "artists": [
+        {
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+        }
+      ],
+      "duration_ms": 137102,
+      "name": "Ni Descanso, Ni Paz!",
+      "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
         "name": "Los Fantasmas",
         "url": "https://open.spotify.com/album/5pAzx5gDZpEnMgmXlMH8Kw"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Ni Descanso, Ni Paz!",
-        "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
+        "name": "Bienvenidos a Occidente",
+        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
       "artists": [
         {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+          "name": "Disidencia",
+          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
         }
       ],
-      "duration_ms": 137102,
-      "name": "Ni Descanso, Ni Paz!",
-      "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
+      "duration_ms": 254946,
+      "name": "Prefiero Caminar",
+      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -803,22 +819,6 @@
       "duration_ms": 148000,
       "name": "Ni una Sola Palabra",
       "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Bienvenidos a Occidente",
-        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
-      },
-      "artists": [
-        {
-          "name": "Disidencia",
-          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "Prefiero Caminar",
-      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Himnos desde el Infierno",
-        "url": "https://open.spotify.com/album/49KlmVmf1aFKXpXuQ65C0x"
-      },
-      "artists": [
-        {
-          "name": "Maldito Matas",
-          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
-        }
-      ],
-      "duration_ms": 143581,
-      "name": "Le\u00f1a Al Fuego",
-      "url": "https://open.spotify.com/track/2pJuGbbOLT6P2wv0xyCfnj"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Amar Mata (Remasterizado 2024)",
         "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 184262,
       "name": "Amar Mata - Remasterizado 2024",
       "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Himnos desde el Infierno",
+        "url": "https://open.spotify.com/album/49KlmVmf1aFKXpXuQ65C0x"
+      },
+      "artists": [
+        {
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+        }
+      ],
+      "duration_ms": 143581,
+      "name": "Le\u00f1a Al Fuego",
+      "url": "https://open.spotify.com/track/2pJuGbbOLT6P2wv0xyCfnj"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+      },
+      "artists": [
+        {
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
-      },
-      "artists": [
-        {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "A Bocajarro + Sopla Sopla",
         "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
       },
@@ -1007,94 +1007,6 @@
       "duration_ms": 289367,
       "name": "Maki Navaja, El \u00daltimo Chorisso",
       "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
-      },
-      "artists": [
-        {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
-        }
-      ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Hasta Alcanzar la Eternidad",
-        "url": "https://open.spotify.com/album/4Br6Uo20r4CA53ENlfU9uF"
-      },
-      "artists": [
-        {
-          "name": "Inkandescencia",
-          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
-        },
-        {
-          "name": "Laura Dsk",
-          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
-        }
-      ],
-      "duration_ms": 190296,
-      "name": "Hasta Alcanzar la Eternidad",
-      "url": "https://open.spotify.com/track/1P6TdzApdSr9fiCLhrKLdL"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "no quiero irme",
-        "url": "https://open.spotify.com/album/5oqJC5aOyKm22QgwyoBZOR"
-      },
-      "artists": [
-        {
-          "name": "Galgo Diamante",
-          "url": "https://open.spotify.com/artist/36I1EHmwcYh6yIBl57eGta"
-        },
-        {
-          "name": "TETAS FR\u00cdAS",
-          "url": "https://open.spotify.com/artist/6Lplaf8qcklV41FjuyBw8S"
-        }
-      ],
-      "duration_ms": 131125,
-      "name": "no quiero irme",
-      "url": "https://open.spotify.com/track/17OaJWKUg7PtCzsqMFwezi"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Putos Nazis",
-        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 137963,
-      "name": "Putos Nazis",
-      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1119,18 +1031,90 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+        "name": "Putos Nazis",
+        "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+      "duration_ms": 137963,
+      "name": "Putos Nazis",
+      "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Hasta Alcanzar la Eternidad",
+        "url": "https://open.spotify.com/album/4Br6Uo20r4CA53ENlfU9uF"
+      },
+      "artists": [
+        {
+          "name": "Inkandescencia",
+          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
+        },
+        {
+          "name": "Laura Dsk",
+          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
+        }
+      ],
+      "duration_ms": 190296,
+      "name": "Hasta Alcanzar la Eternidad",
+      "url": "https://open.spotify.com/track/1P6TdzApdSr9fiCLhrKLdL"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "no quiero irme",
+        "url": "https://open.spotify.com/album/5oqJC5aOyKm22QgwyoBZOR"
+      },
+      "artists": [
+        {
+          "name": "Galgo Diamante",
+          "url": "https://open.spotify.com/artist/36I1EHmwcYh6yIBl57eGta"
+        },
+        {
+          "name": "TETAS FR\u00cdAS",
+          "url": "https://open.spotify.com/artist/6Lplaf8qcklV41FjuyBw8S"
+        }
+      ],
+      "duration_ms": 131125,
+      "name": "no quiero irme",
+      "url": "https://open.spotify.com/track/17OaJWKUg7PtCzsqMFwezi"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1147,22 +1131,6 @@
       "duration_ms": 266733,
       "name": "Ellos Dicen Mierda (Live)",
       "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "El Orden",
-        "url": "https://open.spotify.com/album/4XZYPyToecrIUgXH0lXpzM"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
-        }
-      ],
-      "duration_ms": 220678,
-      "name": "El enemigo p\u00fablico",
-      "url": "https://open.spotify.com/track/3T8Qwtvj3v61PsGQef6oKk"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1199,18 +1167,34 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "El Mutante del Barrio Chino",
-        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
       },
       "artists": [
         {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Empacho de Orfidal",
-      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "El Orden",
+        "url": "https://open.spotify.com/album/4XZYPyToecrIUgXH0lXpzM"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+        }
+      ],
+      "duration_ms": 220678,
+      "name": "El enemigo p\u00fablico",
+      "url": "https://open.spotify.com/track/3T8Qwtvj3v61PsGQef6oKk"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1231,6 +1215,22 @@
       "duration_ms": 165750,
       "name": "Incomunicado",
       "url": "https://open.spotify.com/track/0t5spY5W5ArBj5lv7UIH6E"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "El Mutante del Barrio Chino",
+        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Empacho de Orfidal",
+      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        }
-      ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Futur Medieval",
         "url": "https://open.spotify.com/album/2EhyOyQg0SyUUYlp5o5EfN"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/0HdyU9Ozh37WppNBYGFyJN"
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
       "artists": [
         {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
         }
       ],
-      "duration_ms": 169943,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/108dqN2TqWExBnnmugs5xl"
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1367,6 +1351,22 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/0HdyU9Ozh37WppNBYGFyJN"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "duration_ms": 169943,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/108dqN2TqWExBnnmugs5xl"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Versos de Rabia",
-        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
-      },
-      "artists": [
-        {
-          "name": "Discordia",
-          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Ke Felicidad!",
-      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "El Baile de los que Sobran",
         "url": "https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 274261,
       "name": "El Baile de los que Sobran",
       "url": "https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Versos de Rabia",
+        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
+      },
+      "artists": [
+        {
+          "name": "Discordia",
+          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Ke Felicidad!",
+      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Su Falso Mundo - original",
+      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
         "name": "A Cara de Perro",
         "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 165573,
       "name": "Escupir\u00e9 Jodidos",
       "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2025-12-05 13:00:12",

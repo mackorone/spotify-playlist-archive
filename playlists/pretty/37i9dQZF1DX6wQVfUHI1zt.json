@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 240880,
+  "num_followers": 240925,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 169493,
-      "name": "Fuertemente",
-      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
+      "duration_ms": 245160,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 245160,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
+      "duration_ms": 169493,
+      "name": "Fuertemente",
+      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "Puro Tejano",
+        "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
+      },
+      "artists": [
+        {
+          "name": "Little Joe",
+          "url": "https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Borrachera",
+      "url": "https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 227986,
       "name": "T\u00fa Robaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "Puro Tejano",
-        "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
-      },
-      "artists": [
-        {
-          "name": "Little Joe",
-          "url": "https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Borrachera",
-      "url": "https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Contigo Quiero Estar",
-      "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 284120,
       "name": "Tejano Mix - Radio Edit",
       "url": "https://open.spotify.com/track/3XZw0d0smJsYJcgFJAsI5O"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Contigo Quiero Estar",
+      "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
     },
     {
       "added_at": "2024-05-02 04:14:20",

@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "FLOW ANIME BEST",
+        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251253,
+      "name": "DAYS",
+      "url": "https://open.spotify.com/track/0V11khqCtoJ0VksqBsN44x"
+    },
+    {
+      "album": {
         "name": "FLOW THE BEST \u301cSingle Collection\u301c",
         "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
       },
@@ -470,7 +488,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 255200,
       "name": "DAYS",
       "url": "https://open.spotify.com/track/49g1yJUzm4VbQUrKTIcQIa"

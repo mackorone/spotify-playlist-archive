@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49977,
+  "num_followers": 49983,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAAAoCbhsnnCjKbgXUbZNDiRj",
+  "snapshot_id": "aTysgAAAAACS5eq+MLV+kRFq1N6v18bJ",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 256765,
-      "name": "Lonely as It Gets",
-      "url": "https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 338346,
       "name": "Honey Pain",
       "url": "https://open.spotify.com/track/21dB5hK5tAJaGD3VTbQ7ly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 256765,
+      "name": "Lonely as It Gets",
+      "url": "https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5"
     },
     {
       "added_at": null,

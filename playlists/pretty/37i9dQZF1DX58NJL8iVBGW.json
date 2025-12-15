@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 802784,
+  "num_followers": 802811,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,22 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Spirit's Furnace",
-        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
+        "name": "Run On",
+        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Jamie Bower",
+          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
+        },
+        {
+          "name": "King Sugar",
+          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
         }
       ],
-      "duration_ms": 169254,
-      "name": "Hammers and Nails",
-      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
+      "duration_ms": 212705,
+      "name": "Run On",
+      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -267,22 +271,18 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Run On",
-        "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
+        "name": "Spirit's Furnace",
+        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
       },
       "artists": [
         {
-          "name": "Jamie Bower",
-          "url": "https://open.spotify.com/artist/7GIZ7nZRCs6XrIsXL2UZO1"
-        },
-        {
-          "name": "King Sugar",
-          "url": "https://open.spotify.com/artist/4bh1NXuxdUD1TV3w3M75aP"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 212705,
-      "name": "Run On",
-      "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
+      "duration_ms": 169254,
+      "name": "Hammers and Nails",
+      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Blackland Farmer",
-        "url": "https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl"
-      },
-      "artists": [
-        {
-          "name": "Hard Working Americans",
-          "url": "https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF"
-        }
-      ],
-      "duration_ms": 457666,
-      "name": "Blackland Farmer",
-      "url": "https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "Skunks",
         "url": "https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 207161,
       "name": "Skunks",
       "url": "https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "Blackland Farmer",
+        "url": "https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl"
+      },
+      "artists": [
+        {
+          "name": "Hard Working Americans",
+          "url": "https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF"
+        }
+      ],
+      "duration_ms": 457666,
+      "name": "Blackland Farmer",
+      "url": "https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm"
     },
     {
       "added_at": "2025-02-28 05:00:51",

@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 192380,
       "name": "De Tijger van de Kroeg",
       "url": "https://open.spotify.com/track/2pKg0EKeCyQbVgHoSStxfq"
@@ -5860,6 +5860,24 @@
     {
       "album": {
         "name": "Kapot",
+        "url": "https://open.spotify.com/album/5YCLCo7T7mmi7LMTIZUuGA"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Kapot",
+      "url": "https://open.spotify.com/track/2acWsH7fdAUeV6CLmLRITt"
+    },
+    {
+      "album": {
+        "name": "Kapot",
         "url": "https://open.spotify.com/album/2QAQiSleQ9tMNjchs39yXD"
       },
       "artists": [
@@ -5870,7 +5888,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 160000,
       "name": "Kapot",
       "url": "https://open.spotify.com/track/6a6RwdVkTtsjF15DCfi4Wz"
@@ -6188,6 +6206,24 @@
       "duration_ms": 236714,
       "name": "Lay My Heart Down Easy",
       "url": "https://open.spotify.com/track/0LKX3Svu3iSWTaXvPkSVZP"
+    },
+    {
+      "album": {
+        "name": "Left For Good",
+        "url": "https://open.spotify.com/album/3i3GvVgRCQzAYbMeWUSzMq"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233737,
+      "name": "Left For Good",
+      "url": "https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ"
     },
     {
       "album": {
@@ -7144,7 +7180,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 190443,
       "name": "Meisje Uit De Klas",
       "url": "https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5"
@@ -7472,7 +7508,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 234810,
       "name": "Move As One (Official Thunderdome 2025 Anthem)",
       "url": "https://open.spotify.com/track/3uljsRfJgrU0WnAbKXOQdZ"
@@ -7842,7 +7878,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -8498,7 +8534,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 140551,
       "name": "Pakjesavond! (Baila de gasolina parodie)",
       "url": "https://open.spotify.com/track/7IDVuRfzqIJbCy2AGtr0tF"
@@ -8800,10 +8836,28 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB"
+    },
+    {
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/2UmBwmCy1a73xlkS7ETWqo"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/0XUGA1XiO078tIGsoWci6r"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169864,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/1JCMqnaIOHJcAr514CnFcm"
     },
     {
       "album": {
@@ -9062,6 +9116,24 @@
       "duration_ms": 344346,
       "name": "Really Love",
       "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
+    },
+    {
+      "album": {
+        "name": "Rebanav 126bpm",
+        "url": "https://open.spotify.com/album/1pHOXBLIMAns5o6IZl4t9M"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126106,
+      "name": "Rebanav 126bpm",
+      "url": "https://open.spotify.com/track/0zJ73feFCS8807usUclLWo"
     },
     {
       "album": {
@@ -13006,7 +13078,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
@@ -13028,7 +13100,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

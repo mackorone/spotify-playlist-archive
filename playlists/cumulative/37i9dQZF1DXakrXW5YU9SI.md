@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-755 songs - 1 day 18 hr 13 min
+756 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Kalifornia](https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Kalifornia](https://open.spotify.com/album/7kD8PQnZQ5WetSlvANmeQk) | 4:33 | 2025-04-25 | 2025-06-17 |
 | [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 | 2024-10-07 | 2025-01-11 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-28 | 2024-07-06 |
-| [KATHARSIS](https://open.spotify.com/track/2EmeOCb1NohemsNva1SQZx) | [ARS LATRANS Orchestra](https://open.spotify.com/artist/1LzVOPgsaVzyFmXDqIPOCT), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il), [waterbody](https://open.spotify.com/artist/3KuudbK2QPuIFChpr6tCGb), [tim\_badel](https://open.spotify.com/artist/6bOiXcPbJZM9mBV7o8nM6A), [Szymon Paciora](https://open.spotify.com/artist/59NAlbFgu39Mr337r8ttkx), [low lab](https://open.spotify.com/artist/7nLBtOwJ0hhhO70jIZbGKF), [Alina Łapińska](https://open.spotify.com/artist/6ARISnFdGIlWiX3DFPFuWN) | [KATHARSIS](https://open.spotify.com/album/1aEzsCOQaGQLgz9CADG59A) | 4:25 | 2025-11-07 |  |
+| [KATHARSIS](https://open.spotify.com/track/2EmeOCb1NohemsNva1SQZx) | [ARS LATRANS Orchestra](https://open.spotify.com/artist/1LzVOPgsaVzyFmXDqIPOCT), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il), [waterbody](https://open.spotify.com/artist/3KuudbK2QPuIFChpr6tCGb), [tim\_badel](https://open.spotify.com/artist/6bOiXcPbJZM9mBV7o8nM6A), [Szymon Paciora](https://open.spotify.com/artist/59NAlbFgu39Mr337r8ttkx), [low lab](https://open.spotify.com/artist/7nLBtOwJ0hhhO70jIZbGKF), [Alina Łapińska](https://open.spotify.com/artist/6ARISnFdGIlWiX3DFPFuWN) | [KATHARSIS](https://open.spotify.com/album/1aEzsCOQaGQLgz9CADG59A) | 4:25 | 2025-11-07 | 2025-12-15 |
 | [KEEPITUP](https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv) | [babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [KEEPITUP](https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV) | 3:58 | 2025-11-14 | 2025-11-21 |
 | [Kiks](https://open.spotify.com/track/2PBL1iT96RCH7QDsaJaO9y) | [Blauka](https://open.spotify.com/artist/2ZgaoICJy1V38lHdzlVB8a) | [Kiks](https://open.spotify.com/album/2fH8e4eRciUmHPZzd1ycfa) | 4:02 | 2024-10-17 | 2024-10-26 |
 | [Killed For Sport](https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Killed For Sport](https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH) | 4:14 | 2025-02-28 | 2025-03-16 |
@@ -701,6 +701,7 @@
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-19 | 2025-03-01 |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-07 | 2024-11-22 |
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-15 | 2025-10-24 |
+| [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 | 2025-12-12 |  |
 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2025-10-10 | 2025-12-06 |
 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 | 2025-12-05 |  |
 | [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 | 2024-09-20 | 2024-10-07 |

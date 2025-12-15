@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,734 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,732 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

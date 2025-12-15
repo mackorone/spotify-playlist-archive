@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Luck Ra, Fede Vigevani & Ian Lucas.
 
-683 songs - 1 day 9 hr 41 min
+684 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,7 @@
 | [Usted No Sabe / Me Dedique a Perderte](https://open.spotify.com/track/6QuN3DFuPuDwgVtU1WtRUB) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Usted No Sabe / Me Dedique a Perderte](https://open.spotify.com/album/1llNvkYgRo3WxyH3G7n06M) | 3:44 | 2023-05-19 | 2023-06-27 |
 | [UWAIE \- versión cumbia](https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [UWAIE \(versión cumbia\)](https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7) | 2:42 | 2024-09-19 |  |
 | [Vamo A Tomar Una](https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Vamo A Tomar Una](https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0) | 2:09 | 2022-05-06 | 2023-02-13 |
-| [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 | 2021-12-23 |  |
+| [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 | 2021-12-23 | 2025-12-15 |
 | [VAS A VOLVER](https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [VAS A VOLVER](https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9) | 2:24 | 2024-01-12 |  |
 | [Veneno Para Olvidar / Agua Sucia](https://open.spotify.com/track/3wVbeNdqGlnQuqF24Q15Z4) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Veneno Para Olvidar / Agua Sucia](https://open.spotify.com/album/487MmOI6yOSImM3aq8mOcb) | 3:23 | 2023-09-29 | 2023-10-14 |
 | [Verano 2015](https://open.spotify.com/track/0qznQrLfR6rEMTms35VIQl) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Verano 2015](https://open.spotify.com/album/4LJviqH6Iy8rKo2fJF0qXh) | 2:46 | 2022-12-09 | 2023-01-25 |
@@ -691,5 +691,6 @@
 | [¡No Pasa Nada!](https://open.spotify.com/track/0XjezKSHXMIa7vldh3hORe) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [¡No Pasa Nada!](https://open.spotify.com/album/2ArZbZyCsuhS5ZNgNxC3Mo) | 2:34 | 2023-11-17 | 2023-12-13 |
 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 | 2021-12-23 | 2022-04-19 |
 | [¿Donde Estás amor?](https://open.spotify.com/track/5bq4lU9JzzC7Qp4vdIceiX) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Nort La Voz de las Mujeres](https://open.spotify.com/artist/2wjd3Pxws8qgPfVJSCKvjF), [La Tropicolombiana](https://open.spotify.com/artist/60bQrqWvIIuAlHxO7OT8e7) | [¿Dónde Estás Amor?](https://open.spotify.com/album/4YBsGoOV1dVke5QoLqyuUU) | 3:36 | 2023-09-29 | 2023-10-14 |
+| [Última Noche](https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK) | [Treekoo](https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Última Noche](https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK) | 2:46 | 2025-12-12 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

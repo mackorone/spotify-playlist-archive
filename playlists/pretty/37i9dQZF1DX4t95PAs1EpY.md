@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,283 likes - 100 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,290 likes - 100 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 99 | [Kintsugi](https://open.spotify.com/track/0hQuBjnwMQmashuK4vSo9E) | [Misanthrøpe](https://open.spotify.com/artist/1qhwj3J2sBsvimmad2ramG) | [Kintsugi](https://open.spotify.com/album/6yLyExSXJtG8dsim6NCbiU) | 2:14 |
 | 100 | [yugen](https://open.spotify.com/track/4EoHSd3lQ0rxtpudzXmiwp) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [Yugen](https://open.spotify.com/album/5mEko7sUy7vTn7Yvlmx0ij) | 1:45 |
 
-Snapshot ID: `AAAAAIQtCfVddsI0bea4G0V1YesJIz7b`
+Snapshot ID: `AAAAAM9ftsbb4GKCyO4wYq1sjtAyqfn8`

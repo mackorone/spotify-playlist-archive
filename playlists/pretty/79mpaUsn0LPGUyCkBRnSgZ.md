@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 626 songs - 1 day 16 hr 57 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 629 songs - 1 day 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -634,5 +634,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 624 | [Salsa Verde](https://open.spotify.com/track/1oG4pF6HQpCdEh90q5SNxw) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pogo Rodeo](https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL) | 3:24 |
 | 625 | [time \(a dream deferred\)](https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 1:58 |
 | 626 | [Next To Me](https://open.spotify.com/track/16MKLKWVZPt84xOwCU56hg) | [DJ Sabrina The Teenage DJ](https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh) | [Charmed](https://open.spotify.com/album/3hufhPvd2yMXONUeQjyrT3) | 7:37 |
+| 627 | [Hello, There](https://open.spotify.com/track/6Hm0mU868o8cPVkQ7tOmFa) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Vintage Violence](https://open.spotify.com/album/2o7YjekcSP7yiLXfuSy0ly) | 2:44 |
+| 628 | [White Light/White Heat](https://open.spotify.com/track/0Evhu0dKCkIuEn88Pmb9mj) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [White Light / White Heat](https://open.spotify.com/album/0HHmJpwOXXRJu9HI9iQiEO) | 2:47 |
+| 629 | [Fear Is A Man's Best Friend](https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:52 |
 
-Snapshot ID: `AAAIJ1ZTDcIZYBilybR5CYMqV5e0IRrN`
+Snapshot ID: `AAAIKm9HsBHu+1g86fn3ns2jJzZfHuOB`

@@ -5799,6 +5799,24 @@
     },
     {
       "album": {
+        "name": "PEOPLE",
+        "url": "https://open.spotify.com/album/4VbAEgz7EDCz8k6C4z6hRn"
+      },
+      "artists": [
+        {
+          "name": "Enrico Chialastri",
+          "url": "https://open.spotify.com/artist/79gyVvzs3cLxfCleiiZ9e5"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212523,
+      "name": "PEOPLE",
+      "url": "https://open.spotify.com/track/0DLnXvcFb6f70DZ3NJTOpa"
+    },
+    {
+      "album": {
         "name": "Perreo",
         "url": "https://open.spotify.com/album/2l59DNMUyDHJazlbBkew3b"
       },
@@ -6250,6 +6268,24 @@
       "duration_ms": 187617,
       "name": "Red Tape",
       "url": "https://open.spotify.com/track/0WauEaIUUp3RBd22n7hSM4"
+    },
+    {
+      "album": {
+        "name": "Relative",
+        "url": "https://open.spotify.com/album/54LJSXrny0n1aFXxR0bg0N"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229095,
+      "name": "Relative",
+      "url": "https://open.spotify.com/track/6tPBj6TsuJWRiDVgIavgoB"
     },
     {
       "album": {
@@ -8472,6 +8508,28 @@
       "duration_ms": 187529,
       "name": "Z Pack",
       "url": "https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh"
+    },
+    {
+      "album": {
+        "name": "Zed",
+        "url": "https://open.spotify.com/album/2Wjq0qdw3QQghtFWcH2zkS"
+      },
+      "artists": [
+        {
+          "name": "Laera",
+          "url": "https://open.spotify.com/artist/66dGFhhv24QNwzclFPMlIz"
+        },
+        {
+          "name": "Henrik Voght",
+          "url": "https://open.spotify.com/artist/2p3u5Wl9xYehO9QRwmnvTc"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245371,
+      "name": "Zed",
+      "url": "https://open.spotify.com/track/6ve2DARqa8GFqpDBpYj65y"
     }
   ],
   "url": "https://open.spotify.com/playlist/3g2x83PnE4udquzQctBOSF"

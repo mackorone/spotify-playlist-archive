@@ -1085,6 +1085,28 @@
     },
     {
       "album": {
+        "name": "Richer",
+        "url": "https://open.spotify.com/album/45rYDdhaBSxKsm5iMSHnqH"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149027,
+      "name": "Richer",
+      "url": "https://open.spotify.com/track/0gi0hs7oBAfFt8ux8yyczu"
+    },
+    {
+      "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },

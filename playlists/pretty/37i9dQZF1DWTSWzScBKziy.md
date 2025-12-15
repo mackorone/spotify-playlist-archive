@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,572 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,605 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 74 | [History](https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [The Truth](https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j) | 3:01 |
 | 75 | [Higher Places](https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Higher Places](https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf) | 2:33 |
 
-Snapshot ID: `AAAAAJ6OuhPnv3IwEeouKt89Qc3+lQZQ`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`

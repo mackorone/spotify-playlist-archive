@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 185242,
       "name": "Lightning in my Soul",
       "url": "https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 153291,
       "name": "Lightning in the Sunrise",
       "url": "https://open.spotify.com/track/2BHzD5rOBRUhtYiorjqndT"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 219495,
       "name": "The Beauty in the Sky",
       "url": "https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6"
@@ -2894,6 +2894,24 @@
       "duration_ms": 190000,
       "name": "Thundering Heights",
       "url": "https://open.spotify.com/track/2tameDUM4Zo3pLcEzg9OFU"
+    },
+    {
+      "album": {
+        "name": "Thunders Might",
+        "url": "https://open.spotify.com/album/1CNVjxT73r4iKuyRAMm60R"
+      },
+      "artists": [
+        {
+          "name": "Noise Matters",
+          "url": "https://open.spotify.com/artist/4NZCehSaIGVPKa1nGQZqJA"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185718,
+      "name": "Thunders Might",
+      "url": "https://open.spotify.com/track/3TKfVSARe9m8N6QUT6u8zI"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 35804,
+  "num_followers": 35810,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAACSu6soYgtvqkp8QmA1E2Bu",
+  "snapshot_id": "aTysgAAAAACHXvfRwj4NtGYcSdH7hKgF",
   "tracks": [
     {
       "added_at": null,
@@ -439,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+        "name": "birthday cake (duet)",
+        "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
       },
       "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 232340,
-      "name": "Best Damn Thing",
-      "url": "https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem"
+      "duration_ms": 205280,
+      "name": "birthday cake - duet",
+      "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
     },
     {
       "added_at": null,
@@ -471,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "birthday cake (duet)",
-        "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
       "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 205280,
-      "name": "birthday cake - duet",
-      "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
+      "duration_ms": 232340,
+      "name": "Best Damn Thing",
+      "url": "https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem"
     },
     {
       "added_at": null,

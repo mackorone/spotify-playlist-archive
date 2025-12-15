@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1iGVUchf9EL.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/laurenlondon/">Lauren London</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,267 likes - 57 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,268 likes - 57 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover:  Amanda Caesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,570 likes - 132 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,564 likes - 132 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

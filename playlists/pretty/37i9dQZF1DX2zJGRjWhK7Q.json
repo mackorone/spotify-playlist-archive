@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 233431,
+  "num_followers": 233492,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,26 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Oportunidad",
+        "url": "https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK"
+      },
+      "artists": [
+        {
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 331817,
+      "name": "Senor Sereno",
+      "url": "https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 387600,
       "name": "Ojala Te Vaya Bonito",
       "url": "https://open.spotify.com/track/44vubYg1sbgD5Sn8qzeHOH"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Oportunidad",
-        "url": "https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK"
-      },
-      "artists": [
-        {
-          "name": "Larry Harlow",
-          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
-        },
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 331817,
-      "name": "Senor Sereno",
-      "url": "https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA"
     },
     {
       "added_at": "2024-09-24 20:30:16",

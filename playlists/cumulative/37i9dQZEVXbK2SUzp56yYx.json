@@ -3444,7 +3444,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -7623,6 +7623,36 @@
     },
     {
       "album": {
+        "name": "From The Start (Funk)",
+        "url": "https://open.spotify.com/album/6rW7rx47xhyaZHKLF7ociU"
+      },
+      "artists": [
+        {
+          "name": "-Prey",
+          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
+        },
+        {
+          "name": "ZMAJOR",
+          "url": "https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP"
+        },
+        {
+          "name": "zxnc",
+          "url": "https://open.spotify.com/artist/5rxkaSGyLjU9IMtHY91Hqk"
+        },
+        {
+          "name": "Emrld!",
+          "url": "https://open.spotify.com/artist/2zzveUXTGULrNxwNo0jrss"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78620,
+      "name": "From The Start - Funk",
+      "url": "https://open.spotify.com/track/7tdfK0bCm65bz3gJL0A1cx"
+    },
+    {
+      "album": {
         "name": "Frysl\u00e2n",
         "url": "https://open.spotify.com/album/0EUaEFRUhjmGkIPaEoEGIY"
       },
@@ -10462,6 +10492,28 @@
       "duration_ms": 180925,
       "name": "I'll Make You Miss Me",
       "url": "https://open.spotify.com/track/5rFtmW5WSoT9uNYW1eYqq4"
+    },
+    {
+      "album": {
+        "name": "I'll see you soon",
+        "url": "https://open.spotify.com/album/4TlNlsOnkXhiErYny75smh"
+      },
+      "artists": [
+        {
+          "name": "\u0432\u0430\u043d\u044f \u043f\u0438\u0432\u043e",
+          "url": "https://open.spotify.com/artist/0fZAwDBHtCk3mxZJC3gOcG"
+        },
+        {
+          "name": "CLXNNEX",
+          "url": "https://open.spotify.com/artist/4peUWN8c78irSS8uXZpeXJ"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134697,
+      "name": "I'll see you soon",
+      "url": "https://open.spotify.com/track/6VAt2OnExP4cXPGWagFD3n"
     },
     {
       "album": {
@@ -13928,7 +13980,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -22092,7 +22144,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 224397,
       "name": "The Usual",
       "url": "https://open.spotify.com/track/0eMT49Cm6AO7Jc6t7ZHv5C"
@@ -23066,7 +23118,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
@@ -29308,7 +29360,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 152398,
       "name": "\u0414\u043e\u043c\u0438\u043a \u0432 \u043c\u0430\u0439\u043d\u043a\u0440\u0430\u0444\u0442\u0435",
       "url": "https://open.spotify.com/track/2XnzqmWlPPr131HCDqkmCI"
@@ -38988,7 +39040,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 127250,
       "name": "\u0422\u0430\u043a \u0447\u0442\u043e \u0435\u0441\u043b\u0438 \u044f \u0443\u043c\u0440\u0443 \u043f\u0435\u0440\u0432\u043e\u0439, \u0442\u044b \u0432\u0441\u0451 \u0440\u0430\u0432\u043d\u043e \u0431\u0443\u0434\u0435\u0448\u044c \u043c\u043d\u043e\u044e \u043e\u043a\u0440\u0443\u0436\u0451\u043d",
       "url": "https://open.spotify.com/track/5Clsu1zNdxLUtVd1ni43Rv"
@@ -40048,7 +40100,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 212000,
       "name": "\u0423\u043b\u0438\u0446\u0430 \u0420\u0430\u0441\u0442\u0430\u0444\u0430\u0440\u0430\u044f",
       "url": "https://open.spotify.com/track/2FOnNGddBKNyY6moICKOKs"
@@ -41796,6 +41848,24 @@
       "duration_ms": 127505,
       "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/3HuWSpAduuIwOr8Qfu1xK5"
+    },
+    {
+      "album": {
+        "name": "\u042f \u043d\u0435 \u0442\u043e \u0447\u0442\u043e\u0431\u044b",
+        "url": "https://open.spotify.com/album/5JGctIYnbaooY1ZnMwceOx"
+      },
+      "artists": [
+        {
+          "name": "\u0417\u043b\u0430\u0442\u0435\u043d\u0446\u0438\u044f",
+          "url": "https://open.spotify.com/artist/4BbjRQjxahli938e2QKZho"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204719,
+      "name": "\u042f \u043d\u0435 \u0442\u043e \u0447\u0442\u043e\u0431\u044b",
+      "url": "https://open.spotify.com/track/0oxwR4D18y60xqSWSQpAcw"
     },
     {
       "album": {

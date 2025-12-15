@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 85102,
+  "num_followers": 85112,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
         "name": "Links, Rechts",
         "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 192000,
       "name": "Links, Rechts",
       "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -959,30 +959,22 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Vluchtstrook (Sound Rush Remix)",
-        "url": "https://open.spotify.com/album/1aYLG6jDu6GtEqWe3RnwcV"
+        "name": "Allez Allez Allez (Original Mix)",
+        "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
         },
         {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Buren Van De Brandweer",
+          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
         }
       ],
-      "duration_ms": 178072,
-      "name": "Vluchtstrook - Sound Rush Remix",
-      "url": "https://open.spotify.com/track/3EO5M4SVTz6XinImb0Q95K"
+      "duration_ms": 215612,
+      "name": "Allez Allez Allez - Original Mix",
+      "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -1007,22 +999,30 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Allez Allez Allez (Original Mix)",
-        "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
+        "name": "Vluchtstrook (Sound Rush Remix)",
+        "url": "https://open.spotify.com/album/1aYLG6jDu6GtEqWe3RnwcV"
       },
       "artists": [
         {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
         },
         {
-          "name": "Buren Van De Brandweer",
-          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
         }
       ],
-      "duration_ms": 215612,
-      "name": "Allez Allez Allez - Original Mix",
-      "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
+      "duration_ms": 178072,
+      "name": "Vluchtstrook - Sound Rush Remix",
+      "url": "https://open.spotify.com/track/3EO5M4SVTz6XinImb0Q95K"
     },
     {
       "added_at": "2025-10-21 11:57:23",

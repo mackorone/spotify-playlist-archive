@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : LIK",
+  "description": "New Music from Kollywood.\nCover : Parasakthi",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -29595,6 +29595,40 @@
     },
     {
       "album": {
+        "name": "Namakkana kaalam (From \"Parasakthi\") (Tamil)",
+        "url": "https://open.spotify.com/album/2QI7o1EEnz022K7IhXYCGg"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244472,
+      "name": "Namakkana kaalam (From \"Parasakthi\") (Tamil)",
+      "url": "https://open.spotify.com/track/1TajCBsPtEwcsdrhQ6XYx8"
+    },
+    {
+      "album": {
         "name": "Mahavatar Narsimha (Tamil) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/5TWEwtlcIxGVXcceuffvJx"
       },
@@ -43092,7 +43126,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 198000,
       "name": "Thaenkoodey - From \"Middle Class\"",
       "url": "https://open.spotify.com/track/3YXm3K89FDQaBLuvirHIqx"

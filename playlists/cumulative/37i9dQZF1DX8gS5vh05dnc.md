@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-399 songs - 21 hr 17 min
+400 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [don't tell me i'm going to hell](https://open.spotify.com/track/2evOGNgFQEAhArKH7R8sWv) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [don't tell me that i'm going to hell](https://open.spotify.com/album/12m4XCBwjeQ3wXb2EjXCq1) | 3:49 | 2024-06-03 | 2024-06-10 |
 | [Don't Wanna Die Young](https://open.spotify.com/track/12DdKDIwU5Nf2dVC0XYAKt) | [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Don't Wanna Die Young](https://open.spotify.com/album/3bJEvgpuUOJJwuKzaZpGZA) | 3:05 | 2022-06-06 | 2022-06-11 |
 | [Done for Me \(feat\. Kehlani\)](https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:00 | 2023-02-13 | 2024-04-19 |
+| [Don’t Worry](https://open.spotify.com/track/3SdpIiX0RAj9FSqpfV7mAB) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5), [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Don’t Worry](https://open.spotify.com/album/7nANoO4JFA0TGiEtMzFdsH) | 4:08 | 2025-12-14 |  |
 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 | 2022-07-25 |  |
 | [Drinking On A Tuesday](https://open.spotify.com/track/4UXIejXKvrHnbKoCNxojQA) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Drinking On A Tuesday](https://open.spotify.com/album/7iE0mJLOVvthwGkN04OBZ0) | 3:16 | 2022-06-06 | 2022-07-29 |
 | [Drunk Texting](https://open.spotify.com/track/4azlX12Lp0PMdnQ8BGrNIL) | [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx), [Kai Takahashi](https://open.spotify.com/artist/5vp0Xrp0OxMrfiRyxgVpGV) | [Drunk Texting](https://open.spotify.com/album/4LcY7lc6IwfUs4NpQVzPC5) | 3:13 | 2022-06-06 | 2022-07-26 |
@@ -372,7 +373,7 @@
 | [Thirsty](https://open.spotify.com/track/37Gq279gcbTuEndcpQhr24) | [The Sam Willows](https://open.spotify.com/artist/0mXXLFHmd5bUHxkzaC9ujw) | [I Know, But Where](https://open.spotify.com/album/74LIZ0NAj4d5eXwvpdH1xg) | 3:21 | 2022-06-06 | 2022-07-29 |
 | [Throw It Off](https://open.spotify.com/track/4cq3AXjJ3y75uVo71XE5QM) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [Throw It Off](https://open.spotify.com/album/0s1SW2HOER0iorhOwFNWh7) | 3:42 | 2022-06-06 | 2022-07-29 |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2022-10-10 |  |
-| [Til Its Over](https://open.spotify.com/track/19tUFGOqACklyk4J1DvnSo) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Til Its Over](https://open.spotify.com/album/0DnZZifA6nX0e9zMMtNIOZ) | 3:05 | 2025-11-30 |  |
+| [Til Its Over](https://open.spotify.com/track/19tUFGOqACklyk4J1DvnSo) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Til Its Over](https://open.spotify.com/album/0DnZZifA6nX0e9zMMtNIOZ) | 3:05 | 2025-11-30 | 2025-12-15 |
 | [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-25 | 2022-11-08 |
 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-17 | 2023-07-25 |
 | [To the Moon](https://open.spotify.com/track/2stihimvRIhZHr5m7McSku) | [RYAN ANDERS](https://open.spotify.com/artist/3iYsK6Jqr2MxPcUvcFt478) | [To the Moon](https://open.spotify.com/album/3MsdARcsBo02leLqVMPxJw) | 2:50 | 2022-06-06 | 2022-07-29 |

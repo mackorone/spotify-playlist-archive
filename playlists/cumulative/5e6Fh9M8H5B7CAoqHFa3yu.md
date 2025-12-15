@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,652 songs - 4 day 4 hr 17 min
+1,654 songs - 4 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1304,6 +1304,7 @@
 | [sleep now darling](https://open.spotify.com/track/0W0wg2X9u1BPPgBcZhdLwG) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 3:49 | 2025-10-28 |  |
 | [sleep now little one](https://open.spotify.com/track/2BrQcbEuhUuq6OKtko6jdq) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 2:33 | 2025-10-28 |  |
 | [Sleepless](https://open.spotify.com/track/73rXOHpBcGCPbY6hKETvBD) | [Woendzi](https://open.spotify.com/artist/0w9WB3GylPavLzSl78Wl4r) | [Sleepless](https://open.spotify.com/album/0N1E9ekYWFOiE6HV747vF0) | 5:00 | 2025-07-13 |  |
+| [Slipping Away](https://open.spotify.com/track/4w6vZbPYs0nIzA84Vu041d) | [Adam Briscoe](https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y) | [Slipping Away](https://open.spotify.com/album/4RysAhFglAR4ZeZQGsCkPD) | 3:04 | 2025-12-14 |  |
 | [Slow Motion](https://open.spotify.com/track/3sMEKIvwYzIwx2jYjR8arx) | [Solar Twin](https://open.spotify.com/artist/50Ekd3KAzVMWwInjY87Gaj) | [Pink Noise](https://open.spotify.com/album/5J06ZzjwMI5FUOiWaaTgux) | 3:01 | 2025-07-02 |  |
 | [Snake Attack Dub](https://open.spotify.com/track/47zy5LaINRR7YvsDI7YOOY) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:10 | 2024-05-01 |  |
 | [Snow](https://open.spotify.com/track/3SrlN6K8GZubq1ochg096u) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Snow](https://open.spotify.com/album/4eparkfh4pb1mJN3KDMfyz) | 2:59 | 2024-03-17 |  |
@@ -1412,6 +1413,7 @@
 | [That Fine Day](https://open.spotify.com/track/1L7BRPrLeLXiiFp2C9HNmc) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:44 | 2024-03-25 |  |
 | [that was pretty good](https://open.spotify.com/track/7wtBZCncqHqB6rJPFCkHu9) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 2:36 | 2025-09-24 |  |
 | [The Charlie Song](https://open.spotify.com/track/01wjH8ORTll0A52useIlp5) | [One MInd Music](https://open.spotify.com/artist/1PoRHqbNOaCn3fGlnxWnZv), [Apolline](https://open.spotify.com/artist/776fUz9VPpXm6Xg1cQjtpC) | [The Charlie Song](https://open.spotify.com/album/6QMv1mpzswQYopYNTuum6z) | 2:50 | 2025-06-09 |  |
+| [The Club](https://open.spotify.com/track/2IXMBNDc6Zd4sNIy1yeASH) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:43 | 2025-12-14 |  |
 | [The Comeback Kid](https://open.spotify.com/track/70duDlgOF7i2GLB0Lugtwt) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:26 | 2025-07-02 |  |
 | [The Dub Sound](https://open.spotify.com/track/5rj6RDo9B18H57AHF62XEX) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [MKD](https://open.spotify.com/album/6JpOy0NsksNvyMAiqIHri3) | 4:37 | 2024-03-10 |  |
 | [The End of a Dream](https://open.spotify.com/track/4CnCOKgQFyaWYrJuv8hHYa) | [the andi & meicheng project](https://open.spotify.com/artist/7byI2YEssv2cp3AIs43poE) | [The End of a Dream](https://open.spotify.com/album/1PgU6LFcoTk1DbAGQksuLG) | 4:29 | 2025-09-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: James Alyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,722 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,720 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 9 | [Mondegreen](https://open.spotify.com/track/7wEmOuZxqVJDPvArxyaSBw) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/3ttWXgnbXQWVleBm0Xj8TQ) | 3:13 |
 | 10 | [Daydreaming Ⅰ](https://open.spotify.com/track/0F1YeN3S1L0dSiU371a4Sd) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Daydreaming](https://open.spotify.com/album/1eb263XS9jW2t0nMVXOaxq) | 7:36 |
 | 11 | [Harap Dan Ragu](https://open.spotify.com/track/2FBPuxsygz2z5ZWOPe66Le) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Harap Dan Ragu](https://open.spotify.com/album/1aFNZ4zyms3ykHkZHql4LN) | 3:12 |
-| 12 | [Unknown Island](https://open.spotify.com/track/0DFdHBXkNHzkErWowep6Ak) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/0imMfpeWlSPj9E5Sy0Bgui) | 4:16 |
+| 12 | [Babel \- Re\-recorded](https://open.spotify.com/track/10xfnXloDbfdwDwA9MyEyK) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Babel \(Re\-recorded\)](https://open.spotify.com/album/2eyT1jowj8QUaDUl0qz9fO) | 4:38 |
 | 13 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:45 |
 | 14 | [wo ai ni](https://open.spotify.com/track/15f7uyz8tXgasYAL7N6WWE) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/3GKlSjIhy3WIQg34qcEeyG) | 3:31 |
 | 15 | [荒唐的盡頭](https://open.spotify.com/track/3SlT7LcKdDY0yGEAtss6xg) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [荒唐的盡頭](https://open.spotify.com/album/4EeV6PLkovXhliJXzAZfba) | 4:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Already Shown](https://open.spotify.com/track/3SbtnxQxWyfSsbwhgXdPDV) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Drift With Me](https://open.spotify.com/album/1wMxrX1hcxYZE8Xt4QtrTc) | 3:22 |
 | 100 | [Either Way](https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Either Way](https://open.spotify.com/album/5hEuteioYm1DYSQDFpzVXU) | 3:36 |
 
-Snapshot ID: `AAAAAD39HUslNaQM7V+y+hkwmTSCHxms`
+Snapshot ID: `AAAAAJg0xqCJc+9wOVRKnH2BMHkTvgR7`

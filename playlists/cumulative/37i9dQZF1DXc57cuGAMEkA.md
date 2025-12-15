@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Fred again.., Gorillaz, くるり, SKY\-HI and more!
 
-12,013 songs - 27 day 22 hr 26 min
+12,014 songs - 27 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5357,7 +5357,8 @@
 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 | 2024-05-23 | 2024-06-01 |
 | [LA DURANGO](https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [LA DURANGO](https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ) | 4:22 | 2024-05-10 | 2024-05-17 |
 | [La Elegida](https://open.spotify.com/track/7Do0G6hwdVCUTuEqa2eEe2) | [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [La Elegida](https://open.spotify.com/album/35RiGLZarXKvekrknPYPXh) | 2:19 | 2025-01-30 | 2025-02-07 |
-| [La fille pas cool](https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs) | 4:04 | 2025-12-11 |  |
+| [La fille pas cool](https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs) | 4:04 | 2025-12-11 | 2025-12-15 |
+| [La fille pas cool](https://open.spotify.com/track/4GGFIOBPnwTPWmyHo7QLPu) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/5CunqOhYnsDlFZrML0XjuE) | 4:04 | 2025-12-15 |  |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-02 | 2023-02-10 |
 | [La gitana](https://open.spotify.com/track/1jvoM2Nw7v9VZ4ihJRKG6i) | [Fritz Kreisler](https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe), [HIMARI](https://open.spotify.com/artist/2Y1xtY1448YNAQ3qMRPLan), [Chelsea Wang](https://open.spotify.com/artist/1pN00t4toF0cIRmnW66n41) | [HIMARI](https://open.spotify.com/album/42A4LiNR7S3eEKSA0xewX7) | 3:25 | 2025-05-23 | 2025-05-30 |
 | [la jefa del triple 4](https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [me estoy volviendo loca](https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s) | 2:19 | 2025-04-17 | 2025-04-25 |

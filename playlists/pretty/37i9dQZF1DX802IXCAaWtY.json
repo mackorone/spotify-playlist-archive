@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1462277,
+  "num_followers": 1462469,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -413,7 +413,7 @@
       "artists": [
         {
           "name": "Ann Lee",
-          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+          "url": "https://open.spotify.com/artist/36D3P7KjZCdQqeKAmd0NnJ"
         }
       ],
       "duration_ms": 230933,
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "U got 2 know album",
-        "url": "https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ"
-      },
-      "artists": [
-        {
-          "name": "Cappella",
-          "url": "https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg"
-        }
-      ],
-      "duration_ms": 291800,
-      "name": "Move On Baby",
-      "url": "https://open.spotify.com/track/1PavRrF6Ydo0HSePmMt5tL"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "Don\u2019t Stop Movin\u2019",
         "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 319866,
       "name": "Don't Stop Movin'",
       "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "U got 2 know album",
+        "url": "https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ"
+      },
+      "artists": [
+        {
+          "name": "Cappella",
+          "url": "https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg"
+        }
+      ],
+      "duration_ms": 291800,
+      "name": "Move On Baby",
+      "url": "https://open.spotify.com/track/1PavRrF6Ydo0HSePmMt5tL"
     },
     {
       "added_at": "2024-07-15 19:54:53",

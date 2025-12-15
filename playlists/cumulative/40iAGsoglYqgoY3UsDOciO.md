@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-447 songs - 21 hr 41 min
+449 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Kawasaki](https://open.spotify.com/track/2NwCb3t75gkK0xzVL47rmF) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [Heart](https://open.spotify.com/album/76OBbKGs49FyxGoWMMj51C) | 3:51 | 2023-07-26 |  |
 | [Khuzeka](https://open.spotify.com/track/2seJczljFqoMisuncOHl6N) | [Teeprisy](https://open.spotify.com/artist/3LHzeJeBqDW3GxivGAGyQt) | [Thermo endurance enormity philharmonic recite imp sensational yen](https://open.spotify.com/album/43mILfI5s1MDm7jAceTcNi) | 3:12 | 2024-07-16 |  |
 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-07-26 |  |
+| [kodiene..](https://open.spotify.com/track/0eP8IpPYW4KYjnxL1rfdc6) | [Prince Svmuel](https://open.spotify.com/artist/6hIBjDmrpN4kk59bVhJeiv) | [kodiene..](https://open.spotify.com/album/4eQfII3EpM70m5plJAvdvV) | 2:20 | 2025-12-15 |  |
 | [Kîlô!](https://open.spotify.com/track/3LVpTVOiRj9qq9FPwaFDO5) | [MZY](https://open.spotify.com/artist/2CEU85SUsAjhDaSjvz2GhC), [IIIWAY](https://open.spotify.com/artist/1BpQhIuoNGnvUvmjvF5IiK), [Sol Wavy](https://open.spotify.com/artist/4EJkw0KyOQgVwu5ytAQ8re) | [Kîlô!](https://open.spotify.com/album/7uNv9dSsJtreKo9wTgQv5x) | 3:12 | 2024-07-15 |  |
 | [La + bella](https://open.spotify.com/track/3tXe1rcz2TQFYHr37D3Ihk) | [Spampi J](https://open.spotify.com/artist/3T5sUCMZSTWUBGc7J2PiRa) | [La + bella](https://open.spotify.com/album/48wwhT1v6CQ9xahojh30ZK) | 3:01 | 2024-05-25 |  |
 | [LA GIRL](https://open.spotify.com/track/03VpBWkeygGaOj4XYLrCco) | [NASH.](https://open.spotify.com/artist/3jZ1hUbprh8AswEyrS2wFT) | [LA GIRL](https://open.spotify.com/album/0QBADCSjOJ3WJaZCGizZSt) | 1:50 | 2024-07-08 |  |
@@ -449,6 +450,7 @@
 | [You're Better Than Yesterday](https://open.spotify.com/track/5q3P9CaSNIYaPJOGWGJjne) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [You're Better Than Yesterday](https://open.spotify.com/album/04ETpY7jVyjCm2jQrPSOQ6) | 3:18 | 2024-12-07 |  |
 | [You're Better Than Yesterday](https://open.spotify.com/track/70X7ROvhOyNFy33sSmOUU9) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [You're Better Than Yesterday](https://open.spotify.com/album/4W6RjbmklHls9hajxBm8m1) | 3:18 | 2024-06-24 |  |
 | [Your Love Is A Drug](https://open.spotify.com/track/2gBoCcTU4KZ7N6rpDN5zBn) | [Nyshiq](https://open.spotify.com/artist/6Cj0SPdD7QqFgqEZGbm16R) | [Your Love Is A Drug](https://open.spotify.com/album/0BPjd5FpM6qiideXWh2Kkz) | 3:07 | 2024-06-28 |  |
+| [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2025-12-15 |  |
 | [Zeros](https://open.spotify.com/track/1gkVF1AF9cKsO6D1yXroHy) | [Luca Geordi](https://open.spotify.com/artist/1I2sbFSWyG9cfuySD699D0) | [Zeros](https://open.spotify.com/album/7977NpIrSPy9K1nSOl1QSM) | 3:10 | 2024-06-04 |  |
 | [zimmer frame](https://open.spotify.com/track/7JhqB3SZTqs8hNIJGMm5BB) | [LILBADDIETYRONE](https://open.spotify.com/artist/3Q9gITSqraeLAotKbn8Wsp) | [BURN\. EP](https://open.spotify.com/album/3PXH0n2oi7NBEzgKQN31Kv) | 3:47 | 2024-07-12 |  |
 | [À Boutte de Toute](https://open.spotify.com/track/6zZDSgNYQPqKGkjHb4e1BG) | [Chacal](https://open.spotify.com/artist/5HukSi7X2MjzaLJrnCngDH) | [À Boutte de Toute](https://open.spotify.com/album/1Gvsvgh2Q5skhv3mADDCvK) | 2:35 | 2024-05-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 856121,
+  "num_followers": 856185,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,22 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+        "name": "Isaac Chambers & Dub Princess",
+        "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Isaac Chambers",
+          "url": "https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP"
+        },
+        {
+          "name": "Dub Princess",
+          "url": "https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ"
         }
       ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+      "duration_ms": 336000,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -175,22 +179,18 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Isaac Chambers & Dub Princess",
-        "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
       "artists": [
         {
-          "name": "Isaac Chambers",
-          "url": "https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP"
-        },
-        {
-          "name": "Dub Princess",
-          "url": "https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Sweet Danger",
-        "url": "https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 160855,
-      "name": "Sweet Danger",
-      "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Homo Sapiens / Take the Money (Octopus Version)",
         "url": "https://open.spotify.com/album/2WBMWVmk0SLTOxxh4shseS"
       },
@@ -1175,6 +1159,42 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Sweet Danger",
+        "url": "https://open.spotify.com/album/6pIdfb0OaCvfzN6QxKOJQ2"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 160855,
+      "name": "Sweet Danger",
+      "url": "https://open.spotify.com/track/1IPRwv7FqZvdaawA2YWCcQ"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Kolaba",
+        "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
+      },
+      "artists": [
+        {
+          "name": "Afriquoi",
+          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
+        },
+        {
+          "name": "Kudaushe Matimba",
+          "url": "https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt"
+        }
+      ],
+      "duration_ms": 238420,
+      "name": "Kudaushe",
+      "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Lecker Song",
         "url": "https://open.spotify.com/album/6FcHig6HTV55TPsTQOp4so"
       },
@@ -1187,22 +1207,6 @@
       "duration_ms": 211304,
       "name": "Lecker Song",
       "url": "https://open.spotify.com/track/07fi64a3Inx9oRmPW21iHH"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Kolaba",
-        "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
       },
       "artists": [
         {
-          "name": "Afriquoi",
-          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
-        },
-        {
-          "name": "Kudaushe Matimba",
-          "url": "https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt"
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 238420,
-      "name": "Kudaushe",
-      "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Killa's on da Loose",
-        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
-      },
-      "artists": [
-        {
-          "name": "LUNA MAKI",
-          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Killa's on da Loose",
-      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Suco de Sol",
         "url": "https://open.spotify.com/album/6i0GabOxJdPoUrtUQGKGDh"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 228000,
       "name": "Suco de Sol",
       "url": "https://open.spotify.com/track/3h7A9Ei5Qk07femqoyW6lw"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Killa's on da Loose",
+        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
+      },
+      "artists": [
+        {
+          "name": "LUNA MAKI",
+          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Killa's on da Loose",
+      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Marvin",
-        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
-      },
-      "artists": [
-        {
-          "name": "Laurent Bardainne",
-          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        },
-        {
-          "name": "Tigre d'Eau Douce",
-          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
-        }
-      ],
-      "duration_ms": 235795,
-      "name": "Porsche 944",
-      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Marvin",
+        "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "duration_ms": 235795,
+      "name": "Porsche 944",
+      "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Tropicoso",
         "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
       },
@@ -1855,38 +1871,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 149745,
-      "name": "Tropics",
-      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
         "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
       },
@@ -1903,18 +1887,18 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
       },
       "artists": [
         {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 198767,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+      "duration_ms": 149745,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -1939,6 +1923,22 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Keep Me On The Dancefloor",
         "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
@@ -1959,38 +1959,6 @@
       "duration_ms": 150803,
       "name": "House Of Mirrors",
       "url": "https://open.spotify.com/track/0HvloGv9Nf8okpw3dO7HE1"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Chica de Favela",
-        "url": "https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd"
-      },
-      "artists": [
-        {
-          "name": "Beyond Music",
-          "url": "https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Pesa Bazz",
-          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
-        },
-        {
-          "name": "Siddhartha El Primero",
-          "url": "https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE"
-        },
-        {
-          "name": "Shocktraderz",
-          "url": "https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS"
-        }
-      ],
-      "duration_ms": 177068,
-      "name": "Chica de Favela - Radio Edit",
-      "url": "https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2035,6 +2003,38 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Chica de Favela",
+        "url": "https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd"
+      },
+      "artists": [
+        {
+          "name": "Beyond Music",
+          "url": "https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pesa Bazz",
+          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
+        },
+        {
+          "name": "Siddhartha El Primero",
+          "url": "https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE"
+        },
+        {
+          "name": "Shocktraderz",
+          "url": "https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS"
+        }
+      ],
+      "duration_ms": 177068,
+      "name": "Chica de Favela - Radio Edit",
+      "url": "https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Faut Pas F\u00e2cher",
         "url": "https://open.spotify.com/album/0iXngKfoH4fVxCLDuA7BYr"
       },
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
-      },
-      "artists": [
-        {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2171,22 +2171,18 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
-        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
+        "name": "Azaman Amoutay",
+        "url": "https://open.spotify.com/album/7CaWgV1I4kyyF8aytiY0lN"
       },
       "artists": [
         {
-          "name": "Lass",
-          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
-        },
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
         }
       ],
-      "duration_ms": 267316,
-      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
-      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
+      "duration_ms": 221582,
+      "name": "Azaman Amoutay",
+      "url": "https://open.spotify.com/track/1KS7VXi6iCxHGnPhsV0HNC"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2203,6 +2199,26 @@
       "duration_ms": 351146,
       "name": "Atlantic Oscillations",
       "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Bumay\u00e9 (Voilaaa Disco Remix)",
+        "url": "https://open.spotify.com/album/1nSPLTMbhYYw4nR1NefcfB"
+      },
+      "artists": [
+        {
+          "name": "Lass",
+          "url": "https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX"
+        },
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        }
+      ],
+      "duration_ms": 267316,
+      "name": "Bumay\u00e9 - Voilaaa Disco Remix",
+      "url": "https://open.spotify.com/track/1iU6nqqgtahrZZdcPm2OOL"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2235,6 +2251,22 @@
       "duration_ms": 357558,
       "name": "R\u00fczgar",
       "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 208444,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2279,18 +2311,22 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "Nico Gomez",
+          "url": "https://open.spotify.com/artist/48YivTBA0WJnVTQpmvTQzF"
+        },
+        {
+          "name": "Nico Gomez And His Afro Percussion Inc.",
+          "url": "https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys"
         }
       ],
-      "duration_ms": 208444,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
+      "duration_ms": 222453,
+      "name": "Lupita",
+      "url": "https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2315,26 +2351,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ"
-      },
-      "artists": [
-        {
-          "name": "Nico Gomez",
-          "url": "https://open.spotify.com/artist/48YivTBA0WJnVTQpmvTQzF"
-        },
-        {
-          "name": "Nico Gomez And His Afro Percussion Inc.",
-          "url": "https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Lupita",
-      "url": "https://open.spotify.com/track/1Xnf2h75C55EKU8H9msq7G"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Mam Yinne Wa",
         "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
       },
@@ -2351,22 +2367,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Heaviness",
-        "url": "https://open.spotify.com/album/2pm917uNJ3wpKBDy0Hoxfm"
-      },
-      "artists": [
-        {
-          "name": "Falle Nioke",
-          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
-        }
-      ],
-      "duration_ms": 224050,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2Xgo2uCqGH4LMS14yHbodv"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD"
       },
@@ -2379,6 +2379,22 @@
       "duration_ms": 149544,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Heaviness",
+        "url": "https://open.spotify.com/album/2pm917uNJ3wpKBDy0Hoxfm"
+      },
+      "artists": [
+        {
+          "name": "Falle Nioke",
+          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+        }
+      ],
+      "duration_ms": 224050,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2Xgo2uCqGH4LMS14yHbodv"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2435,6 +2451,42 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
+        "name": "Afro Edits",
+        "url": "https://open.spotify.com/album/3WPUH9O57Xem6YyswXOa9C"
+      },
+      "artists": [
+        {
+          "name": "Uppers Chapter 2",
+          "url": "https://open.spotify.com/artist/7vgsluTYoqjWOYriW3PeRX"
+        },
+        {
+          "name": "Kill Emil",
+          "url": "https://open.spotify.com/artist/3y9hQYlwNKqhdybIJTFzTr"
+        }
+      ],
+      "duration_ms": 248659,
+      "name": "Samarin Bolga",
+      "url": "https://open.spotify.com/track/6P2HSEAhpvApOQ7PTGDcj0"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Felony / Rile 'Em Up",
+        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 197172,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
       },
@@ -2447,6 +2499,22 @@
       "duration_ms": 353109,
       "name": "Somos",
       "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+    },
+    {
+      "added_at": "2025-12-12 00:01:21",
+      "album": {
+        "name": "Ancients / It's Starting",
+        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "duration_ms": 309857,
+      "name": "It's Starting",
+      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2475,38 +2543,6 @@
     {
       "added_at": "2025-12-12 00:01:21",
       "album": {
-        "name": "Ancients / It's Starting",
-        "url": "https://open.spotify.com/album/0Lom6x0ksjYsj2edO7rNHQ"
-      },
-      "artists": [
-        {
-          "name": "RIO KOSTA",
-          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
-        }
-      ],
-      "duration_ms": 309857,
-      "name": "It's Starting",
-      "url": "https://open.spotify.com/track/6IEmXicgn0oDnEWX5SyGqU"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Felony / Rile 'Em Up",
-        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        }
-      ],
-      "duration_ms": 197172,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
         "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
         "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
       },
@@ -2523,26 +2559,6 @@
       "duration_ms": 220452,
       "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Afro Edits",
-        "url": "https://open.spotify.com/album/3WPUH9O57Xem6YyswXOa9C"
-      },
-      "artists": [
-        {
-          "name": "Uppers Chapter 2",
-          "url": "https://open.spotify.com/artist/7vgsluTYoqjWOYriW3PeRX"
-        },
-        {
-          "name": "Kill Emil",
-          "url": "https://open.spotify.com/artist/3y9hQYlwNKqhdybIJTFzTr"
-        }
-      ],
-      "duration_ms": 248659,
-      "name": "Samarin Bolga",
-      "url": "https://open.spotify.com/track/6P2HSEAhpvApOQ7PTGDcj0"
     },
     {
       "added_at": "2025-12-12 00:01:21",
@@ -2599,22 +2615,6 @@
       "duration_ms": 213373,
       "name": "Pas Contente",
       "url": "https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx"
-    },
-    {
-      "added_at": "2025-12-12 00:01:21",
-      "album": {
-        "name": "Azaman Amoutay",
-        "url": "https://open.spotify.com/album/7CaWgV1I4kyyF8aytiY0lN"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 221582,
-      "name": "Azaman Amoutay",
-      "url": "https://open.spotify.com/track/1KS7VXi6iCxHGnPhsV0HNC"
     },
     {
       "added_at": "2025-12-12 00:01:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,639,153 likes - 78 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,639,757 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 77 | [Can You Feel the Love Tonight \- From "The Lion King" / Soundtrack Version](https://open.spotify.com/track/6OmanmVngBzWr5pLW8eNuZ) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Sally Dworsky](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku), [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Kristle Edwards](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) | [The Lion King: Special Edition](https://open.spotify.com/album/6BqcXoEgLpiGHQit2hXBIl) | 2:57 |
 | 78 | [Proud Corazón](https://open.spotify.com/track/4J7SCXbz18duODAQYjtzI2) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:03 |
 
-Snapshot ID: `AAAAAEdGgrHSX7wtJ+ew9vLrTHRWvjej`
+Snapshot ID: `AAAAAFd0DAAx/iyvJm/MiU07GswWmV56`

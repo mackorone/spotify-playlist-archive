@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 196161,
+  "num_followers": 196174,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAACtTk9OjmR/+870Lc/75Umf",
+  "snapshot_id": "aTysgAAAAADy2VFyWweqUaPxeDbQhpQO",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -571,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satch Plays Fats",
-        "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 319293,
-      "name": "All That Meat And No Potatoes",
-      "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
+      "duration_ms": 236240,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Satch Plays Fats",
+        "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "All That Meat And No Potatoes",
+      "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Louis Under The Stars",
         "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 256026,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sonny Burke & His Orchestra",
-          "url": "https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT"
     },
     {
       "added_at": null,
@@ -679,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sonny Burke & His Orchestra",
+          "url": "https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 190133,
       "name": "Cold Cold Heart",
       "url": "https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Cabaret - Single Version",
+      "url": "https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8"
     },
     {
       "added_at": null,
@@ -719,34 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+        "name": "Satchmo In Style (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Cabaret - Single Version",
-      "url": "https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
+        },
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Gordon Jenkins And Orchestra",
+          "url": "https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK"
         }
       ],
-      "duration_ms": 221173,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
+      "duration_ms": 194160,
+      "name": "When It's Sleepy Time Down South",
+      "url": "https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo In Style (Expanded Edition)",
-        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Gordon Jenkins And Orchestra",
-          "url": "https://open.spotify.com/artist/0te6SxImmbdkGXxSQw9lmK"
         }
       ],
-      "duration_ms": 194160,
-      "name": "When It's Sleepy Time Down South",
-      "url": "https://open.spotify.com/track/07NPpmKrMZEIpOp5ELr7g3"
+      "duration_ms": 221173,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Kiss Of Fire",
-      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Decca Singles 1935-1946",
         "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
       },
@@ -855,6 +839,42 @@
       "duration_ms": 190976,
       "name": "The Frim Fram Sauce",
       "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Kiss Of Fire",
+      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Reunion",
+        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
       "duration_ms": 284373,
       "name": "Tenderly / You'll Never Walk Alone - Live at Newport Jazz Festival 1958",
       "url": "https://open.spotify.com/track/6KUJBNvzTWLf6PBKkYze8P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great Reunion",
-        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

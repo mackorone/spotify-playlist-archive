@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80326,
+  "num_followers": 80333,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAAC0bTEVPnMc75lVejyobEm6",
+  "snapshot_id": "aTysgAAAAACUFHMF9gzgCXoOfbsEXfHc",
   "tracks": [
     {
       "added_at": null,
@@ -183,18 +183,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Not Your Girl?",
-        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
+        "name": "The Wall - Live In Berlin",
+        "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
       },
       "artists": [
         {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        },
+        {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 334960,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
+      "duration_ms": 397000,
+      "name": "Mother - Live In Berlin",
+      "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
     },
     {
       "added_at": null,
@@ -251,26 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wall - Live In Berlin",
-        "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
+        "name": "Am I Not Your Girl?",
+        "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
       "artists": [
         {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        },
-        {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 397000,
-      "name": "Mother - Live In Berlin",
-      "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
+      "duration_ms": 334960,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 283546,
       "name": "Three Babies",
       "url": "https://open.spotify.com/track/0OYiCy0NLnRg8oQ8ppH9Jm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 385466,
-      "name": "Thank You for Hearing Me",
-      "url": "https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Do Not Want What I Haven't Got",
         "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 406373,
       "name": "Feel so Different",
       "url": "https://open.spotify.com/track/0oH9dKhwNOVLbJ9zoe6jIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 385466,
+      "name": "Thank You for Hearing Me",
+      "url": "https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
       "duration_ms": 320773,
       "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
       "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Very Special Christmas 2",
+        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 338733,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Very Special Christmas 2",
-        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 338733,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/200xhXQBPc2OWPsZ3koxTc"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 387573,
       "name": "Harbour (feat. Sin\u00e9ad O'Connor)",
       "url": "https://open.spotify.com/track/5R5cPSgvNPmGv3YmlWfhds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You for Hearing Me",
+        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You for Hearing Me",
-        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enemy of the Enemy (Remastered)",
         "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gospel Oak",
-        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "He Moved Through the Fair",
-      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith and Courage",
         "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gospel Oak",
+        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "He Moved Through the Fair",
+      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
         "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 181280,
       "name": "Take Me to Church",
       "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Across The Borderline",
-        "url": "https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 418226,
-      "name": "Don't Give Up (feat. Sin\u00e9ad O'Connor)",
-      "url": "https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM"
     },
     {
       "added_at": null,
@@ -691,6 +671,26 @@
       "duration_ms": 201826,
       "name": "Emma's Song",
       "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Across The Borderline",
+        "url": "https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 418226,
+      "name": "Don't Give Up (feat. Sin\u00e9ad O'Connor)",
+      "url": "https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM"
     },
     {
       "added_at": null,

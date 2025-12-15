@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -6162,7 +6162,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -9180,7 +9180,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 145322,
       "name": "HORA",
       "url": "https://open.spotify.com/track/5PBohl4TCGfmUkDxsYgAuk"
@@ -19920,7 +19920,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -23110,6 +23110,24 @@
       "duration_ms": 279691,
       "name": "\u0411\u0430\u043b\u043a\u043e\u043d\u044b",
       "url": "https://open.spotify.com/track/6GQFqCYz9zVWCg0pDdSSP1"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043e\u043d\u044c, \u0442\u0438 \u0441\u043f\u0438\u0448?",
+        "url": "https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d"
+      },
+      "artists": [
+        {
+          "name": "Nikow",
+          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "\u0411\u0430\u043b\u044c\u0437\u0430\u043c",
+      "url": "https://open.spotify.com/track/783bTF26cUZEmNhP5v9HNz"
     },
     {
       "album": {
@@ -26528,6 +26546,24 @@
       "duration_ms": 90947,
       "name": "\u0414\u0435\u0440\u044c\u043c\u043e",
       "url": "https://open.spotify.com/track/0MVVy6JqnmQHtxvDB860FJ"
+    },
+    {
+      "album": {
+        "name": "\u0420\u043e\u043d\u0456\u043c",
+        "url": "https://open.spotify.com/album/5Xm1ENhzOwYfunLO8UrIf0"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "\u0414\u0435\u0449\u043e \u0456\u043d\u0448\u0435",
+      "url": "https://open.spotify.com/track/0VvNpxXbrSMJ9CTpFafVlM"
     },
     {
       "album": {
@@ -32790,7 +32826,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 169846,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/0gdPLFJwig0jLsCHO7339e"
@@ -36162,7 +36198,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 214418,
       "name": "\u0421\u0443\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442",
       "url": "https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,024 likes - 155 songs - 8 hr 50 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,026 likes - 156 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,5 +163,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 153 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 |
 | 154 | [Xmas](https://open.spotify.com/track/0T8M5XbkqHUB99ZkbZDOHD) | [Andrea Bardelli](https://open.spotify.com/artist/0sjMrTuxISK7GfQRKy8FEE) | [The poets work at night](https://open.spotify.com/album/1mNoFSF448LaNDXIFThFnA) | 5:08 |
 | 155 | [Touch](https://open.spotify.com/track/43NZJKAwliwhhf92fVfwwx) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Touch](https://open.spotify.com/album/4Ai7hZRY0AFkeTwZsVhgwt) | 2:46 |
+| 156 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
 
-Snapshot ID: `AAANrmw8i7eWUSzjfzxpZlys/0D+Aqly`
+Snapshot ID: `AAANr4Z7OeKGKG0qN0/ITMdIswp821FI`

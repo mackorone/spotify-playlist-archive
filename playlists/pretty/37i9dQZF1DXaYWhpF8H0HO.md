@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Jevin Julian
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,581 likes - 106 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,579 likes - 106 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

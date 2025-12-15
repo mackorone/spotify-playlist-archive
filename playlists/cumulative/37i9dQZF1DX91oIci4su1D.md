@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,228 songs - 3 day 1 hr 35 min
+1,229 songs - 3 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Carcerem](https://open.spotify.com/track/4CrDAeFy6asxsCrDsKS4cR) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Funkagenda](https://open.spotify.com/artist/2bElZdbJcj6B8WIP2fiKsG) | [Carcerem](https://open.spotify.com/album/2Ax5FAZzgxkbSE5HCOe58q) | 3:28 | 2021-12-17 | 2022-03-12 |
 | [Carry On](https://open.spotify.com/track/27Bm6ZNUK3Xh357Vbqo9Mx) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Carry On](https://open.spotify.com/album/6dCSykc823WKmKkjw2bMQb) | 3:07 | 2024-04-26 | 2024-08-31 |
 | [Carte Blanche](https://open.spotify.com/track/080nzaT9PWCqMfFSpjRDHK) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Carte Blanche](https://open.spotify.com/album/4CChAwOQD9hlKkwV2pjvR1) | 3:21 | 2023-06-02 | 2024-07-13 |
+| [Carte Blanche](https://open.spotify.com/track/4Rp0PLogExoXWtkDLNunXR) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche](https://open.spotify.com/album/0mF8cnymZDGo36eAg9l4UZ) | 3:19 | 2025-12-12 |  |
 | [Cassini](https://open.spotify.com/track/2xE2KgloGwFiKvyISkMSJp) | [Activa](https://open.spotify.com/artist/2B18AH9f6R9LcJWM03Szob), [Slipstream](https://open.spotify.com/artist/35hGbA4ugdojhwMAh4jUXj) | [Cassini](https://open.spotify.com/album/6sx41AEVkLVs3fKPMwoqlu) | 8:15 | 2022-06-03 | 2022-06-29 |
 | [Catch](https://open.spotify.com/track/68bVU37B5M7iWivhixMvqZ) | [Davey Asprey](https://open.spotify.com/artist/7luLRXGBygBN8vUO8T9uHf) | [Catch](https://open.spotify.com/album/5NnjMNuQGs4IdrmE5lgCRh) | 3:20 | 2024-01-19 | 2024-10-26 |
 | [Chains](https://open.spotify.com/track/176ZaaR8vH0qRbQvpq1mOT) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Chains](https://open.spotify.com/album/7EsOLB2VgtVhoxhLaH0sJ5) | 3:37 | 2023-02-24 | 2024-02-17 |
@@ -273,7 +274,7 @@
 | [Disconnected](https://open.spotify.com/track/3MD7RELnDrLUQt95QLtjTk) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Azyla](https://open.spotify.com/artist/3tahf4WvEMHRVP2KpRnMTZ) | [Disconnected](https://open.spotify.com/album/2dZTCg6oOMcOn9f4gJKY9Q) | 2:45 | 2024-12-13 |  |
 | [Disconnected](https://open.spotify.com/track/4mB7gWAkOB7LLWBM7XoL6Y) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sealine](https://open.spotify.com/artist/1ymJtuSjInzP2KWww4GKTA) | [Disconnected](https://open.spotify.com/album/40kTQIRTrLffXGmtER1nWd) | 4:58 | 2022-04-08 | 2023-03-04 |
 | [Distance \- Coast 2 Coast Remix](https://open.spotify.com/track/2yefZipMIKzU7nZZw7Qq69) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Coast 2 Coast](https://open.spotify.com/artist/5o92GLs23EvUulPx2l5qu9) | [Distance \(Coast 2 Coast Remix\)](https://open.spotify.com/album/50M8dBUfTy9pOFNEjjZUxU) | 2:54 | 2024-02-16 | 2024-10-26 |
-| [Divergent \- Radio Edit](https://open.spotify.com/track/07tSIYAgH9ovlgLr4iZJMS) | [Pinkque](https://open.spotify.com/artist/26czhdztIjvJv7qNVprCXt), [Darren Porter](https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA) | [Divergent](https://open.spotify.com/album/0phnZ39wLh4zd4tLRZkrpQ) | 3:17 | 2024-09-13 |  |
+| [Divergent \- Radio Edit](https://open.spotify.com/track/07tSIYAgH9ovlgLr4iZJMS) | [Pinkque](https://open.spotify.com/artist/26czhdztIjvJv7qNVprCXt), [Darren Porter](https://open.spotify.com/artist/04b2pmUXaBL8wHacSaOplA) | [Divergent](https://open.spotify.com/album/0phnZ39wLh4zd4tLRZkrpQ) | 3:17 | 2024-09-13 | 2025-12-15 |
 | [DNA](https://open.spotify.com/track/0npeCeJYQ85l17WlXBF3wG) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Audrey Brazelle](https://open.spotify.com/artist/1qPUWgkDwkqx0IKBYSnq7n) | [Duality](https://open.spotify.com/album/3DEqRNQZS7gNDTzltgC3Cf) | 6:37 | 2022-10-28 | 2023-06-10 |
 | [Do You Feel So Right](https://open.spotify.com/track/2D5qj1qPzpj1sJjou8WZhk) | [Pinball](https://open.spotify.com/artist/7qfKjRGrO1By4TujWvUA8F), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Do You Feel So Right](https://open.spotify.com/album/0SNZo59K6w2X2iIgYyopWQ) | 2:35 | 2023-02-03 | 2023-05-20 |
 | [Do You Want Me](https://open.spotify.com/track/5GXT1Qz6oMmvJalrPntZ4b) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Do You Want Me](https://open.spotify.com/album/5HMJMsog5o4q4R4H1hxtKN) | 3:56 | 2023-12-08 | 2024-11-16 |

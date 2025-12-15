@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 87456,
+  "num_followers": 87470,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -519,30 +519,6 @@
     {
       "added_at": "2025-09-15 14:00:13",
       "album": {
-        "name": "Haydn: Symphony No.96 in D 'Miracle'",
-        "url": "https://open.spotify.com/album/3vxHlH78SzI9vwguuYRh7a"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Jeffrey Tate",
-          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
-        }
-      ],
-      "duration_ms": 377640,
-      "name": "Haydn: Symphony No. 96 in D Major, Hob. I:96 \"Miracle\": II. Andante",
-      "url": "https://open.spotify.com/track/7qcCRaa1QdU5bb1DE14VZ9"
-    },
-    {
-      "added_at": "2025-09-15 14:00:13",
-      "album": {
         "name": "Haydn: Symphonies Nos 94 \"Surprise\" & 104 \"London\"",
         "url": "https://open.spotify.com/album/4UiNWz7X5j8MmN0zFquuX8"
       },
@@ -567,8 +543,8 @@
     {
       "added_at": "2025-09-15 14:00:13",
       "album": {
-        "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
-        "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
+        "name": "Haydn: Symphony No.96 in D 'Miracle'",
+        "url": "https://open.spotify.com/album/3vxHlH78SzI9vwguuYRh7a"
       },
       "artists": [
         {
@@ -576,17 +552,17 @@
           "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         },
         {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
         }
       ],
-      "duration_ms": 448503,
-      "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": II. Adagio cantabile",
-      "url": "https://open.spotify.com/track/1oStfg4y3wqWl7FK0SQ7yr"
+      "duration_ms": 377640,
+      "name": "Haydn: Symphony No. 96 in D Major, Hob. I:96 \"Miracle\": II. Andante",
+      "url": "https://open.spotify.com/track/7qcCRaa1QdU5bb1DE14VZ9"
     },
     {
       "added_at": "2025-09-15 14:00:13",
@@ -611,6 +587,30 @@
       "duration_ms": 254040,
       "name": "Symphony No. 94 in G Major \"Surprise\": IV. Finale: Allegro molto",
       "url": "https://open.spotify.com/track/4chm0GkaUjWYTPnRhsmWgP"
+    },
+    {
+      "added_at": "2025-09-15 14:00:13",
+      "album": {
+        "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
+        "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 448503,
+      "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/1oStfg4y3wqWl7FK0SQ7yr"
     },
     {
       "added_at": "2025-09-15 14:00:13",

@@ -7652,7 +7652,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 142857,
       "name": "Burn",
       "url": "https://open.spotify.com/track/50TaxyRVO6Fbc8bMfBalix"
@@ -10458,7 +10458,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Dagegen",
       "url": "https://open.spotify.com/track/5AOQ9qzgZ3uHmg5zNVVpWb"
@@ -12454,7 +12454,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 148968,
       "name": "Dorfkinder (feat. Finnel) - CLAAS Edition",
       "url": "https://open.spotify.com/track/76hytHlfPmRZSCH2YCn6En"
@@ -13478,7 +13478,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 264600,
       "name": "ELA MANA",
       "url": "https://open.spotify.com/track/6h9PVK4DSSVZMMKtpITro3"
@@ -15992,6 +15992,28 @@
       "duration_ms": 377098,
       "name": "For Good",
       "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
+    },
+    {
+      "album": {
+        "name": "For Good (from Wicked: For Good - The Soundtrack)",
+        "url": "https://open.spotify.com/album/6h0nkpR0KgZbat8CbOEctb"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377098,
+      "name": "For Good",
+      "url": "https://open.spotify.com/track/6Axf4FwBQvgcKzRwfm458N"
     },
     {
       "album": {
@@ -21704,6 +21726,24 @@
     {
       "album": {
         "name": "I Believe I Rise",
+        "url": "https://open.spotify.com/album/1MSESBmGMOtzUbF6IDgwuD"
+      },
+      "artists": [
+        {
+          "name": "DJSource",
+          "url": "https://open.spotify.com/artist/7s5jADIx9KUXAbYYOf9mjX"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138160,
+      "name": "I Believe I Rise",
+      "url": "https://open.spotify.com/track/5DSZP6HLzoYRtfjFXfwSvk"
+    },
+    {
+      "album": {
+        "name": "I Believe I Rise",
         "url": "https://open.spotify.com/album/30l6DqPsJMGfCSBLUOgnfE"
       },
       "artists": [
@@ -22382,7 +22422,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 169959,
       "name": "I'm Not What Happened To Me",
       "url": "https://open.spotify.com/track/4WoXZHKkobhjGboBGItvgU"
@@ -28243,6 +28283,24 @@
     },
     {
       "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273010,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
+    },
+    {
+      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -32600,7 +32658,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 133984,
       "name": "Nacht Voll Schatten",
       "url": "https://open.spotify.com/track/0362oY8NzSnRrvbEMHOBEp"
@@ -45236,7 +45294,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 332506,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"

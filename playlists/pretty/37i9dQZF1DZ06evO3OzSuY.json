@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAABn+s7aiw+JPqbsRdTq13/1",
+  "snapshot_id": "aTysgAAAAAD1dNEBy9Cbckd2U9u+5llm",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
         "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 187943,
       "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
     },
     {
       "added_at": null,

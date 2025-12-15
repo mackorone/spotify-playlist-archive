@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "2 the Beat",
+        "url": "https://open.spotify.com/album/2q6Gat0sWo9s8vVbMasJ4M"
+      },
+      "artists": [
+        {
+          "name": "TANJA MIJU",
+          "url": "https://open.spotify.com/artist/21FABcJvX8FNiwZexXtTQq"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "2 the Beat",
+      "url": "https://open.spotify.com/track/23MLY6XoL4wgaimqDLJ1G3"
+    },
+    {
+      "album": {
         "name": "3 SUSPECTS",
         "url": "https://open.spotify.com/album/3vsuvjwloKuzQbi1Hvw65a"
       },
@@ -286,6 +304,28 @@
       "duration_ms": 160080,
       "name": "Acid",
       "url": "https://open.spotify.com/track/2pwQrOz2ouKTqXxRSJmxbm"
+    },
+    {
+      "album": {
+        "name": "No Stop",
+        "url": "https://open.spotify.com/album/7oGikHMfGtAjnk3XDxJ7M5"
+      },
+      "artists": [
+        {
+          "name": "Sandro Cardio",
+          "url": "https://open.spotify.com/artist/2zdIePmkWwpZote67KM17v"
+        },
+        {
+          "name": "INNERGATE",
+          "url": "https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/0YL2OHBm98Qv8Ca07XaN7b"
     },
     {
       "album": {
@@ -897,6 +937,24 @@
     },
     {
       "album": {
+        "name": "TM008",
+        "url": "https://open.spotify.com/album/6gUFmGWx68hmhbArl3nH1l"
+      },
+      "artists": [
+        {
+          "name": "Salvyan",
+          "url": "https://open.spotify.com/artist/0ueKhy5Vj2mxumUXB41yMf"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Chemical Extinction",
+      "url": "https://open.spotify.com/track/5tXfIq01EKwmzfUsWs1Rbx"
+    },
+    {
+      "album": {
         "name": "What Happened To The Hours",
         "url": "https://open.spotify.com/album/07d5z5mESVfzvKYgQ5spCp"
       },
@@ -1049,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "DAMN WORLD",
+        "url": "https://open.spotify.com/album/2rpUXwzyQLMMozi7TuBzb7"
+      },
+      "artists": [
+        {
+          "name": "VIDO",
+          "url": "https://open.spotify.com/artist/28DVBoEuAN6d6D6u83v2JP"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214623,
+      "name": "DAMN WORLD",
+      "url": "https://open.spotify.com/track/7cltXyvHLQoxDR48D1nG0U"
+    },
+    {
+      "album": {
         "name": "Dance with Me",
         "url": "https://open.spotify.com/album/7qRXmITO2sNZOlcwYrm3V3"
       },
@@ -1136,6 +1212,24 @@
       "duration_ms": 307200,
       "name": "Deadly Paradox",
       "url": "https://open.spotify.com/track/660bNjdj8spfrmTM4me3Ez"
+    },
+    {
+      "album": {
+        "name": "Desespera",
+        "url": "https://open.spotify.com/album/48xgfMVN4wbsiH10Amgnf1"
+      },
+      "artists": [
+        {
+          "name": "Fatima Hajji",
+          "url": "https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326400,
+      "name": "Desespera",
+      "url": "https://open.spotify.com/track/1SpXr3vWKOTYfV8BNeNTP7"
     },
     {
       "album": {
@@ -1429,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Enter the Simulation",
+        "url": "https://open.spotify.com/album/54uWk5wm4QitOxqdbuzRff"
+      },
+      "artists": [
+        {
+          "name": "PRYDIE",
+          "url": "https://open.spotify.com/artist/0jfom1Hm2Et2GhIZ5s6Rkj"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256815,
+      "name": "Enter the Simulation",
+      "url": "https://open.spotify.com/track/2C9J5BtlHhfv1IiRiGsSSk"
+    },
+    {
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/5svxxqBHQKvwwk0OTKg0e2"
       },
@@ -1484,7 +1596,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 312284,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/2ORxnYfNONjXLG5QhFIjIz"
@@ -1633,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2D6cMZoYanIQrpJdobqo05"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8MER\u00d8",
+          "url": "https://open.spotify.com/artist/7zFQhqkIyT4aPmnLb4vmfD"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328258,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/0XFXBopdmUq0tUmkAtDkWI"
+    },
+    {
+      "album": {
         "name": "COVEN, Vol. 3",
         "url": "https://open.spotify.com/album/6btbrFS9tvKTEGk4idAK4r"
       },
@@ -1727,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2z0TmfMvXj0lmCAfbjXaze"
+      },
+      "artists": [
+        {
+          "name": "HARDSOK",
+          "url": "https://open.spotify.com/artist/6jDHU7wqjk6wMDUJoNHucw"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264187,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5kgnEKk6SvFPi3TyzR10gG"
+    },
+    {
+      "album": {
         "name": "Forever Melancholia",
         "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
       },
@@ -1742,6 +1890,24 @@
       "duration_ms": 421559,
       "name": "Forever Melancholia",
       "url": "https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw"
+    },
+    {
+      "album": {
+        "name": "Saturated",
+        "url": "https://open.spotify.com/album/73wpJ1hiCWmGW7SwuktATg"
+      },
+      "artists": [
+        {
+          "name": "Jay P",
+          "url": "https://open.spotify.com/artist/2nmx1XPNyRxfqf70LB5tEZ"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271507,
+      "name": "Free Murder",
+      "url": "https://open.spotify.com/track/3HRKTQwnIVoYDkMqMdNA9a"
     },
     {
       "album": {
@@ -2073,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "I NEED A DOCTOR",
+        "url": "https://open.spotify.com/album/2WxDR6zqdI9Cj63xErRtNb"
+      },
+      "artists": [
+        {
+          "name": "Dr.Sound",
+          "url": "https://open.spotify.com/artist/15oOdwYONjezTSw225L8zT"
+        },
+        {
+          "name": "Reno Zdevay",
+          "url": "https://open.spotify.com/artist/6l03CIM4XG5rD6SUBHlirr"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Hard Hit",
+      "url": "https://open.spotify.com/track/06ujlTsDVX1LYzdO3GbSBn"
+    },
+    {
+      "album": {
         "name": "HARDCORE",
         "url": "https://open.spotify.com/album/400lDSHiZWtlj6QXDOgg3M"
       },
@@ -2196,6 +2384,24 @@
       "duration_ms": 360000,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/6yTWUKQcvGeNocIBSPTFmw"
+    },
+    {
+      "album": {
+        "name": "Hidden Frequencies EP",
+        "url": "https://open.spotify.com/album/6ZkwSGT6tVtglmp9zoTZRy"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271661,
+      "name": "Hidden Frequencies",
+      "url": "https://open.spotify.com/track/0ihoHOy7es3FbtJKageQUn"
     },
     {
       "album": {
@@ -2490,6 +2696,24 @@
       "duration_ms": 370600,
       "name": "Just Like This",
       "url": "https://open.spotify.com/track/59QvjqyCMH3SqpW1jUSxny"
+    },
+    {
+      "album": {
+        "name": "Rcklss024",
+        "url": "https://open.spotify.com/album/72GMADIazSZqt1xfV7dvnl"
+      },
+      "artists": [
+        {
+          "name": "Kaai",
+          "url": "https://open.spotify.com/artist/2HLDW2RBW5x4fSjgok9N3c"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221525,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/7MeVIQWCrtU6rq5rXN12GJ"
     },
     {
       "album": {
@@ -3243,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/3ryw9Drk5KlCjBE5JW6rrT"
+      },
+      "artists": [
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196656,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/2YFy7qeijjmV8qWbBkE1L3"
+    },
+    {
+      "album": {
         "name": "Parasomnia",
         "url": "https://open.spotify.com/album/0ao1Fz09RQjBbNWJA9sVnE"
       },
@@ -3342,6 +3584,24 @@
       "duration_ms": 206153,
       "name": "Pattern Interruption - Original Mix",
       "url": "https://open.spotify.com/track/67UsCRPeQzFs1FsV3jWQTI"
+    },
+    {
+      "album": {
+        "name": "People Stomping",
+        "url": "https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200446,
+      "name": "People Stomping",
+      "url": "https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX"
     },
     {
       "album": {
@@ -3641,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/2u6h3628NDGXX7CfQvbaZT"
+      },
+      "artists": [
+        {
+          "name": "GNR\u00d8",
+          "url": "https://open.spotify.com/artist/60dSIG4Rt9k6owJgDcaO9d"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316106,
+      "name": "Rock This Place",
+      "url": "https://open.spotify.com/track/1grslxEGzIDdcyZZraKu28"
+    },
+    {
+      "album": {
         "name": "Rotterdam",
         "url": "https://open.spotify.com/album/09bjCMeFNP34uhVccL6XsX"
       },
@@ -3818,6 +4096,24 @@
       "duration_ms": 326345,
       "name": "Sch\u00f6neweide - Original Mix",
       "url": "https://open.spotify.com/track/6movATKX2GcJUMomIJyhUp"
+    },
+    {
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/3lUb4bMrMqqxnaY3CG43xf"
+      },
+      "artists": [
+        {
+          "name": "HARDSOK",
+          "url": "https://open.spotify.com/artist/6jDHU7wqjk6wMDUJoNHucw"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212969,
+      "name": "Scouser",
+      "url": "https://open.spotify.com/track/1MxjVcSgojnK5O2eNG4egu"
     },
     {
       "album": {
@@ -4301,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "The System",
+        "url": "https://open.spotify.com/album/3CZoO2lrrF34f7Uk7azv3z"
+      },
+      "artists": [
+        {
+          "name": "JXJ (UK)",
+          "url": "https://open.spotify.com/artist/1arXtzdKp32k7shrozUip2"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "The System",
+      "url": "https://open.spotify.com/track/6OIoQDKccAq9sOME9L6wMP"
+    },
+    {
+      "album": {
         "name": "The Unknown & Hardcore Soul",
         "url": "https://open.spotify.com/album/7qdt7Mg8ejw9yOQmSY7m2r"
       },
@@ -4334,6 +4648,24 @@
       "duration_ms": 273971,
       "name": "This Is Hell",
       "url": "https://open.spotify.com/track/4TnVo9duMipsXYgpVSwn9L"
+    },
+    {
+      "album": {
+        "name": "This Is PERCY!",
+        "url": "https://open.spotify.com/album/2Yfr1Z1HkJuNa9WxgCp55P"
+      },
+      "artists": [
+        {
+          "name": "REB\u00d8TA",
+          "url": "https://open.spotify.com/artist/0drdxBul6gvD5zikiU7t6N"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "This Is PERCY!",
+      "url": "https://open.spotify.com/track/1O9MkutItJfQzPOKeXGZCv"
     },
     {
       "album": {
@@ -4400,6 +4732,24 @@
       "duration_ms": 288000,
       "name": "Toxic Dreams",
       "url": "https://open.spotify.com/track/5w9MOHGXIzrN12HtgxTrbX"
+    },
+    {
+      "album": {
+        "name": "Track Id",
+        "url": "https://open.spotify.com/album/0m2dQhXiuks4RE00sLAHbW"
+      },
+      "artists": [
+        {
+          "name": "Revoxx",
+          "url": "https://open.spotify.com/artist/15K5jNZQaQRGzqodC5QxNb"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235875,
+      "name": "Track Id",
+      "url": "https://open.spotify.com/track/6XaYw0tNtkUcXveGRSaYgi"
     },
     {
       "album": {

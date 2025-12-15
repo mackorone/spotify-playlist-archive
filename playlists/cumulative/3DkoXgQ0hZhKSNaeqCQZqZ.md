@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-440 songs - 23 hr 16 min
+441 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Lil Nuggit](https://open.spotify.com/track/3Oi6KBqKqY8XRAcvBhDAHy) | [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW) | [Lil Nuggit](https://open.spotify.com/album/71AbiIBC2D36pt3ytXNuSK) | 3:03 | 2024-02-10 |  |
 | [Limitless Skies](https://open.spotify.com/track/6Z8pT0yROu8tqQLMyMxVN4) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930), [Vigilabo](https://open.spotify.com/artist/66MUcZLPqqgg4FdhMgQxmi) | [Limitless Skies](https://open.spotify.com/album/5dhRAXTuymg3Wl8gIciyWi) | 3:24 | 2025-02-08 |  |
 | [Linger in the Rain](https://open.spotify.com/track/2ZdLhmKydlxXLXL1Hlo4Ex) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Linger in the Rain](https://open.spotify.com/album/3whFAKu7WRtkGPRSoCRrva) | 5:00 | 2024-12-09 |  |
+| [Little Something Blue](https://open.spotify.com/track/2CjIzdNBJkrxELV6HmW2Vl) | [Alecs Dyno](https://open.spotify.com/artist/7l4nppdq0TLcDEtw7MjGyP) | [Without Fireworks](https://open.spotify.com/album/0LpSXydYGJvtPDiuvGq2Lx) | 3:24 | 2025-12-15 |  |
 | [locked in](https://open.spotify.com/track/00pg5cHgRt9nkst3hyLj6P) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [Meowmiggons](https://open.spotify.com/artist/4NYfkUCuzkwDJk4PJl8Tub) | [locked in](https://open.spotify.com/album/1gAAa5uaTfGGyDcFwNVUgD) | 3:04 | 2025-03-27 |  |
 | [Lone Skater](https://open.spotify.com/track/0vzIdVmpB0rSfGJROfIBLM) | [Coyotlito](https://open.spotify.com/artist/1F7KNLune1lzFAFya3FB2R), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Lone Skater](https://open.spotify.com/album/3sZBlDT9gNYi6YCDP5PvkN) | 3:44 | 2024-09-25 | 2025-11-10 |
 | [Loner](https://open.spotify.com/track/5pgVEVzfyfpQ6eT9gSLH5m) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Loner](https://open.spotify.com/album/1mOnhhctC0RjyMeKUfygqh) | 2:48 | 2023-06-14 |  |

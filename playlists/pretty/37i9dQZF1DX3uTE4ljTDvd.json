@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 131985,
+  "num_followers": 131996,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
+        "name": "Passos",
+        "url": "https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc"
+      },
+      "artists": [
+        {
+          "name": "Alma Soul",
+          "url": "https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu"
+        },
+        {
+          "name": "Eduardo Bessa",
+          "url": "https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Passos",
+      "url": "https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
         "name": "Cora\u00e7\u00e3o Cansado de Partir",
         "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 251936,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
-        "name": "Passos",
-        "url": "https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc"
-      },
-      "artists": [
-        {
-          "name": "Alma Soul",
-          "url": "https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu"
-        },
-        {
-          "name": "Eduardo Bessa",
-          "url": "https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Passos",
-      "url": "https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw"
     },
     {
       "added_at": "2025-07-19 03:19:18",

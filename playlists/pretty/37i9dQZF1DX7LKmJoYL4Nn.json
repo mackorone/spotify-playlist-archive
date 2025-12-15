@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61996,
+  "num_followers": 62002,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,26 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
+      },
+      "artists": [
+        {
+          "name": "PIKAPIKA",
+          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "\u77ac\u304dSign\u2606",
+      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "\u300c\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/6b9EPx8j0LIjKGOVrfVqPc"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 200000,
       "name": "\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661",
       "url": "https://open.spotify.com/track/60mvU2t9ThXv5bSlVugniv"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
-      },
-      "artists": [
-        {
-          "name": "PIKAPIKA",
-          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "\u77ac\u304dSign\u2606",
-      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
     },
     {
       "added_at": "2025-10-28 15:00:03",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "ALKALOID\u300cBelieve 4 leaves\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Hysteric Humanoid",
+      "url": "https://open.spotify.com/track/4GDOaroj4GirkuS9Eq1f9b"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba fine",
         "url": "https://open.spotify.com/album/4z49lX1K56H1WPOgE12LMl"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 270533,
       "name": "With My Honesty",
       "url": "https://open.spotify.com/track/0dV8tRaZtr4jHh4viBXNnw"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u7279\u5225\u4e0a\u6620\u7248\u300c\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01-Road to Show!!-\u300d\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/6r1hkUzgYcKK4domwT4R73"
-      },
-      "artists": [
-        {
-          "name": "SCREEN10/\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u685c\u6cb3 \u3053\u306f\u304f(CV.\u6d77\u6e21 \u7ffc)\u3001\u8475 \u3072\u306a\u305f(CV.\u6589\u85e4 \u58ee\u99ac)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd \u7965\u592a\u90ce)\u3001\u8863\u66f4 \u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u96f6(cv.\u5897\u7530 \u4fca\u6a39)\u3001\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8 \u9806\u4e00)",
-          "url": "https://open.spotify.com/artist/50tIQKLMIi4TO9J6Lha99Y"
-        }
-      ],
-      "duration_ms": 297573,
-      "name": "Life is so Dramatic!!",
-      "url": "https://open.spotify.com/track/1jHgDl0tSX9TkziHingJAC"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

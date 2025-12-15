@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7smcyWmMxpr2nqnefrh792.md) - [plain]
 
 > The greatest tunes inspired by a time when Punk was Punk and parents were nervous.
 
-[Epitaph Records](https://open.spotify.com/user/epitaphrecords) - 5,622 likes - 44 songs - 2 hr 6 min
+[Epitaph Records](https://open.spotify.com/user/epitaphrecords) - 5,623 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

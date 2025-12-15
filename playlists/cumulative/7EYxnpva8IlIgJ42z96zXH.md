@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-1,067 songs - 2 day 8 hr 3 min
+1,068 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -980,6 +980,7 @@
 | [TRUSTFALL \- Drove Remix](https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [TRUSTFALL \(The Remixes\)](https://open.spotify.com/album/2P3cfwf0rwwG3xMZ4EMgP6) | 3:31 | 2023-03-31 | 2023-07-15 |
 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 | 2024-02-09 | 2024-07-19 |
 | [Turn Back Time](https://open.spotify.com/track/1J2OlTIPluzOmf3RX8eKhT) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Turn Back Time](https://open.spotify.com/album/34aLEPCl28tCX1MBs2Hcjq) | 2:27 | 2020-11-20 | 2021-01-23 |
+| [Turn The Lights Off \(feat\. Jon\) \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 | 2025-12-15 |  |
 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 | 2023-07-14 | 2023-08-28 |
 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 | 2022-08-05 | 2022-12-02 |
 | [Twisted Mind \- Edit](https://open.spotify.com/track/7MlDi9YjwJyoMGebdhX8c5) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Twisted Mind \(Edit\)](https://open.spotify.com/album/62Ob4lPU2NTqJm5jmHQ1TJ) | 3:39 | 2022-03-06 | 2022-03-11 |

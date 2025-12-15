@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,874 likes - 83 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,827 likes - 83 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

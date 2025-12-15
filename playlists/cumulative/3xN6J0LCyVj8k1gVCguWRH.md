@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,514 songs - 12 day 20 hr 9 min
+5,517 songs - 12 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [88 degrees](https://open.spotify.com/track/5Hmh3t1lkGpVHNoGOHsyRZ) | [Jayton Lening](https://open.spotify.com/artist/5qeFqjJrj6W7KiBBBAVVjx) | [88 Degrees](https://open.spotify.com/album/5uKedXIfKsXBnusA3vfaXh) | 2:44 | 2024-01-31 | 2024-02-08 |
 | [90s Sitcom](https://open.spotify.com/track/1zz6COVIJyrzmYXLdJxlTl) | [Brittany Ray](https://open.spotify.com/artist/3MsA2aQCSDMoi7K7pZEYPo) | [90s Sitcom](https://open.spotify.com/album/1YG1RJxZbGFyxbSc60Eyl9) | 2:40 | 2022-10-14 | 2022-11-05 |
 | [911 \(Pressplay Remix\)](https://open.spotify.com/track/3byLHBXPEaBRrDfB7aue1j) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [PressPlay](https://open.spotify.com/artist/1opcFLsz9rMLOvTul3i3G6) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 3:43 | 2020-07-21 | 2020-08-02 |
+| [\_never let u go](https://open.spotify.com/track/5E7r9oHBFabyYbcPZGRoCJ) | [local strays](https://open.spotify.com/artist/6mDq3Y35f6V4GzcVJHZuV5), [little hannah](https://open.spotify.com/artist/7kE6s1OZtHIuqIMlgs7n60) | [\_never let u go](https://open.spotify.com/album/13EXEe9kRoLTw4ApLkiJUY) | 3:35 | 2025-12-14 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-29 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:51 | 2024-12-21 | 2025-02-09 |
 | [A Better Place](https://open.spotify.com/track/4bMN5DIPF2qGKOnCfBduD8) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Better Place](https://open.spotify.com/album/7zJh3qYcjLVCDDg1jDowJg) | 4:44 | 2025-10-28 | 2025-11-28 |
@@ -4952,6 +4953,7 @@
 | [Trouble](https://open.spotify.com/track/6SOqLGuZGOMNlzd7V51LVD) | [Kyle MAGNVS](https://open.spotify.com/artist/0uA8osadRDrFMdwgqugttf) | [Trouble](https://open.spotify.com/album/1gjTF8fj3y9AS40v5HWI4q) | 3:43 | 2021-11-20 | 2021-12-05 |
 | [Trouble](https://open.spotify.com/track/3jLS2y6MxwiK9nsPTFymvy) | [Melion Music](https://open.spotify.com/artist/1J3VGrxus1PQ3kR8zGyM1W) | [Trouble](https://open.spotify.com/album/0H4ObxQFzYZUW6mXh9kfWM) | 3:47 | 2024-06-10 | 2024-06-22 |
 | [Trouble](https://open.spotify.com/track/4GASLt4pEfkcCCEYvjBFW6) | [The Bleepy Things](https://open.spotify.com/artist/2696vDBf0Hb3yXIq3Vuv2K) | [Get Weird](https://open.spotify.com/album/2v99UHrCtNantVW6CaxaQI) | 3:33 | 2023-02-27 | 2023-03-20 |
+| [Trouble \(Budapest Pt\. 1\)](https://open.spotify.com/track/0rBNCSm4e6rfvnEsTmEKQb) | [Andrea Carax](https://open.spotify.com/artist/09KsWxNuWlya6rRvipzD5d), [kaub](https://open.spotify.com/artist/722lHx0H0HLOp44ov6Zr5t) | [Trouble \(Budapest Pt\. 1\)](https://open.spotify.com/album/38UN6exzCmJXSpZzaqnqZg) | 2:24 | 2025-12-14 |  |
 | [TRUE & AUTHENTIC SELF](https://open.spotify.com/track/6xCgcpSc0VzOJAzkxxAce3) | [Ditch The Ego](https://open.spotify.com/artist/7ocZN2y1ifhSUBkfNJsKCk), [World Wide Beats](https://open.spotify.com/artist/6LYLUhnOLQfjCoBpPTDiTE), [Parker Hill](https://open.spotify.com/artist/7FLCI3JvqZ0hxqd46P1QHI), [Chris Kennedy](https://open.spotify.com/artist/41bWT7afBkZEJWW3RI6Alg), [Brig](https://open.spotify.com/artist/573xEprfQphhjDIxTiy7hI), [Dazmin D'leon](https://open.spotify.com/artist/5ECIYzcG6bzu4rM0cFUtLA) | [TRUE & AUTHENTIC SELF](https://open.spotify.com/album/0GRS13Qdy20safUIAfD1dK) | 3:04 | 2024-06-14 | 2024-06-26 |
 | [True Love](https://open.spotify.com/track/0aGoffG2W0uU9Vm7YKeKoM) | [Jacob Spencer](https://open.spotify.com/artist/2t2meTWmV0MZaIUsZudawZ) | [Imperfect Love Story](https://open.spotify.com/album/2t6pejD8vAZZpiJmfYI8nT) | 3:22 | 2024-06-28 | 2024-07-10 |
 | [True Love Is F'd](https://open.spotify.com/track/0usg1krxbteHc6jgGGHdUy) | [Fsaints](https://open.spotify.com/artist/5DrNBoeGNKIm7iU7vyNRcI) | [Outhouse Flowers](https://open.spotify.com/album/6jbD4bwqFXvyk3vGdxnE58) | 4:00 | 2025-04-15 | 2025-05-04 |
@@ -5434,6 +5436,7 @@
 | [Yes, hello?](https://open.spotify.com/track/6P7izoKWNKLDg8K9ZpMWrs) | [Avi Ares](https://open.spotify.com/artist/1XGnWyeasFqaUVkpTJoQOR) | [Yes, hello?](https://open.spotify.com/album/3fOniWEZIXqivXoORe5Oy0) | 4:10 | 2025-04-30 | 2025-05-12 |
 | [Yesterday](https://open.spotify.com/track/6sT0ChSYBtJuUDI4qHBGx6) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Yesterday](https://open.spotify.com/album/67Xto05h5XsZCMCPlucARK) | 2:07 | 2021-10-09 | 2021-10-23 |
 | [Yesterday Go Away](https://open.spotify.com/track/3uzk7B4bxkREIJdifoaJz7) | [EZIA](https://open.spotify.com/artist/0NlGvbM8SmFXmaBb6pu1qg) | [Yesterday Go Away](https://open.spotify.com/album/0w281eyXrb2PqiZ1zw5tsm) | 3:39 | 2021-09-18 | 2021-10-04 |
+| [YO PAMI TE QUIERO](https://open.spotify.com/track/42PTkqNb9VBHBKMr76KCAr) | [ADIEL](https://open.spotify.com/artist/7kIY0YemfqOMRAmcn0zRvr) | [YO PAMI TE QUIERO](https://open.spotify.com/album/5wjpIh1KEF5bp9BZtfxLdO) | 1:46 | 2025-12-14 |  |
 | [Yo\-yo](https://open.spotify.com/track/7CpeVkCFSTX2MYLMhCXAf6) | [Matt Bippart](https://open.spotify.com/artist/6BZYylxLk92Vx37lUXKaBS) | [Yo\-yo](https://open.spotify.com/album/0H9etKaOQrMtLnB0qU4Ywh) | 2:37 | 2023-02-26 | 2023-03-20 |
 | [you](https://open.spotify.com/track/67UKQlayHF4L4ACUOj24Pr) | [Alma Owren](https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE) | [you](https://open.spotify.com/album/2PRGWFu3khYvrnZYgZz4Q2) | 3:35 | 2025-02-14 | 2025-03-08 |
 | [You](https://open.spotify.com/track/4kQPMzQe2SFv5kXmOCv2FL) | [Cesc](https://open.spotify.com/artist/6JgIKVieCcwKpdx4LwnbR0) | [You](https://open.spotify.com/album/3XlidUhsWEkpNiLF0pMX2V) | 3:26 | 2021-12-17 | 2022-01-01 |

@@ -346,7 +346,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 146181,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/7rYwMYE75vqXStRTObBBn3"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 164705,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4rWAXBV9x9OO4kTuLsikWa"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 148000,
       "name": "Burnin'",
       "url": "https://open.spotify.com/track/4Dtms4VXjeyzbEhdU4fFPj"
@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "Can't Look Away",
       "url": "https://open.spotify.com/track/7pe0n8caiO2QLQiU7NSkxK"
@@ -5174,7 +5174,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 132000,
       "name": "Driving Oceanside",
       "url": "https://open.spotify.com/track/0dIiKSBdeVRiTpj5Yog6ak"
@@ -16882,6 +16882,28 @@
     {
       "album": {
         "name": "Out Of Reach",
+        "url": "https://open.spotify.com/album/1MxbUEueZ6igP8ZljAxPcS"
+      },
+      "artists": [
+        {
+          "name": "Michael FAY",
+          "url": "https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi"
+        },
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Out Of Reach",
+      "url": "https://open.spotify.com/track/40ZH6odZBNRxbTxcY19r3C"
+    },
+    {
+      "album": {
+        "name": "Out Of Reach",
         "url": "https://open.spotify.com/album/6hAI1PbLBO3rLuq9kUVCVQ"
       },
       "artists": [
@@ -20203,6 +20225,32 @@
     },
     {
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7lJXQJyYcX6LibHBrqjS0G"
+      },
+      "artists": [
+        {
+          "name": "simplesun",
+          "url": "https://open.spotify.com/artist/1WxW90xSu4iYzfw9fg5fb3"
+        },
+        {
+          "name": "PETER EDGE",
+          "url": "https://open.spotify.com/artist/7sVkXFblUFCDSWp6IqBPgV"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175337,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/4Nssx6akyDGN19Q97synwC"
+    },
+    {
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/5g4k7hDdEglrbVN46WZAhg"
       },
@@ -20320,7 +20368,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 162015,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5FZ3F8RDenKwUHvAfcdGjS"
@@ -22476,7 +22524,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 154576,
       "name": "Till It Goes Dark",
       "url": "https://open.spotify.com/track/1g2YP9yUaq7ZfNxvJrPT5K"
@@ -24212,6 +24260,28 @@
       "duration_ms": 120000,
       "name": "Where We Are Now",
       "url": "https://open.spotify.com/track/3vdKcpbIa2qeORSnjyAUit"
+    },
+    {
+      "album": {
+        "name": "Where We Belong",
+        "url": "https://open.spotify.com/album/5MjrWXU5YMqioaRzEJ50lQ"
+      },
+      "artists": [
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        },
+        {
+          "name": "AgusAlvarez",
+          "url": "https://open.spotify.com/artist/7rGnhW0N8GcFkxw3xgZucr"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "Where We Belong",
+      "url": "https://open.spotify.com/track/3GpkilqR1lWfKitVeKy6r4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92245,
+  "num_followers": 92239,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Sin Voz",
+        "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 255488,
+      "name": "Sin Voz",
+      "url": "https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "MONICA",
         "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 131134,
       "name": "Monica",
       "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Sin Voz",
-        "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
-      },
-      "artists": [
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 255488,
-      "name": "Sin Voz",
-      "url": "https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -411,26 +411,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 266055,
-      "name": "Otra salida",
-      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "MOMENTO",
         "url": "https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA"
       },
@@ -467,18 +447,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "MAYDAY",
-        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
       },
       "artists": [
         {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
         }
       ],
-      "duration_ms": 113506,
-      "name": "arrancame los labios",
-      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -499,6 +483,22 @@
       "duration_ms": 171000,
       "name": "PANAMIUR",
       "url": "https://open.spotify.com/track/5NRoPUQy0epRhNWGFEPyfv"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 113506,
+      "name": "arrancame los labios",
+      "url": "https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "NO ACEPTEN IMITACIONES",
-        "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Onemillionkisses",
-          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
-        }
-      ],
-      "duration_ms": 155890,
-      "name": "COCINE Y COCINE",
-      "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Fall\u00e9",
         "url": "https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc"
       },
@@ -663,18 +643,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "114",
-        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
+        "name": "NO ACEPTEN IMITACIONES",
+        "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
       },
       "artists": [
         {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
         }
       ],
-      "duration_ms": 192162,
-      "name": "114",
-      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
+      "duration_ms": 155890,
+      "name": "COCINE Y COCINE",
+      "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -735,6 +719,22 @@
       "duration_ms": 91836,
       "name": "Rosita Lean",
       "url": "https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "114",
+        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 192162,
+      "name": "114",
+      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Pepper",
+        "url": "https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm"
+      },
+      "artists": [
+        {
+          "name": "Galvancillo",
+          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 158250,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Pepper",
-        "url": "https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm"
-      },
-      "artists": [
-        {
-          "name": "Galvancillo",
-          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
-        }
-      ],
-      "duration_ms": 202714,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP"
     },
     {
       "added_at": "2025-10-03 06:00:06",

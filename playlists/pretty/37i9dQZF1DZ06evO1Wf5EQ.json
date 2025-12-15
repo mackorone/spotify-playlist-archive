@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAAA3BjrSPRvjgpfIVD1QKzg2",
+  "snapshot_id": "aTysgAAAAABiahovFeMB/IOVNsK+ryRc",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 127615,
       "name": "Beth's Story",
       "url": "https://open.spotify.com/track/2hMmh9DiAcBjSw59vmYkTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "Thirty Horses",
-      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
       "duration_ms": 36448,
       "name": "Department Q",
       "url": "https://open.spotify.com/track/39Vwrh3qa7GOTpSJBYoKAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Thirty Horses",
+      "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 103158,
-      "name": "Saint Luke's",
-      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
+      "duration_ms": 144739,
+      "name": "The Remsen",
+      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 60983,
-      "name": "Science",
-      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
+      "duration_ms": 103158,
+      "name": "Saint Luke's",
+      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
     },
     {
       "added_at": null,

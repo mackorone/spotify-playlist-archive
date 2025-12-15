@@ -3929,6 +3929,28 @@
     },
     {
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/0mF8cnymZDGo36eAg9l4UZ"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Veracocha",
+          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/4Rp0PLogExoXWtkDLNunXR"
+    },
+    {
+      "album": {
         "name": "Cassini",
         "url": "https://open.spotify.com/album/6sx41AEVkLVs3fKPMwoqlu"
       },
@@ -5642,7 +5664,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 197647,
       "name": "Divergent - Radio Edit",
       "url": "https://open.spotify.com/track/07tSIYAgH9ovlgLr4iZJMS"

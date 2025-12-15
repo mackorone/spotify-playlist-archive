@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6928,
+  "num_followers": 6930,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAAAYDo01sBUHDBprFggcocmZ",
+  "snapshot_id": "aTysgAAAAADlhdORYJ6uXLjQCQrr+Gv4",
   "tracks": [
     {
       "added_at": null,
@@ -636,25 +636,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La V\u00edbora Peligrosa",
-        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 149084,
-      "name": "La V\u00edbora Peligrosa",
-      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+      "duration_ms": 180026,
+      "name": "Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La V\u00edbora Peligrosa",
+        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 149084,
+      "name": "La V\u00edbora Peligrosa",
+      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
         "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 180026,
-      "name": "Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G"
+      "duration_ms": 179000,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd"
     },
     {
       "added_at": null,

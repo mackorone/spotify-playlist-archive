@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 Dec 04:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Dec 04:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -10826,7 +10826,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 145025,
       "name": "BFF",
       "url": "https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh"
@@ -13314,7 +13314,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 112733,
       "name": "Booga",
       "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
@@ -72373,6 +72373,24 @@
     },
     {
       "album": {
+        "name": "OUBLIETTE",
+        "url": "https://open.spotify.com/album/22O4eii04TxV3E36VTtfxl"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262036,
+      "name": "OUBLIETTE",
+      "url": "https://open.spotify.com/track/4tvOXEaUFnBZt72O5kKsz9"
+    },
+    {
+      "album": {
         "name": "Our Parting Ways",
         "url": "https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL"
       },
@@ -81140,6 +81158,24 @@
       "duration_ms": 179370,
       "name": "ROCKMAN",
       "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "album": {
+        "name": "ROCKY BALBOA",
+        "url": "https://open.spotify.com/album/7lUxNiyLBKzRxp4daMIz6F"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126802,
+      "name": "ROCKY BALBOA",
+      "url": "https://open.spotify.com/track/58pBH4a7HQ9yeU9ZjPZRDr"
     },
     {
       "album": {

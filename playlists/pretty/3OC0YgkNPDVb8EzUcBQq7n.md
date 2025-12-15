@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 
 > Best of  the pop girl era! The biggest hits wrapped in one playlist, with Sabrina Carpenter,  Taylor Swift, Billie Eilish, Chappell Roan and more
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 43,017 likes - 67 songs - 3 hr 41 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 43,004 likes - 67 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

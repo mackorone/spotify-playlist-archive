@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Kelsea Ballerini",
-  "num_followers": 54135,
+  "num_followers": 54157,
   "original_name": "Editors' Picks: Best Songs of November",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Big Daddy",
+      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
+    },
+    {
+      "added_at": "2025-12-01 17:54:59",
+      "album": {
         "name": "Beto\u2019s Horns (fred remix)",
         "url": "https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 226222,
       "name": "Beto\u2019s Horns - fred remix",
       "url": "https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np"
-    },
-    {
-      "added_at": "2025-12-01 17:54:59",
-      "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Big Daddy",
-      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
     },
     {
       "added_at": "2025-12-01 17:54:59",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
-        "name": "Witching Hour",
-        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Underworld",
-      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
-    },
-    {
-      "added_at": "2025-12-01 17:54:59",
-      "album": {
         "name": "Unforgiven",
         "url": "https://open.spotify.com/album/2a0rNOt4wqvjUcGKnjsdTi"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 201230,
       "name": "Unforgiven",
       "url": "https://open.spotify.com/track/4nVpEwdqM0aaAQSqqSM7cH"
+    },
+    {
+      "added_at": "2025-12-01 17:54:59",
+      "album": {
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
     },
     {
       "added_at": "2025-12-01 17:54:59",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
-        "name": "On s'envoie en l'air",
-        "url": "https://open.spotify.com/album/4a2XzyF9o9Hr3c69EuQejX"
-      },
-      "artists": [
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 177951,
-      "name": "On s'envoie en l'air",
-      "url": "https://open.spotify.com/track/3ueR9lZN5RE88U8WCtDtnw"
-    },
-    {
-      "added_at": "2025-12-01 17:54:59",
-      "album": {
         "name": "iDidntMeanToGhostYouButMyWifiCrashedAgain",
         "url": "https://open.spotify.com/album/5AJBU94cun1EeaDMYQZOX2"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
-        "name": "takeaways",
-        "url": "https://open.spotify.com/album/4VHiidABI5iOAaG3L4TW5s"
+        "name": "On s'envoie en l'air",
+        "url": "https://open.spotify.com/album/4a2XzyF9o9Hr3c69EuQejX"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
         }
       ],
-      "duration_ms": 229372,
-      "name": "White Male Privilege",
-      "url": "https://open.spotify.com/track/4HGkMZR0hdU5YfuANzsCyF"
+      "duration_ms": 177951,
+      "name": "On s'envoie en l'air",
+      "url": "https://open.spotify.com/track/3ueR9lZN5RE88U8WCtDtnw"
     },
     {
       "added_at": "2025-12-01 17:54:59",
@@ -867,6 +851,22 @@
       "duration_ms": 151886,
       "name": "spearmint",
       "url": "https://open.spotify.com/track/7JKv0qkYYjv50LaQ9fMUlz"
+    },
+    {
+      "added_at": "2025-12-01 17:54:59",
+      "album": {
+        "name": "takeaways",
+        "url": "https://open.spotify.com/album/4VHiidABI5iOAaG3L4TW5s"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 229372,
+      "name": "White Male Privilege",
+      "url": "https://open.spotify.com/track/4HGkMZR0hdU5YfuANzsCyF"
     },
     {
       "added_at": "2025-12-01 17:54:59",

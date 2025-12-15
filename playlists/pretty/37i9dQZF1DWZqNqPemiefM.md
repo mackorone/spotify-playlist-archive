@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: aus
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,861 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,899 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 64 | [Cutting Branches For A Temporary Shelter \- Remastered 2008](https://open.spotify.com/track/0Lm3loChnSsNS37nxvLYcN) | [Penguin Cafe Orchestra](https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E) | [Penguin Café Orchestra](https://open.spotify.com/album/2HDowU93etbL5ClDIRAyh8) | 3:08 |
 | 65 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
 | 66 | [Surround](https://open.spotify.com/track/005fAyxQn5b0hxmQFGJSoP) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Surround](https://open.spotify.com/album/1rnwK12BYEZDg4XWZEp98V) | 3:44 |
-| 67 | [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 |
-| 68 | [Strange Clouds](https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1), [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Radio Yugawara](https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU) | 3:33 |
-| 69 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 |
-| 70 | [opus](https://open.spotify.com/track/0Tl42Sk71peiqrZ4slHv9J) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB](https://open.spotify.com/album/0UPftEfpaTZRZ2qvFmTcCC) | 4:25 |
+| 67 | [Strange Clouds](https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1), [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Radio Yugawara](https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU) | 3:33 |
+| 68 | [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 |
+| 69 | [opus](https://open.spotify.com/track/0Tl42Sk71peiqrZ4slHv9J) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB](https://open.spotify.com/album/0UPftEfpaTZRZ2qvFmTcCC) | 4:25 |
+| 70 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 |
 | 71 | [Quiessence](https://open.spotify.com/track/5oyqKEXVxjJirSH5pNPeGS) | [Barry Walker Jr.](https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z), [Rob Smith](https://open.spotify.com/artist/29WMj2Uqud9UD3oLvbBuS0), [Jason Willmon](https://open.spotify.com/artist/3D5FmrONwuqaNSUZq5mkqm) | [Quiessence, Leaving Lower Big Basin & A Trip Into Town](https://open.spotify.com/album/6nf2vavXHAJlkygEMJSBKX) | 2:36 |
 | 72 | [Nagi / 凪](https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0) | [Nagi / 凪](https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN) | 4:57 |
 | 73 | [Big Empty Country \- I](https://open.spotify.com/track/4LC4gqiuOPsQTaYKO6yIOj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Lateral](https://open.spotify.com/album/1yipZJ7MzmCA56WeIfHX3D) | 8:02 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 76 | [Black meditation](https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Afrikan Culture](https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0) | 3:58 |
 | 77 | [Grand Prix](https://open.spotify.com/track/6Sy8Jcl3wqxLQqFuxTp4eH) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Grand Prix](https://open.spotify.com/album/481ZVqAcmqQhPkCqg1L2ir) | 4:01 |
 | 78 | [Closer](https://open.spotify.com/track/2nsPkMV6m9pZCOB49nFMDZ) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences Vol\. II](https://open.spotify.com/album/0y5hRFFLP15WWajyyDy1dy) | 4:20 |
-| 79 | [Dusk](https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dusk](https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m) | 3:20 |
-| 80 | [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 |
+| 79 | [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 |
+| 80 | [Dusk](https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dusk](https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m) | 3:20 |
 | 81 | [long time](https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 1:07 |
-| 82 | [Melting Ice](https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Delay Music](https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn) | 1:52 |
-| 83 | [Sun Room](https://open.spotify.com/track/4ERpkrp26fCCQFMGZg8oCI) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [69](https://open.spotify.com/album/4JxPZ8OU4lt8uwHhFN4hK1) | 4:48 |
-| 84 | [Ocotillo](https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 8:43 |
-| 85 | [Today I Taught Them How To How To Skip Stones Across the Lake](https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [You Always Will Be](https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18) | 3:12 |
+| 82 | [Today I Taught Them How To How To Skip Stones Across the Lake](https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [You Always Will Be](https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18) | 3:12 |
+| 83 | [Melting Ice](https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Delay Music](https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn) | 1:52 |
+| 84 | [Sun Room](https://open.spotify.com/track/4ERpkrp26fCCQFMGZg8oCI) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [69](https://open.spotify.com/album/4JxPZ8OU4lt8uwHhFN4hK1) | 4:48 |
+| 85 | [Ocotillo](https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 8:43 |
 | 86 | [夜の街](https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [TVアニメ『よふかしのうた』オリジナル・サウンドトラック](https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv) | 3:07 |
 | 87 | [Something Ephemeral](https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Something Ephemeral](https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL) | 2:41 |
 | 88 | [okarun's life](https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 2:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 97 | [Blue Dragonfly](https://open.spotify.com/track/2HoDCdsBee9WffbDrfhNyG) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Once Was Ours Forever](https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna) | 4:38 |
 | 98 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 |
 | 99 | [Flora](https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Flora](https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC) | 6:02 |
-| 100 | [190306\-11](https://open.spotify.com/track/04P0ErOc0W13SliezFing8) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [草稿](https://open.spotify.com/album/7vnmFoClimIW1xxjyorJJ4) | 2:35 |
+| 100 | [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 |
 
 Snapshot ID: `AAAAAJTI+hMhF5hZorgFpXWIdFAwKkE+`

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-718 songs - 1 day 7 hr 4 min
+719 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Mosaic](https://open.spotify.com/track/0kQguS2NXFOhYu4D1KKZAc) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Mosaic](https://open.spotify.com/album/5ouMoMUX2S8QQnCGIFAAzF) | 2:30 | 2025-02-14 | 2025-03-08 |
 | [Mosaic](https://open.spotify.com/track/595AJZjDvLkExd9AtjN0QL) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Mosaic](https://open.spotify.com/album/6TtN2j15lxJMTv9xmmnd61) | 2:13 | 2024-09-27 | 2025-09-13 |
 | [Mother](https://open.spotify.com/track/7nyWfuyFuuZv99bCmAypze) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Napota](https://open.spotify.com/artist/4Cz8l3NTYLHWORrXy7GYCT) | [Mother](https://open.spotify.com/album/5VWReM20E8xYd0Hb69Sqnk) | 1:49 | 2025-06-13 | 2025-07-26 |
+| [Motions](https://open.spotify.com/track/3yw7dgVshboD2PBkf9MoJG) | [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Motions](https://open.spotify.com/album/2jrp8CqPxhyDAXC5quR9Qc) | 2:02 | 2025-12-12 |  |
 | [Myna](https://open.spotify.com/track/4htqkyCo9iJ0sLYgk2VJrG) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Myna / Fruitcrow](https://open.spotify.com/album/5YvBAPSlu4c9o4yOeKRlER) | 2:03 | 2025-05-23 | 2025-09-13 |
 | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 | 2024-10-18 | 2025-05-10 |
 | [Nardis](https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nardis](https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2) | 2:18 | 2023-08-22 | 2025-04-12 |
@@ -713,7 +714,7 @@
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 | 2024-04-19 |
 | [While She Waits](https://open.spotify.com/track/7hrEY12YhKpa6wPruwHrag) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/1C8EQLLSiDZoXRiwgaUPB7) | 2:16 | 2024-03-20 | 2024-08-24 |
 | [WHIP.wav](https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [WHIP.wav](https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC) | 1:38 | 2024-10-18 | 2025-03-08 |
-| [white nights](https://open.spotify.com/track/5IAttO7JWJWIfuSsxfvMuw) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [white nights](https://open.spotify.com/album/3Bb4hgXKhJtDmLT6lsUxEe) | 2:06 | 2025-11-07 |  |
+| [white nights](https://open.spotify.com/track/5IAttO7JWJWIfuSsxfvMuw) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [white nights](https://open.spotify.com/album/3Bb4hgXKhJtDmLT6lsUxEe) | 2:06 | 2025-11-07 | 2025-12-15 |
 | [Who's Calling](https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Who's Calling](https://open.spotify.com/album/4iS1L19dxA12WO2xXdQfFq) | 1:45 | 2025-04-18 | 2025-05-25 |
 | [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-20 | 2025-04-12 |
 | [Window Pane](https://open.spotify.com/track/3oH3TnUBAHJUMBPwJTynv2) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Window Pane](https://open.spotify.com/album/1AaDQgeyo7tbApFPiCfXiU) | 2:00 | 2025-03-03 | 2025-03-18 |

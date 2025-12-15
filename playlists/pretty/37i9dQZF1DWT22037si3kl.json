@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148600,
+  "num_followers": 148599,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,26 @@
     {
       "added_at": "2025-12-11 16:00:16",
       "album": {
+        "name": "Ecos do Sil\u00eancio",
+        "url": "https://open.spotify.com/album/3oiPHSVfWq4JunYpYnwxNK"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "tal do dias",
+          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
+        }
+      ],
+      "duration_ms": 174763,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7pi9Y5Dix1avrFQgvBWoa5"
+    },
+    {
+      "added_at": "2025-12-11 16:00:16",
+      "album": {
         "name": "Sentido \u00e0 Zona Leste",
         "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 123508,
       "name": "Sentido \u00e0 Zona Leste",
       "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
-    },
-    {
-      "added_at": "2025-12-11 16:00:16",
-      "album": {
-        "name": "Ecos do Sil\u00eancio",
-        "url": "https://open.spotify.com/album/3oiPHSVfWq4JunYpYnwxNK"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "tal do dias",
-          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
-        }
-      ],
-      "duration_ms": 174763,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7pi9Y5Dix1avrFQgvBWoa5"
     },
     {
       "added_at": "2025-12-11 16:00:16",

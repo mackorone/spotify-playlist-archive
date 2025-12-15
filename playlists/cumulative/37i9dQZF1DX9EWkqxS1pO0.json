@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Benden \u00d6te",
+        "url": "https://open.spotify.com/album/6Qq7CP7qhgqwW3bvrMpHnw"
+      },
+      "artists": [
+        {
+          "name": "Kaan Ceylan",
+          "url": "https://open.spotify.com/artist/3c78ilDTckX5klD0x6fHlj"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170204,
+      "name": "Benden \u00d6te",
+      "url": "https://open.spotify.com/track/6JfgPAQw0QReNRefKBu13n"
+    },
+    {
+      "album": {
         "name": "Beni Anla",
         "url": "https://open.spotify.com/album/0168AFy8qdzlb6z5NddBxt"
       },
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 183900,
       "name": "yine bana kal",
       "url": "https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2"

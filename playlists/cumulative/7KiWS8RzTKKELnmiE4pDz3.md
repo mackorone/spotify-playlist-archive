@@ -4,7 +4,7 @@
 
 > 
 
-1,254 songs - 2 day 17 hr 3 min
+1,255 songs - 2 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1143,6 +1143,7 @@
 | [Treacherous](https://open.spotify.com/track/7zTuJaP8fvMWMy6DdkC9U5) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Treacherous](https://open.spotify.com/album/4oniEHUSpIyuFH7iIV0rV9) | 1:55 | 2024-04-01 | 2024-11-06 |
 | [Trenches](https://open.spotify.com/track/5zlEkBmLWairpf6lvCYrti) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 1:56 | 2025-05-08 |  |
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2022-09-26 | 2024-11-06 |
+| [Trife Life](https://open.spotify.com/track/7a2dsbIZcf5SAz7Uv4G0NR) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:20 | 2025-12-14 |  |
 | [Trippin](https://open.spotify.com/track/4huciygZHFSjTP5DHmPs20) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 2:19 | 2023-12-27 | 2024-03-05 |
 | [Trippple H](https://open.spotify.com/track/1ydS1YSLGA9ESh7GROrnWR) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Thot Slayer 2](https://open.spotify.com/album/1PrvzRiC3jFGKR0GRSkLz4) | 3:32 | 2022-08-14 | 2023-05-09 |
 | [Truck Loaded](https://open.spotify.com/track/6dkAVxrPh4abLufu8X5LbP) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Ice Attack 2](https://open.spotify.com/album/2IlXgJSj4iMTVCqsl5uFMs) | 3:11 | 2025-11-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Sufian Suhaimi, OneRepublic,  SAMSOL, Insomniacks, Khai Bahar, Yulia Kamelia, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,429 likes - 82 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,419 likes - 82 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

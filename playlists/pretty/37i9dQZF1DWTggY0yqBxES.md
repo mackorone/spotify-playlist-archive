@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,680 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,733 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 7 | [Walk… Before You Fly!](https://open.spotify.com/track/7ECcYtKljkGhcEzR8L5KFU) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [SAVE!](https://open.spotify.com/album/3ZhL5dmsbLOlYR7Kk15dpE) | 2:08 |
 | 8 | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo) | 3:10 |
 | 9 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
-| 10 | [Futc up the club](https://open.spotify.com/track/5Erox1bpPhEBr2WySBOO8P) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Futc up the club](https://open.spotify.com/album/2tbv6TJ0Jy53K55PtuWEiR) | 2:10 |
+| 10 | [FUTC](https://open.spotify.com/track/5Erox1bpPhEBr2WySBOO8P) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [FUTC](https://open.spotify.com/album/2tbv6TJ0Jy53K55PtuWEiR) | 2:10 |
 | 11 | [Black Jeep](https://open.spotify.com/track/3JadDlLa2L3vrGs8DXsWao) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Black Jeep](https://open.spotify.com/album/0GapUYcDxeItfst1KafpmB) | 1:48 |
 | 12 | [CLOVER](https://open.spotify.com/track/0ceAnr7yV1CO6Hseca0vrB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [CLOVER](https://open.spotify.com/album/5Qd57v5SWaP70VXJBzmu1j) | 3:10 |
 | 13 | [LAX](https://open.spotify.com/track/6XhgHxd8izA89n2a0NZQsN) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [S.A.D.](https://open.spotify.com/album/3Jno2CS40tiFaUnB5ygBMA) | 2:07 |

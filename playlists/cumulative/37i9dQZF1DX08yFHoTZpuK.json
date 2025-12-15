@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Dic EP",
+        "url": "https://open.spotify.com/album/5f4BZAIBFnjjUCveThEfDD"
+      },
+      "artists": [
+        {
+          "name": "64controll",
+          "url": "https://open.spotify.com/artist/6T2kpIGh5xu7ZsXZ02vzPQ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231222,
+      "name": "Dic",
+      "url": "https://open.spotify.com/track/5mRzFVdwhpE6Bp6r9FFzbK"
+    },
+    {
+      "album": {
         "name": "Asakusa Light",
         "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 264473,
       "name": "Outro",
       "url": "https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo"

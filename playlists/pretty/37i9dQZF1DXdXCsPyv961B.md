@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 
 > Il meglio dell'indie italiano nel 2025, secondo i nostri Editor! Cover: Lucio Corsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,365 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,369 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

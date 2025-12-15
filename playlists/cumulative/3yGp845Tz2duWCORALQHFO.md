@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,539 songs - 10 day 8 hr 20 min
+4,540 songs - 10 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3843,6 +3843,7 @@
 | [Taste Of](https://open.spotify.com/track/3fz2aGpBa62ImSkwk1Tomi) | [NIGHTJARS](https://open.spotify.com/artist/4nGnMJiON9x7fYHg5KT2m0) | [Taste Of](https://open.spotify.com/album/2foTKDmBakpDD3TgbCjjmh) | 3:22 | 2025-09-27 | 2025-10-04 |
 | [Taste Of \- Vareso Remix](https://open.spotify.com/track/16WsxlD6H423L438rW5zsm) | [NIGHTJARS](https://open.spotify.com/artist/4nGnMJiON9x7fYHg5KT2m0), [Vareso](https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l) | [Taste Of](https://open.spotify.com/album/3VYWZWMz04CvSjvnBfyTDv) | 3:17 | 2025-12-12 |  |
 | [Tastes Good](https://open.spotify.com/track/7c9WZ9hUJPUjumErBVHvwe) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Tastes Good](https://open.spotify.com/album/52IAbOv0uH2u4SMHrPxc3A) | 2:58 | 2025-08-15 | 2025-08-23 |
+| [TATTOO](https://open.spotify.com/track/5pSsvdgZEPXdGsN8KdqV3T) | [NoBueno](https://open.spotify.com/artist/1UKsmmTIgU6YAibaDtnV1U) | [TATTOO](https://open.spotify.com/album/43EJPeKFaTA2cvL2IwZ2jV) | 2:20 | 2025-12-14 |  |
 | [Tax](https://open.spotify.com/track/6VeiSkTvUS928pBY0uEAC9) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Tax](https://open.spotify.com/album/3d7mcIYhD0nt9hBq1lkdmi) | 3:24 | 2024-12-13 | 2024-12-19 |
 | [Teahupoo](https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Teahupoo](https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr) | 3:22 | 2025-09-19 | 2025-09-28 |
 | [Team Outside](https://open.spotify.com/track/1UzgXSvZUu2o4o4NGo4HnF) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Bren Lock](https://open.spotify.com/artist/6WXUodSXGrrJ07pBQFyvwt), [Quincy Davis](https://open.spotify.com/artist/7LoQeWtWlVnY9qET4Ya11o) | [ANTI 02](https://open.spotify.com/album/4sontsytCmO74qrT8xhNnK) | 3:15 | 2025-11-21 | 2025-11-29 |

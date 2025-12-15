@@ -22291,6 +22291,24 @@
     },
     {
       "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320160,
+      "name": "Trife Life",
+      "url": "https://open.spotify.com/track/7a2dsbIZcf5SAz7Uv4G0NR"
+    },
+    {
+      "album": {
         "name": "Trapped On Cleveland 3",
         "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
       },

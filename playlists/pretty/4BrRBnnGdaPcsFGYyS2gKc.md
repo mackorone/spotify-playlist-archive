@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4BrRBnnGdaPcsFGYyS2gKc.md) - [plain]
 
 > the best &amp; new rock\. all the beloved tracks &amp; artists
 
-[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,379 likes - 228 songs - 14 hr 10 min
+[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,378 likes - 228 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

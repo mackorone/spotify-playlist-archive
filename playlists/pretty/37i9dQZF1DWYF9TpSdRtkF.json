@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 18347,
+  "num_followers": 18352,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -1448,22 +1448,6 @@
       },
       "artists": [
         {
-          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
-          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "\u30d3\u30ae\u30ca\u30fc\u30ba \u30b9\u30c8\u30e9\u30a4\u30af",
-      "url": "https://open.spotify.com/track/18qmhVcZk7eraEOEUYsSLn"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 13",
-        "url": "https://open.spotify.com/album/5CvkmLTabznfl6lVW9f9ZU"
-      },
-      "artists": [
-        {
           "name": "\u53cc\u6d77\u4e9c\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
           "url": "https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9"
         },
@@ -1483,6 +1467,22 @@
       "duration_ms": 235186,
       "name": "Big\u30d0\u30eb\u30fc\u30f3",
       "url": "https://open.spotify.com/track/2GrYcdCa5sX5eR8i8jmMBD"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 13",
+        "url": "https://open.spotify.com/album/5CvkmLTabznfl6lVW9f9ZU"
+      },
+      "artists": [
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "\u30d3\u30ae\u30ca\u30fc\u30ba \u30b9\u30c8\u30e9\u30a4\u30af",
+      "url": "https://open.spotify.com/track/18qmhVcZk7eraEOEUYsSLn"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -1551,6 +1551,30 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 13 \u308a\u308b\u304d\u3083\u3093 \uff5e3 little candy\uff5e",
+        "url": "https://open.spotify.com/album/5qa2bHCRgdrocEpiWWLbxx"
+      },
+      "artists": [
+        {
+          "name": "\u7be0\u5bae\u53ef\u6190 (CV.\u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z"
+        },
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "duration_ms": 289720,
+      "name": "\u30cf\u30eb\u30de\u30c1\u5973\u5b50",
+      "url": "https://open.spotify.com/track/5SCVtjFekvmxWtlo9laGSe"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER THE@TER ACTIVITIES 01",
         "url": "https://open.spotify.com/album/7iSakDfb2BqUktuvSv5xWH"
       },
@@ -1579,30 +1603,6 @@
       "duration_ms": 262546,
       "name": "\u5275\u9020\u306f\u59cb\u307e\u308a\u306e\u98a8\u3092\u9023\u308c\u3066",
       "url": "https://open.spotify.com/track/43nKi10iajknVFtzbNDzcI"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 13 \u308a\u308b\u304d\u3083\u3093 \uff5e3 little candy\uff5e",
-        "url": "https://open.spotify.com/album/5qa2bHCRgdrocEpiWWLbxx"
-      },
-      "artists": [
-        {
-          "name": "\u7be0\u5bae\u53ef\u6190 (CV.\u8fd1\u85e4 \u552f)",
-          "url": "https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z"
-        },
-        {
-          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
-          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
-        },
-        {
-          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
-          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
-        }
-      ],
-      "duration_ms": 289720,
-      "name": "\u30cf\u30eb\u30de\u30c1\u5973\u5b50",
-      "url": "https://open.spotify.com/track/5SCVtjFekvmxWtlo9laGSe"
     },
     {
       "added_at": "2025-03-26 16:49:37",

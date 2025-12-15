@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: James Alyn
 
-2,339 songs - 5 day 21 hr 48 min
+2,340 songs - 5 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [away.](https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [away.](https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec) | 3:25 | 2023-05-18 | 2023-06-30 |
 | [b.o.m.b.](https://open.spotify.com/track/0D1MNTrIZM6rHZbENgL8ZS) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [b.o.m.b.](https://open.spotify.com/album/5kxSD8iP2rpaZU2LGosAuX) | 2:46 | 2024-08-29 | 2024-09-28 |
 | [Ba Gia](https://open.spotify.com/track/6zyhQyJrLPQtKxnqkglgYn) | [Ngọt](https://open.spotify.com/artist/7Hb3SmjmPa6BhGxQvY4eun) | [Ba Gia](https://open.spotify.com/album/4gmm0XOIjib5Txc9wxDOzA) | 2:51 | 2022-03-24 | 2022-04-22 |
+| [Babel \- Re\-recorded](https://open.spotify.com/track/10xfnXloDbfdwDwA9MyEyK) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Babel \(Re\-recorded\)](https://open.spotify.com/album/2eyT1jowj8QUaDUl0qz9fO) | 4:38 | 2025-12-15 |  |
 | [Baby](https://open.spotify.com/track/6L3rzNHhoBAt2yERmplzuU) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Baby](https://open.spotify.com/album/2GWUAh0pqsE3N7EwMMDEj2) | 4:17 | 2024-10-17 | 2024-11-22 |
 | [Baby](https://open.spotify.com/track/0e3SEtDMmYlom6M0dpuPW8) | [Vincent Eco](https://open.spotify.com/artist/4uPV1pcyi0NHppEd2eSmDQ) | [Baby](https://open.spotify.com/album/7eOJv3GuxotOJNXWKO8Yfc) | 3:45 | 2024-09-06 | 2024-09-13 |
 | [Baby Don't Cry](https://open.spotify.com/track/4TPlWx1AaskNu8VLrjgQa2) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Baby Don't Cry](https://open.spotify.com/album/7jaXduiHmInnnWDZsA6AFM) | 4:06 | 2022-12-08 | 2023-02-17 |
@@ -1928,7 +1929,7 @@
 | [Undo \(feat\. Su\)](https://open.spotify.com/track/3PPw7f955j5emJDS4hrjbs) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz), [Su](https://open.spotify.com/artist/1l8xhC977AFxpN7QyDajbC) | [Casual Day](https://open.spotify.com/album/4SUl0HZ4PltGiBRmmqoMgq) | 3:19 | 2022-05-12 | 2022-07-08 |
 | [Uneven](https://open.spotify.com/track/352StnCiFEF6hqe3eR791o) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Restless](https://open.spotify.com/album/5uDxlFZNaC2r3nQbEIPzip) | 4:11 | 2023-03-31 | 2023-05-19 |
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-06-30 | 2022-09-09 |
-| [Unknown Island](https://open.spotify.com/track/0DFdHBXkNHzkErWowep6Ak) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/0imMfpeWlSPj9E5Sy0Bgui) | 4:16 | 2025-11-11 |  |
+| [Unknown Island](https://open.spotify.com/track/0DFdHBXkNHzkErWowep6Ak) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/0imMfpeWlSPj9E5Sy0Bgui) | 4:16 | 2025-11-11 | 2025-12-15 |
 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 | 2022-03-24 | 2022-06-03 |
 | [Until The Sunrise](https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Until The Sunrise](https://open.spotify.com/album/3KqZhPw9FN7ss8Xyu6bbwH) | 3:26 | 2024-09-19 | 2024-11-09 |
 | [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 | 2024-04-04 | 2024-05-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,628 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,876 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 49 | [Maker of the Moon](https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Maker of the Moon](https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT) | 6:06 |
 | 50 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 
-Snapshot ID: `AAAAAFhccCZi9zMBwMET7d7GSIboKcKG`
+Snapshot ID: `AAAAAAvwqflC2c+j2zy2Ghp2/RDpq820`

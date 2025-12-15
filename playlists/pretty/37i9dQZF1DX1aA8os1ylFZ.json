@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 295849,
+  "num_followers": 295845,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Out The Window",
-        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 256615,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -167,22 +151,6 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Holy Blindfold",
-        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Holy Blindfold",
-      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -203,18 +171,34 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+        "name": "Out The Window",
+        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 146015,
-      "name": "No",
-      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
+      "duration_ms": 256615,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "Holy Blindfold",
+        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Holy Blindfold",
+      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -255,6 +239,62 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 146015,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
+        "url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
+      "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
         "name": "peter pan.",
         "url": "https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L"
       },
@@ -283,46 +323,6 @@
       "duration_ms": 157992,
       "name": "I Need Her",
       "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
-        "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
-        "url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
-      "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 188562,
       "name": "do what i say",
       "url": "https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Priceless",
-        "url": "https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84"
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
       },
       "artists": [
         {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 159986,
-      "name": "Priceless",
-      "url": "https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d"
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
         }
       ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+      "duration_ms": 159986,
+      "name": "Priceless",
+      "url": "https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -647,6 +647,22 @@
       "duration_ms": 285799,
       "name": "MEET THE SUN",
       "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "Useless (Without You)",
+        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 166894,
+      "name": "Useless (Without You)",
+      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Useless (Without You)",
-        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 166894,
-      "name": "Useless (Without You)",
-      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
         "name": "I'm Still",
         "url": "https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu"
       },
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 172294,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
         "name": "Can We Talk?",
         "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 188852,
       "name": "Can We Talk?",
       "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 172294,
-      "name": "You",
-      "url": "https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9"
-      },
-      "artists": [
-        {
-          "name": "Amazone",
-          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 140769,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9"
+      },
+      "artists": [
+        {
+          "name": "Amazone",
+          "url": "https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Cutesy",
-        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181589,
-      "name": "Cutesy",
-      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
         "name": "TWIN FLAME",
         "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 136585,
       "name": "YOU",
       "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "Cutesy",
+        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 181589,
+      "name": "Cutesy",
+      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3hBSQaJbBO4vD4yfStlxNb"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
         "name": "From A Distance",
         "url": "https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG"
       },
@@ -1303,6 +1303,26 @@
       "duration_ms": 183463,
       "name": "From A Distance",
       "url": "https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        },
+        {
+          "name": "RAIN",
+          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
+        }
+      ],
+      "duration_ms": 174232,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -1335,26 +1355,6 @@
       "duration_ms": 197323,
       "name": "Empath",
       "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        },
-        {
-          "name": "RAIN",
-          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
-        }
-      ],
-      "duration_ms": 174232,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
+        "name": "Never Return",
+        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 172410,
+      "name": "Never Return",
+      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63"
       },
@@ -1503,6 +1519,22 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
+        "name": "Find My Lover",
+        "url": "https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 129013,
+      "name": "Find My Lover",
+      "url": "https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
         "name": "Pussy",
         "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
       },
@@ -1515,42 +1547,6 @@
       "duration_ms": 175183,
       "name": "Pussy",
       "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
-        "name": "Never Return",
-        "url": "https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 172410,
-      "name": "Never Return",
-      "url": "https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
-        "name": "Fallin'",
-        "url": "https://open.spotify.com/album/3FqkNoQfkwNJqcGFMlYTaY"
-      },
-      "artists": [
-        {
-          "name": "YVES",
-          "url": "https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ"
-        },
-        {
-          "name": "SHY",
-          "url": "https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T"
-        }
-      ],
-      "duration_ms": 194074,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/0zOnQBMBE8CgIFcMDfM5Ks"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2025-12-12 12:16:00",
       "album": {
-        "name": "TUTU",
-        "url": "https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ"
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/3FqkNoQfkwNJqcGFMlYTaY"
       },
       "artists": [
         {
-          "name": "Amadi Blue",
-          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+          "name": "YVES",
+          "url": "https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ"
+        },
+        {
+          "name": "SHY",
+          "url": "https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T"
         }
       ],
-      "duration_ms": 160200,
-      "name": "TUTU",
-      "url": "https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm"
+      "duration_ms": 194074,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0zOnQBMBE8CgIFcMDfM5Ks"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -1615,6 +1615,22 @@
       "duration_ms": 153821,
       "name": "Make U Mine",
       "url": "https://open.spotify.com/track/7d1uB2go55mTVLrnsGBU6f"
+    },
+    {
+      "added_at": "2025-12-12 12:16:00",
+      "album": {
+        "name": "TUTU",
+        "url": "https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "TUTU",
+      "url": "https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm"
     },
     {
       "added_at": "2025-12-12 12:16:00",
@@ -1647,22 +1663,6 @@
       "duration_ms": 152727,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4nAivISUKJTaSl73LNPTYX"
-    },
-    {
-      "added_at": "2025-12-12 12:16:00",
-      "album": {
-        "name": "Find My Lover",
-        "url": "https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 129013,
-      "name": "Find My Lover",
-      "url": "https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH"
     },
     {
       "added_at": "2025-12-12 12:16:00",

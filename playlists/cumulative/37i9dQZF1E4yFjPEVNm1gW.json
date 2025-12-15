@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -836,10 +836,28 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 193699,
       "name": "MY TIME",
       "url": "https://open.spotify.com/track/5DyxMRXh5kKwDPzbOSA1No"
+    },
+    {
+      "album": {
+        "name": "64 / Neck",
+        "url": "https://open.spotify.com/album/63XdNvh7XaNTdHSZtBSob1"
+      },
+      "artists": [
+        {
+          "name": "surelynotsibi42",
+          "url": "https://open.spotify.com/artist/6kQZyWgAMsM7U7vRlWLYd2"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125860,
+      "name": "Neck",
+      "url": "https://open.spotify.com/track/7cf1ajZuGKZA0tj7RxB8xs"
     },
     {
       "album": {
@@ -1334,6 +1352,24 @@
       "duration_ms": 120214,
       "name": "The Final Agenda",
       "url": "https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps"
+    },
+    {
+      "album": {
+        "name": "Super Joint",
+        "url": "https://open.spotify.com/album/31h0Caz0U8NQX6No7cstTz"
+      },
+      "artists": [
+        {
+          "name": "GoodFinesse",
+          "url": "https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184553,
+      "name": "THE SAME",
+      "url": "https://open.spotify.com/track/4OQsPgm4pSgYUypIixYGV0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-985 songs - 2 day 16 hr 57 min
+988 songs - 2 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Family Tree \(Intro\)](https://open.spotify.com/track/4fjSiuY9b3uBeGd1KBUNZE) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:41 | 2023-01-08 |  |
 | [Farewell Transmission](https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04) | 7:22 | 2023-07-10 | 2023-07-19 |
 | [Fear and Friday's \(Poem\)](https://open.spotify.com/track/44IXD2J5yyr7PpOZzz2cmQ) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 1:47 | 2024-01-01 |  |
+| [Fear Is A Man's Best Friend](https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:52 | 2025-12-14 |  |
 | [Fear Not For Man](https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not For Man](https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt) | 14:14 | 2023-06-14 |  |
 | [Feel](https://open.spotify.com/track/4kLvZvzPYpyDESnfbYFey0) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7) | 3:52 | 2024-02-11 |  |
 | [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 | 2025-08-08 |  |
@@ -358,6 +359,7 @@
 | [Heavenward](https://open.spotify.com/track/5LXg8cfq5hyegv2AwFlkV7) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:55 | 2025-01-15 | 2025-02-05 |
 | [Hechicera](https://open.spotify.com/track/74RHM3SJHwhBNHiwZD1mZN) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 4:58 | 2024-08-22 |  |
 | [Hello](https://open.spotify.com/track/4qYlBtzkmby4r1N7etPnUv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 3:23 | 2025-06-20 |  |
+| [Hello, There](https://open.spotify.com/track/6Hm0mU868o8cPVkQ7tOmFa) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Vintage Violence](https://open.spotify.com/album/2o7YjekcSP7yiLXfuSy0ly) | 2:44 | 2025-12-14 |  |
 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-04-23 | 2023-08-06 |
 | [Hidden Place](https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:28 | 2022-09-30 | 2023-12-14 |
 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 | 2022-06-13 | 2023-04-20 |
@@ -958,6 +960,7 @@
 | [Where We've Been](https://open.spotify.com/track/24TyIHRNtcNihfFoWKkqzP) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Where we've been, Where we go from here](https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU) | 5:15 | 2024-02-27 | 2024-03-11 |
 | [Where'd You Go?](https://open.spotify.com/track/51nV3C1hpbfKBi4bXiyDkv) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 1:41 | 2025-05-01 |  |
 | [Whispers In The Echo Chamber](https://open.spotify.com/track/0CrP9rtIvD8qeJJq0cJ05t) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [She Reaches Out To She Reaches Out To She](https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6) | 4:01 | 2025-01-06 |  |
+| [White Light/White Heat](https://open.spotify.com/track/0Evhu0dKCkIuEn88Pmb9mj) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [White Light / White Heat](https://open.spotify.com/album/0HHmJpwOXXRJu9HI9iQiEO) | 2:47 | 2025-12-14 |  |
 | [White Room](https://open.spotify.com/track/47kKriL1d9WiVRBy0YxW5V) | [Mid\-Air Thief](https://open.spotify.com/artist/0zGRuj0aQ3mM6i2dQoO8h0) | [Gongjoong Doduk](https://open.spotify.com/album/6xzqytqEOwBgNIYaGzgTMR) | 4:24 | 2024-02-07 |  |
 | [Who I Am](https://open.spotify.com/track/2ak64lN0RARj28Vpj074Zm) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [The Dreaming Room \(Special Edition\)](https://open.spotify.com/album/3zbxHIsyjD7NmglV6cYb4D) | 1:18 | 2024-01-18 |  |
 | [Whole Lotta Love \- Remaster](https://open.spotify.com/track/3OuMIIFP5TxM8tLXMWYPGV) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(Remaster\)](https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y) | 5:34 | 2023-09-06 |  |

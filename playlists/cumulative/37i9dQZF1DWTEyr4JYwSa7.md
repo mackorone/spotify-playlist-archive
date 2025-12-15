@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-373 songs - 20 hr 18 min
+374 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Au royaume du bonhomme hiver](https://open.spotify.com/track/2lYvd5PkUDC6GuiVYf04yl) | [Mia Tinayre](https://open.spotify.com/artist/73oPKA4M7gONbeMszxykD8) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:25 | 2025-10-24 |  |
 | [Au Ville La Veille De Noël](https://open.spotify.com/track/7xpW6zmVdKYFJhSWYz4eof) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Au Ville La Veille De Noël](https://open.spotify.com/album/2RwGK7SjNZCtXoWsOCMQOO) | 3:24 | 2021-12-17 | 2022-07-23 |
 | [Aujourd'hui le roi des cieux \(The First Noël\)](https://open.spotify.com/track/4WGZjwXf20jU5LuFXgmqu0) | [Michaël](https://open.spotify.com/artist/1IBfb2dNgk90Z4s5ZipI0z) | [Nuit de Noël](https://open.spotify.com/album/6lLZCMznuhA54wAD6oCPKC) | 4:08 | 2021-12-17 | 2022-07-26 |
-| [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 | 2024-12-13 |  |
+| [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 | 2024-12-13 | 2025-12-15 |
 | [Ave maria](https://open.spotify.com/track/0SnM2ceBc70ktED1Og5ywY) | [Fernand Gignac](https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 2:16 | 2021-12-17 | 2022-07-27 |
 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 | 2021-12-17 |  |
 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 | 2021-12-17 | 2025-12-13 |
@@ -223,6 +223,7 @@
 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 | 2021-12-17 |  |
 | [Noël blanc](https://open.spotify.com/track/7ykP6gzf7CJ8Lb4AEJWeqR) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:50 | 2021-12-17 |  |
 | [Noël blanc](https://open.spotify.com/track/2191GKsu25oiQPbh30obr0) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj) | [Noël en famille](https://open.spotify.com/album/1ErcaPRj2K89GSZNkPymj8) | 4:54 | 2025-12-12 |  |
+| [Noël blanc](https://open.spotify.com/track/6bgz0wcaqLcpBh99aZlF46) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Noël blanc](https://open.spotify.com/album/6K2IN7O6z7dfMcStV9PvMM) | 2:38 | 2025-12-12 |  |
 | [Noël blanc](https://open.spotify.com/track/7K5akEyakiYVbijvPOxkQZ) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Un grand noël d'amour](https://open.spotify.com/album/4Qa4kIMWoF5GTZLoAQV5sE) | 4:13 | 2021-12-17 | 2022-07-26 |
 | [Noël blanc](https://open.spotify.com/track/0TzdxTeaStfhDADxoTeRaE) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi), [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Noël En Noir & Blanc](https://open.spotify.com/album/1zO0MHz7l9N9kaFEBAvQWA) | 2:57 | 2021-12-17 | 2022-07-26 |
 | [Noël blanc](https://open.spotify.com/track/5wQPiG03UejeND0WSvwyVW) | [Léo Giroux](https://open.spotify.com/artist/3gfriMoTculhDU9RH3X5qi) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:38 | 2025-10-24 |  |

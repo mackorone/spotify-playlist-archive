@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 14 Dec 04:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 Dec 04:04 UTC.
 
-5,937 songs - 13 day 18 hr 7 min
+5,939 songs - 13 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Beyond the Raindrops](https://open.spotify.com/track/3hnDvAqMLJkyT3UP52WMEC) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Beyond the Raindrops](https://open.spotify.com/album/3THRUCUoif0D9Ru6bBFqYu) | 5:21 | 2024-07-22 | 2024-07-27 |
 | [Beyond the way \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク\)](https://open.spotify.com/track/4kSdiGRE4xWz8V557oekyD) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Beyond the way/blender](https://open.spotify.com/album/0Oz2FhHwp3WLqyCqJUPJlM) | 3:02 | 2024-10-02 | 2024-10-05 |
 | [BEYOND US](https://open.spotify.com/track/0a0xOf6HiihJobrCVwojpT) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [BEYOND US](https://open.spotify.com/album/3Mhz2BryVFgAhvqwvgIohP) | 1:11 | 2024-09-06 | 2024-09-10 |
-| [BFF](https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [BFF](https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p) | 2:25 | 2025-12-02 |  |
+| [BFF](https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [BFF](https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p) | 2:25 | 2025-12-02 | 2025-12-15 |
 | [Bi Polar](https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Bi Polar](https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa) | 3:12 | 2024-07-07 | 2024-07-10 |
 | [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 | 2024-06-25 | 2024-06-27 |
 | [Big Cat Tattoos](https://open.spotify.com/track/4bra2iYM2um2eYNZUHXFiV) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Big Cat Tattoos](https://open.spotify.com/album/14jGpYUFZ5lNXoJKVdhbOU) | 3:11 | 2024-05-01 | 2024-05-03 |
@@ -705,7 +705,7 @@
 | [BONNIE BLU](https://open.spotify.com/track/4vfoxwrK9vMJs2P7CX2T0g) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [BONNIE BLU](https://open.spotify.com/album/3Arjl67UFmgy4kUISlqUsm) | 2:03 | 2025-03-28 | 2025-04-06 |
 | [Boo Hoo no Ice Cream for You](https://open.spotify.com/track/3VzIRpW0Q1DtYTc33VtYK0) | [Richard Lindesay](https://open.spotify.com/artist/3FgdgjgpM1qY1UQeUY4UEu) | [Boo Hoo no Ice Cream for You](https://open.spotify.com/album/4YtufkXHY2yzY14FYaVXVZ) | 1:50 | 2024-05-09 | 2024-05-11 |
 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-08-21 | 2024-08-24 |
-| [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 | 2025-11-28 |  |
+| [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 | 2025-11-28 | 2025-12-15 |
 | [BOOGIE MAN](https://open.spotify.com/track/0Xs9c3ZHD0Ni4fgIFmtl2f) | [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [BOOGIE MAN](https://open.spotify.com/album/1hrsJ0DZJPGnOdWhnuVacj) | 2:49 | 2024-08-23 | 2024-08-26 |
 | [Bookends](https://open.spotify.com/track/08lqp01pqmz5iQ46qT9zee) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bookends](https://open.spotify.com/album/4fXS0cWCICRTckVEp7KoB0) | 11:51 | 2025-05-07 | 2025-05-17 |
 | [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 | 2025-05-01 | 2025-05-10 |
@@ -3804,6 +3804,7 @@
 | [Ostatnie](https://open.spotify.com/track/5tHuq9Fd9ASatOwM1JPyUL) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX), [Zespół Pieśni i Tańca Śląsk](https://open.spotify.com/artist/73L5GZ2KVgguSth6DnNNpU), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Ostatnie](https://open.spotify.com/album/50bgloJFexhFH0LijSJaL0) | 5:00 | 2024-09-12 | 2024-09-14 |
 | [othello](https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [othello](https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h) | 3:12 | 2025-04-11 | 2025-04-19 |
 | [Otra Noche de Llorar](https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Otra Noche de Llorar](https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX) | 3:39 | 2025-03-29 | 2025-04-05 |
+| [OUBLIETTE](https://open.spotify.com/track/4tvOXEaUFnBZt72O5kKsz9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [OUBLIETTE](https://open.spotify.com/album/22O4eii04TxV3E36VTtfxl) | 4:22 | 2025-12-14 |  |
 | [Our Parting Ways](https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Our Parting Ways](https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL) | 3:40 | 2025-10-15 | 2025-10-24 |
 | [Our Promise \- Instrumental](https://open.spotify.com/track/0BWyR9sRFcVUt1RnWiyM92) | [IRyS](https://open.spotify.com/artist/7y1hO3QeftnOJmWCbzeZav), [Ceres Fauna](https://open.spotify.com/artist/76xXQq2nPiexRDstB9MY70), [Ouro Kronii](https://open.spotify.com/artist/1LLRRrE5gZ3964ThLvo2nu), [Nanashi Mumei](https://open.spotify.com/artist/3LWmimMpybGBGCjuvFqhAT), [Hakos Baelz](https://open.spotify.com/artist/3h5FLKIAPF9O96Sdz2j4Jb), [hololive English \-Promise\-](https://open.spotify.com/artist/57uZJwOo14YiRqK0ekqNyf) | [Our Promise](https://open.spotify.com/album/6vPOhImLKE16pWr21DNlxP) | 3:58 | 2024-06-18 | 2024-06-20 |
 | [out of body](https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [out of body](https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE) | 2:55 | 2025-09-26 | 2025-10-12 |
@@ -4267,6 +4268,7 @@
 | [Rocket](https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Rocket](https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB) | 2:46 | 2025-05-23 | 2025-05-31 |
 | [Rocking Chair Song](https://open.spotify.com/track/5FdjsGqIzHNLCkNkUpM21t) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [Rocking Chair Song](https://open.spotify.com/album/4ev67wZH0P1u35oYXPVFrv) | 7:11 | 2024-06-19 | 2024-06-21 |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-10-18 | 2024-10-22 |
+| [ROCKY BALBOA](https://open.spotify.com/track/58pBH4a7HQ9yeU9ZjPZRDr) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [ROCKY BALBOA](https://open.spotify.com/album/7lUxNiyLBKzRxp4daMIz6F) | 2:06 | 2025-12-15 |  |
 | [RODEO](https://open.spotify.com/track/7jd4sz1jTKa6yHU0171kYY) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [RODEO](https://open.spotify.com/album/4ZfhnQhFXNg4zfpW8TdI6P) | 3:22 | 2025-09-09 | 2025-09-17 |
 | [Rodeo](https://open.spotify.com/track/11rApIDaLu1IeRcE744ort) | [Speak](https://open.spotify.com/artist/4FMubIN9hLd0gLL7e9lXEi), [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy) | [Rodeo](https://open.spotify.com/album/09VQpKodbE1xIc6IvSQThd) | 3:23 | 2024-10-24 | 2024-10-26 |
 | [Rogue](https://open.spotify.com/track/7BBSSVDxCwfZKbb8a1IlTB) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Rogue](https://open.spotify.com/album/218JtIGiHXx4XepIaL7Ns7) | 3:12 | 2024-09-10 | 2024-09-13 |

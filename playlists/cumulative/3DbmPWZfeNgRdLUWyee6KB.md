@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-287 songs - 17 hr 24 min
+288 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Si Loin](https://open.spotify.com/track/1SpBAk7WSEgWTAwuHS7ahH) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [La parade des loups\-garous](https://open.spotify.com/album/4EYMdV25eZul4vWVEQ9I98) | 3:32 | 2025-11-21 |  |
 | [Sibyl Vane](https://open.spotify.com/track/2sUYJQ9js6rUM2T3awf604) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Sibyl Vane](https://open.spotify.com/album/69RoooyiAqzyyH74sv4q0I) | 2:27 | 2023-07-06 | 2025-11-29 |
 | [Sicilia Luntana \(Live\) \[feat\. Gregorio Caimi, Dario Li Voti, Giacomo Buffa, Natale Montalto, Aldo Bertolino & Guglielmo Lentini\]](https://open.spotify.com/track/1MYeUN7Ypd7tjBXRYmSJEw) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp), [Aldo Bertolino](https://open.spotify.com/artist/4LFWoWuO0NgUNNsqe8xKVe), [Dario Li Voti](https://open.spotify.com/artist/5bket0QkDAVSDCPkIK5Usq), [Giacomo Buffa](https://open.spotify.com/artist/31JUfeizTiU0XyvxMP4ain), [Gregorio Caimi](https://open.spotify.com/artist/2bxPYh5xhc4Bb6F2GQXlpT), [Guglielmo Lentini](https://open.spotify.com/artist/2I87uoqouYedsp0sSWzQJ5), [Natale Montalto](https://open.spotify.com/artist/3Bh0o4sqKg8gigYxUkjE2D) | [Dieci Live](https://open.spotify.com/album/5vX1PXH1ILW7G5TBKVPSZ1) | 2:51 | 2023-04-20 | 2025-11-29 |
+| [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-12-14 |  |
 | [Sister Jump!](https://open.spotify.com/track/7LohvYSmaSusHptw1k5zjX) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Sister Jump!](https://open.spotify.com/album/0INugDX8i5DKES8W55FIEh) | 5:43 | 2023-04-27 | 2025-11-29 |
 | [Sky Castles](https://open.spotify.com/track/6grhaVHkFcpNhIydGg7OJe) | [Andaluz](https://open.spotify.com/artist/1fVpy9sfYVCnGSDG8EyrQo), [Ruben Van Rompaey](https://open.spotify.com/artist/2cNjCwdbpnREFPJvVmIdol) | [The Sky Silk Road](https://open.spotify.com/album/2egcGjuz3oX770IVcxZDiX) | 3:52 | 2023-04-20 | 2025-11-29 |
 | [Snap](https://open.spotify.com/track/5t2KnkJ348gY4DvYudL47k) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/4ErbPCHn0Fc7yGiNTnoFOr) | 3:23 | 2025-10-17 |  |

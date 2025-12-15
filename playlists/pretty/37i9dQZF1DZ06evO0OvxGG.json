@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8543,
+  "num_followers": 8549,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAAC1EjewGB1YXf4uZN+Sl8vs",
+  "snapshot_id": "aTysgAAAAABDIreHu8JuIz7WTn0ZS/C2",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doces ou Travessuras",
-        "url": "https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE"
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
       },
       "artists": [
         {
@@ -452,17 +452,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "DetonaCry",
-          "url": "https://open.spotify.com/artist/2GVjz1qVtO74QpJDl6IcNt"
-        },
-        {
-          "name": "A22I2",
-          "url": "https://open.spotify.com/artist/1PnxRUT3M9ZHlbFCQIYNjz"
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 154630,
-      "name": "Doces ou Travessuras",
-      "url": "https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk"
+      "duration_ms": 141000,
+      "name": "E.P.A.M.",
+      "url": "https://open.spotify.com/track/0TEuol0LiXWzRMS9K1eGQR"
     },
     {
       "added_at": null,
@@ -491,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+        "name": "Doces ou Travessuras",
+        "url": "https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE"
       },
       "artists": [
         {
@@ -500,13 +496,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+          "name": "DetonaCry",
+          "url": "https://open.spotify.com/artist/2GVjz1qVtO74QpJDl6IcNt"
+        },
+        {
+          "name": "A22I2",
+          "url": "https://open.spotify.com/artist/1PnxRUT3M9ZHlbFCQIYNjz"
         }
       ],
-      "duration_ms": 141000,
-      "name": "E.P.A.M.",
-      "url": "https://open.spotify.com/track/0TEuol0LiXWzRMS9K1eGQR"
+      "duration_ms": 154630,
+      "name": "Doces ou Travessuras",
+      "url": "https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk"
     },
     {
       "added_at": null,
@@ -839,30 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Som de Sacanagem",
-        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
-        }
-      ],
-      "duration_ms": 115275,
-      "name": "Outro Som de Sacanagem",
-      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Voc\u00ea Ficar a Vontade",
         "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 207272,
       "name": "Pra Voc\u00ea Ficar a Vontade",
       "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outro Som de Sacanagem",
+        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "duration_ms": 115275,
+      "name": "Outro Som de Sacanagem",
+      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
     },
     {
       "added_at": null,

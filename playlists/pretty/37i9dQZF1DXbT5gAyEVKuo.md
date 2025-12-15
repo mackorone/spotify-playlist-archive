@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Charlie Weems
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,512 likes - 79 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,554 likes - 79 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 141392,
+  "num_followers": 141797,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "All I Want For Christmas (Is My Two Front Teeth)",
+      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
         "name": "Somewhere In My Memory",
         "url": "https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX"
       },
@@ -375,18 +391,22 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
       "artists": [
         {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
         }
       ],
-      "duration_ms": 151333,
-      "name": "All I Want For Christmas (Is My Two Front Teeth)",
-      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
+      "duration_ms": 176699,
+      "name": "Cool Yule",
+      "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -423,22 +443,18 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "The Commanders",
-          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 176699,
-      "name": "Cool Yule",
-      "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
+      "duration_ms": 192420,
+      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -455,22 +471,6 @@
       "duration_ms": 225560,
       "name": "Where The Snow Still Falls",
       "url": "https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 192420,
-      "name": "It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "The Boar's Head Carol",
-        "url": "https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb"
-      },
-      "artists": [
-        {
-          "name": "Trio Serena",
-          "url": "https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z"
-        }
-      ],
-      "duration_ms": 199315,
-      "name": "The Boar's Head Carol",
-      "url": "https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
         "name": "My Favourite Time of Year",
         "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 242786,
       "name": "My Favourite Time of Year",
       "url": "https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
+        "name": "The Boar's Head Carol",
+        "url": "https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb"
+      },
+      "artists": [
+        {
+          "name": "Trio Serena",
+          "url": "https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z"
+        }
+      ],
+      "duration_ms": 199315,
+      "name": "The Boar's Head Carol",
+      "url": "https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
         "name": "Tis the season",
         "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 214596,
       "name": "Tis the season",
       "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
+        "name": "a cozy christmas",
+        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 200222,
+      "name": "mistletoe and holly",
+      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "a cozy christmas",
-        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 200222,
-      "name": "mistletoe and holly",
-      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
         "name": "Misteltoe",
         "url": "https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 142029,
       "name": "Misteltoe",
       "url": "https://open.spotify.com/track/6SJKiadklwqj969ihsTL06"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
-        "name": "Suzy Snowflake",
-        "url": "https://open.spotify.com/album/7xvbVPATdE2HbNWaSKmwki"
-      },
-      "artists": [
-        {
-          "name": "Prism Trio",
-          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Suzy Snowflake",
-      "url": "https://open.spotify.com/track/6pu1VBzYfldEBx09o5wEZt"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
+        "name": "Suzy Snowflake",
+        "url": "https://open.spotify.com/album/7xvbVPATdE2HbNWaSKmwki"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Suzy Snowflake",
+      "url": "https://open.spotify.com/track/6pu1VBzYfldEBx09o5wEZt"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
         "name": "That Christmas Feel",
         "url": "https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 234263,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "duration_ms": 167178,
+      "name": "The Christmas Song - Cheery & Bright",
+      "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "Give love on christmas day",
-        "url": "https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4"
-      },
-      "artists": [
-        {
-          "name": "Holborns",
-          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
-        }
-      ],
-      "duration_ms": 201431,
-      "name": "Give love on christmas day",
-      "url": "https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
         "name": "Silver Bells",
         "url": "https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq"
       },
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
+        "name": "Give love on christmas day",
+        "url": "https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4"
+      },
+      "artists": [
+        {
+          "name": "Holborns",
+          "url": "https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm"
+        }
+      ],
+      "duration_ms": 201431,
+      "name": "Give love on christmas day",
+      "url": "https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
         "name": "Ultimate Christmas",
         "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 172000,
       "name": "It Came Upon A Midnight Clear",
       "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I"
-      },
-      "artists": [
-        {
-          "name": "Elysia Biro",
-          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
-        }
-      ],
-      "duration_ms": 167178,
-      "name": "The Christmas Song - Cheery & Bright",
-      "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "When You Wish Upon a Star",
-        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
+        "name": "Christmas Is\u2026",
+        "url": "https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L"
       },
       "artists": [
         {
-          "name": "Erik Moreau",
-          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
         }
       ],
-      "duration_ms": 167725,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
+      "duration_ms": 239546,
+      "name": "Christmas Is",
+      "url": "https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "Christmas Is\u2026",
-        "url": "https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L"
+        "name": "When You Wish Upon a Star",
+        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
       },
       "artists": [
         {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Christmas Is",
-      "url": "https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT"
+      "duration_ms": 167725,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/10Yrm96ndp0CpVEd1m4wuI"
-      },
-      "artists": [
-        {
-          "name": "James Bradshaw",
-          "url": "https://open.spotify.com/artist/7sk728qlOvcqjDkAe7oEum"
-        }
-      ],
-      "duration_ms": 167143,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/23h0hc48PBgpbfkDVuxzzx"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
         "name": "Santa Claus Is Coming To Town",
         "url": "https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 174759,
       "name": "Toyland",
       "url": "https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/10Yrm96ndp0CpVEd1m4wuI"
+      },
+      "artists": [
+        {
+          "name": "James Bradshaw",
+          "url": "https://open.spotify.com/artist/7sk728qlOvcqjDkAe7oEum"
+        }
+      ],
+      "duration_ms": 167143,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/23h0hc48PBgpbfkDVuxzzx"
     },
     {
       "added_at": "2025-12-01 09:30:38",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-12-01 09:30:38",
       "album": {
-        "name": "It Had to Be You: Lost Radio Recordings",
-        "url": "https://open.spotify.com/album/5WksWns07oPp5qwA9MCGGB"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 130345,
-      "name": "It's a Marshmallow World",
-      "url": "https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb"
-    },
-    {
-      "added_at": "2025-12-01 09:30:38",
-      "album": {
         "name": "The Merriest",
         "url": "https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 237613,
       "name": "That Holiday Feeling",
       "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
+    },
+    {
+      "added_at": "2025-12-01 09:30:38",
+      "album": {
+        "name": "It Had to Be You: Lost Radio Recordings",
+        "url": "https://open.spotify.com/album/5WksWns07oPp5qwA9MCGGB"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 130345,
+      "name": "It's a Marshmallow World",
+      "url": "https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb"
     },
     {
       "added_at": "2025-12-01 09:30:38",

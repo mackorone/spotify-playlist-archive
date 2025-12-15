@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/1QiKkAgvwZVBfHKHVdta5C"
+      },
+      "artists": [
+        {
+          "name": "Laylo",
+          "url": "https://open.spotify.com/artist/5ENIBFuGai1t1NPOaUaqoX"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169816,
+      "name": "Half-Blood",
+      "url": "https://open.spotify.com/track/5AFcFKZCB62xZ1Tb0bV9Gr"
+    },
+    {
+      "album": {
         "name": "Hamster Wheel",
         "url": "https://open.spotify.com/album/7srh7QnQEZGmN2dgtcn4O7"
       },

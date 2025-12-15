@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 320550,
+  "num_followers": 320547,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "RAT WARS",
-        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "DSM-V",
-      "url": "https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "FAIRY PHONK",
         "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 189552,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "RAT WARS",
+        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "DSM-V",
+      "url": "https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Learn To Forget",
+        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Learn To Forget",
+      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "In Limbo",
         "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 237259,
       "name": "As They Bloom",
       "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Learn To Forget",
-        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Learn To Forget",
-      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Flowers of Evil",
         "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+        "name": "Oportunista",
+        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
         }
       ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+      "duration_ms": 188235,
+      "name": "Oportunista",
+      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Oportunista",
-        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
+        "name": "new way out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
       },
       "artists": [
         {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 188235,
-      "name": "Oportunista",
-      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
+      "duration_ms": 202909,
+      "name": "new way out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "On Circles",
-        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
-      },
-      "artists": [
-        {
-          "name": "Caspian",
-          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
-        }
-      ],
-      "duration_ms": 413400,
-      "name": "Wildblood",
-      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 202693,
       "name": "Bloodsuckers",
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "On Circles",
+        "url": "https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1"
+      },
+      "artists": [
+        {
+          "name": "Caspian",
+          "url": "https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa"
+        }
+      ],
+      "duration_ms": 413400,
+      "name": "Wildblood",
+      "url": "https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Nowhere Now Here",
-        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
-      },
-      "artists": [
-        {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
-        }
-      ],
-      "duration_ms": 336513,
-      "name": "After You Comes the Flood",
-      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Sun Up To Sun Down (Remix)",
         "url": "https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Nowhere Now Here",
+        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+        }
+      ],
+      "duration_ms": 336513,
+      "name": "After You Comes the Flood",
+      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Spiritual Architecture",
+        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
+      },
+      "artists": [
+        {
+          "name": "Ashbringer",
+          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
+        }
+      ],
+      "duration_ms": 562515,
+      "name": "Spiritual Architecture",
+      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Spiritual Architecture",
-        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
-      },
-      "artists": [
-        {
-          "name": "Ashbringer",
-          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
-        }
-      ],
-      "duration_ms": 562515,
-      "name": "Spiritual Architecture",
-      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Demon Supreme",
         "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Fight Alone",
+        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
+      },
+      "artists": [
+        {
+          "name": "Motive Black",
+          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Fight Alone",
+      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fight Alone",
-        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
-      },
-      "artists": [
-        {
-          "name": "Motive Black",
-          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Fight Alone",
-      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "REB00T MYSELF (feat. Tired Violence)",
         "url": "https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "open water",
-        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 126912,
-      "name": "open water",
-      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Embers\u00f3lyom (Kal\u00e1ka)",
         "url": "https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 257199,
       "name": "Embers\u00f3lyom - Kal\u00e1ka",
       "url": "https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "open water",
+        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 126912,
+      "name": "open water",
+      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
     },
     {
       "added_at": "2024-07-19 10:51:43",

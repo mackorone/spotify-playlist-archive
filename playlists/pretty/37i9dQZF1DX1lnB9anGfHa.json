@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 247912,
+  "num_followers": 247910,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,22 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Powders",
-        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+        "name": "Fade Into You [2020]",
+        "url": "https://open.spotify.com/album/3237UyTC0HDTYKs24IbkM4"
       },
       "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        },
         {
           "name": "Eartheater",
           "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 221106,
-      "name": "Pure Smile Snake Venom",
-      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
+      "duration_ms": 164500,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/5LQYVH9M3TQ8tfPUPpruOr"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -175,22 +179,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Fade Into You [2020]",
-        "url": "https://open.spotify.com/album/3237UyTC0HDTYKs24IbkM4"
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
       },
       "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        },
         {
           "name": "Eartheater",
           "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/5LQYVH9M3TQ8tfPUPpruOr"
+      "duration_ms": 221106,
+      "name": "Pure Smile Snake Venom",
+      "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+    },
+    {
+      "added_at": "2025-02-28 00:01:31",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 274475,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
-    },
-    {
-      "added_at": "2025-02-28 00:01:31",
-      "album": {
-        "name": "PLEASE COME TO ME",
-        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 413408,
-      "name": "PLEASE COME TO ME",
-      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 413408,
+      "name": "PLEASE COME TO ME",
+      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
+    },
+    {
+      "added_at": "2025-02-28 00:01:31",
+      "album": {
         "name": "Atlantic Diva",
         "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
-    },
-    {
-      "added_at": "2025-02-28 00:01:31",
-      "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
-      },
-      "artists": [
-        {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
+        "name": "Raat Ki Rani",
+        "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 308186,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -431,18 +431,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Raat Ki Rani",
-        "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
       },
       "artists": [
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 313311,
-      "name": "Raat Ki Rani",
-      "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
+      "duration_ms": 308186,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
       "artists": [
         {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
         }
       ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Evening Mood",
-        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 384589,
-      "name": "Evening Mood",
-      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
-    },
-    {
-      "added_at": "2025-02-28 00:01:31",
-      "album": {
         "name": "Tectonic",
         "url": "https://open.spotify.com/album/3VZtu7girTT5vEWivWj3oC"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 277726,
       "name": "Tectonic",
       "url": "https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY"
+    },
+    {
+      "added_at": "2025-02-28 00:01:31",
+      "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
+        "name": "Tunnel Lights",
+        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 247664,
+      "name": "Tunnel Lights",
+      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
+    },
+    {
+      "added_at": "2025-02-28 00:01:31",
+      "album": {
         "name": "Carmina XVII",
         "url": "https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP"
       },
@@ -695,38 +711,6 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Tunnel Lights",
-        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 247664,
-      "name": "Tunnel Lights",
-      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
-    },
-    {
-      "added_at": "2025-02-28 00:01:31",
-      "album": {
-        "name": "After Dark 4",
-        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
-      },
-      "artists": [
-        {
-          "name": "Mesh Kimono",
-          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Afterburn",
-      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
-    },
-    {
-      "added_at": "2025-02-28 00:01:31",
-      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 320547,
       "name": "Close",
       "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
+    },
+    {
+      "added_at": "2025-02-28 00:01:31",
+      "album": {
+        "name": "After Dark 4",
+        "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
+      },
+      "artists": [
+        {
+          "name": "Mesh Kimono",
+          "url": "https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Afterburn",
+      "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
-      "added_at": "2025-02-28 00:01:31",
-      "album": {
         "name": "Hiding In My Room",
         "url": "https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 256915,
       "name": "Hiding In My Room",
       "url": "https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM"
+    },
+    {
+      "added_at": "2025-02-28 00:01:31",
+      "album": {
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "THE QUANTA SERIES",
-        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
       "artists": [
         {
-          "name": "K\u00c1RYYN",
-          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
         }
       ],
-      "duration_ms": 389266,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
+      "duration_ms": 55860,
+      "name": "Deep Sea",
+      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+        "name": "THE QUANTA SERIES",
+        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
       },
       "artists": [
         {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
         }
       ],
-      "duration_ms": 55860,
-      "name": "Deep Sea",
-      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
+      "duration_ms": 389266,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
-    },
-    {
-      "added_at": "2025-02-28 00:01:31",
-      "album": {
         "name": "Selva (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/6X6VBlL0Rsdl0JN9mVrK31"
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
       },
       "artists": [
         {
-          "name": "Vera Di Lecce",
-          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 238095,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/6CYh4lWqJ0RzLiDn5BAYyu"
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2025-02-28 00:01:31",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/6X6VBlL0Rsdl0JN9mVrK31"
+      },
+      "artists": [
+        {
+          "name": "Vera Di Lecce",
+          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/6CYh4lWqJ0RzLiDn5BAYyu"
+    },
+    {
+      "added_at": "2025-02-28 00:01:31",
+      "album": {
         "name": "An Ocean",
         "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-02-28 00:01:31",
       "album": {
-        "name": "True Luck",
-        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+        "name": "The Lost Tapes EP",
+        "url": "https://open.spotify.com/album/2aKK6YKpfkJ9JeLhVU0OX8"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
         }
       ],
-      "duration_ms": 200625,
-      "name": "True Luck",
-      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
+      "duration_ms": 177272,
+      "name": "I Dream",
+      "url": "https://open.spotify.com/track/7s0hSLYHlHpHOOVe9z1MQk"
     }
   ],
   "unique_name": "Terra Incognita",

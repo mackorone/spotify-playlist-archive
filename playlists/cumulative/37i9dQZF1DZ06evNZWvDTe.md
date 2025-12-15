@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-226 songs - 13 hr 26 min
+227 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [I Know](https://open.spotify.com/track/0UyqB29vUuveKq8ftX7tLD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [I Know](https://open.spotify.com/album/65gooErIzRYOMZiwUGnlMK) | 3:07 | 2021-12-28 | 2022-03-14 |
 | [I Wanna Love You \(feat\. Harmonize\)](https://open.spotify.com/track/2mHB3UQ6yDuyBD0TA8OACi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:54 | 2022-01-26 | 2022-08-20 |
 | [I'll Be There \(feat\. MOGmusic\)](https://open.spotify.com/track/0nDlqLTFNlKtTKP3YptEC1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 4:57 | 2022-01-27 | 2023-03-04 |
-| [Illuminati](https://open.spotify.com/track/3LYH7jwDVJNz09lnRvgGDa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 2:46 | 2025-11-22 |  |
+| [Illuminati](https://open.spotify.com/track/3LYH7jwDVJNz09lnRvgGDa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 2:46 | 2025-11-22 | 2025-12-15 |
 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 | 2021-12-28 | 2025-11-09 |
 | [Imali](https://open.spotify.com/track/6rqXjMcbaF6ntmbvFhv4ho) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Imali](https://open.spotify.com/album/4sRjCLPtaDPmbUHToa3GqS) | 2:59 | 2024-04-28 | 2024-05-25 |
 | [Intro](https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 1:34 | 2021-12-31 | 2025-05-23 |
@@ -232,6 +232,7 @@
 | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/track/1i5ZMR0XrSmkUiBjbHyXGp) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yawa \(feat\. Sarkodie\)](https://open.spotify.com/album/2Vhd4O8Ed5IEdt0c655ATo) | 3:02 | 2021-12-28 | 2022-11-13 |
 | [Year of Return](https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Coded](https://open.spotify.com/artist/4oUIlyHTTqRSmtWZTQNZ4r) | [Year of Return](https://open.spotify.com/album/4828QaSjhsNh3dtIt0leDt) | 3:58 | 2021-12-28 | 2022-10-11 |
 | [Yedin](https://open.spotify.com/track/2ZSwQpziKJivg3cJSoRtjQ) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yedin](https://open.spotify.com/album/1fuwXJKd5nYTrVFU9R7Afj) | 3:17 | 2024-12-10 | 2025-06-07 |
+| [You & I](https://open.spotify.com/track/6awL5NSRprmquSbat1sCnf) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [You & I](https://open.spotify.com/album/1O1zYFI9VSymutdU8HLbCW) | 2:40 | 2025-12-15 |  |
 | [You Know](https://open.spotify.com/track/4WyeQ7S4ggK6OT0xfoFJK2) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Lighthouse EP](https://open.spotify.com/album/3XiiHZ3R6DtKXTb8X1cHzF) | 3:39 | 2023-11-10 | 2023-12-14 |
 | [Your Waist](https://open.spotify.com/track/3JrGJpTH22g43YrSWuW4df) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:33 | 2021-12-28 | 2023-04-17 |
 

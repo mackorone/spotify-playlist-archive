@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,598 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,624 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hothon Se Chhu Lo Tum \- From "Prem Geet"](https://open.spotify.com/track/4EWCkL6rAYxOUvXLtcWfKI) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Prem Geet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aLedlf7u6dlkt66OyoE3y) | 4:54 |
 | 2 | [Tujhse Naraz Nahin Zindagi \- Male Vocals](https://open.spotify.com/track/7xCTX2SN9dXWqCEkN66D9S) | [Anup Ghoshal](https://open.spotify.com/artist/4WeWmjyUwzhzs12rWMDRYe) | [Masoom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4PK2ilLdNmtDx3ncsULbiL) | 5:40 |
 | 3 | [Hoshwalon Ko Khabar Kya](https://open.spotify.com/track/5NbR7c5zrOZN3Dje3JVJEN) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Sarfarosh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55kjppMnPs20DEKXN7jaSF) | 5:07 |
-| 4 | [Phir Le Aya Dil](https://open.spotify.com/track/2OvldWM8rVnp7QCn9eCrr1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 4:45 |
+| 4 | [Phir Le Aya Dil](https://open.spotify.com/track/2OvldWM8rVnp7QCn9eCrr1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 4:45 |
 | 5 | [Koi Fariyaad](https://open.spotify.com/track/2WmUiGBse5FhZ6XhK86jXe) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Tum Bin](https://open.spotify.com/album/0vTbCpkWhDd16QZWWaPYX0) | 9:01 |
 | 6 | [Badi Nazuk Hai Ye Manzil](https://open.spotify.com/track/0Vgvn2K0Oclw6XbxDU5D6o) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Jogger's Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rHjDXFiuFQzPUnEGqOZXp) | 4:54 |
 | 7 | [Chupke Chupke Raat Din](https://open.spotify.com/track/7nUAHij7tN3aBFaeEqKhMt) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Nikaah](https://open.spotify.com/album/5JCx0naviMFsPTfmaBmYbj) | 7:48 |

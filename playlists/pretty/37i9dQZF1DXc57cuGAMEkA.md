@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Fred again.., Gorillaz, くるり, SKY\-HI and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,974 likes - 63 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,954 likes - 63 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 43 | [Dic](https://open.spotify.com/track/5mRzFVdwhpE6Bp6r9FFzbK) | [64controll](https://open.spotify.com/artist/6T2kpIGh5xu7ZsXZ02vzPQ) | [Dic EP](https://open.spotify.com/album/5f4BZAIBFnjjUCveThEfDD) | 3:51 |
 | 44 | [Hablamos Mañana](https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Hablamos Mañana](https://open.spotify.com/album/0WZ1WllMllTkMjmOV14ew3) | 2:51 |
 | 45 | [tu nama](https://open.spotify.com/track/0qxoRhNPVJAZhqH9olE86G) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [tu nama](https://open.spotify.com/album/6TPPV25rcptoYJrFnnEigH) | 3:20 |
-| 46 | [La fille pas cool](https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs) | 4:04 |
+| 46 | [La fille pas cool](https://open.spotify.com/track/4GGFIOBPnwTPWmyHo7QLPu) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/5CunqOhYnsDlFZrML0XjuE) | 4:04 |
 | 47 | [Genjitsu Tohi](https://open.spotify.com/track/2xU6Jj2YjoplBsn73dXGz7) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [Genjitsu Tohi](https://open.spotify.com/album/0KQDVchjxr5eUBtApF2QkQ) | 2:45 |
 | 48 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
 | 49 | [Cake Up \- ft\. Kelly Moonstone](https://open.spotify.com/track/4kiQ1aZzlPh3cQ44LQKnFa) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD), [Kelly Moonstone](https://open.spotify.com/artist/5TVQ1g9iOkpZUJrWgu21kj) | [The Happening](https://open.spotify.com/album/1rWWqI2epKv1GWR2MxpBRK) | 2:38 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 62 | [Variation I](https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [eau](https://open.spotify.com/album/7cFPblcCkLc6105lfgAP2o) | 5:54 |
 | 63 | [Larghetto](https://open.spotify.com/track/0PpNKBpXAwt2YUVxrbeAjP) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Larghetto](https://open.spotify.com/album/7FBRb6FBkslGiEcARZZPKD) | 4:44 |
 
-Snapshot ID: `AAAAACJc6jbE1pY+PkAgq2+3YQrGX0Rj`
+Snapshot ID: `AAAAACNvulYTPRBE5vAI4ipu8TKtWEgZ`

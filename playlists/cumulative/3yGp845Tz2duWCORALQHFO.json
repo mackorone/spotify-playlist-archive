@@ -82667,6 +82667,24 @@
     },
     {
       "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/43EJPeKFaTA2cvL2IwZ2jV"
+      },
+      "artists": [
+        {
+          "name": "NoBueno",
+          "url": "https://open.spotify.com/artist/1UKsmmTIgU6YAibaDtnV1U"
+        }
+      ],
+      "date_added": "2025-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/5pSsvdgZEPXdGsN8KdqV3T"
+    },
+    {
+      "album": {
         "name": "Tax",
         "url": "https://open.spotify.com/album/3d7mcIYhD0nt9hBq1lkdmi"
       },

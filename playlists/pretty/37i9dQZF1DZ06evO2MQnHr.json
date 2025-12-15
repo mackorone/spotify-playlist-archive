@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 456,
+  "num_followers": 458,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAAD+RgBrIGKPs/wfB9kFsHGS",
+  "snapshot_id": "aTysgAAAAACwrAOGnfDPRFkHdZLgE29W",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 199306,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL"
+      "duration_ms": 237240,
+      "name": "Sinking Like a Stone",
+      "url": "https://open.spotify.com/track/5gcfq2p2cEQEwrzuq9ojQD"
     },
     {
       "added_at": null,
@@ -499,42 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5:01+",
-        "url": "https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj"
-      },
-      "artists": [
-        {
-          "name": "Tim Hicks",
-          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
-        },
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Ready to Say Goodnight",
-      "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Sinking Like a Stone",
-      "url": "https://open.spotify.com/track/5gcfq2p2cEQEwrzuq9ojQD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Get The Girl",
         "url": "https://open.spotify.com/album/4ihf3F6dsVhpOgGAm4QLlJ"
       },
@@ -551,6 +515,42 @@
       "duration_ms": 202986,
       "name": "How To Get The Girl",
       "url": "https://open.spotify.com/track/3JJ2CkNEBTYSLaefgOopB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5:01+",
+        "url": "https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj"
+      },
+      "artists": [
+        {
+          "name": "Tim Hicks",
+          "url": "https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Ready to Say Goodnight",
+      "url": "https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ"
     },
     {
       "added_at": null,

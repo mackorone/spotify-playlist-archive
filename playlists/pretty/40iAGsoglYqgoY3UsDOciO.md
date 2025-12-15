@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 531 likes - 447 songs - 21 hr 41 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 534 likes - 449 songs - 21 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -455,5 +455,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 445 | [Feelin' Alright](https://open.spotify.com/track/3yxAOYOlP7XN5WyeJuSLqG) | [Lil'Draino.](https://open.spotify.com/artist/6ulNvT6jl51P2lzHuhI9MV) | [Feelin' Alright](https://open.spotify.com/album/2GxBmMhjNd5zy9cCeoHSRu) | 3:18 |
 | 446 | [Mtmc](https://open.spotify.com/track/2RvhNQHQZpPUeGHMlra49Z) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp) | [Mtmc](https://open.spotify.com/album/02r1vO3J2UBenqXkdvJFRc) | 2:09 |
 | 447 | [Christmas in Tha Hood](https://open.spotify.com/track/60MyC7swQn3EX4N16tWsCx) | [Ill Slim Collin](https://open.spotify.com/artist/6QmYQPrILpatGcjIQthHGl), [Blackwater Kaos](https://open.spotify.com/artist/7yY7WVqmm1I9e4ES6H81uS), [Desert Rose](https://open.spotify.com/artist/7A6bQSz6W0eWxgXL7TLYPg) | [Christmas in Tha Hood](https://open.spotify.com/album/072ydZagb8RYYeBbiAe0n8) | 3:56 |
+| 448 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 |
+| 449 | [kodiene..](https://open.spotify.com/track/0eP8IpPYW4KYjnxL1rfdc6) | [Prince Svmuel](https://open.spotify.com/artist/6hIBjDmrpN4kk59bVhJeiv) | [kodiene..](https://open.spotify.com/album/4eQfII3EpM70m5plJAvdvV) | 2:20 |
 
-Snapshot ID: `AAABXxlv7/XfLgL3gIM2iMZq42MCo0PY`
+Snapshot ID: `AAABYaWPtT0gvT/fMzwjfy/W2fcYzVDz`

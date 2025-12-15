@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-15",
       "duration_ms": 214062,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb"
@@ -4224,6 +4224,28 @@
       "duration_ms": 120765,
       "name": "Sugarcoat",
       "url": "https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR"
+    },
+    {
+      "album": {
+        "name": "Summer In December",
+        "url": "https://open.spotify.com/album/1p9Y7847XEVASZ0seH1mup"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Summer In December",
+      "url": "https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe"
     },
     {
       "album": {

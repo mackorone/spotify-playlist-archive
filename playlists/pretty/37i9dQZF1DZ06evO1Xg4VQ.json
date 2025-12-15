@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72638,
+  "num_followers": 72641,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAADmZokyXiKFN1bLygzBPhfA",
+  "snapshot_id": "aTysgAAAAACNefhW1E2BPrl/vkJKODr7",
   "tracks": [
     {
       "added_at": null,
@@ -1015,22 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Tengo Miedo de Quererte",
-      "url": "https://open.spotify.com/track/2thfKi94jG1bAmmAsN0e9u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coraz\u00f3n - Live From Mexico: Live It To Believe It",
         "url": "https://open.spotify.com/album/5Pf54lJ07uRn4dqJYS7Fhp"
       },
@@ -1055,6 +1039,26 @@
       "duration_ms": 315000,
       "name": "Una Noche en N\u00e1poles (feat. Lila Downs, Ni\u00f1a Pastori & Soledad) - Live",
       "url": "https://open.spotify.com/track/6SqV8sX6cfQ7ZK48uVhI6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frida (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 326653,
+      "name": "Burn It Blue",
+      "url": "https://open.spotify.com/track/3USrD964552tsnQnFG1im5"
     }
   ],
   "unique_name": "This Is Lila Downs",

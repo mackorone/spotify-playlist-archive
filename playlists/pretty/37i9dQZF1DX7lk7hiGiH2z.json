@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 57293,
+  "num_followers": 57307,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 127333,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/57XIECPD5LwZyRbQ16Vnnr"
+      "duration_ms": 135000,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/4kzzkf98gOSdTMjgs0Ize1"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -384,25 +384,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/4kzzkf98gOSdTMjgs0Ize1"
-    },
-    {
-      "added_at": "2025-12-08 13:21:04",
-      "album": {
-        "name": "Alle Jahre wieder",
-        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Alle Jahre wieder",
-      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
+      "duration_ms": 127333,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/57XIECPD5LwZyRbQ16Vnnr"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -423,6 +407,22 @@
       "duration_ms": 168973,
       "name": "Winter Wunderland",
       "url": "https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb"
+    },
+    {
+      "added_at": "2025-12-08 13:21:04",
+      "album": {
+        "name": "Alle Jahre wieder",
+        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Alle Jahre wieder",
+      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -495,18 +495,22 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Folge 74 - Benjamin Bl\u00fcmchen singt Weihnachtslieder",
-        "url": "https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua"
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
       "artists": [
         {
-          "name": "Benjamin Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe"
+          "name": "Wise Guys",
+          "url": "https://open.spotify.com/artist/11YTrgsi6VjRCkExQBY13k"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 195280,
-      "name": "Weihnachten im Zoo",
-      "url": "https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn"
+      "duration_ms": 152546,
+      "name": "Weihnachtszeit, Kinderzeit",
+      "url": "https://open.spotify.com/track/0IHclLb62TS7CauAJJ4SU5"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -527,22 +531,18 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Giraffenaffen 4 - Winterzeit",
-        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
+        "name": "Folge 74 - Benjamin Bl\u00fcmchen singt Weihnachtslieder",
+        "url": "https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua"
       },
       "artists": [
         {
-          "name": "Wise Guys",
-          "url": "https://open.spotify.com/artist/11YTrgsi6VjRCkExQBY13k"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Benjamin Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe"
         }
       ],
-      "duration_ms": 152546,
-      "name": "Weihnachtszeit, Kinderzeit",
-      "url": "https://open.spotify.com/track/0IHclLb62TS7CauAJJ4SU5"
+      "duration_ms": 195280,
+      "name": "Weihnachten im Zoo",
+      "url": "https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
-        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
-      },
-      "artists": [
-        {
-          "name": "Kleiner Eisb\u00e4r",
-          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
-      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
-    },
-    {
-      "added_at": "2025-12-08 13:21:04",
-      "album": {
         "name": "Wir sind die Wichtel",
         "url": "https://open.spotify.com/album/5EHR8zntKL9n3zLAoObvSq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 169627,
       "name": "Wir sind die Wichtel",
       "url": "https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0"
+    },
+    {
+      "added_at": "2025-12-08 13:21:04",
+      "album": {
+        "name": "Kleiner Eisb\u00e4r: Rettet die Rentiere",
+        "url": "https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L"
+      },
+      "artists": [
+        {
+          "name": "Kleiner Eisb\u00e4r",
+          "url": "https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Kleiner Eisb\u00e4r, wohin f\u00e4hrst du?",
+      "url": "https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Winterzauberlieder",
-        "url": "https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw"
-      },
-      "artists": [
-        {
-          "name": "Pettersson und Findus",
-          "url": "https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Die Schlittenfahrt",
-      "url": "https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS"
-    },
-    {
-      "added_at": "2025-12-08 13:21:04",
-      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+        "name": "Winterzauberlieder",
+        "url": "https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Pettersson und Findus",
+          "url": "https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Heut Nacht hat's geschneit",
-      "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
+      "duration_ms": 209600,
+      "name": "Die Schlittenfahrt",
+      "url": "https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -1039,22 +1023,18 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Tanzbare Weihnachtslieder f\u00fcr Kinder",
-        "url": "https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw"
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
       },
       "artists": [
         {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
         }
       ],
-      "duration_ms": 129640,
-      "name": "Backe, Backe Kuchen",
-      "url": "https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ"
+      "duration_ms": 168653,
+      "name": "Heut Nacht hat's geschneit",
+      "url": "https://open.spotify.com/track/0SpVxx8P0b28qNDuNFmg1g"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -1071,6 +1051,26 @@
       "duration_ms": 193813,
       "name": "Adventskalender",
       "url": "https://open.spotify.com/track/49pLOR48qA4FHTsgyObQpw"
+    },
+    {
+      "added_at": "2025-12-08 13:21:04",
+      "album": {
+        "name": "Tanzbare Weihnachtslieder f\u00fcr Kinder",
+        "url": "https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw"
+      },
+      "artists": [
+        {
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 129640,
+      "name": "Backe, Backe Kuchen",
+      "url": "https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Das gr\u00fcne Album",
-        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
-      },
-      "artists": [
-        {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "Winterzeit",
-      "url": "https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5"
-    },
-    {
-      "added_at": "2025-12-08 13:21:04",
-      "album": {
         "name": "Weckt den Weihnachtsmann",
         "url": "https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 213600,
       "name": "Wundersch\u00f6ne Weihnachtszeit",
       "url": "https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1"
+    },
+    {
+      "added_at": "2025-12-08 13:21:04",
+      "album": {
+        "name": "Das gr\u00fcne Album",
+        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
+      },
+      "artists": [
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        }
+      ],
+      "duration_ms": 122120,
+      "name": "Winterzeit",
+      "url": "https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Kinderleicht. Lieder und mehr f\u00fcr viele bunte Tage",
-        "url": "https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH"
-      },
-      "artists": [
-        {
-          "name": "Kinderchor SingsalaSing",
-          "url": "https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi"
-        },
-        {
-          "name": "Klaus Weigele",
-          "url": "https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS"
-        }
-      ],
-      "duration_ms": 86160,
-      "name": "Backe, backe Kuchen (I)",
-      "url": "https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp"
-    },
-    {
-      "added_at": "2025-12-08 13:21:04",
-      "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
-        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 169591,
-      "name": "Schneeengel",
-      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
-    },
-    {
-      "added_at": "2025-12-08 13:21:04",
-      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -1263,6 +1227,42 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Andreas Dorau",
+          "url": "https://open.spotify.com/artist/7sbhauFwWAowzbg8yrm6wK"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Der Weihnachtsmann ist eine Frau",
+      "url": "https://open.spotify.com/track/6k3o3aMgSHDpHm4lp28xCp"
+    },
+    {
+      "added_at": "2025-12-08 13:21:04",
+      "album": {
+        "name": "Kinderleicht. Lieder und mehr f\u00fcr viele bunte Tage",
+        "url": "https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH"
+      },
+      "artists": [
+        {
+          "name": "Kinderchor SingsalaSing",
+          "url": "https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi"
+        },
+        {
+          "name": "Klaus Weigele",
+          "url": "https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS"
+        }
+      ],
+      "duration_ms": 86160,
+      "name": "Backe, backe Kuchen (I)",
+      "url": "https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp"
+    },
+    {
+      "added_at": "2025-12-08 13:21:04",
+      "album": {
         "name": "eneMene Kinderlieder - die Gr\u00fcne",
         "url": "https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 88160,
       "name": "Schneefl\u00f6ckchen",
       "url": "https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE"
+    },
+    {
+      "added_at": "2025-12-08 13:21:04",
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Schneeengel",
+      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
     },
     {
       "added_at": "2025-12-08 13:21:04",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
-      },
-      "artists": [
-        {
-          "name": "Andreas Dorau",
-          "url": "https://open.spotify.com/artist/7sbhauFwWAowzbg8yrm6wK"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Der Weihnachtsmann ist eine Frau",
-      "url": "https://open.spotify.com/track/6k3o3aMgSHDpHm4lp28xCp"
-    },
-    {
-      "added_at": "2025-12-08 13:21:04",
-      "album": {
         "name": "Wo wohnt der Weihnachtsmann",
         "url": "https://open.spotify.com/album/2PYGBTAHOwk6aYT3fHxAZ5"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-12-08 13:21:04",
       "album": {
-        "name": "Lamettawetter EP",
-        "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
-      },
-      "artists": [
-        {
-          "name": "Raketen Erna",
-          "url": "https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb"
-        }
-      ],
-      "duration_ms": 203794,
-      "name": "Wo ist der Schneemann?",
-      "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
-    },
-    {
-      "added_at": "2025-12-08 13:21:04",
-      "album": {
         "name": "Unter meinem Bett. Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 189520,
       "name": "Die Weihnachtskinder",
       "url": "https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj"
+    },
+    {
+      "added_at": "2025-12-08 13:21:04",
+      "album": {
+        "name": "Lamettawetter EP",
+        "url": "https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ"
+      },
+      "artists": [
+        {
+          "name": "Raketen Erna",
+          "url": "https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "Wo ist der Schneemann?",
+      "url": "https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M"
     }
   ],
   "unique_name": "Familienzeit: Winter",

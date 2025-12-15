@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1900,
+  "num_followers": 1903,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTtbAAAAAADA+filDC2QHYHGCPMPhM78",
+  "snapshot_id": "aTysgAAAAAB5PwL/2mJthaNcJ/5evcbV",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 136828,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 187026,
       "name": "ricochet",
       "url": "https://open.spotify.com/track/41zRFZskGaj9msEL43fJjD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 136828,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dumped",
-        "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Dumped",
-      "url": "https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 140613,
       "name": "2 much 2 handle",
       "url": "https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dumped",
+        "url": "https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Dumped",
+      "url": "https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dance around it",
-        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 145760,
-      "name": "dance around it",
-      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 180893,
       "name": "reading into it",
       "url": "https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dance around it",
+        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 145760,
+      "name": "dance around it",
+      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Communication",
-        "url": "https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "Communication",
-      "url": "https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 250253,
       "name": "contact high",
       "url": "https://open.spotify.com/track/3GoIbfB3OTD3qAgTpptFcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Communication",
+        "url": "https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "Communication",
+      "url": "https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "How's It Gonna End?",
-      "url": "https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 220106,
       "name": "my funeral",
       "url": "https://open.spotify.com/track/2vtcbNPCrw8CmSbn6MblKx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "How's It Gonna End?",
+      "url": "https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol"
     },
     {
       "added_at": null,

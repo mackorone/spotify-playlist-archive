@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70800,
+  "num_followers": 70801,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-11-24 14:43:20",
       "album": {
-        "name": "V\u00edcios q eu gosto",
-        "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
-      },
-      "artists": [
-        {
-          "name": "ogoin",
-          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
-        },
-        {
-          "name": "Linguini",
-          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "V\u00edcios q eu gosto",
-      "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
-    },
-    {
-      "added_at": "2025-11-24 14:43:20",
-      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
+    },
+    {
+      "added_at": "2025-11-24 14:43:20",
+      "album": {
+        "name": "V\u00edcios q eu gosto",
+        "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
+      },
+      "artists": [
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "V\u00edcios q eu gosto",
+      "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
     },
     {
       "added_at": "2025-11-24 14:43:20",

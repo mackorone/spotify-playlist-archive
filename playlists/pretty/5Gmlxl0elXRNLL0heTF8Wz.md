@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5Gmlxl0elXRNLL0heTF8Wz.md) - [plain]
 
 > Cheerful classical music to wake up with or to accompany a leisurely breakfast\. Even if the sun isn’t shining it seems like it does! <a href="http://www.sinfinimusic.com/nl">Discover more classical music on Classics To Go.</a>
 
-[Classics To Go](https://open.spotify.com/user/sinfinimusic.nl) - 9,428 likes - 101 songs - 5 hr 25 min
+[Classics To Go](https://open.spotify.com/user/sinfinimusic.nl) - 9,433 likes - 101 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
