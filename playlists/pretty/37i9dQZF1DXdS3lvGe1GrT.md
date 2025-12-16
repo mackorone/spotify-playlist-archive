@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > The 75 best folk songs from new, independent artists in 2025, as chosen by our editors\. Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,214 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,231 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

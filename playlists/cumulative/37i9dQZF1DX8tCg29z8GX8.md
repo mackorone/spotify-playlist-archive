@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-723 songs - 1 day 13 hr 33 min
+724 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,7 +719,8 @@
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-08-25 | 2023-01-27 |
 | [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 | 2023-01-20 | 2023-02-24 |
-| [You Are](https://open.spotify.com/track/6jI9XYNr5wSkULVVPSHzvP) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [KANI: A Bantama Story](https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE) | 3:47 | 2025-11-07 |  |
+| [You & I](https://open.spotify.com/track/6awL5NSRprmquSbat1sCnf) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [You & I](https://open.spotify.com/album/1O1zYFI9VSymutdU8HLbCW) | 2:40 | 2025-12-12 |  |
+| [You Are](https://open.spotify.com/track/6jI9XYNr5wSkULVVPSHzvP) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [KANI: A Bantama Story](https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE) | 3:47 | 2025-11-07 | 2025-12-16 |
 | [You Bad](https://open.spotify.com/track/5DF5DbMr266CwVjCcxbsgn) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Skonti](https://open.spotify.com/artist/1cNkGlkbYoFw0BJJJ9UMNl) | [Ka Na Wu](https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4) | 3:44 | 2023-11-24 | 2023-11-29 |
 | [You Bad \(feat\. Skonti\)](https://open.spotify.com/track/4fTFL02Ct4HVWFsxpOgSeQ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Skonti](https://open.spotify.com/artist/1cNkGlkbYoFw0BJJJ9UMNl) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 3:44 | 2023-11-24 | 2023-12-02 |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-07 |

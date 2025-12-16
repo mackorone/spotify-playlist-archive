@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Donnie, Sven Versteeg & LA$$A
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,833 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,827 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,19 +15,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 5 | [Geniet Zo Van Het Leven](https://open.spotify.com/track/3uVbuP7Bk3U4J9g6LLs0RY) | [Toon Schut](https://open.spotify.com/artist/4vZnZBqVPhnTFy8xBQNpC2) | [Geniet Zo Van Het Leven](https://open.spotify.com/album/61GZrvfpeJfFjCjNA1qXPm) | 2:21 |
 | 6 | [Een Dag Niet Gelachen](https://open.spotify.com/track/3f9ox3NTcvBctWb0VyPRdA) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Een Dag Niet Gelachen](https://open.spotify.com/album/4rSAI90WhB1jvUv0xkAOMa) | 2:24 |
 | 7 | [Playboy](https://open.spotify.com/track/6fODWXYbCne8bFDOCvmDJs) | [Luca Ferron](https://open.spotify.com/artist/19AdBUGKGQJk2hyMb8MKG0) | [Playboy](https://open.spotify.com/album/35HudikusrxZoQcuGFzPdM) | 2:57 |
-| 8 | [Ik Wil Alleen Maar Dansen](https://open.spotify.com/track/6vYIbioSoZT5sHsm8fAgy3) | [Bob Offenberg](https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO) | [Ik Wil Alleen Maar Dansen](https://open.spotify.com/album/57BjEM54otSwYNXzcAKGFv) | 3:05 |
-| 9 | [Ga](https://open.spotify.com/track/3Fz6oKQEwZThrwgDlfzeu6) | [Joey Kramer](https://open.spotify.com/artist/2ZOHHd0I9t0RkbwKp2j4lX) | [Ga](https://open.spotify.com/album/2M0JttuEmG5ddskco6Ow0N) | 3:10 |
-| 10 | [De Tijger van de Kroeg](https://open.spotify.com/track/2pKg0EKeCyQbVgHoSStxfq) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB), [Martijn Leopardi](https://open.spotify.com/artist/0dNvb29pd5miS7r3ti22OO) | [De Tijger Van De Kroeg](https://open.spotify.com/album/20w8yUkTuJDK1SG2Au2HQq) | 3:12 |
-| 11 | [Santa Maria](https://open.spotify.com/track/5TQt2HLYJxru0kNHQKU0ED) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Santa Maria](https://open.spotify.com/album/6ZisJ4MaPoc9Jw6l5HjIl3) | 3:32 |
-| 12 | [Elize](https://open.spotify.com/track/7GM2Kw9ljFkWCATZlXs9t6) | [Rocky Pauw](https://open.spotify.com/artist/4ZAsWJbCCCCKS5r0z0qIvd) | [Elize](https://open.spotify.com/album/0A7vchdRrasOb5dXUiTyIR) | 3:02 |
-| 13 | [Kijk mij niet zo aan](https://open.spotify.com/track/3mzaisAm0LHNAchlOB3Lc4) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Kijk mij niet zo aan](https://open.spotify.com/album/3LDpqnA4m5vUmFnUGgGKA0) | 2:34 |
-| 14 | [Ik Mis Je](https://open.spotify.com/track/2Q6HUBRiD7hQoAz4EuMU9F) | [Patrick Dano](https://open.spotify.com/artist/2ei5DwyFArbRyis2L5MY4Z) | [Ik Mis Je](https://open.spotify.com/album/5HpNi57j4T6yJhrF2t4GRM) | 3:26 |
-| 15 | [Liefde In De Nacht](https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Liefde In De Nacht](https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6) | 2:35 |
-| 16 | [Jouw Hart Is Net Als Chocolade](https://open.spotify.com/track/1VoX76xqUdJEa9Yh4Fqqax) | [Mike Kanders](https://open.spotify.com/artist/0bLOBOM8xoHml0QBurC1ci) | [Jouw Hart Is Net Als Chocolade](https://open.spotify.com/album/0KxqTnGXEftujWSaQQ0vuL) | 3:04 |
-| 17 | [Bel Me](https://open.spotify.com/track/7fhJ54GpnkbBdoI4qzCqQC) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Bel Me](https://open.spotify.com/album/7sUBVcJv1DcBX6OkMeHUIr) | 3:05 |
-| 18 | [Is Vanavond Voor Jou En Mij](https://open.spotify.com/track/2UYXNamrzkTIjUXQeH7BSv) | [Davey](https://open.spotify.com/artist/1GeR5RczSj43f2lHmmgS1v) | [Is Vanavond Voor Jou En Mij](https://open.spotify.com/album/0vAOp9SL2i9SRD87VjIFIs) | 3:05 |
-| 19 | [1 Dag](https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [1 Dag](https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6) | 3:24 |
-| 20 | [Kom Terug Bij Mij](https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Kom Terug Bij Mij](https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ) | 3:30 |
+| 8 | [Kom Terug Bij Mij](https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Kom Terug Bij Mij](https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ) | 3:30 |
+| 9 | [Ik Wil Alleen Maar Dansen](https://open.spotify.com/track/6vYIbioSoZT5sHsm8fAgy3) | [Bob Offenberg](https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO) | [Ik Wil Alleen Maar Dansen](https://open.spotify.com/album/57BjEM54otSwYNXzcAKGFv) | 3:05 |
+| 10 | [Ga](https://open.spotify.com/track/3Fz6oKQEwZThrwgDlfzeu6) | [Joey Kramer](https://open.spotify.com/artist/2ZOHHd0I9t0RkbwKp2j4lX) | [Ga](https://open.spotify.com/album/2M0JttuEmG5ddskco6Ow0N) | 3:10 |
+| 11 | [De Tijger van de Kroeg](https://open.spotify.com/track/2pKg0EKeCyQbVgHoSStxfq) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB), [Martijn Leopardi](https://open.spotify.com/artist/0dNvb29pd5miS7r3ti22OO) | [De Tijger Van De Kroeg](https://open.spotify.com/album/20w8yUkTuJDK1SG2Au2HQq) | 3:12 |
+| 12 | [Santa Maria](https://open.spotify.com/track/5TQt2HLYJxru0kNHQKU0ED) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Santa Maria](https://open.spotify.com/album/6ZisJ4MaPoc9Jw6l5HjIl3) | 3:32 |
+| 13 | [Elize](https://open.spotify.com/track/7GM2Kw9ljFkWCATZlXs9t6) | [Rocky Pauw](https://open.spotify.com/artist/4ZAsWJbCCCCKS5r0z0qIvd) | [Elize](https://open.spotify.com/album/0A7vchdRrasOb5dXUiTyIR) | 3:02 |
+| 14 | [Kijk mij niet zo aan](https://open.spotify.com/track/3mzaisAm0LHNAchlOB3Lc4) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Kijk mij niet zo aan](https://open.spotify.com/album/3LDpqnA4m5vUmFnUGgGKA0) | 2:34 |
+| 15 | [Ik Mis Je](https://open.spotify.com/track/2Q6HUBRiD7hQoAz4EuMU9F) | [Patrick Dano](https://open.spotify.com/artist/2ei5DwyFArbRyis2L5MY4Z) | [Ik Mis Je](https://open.spotify.com/album/5HpNi57j4T6yJhrF2t4GRM) | 3:26 |
+| 16 | [Liefde In De Nacht](https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Liefde In De Nacht](https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6) | 2:35 |
+| 17 | [Jouw Hart Is Net Als Chocolade](https://open.spotify.com/track/1VoX76xqUdJEa9Yh4Fqqax) | [Mike Kanders](https://open.spotify.com/artist/0bLOBOM8xoHml0QBurC1ci) | [Jouw Hart Is Net Als Chocolade](https://open.spotify.com/album/0KxqTnGXEftujWSaQQ0vuL) | 3:04 |
+| 18 | [Bel Me](https://open.spotify.com/track/7fhJ54GpnkbBdoI4qzCqQC) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Bel Me](https://open.spotify.com/album/7sUBVcJv1DcBX6OkMeHUIr) | 3:05 |
+| 19 | [Is Vanavond Voor Jou En Mij](https://open.spotify.com/track/2UYXNamrzkTIjUXQeH7BSv) | [Davey](https://open.spotify.com/artist/1GeR5RczSj43f2lHmmgS1v) | [Is Vanavond Voor Jou En Mij](https://open.spotify.com/album/0vAOp9SL2i9SRD87VjIFIs) | 3:05 |
+| 20 | [1 Dag](https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [1 Dag](https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6) | 3:24 |
 | 21 | [Doei Doei Doei \- Radio Edit](https://open.spotify.com/track/1nKXc9iMEu550RRcl6CQaF) | [Sidney Jr](https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6) | [Doei Doei Doei \(Radio Edit\)](https://open.spotify.com/album/72uIicpCeRTsa5ek46Q5qd) | 2:48 |
 | 22 | [Alles Wat Je Hebt](https://open.spotify.com/track/4WYo31iUrSgX3e7xx9aPjM) | [Milan Verwoert](https://open.spotify.com/artist/5SXqnKvLQhK6Phs2oDPX2d) | [Alles Wat Je Hebt](https://open.spotify.com/album/4cQGe945WhmibMR0OyroLU) | 2:39 |
 | 23 | [Nog Een Nacht Met Jou](https://open.spotify.com/track/0KsuZnsqDZCINlre1OI37K) | [Mike Appelhof](https://open.spotify.com/artist/0bw5QUWR6fvaH1b5xf1CeQ) | [Nog Een Nacht Met Jou](https://open.spotify.com/album/5o62VS3NEt1Xf5njq6erzD) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 |
 | 80 | [Amore Bella Ciao](https://open.spotify.com/track/34oy1xCk9xxTA3ZSsLBB4n) | [Bart Muller](https://open.spotify.com/artist/36cW6qZy0y78QUYGUXwAa0) | [Amore Bella Ciao](https://open.spotify.com/album/6tbso4EAEJ81shffvgFtIw) | 2:39 |
 
-Snapshot ID: `AAAAAKUFj6PUjHbuj56o2dh2pPC1OQkm`
+Snapshot ID: `AAAAAMpDxl5RX9XfjEJTy0FRwWYeQs0P`

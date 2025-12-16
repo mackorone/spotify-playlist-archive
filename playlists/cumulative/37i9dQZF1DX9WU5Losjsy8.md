@@ -4,7 +4,7 @@
 
 > Bald gehts wieder auf zur Hütten Gaudi!
 
-189 songs - 9 hr 27 min
+190 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [LEICHE](https://open.spotify.com/track/57LcZJJp24heY1V9kOpmag) | [Die Tünnesse](https://open.spotify.com/artist/2U9pUM1f7HoVw11R1qhb6J), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG) | [LEICHE](https://open.spotify.com/album/2C39gznXprjaLDHweyBz5b) | 2:38 | 2025-07-14 |  |
 | [Links Rechts](https://open.spotify.com/track/4b5PEjV6Aam6Tq83XVN2FJ) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Links Rechts](https://open.spotify.com/album/2m0NWjz7OiXcZHGu5cyiYX) | 2:53 | 2024-06-18 | 2024-07-19 |
 | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 | 2024-04-24 |  |
-| [MALLE BEREIT](https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [MALLE BEREIT](https://open.spotify.com/album/1aeHkgMoNAG5oS037C3GSH) | 2:49 | 2024-04-24 |  |
+| [MALLE BEREIT](https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [MALLE BEREIT](https://open.spotify.com/album/1aeHkgMoNAG5oS037C3GSH) | 2:49 | 2024-04-24 | 2025-12-16 |
 | [Mallekind](https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Mallekind](https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl) | 2:53 | 2024-08-16 | 2024-10-28 |
 | [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 | 2023-07-28 |  |
 | [Mallemoment](https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH) | [Stefan Stürmer](https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q) | [Mallemoment](https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW) | 2:49 | 2024-03-27 | 2024-09-14 |
@@ -190,6 +190,7 @@
 | [Verdammt, ich lieb Dich \- 2020 Remastered](https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Reim \(Expanded Edition\)](https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg) | 3:40 | 2023-07-14 | 2023-11-04 |
 | [Wackelkontakt](https://open.spotify.com/track/2eAU0Oij4NkduxThjzhCI6) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/6y14O5EK4bjAv08QETxoqQ) | 2:48 | 2025-01-21 | 2025-04-15 |
 | [Wahnsinn](https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7) | [Ich will mehr](https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB) | 3:42 | 2023-08-28 | 2024-04-19 |
+| [Weihnachtsmann & Co\. KG \- Luca Version](https://open.spotify.com/track/3gQrkBfV2VBoEF35igQy5V) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Weihnachtsmann & Co\. KG](https://open.spotify.com/artist/0PocWG5oJxdRCFGsndHH2t), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Weihnachtsmann & Co\. KG \(Luca Version\)](https://open.spotify.com/album/2hXa9EGiFqhOnJJoPxfliO) | 2:06 | 2025-12-15 |  |
 | [Wenn der Krankenwagen kommt \(Ist die Party vorbei\)](https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Wenn der Krankenwagen kommt \(Ist die Party vorbei\)](https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr) | 2:48 | 2024-01-26 | 2024-03-08 |
 | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD) | [MaxUhu](https://open.spotify.com/artist/2H9x61CC4ane71CxHsBA5V), [Bangermin](https://open.spotify.com/artist/2vB5ZWcBm1uV4bQhUT27ZQ) | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd) | 3:21 | 2023-12-19 | 2024-10-23 |
 | [Wieder Alles Im Griff \- Single Mix '99](https://open.spotify.com/track/0xJCFn6sMc3jgPmraCK0l6) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Der Deutsche Disco Fox Hit Mix 2005](https://open.spotify.com/album/2FVWxWLDl074hApITwtO9k) | 3:37 | 2023-12-19 | 2025-01-15 |

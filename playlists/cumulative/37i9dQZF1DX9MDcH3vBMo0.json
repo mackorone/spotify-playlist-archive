@@ -3011,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Echoes after Rain",
+        "url": "https://open.spotify.com/album/2Ub8AZp4iWRGFdNxWpjRe9"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Echoes after Rain",
+      "url": "https://open.spotify.com/track/6btTzFwJ0ghsQO0MWNqObs"
+    },
+    {
+      "album": {
         "name": "Echoes in a Hollow Sky",
         "url": "https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi"
       },
@@ -3332,7 +3350,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 129300,
       "name": "Escallonia",
       "url": "https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj"
@@ -13122,7 +13140,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 171063,
       "name": "The Lights Around the Shore",
       "url": "https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7"
@@ -13540,6 +13558,24 @@
       "duration_ms": 145263,
       "name": "Tiny Ballerina",
       "url": "https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl"
+    },
+    {
+      "album": {
+        "name": "To Be",
+        "url": "https://open.spotify.com/album/0rYD9GsqxmhHgBsbAQ09IC"
+      },
+      "artists": [
+        {
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123768,
+      "name": "To Be",
+      "url": "https://open.spotify.com/track/0fdxDUhqECk0qLAtWju4yI"
     },
     {
       "album": {

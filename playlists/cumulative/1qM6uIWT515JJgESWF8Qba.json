@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "LET IT BURN",
+        "url": "https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr"
+      },
+      "artists": [
+        {
+          "name": "The Haptics",
+          "url": "https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126700,
+      "name": "XOX",
+      "url": "https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm"
+    },
+    {
+      "album": {
         "name": "Your Way",
         "url": "https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn"
       },

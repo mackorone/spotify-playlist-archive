@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-430 songs - 1 day 1 hr 36 min
+434 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Catwalk](https://open.spotify.com/track/5gaVKMc6nadZFqZEf59guL) | [Kaishi](https://open.spotify.com/artist/6fasy0xC15SV7Z5yWnJtZI) | [Catwalk](https://open.spotify.com/album/2k9LatThz4DjlduXaQ2XOk) | 3:04 | 2023-08-20 | 2023-09-26 |
 | [Cerco il Nirvana](https://open.spotify.com/track/56A2pT45d2gKQpDrk7B2yH) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Cerco il Nirvana](https://open.spotify.com/album/44ToiI91J1uUmLefDmSh6T) | 3:20 | 2025-12-06 |  |
 | [Chama](https://open.spotify.com/track/0VupF0wdDqSvRlwe0JLNjZ) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q), [Chaval \(BR\)](https://open.spotify.com/artist/1w76OkGmAQl3aJSkZcRe5F) | [Chama](https://open.spotify.com/album/0fRcHYc1JqjTJhg90GcGW8) | 3:30 | 2023-08-13 | 2023-08-28 |
+| [Chekmate](https://open.spotify.com/track/7HhsP952aR70WMDTl1HddE) | [Bruno Costa](https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2) | [One Moment for this](https://open.spotify.com/album/7xUE0yTcI0JddLRDm4RXjJ) | 3:42 | 2025-12-16 |  |
 | [Chiki Ta](https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Chiki Ta](https://open.spotify.com/album/4gozxbu9QuB6AAMW4CMv43) | 1:54 | 2023-04-30 | 2023-05-23 |
 | [Clappa](https://open.spotify.com/track/7xg64Eg2avjGw44TmtI4GQ) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Naughty](https://open.spotify.com/album/55eFetaEDWddPSu31yr84q) | 3:00 | 2023-04-30 | 2023-05-30 |
 | [Classic CD](https://open.spotify.com/track/6tT77yf76xj3uazEy7c1m2) | [Keeld](https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT) | [Classic CD](https://open.spotify.com/album/1n6NIFPhep1QS4Dp91KCBx) | 2:52 | 2023-09-17 | 2023-12-14 |
@@ -145,6 +146,7 @@
 | [Fake ID](https://open.spotify.com/track/2gjTyHvloL1xDDA2vAMiqn) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Fake ID](https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A) | 2:20 | 2023-06-11 | 2023-07-17 |
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-24 | 2023-12-14 |
 | [Fantasy](https://open.spotify.com/track/0F1OJm1TvEJWrB0p3jbk01) | [ISSA \(BR\)](https://open.spotify.com/artist/6HLLZWMPaNgwJJ8UsnlcpJ), [GADELHA](https://open.spotify.com/artist/4eiBj8M536PZYheVAgk8J4) | [Fantasy](https://open.spotify.com/album/4LNSeysWGFiBaJpcxZs6nT) | 3:12 | 2024-04-14 | 2024-07-08 |
+| [Feel Alive](https://open.spotify.com/track/2viyo7eQgnreJ1YNzQIr1N) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh), [Movha](https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN) | [Feel Alive](https://open.spotify.com/album/1pXvQPpR6Fsv2Wk2jMlbGx) | 3:29 | 2025-12-15 |  |
 | [Ferda](https://open.spotify.com/track/4OmDuXbT6ik5kHvzuKAAEw) | [Avenue](https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3), [SADYOUTH](https://open.spotify.com/artist/5LGSEONWZJAypWMrt0yDnx) | [Ferda](https://open.spotify.com/album/6F1ehz6wqX9Cxrg3jidwtW) | 3:46 | 2023-03-19 | 2023-04-10 |
 | [Fever](https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fever](https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM) | 2:52 | 2023-04-09 | 2023-05-01 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-16 | 2023-08-09 |
@@ -245,6 +247,7 @@
 | [Last Ones](https://open.spotify.com/track/1DLf5cSy5FMiILI0z9acya) | [Aaron Klugg](https://open.spotify.com/artist/2wmuwPAXRhL4Xi0cWis1zG) | [Last Ones](https://open.spotify.com/album/4w2G9uZVP65BQcpN4k0rLn) | 6:18 | 2024-03-24 | 2024-05-20 |
 | [Lately](https://open.spotify.com/track/63uUbh2wl4FYvzLdOKJ8nq) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Leah Rose](https://open.spotify.com/artist/7JB5It5zOFEGkYJKipsBZj) | [Lately](https://open.spotify.com/album/63Zj3oMRhWuzAHcV6bhdxS) | 3:30 | 2023-01-29 | 2023-03-06 |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-22 | 2023-02-13 |
+| [Leave The Past Behind](https://open.spotify.com/track/72zsJLiCPtrmjZMakMKOuc) | [West Dingo](https://open.spotify.com/artist/6B30jOzfy4u8nu9PrcoOFa) | [Slow is Smooth\. Smooth is Fast.](https://open.spotify.com/album/7sIVA9xNrYCtBf05hdutQh) | 3:40 | 2025-12-15 |  |
 | [Less That](https://open.spotify.com/track/7zCsBTEeeaB1QAJK2R728d) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [No Break](https://open.spotify.com/artist/4mZ0SNrLR1DPVB86E8iLqQ) | [Less That](https://open.spotify.com/album/4R7gY27TiEhuGPNO5wJknN) | 3:10 | 2023-01-22 | 2023-02-13 |
 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 | 2024-02-04 | 2024-03-25 |
 | [Lick Lick](https://open.spotify.com/track/6gi4q4zu0rdbPqudX9dSaJ) | [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Lick Lick](https://open.spotify.com/album/1DASRqjuhlJz4GEJpNxqQA) | 5:46 | 2024-10-13 |  |
@@ -282,6 +285,7 @@
 | [Mumba](https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:48 | 2023-04-23 | 2023-05-15 |
 | [My Bank](https://open.spotify.com/track/3SnzEIFjDfjTSN60Ebkv0q) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Welcome to Hell II](https://open.spotify.com/album/3CTcKWxnFO7AZtadH6rofz) | 2:54 | 2023-03-19 | 2023-04-10 |
 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 | 2024-03-10 | 2024-04-15 |
+| [My Mind](https://open.spotify.com/track/6ansZdTXkdaVk3tyMTi6bb) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh), [Movha](https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN) | [My Mind](https://open.spotify.com/album/5i2ESadvOMUga5McgUTlhL) | 3:14 | 2025-12-15 |  |
 | [My Mind](https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Jack The House 4](https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl) | 2:56 | 2023-08-27 | 2023-09-26 |
 | [My Struggles](https://open.spotify.com/track/0vk1YQk2z3xad276H9wwNR) | [CHRIS GROOVES](https://open.spotify.com/artist/7c560bOtDY38gaSpNiN7y5) | [My Struggles](https://open.spotify.com/album/3pJypWlBAwUOMRxrUFSWDv) | 2:48 | 2024-07-07 |  |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-11-26 | 2024-02-05 |

@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: JOYCE 就以斯
 
-3,731 songs - 9 day 2 hr 3 min
+3,732 songs - 9 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1199,6 +1199,7 @@
 | [下一頁](https://open.spotify.com/track/3jZmraBkqPy4a9qt19aVk3) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [下一頁](https://open.spotify.com/album/7G3XwhgvJhuMAs6b9tFIsf) | 4:32 | 2024-09-19 | 2024-10-11 |
 | [下個星期回台南](https://open.spotify.com/track/0sASg8qEnB4tG8wpuystnP) | [河智昊](https://open.spotify.com/artist/3DEFgAPbosvePBoBfXwCak) | [下個星期回台南](https://open.spotify.com/album/0ALoez0qn1arONw6kyXSlE) | 3:34 | 2025-01-23 | 2025-02-28 |
 | [下在心裡的雨](https://open.spotify.com/track/1rsBXrcibmIsUunC0VJmAZ) | [KRAY](https://open.spotify.com/artist/1Vknqy3noTujdCjbI3xxF1) | [下在心裡的雨](https://open.spotify.com/album/6YBfb8PjfFxiOVLCMDEPue) | 2:44 | 2025-09-04 | 2025-09-26 |
+| [下天堂](https://open.spotify.com/track/0XLn3HZLmrBlDrRloVDmoh) | [PALLAS](https://open.spotify.com/artist/31y2c0Ioh42rsNqIpu3PN3) | [下天堂](https://open.spotify.com/album/6AzTOaU2dExNDbJrMgPQY8) | 3:58 | 2025-12-11 |  |
 | [下弦月](https://open.spotify.com/track/7lhFfPAU5mTGNdoFHiqLMv) | [Zroll](https://open.spotify.com/artist/1eaF8Gsd0UCfHHPxGd2NaC) | [下弦月](https://open.spotify.com/album/7JMKICoX1KaephZ8jwFLqM) | 2:27 | 2024-09-26 | 2024-10-04 |
 | [下弦月 \(feat\. KEY.L\)](https://open.spotify.com/track/7FEM4XMXF5AzO8e3vRp1wm) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX), [KEY.L刘聪](https://open.spotify.com/artist/4vvCGXDAaBukbf2dI2slRT) | [下弦月 \(feat\. KEY.L\)](https://open.spotify.com/album/0giUMNOC3I6yydagdzTjkn) | 3:54 | 2025-01-16 | 2025-02-07 |
 | [下輩子 \- Remix](https://open.spotify.com/track/1qiSvhEJLzmijvayjSICw0) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [下輩子 \(Remix\)](https://open.spotify.com/album/5vI5LKjr1uwk16WmxnxwTR) | 3:00 | 2025-05-29 | 2025-06-20 |
@@ -3440,7 +3441,7 @@
 | [轉呀轉不停](https://open.spotify.com/track/2tMKZ7QHNE9cCv7LDK4Bz7) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [轉呀轉不停](https://open.spotify.com/album/6YLJGQmO9asV6j3JMp3hzH) | 3:47 | 2025-05-29 | 2025-08-01 |
 | [轻丝](https://open.spotify.com/track/25jNF9OZNJL5gpR6t2ECBd) | [赵一博](https://open.spotify.com/artist/3ai8qLL3WfD9wHtSQrFOgp) | [轻丝](https://open.spotify.com/album/6vH1VfxqeQrrS2WCbHojoP) | 2:52 | 2025-10-16 | 2025-10-24 |
 | [辣芒果LA MONGO](https://open.spotify.com/track/1vxFE0GuD7DSXJpLFP5hqq) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [辣芒果LA MONGO](https://open.spotify.com/album/6NBOkyqzd9ouirC8iK7ktQ) | 3:51 | 2025-01-09 | 2025-02-21 |
-| [辯護 \(feat\. 蛋堡\)](https://open.spotify.com/track/0jjazh2BBFlysEenENp48U) | [Justin Su](https://open.spotify.com/artist/7rnyYNf7mNZjQIn83qvrlm), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [辯護 \(feat\. 蛋堡\)](https://open.spotify.com/album/3PCMufc7w72rL1oZE5ixNj) | 4:16 | 2025-11-20 |  |
+| [辯護 \(feat\. 蛋堡\)](https://open.spotify.com/track/0jjazh2BBFlysEenENp48U) | [蘇明淵](https://open.spotify.com/artist/2eBf7OQG2b0uSFgBwBIDUN), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [辯護 \(feat\. 蛋堡\)](https://open.spotify.com/album/3PCMufc7w72rL1oZE5ixNj) | 4:16 | 2025-11-20 |  |
 | [过去的你](https://open.spotify.com/track/7t04sb4ZH8mL80wRHo6HAA) | [Whistle 夜萧](https://open.spotify.com/artist/7wKs35Zk43WEeSbxa5snCq), [多あ爱梦](https://open.spotify.com/artist/5mCh80WPP1yVLBqX349KeG) | [过去的你](https://open.spotify.com/album/6k1Wpf4oTDnPRyLqGAgoLj) | 2:54 | 2024-11-07 | 2024-11-15 |
 | [过耳](https://open.spotify.com/track/1msqGDrazc9x1vw4akv4pS) | [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [过耳](https://open.spotify.com/album/4GtIH6nU4GFDOn9W9ZufxU) | 3:24 | 2025-05-15 | 2025-06-13 |
 | [迎接瘋狂世界](https://open.spotify.com/track/1jPy6KeBDoCWl0eb8uLBxU) | [葡萄不憤怒](https://open.spotify.com/artist/3XieHCiB2HVN8ZRDSsfkaj), [對角巷樂隊](https://open.spotify.com/artist/3SGjppqFq8YW66qw1jecyx) | [迎接瘋狂世界](https://open.spotify.com/album/0E2DBfuKNzSVWBuJ3v7Tv7) | 3:45 | 2024-09-26 | 2024-10-11 |

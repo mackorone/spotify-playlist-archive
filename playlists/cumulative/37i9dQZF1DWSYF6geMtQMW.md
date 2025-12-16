@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: נועה קירל
 
-189 songs - 10 hr 7 min
+190 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [טאטע תטהר \- גרסה אקוסטית](https://open.spotify.com/track/5bFrsEk5efTVlOTwtLBLn2) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [טאטע תטהר \(גרסה אקוסטית\)](https://open.spotify.com/album/0WS1PjaiDwUw5PzHAhYQK0) | 2:38 | 2025-01-20 | 2025-07-29 |
 | [יוצאת מזה](https://open.spotify.com/track/4xNo1LgWSCyjgK4OsUnLWg) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יוצאת מזה](https://open.spotify.com/album/1eme39BjyJg1EemvTA66sG) | 3:40 | 2024-07-01 | 2024-08-20 |
 | [יושב לי על הלב](https://open.spotify.com/track/3BX9e9v3D01YUuQUbN225e) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יושב לי על הלב](https://open.spotify.com/album/2JQkBoNvfZwe2yOW5T0iMJ) | 2:18 | 2025-07-14 | 2025-07-29 |
+| [יש מישהו ששר לך](https://open.spotify.com/track/6Ix2MJMdzccf5gVosUYG0r) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K) | [יש מישהו ששר לך](https://open.spotify.com/album/2DWJhuqWVgYf8kclsUINyA) | 3:33 | 2025-12-15 |  |
 | [כוכבים](https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY) | [שילה בן סעדון](https://open.spotify.com/artist/25121FSeQqqD3El2C3t9L1) | [כוכבים](https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi) | 3:22 | 2024-07-01 | 2025-03-18 |
 | [כל מה שאני רוצה](https://open.spotify.com/track/5h1iCN4plP49Tv2uFHYfxF) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [כל מה שאני רוצה](https://open.spotify.com/album/5nMMAn4GZbBSCzW0S7l5b1) | 3:52 | 2025-11-18 |  |
 | [כמה קל לך](https://open.spotify.com/track/2dNqsY3YrTLDOivziWYF3p) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [נדב חנציס](https://open.spotify.com/album/7ADHZpgopDu4l7C1RWSgC9) | 3:44 | 2025-08-25 |  |
@@ -185,7 +186,7 @@
 | [רוקי](https://open.spotify.com/track/1oZbzZEpWVtmwMjxo12SzV) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [Van da'M](https://open.spotify.com/album/4f4oaIUkUWwveb5KZe1pNx) | 3:09 | 2025-10-13 |  |
 | [רק הזמן](https://open.spotify.com/track/1KMT5j1608afIjko14UBNP) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [רק הזמן](https://open.spotify.com/album/63bIatX9uWOdWXiq0lxTQl) | 2:55 | 2024-09-30 | 2024-11-26 |
 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 | 2024-07-01 | 2025-03-18 |
-| [רשימת קניות](https://open.spotify.com/track/5AjrNeUIzRkWzMz5hgujD2) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [רשימת קניות](https://open.spotify.com/album/0Ib14azeY0eTF80dpEqqIk) | 2:34 | 2025-04-07 |  |
+| [רשימת קניות](https://open.spotify.com/track/5AjrNeUIzRkWzMz5hgujD2) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [רשימת קניות](https://open.spotify.com/album/0Ib14azeY0eTF80dpEqqIk) | 2:34 | 2025-04-07 | 2025-12-16 |
 | [שאנל אזולאי](https://open.spotify.com/track/1I2O2LqFIUSndJW0NSUdfq) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [שאנל אזולאי](https://open.spotify.com/album/6OYqiaYNXBH5Q8QJbido1I) | 2:38 | 2025-04-14 | 2025-10-14 |
 | [שהשם ישמור עלייך](https://open.spotify.com/track/7uLwV2wvLaFKocHlBaCE3v) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [שהשם ישמור עלייך](https://open.spotify.com/album/3VHdodaTzCWCzc4wY9Y3z7) | 2:51 | 2025-10-20 |  |
 | [שוב אני בדד](https://open.spotify.com/track/1EZj3gwDRCDVTxJAIGUtMQ) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [שוב אני בדד](https://open.spotify.com/album/6VooCgGF8j8NRBiOclQHUF) | 3:13 | 2024-08-19 | 2024-10-08 |

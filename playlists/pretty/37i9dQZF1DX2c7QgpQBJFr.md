@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: tellynonpiangere
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,436 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,440 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 10 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 |
 | 11 | [GRAN FINALE](https://open.spotify.com/track/4tfmQ54e6Fw4jWe4KwNmWE) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [GRAN FINALE](https://open.spotify.com/album/0RjtZJZPOf5j4fFDkoe0AZ) | 3:05 |
 | 12 | [Oopah](https://open.spotify.com/track/0yd2o1Fd32LonuRUrChnKr) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Kalimera](https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF) | 2:14 |
-| 13 | [PRIMO PASSO](https://open.spotify.com/track/41Z3rWsV6ng2aI20bYKM29) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [PRIMO PASSO](https://open.spotify.com/album/14XvngzjtyoRdwWI2ogMuk) | 2:38 |
-| 14 | [sopra di me](https://open.spotify.com/track/24nLMm81ZdOfcv6Zp8TbNE) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [sopra di me](https://open.spotify.com/album/2LaXusaMXAUNg21CTjdoFL) | 3:21 |
-| 15 | [PRIMA DI ADESSO](https://open.spotify.com/track/7hxQVhYkWekP3a0BtOGQtc) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [PRIMA DI ADESSO](https://open.spotify.com/album/1PdQp7paqB1N11vt7Vw0yS) | 2:58 |
-| 16 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
-| 17 | [I fatti miei](https://open.spotify.com/track/0zak2hrjNlvhWYiI57Ddqg) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [I fatti miei](https://open.spotify.com/album/3CBpDlfvneuZOna0xnjsBM) | 3:01 |
-| 18 | [Ti Penso \- Sam Ruffillo Version](https://open.spotify.com/track/6ZqMMXKF7o84CZL43RBVoV) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ti Penso \(Sam Ruffillo Version\)](https://open.spotify.com/album/6QrNWPk0r8ppTd9rMaoLdp) | 3:06 |
-| 19 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 |
+| 13 | [sopra di me](https://open.spotify.com/track/24nLMm81ZdOfcv6Zp8TbNE) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [sopra di me](https://open.spotify.com/album/2LaXusaMXAUNg21CTjdoFL) | 3:21 |
+| 14 | [PRIMA DI ADESSO](https://open.spotify.com/track/7hxQVhYkWekP3a0BtOGQtc) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [PRIMA DI ADESSO](https://open.spotify.com/album/1PdQp7paqB1N11vt7Vw0yS) | 2:58 |
+| 15 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
+| 16 | [I fatti miei](https://open.spotify.com/track/0zak2hrjNlvhWYiI57Ddqg) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [I fatti miei](https://open.spotify.com/album/3CBpDlfvneuZOna0xnjsBM) | 3:01 |
+| 17 | [Ti Penso \- Sam Ruffillo Version](https://open.spotify.com/track/6ZqMMXKF7o84CZL43RBVoV) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ti Penso \(Sam Ruffillo Version\)](https://open.spotify.com/album/6QrNWPk0r8ppTd9rMaoLdp) | 3:06 |
+| 18 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 |
+| 19 | [PRIMO PASSO](https://open.spotify.com/track/41Z3rWsV6ng2aI20bYKM29) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [PRIMO PASSO](https://open.spotify.com/album/14XvngzjtyoRdwWI2ogMuk) | 2:38 |
 | 20 | [paradiso](https://open.spotify.com/track/0Mbu7beOY6V435dfnqSAHB) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [paradiso](https://open.spotify.com/album/6zyF02pm0tFZolZHy7LoT0) | 2:44 |
 | 21 | [Mattone](https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Mattone](https://open.spotify.com/album/2g5pToFqMIpwYNyFlOPU6N) | 3:22 |
 | 22 | [NON È COLPA MIA SE NON MI AMI PIÚ](https://open.spotify.com/track/6MQ7m5g6LAsTdtmAX1mR5Y) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [NON È COLPA MIA SE NON MI AMI PIÚ](https://open.spotify.com/album/0g1FQwYszghmBORdwg74jv) | 2:34 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 98 | [quando nessuno ci vede](https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [quando nessuno ci vede](https://open.spotify.com/album/7b5L66twDwW0ESfwpFtho8) | 2:48 |
 | 99 | [Così così](https://open.spotify.com/track/0pjqXWOiT5xMh2ua6sq4dl) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 3:19 |
 
-Snapshot ID: `AAAAAF7qFkyBy3KF/p/xTgnRUytSPkli`
+Snapshot ID: `AAAAAA6mOgLW8hSuoMsWykFwdL5IWYNq`

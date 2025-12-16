@@ -4021,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "Break Through The Ceiling",
+        "url": "https://open.spotify.com/album/3v2vCuNGvBwv9iydBwyh5M"
+      },
+      "artists": [
+        {
+          "name": "LIAMOO",
+          "url": "https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167407,
+      "name": "Break Through The Ceiling",
+      "url": "https://open.spotify.com/track/2E3BUkRT95Uy9Saqr7HffY"
+    },
+    {
+      "album": {
         "name": "Breakfast Club",
         "url": "https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu"
       },
@@ -16572,7 +16590,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 113454,
       "name": "Ikv\u00e4ll handlar det om oss (en drink)",
       "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"

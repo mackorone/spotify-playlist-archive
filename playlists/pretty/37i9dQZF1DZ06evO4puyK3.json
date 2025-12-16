@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166254,
+  "num_followers": 166260,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAAWBsGm4vhxI99t5aAz/L+D",
+  "snapshot_id": "aT3+AAAAAACckktBv+wDWDjvdu6gjAw5",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "V\u00edcio",
+        "url": "https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "V\u00edcio",
+      "url": "https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "V\u00edcio",
-        "url": "https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "V\u00edcio",
-      "url": "https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8"
     },
     {
       "added_at": null,

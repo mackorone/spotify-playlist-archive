@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 
 > Set the tone, feel the vibe\. Upbeat tracks for your power walk\. 🎵 Submit: glitchgoldmusic.com
 
-[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 738 likes - 791 songs - 1 day 21 hr 23 min
+[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 746 likes - 791 songs - 1 day 21 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -626,7 +626,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 | 616 | [Haram](https://open.spotify.com/track/5LPVDB4Gn1jWyHKyFJlwbx) | [NEIDIA](https://open.spotify.com/artist/6c3Us90qJi6IFL5ftfHfYP) | [Haram](https://open.spotify.com/album/1cORxO5ixc75nM1N3MgJlQ) | 3:09 |
 | 617 | [In Love \- Club Remix](https://open.spotify.com/track/6k9UPQbg9LilsatkY1xeOq) | [Dypha](https://open.spotify.com/artist/2dwl6R1H4eCNhKrBbcmFhq) | [In Love \(Club Remix\)](https://open.spotify.com/album/2kcxfsfWvM7j3aMdtFx7jl) | 3:53 |
 | 618 | [Merhy](https://open.spotify.com/track/5sh6aTmsiTPwxcFygUHCog) | [Sly](https://open.spotify.com/artist/1FqmPyZCfRcGwHjCxWrsVH) | [Merhy](https://open.spotify.com/album/0ssixW5UPgtz0FYl7bwvyH) | 2:47 |
-| 619 | [Afraid \- Horror Show Version](https://open.spotify.com/track/2YyVXnsNktLUVK77iNfV3h) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Horror Show](https://open.spotify.com/album/37ICiT3HUSymRH3IkYTbTH) | 3:20 |
+| 619 | [Afraid](https://open.spotify.com/track/2YyVXnsNktLUVK77iNfV3h) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Horror Show](https://open.spotify.com/album/37ICiT3HUSymRH3IkYTbTH) | 3:20 |
 | 620 | [Celosa](https://open.spotify.com/track/4f84uQjPgJNNNBeBHq3u99) | [Dragonario](https://open.spotify.com/artist/1tBq3Ixgmgx6FHMn31dntK) | [Celosa](https://open.spotify.com/album/2rGNxO0PUu8DsuM98YEQSv) | 3:28 |
 | 621 | [Bluebird](https://open.spotify.com/track/3QrKPcdY1ruhPTTPo495Nl) | [Duncan Tucano](https://open.spotify.com/artist/7xluDgElp8Ul2HFFfAHllX), [Barbara Calypso](https://open.spotify.com/artist/4DAp0vMEyBKZiq78VUmj3G) | [Bluebird](https://open.spotify.com/album/0DPBQnNhsz1JAqlBtJvrXX) | 4:31 |
 | 622 | [Good Day](https://open.spotify.com/track/45xSH0hlbsqFt2irOrnj3R) | [Kaki P](https://open.spotify.com/artist/2rdgTyAiD57dNfX3Bksx2e) | [Good Day](https://open.spotify.com/album/3x3xuDRurtkd5OD52oElQH) | 2:31 |
@@ -655,7 +655,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 | 645 | [Ricordami](https://open.spotify.com/track/5Ews9CmX8GdG4bfgIGS8Vg) | [Luca Caperna](https://open.spotify.com/artist/3Qv0BzsqKNH5yUtu0EXM1X) | [All my love](https://open.spotify.com/album/1x47A1hIk0rlwGgDCSaNdL) | 4:24 |
 | 646 | [Crisp Mornings](https://open.spotify.com/track/6GX5O1LMMez70sflE7mgIh) | [DSYG](https://open.spotify.com/artist/3zc7Vpu3e393y4CoCzukQN), [Mr\. Soul Brotha](https://open.spotify.com/artist/5ku04s3ounjHRz21RC53xs), [Don’t Stunt Ya Growth](https://open.spotify.com/artist/1Nw7xQt5qX9tRmFugfxlxr) | [When the Leaves Return](https://open.spotify.com/album/1OqbBu45M42xnMktl1KWjJ) | 2:35 |
 | 647 | [KITTY](https://open.spotify.com/track/0MpA7P0YKOiOENrKTJXN5g) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV), [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [KITTY](https://open.spotify.com/album/2TL7CLDNkMxB20Gi5AzuPJ) | 2:34 |
-| 648 | [Tell Me What To Do \- Horror Show Version](https://open.spotify.com/track/7wj74WPXi7wkrm6icHsjxm) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Horror Show](https://open.spotify.com/album/37ICiT3HUSymRH3IkYTbTH) | 4:04 |
+| 648 | [Tell Me What To Do](https://open.spotify.com/track/7wj74WPXi7wkrm6icHsjxm) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Horror Show](https://open.spotify.com/album/37ICiT3HUSymRH3IkYTbTH) | 4:04 |
 | 649 | [...and The Devil is Gone](https://open.spotify.com/track/2tdyQOOIiScd6wsnmF4SPO) | [Johnny J\. Henker](https://open.spotify.com/artist/5wLN74MJi5VoPIsm4zLXik) | [...and The Devil is Gone](https://open.spotify.com/album/1D4yTUYe49AeXymZXqyDUF) | 3:29 |
 | 650 | [MANI IN MANO](https://open.spotify.com/track/6KEyIhtDQTiESuo5WOrtzA) | [L\-BROS](https://open.spotify.com/artist/0JiOUIMEROO5pQC6LKYlhy) | [MANI IN MANO](https://open.spotify.com/album/6BfP0Ttib1p4mdegag2sXd) | 3:46 |
 | 651 | [Siamo Connessi](https://open.spotify.com/track/1CMk0fxyZOBHp1tIWmoXxI) | [Half Artificial](https://open.spotify.com/artist/7aBDAeoamWn8l2FAE9wNLN) | [Siamo Connessi](https://open.spotify.com/album/1dLcO9CLkaqh1CHcy9TbNw) | 2:35 |

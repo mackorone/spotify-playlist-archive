@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Silent Planet
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,846 likes - 106 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,843 likes - 106 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 19 | [Carrion Ladder](https://open.spotify.com/track/5g2t6L0K8b3p2lXFvYuNn9) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Carrion Ladder](https://open.spotify.com/album/5qsI8CMeAR4im68zC3x1dn) | 4:23 |
 | 20 | [Leeches](https://open.spotify.com/track/2ZZt9Z2xrzfn6fQmTVTsyZ) | [Stain The Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [Honey Rot](https://open.spotify.com/album/0yT3QoSFz7sUq1PqK3QRTS) | 2:09 |
 | 21 | [Too Close To The Sun](https://open.spotify.com/track/7nTBWqCMrgAQxORc6e1c5A) | [Foxblood](https://open.spotify.com/artist/17pjImdVvIja9Es8R436NP) | [Too Close To The Sun](https://open.spotify.com/album/5KgNUJICIcDjJ5APVS0Buu) | 4:33 |
-| 22 | [Ladrones Cypher 1, Santa Salut](https://open.spotify.com/track/6wf6Nfk3KfHR14ht6tmBiY) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Ladrones Cypher 1, Santa Salut](https://open.spotify.com/album/36VtXsKmNbgoiF3OWTVgoT) | 4:02 |
+| 22 | [Ladrones Cypher 1](https://open.spotify.com/track/6wf6Nfk3KfHR14ht6tmBiY) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [Ladrones Cypher 1](https://open.spotify.com/album/36VtXsKmNbgoiF3OWTVgoT) | 4:02 |
 | 23 | [Haunt Me Still](https://open.spotify.com/track/5Lqn1mnJQTZGxw6gQB0zhX) | [False Saints](https://open.spotify.com/artist/70b0lU3W9kVBBXzlNNGaEk) | [Haunt Me Still](https://open.spotify.com/album/6soesCsobP56amEynsnH70) | 4:08 |
 | 24 | [Glamour](https://open.spotify.com/track/1NkqeW86zifC8xVrq8Clni) | [Silent Vice](https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT) | [Glamour](https://open.spotify.com/album/2H2TiL6maqA2ijNWS5aT3x) | 3:57 |
 | 25 | [LOCKED OUT](https://open.spotify.com/track/75yGhPSQwaJaL2WnXaOGko) | [Sorry X](https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT) | [LOCKED OUT](https://open.spotify.com/album/6ZQPsSO06A54ymJR9At6EK) | 3:02 |

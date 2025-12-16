@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-683 songs - 2 day 9 hr 4 min
+684 songs - 2 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-16 | 2025-11-17 |
 | [DODOnDAWA \- Extended Version](https://open.spotify.com/track/1fgL1JV4NPRaXmJ7MoOTCW) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [DODOnDAWA \(Extended Version\)](https://open.spotify.com/album/1QU3F0GcrX1vGU41l4nAtz) | 10:08 | 2025-05-23 | 2025-06-27 |
 | [Doh Doh Doh](https://open.spotify.com/track/2lMZGnSWKU9LxUjO5EThrw) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Ife](https://open.spotify.com/artist/3n5NBohiciKgl7Y8i4AeyK) | [Doh Doh Doh](https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN) | 2:33 | 2023-11-03 | 2024-01-05 |
+| [Done It Again](https://open.spotify.com/track/5iqZcZQlGVnyu7lCaYrFyB) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Done It Again](https://open.spotify.com/album/00VbqNN4JPpyNqOXK9iVh4) | 6:12 | 2025-12-12 |  |
 | [Dry Bones](https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Dry Bones](https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g) | 11:31 | 2024-02-09 | 2025-06-27 |
 | [DUTSEN CETO](https://open.spotify.com/track/5xvWfzNAIzD1StFS1fSJOX) | [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1), [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN) | [DUTSEN CETO](https://open.spotify.com/album/31EoDaDEuTHpKBxzZOgejd) | 4:29 | 2025-05-09 | 2025-06-13 |
 | [E Chowque](https://open.spotify.com/track/48ecJGfnBKDLF8oUd2h1mJ) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Logik Tha Pro](https://open.spotify.com/artist/6grOJlyvUhDYrgBKZMAa45) | [E Chowque](https://open.spotify.com/album/0LazgqYvydovjWD0caIImX) | 2:24 | 2025-07-04 | 2025-07-29 |
@@ -210,7 +211,7 @@
 | [God Is Love](https://open.spotify.com/track/3a6tYOJbKV3a7gY79M8ZJU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Alafia.](https://open.spotify.com/album/3sNR85MyaE3enZGsWh0ZXk) | 2:46 | 2024-11-29 | 2024-12-24 |
 | [God Of Covenant](https://open.spotify.com/track/6RLEQsoU5D28rClqbjUVEw) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [God Of Covenant](https://open.spotify.com/album/0FJsgIZrzZVd0cyXpC1m7K) | 5:43 | 2025-05-09 | 2025-06-27 |
 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 | 2024-10-04 | 2025-05-30 |
-| [God's Love](https://open.spotify.com/track/7240uGoDsILNW2ujEvKSsA) | [Jessica monday](https://open.spotify.com/artist/7LnoP2GdqJRRoWuWKVsS3X), [Ifé harmony](https://open.spotify.com/artist/6S2C1f1dlnpZrc2NhkZsLU) | [Sweet in Plenty](https://open.spotify.com/album/3nxFhYmRw8Gm3sdFlltwYy) | 2:12 | 2025-11-07 |  |
+| [God's Love](https://open.spotify.com/track/7240uGoDsILNW2ujEvKSsA) | [Jessica monday](https://open.spotify.com/artist/7LnoP2GdqJRRoWuWKVsS3X), [Ifé harmony](https://open.spotify.com/artist/6S2C1f1dlnpZrc2NhkZsLU) | [Sweet in Plenty](https://open.spotify.com/album/3nxFhYmRw8Gm3sdFlltwYy) | 2:12 | 2025-11-07 | 2025-12-16 |
 | [Gologota](https://open.spotify.com/track/5IAh8o4CPMRq93gCRtjFoI) | [Christine Nkole](https://open.spotify.com/artist/2coJ6dDm1YoltAWYmax9tZ), [Chileshe Bwalya](https://open.spotify.com/artist/3rij1hjdCM40Ct3tqQ393h) | [Gologota](https://open.spotify.com/album/4rQZLqNXid5h3v2ZNzo2Q7) | 7:22 | 2025-05-09 | 2025-06-27 |
 | [Good God](https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4) | [Good God](https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic) | 3:39 | 2024-03-01 | 2024-04-14 |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 | 2025-06-20 |

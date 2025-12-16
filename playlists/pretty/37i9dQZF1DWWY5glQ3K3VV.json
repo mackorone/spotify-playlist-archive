@@ -1,12 +1,12 @@
 {
   "description": "SPINGERE",
-  "num_followers": 112264,
+  "num_followers": 112277,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKfnYqrpFxEcRgDv6raGULsc0Uzc",
+  "snapshot_id": "AAAAACj03FUrX9HsTyGfnIzQkL7glcXN",
   "tracks": [
     {
       "added_at": "2025-12-05 13:54:42",
@@ -743,6 +743,26 @@
     {
       "added_at": "2025-12-05 13:54:42",
       "album": {
+        "name": "LISTA 47",
+        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 183038,
+      "name": "ADVICE",
+      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
+    },
+    {
+      "added_at": "2025-12-05 13:54:42",
+      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 204668,
       "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
       "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
-    },
-    {
-      "added_at": "2025-12-05 13:54:42",
-      "album": {
-        "name": "LISTA 47",
-        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 183038,
-      "name": "ADVICE",
-      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
     },
     {
       "added_at": "2025-12-05 13:54:42",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-12-05 13:54:42",
       "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+    },
+    {
+      "added_at": "2025-12-05 13:54:42",
+      "album": {
         "name": "Trench Code (feat. Faneto)",
         "url": "https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 188842,
       "name": "Trench Code (feat. Faneto)",
       "url": "https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok"
-    },
-    {
-      "added_at": "2025-12-05 13:54:42",
-      "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
       "added_at": "2025-12-05 13:54:42",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-12-05 13:54:42",
       "album": {
-        "name": "Salvatore Vive",
-        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "La Bellavita (feat. Jul)",
-      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
-    },
-    {
-      "added_at": "2025-12-05 13:54:42",
-      "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 119217,
       "name": "BIKINI (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
+    },
+    {
+      "added_at": "2025-12-05 13:54:42",
+      "album": {
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "La Bellavita (feat. Jul)",
+      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
     },
     {
       "added_at": "2025-12-05 13:54:42",
@@ -1515,30 +1515,34 @@
     {
       "added_at": "2025-12-05 13:54:42",
       "album": {
-        "name": "PLC tape 1",
-        "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
+        "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
+        "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
       "artists": [
         {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
         },
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
         },
         {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
         },
         {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
         }
       ],
-      "duration_ms": 178721,
-      "name": "MALA (feat. Lazza, Tony Effe, Juli)",
-      "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
+      "duration_ms": 265637,
+      "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
+      "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
       "added_at": "2025-12-05 13:54:42",
@@ -1579,6 +1583,34 @@
     {
       "added_at": "2025-12-05 13:54:42",
       "album": {
+        "name": "PLC tape 1",
+        "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "MALA (feat. Lazza, Tony Effe, Juli)",
+      "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
+    },
+    {
+      "added_at": "2025-12-05 13:54:42",
+      "album": {
         "name": "Anno Zero",
         "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
       },
@@ -1599,34 +1631,18 @@
     {
       "added_at": "2025-12-05 13:54:42",
       "album": {
-        "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
-        "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
+        "name": "Leanin'",
+        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
       },
       "artists": [
         {
-          "name": "SLF",
-          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
-        },
-        {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
-        },
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Lele Blade",
-          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
-        },
-        {
-          "name": "Vale Lambo",
-          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 265637,
-      "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
-      "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
+      "duration_ms": 146285,
+      "name": "Leanin'",
+      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
     },
     {
       "added_at": "2025-12-05 13:54:42",
@@ -1651,22 +1667,6 @@
       "duration_ms": 188490,
       "name": "C'EST LA VIE",
       "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
-    },
-    {
-      "added_at": "2025-12-05 13:54:42",
-      "album": {
-        "name": "Leanin'",
-        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 146285,
-      "name": "Leanin'",
-      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
     },
     {
       "added_at": "2025-12-05 13:54:42",

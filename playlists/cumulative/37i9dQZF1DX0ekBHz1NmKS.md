@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,074 songs - 4 day 11 hr 33 min
+2,075 songs - 4 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Bra Tillslut](https://open.spotify.com/track/4lif0zD0Xk6peesLpB2cCV) | [Herbert Munkhammar](https://open.spotify.com/artist/0FPUIdSdUKHXXOAqNMJ976) | [Bra Tillslut](https://open.spotify.com/album/79FkSdHsZtMvifeR5XNgvB) | 2:16 | 2021-12-16 | 2021-12-30 |
 | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/track/43XDyDwka658kl7tE31LcB) | [Evert Mob](https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN) | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/album/51PsFFDADd7HpUvffXAKZL) | 3:08 | 2022-03-10 | 2022-05-12 |
 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 | 2022-07-28 | 2023-09-09 |
+| [Break Through The Ceiling](https://open.spotify.com/track/2E3BUkRT95Uy9Saqr7HffY) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Break Through The Ceiling](https://open.spotify.com/album/3v2vCuNGvBwv9iydBwyh5M) | 2:47 | 2025-12-15 |  |
 | [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 | 2024-05-30 | 2024-06-28 |
 | [Breaking Up With A Friend](https://open.spotify.com/track/6Chhg96KqjbU3WU8GDEdsI) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Breaking Up With A Friend](https://open.spotify.com/album/3k8fo6a1vGdL9IVKkkeHRp) | 3:07 | 2022-04-01 | 2022-05-13 |
 | [Breathe Again](https://open.spotify.com/track/4pfcOpCfM8qPm9DNwpkSwl) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Breathe Again](https://open.spotify.com/album/5MdkLIp37fgixyvqXYSAvY) | 2:51 | 2023-12-21 | 2024-01-26 |
@@ -894,7 +895,7 @@
 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 | 2024-04-19 | 2024-05-24 |
 | [IKNOW IKNOW](https://open.spotify.com/track/5w7VnCARb24upPxk3Q9nMW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:53 | 2024-10-24 | 2025-04-18 |
 | [Ikväll gör jag vad som helst...](https://open.spotify.com/track/0DDcohQ8MvYNZ114EYoudo) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Ikväll gör jag vad som helst...](https://open.spotify.com/album/4lyiMRIT2bhctP9hTJ2s3K) | 2:58 | 2024-06-06 | 2024-06-28 |
-| [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 | 2025-12-04 |  |
+| [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 | 2025-12-04 | 2025-12-16 |
 | [Ikväll måste nånting hända](https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Ikväll måste nånting hända](https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI) | 3:39 | 2025-04-03 | 2025-06-06 |
 | [Ikväll tar vi över stan](https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz) | 3:30 | 2024-11-07 | 2025-04-18 |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |

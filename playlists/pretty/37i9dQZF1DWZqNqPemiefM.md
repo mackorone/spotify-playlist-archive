@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: aus
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,899 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,931 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 45 | [Procession](https://open.spotify.com/track/4VvOuaF9jGzbXMgBUKOXJu) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Liminal](https://open.spotify.com/album/3QK5hLGy1mKrKVGVlIDqjS) | 3:20 |
 | 46 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 |
 | 47 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 |
-| 48 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
-| 49 | [Green riot](https://open.spotify.com/track/3c5vxlA25e1magSRBgYsUw) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Green riot](https://open.spotify.com/album/72WcSyxGyq0XFmMZWYSQwV) | 3:00 |
+| 48 | [Green riot](https://open.spotify.com/track/3c5vxlA25e1magSRBgYsUw) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Green riot](https://open.spotify.com/album/72WcSyxGyq0XFmMZWYSQwV) | 3:00 |
+| 49 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
 | 50 | [Melancholia II](https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 6:49 |
 | 51 | [November, 1st in Detroit](https://open.spotify.com/track/3JS3uZ6rk1q2ZrsccN665t) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Soundscapes for the Emotional\-Type Listener](https://open.spotify.com/album/2zye4wf4QiYd2UMYUD7Z6j) | 3:56 |
-| 52 | [Measuring Ruins](https://open.spotify.com/track/00R6Yl5pA6SGyYNtezwlHO) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Measuring Ruins](https://open.spotify.com/album/5lCq8czbxJZtzXlbgoNXW8) | 3:04 |
-| 53 | [Continuum 2](https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:01 |
+| 52 | [Continuum 2](https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 7:01 |
+| 53 | [Measuring Ruins](https://open.spotify.com/track/00R6Yl5pA6SGyYNtezwlHO) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Measuring Ruins](https://open.spotify.com/album/5lCq8czbxJZtzXlbgoNXW8) | 3:04 |
 | 54 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
 | 55 | [Sun Tickles](https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [In Parallel](https://open.spotify.com/album/2jBM6bkH5S0Nbp60LHrOsr) | 4:31 |
 | 56 | [Nord](https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Sin](https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i) | 2:01 |
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 78 | [Closer](https://open.spotify.com/track/2nsPkMV6m9pZCOB49nFMDZ) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences Vol\. II](https://open.spotify.com/album/0y5hRFFLP15WWajyyDy1dy) | 4:20 |
 | 79 | [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 |
 | 80 | [Dusk](https://open.spotify.com/track/5iGXJnmP8rDhcaMa3KnBTB) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dusk](https://open.spotify.com/album/7dCswh217OVGR5M2m52U1m) | 3:20 |
-| 81 | [long time](https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 1:07 |
-| 82 | [Today I Taught Them How To How To Skip Stones Across the Lake](https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [You Always Will Be](https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18) | 3:12 |
-| 83 | [Melting Ice](https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Delay Music](https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn) | 1:52 |
-| 84 | [Sun Room](https://open.spotify.com/track/4ERpkrp26fCCQFMGZg8oCI) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [69](https://open.spotify.com/album/4JxPZ8OU4lt8uwHhFN4hK1) | 4:48 |
-| 85 | [Ocotillo](https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 8:43 |
+| 81 | [Today I Taught Them How To How To Skip Stones Across the Lake](https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [You Always Will Be](https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18) | 3:12 |
+| 82 | [long time](https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 1:07 |
+| 83 | [Sun Room](https://open.spotify.com/track/4ERpkrp26fCCQFMGZg8oCI) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [69](https://open.spotify.com/album/4JxPZ8OU4lt8uwHhFN4hK1) | 4:48 |
+| 84 | [Ocotillo](https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 8:43 |
+| 85 | [Melting Ice](https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Delay Music](https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn) | 1:52 |
 | 86 | [夜の街](https://open.spotify.com/track/6GDHhqXm5rRuHyXc6nRpsi) | [Yoshiaki Dewa](https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY) | [TVアニメ『よふかしのうた』オリジナル・サウンドトラック](https://open.spotify.com/album/0hRquZKDpTRqpi8kjD7lcv) | 3:07 |
 | 87 | [Something Ephemeral](https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Something Ephemeral](https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL) | 2:41 |
 | 88 | [okarun's life](https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 2:56 |

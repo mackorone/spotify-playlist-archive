@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,813 likes - 53 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,804 likes - 53 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [XL\-BYG](https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [XL\-BYG](https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0) | 2:22 |
-| 2 | [Casablanca](https://open.spotify.com/track/6RhsEGklWBop341obhrBge) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Casablanca](https://open.spotify.com/album/0OtdCJ3w2ExSin2HkSKsav) | 2:12 |
-| 3 | [Vespa](https://open.spotify.com/track/1kRfkFEJD6ojL353QVOgYd) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Young & Heartless](https://open.spotify.com/album/0Xwy0b8nbvovrqgDashXXZ) | 2:11 |
-| 4 | [LA DEN LIG](https://open.spotify.com/track/2axfYnvIhxqVVJMbVDoD09) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw) | [LA DEN LIG](https://open.spotify.com/album/5rhGdvD3VmkoHJipw2vN2f) | 2:41 |
-| 5 | [NATTEN BLIVER MORGEN](https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 3:37 |
-| 6 | [KODE](https://open.spotify.com/track/5dSxfRinJsjI2wnNFlNDMa) | [2Tiltango](https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw) | [TANGOHOLICS](https://open.spotify.com/album/3icXdOisWKJwLenvX97Mmr) | 2:16 |
-| 7 | [Woodstock](https://open.spotify.com/track/5H9t67ui38cdTPo5ZURc1w) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Woodstock](https://open.spotify.com/album/7ykBwGuz9mSCR2BNRao9xl) | 2:55 |
-| 8 | [10 Dage](https://open.spotify.com/track/39t0uVgHWyL8SW5At2yiYF) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Calirose](https://open.spotify.com/album/34JHALTKLW2kiyCpJOtOsO) | 3:42 |
-| 9 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 |
+| 1 | [Casablanca](https://open.spotify.com/track/6RhsEGklWBop341obhrBge) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Casablanca](https://open.spotify.com/album/0OtdCJ3w2ExSin2HkSKsav) | 2:12 |
+| 2 | [Vespa](https://open.spotify.com/track/1kRfkFEJD6ojL353QVOgYd) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Young & Heartless](https://open.spotify.com/album/0Xwy0b8nbvovrqgDashXXZ) | 2:11 |
+| 3 | [NATTEN BLIVER MORGEN](https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 3:37 |
+| 4 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 |
+| 5 | [XL\-BYG](https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [XL\-BYG](https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0) | 2:22 |
+| 6 | [Woodstock](https://open.spotify.com/track/5H9t67ui38cdTPo5ZURc1w) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Woodstock](https://open.spotify.com/album/7ykBwGuz9mSCR2BNRao9xl) | 2:55 |
+| 7 | [LA DEN LIG](https://open.spotify.com/track/2axfYnvIhxqVVJMbVDoD09) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw) | [LA DEN LIG](https://open.spotify.com/album/5rhGdvD3VmkoHJipw2vN2f) | 2:41 |
+| 8 | [KODE](https://open.spotify.com/track/5dSxfRinJsjI2wnNFlNDMa) | [2Tiltango](https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw) | [TANGOHOLICS](https://open.spotify.com/album/3icXdOisWKJwLenvX97Mmr) | 2:16 |
+| 9 | [10 Dage](https://open.spotify.com/track/39t0uVgHWyL8SW5At2yiYF) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Calirose](https://open.spotify.com/album/34JHALTKLW2kiyCpJOtOsO) | 3:42 |
 | 10 | [C h v o r v i R i d a g](https://open.spotify.com/track/4Ys990zG55m3szny0pwaZu) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [R d u s t a d i g h e r 4 m i g](https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl) | 2:32 |
 | 11 | [Nazario](https://open.spotify.com/track/1i8wOqiOku6X4QMugTOWXz) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Nazario](https://open.spotify.com/album/5t05shQ43pGuVjcQOEucET) | 2:19 |
 | 12 | [9UP](https://open.spotify.com/track/1MfIbHpoii4rUHNzcqdil3) | [9Boogie](https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu) | [9UP](https://open.spotify.com/album/3SniuwFZUBeIeDsBVLD1DM) | 2:05 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 52 | [Bare Vent \(feat\. Artigeardit\)](https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 2:21 |
 | 53 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 |
 
-Snapshot ID: `AAAAAEwzpVvB0P9msvErxrIluiZ0guS3`
+Snapshot ID: `AAAAADdOC1B8UWUZ599u7KiMDkDzBoaX`

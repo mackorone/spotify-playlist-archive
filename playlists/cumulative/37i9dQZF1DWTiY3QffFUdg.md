@@ -4,10 +4,11 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-318 songs - 16 hr 35 min
+318 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2umda0epmmWxyTddI1o9fv) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [I FOUND](https://open.spotify.com/album/5Pcfj2L9TPGWx2glDLFJ3B) | 0:00 | 2024-07-16 |  |
 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2024-10-04 |  |
 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2024-10-11 |  |
 | [3 DAYS AWAKE](https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [3 DAYS AWAKE](https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at) | 2:23 | 2023-08-11 | 2023-10-05 |
@@ -126,7 +127,6 @@
 | [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-30 | 2024-09-22 |
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-08-11 | 2023-09-28 |
 | [I Feel](https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Feel](https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb) | 2:20 | 2024-07-26 |  |
-| [I FOUND](https://open.spotify.com/track/2umda0epmmWxyTddI1o9fv) | [Tiefundton](https://open.spotify.com/artist/1M8Qepgsc1j5MzQor7uTE6) | [I FOUND](https://open.spotify.com/album/5Pcfj2L9TPGWx2glDLFJ3B) | 6:09 | 2024-07-16 |  |
 | [I Need A Doctor](https://open.spotify.com/track/3rGanGtuzfsLUuDo8Y73XA) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [I Need A Doctor](https://open.spotify.com/album/1JY8jVxE6d7vJTcdPDFU83) | 2:24 | 2025-02-28 | 2025-10-12 |
 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-07 | 2025-04-14 |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-10-20 | 2024-07-15 |

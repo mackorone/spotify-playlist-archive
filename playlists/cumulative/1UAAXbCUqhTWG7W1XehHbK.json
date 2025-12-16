@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 274225,
       "name": "Breathing Underwater Part 1",
       "url": "https://open.spotify.com/track/4wQqFFkqeOcCsEtv2v72a3"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 253085,
       "name": "Kiss Me Before I Die",
       "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
@@ -2309,6 +2309,28 @@
     },
     {
       "album": {
+        "name": "The Path (Edit)",
+        "url": "https://open.spotify.com/album/7oM9zDw2AmvhPQo1E4f0C2"
+      },
+      "artists": [
+        {
+          "name": "Future Sound Of Conco",
+          "url": "https://open.spotify.com/artist/7ChrVv1Z75vnYolLTkEsO3"
+        },
+        {
+          "name": "The Blonde Brothers",
+          "url": "https://open.spotify.com/artist/4dnt4US9X9SRxyah9jC0qN"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472750,
+      "name": "The Path - Edit",
+      "url": "https://open.spotify.com/track/5Cmi7dVOsPFrkgGZJkB1UQ"
+    },
+    {
+      "album": {
         "name": "L'ambigu\u00eft\u00e9",
         "url": "https://open.spotify.com/album/6EgZJxDdJwYfEBdRYA9v2h"
       },
@@ -2526,7 +2548,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 233267,
       "name": "We Want What We Want",
       "url": "https://open.spotify.com/track/2WPGynQzoC5TMdBG89FzlS"

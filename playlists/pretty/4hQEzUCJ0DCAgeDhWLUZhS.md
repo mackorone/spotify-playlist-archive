@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,525 likes - 94 songs - 5 hr 21 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,525 likes - 95 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 92 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 |
 | 93 | [The Wreckage](https://open.spotify.com/track/4UG5A6MoilYGC9Ii1s3LnL) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Wreckage](https://open.spotify.com/album/3mdtLYpOLXesjwFVxvjVAZ) | 4:28 |
 | 94 | [New Wave](https://open.spotify.com/track/1NB1NajzztHLM3s1b6xNxb) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [New Wave](https://open.spotify.com/album/1sLMeUdZZFw0Jtn9haCuIl) | 4:04 |
+| 95 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 |
 
-Snapshot ID: `AAAHrLUi4oqqAQuJPkmPERVjvAZpL1DG`
+Snapshot ID: `AAAHrU0YaA4CCAxDHA940opGLkoYcu+Q`

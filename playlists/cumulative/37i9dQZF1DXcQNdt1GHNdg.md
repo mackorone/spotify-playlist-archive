@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-305 songs - 14 hr 37 min
+306 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,8 +138,9 @@
 | [Hammer](https://open.spotify.com/track/0AcTZKntdm80BEDqGTg5ZJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/73KLRC3DRuQLl3WMxgdVVm) | 2:42 | 2025-11-14 |  |
 | [Hammer](https://open.spotify.com/track/4v5S808Mifk7EP1eFHo0Ht) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/3JKdXVxsmARqASCf84rzsa) | 2:42 | 2025-09-15 | 2025-09-27 |
 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 | 2023-07-18 | 2024-09-07 |
-| [Head High](https://open.spotify.com/track/4mMIWLLaCboR6Ua952T82Y) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [LEGENDS](https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng) | 3:06 | 2025-11-19 |  |
+| [Head High](https://open.spotify.com/track/4mMIWLLaCboR6Ua952T82Y) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [LEGENDS](https://open.spotify.com/album/2fC4CqKEzXGyaYCTI4A8Ng) | 3:06 | 2025-11-19 | 2025-12-16 |
 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-02-12 | 2025-04-17 |
+| [Hollow Point](https://open.spotify.com/track/4P2Yc0lk4YnOmnppqI1V2i) | [Azaad](https://open.spotify.com/artist/5Tz0mXyP1G7npqZ23vSzbr) | [Hollow Point](https://open.spotify.com/album/3hkKFunGFEpm5czOdnZpLr) | 2:49 | 2025-12-15 |  |
 | [Holster](https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:07 | 2025-02-06 | 2025-07-12 |
 | [HOMONYM](https://open.spotify.com/track/1jN6WPnJmcfuwP3MuST5v9) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [HOMONYM](https://open.spotify.com/album/6bVN0VRIntuVOmNsSg4abG) | 2:26 | 2025-03-13 | 2025-03-22 |
 | [HOOD\-CH](https://open.spotify.com/track/2UV4cpfmL3UFJVdXgdvnEa) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HOOD\-CH](https://open.spotify.com/album/1y2eWdEBXMqCwK6y0MNWr5) | 2:52 | 2025-09-12 | 2025-10-07 |

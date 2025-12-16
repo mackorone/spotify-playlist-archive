@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44747,
+  "num_followers": 44750,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAACWtUXHJlJj2cSS35riB+cI",
+  "snapshot_id": "aT3+AAAAAACcI0EYKzmRQ6NxBO2G6yXF",
   "tracks": [
     {
       "added_at": null,
@@ -355,30 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OE OE (Deorro Remix)",
-        "url": "https://open.spotify.com/album/6gsQLvZyNE3Kx9MQIuFpEc"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Louis BPM",
-          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "OE OE - Deorro Remix",
-      "url": "https://open.spotify.com/track/2ps5eo4OC4U6oyxAWVZ6Cs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -395,22 +371,6 @@
       "duration_ms": 185076,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168753,
-      "name": "Yee",
-      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
     },
     {
       "added_at": null,
@@ -435,6 +395,46 @@
       "duration_ms": 165000,
       "name": "Bring It Back (feat. Max Styler)",
       "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OE OE (Deorro Remix)",
+        "url": "https://open.spotify.com/album/6gsQLvZyNE3Kx9MQIuFpEc"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Louis BPM",
+          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "OE OE - Deorro Remix",
+      "url": "https://open.spotify.com/track/2ps5eo4OC4U6oyxAWVZ6Cs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168753,
+      "name": "Yee",
+      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
     },
     {
       "added_at": null,
@@ -587,22 +587,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
+        "name": "Tranki",
+        "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
       },
       "artists": [
         {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        },
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
         }
       ],
-      "duration_ms": 154761,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
+      "duration_ms": 256000,
+      "name": "Tranki",
+      "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
     },
     {
       "added_at": null,
@@ -627,26 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tranki",
-        "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
       },
       "artists": [
         {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alexia Mariel",
-          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
-        },
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Tranki",
-      "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
+      "duration_ms": 154761,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
     },
     {
       "added_at": null,
@@ -771,30 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDERDOGS",
-        "url": "https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH"
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
       },
       "artists": [
         {
-          "name": "IAmChino",
-          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 209329,
-      "name": "Pasame La Botella",
-      "url": "https://open.spotify.com/track/0qnvOarNrLfi9hxovKYkkd"
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": null,
@@ -819,22 +811,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+        "name": "UNDERDOGS",
+        "url": "https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH"
       },
       "artists": [
         {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+      "duration_ms": 209329,
+      "name": "Pasame La Botella",
+      "url": "https://open.spotify.com/track/0qnvOarNrLfi9hxovKYkkd"
     },
     {
       "added_at": null,

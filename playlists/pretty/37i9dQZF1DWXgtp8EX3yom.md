@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Największe polskie przeboje w 2025 według naszej redakcji\. Cover: Kuban, Zalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,668 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,688 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

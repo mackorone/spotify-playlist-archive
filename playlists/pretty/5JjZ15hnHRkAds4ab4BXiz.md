@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 549 songs - 1 day 10 hr 49 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 569 songs - 1 day 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -557,5 +557,25 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 547 | [Ask \- 2011 Remaster](https://open.spotify.com/track/2AdRSHeYmDGMrgIfiS2w7K) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:18 |
 | 548 | [Golden Lights \- 2011 Remaster](https://open.spotify.com/track/4i95WTacwOWK6ave3Y3I0u) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:41 |
 | 549 | [Oscillate Wildly \- 2011 Remaster](https://open.spotify.com/track/5v98XLkj6tkKy0D06umqDe) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:28 |
+| 550 | [Stretch out and Wait \- 2011 Remaster](https://open.spotify.com/track/0Hpm3tUmlaQs2l517D5GAh) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:39 |
+| 551 | [I Started Something I Couldn't Finish \- 2011 Remaster](https://open.spotify.com/track/3PVVqlxFpXmU46iqAVG4Jg) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 3:47 |
+| 552 | [Death of a Disco Dancer \- 2011 Remaster](https://open.spotify.com/track/1Nov3Bi6sKCDnnuhjPJTCY) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 5:26 |
+| 553 | [Death at One's Elbow \- 2011 Remaster](https://open.spotify.com/track/6p3bhE5jahFtOk9QVNFnNY) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:00 |
+| 554 | [Jeane \- 2008 Remaster](https://open.spotify.com/track/6NUGyLMq1Aa37f6m5jZuJS) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Sound of the Smiths \(Deluxe; 2008 Remaster\)](https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55) | 3:04 |
+| 555 | [Wonderful Woman \- 2008 Remaster](https://open.spotify.com/track/1bNuTve1e53C7OWoX7Kkj3) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Sound of the Smiths \(Deluxe; 2008 Remaster\)](https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55) | 3:10 |
+| 556 | [Miserable Lie \- 2011 Remaster](https://open.spotify.com/track/7GXstAUWUSm9xrNJbwwYRY) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Complete](https://open.spotify.com/album/30g571JKoxs8AnsgAViV2J) | 4:27 |
+| 557 | [The Draize Train \- 2008 Remaster](https://open.spotify.com/track/25M435iPTrMZLjq7JiKIuV) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Complete](https://open.spotify.com/album/30g571JKoxs8AnsgAViV2J) | 5:09 |
+| 558 | [Work Is a Four\-Letter Word \- 2011 Remaster](https://open.spotify.com/track/6YRTMftgaRzwpnq3VHDtET) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Complete](https://open.spotify.com/album/30g571JKoxs8AnsgAViV2J) | 2:46 |
+| 559 | [I Keep Mine Hidden](https://open.spotify.com/track/5dqmEge2z0iIOtgGkuVPKy) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Complete](https://open.spotify.com/album/30g571JKoxs8AnsgAViV2J) | 1:59 |
+| 560 | [So He Begins to Lie](https://open.spotify.com/track/2AJVVg68zFCgY3xC7NeVBY) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 3:34 |
+| 561 | [3 X 3](https://open.spotify.com/track/0KG1naiZG23PdrkpwhcTDU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 2:38 |
+| 562 | [Octopus](https://open.spotify.com/track/5klrlBziq4NDf9X3hxXPvt) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 3:05 |
+| 563 | [Real Talk](https://open.spotify.com/track/2QknWSZNH6qO603rhSDILw) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:13 |
+| 564 | [Kettling](https://open.spotify.com/track/1Rrhq10IfHh8Cz5kFv4H1x) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 3:41 |
+| 565 | [Day Four](https://open.spotify.com/track/7sOFTX6rXDhgEaeu13ogHP) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:11 |
+| 566 | [Coliseum](https://open.spotify.com/track/66JmAzmDo1zAJ4PNbyJuam) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 2:29 |
+| 567 | [V.A.L.I.S.](https://open.spotify.com/track/11oUMXbkJZAfidj6tinjKS) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 3:20 |
+| 568 | [Team A](https://open.spotify.com/track/7feZIKKpQ8egcciU61ITzs) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:36 |
+| 569 | [Truth](https://open.spotify.com/track/2LeKS9zLNBY2GwUCC4BSZJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:00 |
 
-Snapshot ID: `AAAVzY5Rj8Bzz/TnRwPLCsx5vdvqXncz`
+Snapshot ID: `AAAV4RzdfAUWrk6cx3KYoZJxBkGZvcBA`

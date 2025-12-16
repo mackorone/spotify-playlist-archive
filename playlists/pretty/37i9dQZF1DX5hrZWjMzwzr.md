@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,661 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,659 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 7 | [RAP](https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND](https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP) | 2:36 |
 | 8 | [ILE LAT?](https://open.spotify.com/track/4Yecd3jr0qmuxXpPHPSZPg) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [ERA47](https://open.spotify.com/album/5xZ5zOSrtC9rdbZjtNesJu) | 2:30 |
 | 9 | [DAM CI PORADY](https://open.spotify.com/track/4Sjv6Bty0JoFgCP63fyiAM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [DAM CI PORADY](https://open.spotify.com/album/3IPHo1XY2cDWezSHGl1P5W) | 3:29 |
-| 10 | [MAMA POWTARZAŁA](https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [W ZWIĄZKU Z MUZYKĄ](https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy) | 3:22 |
-| 11 | [Młody Manson](https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Lucassi](https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK) | [Młody Manson](https://open.spotify.com/album/1PmtNIQOURJS6g5IVgOQwl) | 2:54 |
+| 10 | [Młody Manson](https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Lucassi](https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK) | [Młody Manson](https://open.spotify.com/album/1PmtNIQOURJS6g5IVgOQwl) | 2:54 |
+| 11 | [MAMA POWTARZAŁA](https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [W ZWIĄZKU Z MUZYKĄ](https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy) | 3:22 |
 | 12 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
 | 13 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
 | 14 | [Prawie straciłem głos](https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Prawie straciłem głos](https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr) | 2:24 |

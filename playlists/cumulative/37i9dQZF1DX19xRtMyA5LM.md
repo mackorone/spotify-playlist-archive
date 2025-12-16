@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Josylvio
 
-251 songs - 11 hr 20 min
+252 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [EY BRO](https://open.spotify.com/track/1Y6owzjfqe2lIB5oFrvIBv) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [CHOSSELLONIË 3](https://open.spotify.com/album/03LTtkdezojLVi0eg59pNR) | 2:44 | 2025-10-09 | 2025-10-22 |
 | [Fake Of Echt](https://open.spotify.com/track/2PSlfgjJOZElbyPW2Bnuvd) | [Pierrii](https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU) | [Fake Of Echt](https://open.spotify.com/album/1SMvd1e9BeolbpewVdsrce) | 2:05 | 2025-07-17 | 2025-08-05 |
 | [feelings](https://open.spotify.com/track/0aP0RXFPYNhCmHDLqSliG4) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [TADS](https://open.spotify.com/artist/4PiXfQoM68C9kWwaJNMbQ7), [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [feelings](https://open.spotify.com/album/7dSubBkrzYpTIhNyNnnD3e) | 3:26 | 2025-07-24 | 2025-08-15 |
+| [Ff Serieus](https://open.spotify.com/track/7EQWtaBeTMsqe73xUUiVZ2) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Zó Dan \(Deluxe\)](https://open.spotify.com/album/2ZeN7aPktFllZL3jkh9HRg) | 2:53 | 2025-12-15 |  |
 | [Fine Sh\*t](https://open.spotify.com/track/4qqrA3hWrSdeHcxoPkF2bM) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Fine Sh\*t](https://open.spotify.com/album/5WMy7wGdcs1fAFshjJg5MJ) | 2:13 | 2025-09-04 | 2025-11-29 |
 | [Flik Flak](https://open.spotify.com/track/3LwbxHCh5XBKxsD9lx4CSe) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Flik Flak](https://open.spotify.com/album/6WkEgMEOJC9Ag2gBLy1lkF) | 3:27 | 2025-07-17 | 2025-09-12 |
 | [Four Seasons](https://open.spotify.com/track/4rE4wH0M37WexhVZN4XDgi) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4), [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Four Seasons](https://open.spotify.com/album/4eb3wiO7BjkMwkZQec4rga) | 2:55 | 2025-11-13 |  |
@@ -156,7 +157,7 @@
 | [Netvlies](https://open.spotify.com/track/6yaxq1G2zh6WAKofZVZSjC) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU) | [Netvlies](https://open.spotify.com/album/1N08jfMlRLXRijddi54kkQ) | 2:20 | 2025-08-14 | 2025-12-12 |
 | [Niet Genoeg](https://open.spotify.com/track/3nDTgr6tA6RGTqfsKMMrrM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Niet Genoeg](https://open.spotify.com/album/1ZEzfbl3tUydOdnNdcPFdv) | 3:05 | 2025-07-17 | 2025-09-05 |
 | [NIEUWE BOETE](https://open.spotify.com/track/62VWxxGcdh4TDRfqyAJ8jU) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [DAYDA](https://open.spotify.com/album/6w620VqNHfmyS3t8qENq1A) | 2:49 | 2025-11-13 |  |
-| [Nieuwe Fan](https://open.spotify.com/track/5P2XOpnx1pC0HMb7RySrZZ) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [Nieuwe Fan](https://open.spotify.com/album/05GCoudmkKZQviF4rpN3eu) | 2:30 | 2025-11-06 |  |
+| [Nieuwe Fan](https://open.spotify.com/track/5P2XOpnx1pC0HMb7RySrZZ) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [Nieuwe Fan](https://open.spotify.com/album/05GCoudmkKZQviF4rpN3eu) | 2:30 | 2025-11-06 | 2025-12-16 |
 | [Night Time](https://open.spotify.com/track/3vBsGaCsCF0QfhsGZ3Qufs) | [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Night Time](https://open.spotify.com/album/0m8UQeG1Py8xN0kdRfn9tk) | 2:32 | 2025-10-23 | 2025-11-28 |
 | [NO WARNING](https://open.spotify.com/track/3GIHaBBQj5TjxGdsyxYUHo) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [GIOVANNI I](https://open.spotify.com/album/0g71fSW5nHFxPwHuKpcKbv) | 3:15 | 2025-07-17 | 2025-08-15 |
 | [noord](https://open.spotify.com/track/7KqFp0nwYNVgMF8Co3ELGg) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [noord](https://open.spotify.com/album/1hur4aUfZ3azbyF5OVczdk) | 1:57 | 2025-08-14 | 2025-09-05 |

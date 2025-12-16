@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2025 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-197 songs - 10 hr 25 min
+198 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2024-07-26 |  |
 | [Snowman](https://open.spotify.com/track/1E7hmvzwFcW9KVIFYwXwOI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:45 | 2023-12-09 | 2025-07-02 |
 | [Someday at Christmas](https://open.spotify.com/track/06x8nkpEpJjV08EQj43v2d) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Someday at Christmas](https://open.spotify.com/album/5kZrwHikVD399t9tma5Xza) | 2:57 | 2023-12-09 | 2025-07-02 |
-| [Someday At Christmas](https://open.spotify.com/track/0OdTRhhGt8aq4UXh67CKQg) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Someday At Christmas \(Expanded Edition\)](https://open.spotify.com/album/5u5N49bmeRViCYzcDq3fsA) | 2:48 | 2025-07-01 |  |
+| [Someday At Christmas](https://open.spotify.com/track/0OdTRhhGt8aq4UXh67CKQg) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Someday At Christmas \(Expanded Edition\)](https://open.spotify.com/album/5u5N49bmeRViCYzcDq3fsA) | 2:48 | 2025-07-01 | 2025-12-16 |
 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 | 2023-12-09 |  |
 | [Step into Christmas](https://open.spotify.com/track/2xY094hXsCMKC7tqUsTFzW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [X\-mas](https://open.spotify.com/album/28NRSDWFek3KRsEMb7AyAq) | 4:29 | 2023-12-09 | 2025-07-02 |
 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2025-07-01 |  |
@@ -173,6 +173,7 @@
 | [The Christmas Stick](https://open.spotify.com/track/7roxhEz0gRoyWzvZdgKSeY) | [Bubble & Squeak](https://open.spotify.com/artist/3EiL2CvPuHzkj2AZgDh1zX) | [The Christmas Stick](https://open.spotify.com/album/2lhrxeEOVmfOzhIFiLMTkE) | 3:38 | 2023-12-24 | 2025-07-02 |
 | [The Christmas Sweater](https://open.spotify.com/track/4neC8JZBnxcwVXb9hrKe3I) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:43 | 2023-12-09 | 2025-07-02 |
 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 | 2024-12-10 | 2025-07-02 |
+| [The First Noël \(with Faith Hill\)](https://open.spotify.com/track/1sEC3X76vXgpsgnfaXEMwR) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Noël](https://open.spotify.com/album/4kqXw1yf9EKamws0zCarGt) | 4:33 | 2025-12-15 |  |
 | [The Little Drummer Boy \- Remastered 2006](https://open.spotify.com/track/0pAT3JUEjIiqUkwxE0vbBQ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 3:00 | 2025-07-01 |  |
 | [The Power of Love](https://open.spotify.com/track/0sE9ZTxMxYneIUAEHN4Tg7) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 4:05 | 2025-12-03 |  |
 | [The Power of Love](https://open.spotify.com/track/7FTyjQwlWyg0AeghomXjVY) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:05 | 2023-12-09 | 2024-11-05 |

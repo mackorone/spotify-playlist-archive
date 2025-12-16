@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-5,617 songs - 12 day 8 hr 31 min
+5,618 songs - 12 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2372,6 +2372,7 @@
 | [I Want You](https://open.spotify.com/track/0Xk5Tc61jtbwYhEn8tfYXj) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [I Want You](https://open.spotify.com/album/7m8BVFA0i1OU39aSQ3oxbB) | 3:11 | 2022-05-20 | 2022-06-18 |
 | [I Want You](https://open.spotify.com/track/0HGROoRquoikNitaVORKfC) | [The Hunter Express](https://open.spotify.com/artist/0h67f52cfOF3hB5S3pK6fk) | [I Want You](https://open.spotify.com/album/0fgSY7dHA7mhLeE6XmcuX3) | 3:01 | 2021-07-10 | 2021-07-31 |
 | [I Want You](https://open.spotify.com/track/2dGj4HexLQQAzbWJJOjwEN) | [Zane Rosé](https://open.spotify.com/artist/5i4ZSzBW2SzQhcOFbKO3In) | [I Want You](https://open.spotify.com/album/55WQY9pFb8HUkWAntuamgm) | 1:57 | 2024-02-16 | 2024-03-02 |
+| [I Wanted This](https://open.spotify.com/track/4yZj4GvHjxCL6SOOcEvZMj) | [Narcova](https://open.spotify.com/artist/3D7Sl208Vi3twiM76JnB9j) | [I Wanted This](https://open.spotify.com/album/2DhKj2yjP8PlQyFLWdA40C) | 3:46 | 2025-12-15 |  |
 | [I Will Luv U](https://open.spotify.com/track/57XnWlHJXzGkJ3k8wAvQF4) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [I Will Luv U](https://open.spotify.com/album/36hxAyvAUKbB3duSUC6Wxw) | 3:04 | 2025-06-27 | 2025-08-09 |
 | [i wish](https://open.spotify.com/track/6I6CG7eOXKVwivlid2akW7) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [i wish](https://open.spotify.com/album/1kAnyFHHJkAxe7dQmY0rNK) | 3:04 | 2023-05-19 | 2023-06-10 |
 | [I wish I could](https://open.spotify.com/track/280k6BZx1nJGhkUmWP6c2R) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [I wish I could](https://open.spotify.com/album/7xHmtO7YlCUhDvZ2QTW7X9) | 3:20 | 2025-09-26 | 2025-11-01 |

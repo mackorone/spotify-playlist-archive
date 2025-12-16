@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2486300,
+  "num_followers": 2486327,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Pasilyo",
-        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
+        "name": "Grandma",
+        "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
       },
       "artists": [
         {
-          "name": "SunKissed Lola",
-          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
+          "name": "Unique Salonga",
+          "url": "https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM"
         }
       ],
-      "duration_ms": 270250,
-      "name": "Pasilyo",
-      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
+      "duration_ms": 280426,
+      "name": "Sino",
+      "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -179,18 +179,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Grandma",
-        "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
+        "name": "Pasilyo",
+        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
       },
       "artists": [
         {
-          "name": "Unique Salonga",
-          "url": "https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM"
+          "name": "SunKissed Lola",
+          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
         }
       ],
-      "duration_ms": 280426,
-      "name": "Sino",
-      "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
+      "duration_ms": 270250,
+      "name": "Pasilyo",
+      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 201806,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
         "name": "Sa Susunod na Habang Buhay",
         "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Huwag Na Huwag Mong Sasabihin",
-      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -499,34 +499,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
       "artists": [
         {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
         }
       ],
-      "duration_ms": 201806,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
-        "name": "Hirap Kalimutan",
-        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Hirap Kalimutan",
-      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -547,6 +531,22 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
+        "name": "Hirap Kalimutan",
+        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Hirap Kalimutan",
+      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever",
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
-        "name": "Leonora",
-        "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
-      },
-      "artists": [
-        {
-          "name": "Sugarcane",
-          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
-        }
-      ],
-      "duration_ms": 234052,
-      "name": "Leonora",
-      "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -595,18 +579,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Sagip",
-        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+        "name": "Leonora",
+        "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
       },
       "artists": [
         {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Sagip",
-      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
+      "duration_ms": 234052,
+      "name": "Leonora",
+      "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -647,6 +631,22 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
+        "name": "Sagip",
+        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Sagip",
+      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
         "name": "Senaryo",
         "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
         "name": "Love And Soul",
         "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 236705,
       "name": "Magkabilang Mundo",
       "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+        "name": "Nahanap Kita",
+        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
       "artists": [
         {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
         }
       ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+      "duration_ms": 317693,
+      "name": "Nahanap Kita",
+      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Nahanap Kita",
-        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
       },
       "artists": [
         {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
         }
       ],
-      "duration_ms": 317693,
-      "name": "Nahanap Kita",
-      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
     },
     {
       "added_at": "2025-12-03 02:52:25",

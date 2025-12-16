@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: CURS
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,570 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,568 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [พอ ?](https://open.spotify.com/track/3zhfuDGfJUMZuTMBb7HlJV) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [พอ ?](https://open.spotify.com/album/35J14FwPhKm9ZPyjZyWNsg) | 4:01 |
 | 50 | [ใครกันที่เสียใจ](https://open.spotify.com/track/0coIZ28dh9M4rzudilx6Uq) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [ใครกันที่เสียใจ](https://open.spotify.com/album/6maqJVtTw6gzh8Vp38sSj5) | 4:48 |
 
-Snapshot ID: `AAAAAD49Ebeb7DMntsgGBRa/8NS36RpZ`
+Snapshot ID: `AAAAAM97CtITA0KFOo8cCVmTaEPfWFFO`

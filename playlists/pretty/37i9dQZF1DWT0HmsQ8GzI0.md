@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. A Carson Comával közösen összeállított lejátszási lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,059 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,075 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 43 | [BOCS](https://open.spotify.com/track/2FQJjGenDT2XajHMOHvFCs) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [SEMMI](https://open.spotify.com/album/1Rchnvg8ARhvC8IX4Rq0Dn) | 4:19 |
 | 44 | [MOËT](https://open.spotify.com/track/3kXWlf3stIllRX3QZfqKqU) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [Szazharom](https://open.spotify.com/artist/5UODIp6QwR2G3rW418dSZk), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [MOËT](https://open.spotify.com/album/1FzkwYit74bPdGuHVO0I7E) | 3:46 |
 | 45 | [Lobog](https://open.spotify.com/track/4uYodtawzMLvVcRSuIDbu0) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [TEMBO](https://open.spotify.com/artist/212auEZYtBvvJV6uohe2xD) | [Lobog](https://open.spotify.com/album/1eVdNYdWMyuBeksfdJa4V4) | 2:31 |
-| 46 | [Minden mozog](https://open.spotify.com/track/6W9fv7TBvValaakqwvRHCP) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Most](https://open.spotify.com/album/6396B6J5ZtLprsPfHz59gs) | 4:12 |
-| 47 | [Sivatag](https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [Sivatag](https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu) | 2:32 |
+| 46 | [Sivatag](https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [Sivatag](https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu) | 2:32 |
+| 47 | [Minden mozog](https://open.spotify.com/track/6W9fv7TBvValaakqwvRHCP) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Most](https://open.spotify.com/album/6396B6J5ZtLprsPfHz59gs) | 4:12 |
 | 48 | [Cricket](https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr) | [Lil Frakk](https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev), [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET), [SOMODY](https://open.spotify.com/artist/0fPUO5A7hBvmZMQG7RNKCB) | [Harmadnap](https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy) | 2:36 |
 | 49 | [AMORE \(de nem veled\)](https://open.spotify.com/track/0C06vewM8LGiOcOsVvOkdf) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [AMORE \(de nem veled\)](https://open.spotify.com/album/6Col5y7vKRtqIkmS3e8P3i) | 3:14 |
 | 50 | [Rajtad](https://open.spotify.com/track/4H1g77oFJOssK6sc7jMQl4) | [Analog Balaton](https://open.spotify.com/artist/0IUu1vSCfCZJrLHUOgHNWJ) | [Repedés](https://open.spotify.com/album/4WHc3gnK10jBszh0iAInJk) | 4:29 |
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 55 | [Dorodango](https://open.spotify.com/track/4QPn4xdd16uPtoKZoH7Tgi) | [Ivan & The Parazol](https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8), [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO) | [Dorodango](https://open.spotify.com/album/3SndELrZ85zlgPOJ0E69b0) | 2:58 |
 | 56 | [Télbe át](https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [Télbe át](https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ) | 2:41 |
 | 57 | [Elszállnék](https://open.spotify.com/track/6AeHaBOwRw4IbdV8Rxc4iq) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [Elszállnék](https://open.spotify.com/album/4k5jW5VJ4LyfFjo4QWYagM) | 2:36 |
-| 58 | [SÖRSEGGŰ LÁNY](https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 3:26 |
-| 59 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 |
+| 58 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 |
+| 59 | [SÖRSEGGŰ LÁNY](https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 3:26 |
 | 60 | [Én vagyok az aki nem jó](https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [TRANSFORMANIA](https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO) | 3:51 |
-| 61 | [Szegénykém](https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Szegénykém](https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ) | 4:42 |
-| 62 | [Blicc](https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9) | [Blicc](https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS) | 3:48 |
+| 61 | [Blicc](https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9) | [Blicc](https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS) | 3:48 |
+| 62 | [Szegénykém](https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Szegénykém](https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ) | 4:42 |
 | 63 | [Jerikó](https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw), [OB](https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt) | [Jerikó](https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7) | 2:42 |
 | 64 | [Sehovavaló](https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT) | [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm), [Lábas Viki](https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL) | [Sehovavaló](https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4) | 2:54 |
 | 65 | [Az a szerelem](https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Az a szerelem](https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh) | 4:53 |

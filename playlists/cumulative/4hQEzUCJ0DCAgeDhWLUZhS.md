@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-543 songs - 1 day 7 hr 45 min
+544 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Genesis](https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 5:17 | 2020-10-15 | 2022-03-18 |
 | [Get A Job \- Radio Edit](https://open.spotify.com/track/2iOMWossZttPvaGNzbEKCh) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job \(Radio Edit\)](https://open.spotify.com/album/6t7SSMbSWvQxLpt3EUK2lr) | 3:08 | 2022-08-28 | 2025-06-04 |
 | [Getaway Green](https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Getaway Green/Sleeping In/Some Kind Of Disaster](https://open.spotify.com/album/6g706eoQwOTiadVEkt2FKQ) | 2:47 | 2020-10-10\* | 2021-05-13 |
+| [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 | 2025-12-15 |  |
 | [GIVE IT ALL UP \(feat\. Tove Lo\)](https://open.spotify.com/track/43DFMjVuW7gYyh5Cpz94Js) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [FUTURE PAST](https://open.spotify.com/album/7GyGHJ1jv0v2Sa0pcgs4fD) | 5:07 | 2021-10-22 | 2025-05-28 |
 | [Glasgow](https://open.spotify.com/track/6nCFIb0seIECUijbDpYNDu) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L\. \(Deluxe\)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 4:26 | 2021-04-06 | 2022-03-18 |
 | [Glory](https://open.spotify.com/track/5DZOuRYDbWohcEyMg8m6s1) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [Glory](https://open.spotify.com/album/1fmtMGH1e4LScVTDzTwNij) | 4:26 | 2021-09-24 | 2025-05-28 |

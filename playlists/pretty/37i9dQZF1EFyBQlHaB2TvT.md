@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyBQlHaB2TvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68LkD9fctywmdQCAfFQ8X2">Johnny Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 23 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 23 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyBQlHaB2TvT.md) - [plain]
 | 22 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
 | 23 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 
-Snapshot ID: `AcEO/AAAAACErbhRHOUgxOC8ZOqyQJM1`
+Snapshot ID: `AcEUnAAAAABbeWKazwCYdVA9y4Rsd2gW`

@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-854 songs - 1 day 13 hr 4 min
+856 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-04-21 | 2024-04-04 |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-04-21 | 2025-05-31 |
 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-19 | 2025-01-08 |
+| [Echoes after Rain](https://open.spotify.com/track/6btTzFwJ0ghsQO0MWNqObs) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Echoes after Rain](https://open.spotify.com/album/2Ub8AZp4iWRGFdNxWpjRe9) | 2:31 | 2025-12-15 |  |
 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 | 2025-03-05 |  |
 | [Eclipse](https://open.spotify.com/track/0T8qo3Tr3rgGhYky5t2L5U) | [Arex Coda](https://open.spotify.com/artist/1Tu7K63su6HKvopaN2DBpB) | [Eclipse](https://open.spotify.com/album/5OO0jNyNBiKY4C4F0ftxpQ) | 4:38 | 2022-04-21 | 2022-07-21 |
 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-12 |  |
@@ -192,7 +193,7 @@
 | [Endless skies](https://open.spotify.com/track/0R6HqMleKWUdqPZ6l2PcHK) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Endless skies](https://open.spotify.com/album/5H8Ln206SyXdF9hCgo9ao5) | 3:38 | 2022-04-21 | 2024-10-16 |
 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 | 2022-04-21 | 2024-10-02 |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-21 | 2023-01-21 |
-| [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
+| [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 | 2025-12-16 |
 | [Escarpment](https://open.spotify.com/track/1gTNaE1tP37v2xHlF4Wh0m) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Escarpment](https://open.spotify.com/album/3Qo5VRZ41gmVZMDsgSipyQ) | 2:16 | 2025-02-26 |  |
 | [Eskilso](https://open.spotify.com/track/5Wn4IspBj6auYHTwsEKanx) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Eskilso](https://open.spotify.com/album/69qs0SeMBSp8Gx7G9IyYsq) | 2:15 | 2022-04-21 | 2022-09-24 |
 | [Essence of Light](https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Essence of Light](https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR) | 3:25 | 2023-02-27 | 2025-01-08 |
@@ -735,7 +736,7 @@
 | [the girl in white](https://open.spotify.com/track/013G9Rc4F99RaHINNGWy9f) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [the girl in white](https://open.spotify.com/album/6xutuCujhp11K26MQUT3qc) | 2:37 | 2025-09-16 |  |
 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 | 2022-07-20 | 2023-01-21 |
 | [The Light Of That Morning](https://open.spotify.com/track/3hA4o2GOVotNTAzZEY7kBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Light Of That Morning](https://open.spotify.com/album/6uAyUcY2newV2vsoPiBLdV) | 2:34 | 2023-05-03 | 2024-06-01 |
-| [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-05 |  |
+| [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-05 | 2025-12-16 |
 | [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 | 2024-11-05 | 2025-09-17 |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2022-04-21 | 2023-02-01 |
 | [The Muse](https://open.spotify.com/track/7xXpADcOn56aC1Jls0ZmDx) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [The Muse](https://open.spotify.com/album/0tqEsnJ7kf9rneH6NmvFus) | 2:25 | 2025-08-19 |  |
@@ -759,6 +760,7 @@
 | [Timeless](https://open.spotify.com/track/2iKJY18ZbvwC6rGIGh1pIE) | [Allister Romans](https://open.spotify.com/artist/2iXh00erHUEAsyIw0s2UGh) | [Timeless](https://open.spotify.com/album/465XayPaIKMC649uN3VNIE) | 2:26 | 2022-04-21 | 2022-10-25 |
 | [Timeless](https://open.spotify.com/track/4A6N096dpRTRlAGSkxsVrh) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Timeless](https://open.spotify.com/album/5LSs52IqwKW1p2HTqSU7zX) | 2:22 | 2022-07-20 | 2022-08-10 |
 | [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2022-04-21 | 2022-08-10 |
+| [To Be](https://open.spotify.com/track/0fdxDUhqECk0qLAtWju4yI) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [To Be](https://open.spotify.com/album/0rYD9GsqxmhHgBsbAQ09IC) | 2:03 | 2025-12-15 |  |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-21 | 2024-10-23 |
 | [Tokyo](https://open.spotify.com/track/44pzUcTMHrjZnBQTqgjWf0) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Tokyo](https://open.spotify.com/album/3ywyIfP5x1jjosZDJpxzjT) | 2:19 | 2023-09-11 |  |
 | [Tormenta De Otoño](https://open.spotify.com/track/5WVCbYEPtvdQvf3orHgExh) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Tormenta De Otoño](https://open.spotify.com/album/3xuwYWmDPEPB7bEnUSxZAq) | 2:16 | 2023-11-13 | 2024-02-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,821 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,830 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

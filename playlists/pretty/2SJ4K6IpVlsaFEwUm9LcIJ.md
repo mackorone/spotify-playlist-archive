@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,685 likes - 37 songs - 2 hr 22 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,684 likes - 36 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
 | 32 | [We're Thinking the Same Thing](https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 2:47 |
 | 33 | [Nina + Field of Cops](https://open.spotify.com/track/78ugJH8q6W3kiGLwM2K7Lg) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 5:52 |
-| 34 | [Kagefumi](https://open.spotify.com/track/4VgGQi9FZMrNG4MuiONldI) | [百景](https://open.spotify.com/artist/6Xktu0x9IXB4ghFSPw6Jqv) | [Standing Still In A Moving Scene](https://open.spotify.com/album/5FFviHXLHrtM8bPkklaXrD) | 4:54 |
-| 35 | [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 |
-| 36 | [Change](https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:14 |
-| 37 | [I Have The Touch](https://open.spotify.com/track/7gl4P3X846By90qi9uolSM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 4: Security \(Remastered Version\)](https://open.spotify.com/album/0O3lEaGkc2Q8TkxCShZyfa) | 4:35 |
+| 34 | [Ghost Rider \(2019 \- Remaster\)](https://open.spotify.com/track/0sTMWWSms4Mt6vy33rdqgv) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/46kw5FsFdJhNRL8wfHM9Bp) | 2:33 |
+| 35 | [Change](https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 4:14 |
+| 36 | [I Have The Touch](https://open.spotify.com/track/7gl4P3X846By90qi9uolSM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 4: Security \(Remastered Version\)](https://open.spotify.com/album/0O3lEaGkc2Q8TkxCShZyfa) | 4:35 |
 
-Snapshot ID: `AAANhU4ABv8GNbhcERdjXX32jOriSnG+`
+Snapshot ID: `AAANhmJ1ZsbhaKmfaLj1yxwL2psI37Y6`

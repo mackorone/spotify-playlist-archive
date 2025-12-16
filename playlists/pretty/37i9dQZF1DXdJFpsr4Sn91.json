@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60161,
+  "num_followers": 60164,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-12-12 08:19:21",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 182055,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
-    },
-    {
-      "added_at": "2025-12-12 08:19:21",
-      "album": {
         "name": "Make up your mind",
         "url": "https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 188000,
       "name": "Make up your mind",
       "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
+    },
+    {
+      "added_at": "2025-12-12 08:19:21",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
     },
     {
       "added_at": "2025-12-12 08:19:21",
@@ -575,22 +575,18 @@
     {
       "added_at": "2025-12-12 08:19:21",
       "album": {
-        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
-        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
+        "name": "Tytt\u00f6yst\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
       },
       "artists": [
         {
-          "name": "Lage",
-          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
-        },
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
-      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
+      "duration_ms": 177132,
+      "name": "Tytt\u00f6yst\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
     },
     {
       "added_at": "2025-12-12 08:19:21",
@@ -611,18 +607,22 @@
     {
       "added_at": "2025-12-12 08:19:21",
       "album": {
-        "name": "Tytt\u00f6yst\u00e4v\u00e4",
-        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
+        "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+        "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
       },
       "artists": [
         {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         }
       ],
-      "duration_ms": 177132,
-      "name": "Tytt\u00f6yst\u00e4v\u00e4",
-      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
+      "duration_ms": 144705,
+      "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
+      "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
     },
     {
       "added_at": "2025-12-12 08:19:21",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-12-12 08:19:21",
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
+    },
+    {
+      "added_at": "2025-12-12 08:19:21",
+      "album": {
         "name": "Disko Balls",
         "url": "https://open.spotify.com/album/0EC4Qy7cuxUo9I3GBYWddT"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2025-12-12 08:19:21",
       "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
-    },
-    {
-      "added_at": "2025-12-12 08:19:21",
-      "album": {
         "name": "Pieni ikuisuus",
         "url": "https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-12-12 08:19:21",
       "album": {
-        "name": "LADABOIS",
-        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
-      },
-      "artists": [
-        {
-          "name": "Mouhous",
-          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
-        }
-      ],
-      "duration_ms": 197205,
-      "name": "Rakkaudesta manii",
-      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
-    },
-    {
-      "added_at": "2025-12-12 08:19:21",
-      "album": {
         "name": "Jos ei oo meit",
         "url": "https://open.spotify.com/album/3nhK0fT6U33xjicziaPRPd"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 138935,
       "name": "Jos ei oo meit",
       "url": "https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV"
+    },
+    {
+      "added_at": "2025-12-12 08:19:21",
+      "album": {
+        "name": "LADABOIS",
+        "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "duration_ms": 197205,
+      "name": "Rakkaudesta manii",
+      "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
     },
     {
       "added_at": "2025-12-12 08:19:21",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-12-12 08:19:21",
       "album": {
-        "name": "Ihminen",
-        "url": "https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth"
-      },
-      "artists": [
-        {
-          "name": "Jaakko Kulta",
-          "url": "https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO"
-        }
-      ],
-      "duration_ms": 172924,
-      "name": "\u00c4l\u00e4 pyyd\u00e4 mua p\u00e4\u00e4tt\u00e4\u00e4",
-      "url": "https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633"
-    },
-    {
-      "added_at": "2025-12-12 08:19:21",
-      "album": {
         "name": "PEPERONCINA",
         "url": "https://open.spotify.com/album/5j285vtL2LtYJZja0GPABv"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 151306,
       "name": "Not That Deep",
       "url": "https://open.spotify.com/track/5ZM5xEprSUaLoAEqxBaVE5"
+    },
+    {
+      "added_at": "2025-12-12 08:19:21",
+      "album": {
+        "name": "Ihminen",
+        "url": "https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Kulta",
+          "url": "https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO"
+        }
+      ],
+      "duration_ms": 172924,
+      "name": "\u00c4l\u00e4 pyyd\u00e4 mua p\u00e4\u00e4tt\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633"
     },
     {
       "added_at": "2025-12-12 08:19:21",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-12-12 08:19:21",
       "album": {
+        "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
+        "url": "https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "duration_ms": 183305,
+      "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
+      "url": "https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB"
+    },
+    {
+      "added_at": "2025-12-12 08:19:21",
+      "album": {
         "name": "Voiko enkelitkin eksy\u00e4",
         "url": "https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 165897,
       "name": "Tuntemattomii",
       "url": "https://open.spotify.com/track/4KMp8KSlZzrl9FNB9H8t8M"
-    },
-    {
-      "added_at": "2025-12-12 08:19:21",
-      "album": {
-        "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
-        "url": "https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx"
-      },
-      "artists": [
-        {
-          "name": "MELO",
-          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
-        }
-      ],
-      "duration_ms": 183305,
-      "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
-      "url": "https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB"
     },
     {
       "added_at": "2025-12-12 08:19:21",

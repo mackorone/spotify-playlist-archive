@@ -5925,6 +5925,24 @@
     },
     {
       "album": {
+        "name": "3030 Origens",
+        "url": "https://open.spotify.com/album/46DmXZRF6TZBKTno9WBWHM"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204993,
+      "name": "Ra\u00edzes (Origens)",
+      "url": "https://open.spotify.com/track/17dXRsUc8Sf7OnLz2ZPElD"
+    },
+    {
+      "album": {
         "name": "Pel\u00e9 Milflows no Est\u00fadio Showlivre, Vol 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/32Odr1M4EmJjc6I64DuNOK"
       },

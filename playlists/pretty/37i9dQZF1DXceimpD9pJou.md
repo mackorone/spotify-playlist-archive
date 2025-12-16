@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Felipe S\. Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,704 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,719 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Una vez \- En Vivo](https://open.spotify.com/track/5kaj7CwtzCovfEQIQf5z2I) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Aldi Paez](https://open.spotify.com/artist/6JCa36vnZI3PI0wP6UUH9c) | [FRAGMENTO 002: LATAM \(Argentina\)](https://open.spotify.com/album/7I4ZkSFxs5opAqR0tZNBio) | 6:30 |
+| 1 | [Una vez](https://open.spotify.com/track/5kaj7CwtzCovfEQIQf5z2I) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Aldi Paez](https://open.spotify.com/artist/6JCa36vnZI3PI0wP6UUH9c) | [FRAGMENTO 002: LATAM \(Argentina\)](https://open.spotify.com/album/7I4ZkSFxs5opAqR0tZNBio) | 6:30 |
 | 2 | [Hermoso Momento \- Acústico](https://open.spotify.com/track/3fyL3vRYjNukZojFYBc7Xo) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [A Solas Con El Espíritu Santo \(Acústico\)](https://open.spotify.com/album/46L2rRe2WGNFei6Ib1b7PD) | 9:57 |
 | 3 | [Los coros del universo](https://open.spotify.com/track/4xfJoHvsg4BLP00Ek11NLi) | [Hakuna Group Music](https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS) | [Los coros del universo](https://open.spotify.com/album/2ArinG84ld5Jrw7PTg4ElN) | 4:51 |
 | 4 | [Rey de Mi Vida \- Sesiones Worship Barranquilla](https://open.spotify.com/track/44SOAa4lR8YrAZOLbD6K8I) | [Joan Sanchez](https://open.spotify.com/artist/5iWIrC7cCdB1YEfIn15ONZ) | [Rey de Mi Vida \(Sesiones Worship Barranquilla\)](https://open.spotify.com/album/0yU5UboSk2Kya6yF4CVCeU) | 6:30 |

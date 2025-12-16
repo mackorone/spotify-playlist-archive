@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 74742,
+  "num_followers": 74745,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Fuimos Amor",
+      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
         "name": "C.R.O: Bzrp Music Sessions, Vol. 29/66",
         "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29/66",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Fuimos Amor",
-      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
     },
     {
       "added_at": "2025-10-24 13:16:08",

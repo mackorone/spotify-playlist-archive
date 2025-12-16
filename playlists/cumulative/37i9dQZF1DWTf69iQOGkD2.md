@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Filipe Ret
 
-260 songs - 16 hr 39 min
+261 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Quinta Cínica \- Acústico](https://open.spotify.com/track/78uqYSOfbHaPnWq7vYgouJ) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Irineu Barsé](https://open.spotify.com/artist/0Q21K4tXniCV81hKaCkmaf) | [Acústico Cancún](https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso) | 2:16 | 2022-03-18 | 2022-03-26 |
 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 | 2022-03-18 |  |
 | [Raio de Sol](https://open.spotify.com/track/3saiVig4WNixRoaQHKGMkb) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [Vitin](https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL) | [Raio de Sol](https://open.spotify.com/album/0nzcD4HPIy2UCuVnYTixfj) | 2:51 | 2024-09-06 | 2025-08-23 |
+| [Raízes \(Origens\)](https://open.spotify.com/track/17dXRsUc8Sf7OnLz2ZPElD) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [3030 Origens](https://open.spotify.com/album/46DmXZRF6TZBKTno9WBWHM) | 3:24 | 2025-12-15 |  |
 | [Relação \- Ao Vivo](https://open.spotify.com/track/1ujkoBjVjQrg00EShTjvXt) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Pelé Milflows no Estúdio Showlivre, Vol 2 \(Ao Vivo\)](https://open.spotify.com/album/32Odr1M4EmJjc6I64DuNOK) | 3:19 | 2023-11-17 | 2024-09-07 |
 | [S.O.S](https://open.spotify.com/track/1PzgZt2gNjRXh2ea5KCPuD) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [DJ Express](https://open.spotify.com/artist/1pw0iln4IURG9wsJuwUlp2) | [S.O.S](https://open.spotify.com/album/6GyzF6nkwSpSxSFEVc0Nvw) | 2:26 | 2025-11-14 |  |
 | [Sabor de Boêmia](https://open.spotify.com/track/7JJ7YAyY0tFEVAUOpIfem3) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9), [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Sabor de Boêmia](https://open.spotify.com/album/6bzJFLCgeR7SjWGoIhR8NW) | 3:22 | 2022-12-02 | 2023-02-18 |

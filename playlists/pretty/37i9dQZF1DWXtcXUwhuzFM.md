@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Averagekidluke..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,475 likes - 104 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,481 likes - 104 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

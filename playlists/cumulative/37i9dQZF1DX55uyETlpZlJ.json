@@ -3919,6 +3919,32 @@
     },
     {
       "album": {
+        "name": "HIPHOP",
+        "url": "https://open.spotify.com/album/6i9bSupZ4l5mJtfs7vBqa0"
+      },
+      "artists": [
+        {
+          "name": "Arhan A Betur",
+          "url": "https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4"
+        },
+        {
+          "name": "S.P.B",
+          "url": "https://open.spotify.com/artist/3eEet8yyGoxJjIKViRe7Gf"
+        },
+        {
+          "name": "Dc",
+          "url": "https://open.spotify.com/artist/4MSTmygJyxqNPi05sBuSUC"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155491,
+      "name": "HIPHOP",
+      "url": "https://open.spotify.com/track/1naJJfT4WLPlVQvVCcj3cX"
+    },
+    {
+      "album": {
         "name": "Hogey",
         "url": "https://open.spotify.com/album/1xEgorMZd60Bof9x0cdqaM"
       },
@@ -4136,7 +4162,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 262736,
       "name": "Hridaya",
       "url": "https://open.spotify.com/track/3GjAay33DWIWuddkQHCQNi"

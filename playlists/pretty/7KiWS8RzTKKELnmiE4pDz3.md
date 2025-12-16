@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 406 songs - 23 hr 47 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 415 songs - 1 day 0 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -414,5 +414,14 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 404 | [Pacas](https://open.spotify.com/track/7p79Gg3qf9kEjV6CzQrdzI) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pacas](https://open.spotify.com/album/4B4NiS8veDy5MdUB0GmBn1) | 3:03 |
 | 405 | [No Para](https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Para](https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N) | 3:18 |
 | 406 | [Trife Life](https://open.spotify.com/track/7a2dsbIZcf5SAz7Uv4G0NR) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:20 |
+| 407 | [Soliloquy Of Chaos](https://open.spotify.com/track/6RqiVmfcduRzaN9gQPAn5c) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Daily Operation](https://open.spotify.com/album/74DwNAuirHLDLVLrBQAnVg) | 3:14 |
+| 408 | [Spanish Joint](https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:44 |
+| 409 | [Making Moves with Puff](https://open.spotify.com/track/4UmOTj2C2RIYvTWk5HqOf2) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf) | [Project: Funk Da World](https://open.spotify.com/album/6BtFnL80q39q0OcSBroqwy) | 4:24 |
+| 410 | [Distortion To Static](https://open.spotify.com/track/4OKGOCePwVx3GnpLmXkErw) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:18 |
+| 411 | [Anything Can Happen](https://open.spotify.com/track/1IhbRAiJjVqsUyBcqP3S1p) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 3:01 |
+| 412 | [Make Your Mind Up](https://open.spotify.com/track/2H3Ee8gYFvCZ2ivuOl5wwI) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 3:50 |
+| 413 | [Batting Practice](https://open.spotify.com/track/7AtIiXwzq1xOvOPws0NX5T) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:03 |
+| 414 | [Tell Me Who Profits](https://open.spotify.com/track/2HoinVXGivQoUGO49A1HjN) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:01 |
+| 415 | [Let 'Em Know](https://open.spotify.com/track/2CxZESKjoN4Un4rTJYpwu3) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:15 |
 
-Snapshot ID: `AAAfXxk8GWensVFH6VZQ5DdSKxrbXvae`
+Snapshot ID: `AAAfaOV7D7RtVzzWOENYhEJRpXm0bxaR`

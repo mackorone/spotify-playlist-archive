@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 317666,
+  "num_followers": 317706,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAABDkUVT53L6n63cuFiIXfAH",
+  "snapshot_id": "aT3+AAAAAAAG4BxARlnzPGgq5dLS6FhY",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         }
       ],
-      "duration_ms": 256997,
-      "name": "Invicto",
-      "url": "https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F"
+      "duration_ms": 296122,
+      "name": "Isso Que \u00c9 Vida",
+      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         }
       ],
-      "duration_ms": 296122,
-      "name": "Isso Que \u00c9 Vida",
-      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
+      "duration_ms": 256997,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 234252,
+      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
+      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 127741,
       "name": "Al\u00e9m do Dinheiro",
       "url": "https://open.spotify.com/track/7qLM93TElkbHLnLBNviq3y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 234252,
-      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
-      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "Vibe Infinita",
+      "url": "https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 195000,
       "name": "N\u00e3o Desista Agora",
       "url": "https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Vibe Infinita",
-      "url": "https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaterial (Deluxe)",
-        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "F* F* M*",
-      "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revel",
         "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 276491,
       "name": "Chefe do Crime Perfeito",
       "url": "https://open.spotify.com/track/6MVFI8t52RU5ESYQyLp5MI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "F* F* M*",
+      "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
     },
     {
       "added_at": null,

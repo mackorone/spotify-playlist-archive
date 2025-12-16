@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1462469,
+  "num_followers": 1462652,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
+        "name": "90s Charthits",
+        "url": "https://open.spotify.com/album/070WMuqRUg4LdGqpzQzp1Q"
+      },
+      "artists": [
+        {
+          "name": "Mark 'Oh",
+          "url": "https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Tears Don't Lie - Long Version",
+      "url": "https://open.spotify.com/track/77DBnoXYTP9HNMunNaUqch"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
         "name": "Fly High",
         "url": "https://open.spotify.com/album/3T1n5qLTtMAsJofzJoZDNI"
       },
@@ -1159,26 +1175,6 @@
       "duration_ms": 272000,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/29WTMnk0vsnapB0FaLDfGM"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
-        "name": "Zooming You",
-        "url": "https://open.spotify.com/album/44K4ugSpPPOKlLrsqXZ0WJ"
-      },
-      "artists": [
-        {
-          "name": "Cool James",
-          "url": "https://open.spotify.com/artist/2OKOpqYl2H7q3AFjuJo0XK"
-        },
-        {
-          "name": "Black Teacher",
-          "url": "https://open.spotify.com/artist/1209vfijpAIn5WvDlhLpfB"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "Dr. Feelgood",
-      "url": "https://open.spotify.com/track/7xMud4sf8Lv1UievrJ9Sj6"
     }
   ],
   "unique_name": "90s Dance Party",

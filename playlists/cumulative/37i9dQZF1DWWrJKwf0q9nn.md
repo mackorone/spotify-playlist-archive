@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: BLOND:ISH
 
-620 songs - 1 day 7 hr 29 min
+621 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Point Zero](https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:11 | 2025-12-04 |  |
 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 | 2025-07-17 | 2025-08-07 |
 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-12-04 |  |
+| [Positive](https://open.spotify.com/track/1JCMqnaIOHJcAr514CnFcm) | [Jamback](https://open.spotify.com/artist/0XUGA1XiO078tIGsoWci6r) | [Positive](https://open.spotify.com/album/2UmBwmCy1a73xlkS7ETWqo) | 2:49 | 2025-12-15 |  |
 | [PRAY](https://open.spotify.com/track/24rM9ZhG46LWAUSCXgZa2a) | [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [PRAY](https://open.spotify.com/album/0ADO0ypxJT4ujhHCTr77zQ) | 3:56 | 2025-09-04 | 2025-09-27 |
 | [Pretender](https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Pretender](https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq) | 3:12 | 2025-10-16 | 2025-11-21 |
 | [Pretty Friends](https://open.spotify.com/track/6jRn6lpHAioyD8PY4NKNQE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Pretty Friends](https://open.spotify.com/album/42brGrydPMIqlWl2hVHsPp) | 1:59 | 2025-10-09 | 2025-10-24 |
@@ -614,7 +615,7 @@
 | [WITH THE LIGHTS ON](https://open.spotify.com/track/5gKFwoqDtGk8iXnAJXZDp4) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [WITH THE LIGHTS ON](https://open.spotify.com/album/7yzixhdBL8poIpQNo5ak8v) | 2:31 | 2025-09-11 | 2025-10-03 |
 | [With You](https://open.spotify.com/track/7A5keFQ4h09H7lexVWR8Wt) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0), [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [With You](https://open.spotify.com/album/2cqBEs8ChbRvsbcWPcxfvk) | 3:00 | 2025-11-07 | 2025-12-12 |
 | [With Your Love](https://open.spotify.com/track/3T1CFsOfNi9Dy9cMtjNdEQ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [With Your Love](https://open.spotify.com/album/6HjOkGo6xdNpBJSTa4FlDK) | 3:02 | 2025-11-07 | 2025-11-21 |
-| [Wonder](https://open.spotify.com/track/632Wb6lTL9lbMLkTCrfrid) | [DUSST](https://open.spotify.com/artist/6XgK7qOSV4FBngw1SjL1yr) | [Wonder](https://open.spotify.com/album/23bA5kGKZyc14IpXKwVZM3) | 2:35 | 2025-11-20 |  |
+| [Wonder](https://open.spotify.com/track/632Wb6lTL9lbMLkTCrfrid) | [DUSST](https://open.spotify.com/artist/6XgK7qOSV4FBngw1SjL1yr) | [Wonder](https://open.spotify.com/album/23bA5kGKZyc14IpXKwVZM3) | 2:35 | 2025-11-20 | 2025-12-16 |
 | [Wonderful](https://open.spotify.com/track/2KmH6Umerhr1VXqDNrUITM) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Wonderful](https://open.spotify.com/album/6VELMJECXACmhQYJllZbNF) | 2:55 | 2025-10-23 | 2025-11-01 |
 | [Work](https://open.spotify.com/track/52pH5uY6wKWUkBE1efRak8) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Work](https://open.spotify.com/album/0pmVpC6Q5Avcf9kcDuP5fG) | 2:40 | 2025-10-02 | 2025-11-01 |
 | [World On Fire](https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [World On Fire](https://open.spotify.com/album/0hip6zVMbgqrbtyobAOuay) | 3:37 | 2025-10-23 | 2025-11-08 |

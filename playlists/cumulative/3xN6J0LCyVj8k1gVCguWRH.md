@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,517 songs - 12 day 20 hr 17 min
+5,522 songs - 12 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,6 +942,7 @@
 | [Cold World \(Where Has The Love Gone\)](https://open.spotify.com/track/2dYYFiAGQbg1LSGd9odwbr) | [Funk Therapy](https://open.spotify.com/artist/04i10O4xyqyzMTuX6CW8Xt), [Michael B\. Sutton](https://open.spotify.com/artist/7HXwMohQTjKQqjULUkd6kU) | [Cold World \(Where Has The Love Gone\)](https://open.spotify.com/album/7A4gcMtmuWn3a5HvX9xAdO) | 3:37 | 2024-04-26 | 2024-05-09 |
 | [Collide](https://open.spotify.com/track/19BTgOK2yjqUvUabVhDR78) | [MILLE](https://open.spotify.com/artist/06AAtBE3ddOMJPBu1MZQWf) | [Collide](https://open.spotify.com/album/0zxtxSBjkEw1VIjD2O5MDg) | 3:19 | 2021-01-15 | 2021-01-30 |
 | [Collide](https://open.spotify.com/track/1YrnHIzYa10VbL7ntVkesa) | [SUMif](https://open.spotify.com/artist/3o0KTphy4FM2GAJE3CxBmO) | [Collide](https://open.spotify.com/album/6OvAJQOrgytJrfaFOXcvLS) | 3:15 | 2020-02-27 | 2020-04-20 |
+| [Color Blind](https://open.spotify.com/track/7Ldu0KnQUOu0NTMOGYTzZn) | [John Kolar](https://open.spotify.com/artist/7DwNhc0cmVu6BFj3x566y9) | [Color Blind](https://open.spotify.com/album/0acDg6KtgIHLlEEh2cVTNE) | 4:16 | 2025-12-15 |  |
 | [Color In The Leaves](https://open.spotify.com/track/3cKyqtV96znpw3vqzU7Gca) | [RALLY](https://open.spotify.com/artist/0e09xQQ9QVjAxlOT1U32Wx) | [Color In The Leaves](https://open.spotify.com/album/1QILY0saAqdmQfD1uxaFKl) | 4:22 | 2025-04-09 | 2025-04-21 |
 | [Colors](https://open.spotify.com/track/55Q54QhQvFg5ft6iLasIny) | [PONYHENGE](https://open.spotify.com/artist/7FmkvLyQtCS78FquchCrSU) | [Colors](https://open.spotify.com/album/7KymrnFxX2GLaExq3qyv9q) | 5:05 | 2024-07-15 | 2024-07-27 |
 | [Come As You Are Party](https://open.spotify.com/track/76kgmsjJRbOwH8yglZyfiy) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Come As You Are Party](https://open.spotify.com/album/4MBgRiyc3FQErOUhpwo0X0) | 2:49 | 2023-07-16 | 2023-08-01 |
@@ -1459,6 +1460,7 @@
 | [Eres Arte](https://open.spotify.com/track/6FVSM69409euIauibCp9ST) | [Ulyss](https://open.spotify.com/artist/5bEvbRrEjpjRyHm92aY4Ly) | [Hollywüd](https://open.spotify.com/album/7H0g4SRMwsPgYH6Ectdvzk) | 2:58 | 2023-12-08 | 2023-12-26 |
 | [Eres Tú](https://open.spotify.com/track/6J1dBZzuj8hNZnnsotkwVL) | [ELENA](https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg) | [Eres Tú](https://open.spotify.com/album/5FvYepMzpVbIpVwiW7QDJb) | 3:30 | 2023-04-06 | 2023-04-29 |
 | [Error](https://open.spotify.com/track/6G5xwimzygf6guwvFpmptB) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Error](https://open.spotify.com/album/2PXTo7dgCnLXZxe9VPlR4c) | 3:52 | 2020-04-02 | 2020-04-20 |
+| [Erth Got Shot](https://open.spotify.com/track/6YFPJO1Jq08H8UYy5SnzOo) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 4:26 | 2025-12-15 |  |
 | [Es Duro Caer](https://open.spotify.com/track/0Y9wJ8a13gZnSyf8mZZbCz) | [El Fa](https://open.spotify.com/artist/4aNUCwwGwxED5Mv78kkvQ7) | [Es Duro Caer](https://open.spotify.com/album/2xSo1BSJ5biq9vkvX5ZEGN) | 3:54 | 2024-03-21 | 2024-03-29 |
 | [Escape](https://open.spotify.com/track/3QOXEWLKMcWaryMwzHqKZV) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1), [Jaimie P](https://open.spotify.com/artist/2TcI1EUYdaeuZAxOy2AoWV), [C.C](https://open.spotify.com/artist/21aRFxJp0YdjZOOsgeYmVB) | [US](https://open.spotify.com/album/38P5xmHpbFUpFceAXHBfk2) | 5:56 | 2025-09-01 | 2025-10-02 |
 | [ESCLAVO](https://open.spotify.com/track/5w5NzY9anGUwg5V1CWRMsz) | [Thunds](https://open.spotify.com/artist/4ozFrTcmzszd0mC9FqUIyq), [Sent](https://open.spotify.com/artist/1tjI28EhdjXzyUyPccqFMs) | [ESCLAVO](https://open.spotify.com/album/3c7pTZg8yS7L9EcH7KRusR) | 3:54 | 2024-11-25 | 2024-12-08 |
@@ -2141,6 +2143,7 @@
 | [Home Is My Heart](https://open.spotify.com/track/3zZjdC4DkVTJuNoV9U9TUo) | [Harry F Brown](https://open.spotify.com/artist/7j2b6kejHnxnGmiBvsijPA) | [Home Is My Heart](https://open.spotify.com/album/1BgEpT4hTLfnn1E9g2cHNj) | 4:00 | 2024-02-11 | 2024-02-20 |
 | [Homebreaker](https://open.spotify.com/track/0k6ixgoVB4gM9t761l1QBn) | [Ghostmind](https://open.spotify.com/artist/1jYyLqefRBIBE7gH9U5MzJ) | [Come Over...](https://open.spotify.com/album/0BYku6XK0hbqYyRWMcLwAH) | 2:58 | 2025-11-27 | 2025-12-09 |
 | [Homerun](https://open.spotify.com/track/7pfjXUSdQeZchp9y7k1IXZ) | [D2IEM](https://open.spotify.com/artist/4IHOY6o6UnPzZub6Au1wjb) | [Homerun](https://open.spotify.com/album/62vHKSJgM7Pe2CkvwP8hZ3) | 2:40 | 2024-10-11 | 2024-10-23 |
+| [Homesick](https://open.spotify.com/track/0iVPFy4dPd7Wim2vnEvACE) | [1P4E Music Collective](https://open.spotify.com/artist/3SBblF02HmxdcBwb527LFl), [Peter Anguria](https://open.spotify.com/artist/6tTD5PRMDFGh9UtOBCgcSc) | [Homesick](https://open.spotify.com/album/5aaOYeN75Ugk4kqVLaINUA) | 3:44 | 2025-12-15 |  |
 | [Homeward Bound](https://open.spotify.com/track/6dzmDE4Qyo37ne5J5FjQJP) | [Steve Stout](https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie) | [Homeward Bound](https://open.spotify.com/album/67FLKVbBM1vgMtNdgwh5rq) | 2:10 | 2024-07-24 | 2024-08-06 |
 | [Honest](https://open.spotify.com/track/2yQmvTTUYK7UeOnKobyikc) | [Dyna Edyne](https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3) | [Honest](https://open.spotify.com/album/2SvxZx7IyovHunYkQYFEjP) | 3:27 | 2024-07-19 | 2024-08-01 |
 | [Honest](https://open.spotify.com/track/4kqZrcwOkWKq3o2BTIXTYX) | [KATIA](https://open.spotify.com/artist/67WdSeITH5ZYOuXzqv335b), [Paul Aiden](https://open.spotify.com/artist/2StetEA6xAwZgC0tGICp33) | [Honest](https://open.spotify.com/album/7jsrJcDqYU5rBOfW2ccNqT) | 2:48 | 2024-02-20 | 2024-02-28 |
@@ -3537,6 +3540,7 @@
 | [Original](https://open.spotify.com/track/6SwJ1LmZlDfAXAAK69DD4s) | [ZeXzy](https://open.spotify.com/artist/3IwO7IAIsQn4UHafxRHESo) | [Original](https://open.spotify.com/album/5acvWxZ969AIuEZUfo2Zl0) | 2:17 | 2023-07-27 | 2023-08-20 |
 | [Osprey Park](https://open.spotify.com/track/7CWc1AWtfHpoq8qj2XCDdb) | [Sarah Gross](https://open.spotify.com/artist/58lbHYipYB2JGbElUXeG2p) | [The Riversides EP](https://open.spotify.com/album/0IisQC9f4M5VDz9Koa0ZwY) | 3:02 | 2022-02-04 | 2022-02-20 |
 | [Other Times](https://open.spotify.com/track/5khm5C3CQJQ8rxDlxXsovG) | [Artdob](https://open.spotify.com/artist/6eN97PIRR6ScvH4VjlHRiL) | [Other Times](https://open.spotify.com/album/6zbvj3I5cg5AwTT9SvIbsW) | 3:18 | 2023-07-17 | 2023-07-29 |
+| [Otoño](https://open.spotify.com/track/19RReAQhi91r5lrURFnDnG) | [NatAlien](https://open.spotify.com/artist/11sVbHtE0cFaNyiGPuoBl7) | [Otoño](https://open.spotify.com/album/3S4CTCHFhGBpLTd4sR0BAK) | 3:18 | 2025-12-15 |  |
 | [Otra Vez](https://open.spotify.com/track/3TI8ee7H3yFIkmuB9Z6jpw) | [Kevin Osorio](https://open.spotify.com/artist/30D0vJ8oZzE607JtDT9fXy), [Revelgy](https://open.spotify.com/artist/79GVTKsjstMTIEgwdu8rJR) | [Otra Vez](https://open.spotify.com/album/6XZ9nrDoui8VWmtpjeLHEQ) | 3:31 | 2025-04-09 | 2025-04-21 |
 | [OTT \- demo](https://open.spotify.com/track/2szgZbQgoPXNuUEo77T1IT) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [OTT \(demo\)](https://open.spotify.com/album/3llYxMZ4H6ti2OXgXunlbp) | 2:07 | 2024-01-26 | 2024-02-07 |
 | [Our Oborus](https://open.spotify.com/track/7gjFf3S2NC3qQl41q7Zl7K) | [Temkina](https://open.spotify.com/artist/5tCavJFKKeFeD9jThtwaoc), [Thallus](https://open.spotify.com/artist/5OtCPeg8X9u17ZZUyDSC77) | [Our Oborus](https://open.spotify.com/album/6Zaj8Hpt1VsRznLXLp4fPM) | 3:27 | 2025-05-14 | 2025-05-26 |
@@ -4727,6 +4731,7 @@
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 | 2022-05-10 |
 | [The Heart to Hurt Her](https://open.spotify.com/track/6FZdF6YZx0BIjyyHZqexCA) | [Dustin Sonnier](https://open.spotify.com/artist/2OYUGOyZvQU5mVGlARHnnx) | [The Heart to Hurt Her](https://open.spotify.com/album/5cyBk1sDlUIdf24Ak9QmDV) | 3:35 | 2025-04-09 | 2025-04-21 |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-06-05 | 2023-06-23 |
+| [The Holidaze](https://open.spotify.com/track/2ORdkoI0W02bdx0sU6Rxvn) | [Sara Melson](https://open.spotify.com/artist/1Kytaevw3xfR35imimNkaG) | [The Holidaze](https://open.spotify.com/album/7l35oSI82BzyEreq1VMTLq) | 3:19 | 2025-12-15 |  |
 | [The Home I Wanted](https://open.spotify.com/track/0yNugq2C2t7pAUTCUvuTbA) | [Holyoak](https://open.spotify.com/artist/729swa3l6U3U96PhHL6Ppw) | [The Home I Wanted](https://open.spotify.com/album/57REQtIXa1yTVV9fAc0qhq) | 3:09 | 2024-05-17 | 2024-05-29 |
 | [The Immigrant](https://open.spotify.com/track/0R9x7lSWhQd95K8duI7sha) | [Arielle Diba](https://open.spotify.com/artist/1wjwAZ5HV4p4G9atYKqbMG) | [Black Magic](https://open.spotify.com/album/6gYrQQRTylSFZi2D65hw0W) | 3:11 | 2023-12-21 | 2024-01-05 |
 | [The In Between](https://open.spotify.com/track/76Q2gTLhIjzReHL03MY07E) | [Two of Hearts](https://open.spotify.com/artist/6JD4d2ftZIkUqyAIrWCiyn) | [The In Between](https://open.spotify.com/album/73qPYKnDtjYlSH7aKfNG4f) | 6:15 | 2025-02-18 | 2025-03-03 |

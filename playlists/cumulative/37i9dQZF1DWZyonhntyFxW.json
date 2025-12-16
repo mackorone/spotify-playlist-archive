@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0643\u0631\u064a\u0645 \u0623\u0633\u0627\u0645\u0629",
+  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0648\u064a\u062c\u0632",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -744,7 +744,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 244769,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/4WbE5qrmw9H4RVpjCns7oR"
@@ -1234,6 +1234,28 @@
       "duration_ms": 182253,
       "name": "Ayamy Betfoot",
       "url": "https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN"
+    },
+    {
+      "album": {
+        "name": "Aqareb (Side B)",
+        "url": "https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "\u062f\u062d\u0648\u0645 \u0627\u0644\u0637\u0644\u0627\u0633\u064a",
+          "url": "https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "B.B. King (feat. Dhom Altlasy)",
+      "url": "https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i"
     },
     {
       "album": {
@@ -2312,6 +2334,24 @@
       "duration_ms": 177929,
       "name": "EL BM BKM DLWATY",
       "url": "https://open.spotify.com/track/63onaNWTSRTOxBLROCEYH0"
+    },
+    {
+      "album": {
+        "name": "Aqareb (Side B)",
+        "url": "https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "El Dem3a",
+      "url": "https://open.spotify.com/track/2tC2ik34aJcihSHbxogP0M"
     },
     {
       "album": {
@@ -6526,7 +6566,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 210755,
       "name": "Skoot",
       "url": "https://open.spotify.com/track/6qv3kh2Tbv9CdJ9AOP3Mbu"
@@ -7568,7 +7608,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 165755,
       "name": "Yala Ya Baba",
       "url": "https://open.spotify.com/track/3cCgoPU9rWuBXpORjVRqo8"

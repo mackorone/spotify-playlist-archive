@@ -4,11 +4,11 @@
 
 > Featuring all trans, non\-binary, and two spirit voices discussing the future of gender justice.
 
-8 songs - 7 hr 7 min
+8 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Beyond Trans Visibility with Raquel Willis](https://open.spotify.com/episode/0zubOYcGRmjgZOPCvTE4q9) | [Unladylike](https://open.spotify.com/show/4HIbrI2ckotPHTh6REyR73) | [Unladylike](https://open.spotify.com/album/4HIbrI2ckotPHTh6REyR73) | 42:20 | 2021-10-25 |  |
+| [Beyond Trans Visibility with Raquel Willis](https://open.spotify.com/episode/0zubOYcGRmjgZOPCvTE4q9) | [Unladylike](https://open.spotify.com/show/4HIbrI2ckotPHTh6REyR73) | [Unladylike](https://open.spotify.com/album/4HIbrI2ckotPHTh6REyR73) | 41:04 | 2021-10-25 |  |
 | [Bonus: From the Vault: Sylvia Rivera & Marsha P\. Johnson, 1970](https://open.spotify.com/episode/6quZFURWoHUBwJadcMCh9a) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/show/1NlHk37Vo7HlGE1CFg8uGx) | [Making Gay History \| LGBTQ Oral Histories from the Archive](https://open.spotify.com/album/1NlHk37Vo7HlGE1CFg8uGx) | 22:07 | 2021-10-25 |  |
 | [Immigration, Detention and Trans Rights](https://open.spotify.com/episode/7xenHJhunGNwJw6fOv3PgR) | [TransLash Podcast with Imara Jones](https://open.spotify.com/show/3bKZAZDRPlB8ZRyUSpJ6t8) | [TransLash Podcast with Imara Jones](https://open.spotify.com/album/3bKZAZDRPlB8ZRyUSpJ6t8) | 40:52 | 2021-10-25 | 2025-04-12 |
 | [Indigiqueer Futurisms](https://open.spotify.com/episode/3nAwMuM7ehk07jQVHQV5ul) | [Two Spirit Talks](https://open.spotify.com/show/0rLW1CVfQ7xC3WwrMdRkHz) | [Two Spirit Talks](https://open.spotify.com/album/0rLW1CVfQ7xC3WwrMdRkHz) | 1:00:30 | 2021-10-25 |  |

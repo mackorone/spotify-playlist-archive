@@ -46585,6 +46585,24 @@
     },
     {
       "album": {
+        "name": "I Wanted This",
+        "url": "https://open.spotify.com/album/2DhKj2yjP8PlQyFLWdA40C"
+      },
+      "artists": [
+        {
+          "name": "Narcova",
+          "url": "https://open.spotify.com/artist/3D7Sl208Vi3twiM76JnB9j"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226747,
+      "name": "I Wanted This",
+      "url": "https://open.spotify.com/track/4yZj4GvHjxCL6SOOcEvZMj"
+    },
+    {
+      "album": {
         "name": "I Will Luv U",
         "url": "https://open.spotify.com/album/36hxAyvAUKbB3duSUC6Wxw"
       },

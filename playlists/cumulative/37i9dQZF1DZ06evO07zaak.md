@@ -4,7 +4,7 @@
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-69 songs - 6 hr 47 min
+70 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Us and Them](https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 7:52 | 2022-09-17 |  |
 | [Welcome to the Machine](https://open.spotify.com/track/5VWC7v2dC2K0SIIjT9WTLN) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 7:30 | 2022-09-17 |  |
 | [What Do You Want from Me](https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 4:21 | 2022-09-17 |  |
+| [Wine Glasses](https://open.spotify.com/track/7yyfMWXQqXmoSOKAhNxFUo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here 50](https://open.spotify.com/album/3jlnaVYWc3QEqwCtdYCDS7) | 2:11 | 2025-12-16 |  |
 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:38 | 2022-09-17 |  |
 | [Wish You Were Here \- Pedal Steel Instrumental Mix](https://open.spotify.com/track/0yZEOlakqvTifw6XuAit6x) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here 50](https://open.spotify.com/album/3jlnaVYWc3QEqwCtdYCDS7) | 6:01 | 2025-12-14 |  |
 | [Wot's...Uh the Deal](https://open.spotify.com/track/6zGFOp6rJZbYSp9DQO5AHY) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 5:09 | 2022-09-17 |  |

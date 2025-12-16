@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > as gêmeas com uma enxurrada de refs e quem tem dó é cavaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,755 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,991 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 16 | [Marrom Cacau](https://open.spotify.com/track/0G2lnXfbf8vSexHcQTB5pz) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Cacau 50%](https://open.spotify.com/album/0xMEXymMK5kOISGQUuxYxC) | 3:21 |
 | 17 | [tranquila & Calma](https://open.spotify.com/track/4NC1JnWuLIo0Dfds2SQ674) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Tranquila & calma](https://open.spotify.com/album/5SiQ8k3NEpybLBG6SW0bRv) | 2:28 |
 | 18 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
-| 19 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
+| 19 | [Minha Competição](https://open.spotify.com/track/4GIU6Qg6uQdy6XmBy70YJK) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Minha Competição](https://open.spotify.com/album/5TyhogzIXyEWwxPyVzbQ3q) | 2:10 |
 | 20 | [Acorde](https://open.spotify.com/track/56zyFeSe3ttrjcXeFFskP1) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:13 |
-| 21 | [Minha Competição](https://open.spotify.com/track/4GIU6Qg6uQdy6XmBy70YJK) | [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Minha Competição](https://open.spotify.com/album/5TyhogzIXyEWwxPyVzbQ3q) | 2:10 |
+| 21 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
 | 22 | [Umami](https://open.spotify.com/track/0uSI4ZBnEMBdAKDulLPX1b) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 4:47 |
 | 23 | [TÃOQUENTE](https://open.spotify.com/track/23Z1lShTFinifegJBwhOaz) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TÃOQUENTE \- No Meu Club](https://open.spotify.com/album/6rBy862OKIVHmQeMStkcUC) | 1:49 |
 | 24 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |

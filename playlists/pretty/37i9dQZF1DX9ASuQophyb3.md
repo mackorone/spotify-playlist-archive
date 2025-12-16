@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Tarkan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,559 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,578 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 4 | [Bilsen De](https://open.spotify.com/track/3vfPPNNAOPteFWU9xIwT1R) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bilsen De](https://open.spotify.com/album/0qol5uBtarWXta5lVvDc5h) | 2:40 |
 | 5 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
 | 6 | [Beni Unutma](https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Beni Unutma](https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM) | 3:10 |
-| 7 | [Odalar Soğuk](https://open.spotify.com/track/5Fb3ND9grQeAY9hb9WKE4v) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Odalar Soğuk](https://open.spotify.com/album/3HIGefGhLWPy6XgqLzVj6t) | 2:59 |
-| 8 | [Günler](https://open.spotify.com/track/63tlsNZKeUzfouDqVSRCCO) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Günler](https://open.spotify.com/album/5peLhHRRTQpuw6ZIuYobsy) | 2:51 |
-| 9 | [Herkes Gibi](https://open.spotify.com/track/6zBdAOcSXzPiwxXllOlZmp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Herkes Gibi](https://open.spotify.com/album/2FzyGoAXFyzdlLemRucz7F) | 2:59 |
+| 7 | [Herkes Gibi](https://open.spotify.com/track/6zBdAOcSXzPiwxXllOlZmp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Herkes Gibi](https://open.spotify.com/album/2FzyGoAXFyzdlLemRucz7F) | 2:59 |
+| 8 | [Odalar Soğuk](https://open.spotify.com/track/5Fb3ND9grQeAY9hb9WKE4v) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Odalar Soğuk](https://open.spotify.com/album/3HIGefGhLWPy6XgqLzVj6t) | 2:59 |
+| 9 | [Günler](https://open.spotify.com/track/63tlsNZKeUzfouDqVSRCCO) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Günler](https://open.spotify.com/album/5peLhHRRTQpuw6ZIuYobsy) | 2:51 |
 | 10 | [Bir Başıma](https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bir Başıma](https://open.spotify.com/album/3eW6cRPWUdzifoxcHAar8g) | 6:13 |
-| 11 | [Amatör](https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Amatör](https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc) | 2:43 |
-| 12 | [Sevilmeye Doy Diye](https://open.spotify.com/track/47gwZxbkrZ4ko9nKheRsTH) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:52 |
+| 11 | [Sevilmeye Doy Diye](https://open.spotify.com/track/47gwZxbkrZ4ko9nKheRsTH) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:52 |
+| 12 | [Amatör](https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Amatör](https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc) | 2:43 |
 | 13 | [Senin Olan Her Şey](https://open.spotify.com/track/5kiR33bd1DaabByTGUYauR) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Senin Olan Her Şey](https://open.spotify.com/album/7mPhT9j5c79Yded5mC4Clx) | 2:41 |
 | 14 | [evvel ezel](https://open.spotify.com/track/5g5qz9ITYSc7N7r0G05cob) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [evvel ezel](https://open.spotify.com/album/0aeneVMdfTNUQrbnwh5aKT) | 3:39 |
 | 15 | [Vazgeçmem](https://open.spotify.com/track/4NfDePPzLzpjWeAMoL4xat) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [4K](https://open.spotify.com/album/1mPLFeBrXi3wjDJWTqjI70) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Dönmüyor Giden](https://open.spotify.com/track/3UXzQ5XshA4IENsaPuo0iW) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Dönmüyor Giden](https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq) | 3:25 |
 | 50 | [Sanmadan Git](https://open.spotify.com/track/6NvKz9LOa9KbCmd3NEnKP1) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Sanmadan Git](https://open.spotify.com/album/4tw3quCr2Q91TUqP1tD30i) | 2:57 |
 
-Snapshot ID: `AAAAAE6aJNExREzgUoWhFgxW3QgGnuGJ`
+Snapshot ID: `AAAAAOwRR+ZJqqzvTUTl6A+N/2vxEZ3Z`

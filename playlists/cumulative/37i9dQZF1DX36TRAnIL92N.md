@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-295 songs - 1 day 0 hr 21 min
+296 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 | 2022-11-25 | 2023-02-26 |
 | [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 | 2023-02-10 | 2024-03-21 |
 | [Control \- Original Mix](https://open.spotify.com/track/3cwXKrP3RuQ6vlwvwUMJcZ) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Control](https://open.spotify.com/album/5G6vurrV89G90eb1EVINKF) | 6:27 | 2022-07-05 | 2023-03-29 |
+| [CONTROL YOUR BODY](https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [CONTROL YOUR BODY](https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa) | 3:36 | 2025-12-12 |  |
 | [Creatures on Acid \- Radio\-Edit](https://open.spotify.com/track/04b2DLz2SSb2VqimLvEfLs) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Creatures on Acid \(Radio\-Edit\)](https://open.spotify.com/album/6lqQURzLflCmVagXWx3Wun) | 4:30 | 2022-07-05 | 2022-07-29 |
 | [Cryptography](https://open.spotify.com/track/7l8T90bx7vHXgReTuCEJwk) | [Shadowmaw](https://open.spotify.com/artist/2r8uP2smU2xmLqLM99hXbv), [Bultech](https://open.spotify.com/artist/4puCZElml9BwUDjZYDMqDr) | [Cryptography](https://open.spotify.com/album/5XiUOiWWlJrK7KqV9oJ0dG) | 6:30 | 2022-07-05 | 2022-07-26 |
 | [Dance for Me](https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Dance for Me](https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W) | 4:05 | 2023-03-29 | 2023-11-11 |
@@ -90,7 +91,7 @@
 | [Flying Octopus](https://open.spotify.com/track/0n2jPpNThUiLaf39k1Jfz7) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/5My1BEqn9HJ2ig4pDlsZ0m) | 3:31 | 2023-10-13 | 2024-04-19 |
 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 | 2022-07-05 | 2023-10-15 |
 | [Freedom](https://open.spotify.com/track/3Hmg1WPr7lkT3LAhcnOCHz) | [ONEDEFINED](https://open.spotify.com/artist/4SUQ1GFY0jmck4xkXmMKlk) | [Freedom EP](https://open.spotify.com/album/7meoHVlBOdeYuP3hFU4I89) | 8:02 | 2022-07-05 | 2022-07-29 |
-| [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 | 2025-07-25 |  |
+| [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 | 2025-07-25 | 2025-12-16 |
 | [Frequency Differ \- Original Mix](https://open.spotify.com/track/2XGdv6M567kqNoWLm3KcS3) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Frequency Differ](https://open.spotify.com/album/03bFwiXnO9uziaWFdN0DyQ) | 6:49 | 2022-07-05 | 2022-07-28 |
 | [Future Dust](https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc) | 8:29 | 2023-11-10 | 2024-04-19 |
 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 | 2022-07-05 | 2023-11-05 |

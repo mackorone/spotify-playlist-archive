@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Youn Sun Nah \(나윤선\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,668 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,669 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [Sae jip da oh](https://open.spotify.com/track/1QOrJBxHzCW74wFYDh8rxe) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl) | [Sae jip da oh](https://open.spotify.com/album/1iCsSs6u5XMNKGMy8orm0J) | 5:03 |
 | 50 | [SoftSwing](https://open.spotify.com/track/5OobhUbz1chveKKwUwwhYO) | [LeoSky](https://open.spotify.com/artist/2fz0R4dgBTTnSR3G7nrO0G) | [Soft Swing Jazz Piano](https://open.spotify.com/album/3S4bCzZKDnDykoadEVoA7S) | 2:34 |
 
-Snapshot ID: `AAAAAOn6bWK5M8TBSo906P6D7pMB7Uvo`
+Snapshot ID: `AAAAAFv1oboqSIWU3WheTZZu3Rsb3xBQ`

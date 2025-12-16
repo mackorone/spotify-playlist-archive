@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 554001,
+  "num_followers": 553979,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
+      },
+      "artists": [
+        {
+          "name": "Betraying The Martyrs",
+          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
+        }
+      ],
+      "duration_ms": 231762,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
         "name": "Inner Darkness",
         "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 178920,
       "name": "The Optimist (feat. Conquer Divide)",
       "url": "https://open.spotify.com/track/00ihJcZ6PxA6OxDJmlbvGl"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
-      },
-      "artists": [
-        {
-          "name": "Betraying The Martyrs",
-          "url": "https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro"
-        }
-      ],
-      "duration_ms": 231762,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
     },
     {
       "added_at": "2025-11-05 11:45:24",

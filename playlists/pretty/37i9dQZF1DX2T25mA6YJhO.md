@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: TETAS FRÍAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,641 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,643 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Polillas](https://open.spotify.com/track/7iZoAgYxzJ3kRoM1N3egxU) | [TETAS FRÍAS](https://open.spotify.com/artist/6Lplaf8qcklV41FjuyBw8S) | [VAYA VACACIONES, MACHO](https://open.spotify.com/album/0qcPL6CtPQGt6ELwYRXqEe) | 1:57 |
-| 2 | [Curso Avanzado de Perra](https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Curso Avanzado de Perra](https://open.spotify.com/album/4vL3EwRnbXQFXYtCSRc39p) | 2:58 |
-| 3 | [X](https://open.spotify.com/track/6nGkmEKtGLp02f1ks9ofYS) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [X](https://open.spotify.com/album/3OZ6H6EHs8SZMxrD0P43Cw) | 3:31 |
+| 1 | [Curso Avanzado de Perra](https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Curso Avanzado de Perra](https://open.spotify.com/album/4vL3EwRnbXQFXYtCSRc39p) | 2:58 |
+| 2 | [X](https://open.spotify.com/track/6nGkmEKtGLp02f1ks9ofYS) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [X](https://open.spotify.com/album/3OZ6H6EHs8SZMxrD0P43Cw) | 3:31 |
+| 3 | [Polillas](https://open.spotify.com/track/7iZoAgYxzJ3kRoM1N3egxU) | [TETAS FRÍAS](https://open.spotify.com/artist/6Lplaf8qcklV41FjuyBw8S) | [VAYA VACACIONES, MACHO](https://open.spotify.com/album/0qcPL6CtPQGt6ELwYRXqEe) | 1:57 |
 | 4 | [TENGO UNA COSA EN LA CARTERA](https://open.spotify.com/track/1axufhRkF7nGYx769ZCHuE) | [RATA](https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR) | [TENGO UNA COSA EN LA CARTERA](https://open.spotify.com/album/0QS6nqp3ISEgB0jafIu2m3) | 3:56 |
 | 5 | [Ultra Dante](https://open.spotify.com/track/69qmmFFBTvX7gY7m52jh7f) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [Ultra Dante](https://open.spotify.com/album/7a2bOBvyJJ43kVONqV1yHG) | 2:42 |
 | 6 | [On/Off](https://open.spotify.com/track/2ymr2d8Uu3lNRCArxtbxjX) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [On/Off](https://open.spotify.com/album/0d3y1tekje9TJtR5QYPXPa) | 1:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 79 | [Luces de emergencia](https://open.spotify.com/track/4nFxOFKUmmdvHfCZbkDMhk) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS), [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Patrick](https://open.spotify.com/album/22V7fTKasT2FHivfo7QSIB) | 3:33 |
 | 80 | [Tu desdén](https://open.spotify.com/track/15F604J9wmdF5nqgCrnkYs) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Tu desdén](https://open.spotify.com/album/7qLqRKGoHrsxGdIJ8MTfhG) | 3:48 |
 
-Snapshot ID: `AAAAAL9uxYsM3b0saqoNAejxoldV55e6`
+Snapshot ID: `AAAAAMYCkiCjHHv/nwr/YoGYbtzNt9Oa`

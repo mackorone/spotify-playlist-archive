@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Imame li vrazka](https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD) | [Alisia](https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6) | [Tvoya Totalno](https://open.spotify.com/album/3qFr1hLqtRlXwhd5vICUTK) | 3:27 |
 | 50 | [Амстердам](https://open.spotify.com/track/4jpR02nSAY9ibzrIRgqyA0) | [Silver](https://open.spotify.com/artist/6JzjHqstcEDuJs6Hlqe0M5), [DJ Ceci Ludata Glava](https://open.spotify.com/artist/74GzqKaHbbDCOEdJQuY6xo) | [Амстердам](https://open.spotify.com/album/7h7qc2jEqgx2lDuqLbJBts) | 3:18 |
 
-Snapshot ID: `MNIs0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNN+UAAAAAAAAAAAAAAAAAAAAAAAAGVu`

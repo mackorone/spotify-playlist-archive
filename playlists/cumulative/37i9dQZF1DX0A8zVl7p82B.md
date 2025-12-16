@@ -2,7 +2,7 @@
 
 ### [Christmas Pop](https://open.spotify.com/playlist/37i9dQZF1DX0A8zVl7p82B)
 
-> All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
+> All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
 305 songs - 16 hr 45 min
 

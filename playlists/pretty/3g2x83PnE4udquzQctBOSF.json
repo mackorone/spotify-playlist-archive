@@ -1,13 +1,85 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2645,
+  "num_followers": 2646,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARJcP6xO4dYzaN4HAJpI9mk6ntoXTg",
+  "snapshot_id": "AAARKdwuDlXcvo24wwJ5PwelceodQcES",
   "tracks": [
+    {
+      "added_at": "2025-12-16 00:47:31",
+      "album": {
+        "name": "One Moment for this",
+        "url": "https://open.spotify.com/album/7xUE0yTcI0JddLRDm4RXjJ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Costa",
+          "url": "https://open.spotify.com/artist/3yxmvN8rSmNEfyTCC7FaA2"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Chekmate",
+      "url": "https://open.spotify.com/track/7HhsP952aR70WMDTl1HddE"
+    },
+    {
+      "added_at": "2025-12-15 22:24:48",
+      "album": {
+        "name": "Slow is Smooth. Smooth is Fast.",
+        "url": "https://open.spotify.com/album/7sIVA9xNrYCtBf05hdutQh"
+      },
+      "artists": [
+        {
+          "name": "West Dingo",
+          "url": "https://open.spotify.com/artist/6B30jOzfy4u8nu9PrcoOFa"
+        }
+      ],
+      "duration_ms": 220199,
+      "name": "Leave The Past Behind",
+      "url": "https://open.spotify.com/track/72zsJLiCPtrmjZMakMKOuc"
+    },
+    {
+      "added_at": "2025-12-15 13:09:15",
+      "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/1pXvQPpR6Fsv2Wk2jMlbGx"
+      },
+      "artists": [
+        {
+          "name": "Andrea Moricone",
+          "url": "https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh"
+        },
+        {
+          "name": "Movha",
+          "url": "https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/2viyo7eQgnreJ1YNzQIr1N"
+    },
+    {
+      "added_at": "2025-12-15 12:58:22",
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/5i2ESadvOMUga5McgUTlhL"
+      },
+      "artists": [
+        {
+          "name": "Andrea Moricone",
+          "url": "https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh"
+        },
+        {
+          "name": "Movha",
+          "url": "https://open.spotify.com/artist/3NOBj57odsPGBoHI9Q2BrN"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6ansZdTXkdaVk3tyMTi6bb"
+    },
     {
       "added_at": "2025-12-14 18:53:15",
       "album": {

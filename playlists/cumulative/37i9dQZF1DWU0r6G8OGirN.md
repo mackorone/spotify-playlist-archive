@@ -4,12 +4,13 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-173 songs - 8 hr 53 min
+174 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 | 2021-12-21 |  |
 | [A Child Is Born](https://open.spotify.com/track/3v9uFdFurvDdv62MJG5rmW) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [A Child Is Born](https://open.spotify.com/album/5gbGCosx3CzkowEv9Vgae2) | 2:53 | 2025-11-18 |  |
+| [A Christmas Feeling](https://open.spotify.com/track/02pcI6xxVuefKcYNA7prZh) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [A Christmas Feeling](https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF) | 3:13 | 2025-12-15 |  |
 | [A Christmas Love Song](https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [A Christmas Love Song](https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ) | 2:38 | 2023-11-10 |  |
 | [A Christmas Love Song](https://open.spotify.com/track/1rdXAfT6MVzVm37Qe3BBkl) | [Lori Mechem](https://open.spotify.com/artist/4iOaiUFARBMbAKFW1AHeI4) | [Christmas Jazz 2: Instrumental Jazz For The Holidays](https://open.spotify.com/album/3PxUEXG9yUTdT9vcopnWD9) | 3:48 | 2023-06-15 | 2023-11-11 |
 | [A Christmas Love Song](https://open.spotify.com/track/1rkIIRDsTaaAShnlE3qxyD) | [Lori Mechem](https://open.spotify.com/artist/4iOaiUFARBMbAKFW1AHeI4) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:48 | 2021-12-21 | 2023-07-04 |
@@ -157,7 +158,7 @@
 | [The Story of Santa Claus](https://open.spotify.com/track/6P6j7AvhNwxZNAomiCw1ZS) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [The Story of Santa Claus](https://open.spotify.com/album/6S3izXh542A5ER5eAh8a73) | 3:22 | 2024-11-21 | 2025-09-05 |
 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 | 2021-12-21 | 2025-09-05 |
 | [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 | 2023-09-22 |  |
-| [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 | 2023-11-10 |  |
+| [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 | 2023-11-10 | 2025-12-16 |
 | [Three Kings](https://open.spotify.com/track/2KwzZRHYlsFzGDk1yhMs7Q) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Three Kings](https://open.spotify.com/album/197S7gs5VS1KvDx5aHoau5) | 2:59 | 2021-12-21 | 2023-11-24 |
 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 | 2022-10-13 |  |
 | [Tomorrow Shall Be My Dancing Day](https://open.spotify.com/track/2MIp26Tb64YMUqpmYtyPiW) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Tomorrow Shall Be My Dancing Day](https://open.spotify.com/album/33ubXsrOIKgfeQtPAZDlBH) | 2:50 | 2023-10-06 | 2025-09-05 |

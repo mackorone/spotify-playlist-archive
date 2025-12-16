@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Klaas
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,305 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,306 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 82 | [Activate](https://open.spotify.com/track/2ol3m3QuLmRqovHv4w6KgF) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Activate](https://open.spotify.com/album/0t6BynGppLtuUWXwJStk2I) | 3:55 |
 | 83 | [Promises](https://open.spotify.com/track/5E5wWU6G6r9mBkSunG3mfO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Promises](https://open.spotify.com/album/6HyGsljcGzCkXKTuMoC0IH) | 2:41 |
 | 84 | [DREi TAGE WACH](https://open.spotify.com/track/7McjQ7Y0ywTa20kCT2cRL4) | [Lützenkirchen](https://open.spotify.com/artist/22kkH3Nik327a1kc4OXz8d), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [DREi TAGE WACH](https://open.spotify.com/album/6GSfdTLsSkfcbW2ztFZBGE) | 2:14 |
-| 85 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:51 |
+| 85 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:52 |
 | 86 | [Kissin My Friends](https://open.spotify.com/track/28FqRQFfbGrwGu9CmY4K9X) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Kissin My Friends](https://open.spotify.com/album/6O0smLjs9vs8cgm2kh8jbp) | 2:17 |
 | 87 | [Dreaming](https://open.spotify.com/track/4MNiq0Z2EGTQ0T4om3F1a3) | [Shockz](https://open.spotify.com/artist/2MPHwCi6dWYhq00yEiOuI2) | [Dreaming](https://open.spotify.com/album/2rSK0Zrv5PX3zaSsSLHmnq) | 2:17 |
 | 88 | [High](https://open.spotify.com/track/4fSUCOwcNJEwT6WZEuOz0h) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [High](https://open.spotify.com/album/5DNL2M56upDuI5Zm7Ltcrj) | 2:54 |

@@ -1805,6 +1805,32 @@
     },
     {
       "album": {
+        "name": "Code 13",
+        "url": "https://open.spotify.com/album/678Hqj4dTxZpv1Tf3GZ0QD"
+      },
+      "artists": [
+        {
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+        },
+        {
+          "name": "Obito.Triple3",
+          "url": "https://open.spotify.com/artist/7asvA6Yz9cItmIbt2HNUPQ"
+        },
+        {
+          "name": "DEIMI",
+          "url": "https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152147,
+      "name": "Code 13",
+      "url": "https://open.spotify.com/track/5ZBCuHRodHLeeboUGeGobg"
+    },
+    {
+      "album": {
         "name": "COLD PALMER",
         "url": "https://open.spotify.com/album/1xnQozBIU83NvwAnboEzGW"
       },
@@ -1990,7 +2016,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 195422,
       "name": "DEM",
       "url": "https://open.spotify.com/track/1xCAg2vbgoxn8Ae42jpa4D"
@@ -3460,7 +3486,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 168247,
       "name": "IMBECILE",
       "url": "https://open.spotify.com/track/62fZpKvnicIFNWHN2PEqig"
@@ -4016,6 +4042,24 @@
       "duration_ms": 176698,
       "name": "Kima Bakri",
       "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
+    },
+    {
+      "album": {
+        "name": "KIYA",
+        "url": "https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW"
+      },
+      "artists": [
+        {
+          "name": "Khtek",
+          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "KIYA",
+      "url": "https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3"
     },
     {
       "album": {
@@ -5653,6 +5697,28 @@
     },
     {
       "album": {
+        "name": "Ni9ach",
+        "url": "https://open.spotify.com/album/41KLHqAh00NSCrxtz7O48I"
+      },
+      "artists": [
+        {
+          "name": "21 Tach",
+          "url": "https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc"
+        },
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Ni9ach",
+      "url": "https://open.spotify.com/track/1u1NDVqoVVOckG9tSYa4ln"
+    },
+    {
+      "album": {
         "name": "Lmektoub",
         "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
       },
@@ -6086,7 +6152,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 162083,
       "name": "Pharmacie 3",
       "url": "https://open.spotify.com/track/5l398epBtEEatlLi3DF969"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1ZV5KQP9n81oexu6dOST7q.md) - cumulative - [plain](/playlists/plain/1ZV5KQP9n81oexu6dOST7q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1ZV5KQP9n81oexu6dOST7q)
 
-### [Dance Party Mix \|  New Years Eve 2025 \| House Party](https://open.spotify.com/playlist/1ZV5KQP9n81oexu6dOST7q)
+### [DANCE Party Mix \|  New Years Eve 2025 \| House Party](https://open.spotify.com/playlist/1ZV5KQP9n81oexu6dOST7q)
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 

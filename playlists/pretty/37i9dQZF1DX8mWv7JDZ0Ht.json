@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Benzi\u00ea",
-  "num_followers": 436364,
+  "num_followers": 436360,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,6 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 175176,
-      "name": "Ombro Amigo",
-      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
-    },
-    {
-      "added_at": "2025-12-12 12:00:22",
-      "album": {
         "name": "Del Amor Una Bandera",
         "url": "https://open.spotify.com/album/2ISymt2oiMYBJaL7Iuy9k0"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 187154,
       "name": "Del Amor Una Bandera",
       "url": "https://open.spotify.com/track/2UVQCFIHDHAvLEABsn5bqE"
+    },
+    {
+      "added_at": "2025-12-12 12:00:22",
+      "album": {
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 175176,
+      "name": "Ombro Amigo",
+      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
     },
     {
       "added_at": "2025-12-12 12:00:22",
@@ -583,38 +583,6 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
-        "name": "Quarto",
-        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "T\u00e3o Perto",
-      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
-    },
-    {
-      "added_at": "2025-12-12 12:00:22",
-      "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
-    },
-    {
-      "added_at": "2025-12-12 12:00:22",
-      "album": {
         "name": "sinto saudade",
         "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
       },
@@ -635,22 +603,34 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
-        "name": "Fica De Dengo",
-        "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 145306,
-      "name": "Fica De Dengo",
-      "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2025-12-12 12:00:22",
+      "album": {
+        "name": "Quarto",
+        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "added_at": "2025-12-12 12:00:22",
@@ -671,6 +651,26 @@
       "duration_ms": 160230,
       "name": "Daqui pra sempre",
       "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
+    },
+    {
+      "added_at": "2025-12-12 12:00:22",
+      "album": {
+        "name": "Fica De Dengo",
+        "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "Fica De Dengo",
+      "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
     },
     {
       "added_at": "2025-12-12 12:00:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
-    },
-    {
-      "added_at": "2025-12-12 12:00:22",
-      "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 174000,
       "name": "Sol de S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+    },
+    {
+      "added_at": "2025-12-12 12:00:22",
+      "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
     },
     {
       "added_at": "2025-12-12 12:00:22",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+    },
+    {
+      "added_at": "2025-12-12 12:00:22",
+      "album": {
         "name": "Mar Manso",
         "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2025-12-12 12:00:22",
-      "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
     },
     {
       "added_at": "2025-12-12 12:00:22",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
       "artists": [
         {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "added_at": "2025-12-12 12:00:22",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
-        "name": "Vamos de Viagem",
-        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
         }
       ],
-      "duration_ms": 238604,
-      "name": "Vamos de Viagem",
-      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
     },
     {
       "added_at": "2025-12-12 12:00:22",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
+        "name": "Canibal",
+        "url": "https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 155912,
+      "name": "Canibal",
+      "url": "https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ"
+    },
+    {
+      "added_at": "2025-12-12 12:00:22",
+      "album": {
         "name": "G\u00e9rbera + Na Proa da Saudade",
         "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 173365,
       "name": "Meu corpo pede",
       "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
-    },
-    {
-      "added_at": "2025-12-12 12:00:22",
-      "album": {
-        "name": "Canibal",
-        "url": "https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 155912,
-      "name": "Canibal",
-      "url": "https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ"
     },
     {
       "added_at": "2025-12-12 12:00:22",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-12-12 12:00:22",
       "album": {
+        "name": "M\u00fasica Popular Brasadelic",
+        "url": "https://open.spotify.com/album/4mYgclfzu5nM325d81bAt3"
+      },
+      "artists": [
+        {
+          "name": "HOZE",
+          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
+        }
+      ],
+      "duration_ms": 172931,
+      "name": "MARIANA",
+      "url": "https://open.spotify.com/track/3tgc74LHVhqXvdll2G9lbY"
+    },
+    {
+      "added_at": "2025-12-12 12:00:22",
+      "album": {
         "name": "olhos mar",
         "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 83467,
       "name": "olhos mar",
       "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
-    },
-    {
-      "added_at": "2025-12-12 12:00:22",
-      "album": {
-        "name": "M\u00fasica Popular Brasadelic",
-        "url": "https://open.spotify.com/album/4mYgclfzu5nM325d81bAt3"
-      },
-      "artists": [
-        {
-          "name": "HOZE",
-          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
-        }
-      ],
-      "duration_ms": 172931,
-      "name": "MARIANA",
-      "url": "https://open.spotify.com/track/3tgc74LHVhqXvdll2G9lbY"
     },
     {
       "added_at": "2025-12-12 12:00:22",

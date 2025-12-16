@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain](/playlists/plain/3wI0prya1veVHKQOtLbmxB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3wI0prya1veVHKQOtLbmxB)
 
-### [songs to fall in love to \| love songs 2025](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
+### [songs to fall in love to \| love songs 2026](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love\. \#coversforlovers
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 145,212 likes - 95 songs - 5 hr 57 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 145,183 likes - 95 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 | 94 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 95 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 
-Snapshot ID: `AAAJVq9Y+M2LCrwfp0He1zmEK6FR6YGs`
+Snapshot ID: `AAAJV8STQH94QLtQ5zE2j6TlB6nia01t`

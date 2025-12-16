@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3wI0prya1veVHKQOtLbmxB.md) - cumulative - [plain](/playlists/plain/3wI0prya1veVHKQOtLbmxB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3wI0prya1veVHKQOtLbmxB)
 
-### [songs to fall in love to \| love songs 2025](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
+### [songs to fall in love to \| love songs 2026](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love\. \#coversforlovers
 

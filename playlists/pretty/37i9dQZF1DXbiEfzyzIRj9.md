@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,440 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,441 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 37 | [Nobody \(Like You\)](https://open.spotify.com/track/2ua4P7zVjvyDp54hhGEALs) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao) | [The Music](https://open.spotify.com/album/3uzHlXHPBgf7qQaz5dOi7e) | 2:06 |
 | 38 | [思惟 \- Albino Sound Remix](https://open.spotify.com/track/7mQcODCpsWaCOO4wnkZhBm) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [Ryu NAKASHIMA](https://open.spotify.com/artist/4C1YIkrF9cfQ4KdH0zeT9G), [Albino Sound](https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0) | [Keep in Touch \- Sounds of Summer 2025 Remixes](https://open.spotify.com/album/7r0adXqc55qEh7TQrZzkik) | 4:36 |
 | 39 | [Cigarettes](https://open.spotify.com/track/2iOJRyb1WwNPNdiEwrM2bv) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [Isaiah Michael Davis](https://open.spotify.com/artist/68mJqoC3ozybysPjguTd7j) | [Swordfish](https://open.spotify.com/album/0WDJYBUOl1HGeGsIYspOp1) | 3:27 |
-| 40 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:51 |
+| 40 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:52 |
 | 41 | [Can’t Stop \- KiNK Remix](https://open.spotify.com/track/55V8yyVFw9oMSy3nOQPTom) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Can’t Stop \(KiNK Remix\)](https://open.spotify.com/album/4nQKyGv9FxhpB6zsIKEOEC) | 4:52 |
 | 42 | [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 |
 | 43 | [What Is Luv](https://open.spotify.com/track/3tHm3fmHkVpc9ykfO8hMbG) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [What Is Luv](https://open.spotify.com/album/7Elk5GUEw2XPmz7fOZAJvG) | 3:51 |

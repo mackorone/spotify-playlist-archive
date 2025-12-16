@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240832,
+      "name": "Sticks 'N' Stones",
+      "url": "https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl"
+    },
+    {
+      "album": {
         "name": "Why'd You Only Call Me When You're High?",
         "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
       },

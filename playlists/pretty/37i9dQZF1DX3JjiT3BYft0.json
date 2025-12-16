@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78309,
+  "num_followers": 78315,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,38 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
+        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
+        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
+        }
+      ],
+      "duration_ms": 220017,
+      "name": "\u30b3\u30cf\u30af",
+      "url": "https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "THE WAY OF LIFE",
+        "url": "https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "THE WAY OF LIFE",
+      "url": "https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
         "name": "\u3048\u304c\u304a\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3063\uff01 (\u30d1\u30e9\u30ec\u30ebver.)",
         "url": "https://open.spotify.com/album/4VQ5iNgOsj6JguyK8XDDNb"
       },
@@ -647,38 +679,6 @@
       "duration_ms": 230366,
       "name": "\u3048\u304c\u304a\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3063\uff01 (\u30d1\u30e9\u30ec\u30ebver.)",
       "url": "https://open.spotify.com/track/4rdmyKUmOxgTmVPnqkKqoW"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
-        "name": "THE WAY OF LIFE",
-        "url": "https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "THE WAY OF LIFE",
-      "url": "https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
-        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
-        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
-      },
-      "artists": [
-        {
-          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
-          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
-        }
-      ],
-      "duration_ms": 234017,
-      "name": "\u65b0\u4eba\u985e\u306f\u4eee\u60f3\u4e16\u754c\u306e\u5922\u3092\u898b\u308b\u304b\uff1f",
-      "url": "https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
+        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
+        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
+      },
+      "artists": [
+        {
+          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
+        }
+      ],
+      "duration_ms": 234017,
+      "name": "\u65b0\u4eba\u985e\u306f\u4eee\u60f3\u4e16\u754c\u306e\u5922\u3092\u898b\u308b\u304b\uff1f",
+      "url": "https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
         "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077\uff11 (Cover)",
         "url": "https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 196666,
       "name": "\u30ab\u30b5\u30d6\u30bf - Cover",
       "url": "https://open.spotify.com/track/59Pe5PRQEFrLVj9G4Bvp13"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
-        "name": "\u30b3\u30df\u30e5\u7740\u706bFire!",
-        "url": "https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9"
-      },
-      "artists": [
-        {
-          "name": "\u5922\u9650\u5927\u307f\u3085\u30fc\u305f\u3044\u3077",
-          "url": "https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK"
-        }
-      ],
-      "duration_ms": 220017,
-      "name": "\u30b3\u30cf\u30af",
-      "url": "https://open.spotify.com/track/78wP3WriYV17zAADyRUJxJ"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Butter-Fly - Cover",
-      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
         "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093 (Cover)",
         "url": "https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 214833,
       "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093 - Cover",
       "url": "https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Butter-Fly - Cover",
+      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 259833,
-      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa - Cover",
-      "url": "https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
         "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection",
         "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 247633,
       "name": "GO! GO! MANIAC",
       "url": "https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 259833,
+      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa - Cover",
+      "url": "https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 227466,
-      "name": "Listen!! - Cover",
-      "url": "https://open.spotify.com/track/7fPdIuNqu222MRU3LUQIHH"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
         "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
         "url": "https://open.spotify.com/album/0I6oM7XvOTfzCq4hmUrXFU"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 218640,
       "name": "\u30b4\u30fc\u30ab!\u3054\u30fc\u304b\u3044!?\u30d5\u30a1\u30f3\u30c8\u30e0\u30b7\u30fc\u30d5!",
       "url": "https://open.spotify.com/track/6Mfr5EHIrMhZefeWuOPuiO"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "Listen!! - Cover",
+      "url": "https://open.spotify.com/track/7fPdIuNqu222MRU3LUQIHH"
     },
     {
       "added_at": "2025-10-02 16:34:34",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-10-02 16:34:34",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
-        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u5712\u305f\u3048(CV:\u5927\u585a\u7d17\u82f1)",
-          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
-        }
-      ],
-      "duration_ms": 293600,
-      "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM"
-    },
-    {
-      "added_at": "2025-10-02 16:34:34",
-      "album": {
         "name": "\u30ad\u30df\u3092 \u308c\u3063\u3064\u30fb\u306f\u3076\u30fb\u3075\u3041\u3093\u266a",
         "url": "https://open.spotify.com/album/25kdZKiHYjFDfnzQUEheQH"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 235000,
       "name": "\u30ad\u30df\u3092 \u308c\u3063\u3064\u30fb\u306f\u3076\u30fb\u3075\u3041\u3093\u266a",
       "url": "https://open.spotify.com/track/6UvgtXRglHbv8TMZs12DCK"
+    },
+    {
+      "added_at": "2025-10-02 16:34:34",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u82b1\u5712\u305f\u3048\u300c\u82b1\u5712\u96fb\u6c17\u30ae\u30bf\u30fc!!!\u300d",
+        "url": "https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u5712\u305f\u3048(CV:\u5927\u585a\u7d17\u82f1)",
+          "url": "https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q"
+        }
+      ],
+      "duration_ms": 293600,
+      "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM"
     },
     {
       "added_at": "2025-10-02 16:34:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 
 > Listen to the soundtracks of Disney+'s original drama Call It Love\. \(디즈니+ 오리지널 드라마 사랑이라 말해요의 사운드 트랙들을 즐겨보세요!\) You can also listen to 15 songs personally selected by actor Kim Young\-kwang\. \(김영광 배우가 직접 선정한 15곡도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,287 likes - 28 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5 likes - 28 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 | 17 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 |
 | 18 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
 | 19 | [how deep?](https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [how deep?](https://open.spotify.com/album/4vaxABro6oVySHD5okB7QE) | 2:34 |
-| 20 | [CHRISTIAN](https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:41 |
+| 20 | [CHRISTIAN](https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF) | [Zior Park](https://open.spotify.com/artist/6jjByYvDQFYAmcnmnqSmlC) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:41 |
 | 21 | [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 |
 | 22 | [HOME IS FAR AWAY](https://open.spotify.com/track/7zyEA6ntsqPH7sLc1YYK26) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 4:51 |
 | 23 | [UNIVERSE 4 TWO](https://open.spotify.com/track/7JwZb4dbB6GSsbUodjWaVX) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [JúJú & The Flowerbug](https://open.spotify.com/album/2PXP673QHx50WTC2Tu7KPF) | 3:23 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJer66eoqCP.md) - [plain]
 | 27 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 |
 | 28 | [If You Still Wanted to Be Loved](https://open.spotify.com/track/6aCBO28IURluAFDCvIAFtY) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [If You Still Wanted to Be Loved](https://open.spotify.com/album/6BVQYVkF35Tk93rYX8mefs) | 3:01 |
 
-Snapshot ID: `ZIsVoAAAAAAKimQ4kP+sHNPIWbUaJqtj`
+Snapshot ID: `AAAAAJba72k4/ONiUkxBxgo4fsJcRXc/`

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-988 songs - 2 day 17 hr 7 min
+989 songs - 2 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [Total euphoria](https://open.spotify.com/track/5GHYjIrLwK4e7WTTZZcJt5) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:30 | 2025-08-12 |  |
 | [Trace](https://open.spotify.com/track/3wn2M3B4nge5qnqeqKdeFC) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 4:33 | 2024-09-17 |  |
 | [TRACK UNO](https://open.spotify.com/track/05gZLyOQphrQN86Jn2urCP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 5:44 | 2023-05-19 | 2024-01-09 |
+| [Trigger Warning](https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Deleted Albums, Sorry](https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH) | 3:53 | 2025-12-15 |  |
 | [ttgwh](https://open.spotify.com/track/1YDEfY4n05BucPJIW1BalS) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Tell The Ghost Welcome Home](https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp) | 1:14 | 2025-11-07 |  |
 | [Tudo O Que Você Podia Ser](https://open.spotify.com/track/4YwIblyn5m2XAJ7ljh5d79) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 2:57 | 2024-06-16 |  |
 | [Turkish Cotton](https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:46 | 2023-04-25 |  |

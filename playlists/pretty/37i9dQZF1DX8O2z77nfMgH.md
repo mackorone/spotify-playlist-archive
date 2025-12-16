@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,252 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,047 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 36 | [Solo Tuya](https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Solo Tuya](https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV) | 3:46 |
 | 37 | [LONELY](https://open.spotify.com/track/2NS8ahwRfmPDbc6tThQO7Y) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [LONELY](https://open.spotify.com/album/5oF0Nrst7BCIT5UElBmwMc) | 2:42 |
 | 38 | [Yo Le Entregaba Todo](https://open.spotify.com/track/6YRxq1KjETvOkdmBQvMt2h) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Como Es Arriba, Es Abajo](https://open.spotify.com/album/5D2wY1ByIhPOlN5Q2sOQkH) | 3:13 |
-| 39 | [Quanto vale o show memo?](https://open.spotify.com/track/60C5e5py3Ab2h21I8a63n9) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 3:17 |
+| 39 | [Quanto vale o show memo?](https://open.spotify.com/track/60C5e5py3Ab2h21I8a63n9) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 3:17 |
 | 40 | [Rodando En La City \- Remix](https://open.spotify.com/track/4Pi9VunVTDbPe1Oqy8bFDa) | [333XPLICIT](https://open.spotify.com/artist/3z2C7Wi3arsipWF2W6Bf7e), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [El Derk](https://open.spotify.com/artist/701KIi8HRavu6p07PBZNxZ), [Bonuchi](https://open.spotify.com/artist/6VSteFvUqNFlqTmN66YxdI), [Gothic](https://open.spotify.com/artist/7fNgp7svuzIXkpsu8jHJ9Q), [El Yeyo PP](https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2) | [Rodando En La City \(Remix\)](https://open.spotify.com/album/5UzzdNDqeX4QTHyGlBE19P) | 5:53 |
 | 41 | [Luna](https://open.spotify.com/track/19364SMEGd6Ok1MM7FkIAl) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ), [Anlly Marín](https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr) | [Luna](https://open.spotify.com/album/427EFZ8wCR4vEOJfpiLBvQ) | 3:34 |
 | 42 | [AMOR VULGAR 4](https://open.spotify.com/track/0CHxgZnwGiIhyODrEISeeP) | [Mr\. Fox](https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw) | [AMOR VULGAR 4](https://open.spotify.com/album/1OjUgjOhj3rUJQFonXLIHO) | 2:54 |

@@ -4571,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "First Winter",
+        "url": "https://open.spotify.com/album/2wOS52H0jEU2gvCG2LY8yW"
+      },
+      "artists": [
+        {
+          "name": "Valentino Mancini",
+          "url": "https://open.spotify.com/artist/4cR9c2JR4Qx5npOY9BSZf2"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135796,
+      "name": "First Winter",
+      "url": "https://open.spotify.com/track/1NXRPOXL3K97W358UUrPeB"
+    },
+    {
+      "album": {
         "name": "Flieg Mit Mir",
         "url": "https://open.spotify.com/album/5QWisGyN0UipCZN6quVkq2"
       },
@@ -6034,6 +6052,24 @@
       "duration_ms": 75447,
       "name": "Herbstlied",
       "url": "https://open.spotify.com/track/7yZsSt9ve527ljZ6RdwRrE"
+    },
+    {
+      "album": {
+        "name": "Hiver (7:11)",
+        "url": "https://open.spotify.com/album/28zPXylnqx9stnNEvdVJ5z"
+      },
+      "artists": [
+        {
+          "name": "Oscar Kowalski",
+          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Hiver (7:11)",
+      "url": "https://open.spotify.com/track/3IXbgVz7ppLZxZZXzo9aBd"
     },
     {
       "album": {
@@ -7642,7 +7678,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 236245,
       "name": "life",
       "url": "https://open.spotify.com/track/6Khsx8SyUg83LbBBCFYy0q"
@@ -7660,7 +7696,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 236245,
       "name": "life",
       "url": "https://open.spotify.com/track/7I6gFxShYcBJEfVpsyj9YC"
@@ -9552,6 +9588,24 @@
       "duration_ms": 130393,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/3dfQWHtPrSciTmrwsYqvBB"
+    },
+    {
+      "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/00hrju6t9oOAIqi53J47um"
+      },
+      "artists": [
+        {
+          "name": "Valentino Mancini",
+          "url": "https://open.spotify.com/artist/4cR9c2JR4Qx5npOY9BSZf2"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52682,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/24Rg9Rhjk03xFoxrZCTP1g"
     },
     {
       "album": {

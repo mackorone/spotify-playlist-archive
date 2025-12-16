@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41468,
+  "num_followers": 41471,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAABTmxmziYNmQCdNMDNsnGzs",
+  "snapshot_id": "aT3+AAAAAADHs6Z3yMLlZjvNM5mJxSa3",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adoraci\u00f3n Vol. 1",
-        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n",
-          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 351542,
-      "name": "Yo Te Busco",
-      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 335528,
       "name": "El Shaddai - Live",
       "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adoraci\u00f3n Vol. 1",
+        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n",
+          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 351542,
+      "name": "Yo Te Busco",
+      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
     },
     {
       "added_at": null,

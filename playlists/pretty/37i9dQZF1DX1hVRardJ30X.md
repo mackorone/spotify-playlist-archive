@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Becky G, ROA, Maria Becerra & Jay Wheeler, Ivan Cornejo and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,545 likes - 57 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,570 likes - 57 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

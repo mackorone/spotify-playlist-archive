@@ -3566,7 +3566,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 258939,
       "name": "Bajo Mi Piel",
       "url": "https://open.spotify.com/track/6yy5cCDppQn6mJBRbnSdSQ"
@@ -10448,7 +10448,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 187000,
       "name": "DIVINE",
       "url": "https://open.spotify.com/track/15nElWknZsgnSIfVihVCQf"
@@ -10466,7 +10466,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "DIVINE",
       "url": "https://open.spotify.com/track/7tvHcZM7GcXJQ1rKWuwRgp"
@@ -10520,10 +10520,28 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 159000,
       "name": "Do It",
       "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
+    },
+    {
+      "album": {
+        "name": "DO IT",
+        "url": "https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN"
     },
     {
       "album": {
@@ -17092,7 +17110,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 121771,
       "name": "HOMAGE FUNK",
       "url": "https://open.spotify.com/track/4oFXV9F1OhUZy9cEGqrGHe"
@@ -19004,7 +19022,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 211500,
       "name": "La Leyenda del Rey y el Mago | Ness Rap",
       "url": "https://open.spotify.com/track/0IP8cDEseJqm3HsOjGXBoM"
@@ -20918,7 +20936,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 109128,
       "name": "Losin' Streak",
       "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
@@ -24254,6 +24272,32 @@
       "duration_ms": 137369,
       "name": "MONTAGEM MUEVELOU",
       "url": "https://open.spotify.com/track/6YRzHINHGFHeK9Z6AYuGtl"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM RABETA",
+        "url": "https://open.spotify.com/album/0zfQ50wO31gdTFrGY0sebM"
+      },
+      "artists": [
+        {
+          "name": "VXCA",
+          "url": "https://open.spotify.com/artist/6ejSrvgmt2Rhnv07C1FLov"
+        },
+        {
+          "name": "SLOWERB",
+          "url": "https://open.spotify.com/artist/2ZJZrB4omgIuowframwGmT"
+        },
+        {
+          "name": "KRAZYMANE",
+          "url": "https://open.spotify.com/artist/5XlCwb66d3JQmGvlpDjn27"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99144,
+      "name": "MONTAGEM RABETA - SLOWED",
+      "url": "https://open.spotify.com/track/02kfGSkJAkrAWG0Q0VZ1JF"
     },
     {
       "album": {
@@ -30140,7 +30184,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
@@ -30522,7 +30566,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 515773,
       "name": "PXG vs Bastard Munchen",
       "url": "https://open.spotify.com/track/0N2qTI5dVcTrXJr94GQXS7"
@@ -34902,7 +34946,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 163208,
       "name": "Sorri, Sou Rei",
       "url": "https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN"

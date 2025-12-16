@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Solomun, Denis Sulta
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,504 likes - 90 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,586 likes - 90 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 29 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |
 | 30 | [Axis Falcon \- Radio Mix](https://open.spotify.com/track/6ccNirrYRSjUwvc1z60hGe) | [Ankytrixx](https://open.spotify.com/artist/0iR2aBD4jqqgU1SLM618oY), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [Axis Falcon \(Radio Mix\)](https://open.spotify.com/album/1iFEBXcdUv1Xy8UfeKiMO9) | 3:36 |
 | 31 | [The Moon Goes Down](https://open.spotify.com/track/3bV4BHgpO3WlcuMHhqIINq) | [Pisetzky](https://open.spotify.com/artist/4zq6eEXYDoLelYu2rZ9eru), [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz) | [The Moon Goes Down](https://open.spotify.com/album/7w5tPRMEipqvqEQ8BQP6VZ) | 5:38 |
-| 32 | [Perla](https://open.spotify.com/track/1J4BwqPCGTCQOgpJmAoHhp) | [Nico Stojan](https://open.spotify.com/artist/1SuKmGtjsRRJcGhTspfUnd), [Tooker](https://open.spotify.com/artist/4g8ii7UNqIRzb5NDJmjjqT) | [Perla](https://open.spotify.com/album/4n5fqMsAiHfTGGwdqTEabp) | 6:12 |
+| 32 | [Perla \- Extended Mix](https://open.spotify.com/track/1J4BwqPCGTCQOgpJmAoHhp) | [Nico Stojan](https://open.spotify.com/artist/1SuKmGtjsRRJcGhTspfUnd), [Tooker](https://open.spotify.com/artist/4g8ii7UNqIRzb5NDJmjjqT) | [Perla](https://open.spotify.com/album/4n5fqMsAiHfTGGwdqTEabp) | 6:12 |
 | 33 | [Take Me Down](https://open.spotify.com/track/5kYD8wp3DP5nyHAQYKjv7t) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Take Me Down](https://open.spotify.com/album/7Ll3evfz8mbgWjVYZ6F7hi) | 3:31 |
 | 34 | [Scoopy \- KEKURA Remix](https://open.spotify.com/track/0VehUuO7bLsxQ5s2CgkhrH) | [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [AYOUBYME](https://open.spotify.com/artist/3q4BED0WQZe4e16CXJL4CE), [KEKURA](https://open.spotify.com/artist/4XgFUd6zkzZDAy7M05zLbs) | [Scoopy \(KEKURA Remix\)](https://open.spotify.com/album/0sBTEKwwqx9xe8sGQpSM8z) | 4:09 |
 | 35 | [T\-99](https://open.spotify.com/track/3Ur9IcHP4yczxWGDJZkL9d) | [Bobby Nourmand](https://open.spotify.com/artist/5IAjo5Sxdt6lQpT0lRmteP), [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0) | [T\-99](https://open.spotify.com/album/45FTcWXEgOp3Vu0rt6twTm) | 4:13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39483,
+  "num_followers": 39485,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAABtqa9YAT8SYwD3vs7yqD6q",
+  "snapshot_id": "aT3+AAAAAABRn1w/S6f7Thh2M6iqrTBv",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wiggle It (feat. City Girls)",
-        "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 172048,
-      "name": "Wiggle It (feat. City Girls)",
-      "url": "https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 194693,
       "name": "Fu*k Dat Ni**a",
       "url": "https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wiggle It (feat. City Girls)",
+        "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 172048,
+      "name": "Wiggle It (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158136,
+      "name": "Fuck The D To The A",
+      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 208932,
       "name": "BILLS PAID (feat. Latto & City Girls)",
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158136,
-      "name": "Fuck The D To The A",
-      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 115987,
+      "name": "That's My Bitch",
+      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JT First Day Out",
         "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 187679,
       "name": "JT First Day Out",
       "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 115987,
-      "name": "That's My Bitch",
-      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
     },
     {
       "added_at": null,

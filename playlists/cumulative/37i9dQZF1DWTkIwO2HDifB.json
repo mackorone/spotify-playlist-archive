@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Amo Minha Favela",
+        "url": "https://open.spotify.com/album/20s95PaYtUZtoplbDIBetb"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119769,
+      "name": "Amo Minha Favela",
+      "url": "https://open.spotify.com/track/4S1SaaCxQ87nXpA2EfYFj4"
+    },
+    {
+      "album": {
         "name": "Set Final de Ano",
         "url": "https://open.spotify.com/album/3pBhYZe8hfAyYTAgA0FjNC"
       },
@@ -3544,6 +3566,36 @@
       "duration_ms": 190055,
       "name": "Espirra o Lan\u00e7a",
       "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
+    },
+    {
+      "album": {
+        "name": "Esse Cupido N\u00e3o Me Ajuda",
+        "url": "https://open.spotify.com/album/7kMvEhtZxd5CdhVqQBYtG2"
+      },
+      "artists": [
+        {
+          "name": "Dexhenry",
+          "url": "https://open.spotify.com/artist/6ogNxRbtZDpaCtOUBaf09u"
+        },
+        {
+          "name": "DJ QUIRINO",
+          "url": "https://open.spotify.com/artist/7lpdjvBflQskU8qfdHuCSF"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Ascending",
+          "url": "https://open.spotify.com/artist/4LkHFz8KqQUcE5TGf0IapL"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Esse Cupido N\u00e3o Me Ajuda",
+      "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
     },
     {
       "album": {
@@ -10720,7 +10772,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 122880,
       "name": "Ter\u00e7a de Vitrine",
       "url": "https://open.spotify.com/track/1sdSyDI50VEY4apSDZJhu9"
@@ -10862,7 +10914,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 101514,
       "name": "Tipo Insta do Buzeira",
       "url": "https://open.spotify.com/track/2kap2PwtaXA1OeDBlNw5wZ"

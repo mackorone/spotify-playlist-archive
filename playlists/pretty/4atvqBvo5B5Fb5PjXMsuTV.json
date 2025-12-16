@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Dec 04:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Dec 09:05 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWsxgHDfTWQ+yRqdNHC1sMEb8YiLYa",
+  "snapshot_id": "AAAWtfw3sYcCa2UdEkyDE8u95KNzjvSA",
   "tracks": [
     {
       "added_at": "2025-12-12 23:06:13",
@@ -71,6 +71,26 @@
       "duration_ms": 262036,
       "name": "OUBLIETTE",
       "url": "https://open.spotify.com/track/4tvOXEaUFnBZt72O5kKsz9"
+    },
+    {
+      "added_at": "2025-12-15 09:05:25",
+      "album": {
+        "name": "Superscar (SONIKKU Remix)",
+        "url": "https://open.spotify.com/album/7raylxJ3XFNzulLbbFuwnH"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        },
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "Superscar - SONIKKU Remix",
+      "url": "https://open.spotify.com/track/2DSo999j9b6tgCfWTBlj9t"
     },
     {
       "added_at": "2025-12-12 09:06:07",
@@ -560,8 +580,8 @@
           "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         },
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Tom Rowlands",
+          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
         }
       ],
       "duration_ms": 331413,
@@ -815,22 +835,6 @@
       "duration_ms": 177000,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5"
-    },
-    {
-      "added_at": "2025-11-28 09:04:16",
-      "album": {
-        "name": "Goat Stamp",
-        "url": "https://open.spotify.com/album/63N1gzlQ9beKpClgpD6r3l"
-      },
-      "artists": [
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        }
-      ],
-      "duration_ms": 216377,
-      "name": "Goat Stamp",
-      "url": "https://open.spotify.com/track/4H6OFCJ5GHuM3NzuCHjvsc"
     }
   ],
   "unique_name": "New Singles Now",

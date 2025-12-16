@@ -2,7 +2,7 @@
 
 ### [Winter 2025](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Dé playlist voor het najaar van 2025! 🌦️☔️
+> De winter komt eraan! 🌦️☔️
 
 812 songs - 1 day 17 hr 0 min
 

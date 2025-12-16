@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-141 songs - 8 hr 7 min
+142 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 | 2025-10-31 |  |
 | [Happier \- Piano Version](https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier \(Piano Version\)](https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S) | 3:12 | 2025-06-27 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-06-27 |  |
+| [Heart of the Matter](https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Heart of the Matter](https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt) | 4:04 | 2025-12-05 |  |
 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 | 2025-06-27 |  |
 | [Here's To Forever](https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx) | [Bart van Liemt](https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D) | [Here's To Forever](https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7) | 3:04 | 2025-06-27 |  |
 | [Hope](https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv) | [Opera Alaska](https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx) | [Hope](https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH) | 2:52 | 2025-06-27 | 2025-10-17 |
@@ -109,7 +110,7 @@
 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 | 2025-06-27 |  |
 | [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-06-27 |  |
 | [Roller Coaster](https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Roller Coaster](https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd) | 2:35 | 2025-06-27 |  |
-| [Romeo & Julia](https://open.spotify.com/track/4HSLqHcwaj5clHCrXfmp0B) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Romeo & Julia](https://open.spotify.com/album/3xuoSZmnVBiW2ZrIt3DuF4) | 2:29 | 2025-11-11 |  |
+| [Romeo & Julia](https://open.spotify.com/track/4HSLqHcwaj5clHCrXfmp0B) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Romeo & Julia](https://open.spotify.com/album/3xuoSZmnVBiW2ZrIt3DuF4) | 2:29 | 2025-11-11 | 2025-12-16 |
 | [Same Heart](https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Same Heart](https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8) | 3:39 | 2025-10-09 |  |
 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 | 2025-06-27 |  |
 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 | 2025-09-03 |  |

@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-843 songs - 1 day 11 hr 5 min
+846 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [first dream](https://open.spotify.com/track/6mUNhXpUrl2HBqtZy4l70s) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [my dreams](https://open.spotify.com/album/5Yf71XMJKDiuasIjOmTTm7) | 2:06 | 2024-04-13 | 2025-02-15 |
 | [first flight](https://open.spotify.com/track/02fMzeCBT4nuLS9VEu12bs) | [Hajime Hattori](https://open.spotify.com/artist/7aEnE4vW1p9LM0hSUB4UNx), [vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [first flight](https://open.spotify.com/album/0sp7g28si4mWjHRehNkaMh) | 2:43 | 2025-09-15 |  |
 | [First Spring](https://open.spotify.com/track/5U3ry1bhFKUClOHm0W730g) | [Olha Shustova](https://open.spotify.com/artist/43CI8IOHXnklTvPQaou8lN) | [Lullabies Of The Seasons](https://open.spotify.com/album/7vSbeXespWmp9FMgqDaBwX) | 3:22 | 2025-04-14 |  |
+| [First Winter](https://open.spotify.com/track/1NXRPOXL3K97W358UUrPeB) | [Valentino Mancini](https://open.spotify.com/artist/4cR9c2JR4Qx5npOY9BSZf2) | [First Winter](https://open.spotify.com/album/2wOS52H0jEU2gvCG2LY8yW) | 2:15 | 2025-12-15 |  |
 | [Flieg Mit Mir](https://open.spotify.com/track/3s4YVO6r1midVIgKIheI0Y) | [Nikolas Belalis](https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M) | [Flieg Mit Mir](https://open.spotify.com/album/5QWisGyN0UipCZN6quVkq2) | 1:47 | 2024-12-06 |  |
 | [Floating Away](https://open.spotify.com/track/7GSyagbj0E9OI6mJDAPPDO) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Emilia Fuchs](https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Floating Away](https://open.spotify.com/album/3gkbxrch1pUoGSsSf8EMS5) | 1:43 | 2023-10-29 | 2024-05-03 |
 | [flora](https://open.spotify.com/track/7jndctfe9veSwDZDtuwW4L) | [laurel green](https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk) | [flora](https://open.spotify.com/album/3XwBZsx5av9m2uoAqAq0MC) | 2:46 | 2024-06-17 | 2025-06-03 |
@@ -320,6 +321,7 @@
 | [Heavenly Peace](https://open.spotify.com/track/6Pyl2jjDC1sUqQoqabdZFv) | [Boyd](https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA), [David S\. Park](https://open.spotify.com/artist/56ktVDec0voYjJtU66J090) | [Heavenly Peace](https://open.spotify.com/album/6lWmnWfVbwHVO60lSz45b8) | 1:28 | 2023-12-17 | 2025-02-15 |
 | [Her Blue Eyes](https://open.spotify.com/track/4K8DM0umPafXsYOnQTYWAw) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Her Blue Eyes](https://open.spotify.com/album/5Nx6GD4bBYEhtkqvsEDdRd) | 2:06 | 2024-02-03 | 2025-03-02 |
 | [Herbstlied](https://open.spotify.com/track/7yZsSt9ve527ljZ6RdwRrE) | [Ramón de Smit](https://open.spotify.com/artist/0ZKmpUmGIOt0NqDztT4gpC) | [Herbstlied](https://open.spotify.com/album/1rvvIeUuIzYVsY0wUKtst9) | 1:15 | 2025-09-29 |  |
+| [Hiver \(7:11\)](https://open.spotify.com/track/3IXbgVz7ppLZxZZXzo9aBd) | [Oscar Kowalski](https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04) | [Hiver \(7:11\)](https://open.spotify.com/album/28zPXylnqx9stnNEvdVJ5z) | 2:50 | 2025-12-15 |  |
 | [Holding Hands](https://open.spotify.com/track/0kdAVIAXOHEDdbiCIlDAXZ) | [Charles Szczepanek](https://open.spotify.com/artist/2RHgkbONbH9he8kovTc0MX) | [Facets of Love](https://open.spotify.com/album/14n30hz6x32navdkogX7A3) | 3:22 | 2025-11-10 |  |
 | [Holding Hands](https://open.spotify.com/track/190YXVchTdEY9BYVRGYGRS) | [Charles Szczepanek](https://open.spotify.com/artist/2RHgkbONbH9he8kovTc0MX) | [Holding Hands](https://open.spotify.com/album/1o166FVvOwkcGTfOdRQUFA) | 3:22 | 2024-10-11 |  |
 | [Holding Hands](https://open.spotify.com/track/7j3Z6AmF7ehDVcAqYsdcbe) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Holding Hands](https://open.spotify.com/album/4XxZCAUffl8oatOTkiJ7Sd) | 2:22 | 2025-03-31 |  |
@@ -405,8 +407,8 @@
 | [Letter to the Sky](https://open.spotify.com/track/21FAB8qW6KfjaRK6546RbG) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Felix Weber](https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Letter to the Sky](https://open.spotify.com/album/3UqYYdaLEycqJjCHn61Hmn) | 1:41 | 2023-10-29 | 2023-11-16 |
 | [Life](https://open.spotify.com/track/38i6LcfcjhxQFlWLnDJdtt) | [Olha Shustova](https://open.spotify.com/artist/43CI8IOHXnklTvPQaou8lN) | [Back To Life](https://open.spotify.com/album/6d2tEb80HYcEsycz19Fm1f) | 3:53 | 2025-09-08 |  |
 | [life](https://open.spotify.com/track/1Twz2ZWrPY3nmdc2gtn0xy) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [heartfelt](https://open.spotify.com/album/6pcTwj3V18l44Rfj3STsoL) | 3:56 | 2025-07-07 | 2025-07-22 |
-| [life](https://open.spotify.com/track/6Khsx8SyUg83LbBBCFYy0q) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [heartfelt](https://open.spotify.com/album/3bdtyIPJoZ8Ykl3NhwWDcv) | 3:56 | 2025-06-02 | 2025-12-09 |
-| [life](https://open.spotify.com/track/7I6gFxShYcBJEfVpsyj9YC) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [life](https://open.spotify.com/album/77R1nHq79AGc4m1IfEkT7m) | 3:56 | 2025-11-03 |  |
+| [life](https://open.spotify.com/track/6Khsx8SyUg83LbBBCFYy0q) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [heartfelt](https://open.spotify.com/album/3bdtyIPJoZ8Ykl3NhwWDcv) | 3:56 | 2025-06-02 |  |
+| [life](https://open.spotify.com/track/7I6gFxShYcBJEfVpsyj9YC) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [life](https://open.spotify.com/album/77R1nHq79AGc4m1IfEkT7m) | 3:56 | 2025-11-03 | 2025-12-16 |
 | [Like Water](https://open.spotify.com/track/24iP2WYZfXEcet6XCSsbYW) | [Julie Hanney](https://open.spotify.com/artist/13K0QZ02xfsIptclG3NE5d) | [Wonderment](https://open.spotify.com/album/6mXkFT4UzV1PfYzcTFMr75) | 3:12 | 2025-11-10 |  |
 | [Lilypads & Light](https://open.spotify.com/track/59LcUvNPW9XJuz6vkCI7LP) | [noira](https://open.spotify.com/artist/16KcLoDLQ4FEEGr00l2GoK) | [Lilypads & Light](https://open.spotify.com/album/1TB3X2ZD105KnarZiW4xzG) | 1:31 | 2025-09-08 |  |
 | [Limerence](https://open.spotify.com/track/6XLkTTZxfYYJvxRIcAoDCF) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Limerence](https://open.spotify.com/album/73ZupNwLV1M8X6McZ3FKYL) | 1:53 | 2025-09-29 |  |
@@ -505,6 +507,7 @@
 | [Nocturnal no\. 4](https://open.spotify.com/track/3PJLofDnziIyHbNLMxdM6H) | [Bettina Hummler](https://open.spotify.com/artist/1W87kQ3emPG0HkiBBuOthS), [Sueno](https://open.spotify.com/artist/5LqQjFKdMHRJkhIe8tC7ym) | [Nocturnal Sessions](https://open.spotify.com/album/2Ttfbrio62UBz2VB4W5EGN) | 4:15 | 2024-04-13 | 2025-03-02 |
 | [nocturnal whispers](https://open.spotify.com/track/4tveVtTOFUe5JqUP25g7xs) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [nocturnal whispers](https://open.spotify.com/album/6NuhUO3IMr6dnUQYZlm70c) | 2:04 | 2023-10-29 | 2024-12-28 |
 | [Nocturne](https://open.spotify.com/track/3dfQWHtPrSciTmrwsYqvBB) | [Naekun Naekan](https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX), [Saki.](https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC) | [Nocturne](https://open.spotify.com/album/2B4Wvt4IKaYqe1c81AWQrn) | 2:10 | 2024-01-25 | 2025-02-01 |
+| [Northern Lights](https://open.spotify.com/track/24Rg9Rhjk03xFoxrZCTP1g) | [Valentino Mancini](https://open.spotify.com/artist/4cR9c2JR4Qx5npOY9BSZf2) | [Northern Lights](https://open.spotify.com/album/00hrju6t9oOAIqi53J47um) | 0:52 | 2025-12-15 |  |
 | [Nostal](https://open.spotify.com/track/0osfH1VSFAV6no4hNpMCsv) | [Thayer](https://open.spotify.com/artist/1GAHD2clwrr7wsSgUqHw5b) | [Nostal](https://open.spotify.com/album/1CNykJhDrBCkaLnXN8uXH3) | 2:01 | 2024-10-23 | 2025-04-01 |
 | [nostalgic moments](https://open.spotify.com/track/18n5j6pHMQ9XqykT2zDdBj) | [Dingus](https://open.spotify.com/artist/4SkQtp8HtospH6P4BqDSG3) | [nostalgic moments](https://open.spotify.com/album/5MV5gpnKxvZJH6fyUywrdF) | 2:35 | 2025-02-14 |  |
 | [O mio babbino caro \(for Left Hand Only\) \- \(From "Gianni Schicchi"\)](https://open.spotify.com/track/37kxfIPXeh7UN2JAVNvVWF) | [Charles Szczepanek](https://open.spotify.com/artist/2RHgkbONbH9he8kovTc0MX) | [Charles Szczepanek \- The Solo Piano Project, Vol 1: Transcriptions and Arrangements of Delibes, Dvořák, Elgar, Massenet, and Puccini](https://open.spotify.com/album/0LW6t4j5psA9fk8lNXZD6j) | 4:06 | 2024-10-11 | 2024-10-27 |

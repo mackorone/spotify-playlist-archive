@@ -1031,6 +1031,28 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/7xAO8dJkj6XEuagSP6RZAc"
+      },
+      "artists": [
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205363,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0QVeYbIchvBmCRnBGGuWoD"
+    },
+    {
+      "album": {
         "name": "Shiloh",
         "url": "https://open.spotify.com/album/4d3u3SjzcgJlBy6GxSEkys"
       },

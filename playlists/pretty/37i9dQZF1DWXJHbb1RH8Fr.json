@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 12342,
+  "num_followers": 12340,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Amasya \u0130lahileri",
-        "url": "https://open.spotify.com/album/61GVnrhHVkx9QqCT9mijbN"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Hakk\u0131 Turabi",
-          "url": "https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R"
-        },
-        {
-          "name": "Ba\u015fak Harmanc\u0131",
-          "url": "https://open.spotify.com/artist/26D5u8Ioou4suau9EQpALy"
-        }
-      ],
-      "duration_ms": 89814,
-      "name": "Ud Taksim-H\u00fczzam",
-      "url": "https://open.spotify.com/track/59e8y70HkyfKeJRNdLu33F"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Na\u011fmeler Evi (\u00c7ocuklar ve Gen\u00e7ler \u0130\u00e7in M\u00fczik K\u00fclt\u00fcr\u00fc)",
         "url": "https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 415986,
       "name": "Ney \u0130le B\u00fbselik Taksim",
       "url": "https://open.spotify.com/track/3GWWmNoKCbqucT16pmQzU0"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Amasya \u0130lahileri",
+        "url": "https://open.spotify.com/album/61GVnrhHVkx9QqCT9mijbN"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hakk\u0131 Turabi",
+          "url": "https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R"
+        },
+        {
+          "name": "Ba\u015fak Harmanc\u0131",
+          "url": "https://open.spotify.com/artist/26D5u8Ioou4suau9EQpALy"
+        }
+      ],
+      "duration_ms": 89814,
+      "name": "Ud Taksim-H\u00fczzam",
+      "url": "https://open.spotify.com/track/59e8y70HkyfKeJRNdLu33F"
     },
     {
       "added_at": "2024-03-05 11:27:00",

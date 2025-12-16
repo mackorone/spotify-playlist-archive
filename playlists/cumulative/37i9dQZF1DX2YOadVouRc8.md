@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-702 songs - 1 day 10 hr 1 min
+703 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2022-06-09 | 2023-12-02 |
 | [Crown Bounce](https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Elias Slay6rr](https://open.spotify.com/artist/78rrSlHaVgfpWxgsnUtqwh) | [Crown Bounce](https://open.spotify.com/album/4C8493WEDy0Yc2tP9g2MzZ) | 2:33 | 2024-03-15 | 2024-05-10 |
 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 | 2024-03-22 | 2024-09-28 |
-| [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 | 2025-08-29 |  |
+| [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 | 2025-08-29 | 2025-12-16 |
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 | 2024-10-05 |
 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 | 2025-03-07 | 2025-07-05 |
 | [Diamond](https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:04 | 2025-10-17 |  |
@@ -533,6 +533,7 @@
 | [Secret Lover](https://open.spotify.com/track/2aZluo5suMJzbl0EdZ7H2S) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:50 | 2023-04-27 | 2023-07-14 |
 | [See Finish](https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/2f3gCbx2qefdq823voOXuh) | 3:00 | 2023-02-10 | 2023-03-04 |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 | 2024-11-22 |
+| [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 |  |
 | [Sexy Roma](https://open.spotify.com/track/3yTgd6eflmtQUr7QYXTS3g) | [Prayly](https://open.spotify.com/artist/1bIlyg8r7BMZZgUVKn9LyH) | [Sexy Roma](https://open.spotify.com/album/1IegkTCiqiahBKNx6q1swn) | 2:49 | 2025-08-15 | 2025-09-05 |
 | [Señorita](https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [808 Rhapsody](https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG) | 2:29 | 2024-05-24 | 2024-07-25 |
 | [shadow](https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [shadow](https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU) | 2:40 | 2024-04-12 | 2024-07-12 |

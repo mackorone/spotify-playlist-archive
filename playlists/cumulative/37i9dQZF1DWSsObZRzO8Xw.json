@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Complex rhythms and mesmerizing loops. Cover: LITE",
+  "description": "Complex rhythms and mesmerizing loops. Cover: eleventwelfth",
   "name": "Math Rock",
   "tracks": [
     {
@@ -200,6 +200,24 @@
       "duration_ms": 341613,
       "name": "ARUKAS",
       "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
+    },
+    {
+      "album": {
+        "name": "ascending faster than before - ACT I : The Beginning",
+        "url": "https://open.spotify.com/album/2ccIhRAvomOmM8DP5YGrzq"
+      },
+      "artists": [
+        {
+          "name": "eleventwelfth",
+          "url": "https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213833,
+      "name": "ascending faster than before - ACT I : The Beginning",
+      "url": "https://open.spotify.com/track/4KWDXp5vKg3P2hco4WxFE1"
     },
     {
       "album": {
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 138400,
       "name": "El Hombre P\u00e1nico",
       "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"

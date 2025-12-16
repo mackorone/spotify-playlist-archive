@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,058 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,020 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 41 | [Soy capaz](https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:25 |
 | 42 | [Chocomenta](https://open.spotify.com/track/3puwMzQnKzBKf0LH851Yha) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [JAYANI](https://open.spotify.com/artist/5HttJaMcYf0rhMUdoRmvDa) | [Chocomenta](https://open.spotify.com/album/5q6pe9FjbRgBdAeUNxD1Wr) | 2:44 |
 | 43 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 |
-| 44 | [Vibe](https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vibe](https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan) | 3:10 |
-| 45 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
+| 44 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
+| 45 | [Vibe](https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vibe](https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan) | 3:10 |
 | 46 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 |
 | 47 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 |
 | 48 | [Duele](https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Leonardo La Croix](https://open.spotify.com/artist/5gmFKzyDu2PZ3hESPT0tUm) | [Duele](https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl) | 2:46 |
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 57 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 |
 | 58 | [Perderme](https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 3:20 |
 | 59 | [Ciudades Gemelas](https://open.spotify.com/track/3DuYff17xmHhGJjY8G8lYU) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [durmiendo con la luz prendida](https://open.spotify.com/album/7kyXGS8FVbNDbX9ijc7y8B) | 2:57 |
-| 60 | [MI TODO](https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:50 |
-| 61 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
+| 60 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 |
+| 61 | [MI TODO](https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:50 |
 | 62 | [Lluvia](https://open.spotify.com/track/0kq1HuBQzWPJfC2qXQfeTK) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r) | [Lluvia \(Man120\)](https://open.spotify.com/album/7HpxvfyReSCZwrHSEe5tPA) | 3:51 |
-| 63 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
-| 64 | [Camarones y Viniles](https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:21 |
-| 65 | [Olas y Arenas](https://open.spotify.com/track/3eb2CrhtM1yEp2GQM8Svxn) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [En Otra Vida](https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD) | 2:42 |
+| 63 | [Camarones y Viniles](https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:21 |
+| 64 | [Olas y Arenas](https://open.spotify.com/track/3eb2CrhtM1yEp2GQM8Svxn) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [En Otra Vida](https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD) | 2:42 |
+| 65 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Amsterdam \(Versión En Español\)](https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w) | 3:57 |
 | 66 | [Hoy](https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Hoy](https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz) | 3:55 |
 | 67 | [FOK YO](https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:06 |
 | 68 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 |

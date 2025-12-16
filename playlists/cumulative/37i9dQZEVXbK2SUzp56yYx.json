@@ -23118,7 +23118,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
@@ -23410,7 +23410,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 100362,
       "name": "Vielleicht Vielleicht - Techno Mix",
       "url": "https://open.spotify.com/track/5fHWntiQbsQWT94K07yNGw"
@@ -26064,7 +26064,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 134118,
       "name": "\u0411\u0430\u043e\u0431\u0430\u0431",
       "url": "https://open.spotify.com/track/5SAlZmNvOHJb4XjnkNRkhR"
@@ -30152,7 +30152,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 174073,
       "name": "\u0417\u043d\u0430\u043a\u043e\u043c\u0430\u044f",
       "url": "https://open.spotify.com/track/2LHpXQex58l9y48fwIFRf6"
@@ -37466,6 +37466,24 @@
     {
       "album": {
         "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/2anHhnGcRaPfLbcESOmuc7"
+      },
+      "artists": [
+        {
+          "name": "MysticDreamer",
+          "url": "https://open.spotify.com/artist/11S3qVIWD9uwJ1MnBQwYfV"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/6YY8y3YF9XvOkdaJ5TFb9k"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
         "url": "https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n"
       },
       "artists": [
@@ -37494,7 +37512,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 96001,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3"

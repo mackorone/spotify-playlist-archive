@@ -4,7 +4,7 @@
 
 > høst hele året! 🍂
 
-283 songs - 14 hr 45 min
+284 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Darkest Hour](https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Felt Cute Might Delete Later](https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL) | 2:11 | 2024-06-27 | 2025-05-03 |
 | [dear marie](https://open.spotify.com/track/5xuvCsT4kYinknbD5sNlTw) | [isa blu](https://open.spotify.com/artist/6PkYos4RsslZZSUYpin4Cc) | [dear marie](https://open.spotify.com/album/74tLNw4Zh5x4mlgyNPjfrR) | 3:31 | 2025-04-03 | 2025-04-18 |
 | [Deathbed](https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Deathbed](https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX) | 2:41 | 2024-12-05 | 2025-02-16 |
-| [December \(honey, honey\)](https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [December \(honey, honey\)](https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i) | 2:55 | 2024-06-27 |  |
+| [December \(honey, honey\)](https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [December \(honey, honey\)](https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i) | 2:55 | 2024-06-27 | 2025-12-16 |
 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 | 2025-10-02 |  |
 | [Demo](https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Demo](https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA) | 2:30 | 2024-11-28 | 2025-01-01 |
 | [DESPUÉS DE LA FERIA](https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [05050](https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx) | 3:06 | 2025-09-04 |  |
@@ -186,6 +186,7 @@
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 | 2025-05-03 |
 | [Movie Star](https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Movie Star](https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR) | 3:56 | 2024-09-26 | 2025-11-16 |
 | [Moving On](https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Moving On](https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym) | 2:47 | 2024-06-27 | 2024-08-30 |
+| [Månen](https://open.spotify.com/track/6dwd8GYLeFP1sfDWUKD9ol) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Månen](https://open.spotify.com/album/2fRdT0ii5ti8TCPQ0072uD) | 2:57 | 2025-12-11 |  |
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2024-06-27 | 2025-03-26 |
 | [Nanana](https://open.spotify.com/track/5x1Hh2KQ8qXYxxSHC6ATAG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Nanana](https://open.spotify.com/album/6eWJBjH4era5edw2r5XmlL) | 2:26 | 2025-02-06 | 2025-04-18 |
 | [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 | 2024-06-27 | 2024-10-31 |

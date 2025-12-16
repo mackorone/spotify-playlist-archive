@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-107 songs - 6 hr 1 min
+109 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Do you tell](https://open.spotify.com/track/4yZES25Ta3YswJ1xjbggBa) | [CEDER](https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B) | [Do you tell](https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj) | 2:59 | 2025-11-29 |  |
 | [Doveland](https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Doveland](https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM) | 3:11 | 2025-11-05 | 2025-12-09 |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2025-11-06 | 2025-12-09 |
+| [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2025-12-15 |  |
 | [Envidia](https://open.spotify.com/track/6Zk07DRGksbUobWOL0y1Uq) | [Cande Gosso](https://open.spotify.com/artist/3aT6vyDWCI0ke5cQvCiRPs) | [Envidia](https://open.spotify.com/album/0XqtI3ZoY1LFMn1mHrC48D) | 3:52 | 2025-11-14 |  |
 | [Erase](https://open.spotify.com/track/06tLkcT0moOvnsOoN3L5Gs) | [Stranger Noises](https://open.spotify.com/artist/6cov5FqftWImT0syIKAo9l) | [Erase](https://open.spotify.com/album/4KUjsdc9BglRDTAEmztYuM) | 4:24 | 2025-11-12 |  |
 | [Este es un camino largo](https://open.spotify.com/track/7s5d62x6Oci6SOP4sBHJTe) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:43 | 2025-11-06 | 2025-12-09 |
@@ -56,6 +57,7 @@
 | [HOME](https://open.spotify.com/track/5SSwaaEflTrax8JPsW6ZkC) | [Scarlet City](https://open.spotify.com/artist/49klWMejrBkHg8mUW4tQrj) | [HOME](https://open.spotify.com/album/09ldHO1i16Ygsxi4CXzinL) | 3:05 | 2025-11-03 | 2025-12-09 |
 | [House of Affection](https://open.spotify.com/track/0sHhdvNQBMxDNfC9ZzPWEi) | [Talles Cattarin](https://open.spotify.com/artist/77SAbQybNSZmuluK93v8AO) | [House of Affection](https://open.spotify.com/album/4t1EDjbrbUiGlyVgRZAtDs) | 3:25 | 2025-11-06 | 2025-12-09 |
 | [human race](https://open.spotify.com/track/422XpEXSWpB7AHTePwthGV) | [Travis Guidry](https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp) | [human race](https://open.spotify.com/album/6VEEMhejJyv8naAjOSfY0j) | 3:36 | 2025-11-11 |  |
+| [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-15 |  |
 | [If I Was A Ghost](https://open.spotify.com/track/5YfgZXyqNf9vOAI9iNRNFj) | [Dar1en](https://open.spotify.com/artist/4YQi46tcPcgpcABa2vVF6n) | [If I Was A Ghost](https://open.spotify.com/album/0PkjL6ESR2Fav9OToP3UVd) | 3:08 | 2025-11-13 |  |
 | [It Is Time](https://open.spotify.com/track/1GoRkIfs0IFKnllVoMzRJm) | [Maurice Hirschhaut](https://open.spotify.com/artist/1o8IEDCXLoJxrzVjR655un) | [It Is Time](https://open.spotify.com/album/5Pg5ViuWgWOILr8u3fjD5T) | 2:55 | 2025-11-15 |  |
 | [Just A Cliche'](https://open.spotify.com/track/2aX8kGMGSTVZPgaWpvSjSb) | [Brett L Walker](https://open.spotify.com/artist/5MOiEP0NEMkGUlQNoYzlvm) | [Just A Cliche'](https://open.spotify.com/album/6a2DTVcwi4aq7ajkExqy1d) | 2:56 | 2025-11-25 |  |

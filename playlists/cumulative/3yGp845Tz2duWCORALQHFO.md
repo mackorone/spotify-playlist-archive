@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,540 songs - 10 day 8 hr 23 min
+4,542 songs - 10 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1704,6 +1704,7 @@
 | [He’s My Rhythm](https://open.spotify.com/track/1mgt4QZceVnIygWfUFVGjy) | [Sonic Psalm](https://open.spotify.com/artist/0OtL5q5DwwhGornAhm0uXo) | [He's The One](https://open.spotify.com/album/2whcQGQeWKGw5EzhdzsJhl) | 3:38 | 2025-03-12 | 2025-03-22 |
 | [Hi Life](https://open.spotify.com/track/2MGlHVQuVb7L3wAxcvBhWF) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Hi Life](https://open.spotify.com/album/4LW3veJas26r01Y7dDLQfB) | 2:09 | 2024-11-29 | 2024-12-06 |
 | [Hi!](https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Hi!](https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n) | 2:22 | 2025-09-27 | 2025-10-04 |
+| [Hidden Words](https://open.spotify.com/track/56kAkcozBQopVmdB07ILLZ) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt) | [Hidden Words](https://open.spotify.com/album/1rkvnvOSig4OcCbbFQgCLH) | 2:04 | 2025-12-15 |  |
 | [Hide & Seek](https://open.spotify.com/track/6cKjxAOIX8SNzud5VAKcfo) | [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB), [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Hide & Seek](https://open.spotify.com/album/6PU4paO1TSQrzDWhq8BayY) | 2:30 | 2024-07-31 | 2024-08-09 |
 | [Hide Away](https://open.spotify.com/track/0BD7jZ7ofA1RG8G6oxQDim) | [Menza](https://open.spotify.com/artist/3HJr9C9VWRt80df5wTA6vb) | [Hide Away](https://open.spotify.com/album/4XymMQpPqRpdCjvCo45sCG) | 2:55 | 2024-11-29 | 2024-12-06 |
 | [Hideaway](https://open.spotify.com/track/1mBF7Ulsa4z5hWor4eduYb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Hideaway](https://open.spotify.com/album/1xyCu4NGVKLg5EEbZcNHv5) | 3:36 | 2025-07-11 | 2025-07-21 |
@@ -4268,6 +4269,7 @@
 | [Walk Away](https://open.spotify.com/track/41w20lT4MT0Oo4vTgp64A3) | [Manuel Lauren](https://open.spotify.com/artist/6VFEaIY0aoChP89qDhF17m), [Dan Winter](https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz) | [Walk Away](https://open.spotify.com/album/5a6gm3EeFPYl792mDSQeFm) | 2:34 | 2024-07-07 | 2024-07-12 |
 | [Walk On Air](https://open.spotify.com/track/3D0c1zeclp4KAoeM7HZZ0r) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Walk On Air](https://open.spotify.com/album/67Pwh19FsAwlmTCXU99mJ8) | 3:48 | 2025-05-09 | 2025-05-17 |
 | [Walk The Edge \- RAM Remix](https://open.spotify.com/track/715vUT3JBbofalXrb2g6iH) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX) | [Walk The Edge \(RAM Remix\)](https://open.spotify.com/album/1nvwod8b8AhmuVRUdJK1Ir) | 2:55 | 2024-05-17 | 2024-05-25 |
+| [Walking On A Dream](https://open.spotify.com/track/2gKLKTWhQ4jnnzJ5NXSmlM) | [Sam Giancana](https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI), [NoID](https://open.spotify.com/artist/17vISTa1EaKlCb9pX0v1gA), [Luna Dusk](https://open.spotify.com/artist/3ReNX9ZVry1c8LXT2qeqKP) | [Walking On A Dream](https://open.spotify.com/album/4vBD3zva54k29k8cJy13GN) | 2:07 | 2025-12-15 |  |
 | [Walking On A Dream \(Resurrection\)](https://open.spotify.com/track/0yfyF16cCITZcWsIF4oGZs) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Walking On A Dream \(Reimagined\)](https://open.spotify.com/album/5Bh3jkdfh2bp6KXiQq4yQp) | 2:56 | 2025-09-27 | 2025-10-04 |
 | [Wanna](https://open.spotify.com/track/3h9BQu0khlJOB7QRWoU08L) | [Avensis](https://open.spotify.com/artist/76DphELFFOAk6DIvL1IrzL) | [Wanna](https://open.spotify.com/album/5mJFrKdYmwSt3p580r5lbV) | 3:04 | 2025-02-28 | 2025-03-08 |
 | [Wanna Dance](https://open.spotify.com/track/26y5ki6Rl31uhwCZz3zYE0) | [Fach](https://open.spotify.com/artist/5FmgI5UrzKYsxrmwHv4tJy) | [Wanna Dance](https://open.spotify.com/album/4fENIz29A9ONit1PAU9Pkl) | 2:51 | 2024-08-23 | 2024-08-31 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 
 ### [Sanremo Giovani 2025](https://open.spotify.com/playlist/37i9dQZF1DWYKYreD7bmFK)
 
-> Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
+> Tutti i brani di Sanremo Giovani 2025 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,253 likes - 24 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,267 likes - 24 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 | 23 | [FINCHÉ DURA](https://open.spotify.com/track/51S93MaRFJyW8VDLc4nuER) | [eyeline](https://open.spotify.com/artist/1VqRWAml93O9mG6TyMsM6i) | [FINCHÉ DURA](https://open.spotify.com/album/4tpWsXa0f2OVVBGwjtQe8z) | 2:41 |
 | 24 | [Bacio piccolino](https://open.spotify.com/track/0xuxFQeTtJSzRSC9nfzOcT) | [Renato D'Amico](https://open.spotify.com/artist/2u9esjWV33bedmIU35gTsz) | [Bacio piccolino](https://open.spotify.com/album/60HudCYAwR5L5FzLsHoUdy) | 2:30 |
 
-Snapshot ID: `AAAAAL73enNGrqIAuOCpWuTJnT9hySYf`
+Snapshot ID: `AAAAAEnQHBamoZkFDYaflAf+IGOulff+`

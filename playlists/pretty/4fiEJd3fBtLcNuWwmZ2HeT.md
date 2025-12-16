@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 399 songs - 23 hr 1 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 401 songs - 23 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -407,5 +407,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 397 | [迷彩](https://open.spotify.com/track/4997ipQH5dYt24YqSp4Cb6) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 3:57 |
 | 398 | [ジターバグ](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 |
 | 399 | [Cantarella](https://open.spotify.com/track/2VD4DrLIkfItv7grWXCXpW) | [KurousaP](https://open.spotify.com/artist/5MXgcxigANkVcaDC670CU1), [Michaon](https://open.spotify.com/artist/2oC9pyZuesjV6X3NFksKgh) | [Meet Your Only World](https://open.spotify.com/album/3zepiSGgf7ErRVhlGqlSi4) | 3:02 |
+| 400 | [Necro no Hanayome](https://open.spotify.com/track/228q0rCvDuHo7Mdb1i5z1O) | [KANON69](https://open.spotify.com/artist/5aKVkaAP4dYG7zQeM4z25h) | [RUNWAY](https://open.spotify.com/album/4fYSc5hRJ9VuCASYHPvmns) | 4:05 |
+| 401 | [Still, Still, Still\. \- IVUDOT version](https://open.spotify.com/track/2AsMepFqeVigg7Fbp6clXx) | [BOKUTACHI WA YONAYONA](https://open.spotify.com/artist/3k53XmqUT3nfyRSNjM6dtL) | [Still, Still, Still\. \(IVUDOT version\)](https://open.spotify.com/album/1B6SNGzBOdQuNBw8AmTZKV) | 2:18 |
 
-Snapshot ID: `AAAJiSymVXO9Qt3qCmnsaGGylSLPgqdJ`
+Snapshot ID: `AAAJi6G8Fqscp7y5YIk/1DKdJwYSwEx7`

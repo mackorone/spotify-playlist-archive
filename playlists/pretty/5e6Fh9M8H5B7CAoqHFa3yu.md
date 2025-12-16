@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,718 songs - 4 day 8 hr 21 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,721 songs - 4 day 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1079,7 +1079,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1069 | [Critics of Neon](https://open.spotify.com/track/5GErt7vpDrfzUjr8FLM0VH) | [Loc Harp](https://open.spotify.com/artist/03NpM6Pz59hIUDTuP587pY) | [Critics of Neon](https://open.spotify.com/album/1L1bxqGy28y3uiBaTBjANa) | 3:19 |
 | 1070 | [Gjorda för varandra](https://open.spotify.com/track/4VvynxudmZtbB34KFI2fMW) | [Elin Amie](https://open.spotify.com/artist/1za33SbY90xR20AvPPh9jY) | [Gjorda för varandra](https://open.spotify.com/album/683GQ8z0Y81AJdvUaPcGnV) | 3:12 |
 | 1071 | [DEATH](https://open.spotify.com/track/0pwnoUhy57HdGjj1zNzzNV) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 5:06 |
-| 1072 | [Hold On Til You Let Go](https://open.spotify.com/track/6li8lh8OCA9msg7mZUP2FS) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE), [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY), [YesterKid](https://open.spotify.com/artist/13Iz4aO74JwHOI04cKWlum), [Cinders](https://open.spotify.com/artist/3kbFTAkkC68vVXA87WHDS4), [Drusky](https://open.spotify.com/artist/4PHUpf9OtF3WaHTeZ6thl4) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:02 |
+| 1072 | [Hold On Til You Let Go](https://open.spotify.com/track/6li8lh8OCA9msg7mZUP2FS) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE), [Roseburg](https://open.spotify.com/artist/33zgUwcmU9iZl1QNmprEyO), [YesterKid](https://open.spotify.com/artist/13Iz4aO74JwHOI04cKWlum), [Cinders](https://open.spotify.com/artist/3kbFTAkkC68vVXA87WHDS4), [Drusky](https://open.spotify.com/artist/4PHUpf9OtF3WaHTeZ6thl4) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:02 |
 | 1073 | [Ya no volverás](https://open.spotify.com/track/5AjrEpCiy4HbEJng7qfgVv) | [Ausbet](https://open.spotify.com/artist/5p0KDXXyKBVIGqGWQt546k) | [Ya no volverás](https://open.spotify.com/album/6LP4iOLLELE7kuxD4HJ9Am) | 4:41 |
 | 1074 | [CELLES](https://open.spotify.com/track/21EckdWhnAnaGILOzwkyYu) | [Scott Lucchini](https://open.spotify.com/artist/2XwAoF8nWo3UNIYpGTieCQ) | [CELLES](https://open.spotify.com/album/6KMnrkJubkJc3SEfaBl7BQ) | 3:40 |
 | 1075 | [My Butterfly Dream's](https://open.spotify.com/track/57cKFWmHj6ZEvfCg4P59YI) | [RZWY](https://open.spotify.com/artist/6kjbhDLFGX81REbc6EACk4) | [My Butterfly Dream's](https://open.spotify.com/album/63Ot1I8sVGao8RdUDbJdWk) | 3:42 |
@@ -1726,5 +1726,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1716 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 |
 | 1717 | [The Club](https://open.spotify.com/track/2IXMBNDc6Zd4sNIy1yeASH) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:43 |
 | 1718 | [Slipping Away](https://open.spotify.com/track/4w6vZbPYs0nIzA84Vu041d) | [Adam Briscoe](https://open.spotify.com/artist/3CcEHcp22NtPVNDeR80z2y) | [Slipping Away](https://open.spotify.com/album/4RysAhFglAR4ZeZQGsCkPD) | 3:04 |
+| 1719 | [Flexzolit](https://open.spotify.com/track/6XIAG7gM4CDFIP2fJywGwA) | [Gregory Shaggy](https://open.spotify.com/artist/4ln0VnkzzqUmTTwBK9Io1w), [Jojo Wavy](https://open.spotify.com/artist/4xq9B09qPeGipdrCRm7ZbQ) | [Flexzolit](https://open.spotify.com/album/2uwqZx5lkldkvzyIYGq6XC) | 2:25 |
+| 1720 | [Il Fuoco di una Stella](https://open.spotify.com/track/4wXoXUbd8SkNoNCJZPACpu) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Il Fuoco di una Stella](https://open.spotify.com/album/251nzRBC6icuNdaNaDvLMp) | 3:33 |
+| 1721 | [Coffee in New York](https://open.spotify.com/track/2kAgs1LUk4z7UCDFZ6GBrW) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in New York](https://open.spotify.com/album/5wolzIv4nc5hb4nMSK5HGR) | 3:46 |
 
-Snapshot ID: `AAAHjqT02z222Se/fbrqHA2YDvHBBGhe`
+Snapshot ID: `AAAHkcebPye+ZkJYFzWOQJGZ5SV0LGOb`

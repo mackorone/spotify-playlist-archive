@@ -983,22 +983,6 @@
     {
       "added_at": "2025-12-09 17:17:34",
       "album": {
-        "name": "Is There A Place For You There?",
-        "url": "https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd"
-      },
-      "artists": [
-        {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
-        }
-      ],
-      "duration_ms": 271163,
-      "name": "Is There A Place For You There?",
-      "url": "https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx"
-    },
-    {
-      "added_at": "2025-12-09 17:17:34",
-      "album": {
         "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
         "url": "https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 242000,
       "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
       "url": "https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK"
+    },
+    {
+      "added_at": "2025-12-09 17:17:34",
+      "album": {
+        "name": "Is There A Place For You There?",
+        "url": "https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd"
+      },
+      "artists": [
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 271163,
+      "name": "Is There A Place For You There?",
+      "url": "https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx"
     },
     {
       "added_at": "2025-12-09 17:17:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-12-09 17:17:34",
       "album": {
-        "name": "\u307e\u306b\u307e\u306b",
-        "url": "https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 198168,
-      "name": "Tiny Mirror",
-      "url": "https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb"
-    },
-    {
-      "added_at": "2025-12-09 17:17:34",
-      "album": {
         "name": "White Chocolate",
         "url": "https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 186352,
       "name": "White Chocolate",
       "url": "https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a"
+    },
+    {
+      "added_at": "2025-12-09 17:17:34",
+      "album": {
+        "name": "\u307e\u306b\u307e\u306b",
+        "url": "https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 198168,
+      "name": "Tiny Mirror",
+      "url": "https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb"
     },
     {
       "added_at": "2025-12-09 17:17:34",

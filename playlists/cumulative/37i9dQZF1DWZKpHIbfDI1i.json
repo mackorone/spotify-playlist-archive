@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Eden Mu\u00f1oz en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. La Arrolladora Banda el Lim\u00f3n en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 215251,
       "name": "00:00",
       "url": "https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD"
+    },
+    {
+      "album": {
+        "name": "100/10",
+        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "100/10",
+      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
     },
     {
       "album": {
@@ -2161,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Amor de Anexo",
+        "url": "https://open.spotify.com/album/0ab2RZHIJxEZEtjwtB7sqM"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171022,
+      "name": "Amor de Anexo",
+      "url": "https://open.spotify.com/track/2LFayVbAfSgB5Cxt05u2na"
+    },
+    {
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
@@ -3744,7 +3780,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 226222,
       "name": "Beto\u2019s Horns - fred remix",
       "url": "https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np"
@@ -4781,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "Aunque Nos Tiren Hate",
+        "url": "https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186454,
+      "name": "Cada D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
+    },
+    {
+      "album": {
         "name": "Cada Ma\u00f1ana",
         "url": "https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9"
       },
@@ -5446,7 +5500,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 183873,
       "name": "Cholo 2",
       "url": "https://open.spotify.com/track/6IMTgx19KOecnpXmbkgkyN"
@@ -6230,7 +6284,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Confesarlo",
       "url": "https://open.spotify.com/track/32RD7HPvZ9HuqpDWQTfrc9"
@@ -6858,6 +6912,36 @@
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
+    },
+    {
+      "album": {
+        "name": "Cuando No Era Cantante (Remix)",
+        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327488,
+      "name": "Cuando No Era Cantante - Remix",
+      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
       "album": {
@@ -11468,7 +11552,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 185854,
       "name": "Fairy Michelle",
       "url": "https://open.spotify.com/track/4nXbAtULRNMKJTt3PWeA1S"
@@ -15136,7 +15220,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 157464,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU"
@@ -15740,7 +15824,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 172941,
       "name": "Larga Vida",
       "url": "https://open.spotify.com/track/7wDDpvr6MwQ5OzGAVSCN5l"
@@ -16251,6 +16335,24 @@
     },
     {
       "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177621,
+      "name": "Lo Pude Lograr",
+      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
+    },
+    {
+      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
       },
@@ -16262,7 +16364,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 210541,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
@@ -17534,7 +17636,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 209600,
       "name": "Marioneta",
       "url": "https://open.spotify.com/track/36gN6hYRWPGbarIlCMdmby"
@@ -18422,7 +18524,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 183456,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
@@ -18440,7 +18542,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 175944,
       "name": "Mi Droga",
       "url": "https://open.spotify.com/track/57PRlxNDKEUXrjAjaSPZY6"
@@ -20678,7 +20780,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 219186,
       "name": "No Fui Yo",
       "url": "https://open.spotify.com/track/4weNdbiustwii96JAYmVZp"
@@ -22586,6 +22688,28 @@
       "duration_ms": 167250,
       "name": "Pasa Tips",
       "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
+    },
+    {
+      "album": {
+        "name": "Pase y Toque",
+        "url": "https://open.spotify.com/album/6jJPYY36xdnHzRkT6Dfbj3"
+      },
+      "artists": [
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Pase y Toque",
+      "url": "https://open.spotify.com/track/2MzaScXAL8wrSU9tlEijo6"
     },
     {
       "album": {
@@ -26524,7 +26648,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 198515,
       "name": "Si ma\u00f1ana me muero",
       "url": "https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT"
@@ -26984,6 +27108,28 @@
       "duration_ms": 172546,
       "name": "Sin Explicaciones",
       "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
+    },
+    {
+      "album": {
+        "name": "Chapayeka (En Vivo)",
+        "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Manuel El Indio Ortega",
+          "url": "https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Sin Fortuna (En Vivo)",
+      "url": "https://open.spotify.com/track/5gUGD4wY6mnqLJtMCArXJ0"
     },
     {
       "album": {
@@ -28772,7 +28918,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 193015,
       "name": "Tiempos Dorados",
       "url": "https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv"
@@ -31986,7 +32132,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 177376,
       "name": "Y SI TE VAS",
       "url": "https://open.spotify.com/track/20L8fUsTo0eK1cdzTyH7v9"
@@ -33280,7 +33426,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 136250,
       "name": "\u00d1ero Session 18",
       "url": "https://open.spotify.com/track/2bMwrVNQ8BeH4w3o12GZoh"

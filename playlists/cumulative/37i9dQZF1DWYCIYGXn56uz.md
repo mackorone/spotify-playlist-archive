@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Jacopo Sol
 
-934 songs - 1 day 19 hr 19 min
+935 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/album/3z9ZS5Px2IrcsgagRYUqkt) | 2:47 | 2024-06-13 | 2025-09-12 |
 | [Bad Boys Don't Cry \(feat\. VillaBanks\)](https://open.spotify.com/track/3W10BBMTwLBm5wgDdjxH6r) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Bad Boys Don't Cry \(feat\. VillaBanks\)](https://open.spotify.com/album/2S1TKzoo1brRiZMZoPLI2W) | 2:51 | 2025-07-17 |  |
 | [BAGS SOTTO GLI OCCHI](https://open.spotify.com/track/62rPzdKgQlNTIP2UZzvFH6) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [BAGS SOTTO GLI OCCHI](https://open.spotify.com/album/5eiD74b7Kqy5yXjCws06Z6) | 2:18 | 2024-11-14 | 2024-12-20 |
-| [Balla](https://open.spotify.com/track/3ZTiRGNJI1H9PnsIvDuIbo) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM) | [Balla](https://open.spotify.com/album/0bI6eet6DxPjcGr9t9WZ31) | 2:46 | 2025-10-16 |  |
+| [Balla](https://open.spotify.com/track/3ZTiRGNJI1H9PnsIvDuIbo) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM) | [Balla](https://open.spotify.com/album/0bI6eet6DxPjcGr9t9WZ31) | 2:46 | 2025-10-16 | 2025-12-16 |
 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 | 2023-05-18 | 2023-11-24 |
 | [Balla Adrenalina](https://open.spotify.com/track/3EMTN0y6mBpVod7qd33sDa) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Balla Adrenalina](https://open.spotify.com/album/2qdqzQGIMM7Jy5rql8Pf6Q) | 2:53 | 2023-06-15 | 2023-09-22 |
 | [Balleremo](https://open.spotify.com/track/11MRGCvw1h8TmNTFLDSoOX) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Balleremo](https://open.spotify.com/album/2SyHV5TkkeL8DvWUmEZo50) | 2:48 | 2024-06-20 | 2024-08-23 |
@@ -511,6 +511,7 @@
 | [Mi Stresso \(feat\. Wemme Flow\)](https://open.spotify.com/track/5beLgSQ1MQHKnaufnhD9Bg) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG), [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck), [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Mi Stresso \(feat\. Wemme Flow\)](https://open.spotify.com/album/4vSB2FP8fSE2FNvwDBwxVo) | 2:19 | 2025-11-13 | 2025-12-12 |
 | [MIGLIAIA DI PROBLEMI](https://open.spotify.com/track/62gN6FiKKiWnYIE8RPhRM5) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [MIGLIAIA DI PROBLEMI](https://open.spotify.com/album/4O6bLYvHWxJecTT95NQGeY) | 2:12 | 2025-10-09 |  |
 | [MILANO BRINDISI](https://open.spotify.com/track/2knsHJeCS7mdMc6Tx1AUFi) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [MILANO BRINDISI](https://open.spotify.com/album/6CsUAOEzZj7HbSQbAzCWDD) | 2:17 | 2025-03-06 | 2025-03-21 |
+| [Milano Cortina](https://open.spotify.com/track/3uBe5PtCuviIGgnM1TZJua) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Milano Cortina](https://open.spotify.com/album/3tYjRk5iiycGHsXlB0l0uk) | 2:04 | 2025-12-15 |  |
 | [Milano dannata](https://open.spotify.com/track/2cXh3ehVTlvWjcAb7aLELE) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Milano dannata](https://open.spotify.com/album/0FRJd1v1XYjnxqLD8CPjAL) | 3:15 | 2023-03-23 | 2023-04-28 |
 | [milano temporale](https://open.spotify.com/track/4XP2q5l78BAWNuzSEYSdFM) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [milano temporale](https://open.spotify.com/album/6NIKojXTHYG2y6DZbm0xEO) | 2:22 | 2025-10-23 | 2025-11-14 |
 | [MILANO TT OK](https://open.spotify.com/track/3Zs6vw1vN4ldIZwQcDL7bp) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [MILANO TT OK](https://open.spotify.com/album/4Rk6MVV3GbHYkXPe6liVx6) | 2:07 | 2025-10-23 | 2025-11-14 |

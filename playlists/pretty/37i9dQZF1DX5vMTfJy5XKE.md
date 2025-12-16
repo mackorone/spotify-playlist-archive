@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,904 likes - 205 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,243 likes - 205 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 72 | [Home to Me](https://open.spotify.com/track/3N7TTZ7VQFpSTl0jb5gb87) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [Home to Me](https://open.spotify.com/album/54PYzvnCkhc4fIG4lYhM4F) | 3:29 |
 | 73 | [Time](https://open.spotify.com/track/5Uq15K8NEFB6SDhnGvcxCj) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 3:13 |
 | 74 | [Blue Christmas](https://open.spotify.com/track/38fhq0EiSzlIwv20tHNGss) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Blue Christmas](https://open.spotify.com/album/3DRGhm9rkjANo94CxrhsMc) | 2:30 |
-| 75 | [Wild](https://open.spotify.com/track/1GnmIFvZ44rIVwz1rUJWXd) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Wild](https://open.spotify.com/album/01Sa2k7rLiXJ9QF0lpBuPO) | 3:01 |
+| 75 | [Wild \(From the Original Netflix Series ¨Home For Christmas Season 3¨\)](https://open.spotify.com/track/1GnmIFvZ44rIVwz1rUJWXd) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Wild \(From the Original Netflix Series ¨Home For Christmas Season 3¨\)](https://open.spotify.com/album/01Sa2k7rLiXJ9QF0lpBuPO) | 3:01 |
 | 76 | [This Winter](https://open.spotify.com/track/6iRz6Yy8CfheQIXUXDzLwH) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [This Winter](https://open.spotify.com/album/4zmUFqiCzN5EG4heSJwk9j) | 3:13 |
 | 77 | [Joy To Your World](https://open.spotify.com/track/3Z6N3u0duGf6hpFIXBLuGv) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Joy To Your World](https://open.spotify.com/album/18ajXS8lBrmGnmgFlljcma) | 2:54 |
 | 78 | [Christmas Now](https://open.spotify.com/track/6fuq89jpzHDeFf6npcp54l) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Christmas Now](https://open.spotify.com/album/1Ys3OulsgsBZ543zaq76Qi) | 3:21 |

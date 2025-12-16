@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223766,
+      "name": "Battle Born",
+      "url": "https://open.spotify.com/track/6CEgkzY5yrSt29EwRK4rVe"
+    },
+    {
+      "album": {
         "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
         "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 223766,
       "name": "Battle Born",
       "url": "https://open.spotify.com/track/7x2gOLBT1ruFBNsxFmddWw"

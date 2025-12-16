@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Live do Ano",
+        "url": "https://open.spotify.com/album/575GmtWM5hdJa78HmVI545"
+      },
+      "artists": [
+        {
+          "name": "AO Cubo",
+          "url": "https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408576,
+      "name": "1980",
+      "url": "https://open.spotify.com/track/6Gu7frNvliV21EVJFhW65V"
+    },
+    {
+      "album": {
         "name": "3 da Manh\u00e3",
         "url": "https://open.spotify.com/album/6IFtlSnypMsNhA4X0iZCCZ"
       },
@@ -1358,6 +1376,28 @@
       "duration_ms": 206668,
       "name": "BRKD F4IL3D D6VIL",
       "url": "https://open.spotify.com/track/1L4mG07jrTj6r7Rd7MuAlw"
+    },
+    {
+      "album": {
+        "name": "Buscando a Paz",
+        "url": "https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
+        },
+        {
+          "name": "W2B Music",
+          "url": "https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "Buscando a Paz",
+      "url": "https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc"
     },
     {
       "album": {
@@ -3316,7 +3356,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 153706,
       "name": "Essas Ruas",
       "url": "https://open.spotify.com/track/45q0aUHFCg0kn1hieW2nGN"
@@ -11168,7 +11208,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 134050,
       "name": "\u00c9 Real",
       "url": "https://open.spotify.com/track/0KSpycOZu0knusLrTTEKsF"

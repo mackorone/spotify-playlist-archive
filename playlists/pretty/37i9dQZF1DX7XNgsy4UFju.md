@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,151 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,141 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 43 | [Portland, Maine \(feat\. Jordan Davis\)](https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Portland, Maine \(10th Anniversary Edition\)](https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov) | 3:30 |
 | 44 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 |
 | 45 | [Rift](https://open.spotify.com/track/5S23vBGKmUzr3HSaHQxbzW) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Rift](https://open.spotify.com/album/77YGetKAnRzaBYyzkQnW5T) | 3:02 |
-| 46 | [Sign Me Up](https://open.spotify.com/track/1OUPmzNVI2ffrG0ghfcFMZ) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Sign Me Up](https://open.spotify.com/album/3hZutAz6tLEXh0IH07AFpL) | 3:03 |
+| 46 | [Sign Me Up](https://open.spotify.com/track/1OUPmzNVI2ffrG0ghfcFMZ) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv), [Bad Summer Club](https://open.spotify.com/artist/4rqeGjXl0Hy2Lb3GWfRBxQ) | [Sign Me Up](https://open.spotify.com/album/3hZutAz6tLEXh0IH07AFpL) | 3:03 |
 | 47 | [I'm Always On Stage](https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [I'm Always On Stage](https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB) | 4:03 |
 | 48 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
 | 49 | [The News](https://open.spotify.com/track/7DBf7vpgcSNBw6dL3IIuHD) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [The News](https://open.spotify.com/album/7oRiVvp56YY3YrWn1gWFOp) | 3:45 |

@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 256,
+  "num_followers": 257,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA2UdpUjrSXEQTJU0za9KkeoENrjUM",
+  "snapshot_id": "AAAA2jCsy2fYED88marRhzHeZ/RjCyZe",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1351,6 +1351,22 @@
       "duration_ms": 223477,
       "name": "BECAUSE OF YOU",
       "url": "https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9"
+    },
+    {
+      "added_at": "2025-12-15 13:49:54",
+      "album": {
+        "name": "LET IT BURN",
+        "url": "https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr"
+      },
+      "artists": [
+        {
+          "name": "The Haptics",
+          "url": "https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV"
+        }
+      ],
+      "duration_ms": 126700,
+      "name": "XOX",
+      "url": "https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm"
     }
   ],
   "unique_name": "Local Rock Bands",

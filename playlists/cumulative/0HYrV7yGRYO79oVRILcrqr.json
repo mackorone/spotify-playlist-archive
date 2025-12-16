@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Broken Masterpiece",
+        "url": "https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd"
+      },
+      "artists": [
+        {
+          "name": "Tris & The Goldmine Band",
+          "url": "https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279481,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf"
+    },
+    {
+      "album": {
         "name": "Mumma Ginge",
         "url": "https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN"
       },

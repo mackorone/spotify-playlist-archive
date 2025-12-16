@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 470732,
+  "num_followers": 470752,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAABtVWFLFF9ltpdqXOkXSr1j",
+  "snapshot_id": "aT3+AAAAAAB/Kd24LB6fLgYKnAz3f3k0",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "En Preparacion",
+      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 208117,
       "name": "Recordando a Manuel",
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "En Preparacion",
-      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 182573,
+      "name": "Mono Verde",
+      "url": "https://open.spotify.com/track/4ME4N9vRZvk29ICuNunlHk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Asi Es la Vida",
         "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 161132,
       "name": "Ando Bien",
       "url": "https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 182573,
-      "name": "Mono Verde",
-      "url": "https://open.spotify.com/track/4ME4N9vRZvk29ICuNunlHk"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ejemplar",
+        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "El Ejemplar",
+      "url": "https://open.spotify.com/track/5CDt26cBTTD90wyM5oMZ8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Ah\u00ed, Por Ah\u00ed",
         "url": "https://open.spotify.com/album/41KOsqoNOP6XhNBtY3yqi8"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 157116,
       "name": "Por Ah\u00ed, Por Ah\u00ed",
       "url": "https://open.spotify.com/track/2nlSXEs9hETAlXCjZbnNvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ejemplar",
-        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "El Ejemplar",
-      "url": "https://open.spotify.com/track/5CDt26cBTTD90wyM5oMZ8I"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Ministro (Version Deluxe)",
-        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
+        "name": "El Ejemplar",
+        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Soy De Durango",
-      "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"
+      "duration_ms": 158400,
+      "name": "Del 1 al 10",
+      "url": "https://open.spotify.com/track/2P27nXY94tCwTdaNtdByWJ"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

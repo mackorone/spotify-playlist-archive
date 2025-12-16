@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-95 songs - 6 hr 6 min
+96 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Adiye Pogathe](https://open.spotify.com/track/0u7kiuKFuTkxcXgQq6zpYR) | [Josh Thomas Mathew](https://open.spotify.com/artist/4erTQzNoRB1c7lXlBOmih0), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anusha Haneef](https://open.spotify.com/artist/0KJR33DdaLKQq8A3h5P9I8) | [Adiye Pogathe](https://open.spotify.com/album/57XcU9En45cCemIeG76UQb) | 3:40 | 2023-01-13 |  |
 | [Adiyeh Kirukki](https://open.spotify.com/track/4Xbm9u4D2H20W8MJIEntqa) | [Vicanes Jay](https://open.spotify.com/artist/113GLFnJJbGJbh4UZs9FLK) | [Adiyeh Kirukki](https://open.spotify.com/album/2mx1aRsNbp09gPN883WWPz) | 4:42 | 2021-12-01 | 2024-04-05 |
 | [Alli Pookal \- From Naam Series](https://open.spotify.com/track/6CaZXWM3DWjQK73kK0nty7) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [T Suriavelan](https://open.spotify.com/artist/62pHLcXg1Hp1QaiX3l1IsR), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Alli Pookal \(From Naam Series\)](https://open.spotify.com/album/0Vd3VjOi0opbu51c8NvxBm) | 4:01 | 2021-12-01 |  |
+| [Anbae Unakkaaga](https://open.spotify.com/track/5H9pMeNc6ffWXuWBArioH9) | [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I), [Brown Jenneth](https://open.spotify.com/artist/0gCz8QT9Nyx2bV0kPWH2DS) | [Anbae Unakkaaga](https://open.spotify.com/album/3OlKCjYqhWB5nY7PPolX2O) | 3:49 | 2025-12-15 |  |
 | [Anbe Aaruyirae](https://open.spotify.com/track/3ebSznljltY5w7kskNlhma) | [Prashan Sean](https://open.spotify.com/artist/04WGlrqyaR2LvjkL5O2eVf), [Navin Raaj Mathavan](https://open.spotify.com/artist/1PbMW7SDnPgoPWgo1Szi6h) | [Anbe Aaruyirae](https://open.spotify.com/album/57xEQNhxZfTTsbjdd6FEvo) | 4:51 | 2021-12-01 | 2025-07-12 |
 | [Anbe Nalama?](https://open.spotify.com/track/07TiM33PXuXAhvQSwsnOYW) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Anbe Nalama?](https://open.spotify.com/album/2TqgLBHd11jVzsYZUt4fnc) | 3:10 | 2021-12-01 | 2024-02-22 |
 | [Anniku Raathiri](https://open.spotify.com/track/3bf3IZr936SL0d45m8xlWo) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Anniku Raathiri](https://open.spotify.com/album/30o1lvT2QicxFzEwo2nloP) | 3:13 | 2023-12-18 | 2024-03-17 |
@@ -44,7 +45,7 @@
 | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO) | 3:44 | 2023-09-06 | 2024-06-07 |
 | [Kadhal Idhudhano](https://open.spotify.com/track/2hga7vNDaFDUeeh49VZFhw) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Kadhal Idhudhano](https://open.spotify.com/album/5du5L2aDzTNj3NzMgPXJZH) | 2:47 | 2025-07-03 |  |
 | [Kadhal Kannadi](https://open.spotify.com/track/5fDpnjjYDR2TIsdRvBLOtM) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Kadhal Kannadi](https://open.spotify.com/album/7q2Z7GLKuMbeKMpdigQ0W9) | 3:39 | 2023-12-22 | 2024-04-24 |
-| [Kadhal Vandhu](https://open.spotify.com/track/0dQbBeFwLWebWL1GtEurFr) | [Soundarya Bala Nandakumar](https://open.spotify.com/artist/1O6cydr7vk4hJk2OkLECd0), [Ramkumar Ramji](https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro) | [Kadhal Vandhu](https://open.spotify.com/album/6zi5AqYPtonbBZo9dqhPrY) | 4:03 | 2021-12-01 |  |
+| [Kadhal Vandhu](https://open.spotify.com/track/0dQbBeFwLWebWL1GtEurFr) | [Soundarya Bala Nandakumar](https://open.spotify.com/artist/1O6cydr7vk4hJk2OkLECd0), [Ramkumar Ramji](https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro) | [Kadhal Vandhu](https://open.spotify.com/album/6zi5AqYPtonbBZo9dqhPrY) | 4:03 | 2021-12-01 | 2025-12-16 |
 | [Kana Kanden](https://open.spotify.com/track/2FcBAM5JfyV2uIxTlO4nki) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Kana Kanden](https://open.spotify.com/album/224FKmvgKZDjt6mydHDjgE) | 3:58 | 2025-11-06 |  |
 | [Kanave Kalayathe](https://open.spotify.com/track/0AgDGpvT9dtM2ZfAMejHC8) | [Sachin Warrier](https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK) | [Kanave Kalayathe](https://open.spotify.com/album/2sQIdNNlcMNyG5Ml6Xch6v) | 5:08 | 2021-12-01 | 2024-04-05 |
 | [Kanavellam](https://open.spotify.com/track/3YxK4m96nKH7Vw3vX1B04p) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2) | [Kanavellam](https://open.spotify.com/album/1PA3JsfwH3N8TRnuSwWIlw) | 4:36 | 2021-12-01 | 2025-07-04 |

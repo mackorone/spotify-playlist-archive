@@ -16727,6 +16727,24 @@
     },
     {
       "album": {
+        "name": "Deleted Albums, Sorry",
+        "url": "https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH"
+      },
+      "artists": [
+        {
+          "name": "thanks for coming",
+          "url": "https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233667,
+      "name": "Trigger Warning",
+      "url": "https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO"
+    },
+    {
+      "album": {
         "name": "Tell The Ghost Welcome Home",
         "url": "https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp"
       },

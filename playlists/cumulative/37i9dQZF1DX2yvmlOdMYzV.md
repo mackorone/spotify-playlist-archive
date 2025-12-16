@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,054 songs - 2 day 9 hr 32 min
+1,055 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Deus Deus](https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Deus Deus](https://open.spotify.com/album/24nI20pGu764BE49WzxMqn) | 4:03 | 2025-06-13 |  |
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2022-09-29 | 2023-04-01 |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-04-07 | 2023-08-12 |
-| [Dirty Tricks](https://open.spotify.com/track/5vlL70VsoGarYOJbADiMaP) | [House of EL](https://open.spotify.com/artist/0UMMEX2H03BK9oleRvjHos) | [When All Else Fails?](https://open.spotify.com/album/256wq8yyJVmbIxQNa4dy3Y) | 3:17 | 2025-09-07 |  |
+| [Dirty Tricks](https://open.spotify.com/track/5vlL70VsoGarYOJbADiMaP) | [House of EL](https://open.spotify.com/artist/0UMMEX2H03BK9oleRvjHos) | [When All Else Fails?](https://open.spotify.com/album/256wq8yyJVmbIxQNa4dy3Y) | 3:17 | 2025-09-07 | 2025-12-16 |
 | [distance](https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [distance](https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI) | 2:22 | 2024-08-02 | 2025-03-30 |
 | [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-12-15 | 2023-04-25 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-06-30 | 2023-05-13 |
@@ -497,6 +497,7 @@
 | [KOKO](https://open.spotify.com/track/0WHJJNkkCYGbDNDYUW8RA3) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Hold My Drink, Watch This.](https://open.spotify.com/album/7DTiWmmTONvedPmSiaDYEO) | 2:38 | 2024-11-08 |  |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/2VUMXJ651NZmzUcJvPEhit) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/5pkzBdjGwsm3D6EE4PPEQ2) | 1:13 | 2021-12-15 | 2022-04-07 |
 | [kometostai.aintreallynootherwaytoputitro](https://open.spotify.com/track/7oeNO6HoCTIHIuoNUp2Ur4) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Hud Dreems](https://open.spotify.com/album/7udRpnIdi1SS0oaLFsVwrD) | 1:13 | 2022-02-11 | 2023-03-25 |
+| [KYOTO](https://open.spotify.com/track/53Bt5wpZYAqRvtpqID5OxK) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [hdnroots.](https://open.spotify.com/artist/79nYBIUkfdh2KsqMBqHIAP) | [LSTN!!!](https://open.spotify.com/album/5N9OrPMq2eHKwNq2sLYCjY) | 2:32 | 2024-03-29 |  |
 | [L.U.](https://open.spotify.com/track/4tfmvLFrKxbi2JInTOKueu) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 4:04 | 2025-04-21 |  |
 | [Lalala \(feat\. Jayla Darden\)](https://open.spotify.com/track/60H353jZUXCNj1ySTEDPdC) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [Closure Tapes](https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5) | 3:29 | 2023-05-19 | 2023-09-15 |
 | [Land Of Honey](https://open.spotify.com/track/3V4VlZvJ1ggairG00ZMaiD) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Flamagra](https://open.spotify.com/album/6tC2ERExm7n7JEDkHOEFs5) | 3:27 | 2023-03-17 | 2023-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ไฮไลท์ RADAR Thailand ปี 2025 โดย Spotify Editor\. ปก: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,801 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,803 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

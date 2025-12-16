@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 216111,
+  "num_followers": 216170,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Te Ire A Buscar",
-        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 218045,
-      "name": "Te Ire A Buscar",
-      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 246382,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Te Ire A Buscar",
+        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 218045,
+      "name": "Te Ire A Buscar",
+      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Patan",
-          "url": "https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz"
-        }
-      ],
-      "duration_ms": 293346,
-      "name": "Volar Volar",
-      "url": "https://open.spotify.com/track/4pxigeVSDmHxM2gLQmVVH0"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "El Chivo",
         "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 275400,
       "name": "El Chivo (feat. T3r Elemento)",
       "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Patan",
+          "url": "https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz"
+        }
+      ],
+      "duration_ms": 293346,
+      "name": "Volar Volar",
+      "url": "https://open.spotify.com/track/4pxigeVSDmHxM2gLQmVVH0"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "La Familia, Cap. 1",
         "url": "https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 309733,
       "name": "Gaminart",
       "url": "https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Desde",
+        "url": "https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL"
+      },
+      "artists": [
+        {
+          "name": "Portavoz",
+          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        }
+      ],
+      "duration_ms": 277439,
+      "name": "Desde",
+      "url": "https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Pantone",
         "url": "https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 265488,
       "name": "Quien Va",
       "url": "https://open.spotify.com/track/21WsQHnPcE2nGM7RUyuEay"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Desde",
-        "url": "https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL"
-      },
-      "artists": [
-        {
-          "name": "Portavoz",
-          "url": "https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg"
-        },
-        {
-          "name": "Cidtronyck",
-          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
-        }
-      ],
-      "duration_ms": 277439,
-      "name": "Desde",
-      "url": "https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "R\u00e9plica",
-        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 305454,
-      "name": "R\u00e9plica",
-      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 159007,
       "name": "Duele",
       "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "R\u00e9plica",
+        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "R\u00e9plica",
+      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Expreso Aerophon",
-        "url": "https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr"
-      },
-      "artists": [
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        }
-      ],
-      "duration_ms": 313183,
-      "name": "Mi Familia",
-      "url": "https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 249693,
       "name": "No Entiendes La Onda (How I Could Just Kill A Man) - Spanish Version",
       "url": "https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Expreso Aerophon",
+        "url": "https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr"
+      },
+      "artists": [
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        }
+      ],
+      "duration_ms": 313183,
+      "name": "Mi Familia",
+      "url": "https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Producto Infinito Version 0.4",
-        "url": "https://open.spotify.com/album/0MoNYk7bMv3Vwt8VFyssME"
-      },
-      "artists": [
-        {
-          "name": "Zenit",
-          "url": "https://open.spotify.com/artist/7lN4AnSBcgqEyqVs5reCy2"
-        }
-      ],
-      "duration_ms": 298893,
-      "name": "Suelo so\u00f1ar",
-      "url": "https://open.spotify.com/track/3bUZA8syssxjVdvJDExkRi"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5GVNLD6AGiNGOVNPkLc6rI"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 243869,
       "name": "Madafaka (feat. Molotov)",
       "url": "https://open.spotify.com/track/3SfFu1MfHefPC55gW4ngH3"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Producto Infinito Version 0.4",
+        "url": "https://open.spotify.com/album/0MoNYk7bMv3Vwt8VFyssME"
+      },
+      "artists": [
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/7lN4AnSBcgqEyqVs5reCy2"
+        }
+      ],
+      "duration_ms": 298893,
+      "name": "Suelo so\u00f1ar",
+      "url": "https://open.spotify.com/track/3bUZA8syssxjVdvJDExkRi"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Vivir para Contarlo",
-        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 374853,
-      "name": "Pura Droga Sin Cortar",
-      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Lo Necesario",
         "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 193330,
       "name": "Pasame la Yesca",
       "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Vivir para Contarlo",
+        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 374853,
+      "name": "Pura Droga Sin Cortar",
+      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
     },
     {
       "added_at": "2024-07-12 18:46:41",

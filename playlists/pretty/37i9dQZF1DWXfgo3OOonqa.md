@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,512 likes - 174 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,495 likes - 174 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take 3](https://open.spotify.com/track/56z3ZANdO5FsB5OXD8EMAj) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Take 3](https://open.spotify.com/album/4UHQnQ7jv2cMjKDUijQIxc) | 2:22 |
-| 2 | [2 GUNS UPP SOM JUL](https://open.spotify.com/track/0TwQ0wgj8AdeaEdwDq3h30) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [2 GUNS UPP SOM JUL](https://open.spotify.com/album/3623NxWE2MSXMaPHjRhpnR) | 1:55 |
-| 3 | [Gustav Vasa](https://open.spotify.com/track/3WBQ9oA5DgpgV96ETEB7xP) | [ALAN MAX](https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Gustav Vasa](https://open.spotify.com/album/5XEkX79dGdKwXd8NEwyWqU) | 2:28 |
+| 1 | [2 GUNS UPP SOM JUL](https://open.spotify.com/track/0TwQ0wgj8AdeaEdwDq3h30) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [2 GUNS UPP SOM JUL](https://open.spotify.com/album/3623NxWE2MSXMaPHjRhpnR) | 1:55 |
+| 2 | [Gustav Vasa](https://open.spotify.com/track/3WBQ9oA5DgpgV96ETEB7xP) | [ALAN MAX](https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Gustav Vasa](https://open.spotify.com/album/5XEkX79dGdKwXd8NEwyWqU) | 2:28 |
+| 3 | [Take 3](https://open.spotify.com/track/56z3ZANdO5FsB5OXD8EMAj) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Take 3](https://open.spotify.com/album/4UHQnQ7jv2cMjKDUijQIxc) | 2:22 |
 | 4 | [Uppoffringar](https://open.spotify.com/track/6IrDsxJQb7VyYkEooUWrm9) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Uppoffringar](https://open.spotify.com/album/01n4JFTIjhjyrcoQVDEFEX) | 2:23 |
 | 5 | [Woah](https://open.spotify.com/track/1vhXsBxTRk0n4L9g7vwMsJ) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [Det blir inte alltid som man tänkt sig](https://open.spotify.com/album/630WY4FmTKOvS6zOXXtpFV) | 2:34 |
 | 6 | [låga](https://open.spotify.com/track/7es9iv9YMsxztdD7aja93s) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [nero](https://open.spotify.com/album/1XZSjSMXZkyWSl7le1bS8H) | 2:18 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 14 | [Onormal](https://open.spotify.com/track/3PDLigCHaHNk4fVsQqqJt6) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Onormal](https://open.spotify.com/album/6vltRocttRLb2dnhz4h0A3) | 2:28 |
 | 15 | [En sista gång](https://open.spotify.com/track/57vMYC7CSTajC4yporDijh) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [En sista gång](https://open.spotify.com/album/3a2uEbGhl4uBifg1rdBAbe) | 2:06 |
 | 16 | [THE BAD GUY](https://open.spotify.com/track/7JL2WLLaHZr9EgHyWfsKJk) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [THE BAD GUY](https://open.spotify.com/album/2tYf8Jkc8Aimg7xs2Czl6A) | 2:14 |
-| 17 | [Inte varit mig själv](https://open.spotify.com/track/6msXMdpztfzw0xap11pm8o) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Inte varit mig själv](https://open.spotify.com/album/51gDOj3HOCRmQ1JrOeb0Mk) | 2:26 |
-| 18 | [Blickarna har blivit kalla](https://open.spotify.com/track/21TfaIyyLdwzuHVWb00VR5) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Blickarna har blivit kalla](https://open.spotify.com/album/1D7jMPjv91RHTXedYFsr8U) | 2:37 |
+| 17 | [Blickarna har blivit kalla](https://open.spotify.com/track/21TfaIyyLdwzuHVWb00VR5) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Blickarna har blivit kalla](https://open.spotify.com/album/1D7jMPjv91RHTXedYFsr8U) | 2:37 |
+| 18 | [Inte varit mig själv](https://open.spotify.com/track/6msXMdpztfzw0xap11pm8o) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Inte varit mig själv](https://open.spotify.com/album/51gDOj3HOCRmQ1JrOeb0Mk) | 2:26 |
 | 19 | [HIPHOP](https://open.spotify.com/track/00bc0LQQBwiu9XpF6IfzLQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [HIPHOP](https://open.spotify.com/album/6SeUTFu5Cl5R6ZNxGyVYYH) | 2:41 |
 | 20 | [Känna som jag](https://open.spotify.com/track/1KYuRB76TVOtPKKQhB9dVN) | [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP) | [Lämna mig o jag dör](https://open.spotify.com/album/1x0oQdHx8qOfU3hlajPChP) | 2:10 |
 | 21 | [KONTAKT](https://open.spotify.com/track/6T3ZrYdf7ZeBIOkA2gU51Z) | [Juniior](https://open.spotify.com/artist/2iB4oRsEnWjBqolEm67uPR), [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [KONTAKT](https://open.spotify.com/album/16tqM6ATEkEsaiq5ozslFk) | 2:40 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 173 | [Ge Ej Upp](https://open.spotify.com/track/7Lolw0ToMMBSVxiB0FAUAp) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ge Ej Upp](https://open.spotify.com/album/5798b1KEUVxrESw0qXBalH) | 2:26 |
 | 174 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
 
-Snapshot ID: `AAAAALkPIiTeykecFXbPT8h9BNrMljoK`
+Snapshot ID: `AAAAAHcBRg85rbklK3slB4vFAmLEBVwt`

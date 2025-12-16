@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143273,
+  "num_followers": 143269,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,38 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
+        "name": "Hate How You Look (Live From London)",
+        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 203375,
+      "name": "Hate How You Look - Live From London",
+      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "My Church (Live from the Bluebird Caf\u00e9)",
+        "url": "https://open.spotify.com/album/24AOlassgS5YceHoqgwfAT"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 200750,
+      "name": "My Church - Live from the Bluebird Caf\u00e9",
+      "url": "https://open.spotify.com/track/1atcxTKmyUASYKQVNpBBQp"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -699,22 +731,6 @@
       "duration_ms": 216506,
       "name": "On the Road Again - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6kiBHtPe8GfNhLygAO2jiv"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
-        "name": "My Church (Live from the Bluebird Caf\u00e9)",
-        "url": "https://open.spotify.com/album/24AOlassgS5YceHoqgwfAT"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 200750,
-      "name": "My Church - Live from the Bluebird Caf\u00e9",
-      "url": "https://open.spotify.com/track/1atcxTKmyUASYKQVNpBBQp"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -767,22 +783,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Haywire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Your Man - Live In Ohio/2009",
-      "url": "https://open.spotify.com/track/0Rf194SGlahVwho1MUtA12"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "You'll Think Of Me (Live)",
         "url": "https://open.spotify.com/album/2ItuMQNemZLkUfth09u7Ay"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Hate How You Look (Live From London)",
-        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
+        "name": "Haywire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3d1QX5vNzJbqbZLTZoxFaZ"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 203375,
-      "name": "Hate How You Look - Live From London",
-      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
+      "duration_ms": 225173,
+      "name": "Your Man - Live In Ohio/2009",
+      "url": "https://open.spotify.com/track/0Rf194SGlahVwho1MUtA12"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "FISHIN' IN THE DARK (Live from the Road)",
         "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 202865,
       "name": "FISHIN' IN THE DARK - Live from the Road",
       "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
+        "name": "Bleed On Paper (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/7JsgQ1vqBoUrtcuSuZ5qFH"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 347946,
+      "name": "Bleed On Paper - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/3HthvlnNlEfKWnDdIttKQa"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
         "name": "Brooks & Dunn and Friends - Live from CMT Crossroads",
         "url": "https://open.spotify.com/album/7kgTfRyCCwAIMFpGRktONm"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Bleed On Paper (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/7JsgQ1vqBoUrtcuSuZ5qFH"
+        "name": "HIGH AND A(LIVE)",
+        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 347946,
-      "name": "Bleed On Paper - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/3HthvlnNlEfKWnDdIttKQa"
+      "duration_ms": 188200,
+      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1127,22 +1143,6 @@
       "duration_ms": 285733,
       "name": "You and Tequila (with Grace Potter) - Live",
       "url": "https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
-        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
-        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 405497,
-      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
+        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
+        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 405497,
+      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
         "name": "Kenny Chesney Live",
         "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 285306,
       "name": "Back Where I Come From - Live",
       "url": "https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
-        "name": "HIGH AND A(LIVE)",
-        "url": "https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "You Get What You Give - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3G5OWChi7RlexYHqzWsn9I"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
+        "name": "Knives Of New Orleans (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/2lN838yEt48mCd38i5uPGP"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 315346,
+      "name": "Knives Of New Orleans - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/4pcdKxD2GPku26pdCYEHKt"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
         "name": "From The Road, Vol. 1: Covers",
         "url": "https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Knives Of New Orleans (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/2lN838yEt48mCd38i5uPGP"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 315346,
-      "name": "Knives Of New Orleans - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/4pcdKxD2GPku26pdCYEHKt"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "Live From London",
         "url": "https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 198253,
       "name": "Forget About It - Live From The Louisville Palace, Kentucky / 2002",
       "url": "https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "duration_ms": 242369,
+      "name": "Lookin' For Love",
+      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1383,22 +1399,6 @@
       "duration_ms": 303920,
       "name": "When The Sun Goes Down - Duet With Uncle Kracker (Live)",
       "url": "https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
-      },
-      "artists": [
-        {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
-        }
-      ],
-      "duration_ms": 242369,
-      "name": "Lookin' For Love",
-      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
-        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
-      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "Live from the Ryman",
         "url": "https://open.spotify.com/album/46kzMpUsEmPdoEDtUWLjDM"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 170466,
       "name": "Welcome to Hard Times - Live from the Ryman",
       "url": "https://open.spotify.com/track/4QxGtOtabeAuy4WJ6OqG5V"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
+        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
+      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
+        "name": "Live From The Palomino",
+        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 232158,
+      "name": "Drinkin' Problem - Live From The Palomino",
+      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 292579,
       "name": "Woman, Amen - Live",
       "url": "https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
-        "name": "Live From The Palomino",
-        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 232158,
-      "name": "Drinkin' Problem - Live From The Palomino",
-      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
     },
     {
       "added_at": "2025-12-12 05:00:32",

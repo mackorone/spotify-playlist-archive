@@ -4,7 +4,7 @@
 
 > 2023
 
-107 songs - 6 hr 14 min
+108 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [space invaders](https://open.spotify.com/episode/3Ff28l3iZg5zUFmiGaUAjs) | [beneath the boardwalk](https://open.spotify.com/show/7gEt8SMstTxp4RK425vjhY) | [beneath the boardwalk](https://open.spotify.com/album/7gEt8SMstTxp4RK425vjhY) | 2:46 | 2024-11-21 | 2025-03-12 |
 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 | 2024-10-30 |  |
 | [stevie](https://open.spotify.com/track/3VBTVfMpXZrMif8g5eWTtf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [48:13 \(Deluxe\)](https://open.spotify.com/album/31Ph8c0rL3cK3FBd1JpuPA) | 4:44 | 2024-07-18 |  |
+| [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 | 2025-12-15 |  |
 | [Stop The World I Wanna Get Off With You](https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0) | 3:11 | 2022-10-26 |  |
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2023-01-09 |  |
 | [Switchblade Smiles](https://open.spotify.com/track/4Qm13tC08v8k6a1UEr9Htb) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Velociraptor!](https://open.spotify.com/album/6lox5NV29L4QQmLuAvBXuP) | 4:13 | 2025-10-13 |  |

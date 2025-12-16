@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 3,766 songs - 8 day 7 hr 37 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 3,769 songs - 8 day 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -503,7 +503,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 493 | [Yo](https://open.spotify.com/track/3NY4T4Q8k4CMjhUPVKBG4O) | [Jerestop](https://open.spotify.com/artist/1YaxdxI0q61ytKxYaIsoQe) | [45 Minutos](https://open.spotify.com/album/779lAHVEwP1EDtdgu0oBXv) | 3:47 |
 | 494 | [Abuse Me](https://open.spotify.com/track/6pXlghlS89h0rKaOTFV6MD) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Abuse Me](https://open.spotify.com/album/4mUsCsrkgTdmleGkxP8EH1) | 3:24 |
 | 495 | [Vodka soda](https://open.spotify.com/track/06Dz7mteBrSTJ9QDMa5BpB) | [Camping Lagon](https://open.spotify.com/artist/5FUG0uZPhmWPMRo0ztzgBH) | [Vodka soda](https://open.spotify.com/album/3iCMVBrLCJmdXDdSdKSTd0) | 2:48 |
-| 496 | [Serpentine](https://open.spotify.com/track/5QZxcjUqcsQ5c9vNXNqa2n) | [Lush Duck](https://open.spotify.com/artist/4Eq6Km0Da2p2nOdSU09tXu) | [Serpentine](https://open.spotify.com/album/0YmSvmQrl9C9Dtc9VOV0Ra) | 3:26 |
+| 496 | [Serpentine](https://open.spotify.com/track/5QZxcjUqcsQ5c9vNXNqa2n) | [Lush Duck](https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90) | [Serpentine](https://open.spotify.com/album/0YmSvmQrl9C9Dtc9VOV0Ra) | 3:26 |
 | 497 | [It's Not Funny](https://open.spotify.com/track/1a4efIOC48Bfu4jS58xt4b) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [It's Not Funny](https://open.spotify.com/album/2C0ZOwDRgWKv7jFCRIJeSt) | 3:45 |
 | 498 | [Lost](https://open.spotify.com/track/1E76p7PxlTz1CH4cnL6ixq) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [The Voight\-Kampff Test](https://open.spotify.com/album/6DqOPQwdjFqVa1b8Iut0fy) | 4:09 |
 | 499 | [Distractor](https://open.spotify.com/track/0RcW4JVawac6ZoON71atbs) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [Distractor](https://open.spotify.com/album/0RitxJpTiPwJxZ3UOdygBt) | 4:33 |
@@ -652,7 +652,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 642 | [Stranger in a Foreign Land \(Lalalalala\)](https://open.spotify.com/track/6uFHR8cUv0dWxwkGpPs45Z) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Stranger in a Foreign Land \(Lalalalala\)](https://open.spotify.com/album/5BJhPQPA6InjHrmhSnRYYz) | 3:50 |
 | 643 | [Boost!](https://open.spotify.com/track/2gdQbCDQmsmIUFE90S1s6E) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Boost!](https://open.spotify.com/album/0ZUhH4fq2QTr8RLuEHQbKN) | 2:59 |
 | 644 | [Think that i\`m in love](https://open.spotify.com/track/1z4jj3igYn3iZ89Ay5wTe4) | [Twirlies](https://open.spotify.com/artist/1M0XUNd420W1qZ3YPtvm4M) | [Think that i\`m in love](https://open.spotify.com/album/6EKEe0orzdFHSyxpehLaLH) | 3:06 |
-| 645 | [Hold On Til You Let Go](https://open.spotify.com/track/6li8lh8OCA9msg7mZUP2FS) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE), [Roseburg](https://open.spotify.com/artist/6aYFM3YVoyI9q7DuTRY9nY), [YesterKid](https://open.spotify.com/artist/13Iz4aO74JwHOI04cKWlum), [Cinders](https://open.spotify.com/artist/3kbFTAkkC68vVXA87WHDS4), [Drusky](https://open.spotify.com/artist/4PHUpf9OtF3WaHTeZ6thl4) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:02 |
+| 645 | [Hold On Til You Let Go](https://open.spotify.com/track/6li8lh8OCA9msg7mZUP2FS) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE), [Roseburg](https://open.spotify.com/artist/33zgUwcmU9iZl1QNmprEyO), [YesterKid](https://open.spotify.com/artist/13Iz4aO74JwHOI04cKWlum), [Cinders](https://open.spotify.com/artist/3kbFTAkkC68vVXA87WHDS4), [Drusky](https://open.spotify.com/artist/4PHUpf9OtF3WaHTeZ6thl4) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:02 |
 | 646 | [Critics of Neon](https://open.spotify.com/track/5GErt7vpDrfzUjr8FLM0VH) | [Loc Harp](https://open.spotify.com/artist/03NpM6Pz59hIUDTuP587pY) | [Critics of Neon](https://open.spotify.com/album/1L1bxqGy28y3uiBaTBjANa) | 3:19 |
 | 647 | [Выше неба](https://open.spotify.com/track/4IUuIxX8oZW2uNZejjcSwc) | [moon room 7](https://open.spotify.com/artist/5lut5OhjID1T8whViZB34G) | [Выше неба](https://open.spotify.com/album/7drQndRFdIijm0bneXB48s) | 3:29 |
 | 648 | [Lovesickness](https://open.spotify.com/track/07yQlHOpHqqk103nGGjL2m) | [Blake Cunningham](https://open.spotify.com/artist/7lDqMXbyfDk8fPXZAWgZDS) | [Lovesickness](https://open.spotify.com/album/5CJPO80DAGRdTGjZ1vtWVc) | 2:33 |
@@ -1196,7 +1196,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 1186 | [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 |
 | 1187 | [Ghostly Party](https://open.spotify.com/track/3fVDWUWCuFNljNnrtYl9oM) | [Kick the Door](https://open.spotify.com/artist/6rn7iUefKC3URVMznJ2hn2) | [Ghostly Party](https://open.spotify.com/album/3F6W2ohhUFtD2s2HPcUXgW) | 4:14 |
 | 1188 | [Savage Reservation](https://open.spotify.com/track/0Pydl87io7bMSRj3pA27eH) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Neanderthal](https://open.spotify.com/album/39y2S1RQh7MTKi753MYlUN) | 1:48 |
-| 1189 | [Vita da cani](https://open.spotify.com/track/0n2Jq8JQOovZai1k8OtIRu) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [Vita da cani](https://open.spotify.com/album/1QXDl0GohhlZhrp84FWE66) | 3:01 |
+| 1189 | [VITA DA CANI](https://open.spotify.com/track/0n2Jq8JQOovZai1k8OtIRu) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [VITA DA CANI](https://open.spotify.com/album/1QXDl0GohhlZhrp84FWE66) | 3:01 |
 | 1190 | [Per Amor Della Musica](https://open.spotify.com/track/1mo4kgONl8VYwV1L5GOvBS) | [Carducci](https://open.spotify.com/artist/2THb3si9v6rQ2uqBAp8ZMf) | [Le vie del Cercatore](https://open.spotify.com/album/2RprCD6Thm9yNUx86vWxeC) | 4:12 |
 | 1191 | [Catch My Breath](https://open.spotify.com/track/2bGIaYnktKL21b7ETJI4eS) | [Miley Rose](https://open.spotify.com/artist/6MA3iyWPi3BNUecJdCp563) | [Prismatic Chaos](https://open.spotify.com/album/0aBSmR5x5cWM4Nt28tCVyw) | 3:34 |
 | 1192 | [ENTRE CRISTALES](https://open.spotify.com/track/244xnRPePKZLHNcJC5mb67) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x) | [ENTRE CRISTALES](https://open.spotify.com/album/6z4mLjPPHQHGLz9FJFfeiS) | 2:30 |
@@ -3774,5 +3774,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3764 | [Help Me](https://open.spotify.com/track/08w0tzlysH3JZuzA46SLMe) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Help Me](https://open.spotify.com/album/79lQhXbWbjmao6F1MnCZ5X) | 4:02 |
 | 3765 | [Hidden Love](https://open.spotify.com/track/1lJaX742mJqBWcHimk70UY) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Hidden Love](https://open.spotify.com/album/3FbgJD5QIG3YaDSk6fsJ1n) | 3:23 |
 | 3766 | [Life Is Beautiful](https://open.spotify.com/track/4uUybQP3xXImQqJ4gxJOmY) | [C\_J](https://open.spotify.com/artist/2YVPBrRzDMRfRimq2jCUxD) | [Life Is Beautiful](https://open.spotify.com/album/4tXUxUM2PDXb2Dt2SYoET3) | 4:22 |
+| 3767 | [Looking for a Home](https://open.spotify.com/track/3kkgfzAg1Mgmo8VD2E1GdM) | [Raging Depths](https://open.spotify.com/artist/4Lkiay1vShJkvVFAWHQbQX) | [Looking for a Home](https://open.spotify.com/album/4u4dXS2eniKX6Djd5dAvgW) | 3:47 |
+| 3768 | [A la playa](https://open.spotify.com/track/3QcNBAgOxBvbfLgspDcMTx) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [A la playa](https://open.spotify.com/album/6POR0VEkDQJ9klsVbVm4dJ) | 3:01 |
+| 3769 | [I’m a weirdo](https://open.spotify.com/track/0fVd4sOBk7H7reZgH7NNpY) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [I’m a weirdo](https://open.spotify.com/album/5ZpGS7wY5tYvHVF2e304MJ) | 4:55 |
 
-Snapshot ID: `AAAGP5ieEN6sgKtp7oXGv016RZB57ATW`
+Snapshot ID: `AAAGQs87PnX90vOWdX0EjgkKi6X95bpb`

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
 
-### [HOUSE MUSIC 2025 🪩 100 BEST DANCE HITS 2025](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
+### [HOUSE MUSIC 2026 🪩 100 BEST DANCE HITS 2026](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> House Music 2025 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2025 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
+> House Music 2026 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2026 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,322,988 likes - 100 songs - 5 hr 1 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,322,937 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 43 | [Hey DJ](https://open.spotify.com/track/2AthrfD1o1v3wIYIdJSJwi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:37 |
 | 44 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
 | 45 | [Caramelle](https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Caramelle](https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC) | 2:00 |
-| 46 | [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 |
+| 46 | [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 |
 | 47 | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH) | 2:26 |
 | 48 | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Love Songs \(feat\. Kosmo Kint\)](https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ) | 3:18 |
 | 49 | [Make Believe](https://open.spotify.com/track/5iH81hIpxAYJKrominvxST) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/5rz0T4v8f8U8fdZeq93BhH) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Come Get This Love](https://open.spotify.com/track/1nog9d1crD4uhMmhD3MVM8) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Come Get This Love](https://open.spotify.com/album/57ZuRzemkOHRmV7DouxnVc) | 3:35 |
 | 100 | [Loveless](https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Loveless](https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ) | 3:12 |
 
-Snapshot ID: `AAARTM5vX7SrfdvqgDYI7zx3OPwX+Hae`
+Snapshot ID: `AAARTXpbGYAKQYo3wybPWNJ8mqbtBUnY`

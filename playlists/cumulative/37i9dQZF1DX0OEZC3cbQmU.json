@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 383184,
       "name": "Eu Creio (Believe For It)",
       "url": "https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 192403,
       "name": "Eu Quero Ser Grato",
       "url": "https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ"
@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Eu Vou Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/13tq7LjAnlaJCzbICKvp6W"
+      },
+      "artists": [
+        {
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1356604,
+      "name": "Eu Vou Orar - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wZQH168Uz7cZQbLyoid2U"
+    },
+    {
+      "album": {
         "name": "Faz Morada",
         "url": "https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa"
       },
@@ -1708,6 +1726,24 @@
       "duration_ms": 408805,
       "name": "Fuma\u00e7a (Ao Vivo)",
       "url": "https://open.spotify.com/track/6V37HbGkTESO25ksBhRIxf"
+    },
+    {
+      "album": {
+        "name": "Meia Noite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/14w0mFHPb1h8SwySsiXetL"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 20130,
+  "num_followers": 20139,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
+        "name": "LUCKY MAN",
+        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "duration_ms": 216806,
+      "name": "HeartBROKEN PlaYBoY",
+      "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
+    },
+    {
+      "added_at": "2025-11-05 08:21:46",
+      "album": {
         "name": "Eat Sleep Live Repeat",
         "url": "https://open.spotify.com/album/3gIC8C4Ont83DTnC9sxaYd"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 203518,
       "name": "Eat Sleep Live Repeat",
       "url": "https://open.spotify.com/track/5ZnlLC9fhvw7MAlfa82XLH"
-    },
-    {
-      "added_at": "2025-11-05 08:21:46",
-      "album": {
-        "name": "LUCKY MAN",
-        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
-      },
-      "artists": [
-        {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        }
-      ],
-      "duration_ms": 216806,
-      "name": "HeartBROKEN PlaYBoY",
-      "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

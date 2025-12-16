@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 
 > Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2025 official playlist\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,737 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,736 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7U7olwK5aZ.md) - [plain]
 | 15 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 |
 | 16 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 |
 | 17 | [JOYRIDE.](https://open.spotify.com/track/5oOZGQnZZToIHI55lw2E97) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE.](https://open.spotify.com/album/0k68jcBxrsqFzgvAVteo92) | 2:30 |
-| 18 | [Andalucía](https://open.spotify.com/track/3gJCWirg9qx1ze9t6B3P4P) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:29 |
-| 19 | [Children's Story](https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 4:02 |
+| 18 | [Children's Story](https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 4:02 |
+| 19 | [Andalucía](https://open.spotify.com/track/3gJCWirg9qx1ze9t6B3P4P) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:29 |
 | 20 | [From The Start](https://open.spotify.com/track/29Gys08x2u3ZSERTe0WvbE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 2:49 |
 | 21 | [Kill The Lights \(with Nile Rodgers\) \- Audien Remix](https://open.spotify.com/track/4iCKHGl4ij4YMwFrUZLGEQ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [DJ Cassidy](https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Kill The Lights \(with Nile Rodgers\) \[Remixes\]](https://open.spotify.com/album/3H2mPBmypuqKI2nLeVhLER) | 3:44 |
 | 22 | [Momma's Been Hurting](https://open.spotify.com/track/5jYYyF4kcfTRKikJW6dwry) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Hymnal Of A Troubled Man's Mind](https://open.spotify.com/album/1KLdQzh3fI4G7b00lbnOpB) | 3:43 |

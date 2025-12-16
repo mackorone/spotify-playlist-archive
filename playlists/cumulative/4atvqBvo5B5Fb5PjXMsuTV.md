@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 Dec 04:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 15 Dec 09:05 UTC.
 
-5,939 songs - 13 day 18 hr 13 min
+5,940 songs - 13 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2070,7 +2070,7 @@
 | [GO!](https://open.spotify.com/track/0BQYS5J3L6gohmBZuxJvA4) | [Glorb](https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih) | [GO!](https://open.spotify.com/album/2oW6pFmbFRSW8NGIRYRXiC) | 1:56 | 2025-04-06 | 2025-04-19 |
 | [Go\-Getters](https://open.spotify.com/track/1tAEybqqZ7d58wdgCwB9M9) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Go\-Getters](https://open.spotify.com/album/7BLZ0IWHj61SqqsEcOEUTa) | 3:15 | 2024-06-27 | 2024-06-29 |
 | [GOAT](https://open.spotify.com/track/2dK8SenYqhYu35cS8fGU7U) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [GOAT](https://open.spotify.com/album/4dvooNiLjhspaZnOxk1yA0) | 5:46 | 2024-07-26 | 2024-08-01 |
-| [Goat Stamp](https://open.spotify.com/track/4H6OFCJ5GHuM3NzuCHjvsc) | [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Goat Stamp](https://open.spotify.com/album/63N1gzlQ9beKpClgpD6r3l) | 3:36 | 2025-11-28 |  |
+| [Goat Stamp](https://open.spotify.com/track/4H6OFCJ5GHuM3NzuCHjvsc) | [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Goat Stamp](https://open.spotify.com/album/63N1gzlQ9beKpClgpD6r3l) | 3:36 | 2025-11-28 | 2025-12-16 |
 | [GOD \(with Sid Sriram\)](https://open.spotify.com/track/0evhnYBqAagPGFM8KJHNeO) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [GOD/MARRIAGE](https://open.spotify.com/album/3r02puVKfFDTkZgkDjdO04) | 2:11 | 2025-04-21 | 2025-04-27 |
 | [God Complex](https://open.spotify.com/track/1JearbDMqLCkKDBBxUGw5p) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [God Complex](https://open.spotify.com/album/3uYcGEKaKcofblWnPWz25N) | 4:05 | 2025-02-26 | 2025-03-05 |
 | [God Dick](https://open.spotify.com/track/2uj5dwIIWbHYc43nrZtDBn) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [God Dick](https://open.spotify.com/album/4KMVrxD8tP7XUrL3mxAeIq) | 2:32 | 2024-10-24 | 2024-10-26 |
@@ -4239,7 +4239,7 @@
 | [Riley \- FAAAHHH Remix](https://open.spotify.com/track/41JieZnmKWocQgwJjuJujh) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Riley \(FAAAHHH Remix\)](https://open.spotify.com/album/72bYVsRhWzg37zjmX3F2Q7) | 3:24 | 2025-10-16 | 2025-10-25 |
 | [Ring of Chaos](https://open.spotify.com/track/6QnZf9uIUEqxohWHTPlPi7) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [<Ring of Chaos>](https://open.spotify.com/album/3DMdQcyOIyqFEeyHnNw2cT) | 2:42 | 2025-10-25 | 2025-11-01 |
 | [Ring Ring](https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Ring Ring](https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS) | 2:51 | 2024-09-04 | 2024-09-07 |
-| [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-09 |  |
+| [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-09 |  |
 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-01-25 | 2025-02-05 |
 | [Rio de Janeiro](https://open.spotify.com/track/6boyn4SXKOUuHpJlJGugaK) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Rio de Janeiro](https://open.spotify.com/album/5p6O62jnMxocLxsR9mW0x2) | 3:46 | 2024-10-02 | 2024-10-05 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-05 | 2024-06-07 |
@@ -4867,6 +4867,7 @@
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-08 | 2024-11-14 |
 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-24 | 2024-07-27 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-20 | 2024-06-22 |
+| [Superscar \- SONIKKU Remix](https://open.spotify.com/track/2DSo999j9b6tgCfWTBlj9t) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP), [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Superscar \(SONIKKU Remix\)](https://open.spotify.com/album/7raylxJ3XFNzulLbbFuwnH) | 3:14 | 2025-12-15 |  |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-12 | 2024-08-16 |
 | [superstar](https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [superstar](https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI) | 2:49 | 2025-10-05 | 2025-10-14 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-23 | 2024-07-27 |

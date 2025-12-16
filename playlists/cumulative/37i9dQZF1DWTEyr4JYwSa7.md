@@ -4,10 +4,11 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-374 songs - 20 hr 21 min
+375 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 | 2025-12-12 |  |
 | [23 Decembre \- 2008 Digital Remaster](https://open.spotify.com/track/1CHfc4n8adHnVKCovZiyno) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [Noël 2019](https://open.spotify.com/album/6ykFQwwI2HgSZsHAzprXeP) | 2:16 | 2021-12-17 | 2024-04-19 |
 | [23 Decembre \- 2008 Digital Remaster](https://open.spotify.com/track/2TELDK7mphrSirin7JLNYi) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [Noël Française](https://open.spotify.com/album/1pzCdYBct3TOxLDPDTCqgF) | 2:17 | 2022-11-04 | 2022-11-13 |
 | [23 décembre](https://open.spotify.com/track/5rLIykWwyP4LJeH1UFYi75) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [Le Rythme de Noël](https://open.spotify.com/album/4sQqmvczfwEgV1fCirUCYT) | 2:16 | 2021-12-17 | 2025-11-15 |
@@ -234,7 +235,7 @@
 | [Noël brun](https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Les nuits de Repentigny](https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc) | 4:15 | 2021-12-17 |  |
 | [Noël c'est l'amour](https://open.spotify.com/track/1aUn8DVuCk3CqyX46cepkS) | [Angèle Arsenault](https://open.spotify.com/artist/5CuuZ2ZYcRmrb40SLP3nTe) | [Noël c'est l'amour](https://open.spotify.com/album/1rBndYStrSp2EztKPUI4hh) | 3:05 | 2022-11-04 | 2023-12-09 |
 | [Noël c'est l'amour](https://open.spotify.com/track/6d0iSkeq3lfYpJyYbG9EAh) | [Angèle Arsenault](https://open.spotify.com/artist/5CuuZ2ZYcRmrb40SLP3nTe) | [Noël c'est l'amour](https://open.spotify.com/album/2pmCmRrTwxywfvEksgORQ6) | 3:05 | 2021-12-17 | 2022-07-29 |
-| [Noël C'est L'amour](https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 6:37 | 2021-12-17 |  |
+| [Noël C'est L'amour](https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 6:37 | 2021-12-17 | 2025-12-16 |
 | [Noël c'est toi](https://open.spotify.com/track/4rG6whNnK2TY2OZ042G5XY) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Noël à deux](https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv) | 3:23 | 2021-12-17 | 2024-01-28 |
 | [Noël c'est toi](https://open.spotify.com/track/49vcn4itdW7AJUbG0aSE0T) | [Marie\-Eve Janvier et Jean\-François Breau](https://open.spotify.com/artist/4S0xrNvOSNS3qaFKf1jAWY) | [Noël à deux](https://open.spotify.com/album/57c1vyDaEkl1ix0egCCExX) | 3:23 | 2021-12-17 | 2022-07-28 |
 | [Noël c't'année](https://open.spotify.com/track/3T1dIiiwjVC7V7IXWgYeHT) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Noël c't'année](https://open.spotify.com/album/3NrO8sbnHetQewg5MSHNJt) | 3:24 | 2021-12-17 | 2025-12-13 |

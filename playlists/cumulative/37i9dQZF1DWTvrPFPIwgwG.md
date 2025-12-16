@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Maria Marçal
 
-269 songs - 23 hr 18 min
+270 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Descanse o Seu Coração \(Ao Vivo\)](https://open.spotify.com/track/6WKEusZLr9s1ULLGzkqSRf) | [Thais Helena](https://open.spotify.com/artist/4CQRgSDOYuQZkcDEXZdOzw) | [Descanse o Seu Coração \(Ao Vivo\)](https://open.spotify.com/album/5OEeg7QcObMeV90SLdHOhH) | 4:19 | 2025-04-05 | 2025-06-28 |
 | [Despreocupa](https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Despreocupa](https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI) | 5:10 | 2022-09-09 | 2025-02-01 |
 | [Dessa Vez Vai Ser Diferente](https://open.spotify.com/track/6AvpmakKwuhSY8rfm4s9bu) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70) | [Dessa Vez Vai Ser Diferente](https://open.spotify.com/album/78x8KNjVoo4B6ahdytAmp8) | 4:05 | 2025-04-14 | 2025-07-20 |
-| [Deus Está Cuidando](https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Deus Está Cuidando](https://open.spotify.com/album/6X9BxQYSamEcZrrigmRw6X) | 4:02 | 2024-10-11 |  |
+| [Deus Está Cuidando](https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Deus Está Cuidando](https://open.spotify.com/album/6X9BxQYSamEcZrrigmRw6X) | 4:02 | 2024-10-11 | 2025-12-16 |
 | [Deus Está Te Ensinando](https://open.spotify.com/track/6gbH6X0ngGL0XK6wAnAMpy) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Deus Está Te Ensinando](https://open.spotify.com/album/3HpJF8iPtOu6Gitthnyqjs) | 4:39 | 2022-09-09 | 2024-08-17 |
 | [Deus no Comando](https://open.spotify.com/track/1xvM8EUvxGV9Nql03GkLS7) | [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [Deus no Comando](https://open.spotify.com/album/5fruMBUNVcLkZkUGetyClw) | 5:01 | 2023-07-21 | 2023-08-19 |
 | [Deus Não Desperdiça Suas Lágrimas](https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Deus Não Desperdiça Suas Lágrimas](https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4) | 4:28 | 2022-09-09 | 2023-07-08 |
@@ -243,6 +243,7 @@
 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 | 2022-09-09 |  |
 | [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 | 2022-09-09 | 2025-10-18 |
 | [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 | 2023-03-17 | 2024-09-21 |
+| [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ) | 4:31 | 2025-12-15 |  |
 | [Tranquiliza \- Ao Vivo](https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl) | [Neide Martins](https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq) | [Tranquiliza \(Ao Vivo\)](https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ) | 7:09 | 2023-08-18 | 2025-04-15 |
 | [Treinar Você](https://open.spotify.com/track/2rJMAfn7eB3GQTr276zBiO) | [Kemily Maciel](https://open.spotify.com/artist/12sY570nlrZo3u5dnd2cuP), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Treinar Você](https://open.spotify.com/album/6nvoq8EFg817BBinpcg8Wc) | 5:01 | 2022-09-30 | 2022-10-15 |
 | [Tua Graça Me Basta \- Ao Vivo](https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv) | [Esther Fiaux](https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tua Graça Me Basta \(Ao Vivo\)](https://open.spotify.com/album/61uch0I53YX2d3eifc15D7) | 8:07 | 2024-04-26 |  |

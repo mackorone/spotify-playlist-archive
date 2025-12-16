@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-208 songs - 10 hr 22 min
+210 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Ding Dong Merrily on High](https://open.spotify.com/track/0ETXxrPmqmWNuxpuHRqWfb) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Ding Dong Merrily on High](https://open.spotify.com/album/4B6xLARC7he8mOqBA0yjKu) | 2:22 | 2021-12-21 |  |
 | [Do they know it´s christmas](https://open.spotify.com/track/1lGMG6AfhYk7eT0k8At52N) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Do they know it´s christmas](https://open.spotify.com/album/47PMYSQyfKGQeYwLpiu1su) | 3:04 | 2023-10-06 |  |
 | [Do you hear what I hear](https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Do you hear what I hear](https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5) | 2:08 | 2023-10-06 |  |
+| [Easy Winter Way](https://open.spotify.com/track/5bmrgS8OQt4TTrOM7VpD74) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Easy Winter Way](https://open.spotify.com/album/69s8eDXimqfg1cAAM4kqWG) | 3:46 | 2025-12-15 |  |
 | [Egg Nog](https://open.spotify.com/track/2jkGiE1xadNkG3ZpGJL9I8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [More Sounds Of Christmas](https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C) | 3:29 | 2021-12-21 | 2024-12-21 |
 | [Feliz navidad](https://open.spotify.com/track/465nAxOI5pErqke80RoQTF) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Feliz navidad](https://open.spotify.com/album/3gmuUZ1smESdC9G30KXUBU) | 2:03 | 2021-12-21 | 2025-09-05 |
 | [Fireplace and Fairy Lights](https://open.spotify.com/track/5GoW1GgYspUGFC7G751xpH) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Fireplace and Fairy Lights](https://open.spotify.com/album/02Reef7Ut8s5zJ04wXCdo2) | 2:39 | 2024-11-11 |  |
@@ -190,6 +191,7 @@
 | [Walking In A Winter Wonderland](https://open.spotify.com/track/7kWKkAC6yJwyrrNVeXAEMX) | [Jan Ullah](https://open.spotify.com/artist/5LtsQvgd7D0tJTq6K1cB35) | [Walking In A Winter Wonderland](https://open.spotify.com/album/6EAPnYnaQNTXthDRsqnuOt) | 2:21 | 2021-12-21 | 2022-11-11 |
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2021-12-21 |  |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/24qIDUtuHes8hTXrs13HR6) | [Little Tree Trio](https://open.spotify.com/artist/307akv5BTJh4p9auz0sc0F) | [Merry Christmas](https://open.spotify.com/album/3mhiSS0lSViQWiEpV3rsuY) | 2:33 | 2021-12-21 | 2025-09-05 |
+| [We Wish You a Merry Christmas](https://open.spotify.com/track/3mRYnpqfwcpgcsTsubMxcU) | [The Late Set](https://open.spotify.com/artist/2DSGXPhy0t52xPc6pRonU2) | [We Wish You a Merry Christmas](https://open.spotify.com/album/5ylsiCXTAywWbquyXyP86s) | 2:20 | 2025-12-15 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/2OMXwyF3J4vYDxk5DzV03s) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/2Q8QtI11tk9L9jBskjBF7E) | 4:28 | 2021-12-21 |  |
 | [What Child Is This](https://open.spotify.com/track/29fnDld1i5KhEF63a9QnmZ) | [Maurice Green](https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3) | [What Child Is This](https://open.spotify.com/album/72aJzZXCOORiyTslTk5Mh3) | 2:44 | 2023-11-10 | 2024-11-12 |
 | [What Child Is This](https://open.spotify.com/track/6UTEb3SExkT0sphhwsRjzB) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Instrumental Christmas](https://open.spotify.com/album/2YxRD4GY8phq9uNHA5tNqx) | 2:21 | 2022-11-10 | 2022-11-13 |

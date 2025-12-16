@@ -22417,7 +22417,25 @@
     },
     {
       "album": {
-        "name": "goodbye",
+        "name": "Forever Howlong",
+        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "date_added": "2025-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2025-05-24",
+      "duration_ms": 257547,
+      "name": "Goodbye (Don\u2019t Tell Me)",
+      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+    },
+    {
+      "album": {
+        "name": "goodbye (alternate version)",
         "url": "https://open.spotify.com/album/2zuZxtNormjxCDRb0lax1Q"
       },
       "artists": [
@@ -22434,26 +22452,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216725,
-      "name": "goodbye",
+      "name": "goodbye - alternate version",
       "url": "https://open.spotify.com/track/0MfPdI6p08GfrlnFMOt3zD"
-    },
-    {
-      "album": {
-        "name": "Forever Howlong",
-        "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "date_added": "2025-04-04",
-      "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
-      "duration_ms": 257547,
-      "name": "Goodbye (Don\u2019t Tell Me)",
-      "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
     },
     {
       "album": {

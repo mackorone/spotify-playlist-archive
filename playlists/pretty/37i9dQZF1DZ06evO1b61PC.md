@@ -8,8 +8,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All Your Love](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [All Your Love](https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD) | 2:08 |
-| 2 | [Moon Rider \(feat\. Wrabel\) \- OTR Remix](https://open.spotify.com/track/2dJruelM5pKxBJbiDYGiG0) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider Remixes](https://open.spotify.com/album/6lxw2m2ovu82KLPMfyqaDn) | 3:41 |
+| 1 | [Moon Rider \(feat\. Wrabel\) \- OTR Remix](https://open.spotify.com/track/2dJruelM5pKxBJbiDYGiG0) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider Remixes](https://open.spotify.com/album/6lxw2m2ovu82KLPMfyqaDn) | 3:41 |
+| 2 | [All Your Love](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [All Your Love](https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD) | 2:08 |
 | 3 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
 | 4 | [Heartbeat](https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Heartbeat](https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj) | 2:35 |
 | 5 | [Starlight](https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn) | 3:43 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 40 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 | 41 | [My Tears Could Fill A Well](https://open.spotify.com/track/0zUZgHAxB1CK1wiwvokVZu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 6:06 |
 
-Snapshot ID: `aTysgAAAAABSyTGnQMPlhWya+eSVrAsX`
+Snapshot ID: `aT3+AAAAAACvqMw0Wo8mr72wpUAVkAr9`

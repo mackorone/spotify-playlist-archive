@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 15224,
+  "num_followers": 15237,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAAR8/98l+z5c0/RHnbqO7Hr",
+  "snapshot_id": "aT3+AAAAAADK9jOH2P/+Ipr5ePFr4Uc8",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 136585,
+      "name": "V.S. Freestyle",
+      "url": "https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 190819,
       "name": "Cough Syrup",
       "url": "https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 136585,
-      "name": "V.S. Freestyle",
-      "url": "https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q"
     },
     {
       "added_at": null,

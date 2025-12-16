@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 130832,
+  "num_followers": 130819,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "RALLY FUNK",
-        "url": "https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh"
-      },
-      "artists": [
-        {
-          "name": "prod. DTM",
-          "url": "https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE"
-        }
-      ],
-      "duration_ms": 94144,
-      "name": "RALLY FUNK",
-      "url": "https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Around",
         "url": "https://open.spotify.com/album/2HBNLX7RcLK8Bvte2kFGbJ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 418594,
       "name": "Around - Solomun Vox",
       "url": "https://open.spotify.com/track/1FqCIlKJRNqpuQOAO7HCGd"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "RALLY FUNK",
+        "url": "https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh"
+      },
+      "artists": [
+        {
+          "name": "prod. DTM",
+          "url": "https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE"
+        }
+      ],
+      "duration_ms": 94144,
+      "name": "RALLY FUNK",
+      "url": "https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Feel The Friction",
+        "url": "https://open.spotify.com/album/14AhXf3h67J8auGzUzBWLi"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "duration_ms": 182410,
+      "name": "Feel The Friction",
+      "url": "https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "the floor",
         "url": "https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 234428,
       "name": "the floor - skin on skin remix",
       "url": "https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Feel The Friction",
-        "url": "https://open.spotify.com/album/14AhXf3h67J8auGzUzBWLi"
-      },
-      "artists": [
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 182410,
-      "name": "Feel The Friction",
-      "url": "https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Desire to Stay",
-        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Desire to Stay",
-      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Fuck My Computer",
         "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "After Five",
-        "url": "https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe"
+        "name": "Desire to Stay",
+        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
       },
       "artists": [
         {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
         }
       ],
-      "duration_ms": 216253,
-      "name": "After Five",
-      "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
+      "duration_ms": 228500,
+      "name": "Desire to Stay",
+      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -783,6 +767,22 @@
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "After Five",
+        "url": "https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 216253,
+      "name": "After Five",
+      "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Wicked Rhythm EP",
-        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
-      },
-      "artists": [
-        {
-          "name": "seKTa",
-          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
-        }
-      ],
-      "duration_ms": 173801,
-      "name": "Wicked Sound",
-      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "You're Not a Popstar",
         "url": "https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 224958,
       "name": "You're Not a Popstar",
       "url": "https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Wicked Rhythm EP",
+        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
+      },
+      "artists": [
+        {
+          "name": "seKTa",
+          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
+        }
+      ],
+      "duration_ms": 173801,
+      "name": "Wicked Sound",
+      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
     },
     {
       "added_at": "2025-10-16 13:00:01",

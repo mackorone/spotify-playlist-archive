@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,771 songs - 7 day 0 hr 49 min
+2,772 songs - 7 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2368,6 +2368,7 @@
 | [The Bass \- Pretty Pink Remix](https://open.spotify.com/track/6oVrujjkAb94VRO0hAyjh7) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [The Bass \(Pretty Pink Remix\)](https://open.spotify.com/album/4i3pHbC1lzl7LlhCPb6Jrz) | 3:12 | 2023-01-21 | 2023-01-29 |
 | [The Beginning](https://open.spotify.com/track/3FoXWHV24HO9rpcwkYa9lF) | [Native Soul](https://open.spotify.com/artist/1YhcreGr3lGJf6nOne2AIv) | [Teenage Dreams](https://open.spotify.com/album/6088Sj5rAfVFzUxPKDq6jm) | 7:44 | 2023-03-11 | 2023-04-01 |
 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 | 2023-08-12 | 2023-08-27 |
+| [The Block \- Extended Mix](https://open.spotify.com/track/4rSZkdV2B1T5tDlQ1KqYWr) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Block \(Extended Mix\)](https://open.spotify.com/album/6wEiA2bRhzUzEWo4ALNikr) | 3:15 | 2025-12-15 |  |
 | [The Bouncer](https://open.spotify.com/track/4OOCVoD4D51K5lDZhB95Q5) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [The Bouncer](https://open.spotify.com/album/69gcp4kGPlraokvbcYGM8K) | 2:50 | 2024-11-01 | 2024-11-23 |
 | [The Chant \- For Club Play Only, Pt\. 8](https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [The Chant \(For Club Play Only, Pt\. 8\)](https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q) | 3:10 | 2023-05-05 | 2023-06-02 |
 | [The Chase \- Rebūke Remix](https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Chase \(Rebūke Remix\)](https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu) | 3:08 | 2024-01-21 | 2024-02-11 |

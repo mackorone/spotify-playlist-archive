@@ -1647,7 +1647,29 @@
     },
     {
       "album": {
-        "name": "Eu Adoro",
+        "name": "Eu Viciei",
+        "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-06-27",
+      "duration_ms": 134400,
+      "name": "Eu Viciei",
+      "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
+    },
+    {
+      "album": {
+        "name": "Eu \u00c5doro",
         "url": "https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW"
       },
       "artists": [
@@ -1672,30 +1694,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157347,
-      "name": "Eu Adoro",
+      "name": "Eu \u00c5doro",
       "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
-    },
-    {
-      "album": {
-        "name": "Eu Viciei",
-        "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
-      },
-      "artists": [
-        {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "date_added": "2022-04-29",
-      "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
-      "duration_ms": 134400,
-      "name": "Eu Viciei",
-      "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
     },
     {
       "album": {

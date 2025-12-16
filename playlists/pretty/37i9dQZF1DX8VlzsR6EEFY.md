@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Cumbia Pedregal en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,041 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,072 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 28 | [Dame Tu Amor](https://open.spotify.com/track/1hIwEY8U3ah4PQsDzHMtQx) | [Los Migueles Jr](https://open.spotify.com/artist/2jBqAPL0kUHJopuFYYfG0v), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Dame Tu Amor](https://open.spotify.com/album/2NIDH6ggOsdqcdxAChKXNh) | 2:57 |
 | 29 | [Sentimental](https://open.spotify.com/track/4ltsuSbqqiF5TK6bKIt1vw) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Sentimental](https://open.spotify.com/album/7EWCw5uwGEqLN1SbaGusS4) | 2:14 |
 | 30 | [Estoy Aqui](https://open.spotify.com/track/33tPQDN6hpQ2knusgbe0Jl) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Estoy aqui](https://open.spotify.com/album/2jml7yRfOtF5Mv1zfrxIaO) | 3:24 |
-| 31 | [Desde Que Llegaste \(Con Eden Muñoz\)](https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Desde Que Llegaste \(Con Eden Muñoz\)](https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW) | 3:26 |
+| 31 | [Desde Que Llegaste \(con Eden Muñoz\)](https://open.spotify.com/track/5A90OxfOMIGXM2jocXmASG) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Desde Que Llegaste \(con Eden Muñoz\)](https://open.spotify.com/album/6CDrZFBVkrxaaYOoiP3iLW) | 3:26 |
 | 32 | [Una Patada en los Huevos](https://open.spotify.com/track/1ZSW8N6H9961XO6iDJiDWw) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Una Patada en los Huevos](https://open.spotify.com/album/5p9JoSGwuXNDLFKMFwe1Y2) | 2:49 |
 | 33 | [Neta No](https://open.spotify.com/track/4W1NbtMwzrK62MhTD7LbGs) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Neta No](https://open.spotify.com/album/0B6VVtO3P4xMCKXZp0IQLG) | 2:33 |
 | 34 | [YA VALIÓ](https://open.spotify.com/track/6qWCZ3lMArAj37bWeeX4tf) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [YA VALIÓ](https://open.spotify.com/album/6BuvBcOWuP88G9oGsiSRg8) | 3:41 |

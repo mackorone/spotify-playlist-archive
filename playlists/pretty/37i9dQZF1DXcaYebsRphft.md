@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『BABYMONSTER “LOVE MONSTERS” JAPAN FAN CONCERT 2025』のセットリストをMCとともに公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,715 likes - 20 songs - 52 min 10 sec
+[Spotify](https://open.spotify.com/user/spotify) - 36,699 likes - 20 songs - 52 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 19 | [BATTER UP \[Remix\]](https://open.spotify.com/track/5HOqEc8PVJCe2N865YHMn3) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS), [DEE.P](https://open.spotify.com/artist/578frpgY5Upl3yUyRXxNFF) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:46 |
 | 20 | [Love In My Heart](https://open.spotify.com/track/0A9s1ZDOZsYsbfkRk6q2cr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:12 |
 
-Snapshot ID: `AAAAALtmwNwbKBE7/OSTZyAhku8qhR1x`
+Snapshot ID: `AAAAAOjqv0zHoicZiyqHQno0giNjixYo`

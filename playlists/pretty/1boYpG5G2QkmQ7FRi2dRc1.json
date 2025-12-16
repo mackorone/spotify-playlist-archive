@@ -1,13 +1,29 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 281439,
+  "num_followers": 281413,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIhq5HT/pHcN2lx8JZi7cNJQ9aFHbM",
+  "snapshot_id": "AAAIh+idd/+rLdRFHuX6iTkTYPKUHmBV",
   "tracks": [
+    {
+      "added_at": "2025-12-15 07:07:47",
+      "album": {
+        "name": "The Block (Extended Mix)",
+        "url": "https://open.spotify.com/album/6wEiA2bRhzUzEWo4ALNikr"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 195713,
+      "name": "The Block - Extended Mix",
+      "url": "https://open.spotify.com/track/4rSZkdV2B1T5tDlQ1KqYWr"
+    },
     {
       "added_at": "2025-11-28 21:08:36",
       "album": {

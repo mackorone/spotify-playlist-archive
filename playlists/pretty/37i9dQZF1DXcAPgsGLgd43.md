@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,666 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,766 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 93 | [Carretero](https://open.spotify.com/track/7h84kkGWk5WMo31VBnQZpx) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Carretero](https://open.spotify.com/album/5uNJJWose8r2Mebm3BuYDa) | 2:36 |
 | 94 | [Al Ritmo](https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Allan Piziano](https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV) | [Al Ritmo](https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY) | 3:19 |
 | 95 | [Capitale](https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57) | [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Capitale](https://open.spotify.com/album/0huwDj81jiBTRF1dWOKjfo) | 3:23 |
-| 96 | [Wataki](https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu) | [Wataki](https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU) | 3:38 |
-| 97 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
+| 96 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
+| 97 | [Wataki](https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu) | [Wataki](https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU) | 3:38 |
 | 98 | [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 |
 | 99 | [Kiki](https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Kiki](https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH) | 3:00 |
 | 100 | [Dame Mas](https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [Dame Mas](https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B) | 3:05 |

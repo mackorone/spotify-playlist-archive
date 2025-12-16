@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-332 songs - 23 hr 3 min
+333 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [DGAF](https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [DGAF](https://open.spotify.com/album/5HJ5DF8HirntW6MVfzNJOI) | 3:42 | 2024-09-20 | 2024-11-14 |
 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 | 2025-05-30 |  |
 | [Die Welt Brennt](https://open.spotify.com/track/7oAM2GxHCTKTLU3gXvkuuj) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Obernauer](https://open.spotify.com/artist/1PDMLYsqcKoGCBaWMTwcpi) | [Die Welt Brennt](https://open.spotify.com/album/44WQTL892sCs09rNu3hSLJ) | 5:10 | 2024-08-05 | 2025-07-25 |
-| [Dirty Numb](https://open.spotify.com/track/4Q4pCuip4asTc7tQ4zsfl1) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Dirty Numb](https://open.spotify.com/album/5BVqjZqKgTptwBTc40foJl) | 2:34 | 2025-11-21 |  |
+| [Dirty Numb](https://open.spotify.com/track/4Q4pCuip4asTc7tQ4zsfl1) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Dirty Numb](https://open.spotify.com/album/5BVqjZqKgTptwBTc40foJl) | 2:34 | 2025-11-21 | 2025-12-16 |
 | [Disfigure](https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [GWELD](https://open.spotify.com/artist/4RFa0ShXF9VKaaKDyT2NlC) | [Disfigure](https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8) | 5:26 | 2024-04-09 | 2024-09-23 |
 | [Do My Thing](https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Do My Thing](https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac) | 3:30 | 2024-07-14 | 2024-07-22 |
 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 | 2024-04-19 | 2025-10-25 |
@@ -157,6 +157,7 @@
 | [High On C](https://open.spotify.com/track/48oFEZWfCjhLQuZHkKwAVW) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:18 | 2024-07-18 | 2024-07-22 |
 | [HIT IT BOY](https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD), [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [HIT IT BOY](https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u) | 2:21 | 2025-10-10 |  |
 | [Hit The Club](https://open.spotify.com/track/4AlA1z25JYMU1kgmgCc8St) | [DBF](https://open.spotify.com/artist/3p9cbFUvSrQeLgpm7Go8ky) | [Hit The Club](https://open.spotify.com/album/67vJ3MyRTpkoT8dvN8rueX) | 2:28 | 2024-07-14 | 2024-07-22 |
+| [Hit The Floor](https://open.spotify.com/track/3CgXblMNTtV1OOVaQUkgdv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Hit The Floor](https://open.spotify.com/album/5R9Ad56E2fhvrArv4aS2H4) | 2:30 | 2025-12-12 |  |
 | [Hold Ud, Skat!](https://open.spotify.com/track/2V93YUfHy7HdfM050NYjo8) | [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [Trifecta](https://open.spotify.com/album/3FFdrjoj7j1nivP0Koz4gL) | 4:56 | 2024-04-09 | 2024-04-19 |
 | [Holi](https://open.spotify.com/track/4nCx7lGZicc4zQKvA9gu9r) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Holi](https://open.spotify.com/album/35JpE0clrbmSj6F4WZEP3s) | 5:05 | 2025-09-05 | 2025-11-22 |
 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 | 2025-05-16 |  |

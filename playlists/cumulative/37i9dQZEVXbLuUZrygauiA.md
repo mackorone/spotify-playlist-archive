@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,477 songs - 7 day 20 hr 55 min
+3,478 songs - 7 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1704,6 +1704,7 @@
 | [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 | 2025-05-20 | 2025-05-25 |
 | [Lola](https://open.spotify.com/track/6x5wWTNpTWuWrFmqxKAmOs) | [Jedis](https://open.spotify.com/artist/3RJORoXd6fJDeyOZJ4YgTN), [Gote](https://open.spotify.com/artist/3gaGawsSUSeW2xyOJ7dDal), [Nolep](https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau) | [Lola](https://open.spotify.com/album/0zTDg24VVw7fQerm0Y7Vua) | 4:38 | 2024-02-22 | 2024-03-22 |
 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 | 2023-10-10 | 2023-11-18 |
+| [Loquisima \- Remix](https://open.spotify.com/track/3YTmxDrra3QA1kkgGiQv2m) | [Angel AM](https://open.spotify.com/artist/3PbkMaItGszkFJBKNhTmZj), [ADRIANO](https://open.spotify.com/artist/3hXmRb562YiEdREJ35D9r3), [Tenaces Records](https://open.spotify.com/artist/1wIOkcuPaE005AB3FfqM33), [Kambu](https://open.spotify.com/artist/57rDkxjPOZ5Tvy1MbSv9nQ) | [Loquisima \(Remix\)](https://open.spotify.com/album/4rpszQ99pXuo4IhGs8PhJ7) | 2:57 | 2025-12-15 |  |
 | [los alpes](https://open.spotify.com/track/4957L0Loaz27sUPgBlEeOb) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:20 | 2024-09-03 | 2025-11-13 |
 | [LOS APARATOS](https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [LOS APARATOS](https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi) | 3:52 | 2022-09-08 | 2022-09-11 |
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2022-04-14 | 2022-05-11 |
@@ -3383,7 +3384,7 @@
 | [Ya estuve ahí](https://open.spotify.com/track/3iMd1U55ThNtYzS30RAN7K) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Vuelvo a Respirar](https://open.spotify.com/album/2gcMvqFalxoH4xpzKQtpxv) | 2:57 | 2024-07-30 | 2024-08-09 |
 | [Ya Fue](https://open.spotify.com/track/0l9nwoGmhk5ckCdRqJcPB8) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 3:57 | 2025-11-25 |  |
 | [Ya Fui Negro Ya Fui Blanco](https://open.spotify.com/track/0JfbFYQS9eqKL3g6b02NQ8) | [Alfonso Muñoz](https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Ya Fui Negro Ya Fui Blanco](https://open.spotify.com/album/6RgZ7wQoPWCHchuPKKomLO) | 2:38 | 2025-02-25 | 2025-03-08 |
-| [YA NI SU NOMBRE ME SE \(Private AfroHouse\)](https://open.spotify.com/track/6Ab73LM4c50oTmk4EaxSbT) | [Global Afro](https://open.spotify.com/artist/6gh6D5AJYOe1RLRUpynLDQ) | [YA NI SU NOMBRE ME SE \(Private AfroHouse\)](https://open.spotify.com/album/1iIgNlGKwEwwVCYNoc97ZL) | 3:48 | 2025-11-05 |  |
+| [YA NI SU NOMBRE ME SE \(Private AfroHouse\)](https://open.spotify.com/track/6Ab73LM4c50oTmk4EaxSbT) | [Global Afro](https://open.spotify.com/artist/6gh6D5AJYOe1RLRUpynLDQ) | [YA NI SU NOMBRE ME SE \(Private AfroHouse\)](https://open.spotify.com/album/1iIgNlGKwEwwVCYNoc97ZL) | 3:48 | 2025-11-05 | 2025-12-16 |
 | [Ya No](https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:34 | 2024-09-30 | 2024-10-04 |
 | [Ya No Digas Nada](https://open.spotify.com/track/2CwOE8MuEkLskLMst4xst5) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Ya No Digas Nada](https://open.spotify.com/album/1xEeH9IfIcgLid5fa8rC4j) | 2:57 | 2024-04-14 | 2024-04-16 |
 | [Ya No Estoy Dolido](https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya No Estoy Dolido](https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g) | 2:59 | 2024-01-23 | 2024-03-10 |

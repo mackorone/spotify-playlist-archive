@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: マカロニえんぴつ
 
-2,783 songs - 7 day 5 hr 45 min
+2,784 songs - 7 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1777,6 +1777,7 @@
 | [クラシックハイ](https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [ジェニークラシック](https://open.spotify.com/album/3aE28znA0tYGoqxLwzaWxl) | 4:13 | 2023-06-27 | 2023-08-18 |
 | [クラッシュ](https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [なとり](https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:16 | 2025-11-25 |  |
 | [クランベリージャムをかけて](https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クランベリージャムをかけて](https://open.spotify.com/album/3bj22dhfeDss7WCzPYlVHI) | 2:47 | 2023-07-25 | 2023-09-13 |
+| [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2025-12-15 |  |
 | [クリームソーダ](https://open.spotify.com/track/1j58n5vsSxrHnmusrfxeqz) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [bouquet](https://open.spotify.com/album/5z5GxAqdv2RFBZPcqKEl53) | 3:35 | 2025-09-30 | 2025-12-03 |
 | [クロスロード](https://open.spotify.com/track/06bGA7LD0gnMEheiYlAF2l) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [クロスロード](https://open.spotify.com/album/4mJ1KXrkeLBHxny9dADqb7) | 3:00 | 2023-11-14 | 2023-12-13 |
 | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/track/7JXv8zritDObflbmgZ9dQZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/album/3zbsxwfh22qdpXt73Dmk24) | 3:50 | 2025-07-02 | 2025-07-23 |
@@ -2338,7 +2339,7 @@
 | [帆](https://open.spotify.com/track/478Gsvwn005zK6JiOP7sTJ) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [帆](https://open.spotify.com/album/37H8ypYcyqerXMiJmceWE0) | 3:10 | 2024-01-02 | 2024-02-07 |
 | [帰り道](https://open.spotify.com/track/7mQJ3n2lMRHhXzFdsqW1pe) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [帰り道](https://open.spotify.com/album/1iI78vLMSTUE5lXJcvKreo) | 3:56 | 2024-04-16 | 2024-06-26 |
 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 | 2023-05-23 | 2023-06-07 |
-| [幕が上がる](https://open.spotify.com/track/4yJgSqf89poSNC6zIAwMQP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [幕が上がる](https://open.spotify.com/album/7EMnnvi7tiuruBRbW9Zr92) | 4:42 | 2025-07-31 |  |
+| [幕が上がる](https://open.spotify.com/track/4yJgSqf89poSNC6zIAwMQP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [幕が上がる](https://open.spotify.com/album/7EMnnvi7tiuruBRbW9Zr92) | 4:42 | 2025-07-31 | 2025-12-16 |
 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 | 2024-04-23 | 2024-08-07 |
 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 | 2023-07-04 | 2023-07-28 |
 | [幸せとは](https://open.spotify.com/track/3eupDfbVc32UdTmGo1IZbH) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [幸せとは](https://open.spotify.com/album/6Ct0mh4n9pnsMWWN4RejWr) | 3:07 | 2023-06-27 | 2023-08-02 |

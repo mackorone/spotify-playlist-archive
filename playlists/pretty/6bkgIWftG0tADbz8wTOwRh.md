@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bkgIWftG0tADbz8wTOwRh.md) - [plain]
 
 > Bringing you the best dance music of Create Music Group!
 
-[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,075 likes - 69 songs - 4 hr 19 min
+[Create Music Group](https://open.spotify.com/user/5yxhjtdh364nu3usltc4act75) - 3,076 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

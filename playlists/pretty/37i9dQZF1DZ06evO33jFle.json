@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 532336,
+  "num_followers": 532592,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAB4sUmRMnEHxUNJ0IcVvNZP",
+  "snapshot_id": "aT3+AAAAAAARK8+a5d7FQ9w2cs65rdtp",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Misma Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "La Misma Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Primer Lugar",
         "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
       },
@@ -779,6 +763,38 @@
       "duration_ms": 278453,
       "name": "El Destino",
       "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "La Misma Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1969 - Siempre en Vivo Desde Monterrey, Parte 1",
+        "url": "https://open.spotify.com/album/34y1fpvbIDLpFoarLds4vo"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 30466,
+      "name": "Outro - En Vivo Desde Monterrey 2012",
+      "url": "https://open.spotify.com/track/5OcrFnx88HXpXago422tk4"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 248000,
       "name": "El Amor (feat. Jenni Rivera)",
       "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aparentemente Bien",
-        "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 257721,
-      "name": "Aparentemente Bien - Versi\u00f3n Sencillo",
-      "url": "https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH"
     }
   ],
   "unique_name": "This Is Jenni Rivera",

@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 100370,
+  "num_followers": 100387,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-12-12 02:45:35",
       "album": {
-        "name": "\u4f60\u90a3\u9ebc\u53ef\u611b",
-        "url": "https://open.spotify.com/album/4OrWlwObVknkwwBtIG2hqN"
-      },
-      "artists": [
-        {
-          "name": "F.F.O",
-          "url": "https://open.spotify.com/artist/0X3YAMt7xRtQ4Mh8QyN1Tf"
-        }
-      ],
-      "duration_ms": 194150,
-      "name": "\u4f60\u90a3\u9ebc\u53ef\u611b",
-      "url": "https://open.spotify.com/track/0nepiz7jhQUYsKxYhiqSdI"
-    },
-    {
-      "added_at": "2025-12-12 02:45:35",
-      "album": {
         "name": "\u60f3\u548c\u4f60",
         "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 183428,
       "name": "\u60f3\u548c\u4f60",
       "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "added_at": "2025-12-12 02:45:35",
+      "album": {
+        "name": "\u4f60\u90a3\u9ebc\u53ef\u611b",
+        "url": "https://open.spotify.com/album/4OrWlwObVknkwwBtIG2hqN"
+      },
+      "artists": [
+        {
+          "name": "F.F.O",
+          "url": "https://open.spotify.com/artist/0X3YAMt7xRtQ4Mh8QyN1Tf"
+        }
+      ],
+      "duration_ms": 194150,
+      "name": "\u4f60\u90a3\u9ebc\u53ef\u611b",
+      "url": "https://open.spotify.com/track/0nepiz7jhQUYsKxYhiqSdI"
     },
     {
       "added_at": "2025-12-12 02:45:35",

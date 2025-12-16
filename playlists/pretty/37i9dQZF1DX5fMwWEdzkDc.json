@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 21041,
+  "num_followers": 21056,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "M.C The Max! Vol.1",
-        "url": "https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 408678,
-      "name": "\uc7a0\uc2dc\ub9cc \uc548\ub155",
-      "url": "https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Smile Again",
         "url": "https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 253026,
       "name": "\uc0ac\ub791 \uc548\ud574",
       "url": "https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "M.C The Max! Vol.1",
+        "url": "https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 408678,
+      "name": "\uc7a0\uc2dc\ub9cc \uc548\ub155",
+      "url": "https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 265379,
-      "name": "\uc544\ub85c\ud558",
-      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 251846,
       "name": "\ud30c\ub3c4",
       "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 265379,
+      "name": "\uc544\ub85c\ud558",
+      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Just Listen.......",
         "url": "https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 246333,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "SS501 (Single) 2\uc9d1",
+        "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
+      },
+      "artists": [
+        {
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Snow Prince",
+      "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Hi~",
         "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 207426,
       "name": "Hi~",
       "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Hug",
-        "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
-      },
-      "artists": [
-        {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "Hug",
-      "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "SS501 (Single) 2\uc9d1",
-        "url": "https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq"
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
       },
       "artists": [
         {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Snow Prince",
-      "url": "https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa"
+      "duration_ms": 228960,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "fuzz . Buzz",
-        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 253879,
-      "name": "You Don't Know Men",
-      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Gugip: C.J.2002",
         "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 260480,
       "name": "Seulpun honjatmal",
       "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "fuzz . Buzz",
+        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "duration_ms": 253879,
+      "name": "You Don't Know Men",
+      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "A Year Out...In The Island",
-        "url": "https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8"
-      },
-      "artists": [
-        {
-          "name": "Lim Hyun Jung",
-          "url": "https://open.spotify.com/artist/7qUALZhWSQIwqTw1auwwCc"
-        }
-      ],
-      "duration_ms": 280790,
-      "name": "\uc0ac\ub791\uc740 \ubd04\ube44\ucc98\ub7fc...\uc774\ubcc4\uc740 \uaca8\uc6b8\ube44\ucc98\ub7fc",
-      "url": "https://open.spotify.com/track/2cCC4S226r1tws0d2vDDdO"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Op. 4",
         "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 337066,
       "name": "In dreams",
       "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "A Year Out...In The Island",
+        "url": "https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyun Jung",
+          "url": "https://open.spotify.com/artist/7qUALZhWSQIwqTw1auwwCc"
+        }
+      ],
+      "duration_ms": 280790,
+      "name": "\uc0ac\ub791\uc740 \ubd04\ube44\ucc98\ub7fc...\uc774\ubcc4\uc740 \uaca8\uc6b8\ube44\ucc98\ub7fc",
+      "url": "https://open.spotify.com/track/2cCC4S226r1tws0d2vDDdO"
     },
     {
       "added_at": "2024-08-05 16:59:31",

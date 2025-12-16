@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain](/playlists/plain/1ZV5KQP9n81oexu6dOST7q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1ZV5KQP9n81oexu6dOST7q)
 
-### [Dance Party Mix \|  New Years Eve 2025 \| House Party](https://open.spotify.com/playlist/1ZV5KQP9n81oexu6dOST7q)
+### [DANCE Party Mix \|  New Years Eve 2025 \| House Party](https://open.spotify.com/playlist/1ZV5KQP9n81oexu6dOST7q)
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 51,061 likes - 81 songs - 4 hr 11 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 51,060 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 | 80 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 |
 | 81 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 
-Snapshot ID: `AAA+O7Ers2iEKakDV1R2U1C3VwJU5Mm5`
+Snapshot ID: `AAA+POQbdbG8TVey0mvfVpk9pkNga24e`

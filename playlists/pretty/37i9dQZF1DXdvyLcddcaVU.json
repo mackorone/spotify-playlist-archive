@@ -1,13 +1,29 @@
 {
   "description": "#fyp\n",
-  "num_followers": 837867,
+  "num_followers": 837986,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEyvJHIOtkio9Ztl+NSJzUqxYczE",
+  "snapshot_id": "AAAAAFzGI1aM3wxVlDsJtQT2S18pW4pS",
   "tracks": [
+    {
+      "added_at": "2025-12-12 15:54:33",
+      "album": {
+        "name": "Le mal aim\u00e9 / Le t\u00e9l\u00e9phone pleure",
+        "url": "https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "Le mal aim\u00e9",
+      "url": "https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J"
+    },
     {
       "added_at": "2025-11-14 18:17:38",
       "album": {
@@ -101,22 +117,6 @@
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
     },
     {
-      "added_at": "2025-12-12 15:54:33",
-      "album": {
-        "name": "SIERRA LEONE",
-        "url": "https://open.spotify.com/album/0mcjtEfEYFI0YR0xQg8VIK"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "SIERRA LEONE",
-      "url": "https://open.spotify.com/track/6cGkG0fTz1Kgle6PHj7Rnh"
-    },
-    {
       "added_at": "2025-10-07 15:17:54",
       "album": {
         "name": "melodrama",
@@ -139,22 +139,18 @@
     {
       "added_at": "2025-12-12 15:54:33",
       "album": {
-        "name": "La Dame",
-        "url": "https://open.spotify.com/album/1XmeiDJ7WhLJhhKHSMBAH5"
+        "name": "SIERRA LEONE",
+        "url": "https://open.spotify.com/album/0mcjtEfEYFI0YR0xQg8VIK"
       },
       "artists": [
         {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
         }
       ],
-      "duration_ms": 130800,
-      "name": "Coco Chanel",
-      "url": "https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10"
+      "duration_ms": 172258,
+      "name": "SIERRA LEONE",
+      "url": "https://open.spotify.com/track/6cGkG0fTz1Kgle6PHj7Rnh"
     },
     {
       "added_at": "2025-10-10 14:57:53",
@@ -179,18 +175,22 @@
     {
       "added_at": "2025-12-12 15:54:33",
       "album": {
-        "name": "A7",
-        "url": "https://open.spotify.com/album/2VlYazP0xKrO9BxKe9wTZ4"
+        "name": "La Dame",
+        "url": "https://open.spotify.com/album/1XmeiDJ7WhLJhhKHSMBAH5"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Champs-\u00c9lys\u00e9es",
-      "url": "https://open.spotify.com/track/3GA0XILGuMHjTTGcQtP7lu"
+      "duration_ms": 130800,
+      "name": "Coco Chanel",
+      "url": "https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10"
     },
     {
       "added_at": "2025-10-08 09:50:28",
@@ -211,22 +211,6 @@
       "duration_ms": 198693,
       "name": "Toute la nuit",
       "url": "https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV"
-    },
-    {
-      "added_at": "2025-12-12 15:54:33",
-      "album": {
-        "name": "Le mal aim\u00e9 / Le t\u00e9l\u00e9phone pleure",
-        "url": "https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 159253,
-      "name": "Le mal aim\u00e9",
-      "url": "https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J"
     },
     {
       "added_at": "2025-11-21 13:31:18",

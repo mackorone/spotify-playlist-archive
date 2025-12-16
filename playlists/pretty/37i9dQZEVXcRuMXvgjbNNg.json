@@ -6,26 +6,358 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTZbUAAAAAD2rRwww1ATWOSs2oVUrId5",
+  "snapshot_id": "aT+V0AAAAABslYSZnA2dIoueACvr6u2b",
   "tracks": [
     {
-      "added_at": "2025-12-08 05:00:00",
+      "added_at": "2025-12-15 05:00:00",
       "album": {
-        "name": "RMS Titanic",
-        "url": "https://open.spotify.com/album/5Xnt6NbN7a1Ijzx39XOdNG"
+        "name": "The Creator (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/69GMDH8pkopRkQRwdff0Jp"
       },
       "artists": [
         {
-          "name": "Adam Young",
-          "url": "https://open.spotify.com/artist/2Dr744zaEbNqmW9jxw4gfq"
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 126945,
-      "name": "Southampton",
-      "url": "https://open.spotify.com/track/20pStca6E0QZzj3nSUauV1"
+      "duration_ms": 210293,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/449AOIPUa4I4KudT1r7yt0"
     },
     {
-      "added_at": "2025-12-08 05:00:00",
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Manifold Garden (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3LE7bq0ItV8OQd1So27fvW"
+      },
+      "artists": [
+        {
+          "name": "Laryssa Okada",
+          "url": "https://open.spotify.com/artist/6SvJQpwRNuKD2dL6kRg35B"
+        }
+      ],
+      "duration_ms": 148395,
+      "name": "Strange Worlds",
+      "url": "https://open.spotify.com/track/4PW9GNdFPoF57WGGFFLuPq"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "OCTOPATH TRAVELER Original Soundtrack",
+        "url": "https://open.spotify.com/album/7CY5mNBTBbHs1a4apdKCq6"
+      },
+      "artists": [
+        {
+          "name": "Yasunori Nishiki",
+          "url": "https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "The Highlands",
+      "url": "https://open.spotify.com/track/1F2cmLKlCI2aenKOF6jmLn"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Sid Meier's Civilization VI (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1JCtcMqTcc3WAP3NuXOIv2"
+      },
+      "artists": [
+        {
+          "name": "Geoff Knorr",
+          "url": "https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI"
+        }
+      ],
+      "duration_ms": 238919,
+      "name": "England (The Industrial Era)",
+      "url": "https://open.spotify.com/track/52FNUj2aYoJzgLh1ybhV3C"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "RuneScape: The Orchestral Collection",
+        "url": "https://open.spotify.com/album/3b9NjRHMF4NBqviA3LKj2j"
+      },
+      "artists": [
+        {
+          "name": "Jagex Audio Team",
+          "url": "https://open.spotify.com/artist/019CTObqtewVtxrSjdTKP4"
+        },
+        {
+          "name": "James Hannigan",
+          "url": "https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "Memories of Guthix",
+      "url": "https://open.spotify.com/track/51qavTbOuYvO141u9bgF8f"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 127640,
+      "name": "The Cascades",
+      "url": "https://open.spotify.com/track/0doAllpYP3hnusnTwFqmdG"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Journey (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn"
+      },
+      "artists": [
+        {
+          "name": "Austin Wintory",
+          "url": "https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw"
+        }
+      ],
+      "duration_ms": 256818,
+      "name": "The Road of Trials",
+      "url": "https://open.spotify.com/track/6zRZt9U6nzjTrqTqUGMD6V"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Can You Hear The Music (From \"Oppenheimer\") [Piano Version]",
+        "url": "https://open.spotify.com/album/6KbNK42tdMfiK0s7nkE63o"
+      },
+      "artists": [
+        {
+          "name": "Patrik Pietschmann",
+          "url": "https://open.spotify.com/artist/5HxKnkQbaDADLFl2ZOAKqk"
+        }
+      ],
+      "duration_ms": 117087,
+      "name": "Can You Hear The Music (From \"Oppenheimer\") - Piano Version",
+      "url": "https://open.spotify.com/track/3cPemiBX7NacOqRy5Q2JJO"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "World of Warcraft: Wrath of the Lich King Original Soundtrack",
+        "url": "https://open.spotify.com/album/2Xp4otgl6M8iAK9srxuawh"
+      },
+      "artists": [
+        {
+          "name": "Russell Brower",
+          "url": "https://open.spotify.com/artist/1FZjz1inMOV25Hbl4scRTN"
+        },
+        {
+          "name": "World of Warcraft",
+          "url": "https://open.spotify.com/artist/2dlo6TFsxQawXjxytNerod"
+        },
+        {
+          "name": "Blizzard Entertainment",
+          "url": "https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Dalaran",
+      "url": "https://open.spotify.com/track/2ulG1KaHKaEdQmBulQxHg4"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Unravel (EA Games Soundtrack)",
+        "url": "https://open.spotify.com/album/3TjU2yKwySPgoS0JhsGckG"
+      },
+      "artists": [
+        {
+          "name": "Frida Johansson",
+          "url": "https://open.spotify.com/artist/7rZE4EXI29trKfndWcB7uu"
+        },
+        {
+          "name": "Henrik Oja",
+          "url": "https://open.spotify.com/artist/0ZRpw7Hh1DMUoC6QOHtjvv"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Morning Frost",
+      "url": "https://open.spotify.com/track/1dzgzUKkHYKqgC7F2mR0GF"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Ftl: Faster Than Light - Original Soundtrack",
+        "url": "https://open.spotify.com/album/7us4WRnwvqCE3cppHVNjIu"
+      },
+      "artists": [
+        {
+          "name": "Ben Prunty",
+          "url": "https://open.spotify.com/artist/546MXGKJRNfO5to1oqkfqe"
+        }
+      ],
+      "duration_ms": 173349,
+      "name": "Debris (Explore)",
+      "url": "https://open.spotify.com/track/3fG916NkWhwqEYhAf0cmzk"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Oppenheimer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Something More Important",
+      "url": "https://open.spotify.com/track/74swl9fzUVt9Lw7FSrnKoP"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Tales from the Loop (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4x7NdpJuqu4aklGDR2E2jw"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Paul Leonard-Morgan",
+          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
+        }
+      ],
+      "duration_ms": 195782,
+      "name": "Blink of an Eye",
+      "url": "https://open.spotify.com/track/3nCMcN2TQ5YM9QwFBpvCuF"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Skyrim but it's lofi beats",
+        "url": "https://open.spotify.com/album/0wzexcTNAhok8DgpleZgU8"
+      },
+      "artists": [
+        {
+          "name": "Bits & Hits",
+          "url": "https://open.spotify.com/artist/2BMmryAcDdRy8GQq89hrqF"
+        }
+      ],
+      "duration_ms": 136119,
+      "name": "Awake - lofi version",
+      "url": "https://open.spotify.com/track/58VG6v9hzmZSSoIqoNEFQB"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Ascendance",
+        "url": "https://open.spotify.com/album/2FKQzBFfA9HaYqjSLZQYcJ"
+      },
+      "artists": [
+        {
+          "name": "Audiomachine",
+          "url": "https://open.spotify.com/artist/5F4ObszoeVebqtc0B3XqJa"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Leap of Faith",
+      "url": "https://open.spotify.com/track/5YkbM6X4Z6dTtSWOsYlUbo"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Andor: Vol. 3 (Episodes 9-12) [Original Score]",
+        "url": "https://open.spotify.com/album/12sIChYxTgbZVVYJfPFBNi"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "duration_ms": 221553,
+      "name": "Your Mother Is Dead",
+      "url": "https://open.spotify.com/track/3ew9W2ceSTTOeO9yyCWHyk"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Concerning Hobbits (Lord of the Rings Lofi)",
+        "url": "https://open.spotify.com/album/3mTxdccoq4kuvzbGcru5fv"
+      },
+      "artists": [
+        {
+          "name": "Bram",
+          "url": "https://open.spotify.com/artist/0xpssfkWNYfP7qAIyUQIld"
+        }
+      ],
+      "duration_ms": 116575,
+      "name": "Concerning Hobbits (Lord of the Rings Lofi)",
+      "url": "https://open.spotify.com/track/1dtpJcqGFTEbEvBbLUgDk6"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "World of Warcraft: Ghosts of K'aresh (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3FONodl2vv30C0gN7smM68"
+      },
+      "artists": [
+        {
+          "name": "Adam Burgess",
+          "url": "https://open.spotify.com/artist/12CJXkHHiMUAzNDr2q5mBc"
+        },
+        {
+          "name": "Blizzard Entertainment",
+          "url": "https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59"
+        },
+        {
+          "name": "World of Warcraft",
+          "url": "https://open.spotify.com/artist/2dlo6TFsxQawXjxytNerod"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Eco-Dome Al'dani",
+      "url": "https://open.spotify.com/track/3Lso9G795kC0G4iMYHqn6o"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Year 1",
+        "url": "https://open.spotify.com/album/7M7n143q39usjusIYzqsQm"
+      },
+      "artists": [
+        {
+          "name": "Qumu",
+          "url": "https://open.spotify.com/artist/0LzeyDrlLtuyBqMSBN4z3U"
+        }
+      ],
+      "duration_ms": 119038,
+      "name": "Snowbelle City (From \"Pok\u00e9mon X & Y\")",
+      "url": "https://open.spotify.com/track/0fsYmxRhcbfY3wr2jBDqNw"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Severance: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6sImespZLxOQOKwbmegpcF"
+      },
+      "artists": [
+        {
+          "name": "Theodore Shapiro",
+          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Tree Of Life",
+      "url": "https://open.spotify.com/track/3Y4HARHcBQSDVKkJU6oqbp"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
       "album": {
         "name": "The Personal History of David Copperfield (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW"
@@ -36,489 +368,157 @@
           "url": "https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P"
         }
       ],
-      "duration_ms": 177773,
-      "name": "David's Writings",
-      "url": "https://open.spotify.com/track/4Q0VPrw0jgRB7onKAtRnFG"
+      "duration_ms": 197906,
+      "name": "A Life Well Written",
+      "url": "https://open.spotify.com/track/6n0cd6aG9yBNFIFN0QfXpS"
     },
     {
-      "added_at": "2025-12-08 05:00:00",
+      "added_at": "2025-12-15 05:00:00",
       "album": {
-        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
-        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+        "name": "The Lord of the Rings Online (10th Anniversary Commemorative Soundtrack)",
+        "url": "https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY"
       },
       "artists": [
         {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+          "name": "Chance Thomas",
+          "url": "https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh"
         }
       ],
-      "duration_ms": 224400,
-      "name": "Past/Present Suite",
-      "url": "https://open.spotify.com/track/04KmAvz4Ge7ZilEqZBS5OU"
+      "duration_ms": 154715,
+      "name": "Hills of the Shire",
+      "url": "https://open.spotify.com/track/6ZRyYtyEirGG9BcNFzb0Ca"
     },
     {
-      "added_at": "2025-12-08 05:00:00",
+      "added_at": "2025-12-15 05:00:00",
       "album": {
-        "name": "The Secret Life of Walter Mitty (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/2pLC40gyEsQljWWBV3zA1T"
+        "name": "Outer Wilds: Echoes of the Eye (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs"
       },
       "artists": [
         {
-          "name": "Theodore Shapiro",
-          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
+        }
+      ],
+      "duration_ms": 224230,
+      "name": "Strange Flames",
+      "url": "https://open.spotify.com/track/0rUh1o2QDRE8jlmrPcNJ5r"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "How To Train Your Dragon (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "Forbidden Friendship",
+      "url": "https://open.spotify.com/track/0S7XIu0dn63ayGxjefd5It"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "All Is Wild, All Is Silent",
+        "url": "https://open.spotify.com/album/017xVwah8y6Jc37bsRZ4u4"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 399266,
+      "name": "Settler",
+      "url": "https://open.spotify.com/track/2dXrtFlLXEFnd1ZhAbSMuE"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/3PjTe3k04caEnxkDfmFefU"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "duration_ms": 121630,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/0hQF4pzWWuJwrBhFXSUC1w"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Clair Obscur: Expedition 33 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc"
+      },
+      "artists": [
+        {
+          "name": "Lorien Testard",
+          "url": "https://open.spotify.com/artist/5ahmcjOOZ9FkOwTZqTRAZ8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Firecamp - Lune",
+      "url": "https://open.spotify.com/track/5u1be1EEUrekoX6pN83Ij7"
+    },
+    {
+      "added_at": "2025-12-15 05:00:00",
+      "album": {
+        "name": "Kaladin (Original Book Soundtrack)",
+        "url": "https://open.spotify.com/album/6TkE0QEZnDt6ABujASZMuj"
+      },
+      "artists": [
+        {
+          "name": "Philip Ross Klein",
+          "url": "https://open.spotify.com/artist/0Uo9hUtuetEAbsj2k0buIh"
         },
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        },
-        {
-          "name": "Mark Graham",
-          "url": "https://open.spotify.com/artist/2n2ZWyoCn0jr3I5rhDoFAw"
+          "name": "The Black Piper",
+          "url": "https://open.spotify.com/artist/2E2uZku8fC1JzHkjWRqvMb"
         }
       ],
-      "duration_ms": 134440,
-      "name": "Time & Life",
-      "url": "https://open.spotify.com/track/01oCWVu7TA5UG19MfwYxZP"
+      "duration_ms": 200921,
+      "name": "Sylphrena",
+      "url": "https://open.spotify.com/track/3mmHLvx3hFKcHDr8uqCZzr"
     },
     {
-      "added_at": "2025-12-08 05:00:00",
+      "added_at": "2025-12-15 05:00:00",
       "album": {
-        "name": "39 Seconds",
-        "url": "https://open.spotify.com/album/47SmIF41WMIUYeHfriLx0T"
+        "name": "The Wind Waker Orchestrated",
+        "url": "https://open.spotify.com/album/6N6jfTjyhTM3TMcLXumRBN"
       },
       "artists": [
         {
-          "name": "Marcus Warner",
-          "url": "https://open.spotify.com/artist/44HQ4cmv8MKMNHkPtXwZbQ"
+          "name": "The Marcus Hedges Trend Orchestra",
+          "url": "https://open.spotify.com/artist/123epI2OFu37F7VsnOBn9F"
         }
       ],
-      "duration_ms": 321618,
-      "name": "Tokyo Rain",
-      "url": "https://open.spotify.com/track/7kutPF54tDrhROVwm5r0C2"
+      "duration_ms": 144500,
+      "name": "Title Theme - From \"The Legend of Zelda: The Wind Waker\"",
+      "url": "https://open.spotify.com/track/7pQx6ipTaJBJUvWjEwxZMK"
     },
     {
-      "added_at": "2025-12-08 05:00:00",
+      "added_at": "2025-12-15 05:00:00",
       "album": {
-        "name": "Horizon Forbidden West (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx"
+        "name": "Gerudo Valley (From \"The Legend of Zelda\") [Piano Toccata]",
+        "url": "https://open.spotify.com/album/2Nrxjv6MLvE5eTUQtF2pXq"
       },
       "artists": [
         {
-          "name": "Oleksa Lozowchuk",
-          "url": "https://open.spotify.com/artist/14F3jEeosuaJHvcu2el861"
+          "name": "Erik Correll",
+          "url": "https://open.spotify.com/artist/4LtoFcZNN81y18eWaXLJBk"
         }
       ],
-      "duration_ms": 193768,
-      "name": "No Footfalls to Follow",
-      "url": "https://open.spotify.com/track/2aS2xQwdvoACmSdZXnKPHk"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Secrets of Castle",
-        "url": "https://open.spotify.com/album/1Zc1bcQnh6sUPckR9LxdNL"
-      },
-      "artists": [
-        {
-          "name": "softy",
-          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
-        },
-        {
-          "name": "Wishes and Dreams",
-          "url": "https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h"
-        }
-      ],
-      "duration_ms": 160454,
-      "name": "Last Journey",
-      "url": "https://open.spotify.com/track/0rCb94sJeCJW6nRCKXzOvc"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Songbook Vol. 2",
-        "url": "https://open.spotify.com/album/30HepWMAKuXCNF9bzd5dRA"
-      },
-      "artists": [
-        {
-          "name": "The Westerlies",
-          "url": "https://open.spotify.com/artist/7pQXfjCzKMCrcQnp9TAn3z"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "Cooper Ave",
-      "url": "https://open.spotify.com/track/3us15QTGRlmwvRxJXRwNwc"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Far: Lone Sails",
-        "url": "https://open.spotify.com/album/0WqpTTuUTg5jwnHC3raWgU"
-      },
-      "artists": [
-        {
-          "name": "Joel Schoch",
-          "url": "https://open.spotify.com/artist/6jDyAH1lGJdLV9rfEFgeGH"
-        }
-      ],
-      "duration_ms": 181382,
-      "name": "Colored Engine",
-      "url": "https://open.spotify.com/track/2U832A0zdb8OABhBmFjlWS"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Jusant (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/65gX1rOrAQvcxGEbUGAfvz"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Ferran",
-          "url": "https://open.spotify.com/artist/228Gomw7aulbQurdDNRv7r"
-        }
-      ],
-      "duration_ms": 205057,
-      "name": "Syzygie",
-      "url": "https://open.spotify.com/track/5j3Y5Qjm7W8kaGV22CvK6K"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Andor: Season 2 - Vol. 3 (Episode 7-9) [Original Score]",
-        "url": "https://open.spotify.com/album/05B5E1D6Sm5UBIPtJJUCVr"
-      },
-      "artists": [
-        {
-          "name": "Brandon Roberts",
-          "url": "https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Elegy for Ghorman",
-      "url": "https://open.spotify.com/track/0LrhLoi2hueQvbz7KB9jCO"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Core Keeper: Volume 2 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/6wLNIMXvo29SPChvKQlkPJ"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Geer",
-          "url": "https://open.spotify.com/artist/6fyUMxz3J2qb6Nq6HhCCGt"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Forlorn Metropolis",
-      "url": "https://open.spotify.com/track/1YYoGVtmQPKIOZcIZ0l92j"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Hogwarts Legacy (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi"
-      },
-      "artists": [
-        {
-          "name": "J Scott Rakozy",
-          "url": "https://open.spotify.com/artist/5QsqtbrHN65994pLwOyp5N"
-        },
-        {
-          "name": "Hogwarts Legacy",
-          "url": "https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "The House Cup",
-      "url": "https://open.spotify.com/track/3tjTLJOAc2FFJi2LkHFcXl"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/0diSQW7E7oX750ztxS9fdy"
-      },
-      "artists": [
-        {
-          "name": "The Arcadian Wild",
-          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
-        }
-      ],
-      "duration_ms": 240432,
-      "name": "G\u00e0rradh Seileach",
-      "url": "https://open.spotify.com/track/0afOwa7fUpVS76TQjzgnqe"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Frieren: Beyond Journey's End (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS"
-      },
-      "artists": [
-        {
-          "name": "Evan Call",
-          "url": "https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Journey of a Lifetime ~ Frieren Main Theme",
-      "url": "https://open.spotify.com/track/1FhWuo97KqSWbe4UYpKAei"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Fantastic Mr. Fox (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1aJ1OS2xdkKGvmLvkU9qn3"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-        }
-      ],
-      "duration_ms": 95733,
-      "name": "Kristofferson's Theme",
-      "url": "https://open.spotify.com/track/7i5S5AU9Hl9AnwLrME7rmY"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
-        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 131637,
-      "name": "Sygrayem (Let's Play)",
-      "url": "https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Horizon Zero Dawn (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1tnJU98uHAWkkAsRekqtTe"
-      },
-      "artists": [
-        {
-          "name": "Joris de Man",
-          "url": "https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "City On The Mesa - Part 3 - Onwards to Meridian",
-      "url": "https://open.spotify.com/track/1skHUGfztcMPVR8netKTeE"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Scavengers Reign (Original Max Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2MQLrzNVTgzSTlj2SqQXH7"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Snyder",
-          "url": "https://open.spotify.com/artist/7KJ48VkA4FWRAGXsreKJYe"
-        }
-      ],
-      "duration_ms": 239509,
-      "name": "Mia Storm Pillar Suite",
-      "url": "https://open.spotify.com/track/5fIifNeSXRFU9bGTjy8D34"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Thinking About Thursdays",
-        "url": "https://open.spotify.com/album/3AWATaNWvlDlTOmlemNQDw"
-      },
-      "artists": [
-        {
-          "name": "Lullatone",
-          "url": "https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Trying Something Again (Again)",
-      "url": "https://open.spotify.com/track/3mtfIdxDxq5CyYQgGgsSaP"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Distant Worlds III: More Music from Final Fantasy",
-        "url": "https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6"
-      },
-      "artists": [
-        {
-          "name": "Nobuo Uematsu",
-          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "Not Alone (From \"Final Fantasy IX\")",
-      "url": "https://open.spotify.com/track/0VaKMRmF20H5aTJvlUtkac"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Ori and the Blind Forest (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo"
-      },
-      "artists": [
-        {
-          "name": "Gareth Coker",
-          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
-        },
-        {
-          "name": "Aeralie Brighton",
-          "url": "https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM"
-        }
-      ],
-      "duration_ms": 259081,
-      "name": "Light of Nibel (feat. Aeralie Brighton)",
-      "url": "https://open.spotify.com/track/79aotvPXTlHbZ8MvoxhqAE"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "1917 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newman",
-          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "The Night Window (From \"1917\" Soundtrack)",
-      "url": "https://open.spotify.com/track/4imfe6DeUeqtUpKqS851mO"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "I Could Use a Boost",
-      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        },
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        }
-      ],
-      "duration_ms": 237953,
-      "name": "Long Drive",
-      "url": "https://open.spotify.com/track/0EQGK1zt0KwWtb85zHAZo8"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Frozen Swan",
-        "url": "https://open.spotify.com/album/483grAOALXEvsmuVzlCWeW"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ekstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366"
-        },
-        {
-          "name": "Anna Dager",
-          "url": "https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Vilja",
-      "url": "https://open.spotify.com/track/0njiyvp2CwmgYTd9WwdwjY"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Superman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5NrArmSSCpQg2eDq7vqRyA"
-      },
-      "artists": [
-        {
-          "name": "John Murphy",
-          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
-        }
-      ],
-      "duration_ms": 94145,
-      "name": "Walking on Air",
-      "url": "https://open.spotify.com/track/0MeIQlWZIDJeRlOgRuYJsU"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Why Should The Fire Die?",
-        "url": "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 113506,
-      "name": "First And Last Waltz",
-      "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Moneyball (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3l4qPqECm6fywG03Rwke6r"
-      },
-      "artists": [
-        {
-          "name": "Mychael Danna",
-          "url": "https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2"
-        }
-      ],
-      "duration_ms": 97453,
-      "name": "More",
-      "url": "https://open.spotify.com/track/7AAcv9FtIeJxiV7HlzVkEI"
-    },
-    {
-      "added_at": "2025-12-08 05:00:00",
-      "album": {
-        "name": "Assassin's Creed 3 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/23aWOneOrCl1KBfDCo2pFy"
-      },
-      "artists": [
-        {
-          "name": "Lorne Balfe",
-          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
-        },
-        {
-          "name": "Assassin's Creed",
-          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "HomeStead",
-      "url": "https://open.spotify.com/track/6kU2cOmAhm96PBx4NJcMPn"
+      "duration_ms": 224417,
+      "name": "Gerudo Valley (From \"The Legend of Zelda\") [Piano Toccata]",
+      "url": "https://open.spotify.com/track/50isabtQoImiEeXnU8ZIG0"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

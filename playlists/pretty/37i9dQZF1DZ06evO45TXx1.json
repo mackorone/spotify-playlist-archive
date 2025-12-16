@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 15381,
+  "num_followers": 15382,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAC+/devLpvWCkWBxi+UeZI/",
+  "snapshot_id": "aT3+AAAAAAB9iXymekNjdfiiseP4dtFl",
   "tracks": [
     {
       "added_at": null,
@@ -151,30 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Trabalhosa",
-      "url": "https://open.spotify.com/track/36NzzUckVlKlfpvM1UQEor"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voc\u00ea Precisa do \u00c1libi",
         "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
       },
@@ -203,6 +179,30 @@
       "duration_ms": 165525,
       "name": "NOITES TRAI\u00c7OEIRAS",
       "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Trabalhosa",
+      "url": "https://open.spotify.com/track/36NzzUckVlKlfpvM1UQEor"
     },
     {
       "added_at": null,
@@ -355,34 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cachorro Sincero",
-        "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
-      },
-      "artists": [
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
-        }
-      ],
-      "duration_ms": 137989,
-      "name": "Diaba",
-      "url": "https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quase Pronta Mixtape",
         "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
       },
@@ -407,6 +379,34 @@
       "duration_ms": 168750,
       "name": "Sexo Hot",
       "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cachorro Sincero",
+        "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        }
+      ],
+      "duration_ms": 137989,
+      "name": "Diaba",
+      "url": "https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj"
     },
     {
       "added_at": null,

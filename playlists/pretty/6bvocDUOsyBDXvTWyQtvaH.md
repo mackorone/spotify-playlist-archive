@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > christmas lofi \| lofi cozy christmas \| lofi instrumentals \| lofi winter \| holiday lofi \| lofi chill beats \| winter jazz chillhop beats \|  xmas lofi 🎄🎹
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,741 likes - 55 songs - 2 hr 1 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,742 likes - 55 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 | 54 | [Sway](https://open.spotify.com/track/3KpDwmhldQlg8javP9MdK2) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Sway](https://open.spotify.com/album/4syr2ON8NOyuQOuoxqwrfx) | 2:28 |
 | 55 | [saffron](https://open.spotify.com/track/1rac3Jn0FNPe9VknXZDWZk) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [saffron](https://open.spotify.com/album/1M0SfN1MyqyCak13jImMKq) | 1:17 |
 
-Snapshot ID: `AAAFeeTA9tc5tRvwmeTDkPYW8HReNHQI`
+Snapshot ID: `AAAFeyRaVgIl8XI7Zsw+HdWFizuqqHfb`

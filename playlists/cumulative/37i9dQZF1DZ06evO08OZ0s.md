@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 47 min
+93 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Feelin' U](https://open.spotify.com/track/2ULAqCna5PrSEtX1bJ5fYq) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Feelin' U](https://open.spotify.com/album/5CFclh7BxZs5tkvABJKTMn) | 2:17 | 2024-05-14 |  |
 | [Feels So Good \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/6oLwA7urPX5GGRXX59TYZ9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Together](https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ) | 2:25 | 2024-05-14 |  |
 | [For Love](https://open.spotify.com/track/5AuS594msbacnVERxzdk7J) | [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [For Love](https://open.spotify.com/album/63tuZdj8UFflEROfuqibSM) | 3:41 | 2024-05-14 |  |
-| [Get Lucky \(With Kelli\-Leigh\)](https://open.spotify.com/track/332h3KTAmeomFwC5oTop19) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Get Lucky \(With Kelli\-Leigh\)](https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw) | 2:57 | 2024-05-14 |  |
+| [Get Lucky \(With Kelli\-Leigh\)](https://open.spotify.com/track/332h3KTAmeomFwC5oTop19) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Get Lucky \(With Kelli\-Leigh\)](https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw) | 2:57 | 2024-05-14 | 2025-12-16 |
 | [Good](https://open.spotify.com/track/0LEEtJg8hHOyytcotgnaKq) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Good](https://open.spotify.com/album/4FgSB1DDC5bKynrjVs68Uv) | 2:58 | 2024-05-14 |  |
 | [Heaven Wasn't There](https://open.spotify.com/track/3jwWvm9lpBNoIVdCD6pRzs) | [Axis Neptune](https://open.spotify.com/artist/4bfXhbcsSnO0VwHyKsXDjt), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Heaven Wasn't There](https://open.spotify.com/album/7IavNKdCXFijhmvMFjH7DD) | 3:33 | 2025-10-26 |  |
 | [Hold On Tonight](https://open.spotify.com/track/5xGwrKhMIxUlHRu2lk0kTE) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Hold On Tonight](https://open.spotify.com/album/3f8SHI9BUPT0xuBZxSeu59) | 2:43 | 2024-05-14 | 2025-07-06 |
@@ -53,6 +53,7 @@
 | [Love Myself](https://open.spotify.com/track/0twklpVNU409abDKbvrA01) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [LEGACY](https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP) | 3:50 | 2025-09-21 |  |
 | [Miracle](https://open.spotify.com/track/2leDTOLDDfcZe7wTcwEBB1) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Candy Cane Lane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qkGM0bKCxCyX1u67xMBkm) | 3:24 | 2024-05-14 | 2025-02-15 |
 | [Miracles \(feat\. Kelli Leigh\)](https://open.spotify.com/track/4SBTi6hhwTzD5IlK9gnF8t) | [Cages](https://open.spotify.com/artist/1Ck15KzRcbdOiyLRvw13QJ), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Miracles \(ft\. Kelli Leigh\)](https://open.spotify.com/album/24Jm18cBLx0hQGpfiSZFoD) | 3:52 | 2025-07-08 |  |
+| [More Beats More Love \- Edit](https://open.spotify.com/track/3loAybIAHb3h24GlULXnTV) | [Albert Marzinotto](https://open.spotify.com/artist/4iDJLpx26HmAKc4vZZ9nbl), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Beats More Love](https://open.spotify.com/album/4I8ULjCKAz1rJ5bIN0aNLx) | 2:49 | 2025-12-16 |  |
 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2024-05-14 |  |
 | [Motherland \(Women's Six Nations Anthem\)](https://open.spotify.com/track/2qCpOVndPKJNyxA1162ztO) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Motherland \(Women's Six Nations Anthem\)](https://open.spotify.com/album/0nhc9acyraBcrWvNq3ICyo) | 2:55 | 2024-05-14 | 2025-05-15 |
 | [Never Be](https://open.spotify.com/track/7JJGKSAOyyewFxFnqvrX7D) | [Tim Mason](https://open.spotify.com/artist/5GehdPjguGOCZifnKNrXi9), [Capa \(Official\)](https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Be](https://open.spotify.com/album/0dKWkIUNQvqI3KOT0D8PcA) | 3:45 | 2024-05-14 | 2025-12-12 |

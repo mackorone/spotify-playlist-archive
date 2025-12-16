@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 575823,
+  "num_followers": 575878,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAAIX4ld/a6iFXH9eveOjLq+",
+  "snapshot_id": "aT3+AAAAAAALrkXYiAObH27yjhrScDe5",
   "tracks": [
     {
       "added_at": null,
@@ -95,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
       "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 234857,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
+      "duration_ms": 215463,
+      "name": "Florida!!! (feat. Florence + The Machine)",
+      "url": "https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM"
     },
     {
       "added_at": null,
@@ -127,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
       "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 215463,
-      "name": "Florida!!! (feat. Florence + The Machine)",
-      "url": "https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM"
+      "duration_ms": 234857,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
     },
     {
       "added_at": null,
@@ -335,26 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You've Got The Love (Jamie xx Rework)",
-        "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        },
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 342990,
-      "name": "You've Got The Love - Jamie xx Rework",
-      "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
+      "duration_ms": 218613,
+      "name": "Girl With One Eye",
+      "url": "https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM"
     },
     {
       "added_at": null,
@@ -375,18 +367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+        "name": "You've Got The Love (Jamie xx Rework)",
+        "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        },
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
         }
       ],
-      "duration_ms": 218613,
-      "name": "Girl With One Eye",
-      "url": "https://open.spotify.com/track/0UqDHyajhOTknbgj1IjuNM"
+      "duration_ms": 342990,
+      "name": "You've Got The Love - Jamie xx Rework",
+      "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Drake
+> The tracks you just keep pulling up\. Cover: Offset
 
 832 songs - 1 day 19 hr 3 min
 

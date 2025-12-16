@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,059 likes - 249 songs - 14 hr 25 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,061 likes - 278 songs - 16 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,5 +257,34 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 247 | [Stay with Me](https://open.spotify.com/track/6b2bvHhn6kTmp8KDPHTigA) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [Ravecøre](https://open.spotify.com/album/02S523fv6pPpr4kHdBHzdR) | 3:33 |
 | 248 | [Whispers](https://open.spotify.com/track/2p0eZHx0qKnmtYN1mLmAin) | [MVSOCHIST](https://open.spotify.com/artist/1672dFqWagsXe3E5riUIF0) | [Whispers](https://open.spotify.com/album/494CEc6Bt2uSBIedJAGNPV) | 3:46 |
 | 249 | [Alright](https://open.spotify.com/track/56plBR3SfhuF0BwD9QN66H) | [t3rrible humans](https://open.spotify.com/artist/4iC1Bpe1kMhU5jpL7smqud) | [Alright](https://open.spotify.com/album/7sa3zIYb5Q6NHv7R1oJIfu) | 2:18 |
+| 250 | [Here I Am](https://open.spotify.com/track/0FTBL9ylHOi6AVx6fn84eu) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [A Timeless Echo](https://open.spotify.com/album/02bybNqQgeAxHm8zp2I5ZJ) | 3:12 |
+| 251 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:07 |
+| 252 | [I Am The Reckoning](https://open.spotify.com/track/5rl2DsX3ILgGuy9i4dZ4vn) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [I Am The Reckoning](https://open.spotify.com/album/6RgkFI8kvfCWuWeRifJLEP) | 3:49 |
+| 253 | [No Gods](https://open.spotify.com/track/4Bejk4T1EkgJFOMBruuZMQ) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [No Gods](https://open.spotify.com/album/1rSMvnaueBZxlXtPLFtsPH) | 2:59 |
+| 254 | [3I/ATLAS](https://open.spotify.com/track/3XSq3Vr8B3mTG1qAejDq6N) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [3I/ATLAS](https://open.spotify.com/album/0BW1UrCmJIv4C2N5avAse2) | 4:29 |
+| 255 | [I Am The Reckoning](https://open.spotify.com/track/5rl2DsX3ILgGuy9i4dZ4vn) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [I Am The Reckoning](https://open.spotify.com/album/6RgkFI8kvfCWuWeRifJLEP) | 3:49 |
+| 256 | [Patagonia](https://open.spotify.com/track/4XC7GeTvgApnKhWTnp5nu0) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 2:51 |
+| 257 | [Burning Out](https://open.spotify.com/track/50KAqJtgzmmJQchmTbNujK) | [Killus](https://open.spotify.com/artist/0c44C54LrAHha0u92agfHM) | [Burning Out](https://open.spotify.com/album/203pYIDebdckYqr3QLc75T) | 3:08 |
+| 258 | [Crisis](https://open.spotify.com/track/24ln8N2NYaHuEZ7cSY1Mvx) | [Stereogarcia](https://open.spotify.com/artist/3QaSLsSItR9AYbjYA8ZQNt) | [The Broken Homeland Sons](https://open.spotify.com/album/5Qpq8vcWkqmAGBt5CPfinY) | 4:34 |
+| 259 | [Pretty, Pretty Wasted](https://open.spotify.com/track/4Y8Br3p37qix7eUNbSlXoS) | [LESSBRAINLESS](https://open.spotify.com/artist/0fC2GUhN4LpsYpGO9D2Izb) | [Pretty, Pretty Wasted](https://open.spotify.com/album/6DjQhBfBZmVTF4qirB1Yhf) | 4:18 |
+| 260 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 |
+| 261 | [Dictators](https://open.spotify.com/track/4UHP30FNADwdL4PyfojcaK) | [KHAIGO](https://open.spotify.com/artist/2qJwiHbVxammOKSLPSPpMN) | [Dictators](https://open.spotify.com/album/2nlmGLiaYeUZ15Y3qdyG7O) | 3:22 |
+| 262 | [No Refunds For Existence](https://open.spotify.com/track/79tOfD8ayDx1eZnwOcMXcX) | [GA PROJECT](https://open.spotify.com/artist/29Ld8IE7ycWeTn5k7oJbQu) | [No Refunds For Existence](https://open.spotify.com/album/72AWFt5TXUGz8JrUgvppHy) | 2:36 |
+| 263 | [Nine Circles Deep](https://open.spotify.com/track/4dRnNyrpCKgYyoZkKrosAN) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Nine Circles Deep](https://open.spotify.com/album/0N2HiAO3HuSd7b4G4cutQq) | 3:00 |
+| 264 | [To Myself](https://open.spotify.com/track/1Lcd50j95y2ChgX9epkKTf) | [OOTEBS](https://open.spotify.com/artist/6mjlNdKlY7hTXXLKRhc0dU) | [To Myself](https://open.spotify.com/album/5CI2FtvvwlG7ELXAmS0MvC) | 2:36 |
+| 265 | [Outcast](https://open.spotify.com/track/0bANwo9DVN8mKM0VoPM3LC) | [Cutloose](https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4) | [Outcast](https://open.spotify.com/album/5iZuZfaqkDIeYe6v3JnjSl) | 3:03 |
+| 266 | [What It's Like to Be a Girl](https://open.spotify.com/track/6gTXBLWR4fBsOf2ZLvVHqP) | [Lueur](https://open.spotify.com/artist/00GCuU5IZe64y3r4taYrQO) | [What It's Like to Be a Girl](https://open.spotify.com/album/5lVwCb7vktdM5Q0sSD1O6o) | 2:52 |
+| 267 | [Porcos](https://open.spotify.com/track/7aXNmspHUa0aF9KvjSqLin) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Little Angel In An Empty Room](https://open.spotify.com/album/3Jwcyqo1TRK9BtqTPeYhlf) | 2:16 |
+| 268 | [Darkest Kiss](https://open.spotify.com/track/02hRANVmnHWYQDgM9eHeJY) | [KYNETIC](https://open.spotify.com/artist/0jJBBfh4EjAiLs2CsgMJuT) | [Darkest Kiss](https://open.spotify.com/album/4hckKYarI91XyKRb4i8Kiu) | 4:39 |
+| 269 | [No Refunds For Existence](https://open.spotify.com/track/79tOfD8ayDx1eZnwOcMXcX) | [GA PROJECT](https://open.spotify.com/artist/29Ld8IE7ycWeTn5k7oJbQu) | [No Refunds For Existence](https://open.spotify.com/album/72AWFt5TXUGz8JrUgvppHy) | 2:36 |
+| 270 | [Wither](https://open.spotify.com/track/4M5sVrmGGbKY2h23VwPXOV) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 3:29 |
+| 271 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 |
+| 272 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 |
+| 273 | [Highway Maintenance](https://open.spotify.com/track/0SlCUGQmeS4u1bnroVW08r) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Highway Maintenance](https://open.spotify.com/album/0J1QQLCiEgAWgbHS1H5eiO) | 5:37 |
+| 274 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 |
+| 275 | [So Long, it's a Shame About the Fish \- Radio Edit](https://open.spotify.com/track/1LRCIZlYb4bxhwAVjeUbMI) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [So Long, it's a Shame About the Fish](https://open.spotify.com/album/58jcUai7lmTiBkpotllfpl) | 2:26 |
+| 276 | [It’s True, It’s True](https://open.spotify.com/track/3hrog7tImbKHvNMpH0PzGP) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Random Acts of Cynicism](https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF) | 4:03 |
+| 277 | [Dance With Me](https://open.spotify.com/track/6OmQaUueJoPh8sPO4QnRi0) | [VƟIZ](https://open.spotify.com/artist/4iRLEpQZPZqtRG4TEROB5o) | [Dance With Me](https://open.spotify.com/album/7sHR6SRXD5QR84E2EiztUu) | 3:20 |
+| 278 | [Way She Goes](https://open.spotify.com/track/6RxRMnvwRMrygN4baCLMKb) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Way She Goes](https://open.spotify.com/album/2Kc0j3Pq0ydAw6VlWU1GTK) | 3:31 |
 
-Snapshot ID: `AAAISRuUhzcx+joIWgJPx/VRlgUg7Jfj`
+Snapshot ID: `AAAIZ8Be45WkjoxmvSi5ERqsq5UNdTvY`

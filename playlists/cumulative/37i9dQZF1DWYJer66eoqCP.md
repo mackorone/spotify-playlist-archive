@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Calling the Star](https://open.spotify.com/track/5zxqCejnJChTtrnut3FnPl) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:58 | 2023-03-20 |  |
-| [CHRISTIAN](https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:41 | 2023-03-20 |  |
+| [CHRISTIAN](https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF) | [Zior Park](https://open.spotify.com/artist/6jjByYvDQFYAmcnmnqSmlC) | [WHERE DOES SASQUATCH LIVE? Pt\. 1](https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE) | 3:41 | 2023-03-20 |  |
 | [Demons](https://open.spotify.com/track/4IKjtbwsBujMWiOgvvT1oQ) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Philosophy](https://open.spotify.com/album/1iOMcI8A0HvLrL2t98zUZx) | 4:11 | 2023-03-20 |  |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2023-03-20 |  |
 | [Flicker \(Feat\. Car, the garden\)](https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [B side](https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz) | 3:17 | 2023-03-20 |  |

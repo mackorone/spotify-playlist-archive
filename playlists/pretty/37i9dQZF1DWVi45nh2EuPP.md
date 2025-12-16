@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > Curated by NewJeans, featuring their League of Legends Worlds Anthem: "GODS."
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,329 likes - 21 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,332 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

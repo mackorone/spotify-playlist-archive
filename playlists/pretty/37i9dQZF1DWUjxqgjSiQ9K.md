@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Montesanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,344 likes - 80 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,459 likes - 80 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 25 | [Tu Iglesia Cantará](https://open.spotify.com/track/3Tk7o1NAtUkp6ryW1RTIRa) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Que Cante La Iglesia](https://open.spotify.com/album/6IH7rVBDcmIc9pgqpPlBIe) | 4:09 |
 | 26 | [El Gozo](https://open.spotify.com/track/6xAMrn5o9dHIKVLybQBTXy) | [World Worship](https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm) | [El Gozo](https://open.spotify.com/album/0R4g8pLYk6u0yR1T7IekdS) | 7:14 |
 | 27 | [Muevete en Mi](https://open.spotify.com/track/5UrU3cQn6PNDhUzrIjnkMC) | [Unción Central](https://open.spotify.com/artist/21gVgVclITHmVtT5lrfvHU), [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Muevete en Mi](https://open.spotify.com/album/49jnqvXuRHcz85MJeXmlwl) | 5:41 |
-| 28 | [Una vez \- En Vivo](https://open.spotify.com/track/5kaj7CwtzCovfEQIQf5z2I) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Aldi Paez](https://open.spotify.com/artist/6JCa36vnZI3PI0wP6UUH9c) | [FRAGMENTO 002: LATAM \(Argentina\)](https://open.spotify.com/album/7I4ZkSFxs5opAqR0tZNBio) | 6:30 |
+| 28 | [Una vez](https://open.spotify.com/track/5kaj7CwtzCovfEQIQf5z2I) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Aldi Paez](https://open.spotify.com/artist/6JCa36vnZI3PI0wP6UUH9c) | [FRAGMENTO 002: LATAM \(Argentina\)](https://open.spotify.com/album/7I4ZkSFxs5opAqR0tZNBio) | 6:30 |
 | 29 | [Eres \- Ao Vivo](https://open.spotify.com/track/0xVyAVuqHMiPe4IdQnjhGZ) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [La Buena Parte \(Ao Vivo\)](https://open.spotify.com/album/2gryNVW2SJ4AhLCTYPVIvv) | 5:49 |
 | 30 | [Cada Generación](https://open.spotify.com/track/4BvZojjPbrMxVueuFmTiJz) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cada Generación](https://open.spotify.com/album/063wZnNwQxC96C4TnpDHeu) | 4:13 |
 | 31 | [Dios Peleará Por Ti](https://open.spotify.com/track/3tXu0TaFBoA1uIbHPHYzrU) | [Haury](https://open.spotify.com/artist/5lIeOHq9lhg4ZxIiPM3GTa), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Dios Peleará Por Ti](https://open.spotify.com/album/0flBbCr2oewtd2VgOmkCBH) | 3:58 |

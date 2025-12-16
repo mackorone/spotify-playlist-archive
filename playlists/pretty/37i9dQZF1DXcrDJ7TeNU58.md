@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrDJ7TeNU58.md) - [plain]
 
 > Fêtez Halloween en musique !
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,596 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,593 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

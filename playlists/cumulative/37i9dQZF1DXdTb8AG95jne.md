@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 김푸름\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 나잠 수, 문선\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,191 songs - 3 day 0 hr 11 min
+1,194 songs - 3 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Blue bird](https://open.spotify.com/track/1WlNLsdkbPm2tjwIgvkneM) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Blue bird](https://open.spotify.com/album/79aVg7uljET5XuVio9dNFr) | 3:25 | 2021-12-21 | 2024-04-28 |
 | [blue snail](https://open.spotify.com/track/4Tk4Fac1Mfghv1sRvyvGW6) | [Choi Seong](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [psicosismu](https://open.spotify.com/album/6qeeRxn42rayvHbRKqyjxq) | 4:12 | 2023-05-04 | 2023-05-24 |
 | [Blue.](https://open.spotify.com/track/3GSGUvX2TJu631cw86nWqm) | [hate.](https://open.spotify.com/artist/6GR5VQlvlu2MhAeIFz33O6) | [Blue.](https://open.spotify.com/album/1fEzmVeTtR99A7kQuB3Wn0) | 4:28 | 2022-03-31 | 2022-04-10 |
+| [Blueberry muffin](https://open.spotify.com/track/05twJYCLTHmuA25J6X25N1) | [MASO](https://open.spotify.com/artist/5vptj2RdDGFCtqgFfXxgkN) | [Blueberry muffin](https://open.spotify.com/album/5mMCPEa3W9axu9gB1s5Pln) | 4:12 | 2025-12-15 |  |
 | [Bollywood](https://open.spotify.com/track/3QE5Pjm5FR1L8aGvrqiKRZ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [THIRSTY](https://open.spotify.com/album/7dSqbQ9mGpHdlkLk7rBFuO) | 3:53 | 2022-03-31 | 2022-04-19 |
 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 | 2022-07-27 | 2025-07-26 |
 | [Boomerang](https://open.spotify.com/track/2ipuhDUO5b6M4pBODjs8ud) | [eJe](https://open.spotify.com/artist/383xVY7tjlICegMKFjwUxf) | [Boomerang](https://open.spotify.com/album/3bJYiZuZKuEL6WKzzHiThP) | 4:08 | 2025-01-30 | 2025-04-11 |
@@ -283,6 +284,7 @@
 | [Enough](https://open.spotify.com/track/1sFMTojas7jlOM7idhAdSn) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG) | [Enough](https://open.spotify.com/album/3vD2JcQ4hee4g7if0CQjLR) | 2:36 | 2025-01-22 | 2025-03-15 |
 | [Enough](https://open.spotify.com/track/0lLvhwKky1WGu6jYJ1vUgV) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [silence](https://open.spotify.com/album/0JLXXdA1ENNyfyj6oKGbsq) | 4:38 | 2021-12-12 | 2022-07-29 |
 | [Envy None](https://open.spotify.com/track/196vwD0wtg7XVC1j1Hn1jk) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Levitation](https://open.spotify.com/album/0Ltp40tI7gWvTdYctwlvTB) | 3:34 | 2024-07-01 | 2024-07-16 |
+| [EPGIM](https://open.spotify.com/track/1F5B80YGJHzGO277qZbaHv) | [나잠 수](https://open.spotify.com/artist/4BbJ7qarnJ3e5fgkZjD9Vf), [MOONSUN](https://open.spotify.com/artist/2i3uapmahaLJ4e2E9UkrV4) | [EPGIM](https://open.spotify.com/album/4lpCyLGngUFJtxpihtbrwT) | 4:09 | 2025-12-15 |  |
 | [Epilogue \(feat.Meego\)](https://open.spotify.com/track/2JZStRToumDOLnGVD9uVq0) | [TAPEDECK](https://open.spotify.com/artist/4erEXjpCkVrmV1a2n1pjaC), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Epilogue \(feat\. Meego\)](https://open.spotify.com/album/1u8rkzn2L1TtnU8z1hUNtx) | 3:14 | 2022-03-31 | 2022-04-17 |
 | [error](https://open.spotify.com/track/1SzinFXFmMYWedGwGZjK2Z) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [error](https://open.spotify.com/album/0SkFqjFefiYI9LmEdtDkpI) | 3:10 | 2025-11-03 | 2025-12-05 |
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2025-02-13 |
@@ -363,6 +365,7 @@
 | [Getting the Season](https://open.spotify.com/track/66ZCqYrneHDfVoxE3cE5O0) | [Ryoni](https://open.spotify.com/artist/4i9PKdDoAnZi9xC9VhqbdM) | [Getting the Season](https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW) | 4:14 | 2022-03-31 | 2022-04-15 |
 | [Ghost](https://open.spotify.com/track/0q5MmAFd4oXY6vWeVsb8YE) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Ghost](https://open.spotify.com/album/2Snl4Z0vZx5hBaAwVP4dHf) | 3:15 | 2025-06-30 | 2025-07-05 |
 | [Ghost](https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Ghost](https://open.spotify.com/album/10Ya3OB3RQaayMRBkccptG) | 3:02 | 2024-12-19 | 2025-03-05 |
+| [Ghost of You](https://open.spotify.com/track/59TMgNsuQhT5AhE9NW9T6O) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [REMNANTS](https://open.spotify.com/album/5Zt5CAb9DoPrbsDOMmYn6v) | 2:34 | 2025-12-15 |  |
 | [Ghost Theatre](https://open.spotify.com/track/40iWsP5PYbpJB7uC4eE5pU) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [Ghost Theatre](https://open.spotify.com/album/4eN3Dzm5FEaPly9th3vjeQ) | 5:34 | 2024-04-30 | 2024-05-10 |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 | 2022-08-05 |
 | [Girl Scout](https://open.spotify.com/track/3S4u5vm5ThxB68vevwDDMH) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:57 | 2021-12-21 | 2022-07-06 |

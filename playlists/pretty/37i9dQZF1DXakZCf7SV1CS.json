@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 91533,
+  "num_followers": 91549,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "None",
         "url": "https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 263364,
       "name": "Thos Moser",
       "url": "https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Dog Show",
-        "url": "https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 117003,
-      "name": "127 Hrs in Bed",
-      "url": "https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "WFLYTD",
         "url": "https://open.spotify.com/album/383qcrfxKodAdnhXGXbdRX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 215641,
       "name": "Toy Car",
       "url": "https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Dog Show",
+        "url": "https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 117003,
+      "name": "127 Hrs in Bed",
+      "url": "https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Riot Boi",
-        "url": "https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W"
-      },
-      "artists": [
-        {
-          "name": "Kalifa",
-          "url": "https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO"
-        }
-      ],
-      "duration_ms": 228594,
-      "name": "Koi",
-      "url": "https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 290061,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Riot Boi",
+        "url": "https://open.spotify.com/album/5SofOXwfXjZD3PyQZeED8W"
+      },
+      "artists": [
+        {
+          "name": "Kalifa",
+          "url": "https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO"
+        }
+      ],
+      "duration_ms": 228594,
+      "name": "Koi",
+      "url": "https://open.spotify.com/track/3Lf4PS3RzFb8VpMyJtkOl4"
     },
     {
       "added_at": "2024-10-09 21:55:22",

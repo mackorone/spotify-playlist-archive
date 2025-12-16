@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, made for furs, by furs. ",
-  "num_followers": 864,
+  "num_followers": 868,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEkIi0DkNyEpNGIsaEf9s8eXFW7y2G",
+  "snapshot_id": "AAAEkQguORJrcledFEhcCuwui4pY07SW",
   "tracks": [
+    {
+      "added_at": "2025-12-15 21:11:33",
+      "album": {
+        "name": "CHAMPION",
+        "url": "https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38"
+      },
+      "artists": [
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        },
+        {
+          "name": "saoirse dream",
+          "url": "https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf"
+        }
+      ],
+      "duration_ms": 211833,
+      "name": "COOL",
+      "url": "https://open.spotify.com/track/7DnQoAKAbH6iBrT2FruKvQ"
+    },
     {
       "added_at": "2025-12-15 01:56:19",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 31125,
+  "num_followers": 31140,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
+        "name": "Entre Los Dos",
+        "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 215791,
+      "name": "Entre Los Dos",
+      "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 198642,
       "name": "Lugar ideal",
       "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
-        "name": "Entre Los Dos",
-        "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 215791,
-      "name": "Entre Los Dos",
-      "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Estrellas En El Mar",
-        "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
       "artists": [
         {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        },
-        {
-          "name": "Angie Vazquez",
-          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
         }
       ],
-      "duration_ms": 251040,
-      "name": "Estrellas En El Mar",
-      "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+      "duration_ms": 140286,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     }
   ],
   "unique_name": "Latin Folk",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: ALPHA DRIVE ONE) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: \uc2dc\uc6b0\ubbfc (XIUMIN), \uc774\uc7ac\uc9c4 (FT\uc544\uc77c\ub79c\ub4dc), \uc0b0\ub4e4, \ud558\uc131\uc6b4) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -7919,6 +7919,24 @@
     },
     {
       "album": {
+        "name": "Lovin' the Christmas",
+        "url": "https://open.spotify.com/album/0n2rbF9KvlhkViJeW0JD8S"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Lovin' the Christmas",
+      "url": "https://open.spotify.com/track/6Ws8iBdUJWu9XGsTGvQoEa"
+    },
+    {
+      "album": {
         "name": "Present : YOU",
         "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
       },
@@ -8348,6 +8366,36 @@
       "duration_ms": 183013,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
+    },
+    {
+      "album": {
+        "name": "Memory Balloon",
+        "url": "https://open.spotify.com/album/7tmue4AI64zrN1v7D0p9fz"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        },
+        {
+          "name": "Lee Jae Jin",
+          "url": "https://open.spotify.com/artist/55bdywjqGi55xGRGiILz9P"
+        },
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        },
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Memory Balloon",
+      "url": "https://open.spotify.com/track/12r4rXFlvyDfJdJSixSQVz"
     },
     {
       "album": {
@@ -9990,7 +10038,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 162000,
       "name": "PUSH BACK",
       "url": "https://open.spotify.com/track/2GjJ0GSfei7RnAapwC5ZUB"
@@ -10260,7 +10308,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 160000,
       "name": "RED (Beggin\u2019)",
       "url": "https://open.spotify.com/track/03ZcDObLhvSeadqOg0gsiP"
@@ -10800,7 +10848,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 187929,
       "name": "SATURDAY PREACHER",
       "url": "https://open.spotify.com/track/0orrrJ5FdLQNrMJCRz9lyF"
@@ -11815,6 +11863,24 @@
     },
     {
       "album": {
+        "name": "THE BOYZ Special Single [Still Love You]",
+        "url": "https://open.spotify.com/album/5NJHeBJzOo41F03PAdSBiP"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Still Love You",
+      "url": "https://open.spotify.com/track/1iTD1cezCFJgVsTQ9shCnI"
+    },
+    {
+      "album": {
         "name": "RE:tro",
         "url": "https://open.spotify.com/album/2N5nMmoKGeFwXB3mKBrHKT"
       },
@@ -11916,7 +11982,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 177000,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5"
@@ -12370,6 +12436,24 @@
       "duration_ms": 246786,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/082T4CgUFyV0tjPdzaq6ml"
+    },
+    {
+      "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD"
     },
     {
       "album": {

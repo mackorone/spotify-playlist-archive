@@ -4,12 +4,12 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-16 songs - 9 hr 33 min
+16 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ben Platt](https://open.spotify.com/episode/4b75NPb8OTh9aDsWszMyav) | [Armchair Expert with Dax Shepard](https://open.spotify.com/show/6kAsbP8pxwaU2kPibKTuHE) | [Armchair Expert with Dax Shepard](https://open.spotify.com/album/6kAsbP8pxwaU2kPibKTuHE) | 1:59:11 | 2020-11-27 |  |
-| [Ben Platt \- 'The Politician' & 'Ben Platt: Live from Radio City Music Hall'](https://open.spotify.com/episode/174aTOW4JVCHBtb7mSa1yF) | [Awards Chatter](https://open.spotify.com/show/3FVrMC7m9dWVXfEZyucaF9) | [Awards Chatter](https://open.spotify.com/album/3FVrMC7m9dWVXfEZyucaF9) | 1:08:44 | 2020-11-27 |  |
+| [Ben Platt \- 'The Politician' & 'Ben Platt: Live from Radio City Music Hall'](https://open.spotify.com/episode/174aTOW4JVCHBtb7mSa1yF) | [Awards Chatter](https://open.spotify.com/show/3FVrMC7m9dWVXfEZyucaF9) | [Awards Chatter](https://open.spotify.com/album/3FVrMC7m9dWVXfEZyucaF9) | 1:11:00 | 2020-11-27 |  |
 | [Ben Wysocki of The Fray](https://open.spotify.com/episode/0MfQm1ubaSyVQ7qNJ1nj9R) | [Vinyl Biography](https://open.spotify.com/show/534jgfpUs7wrgSwYwZyBnC) | [Vinyl Biography](https://open.spotify.com/album/534jgfpUs7wrgSwYwZyBnC) | 1:05:41 | 2020-11-27 |  |
 | [Chp 1: my life is online](https://open.spotify.com/episode/4y3BbDpdJsXTkxXrJKardo) | [21 Days with mxmtoon](https://open.spotify.com/show/7k2gNSLZnopnh6pcvkQACK) | [21 Days with mxmtoon](https://open.spotify.com/album/7k2gNSLZnopnh6pcvkQACK) | 30:59 | 2020-11-27 |  |
 | [Conan Gray Breaks Down His New Album Kid Krow](https://open.spotify.com/episode/6ojbroZbrUuySp86bvPOPu) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 1:00:59 | 2020-11-27 |  |

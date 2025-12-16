@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4nqQTosM2Mbg7iRjvJU0N0">Samara Cyn</a>
 
-2,645 songs - 4 day 20 hr 56 min
+2,646 songs - 4 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 | 2023-07-07 | 2023-08-12 |
 | [Baby Mad At Me \(feat\. Lil Wayne\)](https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Baby Mad At Me \(feat\. Lil Wayne\)](https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p) | 3:28 | 2025-05-09 | 2025-05-17 |
 | [Baby Shark](https://open.spotify.com/track/7Hij0MzGIK43J8sQsrzcdB) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Baby Shark](https://open.spotify.com/album/5GxnOGqSFpOsWVuDg7GRMQ) | 2:36 | 2022-09-09 | 2022-11-12 |
+| [Baby Teeth](https://open.spotify.com/track/4DDNQOFBuRz51dDz6zeUeq) | [elkan](https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe) | [Baby Bundle](https://open.spotify.com/album/3Uza6dUPUKhg6Y0pWvqto6) | 3:25 | 2025-12-15 |  |
 | [Baby Z](https://open.spotify.com/track/462LJdoEI5Lm6kEDijarCH) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Baby Z](https://open.spotify.com/album/1IJTKZSE6ddFc7qsIlGuTO) | 2:02 | 2025-12-12 |  |
 | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/track/3KxIbjdYaya7ubByPPL7J3) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BABYGIRL \(feat\. Lil Tjay\)](https://open.spotify.com/album/2nYUUZRsShRIiRxj3ijqvx) | 2:30 | 2025-01-31 | 2025-02-15 |
 | [Back 2 Back \(feat\. CEO Trayle\)](https://open.spotify.com/track/3Lr9J0UuPrnTVlmA5wosqi) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Back 2 Back \(feat\. CEO Trayle\)](https://open.spotify.com/album/77QuhYQbJy5g4OAZv7Ebsc) | 2:55 | 2022-08-19 | 2022-10-08 |
@@ -2136,7 +2137,7 @@
 | [Snowman](https://open.spotify.com/track/4xWMEQ524bQkqVcI5ZC3HS) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Snowman](https://open.spotify.com/album/2C3DJlTvAPNU20L0HhUug7) | 1:56 | 2023-09-08 | 2023-12-02 |
 | [So Bad \(with 4batz\)](https://open.spotify.com/track/6UO6qKbBUV3dkAL8944zyh) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [So Bad \(with 4batz\)](https://open.spotify.com/album/4dT7ycpsFAKebSCCecqROq) | 2:59 | 2024-10-04 | 2024-10-19 |
 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 | 2023-04-29 |
-| [So Fine \(feat\. Tink\)](https://open.spotify.com/track/69on3Xiwv2k4s0hZUGpukQ) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 2:44 | 2025-07-18 |  |
+| [So Fine \(feat\. Tink\)](https://open.spotify.com/track/69on3Xiwv2k4s0hZUGpukQ) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 2:44 | 2025-07-18 | 2025-12-16 |
 | [So Right](https://open.spotify.com/track/3h6BhbgZ1jHvMZO84eO5LW) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Molly Santana](https://open.spotify.com/album/0L3yIg84VZblXuBBewLgn6) | 2:47 | 2025-10-03 | 2025-11-29 |
 | [So Sexyy \(with Sexyy Redd & YTB Fatt\)](https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Let Me Fly](https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED) | 3:22 | 2025-05-23 | 2025-06-14 |
 | [SO WHAT?](https://open.spotify.com/track/2ER6bbx6npLHiUPnR5nlgM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [BACK IN ACTION 4.0](https://open.spotify.com/album/75MyXCYXcmz18Lcq6wEYxq) | 2:58 | 2024-07-19 | 2024-07-27 |

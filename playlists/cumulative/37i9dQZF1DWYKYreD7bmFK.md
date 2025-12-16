@@ -2,7 +2,7 @@
 
 ### [Sanremo Giovani 2025](https://open.spotify.com/playlist/37i9dQZF1DWYKYreD7bmFK)
 
-> Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
+> Tutti i brani di Sanremo Giovani 2025 🎧
 
 50 songs - 2 hr 24 min
 

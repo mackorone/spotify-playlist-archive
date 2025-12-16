@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > pvro real cero feka 👾 Stiffy, Zell, Agusfortnite2008 y turrobaby en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,608 likes - 106 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,634 likes - 106 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

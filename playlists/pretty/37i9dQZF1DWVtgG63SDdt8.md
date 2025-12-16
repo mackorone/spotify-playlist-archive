@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new Christmas tracks of all Christian, Gospel, Worship & Inspirational music genres this year!  Cover: Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,084 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,258 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 66 | [GREATEST GIFT](https://open.spotify.com/track/5rLiwgAOamh13OSk9PDNYg) | [James Bakian](https://open.spotify.com/artist/6r8QEHkxWjN4t2HemWAMyN) | [GREATEST GIFT](https://open.spotify.com/album/7sbbCekpluQfu1HmSJHSL8) | 2:28 |
 | 67 | [Gift of Heaven](https://open.spotify.com/track/7IgIb2VpMnDjZQXeeD6iUO) | [HopeUC](https://open.spotify.com/artist/3SyP1meXisQhfM8Pe5CsRj), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Luke Taylor](https://open.spotify.com/artist/6Y8iSUZ05ToQzpXWT4vsKs) | [Gift of Heaven](https://open.spotify.com/album/2wGxX2bvV5XfMUUYyfFkBu) | 3:41 |
 | 68 | [No Place Like Home \(It's Christmas\)](https://open.spotify.com/track/3UolkTMBr42UzGt49GhHkE) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [No Place Like Home \(It's Christmas\)](https://open.spotify.com/album/7nOzfgwgwK8r75QMSVnTm0) | 2:51 |
-| 69 | [Away In A Manger](https://open.spotify.com/track/0z1d4DCIBxL0udJtYT1WOJ) | [TaRanda Greene](https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein), [Charles Billingsley](https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d) | [Away In A Manger](https://open.spotify.com/album/08qPNH3YKzorHO6QE1mIjT) | 5:55 |
+| 69 | [Away In A Manger](https://open.spotify.com/track/0z1d4DCIBxL0udJtYT1WOJ) | [TaRanda Greene](https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein), [Charles Billingsley](https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d) | [Away In A Manger](https://open.spotify.com/album/08qPNH3YKzorHO6QE1mIjT) | 5:54 |
 | 70 | [Rejoice!](https://open.spotify.com/track/4MM1nTSegPvklKDLBTxbVS) | [Good Things Collective](https://open.spotify.com/artist/3VA9ir8m9Z6yqwVpuXloRD), [Jen Holm](https://open.spotify.com/artist/13Km5qxVUwpPfl55AaW2Td), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Rejoice!](https://open.spotify.com/album/6g8ZWq1yVN3GFPiUYunO9C) | 3:42 |
 | 71 | [God Rest Ye Merry Gentleman](https://open.spotify.com/track/7rxlP9Xn9WXYBXNkLDnkHH) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [An Irish Christmas](https://open.spotify.com/album/7IYn0YPFDZILhmVL0nbaEC) | 4:01 |
 | 72 | [O Holy Night \- Live](https://open.spotify.com/track/0UrKPs28Pte1NZ4ZvcYXJA) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Melinda Watts](https://open.spotify.com/artist/0GCLncgrzKk95NwdvHjxw7) | [A Weary World Rejoices](https://open.spotify.com/album/27a2ATZGDNSYlwO5CpAo5z) | 6:24 |

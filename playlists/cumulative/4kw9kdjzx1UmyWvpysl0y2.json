@@ -5821,6 +5821,24 @@
     },
     {
       "album": {
+        "name": "Droid",
+        "url": "https://open.spotify.com/album/0JJvYBZOCxvBJCdTKuoD3i"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Droid",
+      "url": "https://open.spotify.com/track/1mPhGJJd1uH372y2UATIJo"
+    },
+    {
+      "album": {
         "name": "Droids",
         "url": "https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0"
       },

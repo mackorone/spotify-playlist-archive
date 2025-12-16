@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1903,
+  "num_followers": 1905,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAB5PwL/2mJthaNcJ/5evcbV",
+  "snapshot_id": "aT3+AAAAAAAqFYpH/D1XdEGr4ZEPMR6T",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grocery Store Girl",
-        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 163983,
-      "name": "Grocery Store Girl",
-      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grocery Store Girl",
+        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 163983,
+      "name": "Grocery Store Girl",
+      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 250253,
-      "name": "contact high",
-      "url": "https://open.spotify.com/track/3GoIbfB3OTD3qAgTpptFcR"
+      "duration_ms": 220106,
+      "name": "my funeral",
+      "url": "https://open.spotify.com/track/2vtcbNPCrw8CmSbn6MblKx"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 220106,
-      "name": "my funeral",
-      "url": "https://open.spotify.com/track/2vtcbNPCrw8CmSbn6MblKx"
+      "duration_ms": 250253,
+      "name": "contact high",
+      "url": "https://open.spotify.com/track/3GoIbfB3OTD3qAgTpptFcR"
     },
     {
       "added_at": null,

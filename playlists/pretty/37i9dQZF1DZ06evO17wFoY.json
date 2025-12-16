@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 29206,
+  "num_followers": 29205,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAABF7PxyKGQO3KguhNpDl1nk",
+  "snapshot_id": "aT3+AAAAAAAM4mVo3DMpM+rGjFR1tRi4",
   "tracks": [
     {
       "added_at": null,
@@ -271,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/5e6JUumt6nbvzPrpZxb8vP"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 52186,
-      "name": "Kinderszenen, Op. 15: IV. Bittendes Kind",
-      "url": "https://open.spotify.com/track/3MV9u27GAg3GZAvpeeBYGx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gran Turismo 5 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 327080,
       "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"On a G String\" (Arr. for Piano)",
       "url": "https://open.spotify.com/track/4ksxLnn1ymLGRKnwhba45Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/5e6JUumt6nbvzPrpZxb8vP"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 52186,
+      "name": "Kinderszenen, Op. 15: IV. Bittendes Kind",
+      "url": "https://open.spotify.com/track/3MV9u27GAg3GZAvpeeBYGx"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book 2",
-        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
-      "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 287986,
       "name": "La campanella in G-Sharp Minor (From \"Grandes \u00e9tudes de Paganini\", S. 141/3)",
       "url": "https://open.spotify.com/track/2Hnurh1BcigGbCGFOb4Uid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book 2",
+        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
+      "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 35826,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
+      "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Disney Book",
         "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 249342,
       "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
       "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 35826,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 3",
-      "url": "https://open.spotify.com/track/01krwPhJ04YilFViTRPU1O"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Disney Book",
-        "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 160356,
-      "name": "The Bare Necessities - From \"The Jungle Book\"",
-      "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 33453,
       "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
       "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Disney Book",
+        "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 160356,
+      "name": "The Bare Necessities - From \"The Jungle Book\"",
+      "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lang Lang: The Chopin Album",
-        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "\u00c9tudes, Op. 25: No. 1 in A-Flat Major",
-      "url": "https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -979,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lang Lang: The Chopin Album",
+        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "\u00c9tudes, Op. 25: No. 1 in A-Flat Major",
+      "url": "https://open.spotify.com/track/6SZecFOXcA1mt31T67vajf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chopin Gold",
         "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
       },
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book 2",
-        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 154613,
-      "name": "Lieder ohne Worte V, Op. 62: VI. Allegretto grazioso, MWV U161 \"Spring Song\"",
-      "url": "https://open.spotify.com/track/3hVYrnVi7M2YIBu2e8shv7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 93253,
       "name": "The Merry Shepherd Boy",
       "url": "https://open.spotify.com/track/04WtM8HBVMGUY3r5LEX4Dr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book 2",
+        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 154613,
+      "name": "Lieder ohne Worte V, Op. 62: VI. Allegretto grazioso, MWV U161 \"Spring Song\"",
+      "url": "https://open.spotify.com/track/3hVYrnVi7M2YIBu2e8shv7"
     }
   ],
   "unique_name": "This Is Lang Lang",

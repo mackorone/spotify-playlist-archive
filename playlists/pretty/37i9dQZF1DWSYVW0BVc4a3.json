@@ -1,13 +1,97 @@
 {
-  "description": "Anna-My & Harrison First with the sound of the Scandi underground",
-  "num_followers": 221112,
+  "description": "Megra with the sound of the Scandi underground",
+  "num_followers": 221117,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7Fzt1lwdZ/lfc4LxQZwk02j5oP",
+  "snapshot_id": "AAAAABD6XFKeQS8Tx9rWCKlSvIzzXG4I",
   "tracks": [
+    {
+      "added_at": "2025-12-15 09:55:43",
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/2FBxQeIIuslFTHelw385VC"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/3b10mrGZKqMmgWLhlHBJ3V"
+    },
+    {
+      "added_at": "2025-12-15 09:55:43",
+      "album": {
+        "name": "Travmkinder",
+        "url": "https://open.spotify.com/album/464VheIaGFV6Ldi6j1jsOs"
+      },
+      "artists": [
+        {
+          "name": "Travmkind",
+          "url": "https://open.spotify.com/artist/3GsbXWOsvLnSJXFJ6D1Eji"
+        }
+      ],
+      "duration_ms": 245142,
+      "name": "Living in my mind",
+      "url": "https://open.spotify.com/track/3jfOxtuBpjsdE36N2YoRc8"
+    },
+    {
+      "added_at": "2025-12-04 23:00:07",
+      "album": {
+        "name": "Mitsubishi (feat. Muki)",
+        "url": "https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Muki",
+          "url": "https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1"
+        }
+      ],
+      "duration_ms": 176021,
+      "name": "Mitsubishi (feat. Muki)",
+      "url": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H"
+    },
+    {
+      "added_at": "2025-12-04 23:00:07",
+      "album": {
+        "name": "Ultraman",
+        "url": "https://open.spotify.com/album/0rMyd3x2V3N8t0fXMxHmzw"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Ultraman",
+      "url": "https://open.spotify.com/track/2mL8rij9yGJEgTBBizw7qa"
+    },
+    {
+      "added_at": "2025-12-04 23:00:07",
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/3CLL8jbee2bkSTfw7CCTBP"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 169638,
+      "name": "Basic Instinct",
+      "url": "https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw"
+    },
     {
       "added_at": "2025-12-04 23:00:07",
       "album": {
@@ -123,26 +207,6 @@
     {
       "added_at": "2025-12-04 23:00:07",
       "album": {
-        "name": "Mitsubishi (feat. Muki)",
-        "url": "https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Muki",
-          "url": "https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1"
-        }
-      ],
-      "duration_ms": 176021,
-      "name": "Mitsubishi (feat. Muki)",
-      "url": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H"
-    },
-    {
-      "added_at": "2025-12-04 23:00:07",
-      "album": {
         "name": "It Gets Better (Chris Stussy Remix)",
         "url": "https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2"
       },
@@ -159,38 +223,6 @@
       "duration_ms": 252500,
       "name": "It Gets Better - Chris Stussy Remix",
       "url": "https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O"
-    },
-    {
-      "added_at": "2025-12-04 23:00:07",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR"
-    },
-    {
-      "added_at": "2025-12-04 23:00:07",
-      "album": {
-        "name": "Ultraman",
-        "url": "https://open.spotify.com/album/0rMyd3x2V3N8t0fXMxHmzw"
-      },
-      "artists": [
-        {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "Ultraman",
-      "url": "https://open.spotify.com/track/2mL8rij9yGJEgTBBizw7qa"
     },
     {
       "added_at": "2025-12-04 23:00:07",
@@ -243,22 +275,6 @@
       "duration_ms": 205059,
       "name": "For My People",
       "url": "https://open.spotify.com/track/25b2Ftcple4DAIyQ3V0mPF"
-    },
-    {
-      "added_at": "2025-12-04 23:00:07",
-      "album": {
-        "name": "Basic Instinct",
-        "url": "https://open.spotify.com/album/3CLL8jbee2bkSTfw7CCTBP"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 169638,
-      "name": "Basic Instinct",
-      "url": "https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw"
     },
     {
       "added_at": "2025-12-04 23:00:07",
@@ -387,6 +403,22 @@
     {
       "added_at": "2025-12-04 23:00:07",
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR"
+    },
+    {
+      "added_at": "2025-12-04 23:00:07",
+      "album": {
         "name": "Archangel",
         "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
       },
@@ -461,6 +493,42 @@
       "url": "https://open.spotify.com/track/12D0dLy59uXdEtliQ7TvvW"
     },
     {
+      "added_at": "2025-12-15 09:55:43",
+      "album": {
+        "name": "Max (Tripolism Remix)",
+        "url": "https://open.spotify.com/album/4uQz1idc9hg7qiZlJqoF9E"
+      },
+      "artists": [
+        {
+          "name": "Kenton Slash Demon",
+          "url": "https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 414242,
+      "name": "Max (Tripolism Remix)",
+      "url": "https://open.spotify.com/track/7uLvNGCt5gn51iOZXMlXgH"
+    },
+    {
+      "added_at": "2025-12-15 09:55:43",
+      "album": {
+        "name": "Everybody Groove",
+        "url": "https://open.spotify.com/album/5JxHXOVnJyqFegiigzUdqU"
+      },
+      "artists": [
+        {
+          "name": "Tjalan",
+          "url": "https://open.spotify.com/artist/4YMnQmpgiWDL4HfWq90MAA"
+        }
+      ],
+      "duration_ms": 317986,
+      "name": "Everybody Groove",
+      "url": "https://open.spotify.com/track/4OtR8ERF2Ao679VDLwRq1R"
+    },
+    {
       "added_at": "2025-12-04 23:00:07",
       "album": {
         "name": "Is this even real?",
@@ -475,6 +543,30 @@
       "duration_ms": 236097,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2AydczQdL5AH71tyttpWhz"
+    },
+    {
+      "added_at": "2025-12-15 09:55:43",
+      "album": {
+        "name": "WHERE U GOING MAMA?",
+        "url": "https://open.spotify.com/album/0J7ndY8XW9winhEso9kWHA"
+      },
+      "artists": [
+        {
+          "name": "Travmkind",
+          "url": "https://open.spotify.com/artist/3GsbXWOsvLnSJXFJ6D1Eji"
+        },
+        {
+          "name": "ONINE",
+          "url": "https://open.spotify.com/artist/4pkcUue7EKajY2Blwdcexm"
+        },
+        {
+          "name": "MJULA",
+          "url": "https://open.spotify.com/artist/35z68RxmL7Wres8lZC1S4M"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "WHERE U GOING MAMA?",
+      "url": "https://open.spotify.com/track/0lEvAvnkS6CTbFQ9mJXKyb"
     },
     {
       "added_at": "2025-12-04 23:00:07",

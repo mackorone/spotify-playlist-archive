@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > Hottest tracks from Coke Studio Bharat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,191 likes - 20 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,196 likes - 20 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 19 | [Bayo \| Coke Studio Bharat](https://open.spotify.com/track/0tl9Sdjl9pEIhiymw1YMUy) | [Cyli Khare](https://open.spotify.com/artist/78n9RAOLkZtH6PMLf7LErN), [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M), [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Curtain Blue](https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15), [Girgaon Dhwajapathak](https://open.spotify.com/artist/3jn0g2zgPfjHKyX1fE5xsl) | [Bayo \| Coke Studio Bharat](https://open.spotify.com/album/1ILKU55wcEY2SHkDYZvuBJ) | 3:21 |
 | 20 | [Taqdeer](https://open.spotify.com/track/29Zb6OUOZJLz5orIK83S0s) | [Donn Bhat](https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [Sakur Khan](https://open.spotify.com/artist/3ayCmJ9xtpKk66apem0S2T) | [Taqdeer](https://open.spotify.com/album/6iqPePhA2F9iXi9gWJ7JS9) | 5:18 |
 
-Snapshot ID: `AAAAAMPKqddi8p957GOCWGIbdX9u76wg`
+Snapshot ID: `AAAAAPUsTP/LvuFAHNdM/sK8p7JzISmc`

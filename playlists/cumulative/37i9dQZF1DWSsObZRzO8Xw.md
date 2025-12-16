@@ -2,9 +2,9 @@
 
 ### [Math Rock](https://open.spotify.com/playlist/37i9dQZF1DWSsObZRzO8Xw)
 
-> Complex rhythms and mesmerizing loops\. Cover: LITE
+> Complex rhythms and mesmerizing loops\. Cover: eleventwelfth
 
-176 songs - 12 hr 14 min
+177 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aped](https://open.spotify.com/track/3wtC8F2j4hUMHFlMSS1RzR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 4:06 | 2025-06-05 |  |
 | [Aquabus](https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od) | [Shaolin](https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E) | [Psych!](https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD) | 4:36 | 2021-10-15 |  |
 | [ARUKAS](https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P) | 5:41 | 2021-10-15 |  |
+| [ascending faster than before \- ACT I : The Beginning](https://open.spotify.com/track/4KWDXp5vKg3P2hco4WxFE1) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [ascending faster than before \- ACT I : The Beginning](https://open.spotify.com/album/2ccIhRAvomOmM8DP5YGrzq) | 3:33 | 2025-12-15 |  |
 | [Astray Life](https://open.spotify.com/track/6cSCJQcTMWpFPfBZg1gl3h) | [Rooftops](https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6) | [A Forest of Polarity](https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o) | 1:00 | 2025-06-05 |  |
 | [At the corner of Squanch and Squanch](https://open.spotify.com/track/12oLllpYyJOKWVIpURA3BR) | [biscuit head](https://open.spotify.com/artist/2kw2Y8E5KllNL4PY2MeoMX) | [Chunky Moisture](https://open.spotify.com/album/1uy5vcfYaUcwgs0wubTiuv) | 3:31 | 2025-06-05 |  |
 | [At the Turf Field Behind My Parents' House](https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [Memory Lame](https://open.spotify.com/album/4xa1QJqW4ZVywlZQgMLKR9) | 4:33 | 2022-05-20 | 2024-04-19 |
@@ -62,7 +63,7 @@
 | [Echolocation](https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Installation](https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO) | 3:54 | 2021-10-15 |  |
 | [El Capitán](https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv) | [Yo Triceratop](https://open.spotify.com/artist/7APdZybMciE2luVovmsSmZ) | [Limerencia: Split](https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st) | 4:22 | 2021-10-15 |  |
 | [El Exilio de Godomar](https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc) | [Kinder](https://open.spotify.com/artist/6Pan5A16TZ1aKMIpnePAZ9) | [Migraciones](https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1) | 4:09 | 2021-10-15 |  |
-| [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 | 2021-10-15 |  |
+| [El Hombre Pánico](https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros del Albedrío](https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz) | 2:18 | 2021-10-15 | 2025-12-16 |
 | [El Hombre Pánico](https://open.spotify.com/track/2BDSeuEMhUIhnGXBFY0h6n) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Caballeros Del Albedrío](https://open.spotify.com/album/65bgZZDpNzCqEy2809zw1U) | 2:18 | 2024-01-19 | 2024-04-19 |
 | [El Sol Es un Holgazán](https://open.spotify.com/track/5m3QSbDsffb9ROpMlYZsGR) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la Tarea](https://open.spotify.com/album/74s1lnDnhjzuDdK3LovTXs) | 2:21 | 2023-11-09 | 2024-04-04 |
 | [El sol es un holgazán](https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Abajo la tarea](https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc) | 2:21 | 2021-10-15 |  |

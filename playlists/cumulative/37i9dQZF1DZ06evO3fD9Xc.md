@@ -4,7 +4,7 @@
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 10 min
+96 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [El Amor de Mi Vida](https://open.spotify.com/track/0A9HmbxmsodmqLujdz5c7d) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:36 | 2023-03-10 |  |
 | [El Barco](https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:46 | 2023-03-10 | 2024-06-19 |
 | [El Barco](https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:46 | 2024-06-19 |  |
-| [El Beso Que Me Diste](https://open.spotify.com/track/0KkiU9tmTWULd4Oh32HHPi) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Beso Que Me Diste](https://open.spotify.com/album/1HaNfk9f28FSO7KgZYdwIn) | 3:15 | 2025-11-02 |  |
+| [El Beso Que Me Diste](https://open.spotify.com/track/0KkiU9tmTWULd4Oh32HHPi) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Beso Que Me Diste](https://open.spotify.com/album/1HaNfk9f28FSO7KgZYdwIn) | 3:15 | 2025-11-02 | 2025-12-16 |
 | [El Color de Tus Ojos](https://open.spotify.com/track/2teAaxXdeNe4cQa6cjnnKg) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:17 | 2023-03-10 |  |
 | [El Sinaloense](https://open.spotify.com/track/4h06vZxDLOpTwJ9poOn1dT) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Mariachi Internacional CHG De Gamaliel Contreras Huerta](https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw) | [El Sinaloense](https://open.spotify.com/album/6EfyoRonwMcULLHbjH7BK2) | 2:37 | 2024-01-20 | 2024-02-18 |
 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 | 2025-11-23 |  |
@@ -74,6 +74,7 @@
 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 | 2023-03-10 | 2024-06-17 |
 | [Para No Pensar En Ti](https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:29 | 2024-06-17 |  |
 | [Por Siempre Mi Amor](https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:07 | 2023-03-10 |  |
+| [Princesa de la Noche](https://open.spotify.com/track/2two6m0LBsrOZWLhsGi7Z4) | [Mori](https://open.spotify.com/artist/32LRzOkIsRVT82iYmLSbBK), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Paul Ruche](https://open.spotify.com/artist/3n6oWHec0thlerlSygmGDQ), [Z GU](https://open.spotify.com/artist/24BR616ycyMUHwcvsmZJjr) | [Princesa de la Noche](https://open.spotify.com/album/0yYpzvECpc7iuJ2sCMfxI5) | 3:15 | 2025-12-16 |  |
 | [Puñetas Mentales](https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puñetas Mentales](https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn) | 2:19 | 2024-05-17 | 2025-04-17 |
 | [Puño de Diamantes](https://open.spotify.com/track/205jUQPoqMVQZUQe81yJmB) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:53 | 2023-03-10 |  |
 | [Que Bonito Es Querer](https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Que Bonito Es Querer](https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO) | 3:17 | 2023-03-10 |  |

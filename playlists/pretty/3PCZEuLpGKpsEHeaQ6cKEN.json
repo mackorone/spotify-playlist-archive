@@ -1,12 +1,12 @@
 {
   "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | ",
-  "num_followers": 261850,
+  "num_followers": 261830,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADVGsHBJeNR/fDNhn8AnBJPPQ+A7RDS",
+  "snapshot_id": "AADVHbQIlO2h3nBI1MbR0NVwcq4pO7eR",
   "tracks": [
     {
       "added_at": "2025-12-11 15:57:37",
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/3ENgDvA9HoqMVd70QC3xmn"
     },
     {
+      "added_at": "2025-12-15 13:02:35",
+      "album": {
+        "name": "Christmas Days",
+        "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Josh Cumbee",
+          "url": "https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "Christmas Days",
+      "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
+    },
+    {
       "added_at": "2025-12-12 03:00:15",
       "album": {
         "name": "Let It Lie",
@@ -113,32 +133,20 @@
       "url": "https://open.spotify.com/track/4QrXptjPgVIdsDCoSp8nji"
     },
     {
-      "added_at": "2025-12-12 03:00:15",
+      "added_at": "2025-12-15 13:03:59",
       "album": {
-        "name": "My Lexicon",
-        "url": "https://open.spotify.com/album/0op9tlUqZxnhCMllh7uDrS"
+        "name": "Are You With Me / Reality (Christmas Remixes)",
+        "url": "https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf"
       },
       "artists": [
         {
-          "name": "Sander Kleinenberg",
-          "url": "https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6"
-        },
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        },
-        {
-          "name": "Kintar",
-          "url": "https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT"
-        },
-        {
-          "name": "Kyozo",
-          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 190000,
-      "name": "My Lexicon",
-      "url": "https://open.spotify.com/track/2AOa2150EoUG5lTyL2TrPC"
+      "duration_ms": 138853,
+      "name": "Are You With Me - Christmas Mix",
+      "url": "https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil"
     },
     {
       "added_at": "2025-12-12 03:00:15",
@@ -255,6 +263,34 @@
       "duration_ms": 134181,
       "name": "Boy Bye",
       "url": "https://open.spotify.com/track/4O6tEQJRrV4TA1YDR0OjuD"
+    },
+    {
+      "added_at": "2025-12-12 03:00:15",
+      "album": {
+        "name": "My Lexicon",
+        "url": "https://open.spotify.com/album/0op9tlUqZxnhCMllh7uDrS"
+      },
+      "artists": [
+        {
+          "name": "Sander Kleinenberg",
+          "url": "https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6"
+        },
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Kintar",
+          "url": "https://open.spotify.com/artist/4WZgFtQLzzmubwRq44JOjT"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "My Lexicon",
+      "url": "https://open.spotify.com/track/2AOa2150EoUG5lTyL2TrPC"
     },
     {
       "added_at": "2025-11-14 03:00:21",

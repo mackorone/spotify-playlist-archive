@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 63909,
+  "num_followers": 64011,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAAq8z1kxJbLh2xQmvsvyISo",
+  "snapshot_id": "aT3+AAAAAAAh7nzFyssm5r+VG6AbYTjd",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "satisfaction (feat. Asake)",
-      "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost In Melody (Deluxe)",
         "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 185083,
       "name": "Blessings (with Asake) - Remix",
       "url": "https://open.spotify.com/track/2FX0YSnyAJ8jxvysMiSp9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "satisfaction (feat. Asake)",
+      "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
     },
     {
       "added_at": null,

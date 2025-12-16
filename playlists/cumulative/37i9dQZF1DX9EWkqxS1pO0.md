@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Merve Günay
 
-336 songs - 16 hr 56 min
+337 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Aynen Öyle](https://open.spotify.com/track/0x7yFBpn5ivfO1FacplL6u) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Aynen Öyle](https://open.spotify.com/album/2zVJA5502StooPm1CFI2aP) | 2:50 | 2024-06-20 |  |
 | [AYNI BAHANELER](https://open.spotify.com/track/0M8W5kUAVDToKGJtpcC6g4) | [Öykü](https://open.spotify.com/artist/4RhGRpWkUswnIi6vHMa0Jr) | [AYNI BAHANELER](https://open.spotify.com/album/6og17cks2emChRxQIIyFsq) | 2:34 | 2025-08-28 | 2025-11-07 |
 | [Açıklarda Bir Kara](https://open.spotify.com/track/4I5NJVpbMUa50jeRDObCMJ) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Açıklarda Bir Kara](https://open.spotify.com/album/30wEQnC52g72y208JK6R4P) | 2:56 | 2025-03-06 |  |
+| [AŞIK OLDUM SANA](https://open.spotify.com/track/3DqAhi6218XpQC3o2opPlG) | [Bora Balcı](https://open.spotify.com/artist/3K5jA6oWGdIA11Ztjc0cJ2) | [AŞIK OLDUM SANA](https://open.spotify.com/album/5yFJC6Gup6hqCkrbMBKma1) | 2:58 | 2025-12-11 |  |
 | [Aşk İçinden](https://open.spotify.com/track/4XJ5fjuQOJLoC5PcdoZKCO) | [OD Band](https://open.spotify.com/artist/4jT7a6Eq3mnAxfboEQLvzL) | [Aşk İçinden](https://open.spotify.com/album/3wKP7PFBrM0yyZt1N0xajI) | 2:51 | 2025-11-06 |  |
 | [Aşk Meşk](https://open.spotify.com/track/7maVqbkRHHy0uNi9uBQHnN) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Aşk Meşk](https://open.spotify.com/album/5KtVRPP3cCg5ASqmrPFIAN) | 3:55 | 2024-12-19 | 2024-12-21 |
 | [aşk olsun](https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [aşk olsun](https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk) | 3:00 | 2024-11-28 |  |
@@ -137,7 +138,7 @@
 | [Gör Şu Halimi](https://open.spotify.com/track/4mlMmbnxr5AsRDR9ysI3LX) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [Gör Şu Halimi](https://open.spotify.com/album/5YoHw6HPiT7Y7TlttB4WhG) | 3:36 | 2025-02-20 | 2025-04-06 |
 | [Göz Bebeklerim](https://open.spotify.com/track/7tajCR4ppglEkZ0n2QHSAq) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Göz Bebeklerim](https://open.spotify.com/album/2VmXk4Lm0INsUzfQFBVgqU) | 2:58 | 2025-03-06 |  |
 | [Gücüm Yok](https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gücüm Yok](https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM) | 2:48 | 2024-10-10 | 2024-12-20 |
-| [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 |  |
+| [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 | 2025-12-16 |
 | [Günebakan](https://open.spotify.com/track/0kve63qUZXfXLRTOm6H3YI) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Günebakan](https://open.spotify.com/album/6FspaOaszVqDuYgkRtjiAw) | 3:14 | 2024-06-20 |  |
 | [Güzel Olmaz Mı?](https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Güzel Olmaz Mı?](https://open.spotify.com/album/2HVpwKFTAkn2fSCfS2biRi) | 2:56 | 2024-08-29 |  |
 | [HAFİFMEŞREP](https://open.spotify.com/track/2TFgGmiLfGaEbII24Ggb4r) | [Olabilir!](https://open.spotify.com/artist/5Q17hiDpug3g5J2Z7XSWhd) | [SANSÜR](https://open.spotify.com/album/4JF5u24eDcau1aEj8hw3AY) | 2:50 | 2025-11-06 |  |

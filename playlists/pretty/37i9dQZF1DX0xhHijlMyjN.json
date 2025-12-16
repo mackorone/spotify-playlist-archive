@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 329395,
+  "num_followers": 329373,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Nightflight to Venus",
+        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 211680,
       "name": "La Mordidita (feat. Yotuel)",
       "url": "https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Nightflight to Venus",
-        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Samba de Janeiro",
-        "url": "https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR"
-      },
-      "artists": [
-        {
-          "name": "Bellini",
-          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
-        }
-      ],
-      "duration_ms": 168444,
-      "name": "Samba de Janeiro",
-      "url": "https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "2000 Grandes Exitos",
         "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 231080,
       "name": "Mayonesa",
       "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Samba de Janeiro",
+        "url": "https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR"
+      },
+      "artists": [
+        {
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+        }
+      ],
+      "duration_ms": 168444,
+      "name": "Samba de Janeiro",
+      "url": "https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "El misterioso caso de Efecto Pasillo",
-        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "Pan y mantequilla",
-      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "El misterioso caso de Efecto Pasillo",
+        "url": "https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "Pan y mantequilla",
+      "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Macarena (EP)",
+        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Global Warming",
         "url": "https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 196440,
       "name": "Echa Pa'lla (Manos Pa'rriba) (feat. Papayo)",
       "url": "https://open.spotify.com/track/0fjRYHFz9ealui1lfnN8it"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Macarena (EP)",
-        "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Buler\u00eda",
-        "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "Buler\u00eda",
-      "url": "https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 262456,
       "name": "Ma quale idea",
       "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Buler\u00eda",
+        "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "Buler\u00eda",
+      "url": "https://open.spotify.com/track/2s7WJ9IRON5zalNbfFY1xa"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Pasi\u00f3n Condal",
-        "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
-      },
-      "artists": [
-        {
-          "name": "Los Manolos",
-          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Latin Fitness Dance 2012 - Workout Cardio Music - The Hits for Your Workout (Pop Kuduro, Cumbia, Latin House, Dembow, Merengue, Salsa, Bachata)",
         "url": "https://open.spotify.com/album/7KjAiKUf6oqUMqPa8VWni1"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 249653,
       "name": "Mar\u00eda Caipirinha (with Dj Dero)",
       "url": "https://open.spotify.com/track/2X1P55Lrz0g5X2OQd8n4c9"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Pasi\u00f3n Condal",
+        "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
+      },
+      "artists": [
+        {
+          "name": "Los Manolos",
+          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
     },
     {
       "added_at": "2025-07-02 10:54:22",

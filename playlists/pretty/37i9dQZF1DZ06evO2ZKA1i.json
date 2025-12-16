@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 300372,
+  "num_followers": 300394,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAABp9qMwHSHT7K6fkqKsjOF3",
+  "snapshot_id": "aT3+AAAAAAB4QJ4Z+jxLgeCxbJGGS61g",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 448333,
-      "name": "Mistreated - Remastered 2004",
-      "url": "https://open.spotify.com/track/34RISamoO5iubsOanSlpQo"
+      "duration_ms": 352293,
+      "name": "Sail Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 352293,
-      "name": "Sail Away - Remastered 2004",
-      "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
+      "duration_ms": 448333,
+      "name": "Mistreated - Remastered 2004",
+      "url": "https://open.spotify.com/track/34RISamoO5iubsOanSlpQo"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 218173,
-      "name": "Gettin' Tighter - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple",
         "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 305773,
       "name": "Lalena - 2000 Remaster",
       "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "Gettin' Tighter - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The House Of Blue Light",
-        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "The Unwritten Law",
-      "url": "https://open.spotify.com/track/2FTkYd4wvAJXVEwruv3IU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 245400,
       "name": "The Gypsy - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "The Unwritten Law",
+      "url": "https://open.spotify.com/track/2FTkYd4wvAJXVEwruv3IU2"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "inFinite",
-        "url": "https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P"
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 282426,
-      "name": "All I Got Is You",
-      "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
+      "duration_ms": 201666,
+      "name": "Lady Double Dealer - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/2HVmjaLefp248iCaaYtpBR"
     }
   ],
   "unique_name": "This Is Deep Purple",

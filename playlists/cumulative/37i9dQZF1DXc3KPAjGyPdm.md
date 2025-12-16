@@ -2,7 +2,7 @@
 
 ### [Stranger Things Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXc3KPAjGyPdm)
 
-> Your music taste matches the character on the playlist cover\. Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
+> Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
 
 304 songs - 18 hr 5 min
 

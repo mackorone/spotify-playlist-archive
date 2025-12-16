@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: fromis_9(\ud504\ub85c\ubbf8\uc2a4\ub098\uc778))",
-  "num_followers": 153716,
+  "num_followers": 153885,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
+        "name": "THE BOYZ Special Single 'Christmassy!'",
+        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Christmassy!",
+      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
-        "name": "THE BOYZ Special Single 'Christmassy!'",
-        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Christmassy!",
-      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "White",
-        "url": "https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "White",
-      "url": "https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "Christmas Promises: Again",
         "url": "https://open.spotify.com/album/4PvAlkoDM29aJSfx2BLcpu"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 154000,
       "name": "Christmas Again",
       "url": "https://open.spotify.com/track/2XPu6hAfHuQO1dVyIlACVb"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
+        "name": "White",
+        "url": "https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "White",
+      "url": "https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "The Road : Celebration - The 11th Album Vol.2",
-        "url": "https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 213280,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "5 Christmas Languages",
         "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 204906,
       "name": "5 Christmas Languages",
       "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
+        "name": "The Road : Celebration - The 11th Album Vol.2",
+        "url": "https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "merry merry",
-        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "merry merry",
-      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/7FOruuAoRntAE1TmGzukOQ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 193728,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/0y8c42IjxOGn8O87ZNxZMZ"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
+        "name": "merry merry",
+        "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "merry merry",
+      "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "This Christmas - Single",
-        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
-      },
-      "artists": [
-        {
-          "name": "Jyp Nation",
-          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
-        }
-      ],
-      "duration_ms": 227825,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 269012,
       "name": "Save Our Christmas",
       "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
+        "name": "This Christmas - Single",
+        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
+      },
+      "artists": [
+        {
+          "name": "Jyp Nation",
+          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
+        }
+      ],
+      "duration_ms": 227825,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
         "name": "SATELLITE",
         "url": "https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 165486,
       "name": "SATELLITE",
       "url": "https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
+        "name": "My Winter Trip",
+        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 251617,
+      "name": "My Winter Trip",
+      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "My Winter Trip",
-        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 251617,
-      "name": "My Winter Trip",
-      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "Another Sad Love Song",
         "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "Maybe Christmas (Orchestra Version)",
-        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Maybe Christmas - Orchestra Version",
-      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "MUST HAVE",
         "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 196920,
       "name": "Must Have Love",
       "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
+        "name": "Maybe Christmas (Orchestra Version)",
+        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Maybe Christmas - Orchestra Version",
+      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "D-day",
-      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "Hot December",
         "url": "https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 201786,
       "name": "Hot December",
       "url": "https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "D-day",
+      "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "Santa For You",
-        "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Santa For You",
-      "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "MIDNIGHT CHRISTMAS",
         "url": "https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/27brxcSO7wHNJbtoUFALaa"
+        "name": "Santa For You",
+        "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
       },
       "artists": [
         {
-          "name": "B.I.G",
-          "url": "https://open.spotify.com/artist/6gHyYB83BQlGKpqbn57D8R"
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/4lJhsgN4GVDWOsZTpYN1Sb"
+      "duration_ms": 197480,
+      "name": "Santa For You",
+      "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -1707,6 +1691,22 @@
       "duration_ms": 223200,
       "name": "Christmas Rose (feat. LEEBADA)",
       "url": "https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/27brxcSO7wHNJbtoUFALaa"
+      },
+      "artists": [
+        {
+          "name": "B.I.G",
+          "url": "https://open.spotify.com/artist/6gHyYB83BQlGKpqbn57D8R"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/4lJhsgN4GVDWOsZTpYN1Sb"
     },
     {
       "added_at": "2025-12-08 08:57:07",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-12-08 08:57:07",
       "album": {
-        "name": "Jingle Bell Love",
-        "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
-      },
-      "artists": [
-        {
-          "name": "Yunsae",
-          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
-        }
-      ],
-      "duration_ms": 154989,
-      "name": "Jingle Bell Love",
-      "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
-    },
-    {
-      "added_at": "2025-12-08 08:57:07",
-      "album": {
         "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
         "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 206439,
       "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
       "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
+    },
+    {
+      "added_at": "2025-12-08 08:57:07",
+      "album": {
+        "name": "Jingle Bell Love",
+        "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
+      },
+      "artists": [
+        {
+          "name": "Yunsae",
+          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
+        }
+      ],
+      "duration_ms": 154989,
+      "name": "Jingle Bell Love",
+      "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

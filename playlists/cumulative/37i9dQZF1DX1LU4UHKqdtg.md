@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: TAEYEON
 
-1,630 songs - 3 day 14 hr 18 min
+1,632 songs - 3 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Break Out](https://open.spotify.com/track/4tfF89sZMaHPathB908W67) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [ポラリス](https://open.spotify.com/album/5J5odxYlO6OBDmN6bzeb3Y) | 3:07 | 2023-08-16 | 2023-09-01 |
 | [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-12 | 2023-11-08 |
 | [BREATHE \-Japanese ver.\-](https://open.spotify.com/track/5vEvuoTTx7EAzO8X038yiq) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [ABSOLUTE 6IX](https://open.spotify.com/album/0aZqbkETzxarYTcSqg3kP3) | 3:40 | 2021-12-23 | 2022-01-14 |
+| [Bring it Back](https://open.spotify.com/track/350cXeeX0qeCdkJ036Lkfb) | [GPP](https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw) | [Bring it Back](https://open.spotify.com/album/0Bg4SoxfVEV7jvdDNVj2HK) | 4:11 | 2025-12-15 |  |
 | [Broken Melodies](https://open.spotify.com/track/4lPrJunJWnw4zGUpa6yWcH) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/6OU3xeJICT2dtRkmsoIR8P) | 3:46 | 2024-04-18 | 2024-04-27 |
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-19 | 2023-07-21 |
 | [Broken Melodies](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:46 | 2023-07-20 | 2024-04-19 |
@@ -288,7 +289,7 @@
 | [Cosmic](https://open.spotify.com/track/4s2MSGZJE1NVmzWkxXB6Qa) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:45 | 2025-03-06 | 2025-03-10 |
 | [Cotton Candy](https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [Chapter 0: WITH](https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki) | 3:19 | 2023-01-17 | 2023-03-15 |
 | [CRAYON](https://open.spotify.com/track/5TkTyTt0b1oPqKb3xVEqGl) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Invisible Crayon](https://open.spotify.com/album/5FVJ4JGyFPq4h9PJWjghOG) | 3:25 | 2023-04-18 | 2023-05-10 |
-| [Crazier](https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier \- The 11th Album](https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj) | 2:41 | 2025-08-06 |  |
+| [Crazier](https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier \- The 11th Album](https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj) | 2:41 | 2025-08-06 | 2025-12-16 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-29 | 2025-06-09 |
 | [CRAZY](https://open.spotify.com/track/3K4FUnNmfNrIipQey9OxDM) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Facade](https://open.spotify.com/album/2xj3q7TVU0jrpyv6YVGzPc) | 3:28 | 2022-06-13 | 2022-08-04 |
 | [CRAZY \- Japanese ver.](https://open.spotify.com/track/7dVokhn14vnPmUK0HF5hV1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/2G4myfKwdL4C6sWYj6byB2) | 2:44 | 2024-12-10 | 2025-03-07 |
@@ -1018,6 +1019,7 @@
 | [PERFORMER](https://open.spotify.com/track/2arrxX2BubTq86E4N067WY) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [VENI VIDI VICI](https://open.spotify.com/album/6s5By8sGoiYLpQmtYYvmGO) | 2:53 | 2023-10-27 | 2023-11-04 |
 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-04-17 | 2023-08-01 |
 | [Phantom](https://open.spotify.com/track/1jGfbcAuQepTZhvRT3Sy4s) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Phantom \- The 4th Mini Album](https://open.spotify.com/album/2CEDCFgac8o2GUAkXOmg1G) | 3:47 | 2022-12-27 | 2023-03-18 |
+| [Phase](https://open.spotify.com/track/1WFtVKH8l3B23WkNfWNUtU) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Phase](https://open.spotify.com/album/2e7yRPmtAf65JP43nBkFL5) | 2:58 | 2025-12-15 |  |
 | [Physics](https://open.spotify.com/track/5lvqkj6EMloJORon6Lr47j) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Physics](https://open.spotify.com/album/4jUKwi940t0GJWWe0GQSd7) | 2:33 | 2025-11-28 |  |
 | [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 | 2024-09-06 | 2024-12-06 |
 | [PINK CHRISTMAS](https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PINK CHRISTMAS](https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z) | 3:14 | 2023-12-11 | 2024-01-26 |
@@ -1303,7 +1305,7 @@
 | [Super Duper Ride](https://open.spotify.com/track/2OvgKDomaqyhPpgRAGQaki) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Super Duper Ride](https://open.spotify.com/album/1rVGw87A7c18DVW3IU15YK) | 3:09 | 2024-10-04 | 2024-10-11 |
 | [Super Lady](https://open.spotify.com/track/105qee9D4ARiRZPZDvGDoH) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0AxwDje2klNIOVKvMTtwdZ) | 2:32 | 2024-04-18 | 2024-08-30 |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-01-29 | 2024-04-19 |
-| [Super Luna](https://open.spotify.com/track/7KzvRJThUDhHZmhvHbbngi) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Super Luna](https://open.spotify.com/album/4WeJZrYQVlypCWog50MUSl) | 3:12 | 2025-11-11 |  |
+| [Super Luna](https://open.spotify.com/track/7KzvRJThUDhHZmhvHbbngi) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Super Luna](https://open.spotify.com/album/4WeJZrYQVlypCWog50MUSl) | 3:12 | 2025-11-11 | 2025-12-16 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 | 2024-02-07 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-24 |  |
 | [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-13 | 2024-10-30 |

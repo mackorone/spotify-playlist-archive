@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-214 songs - 13 hr 6 min
+215 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 |  |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2025-11-02 |  |
 | [MORE IS MORE](https://open.spotify.com/track/6tLEgrRHqFuCaNJoGkqEvQ) | [One Last Story](https://open.spotify.com/artist/1gQmrxjvjFTy1yDRpwvewq) | [MORE IS MORE](https://open.spotify.com/album/1Yc5IDAu1TE61J1m4zLaPG) | 3:22 | 2025-10-30 |  |
+| [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 | 2025-12-15 |  |
 | [Mumma Ginge](https://open.spotify.com/track/2YMGqzi0WwxUqvYaUyOZar) | [Clayton James Scott](https://open.spotify.com/artist/5kK7BW8ULLKubONyG9Jzok) | [Mumma Ginge](https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN) | 3:35 | 2025-11-03 |  |
 | [Nada Es Tan Importante](https://open.spotify.com/track/15CNEcr8bCzloi2OMfrkAa) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 4:36 | 2025-10-26 |  |
 | [National Tragedy](https://open.spotify.com/track/18oKkrtqJwTlRBmm982sNR) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [National Tragedy](https://open.spotify.com/album/0hsLjeJXsYPUxv4JsRmuNV) | 4:00 | 2025-11-30 |  |

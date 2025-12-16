@@ -907,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Bunu Senden Beklemezdim",
+        "url": "https://open.spotify.com/album/4kn98TzNgjREf8bZFmlmi1"
+      },
+      "artists": [
+        {
+          "name": "Eda Do\u011fanay",
+          "url": "https://open.spotify.com/artist/1FtJZKdjpUUSXffDbKrDVm"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227191,
+      "name": "Bunu Senden Beklemezdim",
+      "url": "https://open.spotify.com/track/7ozAGKAHz1mRsn2XqFcqou"
+    },
+    {
+      "album": {
         "name": "BURADA SOKAKLAR",
         "url": "https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 185786,
       "name": "De\u011fi\u015fmene Ra\u011fmen",
       "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
@@ -1300,6 +1318,24 @@
       "duration_ms": 124516,
       "name": "DURULDUM",
       "url": "https://open.spotify.com/track/24QL6OovqvjJ7cDxBd5Fwl"
+    },
+    {
+      "album": {
+        "name": "DUY BEN\u0130",
+        "url": "https://open.spotify.com/album/2UtJx2ShcVRUtXgu14rgtI"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel \u0130pek\u00e7i",
+          "url": "https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151612,
+      "name": "DUY BEN\u0130",
+      "url": "https://open.spotify.com/track/66y3M8tq4Z68Icj5AUxGXT"
     },
     {
       "album": {
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 181346,
       "name": "Italy Forma",
       "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"

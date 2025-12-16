@@ -4,7 +4,7 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-83 songs - 5 hr 3 min
+85 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Moment of Truth](https://open.spotify.com/track/714tF0Vt9ohC9uWwEyIRAo) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 5:39 | 2024-12-22 |  |
 | [Neon & Off](https://open.spotify.com/track/2btwLUidUoOusavbTdcs0s) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/0HVOnM5SIfxb4ph3Syagha) | 3:51 | 2025-01-05 |  |
 | [No Vacancy](https://open.spotify.com/track/3pVs5Zehts89WLyBPiYfxG) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:04 | 2024-11-17 |  |
+| [No Way Out \- Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)](https://open.spotify.com/track/5VrFKCrqnqA7qh7K36xyMf) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [No Way Out \[Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)\]](https://open.spotify.com/album/1C6Ns0UQdEpTYWQqsDdPHP) | 2:30 | 2025-12-15 |  |
 | [Nothing You Can Do](https://open.spotify.com/track/3RU53XEYB7hILTvCbeNjzx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 3:31 | 2025-11-16 |  |
 | [One for the Road](https://open.spotify.com/track/6kqlkuuSSWdHiQqzjaprvc) | [Hunter Hicks](https://open.spotify.com/artist/6BEOyviLtjXnOGYdBn0ddd) | [One for the Road](https://open.spotify.com/album/42r77gWzVAk6lOOUBSHr9t) | 3:12 | 2025-12-14 |  |
 | [Ramblin'](https://open.spotify.com/track/3k057uh5tFgAbWPrQJOTrI) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 2:32 | 2025-11-30 |  |
@@ -88,6 +89,7 @@
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2025-12-14 |  |
 | [Wasting Time](https://open.spotify.com/track/5CI2BRYoj0600uz0taRh8c) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 3:30 | 2025-12-07 |  |
 | [What's Going On In Your World](https://open.spotify.com/track/5jmpn0ls7fYuxzYlzrr3dL) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Beyond The Blue Neon](https://open.spotify.com/album/3wD2jmspAMaerzfETvT3ZU) | 3:28 | 2025-11-30 |  |
+| [Winner At Losing \- Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume II\)](https://open.spotify.com/track/6N16M8EzplEuWtozrmddia) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Winner At Losing \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume II\)\]](https://open.spotify.com/album/5VD6qJylhNuEXU5pe3ShiG) | 3:02 | 2025-12-15 |  |
 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-12-22 |  |
 | [Wrecked](https://open.spotify.com/track/79QYGruWwuNp5EZ7ZCo7iJ) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 4:59 | 2024-12-01 |  |
 | [Wyoming](https://open.spotify.com/track/4TcjHqVEYmFKWMSKRyzH7D) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [Songs I Swore I'd Never Sing](https://open.spotify.com/album/1GF4Y1duLWnFuLFufy7qXW) | 5:16 | 2025-11-16 |  |

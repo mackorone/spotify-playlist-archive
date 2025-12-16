@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 38987,
+  "num_followers": 38996,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
+        "name": "\u0434\u0435\u0441\u044c \u0442\u0430\u043a \u0434\u0432\u0456\u0447\u0456",
+        "url": "https://open.spotify.com/album/0UKUZpOXurfrbMsjzgbkh2"
+      },
+      "artists": [
+        {
+          "name": "DENOMA",
+          "url": "https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd"
+        },
+        {
+          "name": "Feviane",
+          "url": "https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "\u0434\u0435\u0441\u044c \u0442\u0430\u043a \u0434\u0432\u0456\u0447\u0456",
+      "url": "https://open.spotify.com/track/0y92ecGtqkj26sUMQuKChn"
+    },
+    {
+      "added_at": "2025-12-02 11:28:48",
+      "album": {
         "name": "\u041d\u0435\u043b\u044e\u0431\u043e\u0432",
         "url": "https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 190615,
       "name": "\u041a\u041b\u0418\u0427\u0423",
       "url": "https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc"
-    },
-    {
-      "added_at": "2025-12-02 11:28:48",
-      "album": {
-        "name": "\u0434\u0435\u0441\u044c \u0442\u0430\u043a \u0434\u0432\u0456\u0447\u0456",
-        "url": "https://open.spotify.com/album/0UKUZpOXurfrbMsjzgbkh2"
-      },
-      "artists": [
-        {
-          "name": "DENOMA",
-          "url": "https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd"
-        },
-        {
-          "name": "Feviane",
-          "url": "https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "\u0434\u0435\u0441\u044c \u0442\u0430\u043a \u0434\u0432\u0456\u0447\u0456",
-      "url": "https://open.spotify.com/track/0y92ecGtqkj26sUMQuKChn"
     },
     {
       "added_at": "2025-12-02 11:28:48",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
+        "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
+        "url": "https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm"
+      },
+      "artists": [
+        {
+          "name": "ALISA",
+          "url": "https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc"
+        }
+      ],
+      "duration_ms": 154903,
+      "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
+      "url": "https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy"
+    },
+    {
+      "added_at": "2025-12-02 11:28:48",
+      "album": {
         "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
         "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 205200,
       "name": "\u0434\u0456\u043c",
       "url": "https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF"
-    },
-    {
-      "added_at": "2025-12-02 11:28:48",
-      "album": {
-        "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
-        "url": "https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm"
-      },
-      "artists": [
-        {
-          "name": "ALISA",
-          "url": "https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc"
-        }
-      ],
-      "duration_ms": 154903,
-      "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
-      "url": "https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy"
     },
     {
       "added_at": "2025-12-02 11:28:48",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
-        "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-        "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
+        "name": "\u0432\u0430\u043b\u044c\u0441 \u043f\u0456\u0434 \u0432\u0438\u0431\u0443\u0445\u0438",
+        "url": "https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw"
       },
       "artists": [
         {
-          "name": "To Eternity",
-          "url": "https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q"
-        },
-        {
-          "name": "Tember Blanche",
-          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+          "name": "ENLEO",
+          "url": "https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu"
         }
       ],
-      "duration_ms": 155624,
-      "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
-      "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
+      "duration_ms": 210000,
+      "name": "\u0432\u0430\u043b\u044c\u0441 \u043f\u0456\u0434 \u0432\u0438\u0431\u0443\u0445\u0438",
+      "url": "https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM"
     }
   ],
   "unique_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

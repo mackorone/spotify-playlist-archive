@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-542 songs - 23 hr 23 min
+544 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Do You Remember](https://open.spotify.com/track/68YkWKD2mxQuSplipO1VOO) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Do You Remember](https://open.spotify.com/album/1JEIZBPsDpv1CLE29qdH1b) | 2:07 | 2022-05-13 | 2024-04-04 |
 | [Dorénevant](https://open.spotify.com/track/7lUXTcOSlWXNGN25wj7iNf) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Dorénevant](https://open.spotify.com/album/68K0s9E4y7TKDuKZb5zs2Z) | 2:28 | 2022-08-30 | 2025-04-24 |
 | [Doubt](https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [RISE](https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY) | 1:55 | 2022-06-07 | 2024-02-03 |
-| [Dreamstate](https://open.spotify.com/track/1JPJLajBoTZKxe5ZdF78bq) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Dreamstate](https://open.spotify.com/album/1p0bBnS51FBv5s31l51qo0) | 2:28 | 2025-11-26 |  |
+| [Dreamstate](https://open.spotify.com/track/1JPJLajBoTZKxe5ZdF78bq) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Dreamstate](https://open.spotify.com/album/1p0bBnS51FBv5s31l51qo0) | 2:28 | 2025-11-26 | 2025-12-16 |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2022-04-14 | 2022-05-14 |
 | [Dustsceawung](https://open.spotify.com/track/6nA3Rq6zvadWTW8H9wuoS8) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Dustsceawung](https://open.spotify.com/album/5VEskKPrAs8A43c0Vn6cQ9) | 1:52 | 2022-07-15 | 2024-02-03 |
 | [Déjà Vu](https://open.spotify.com/track/253bPWO4hUm5FTsPFLRUcz) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Déjà Vu](https://open.spotify.com/album/7j4lI0WOi2jUmx6EkLvYF3) | 2:44 | 2022-04-14 | 2022-05-14 |
@@ -191,6 +191,7 @@
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2022-10-26 | 2024-02-03 |
 | [Hinode](https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Hinode](https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ) | 2:31 | 2022-09-13 |  |
 | [Hoffnungsschimmer](https://open.spotify.com/track/0ue7IZFMGtOO5nS5RVA3PY) | [Alexander B\. A\. Pielsticker](https://open.spotify.com/artist/02BcBZ4BVQeRuH6h0RoU8s) | [Hoffnungsschimmer](https://open.spotify.com/album/3cfp1xp0j5dbivPLj3oOWq) | 2:10 | 2024-03-04 | 2025-09-18 |
+| [Home Beyond The Stars](https://open.spotify.com/track/2pwAMyYNW1jLjgnGXRSpzR) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [Home Beyond The Stars](https://open.spotify.com/album/1EkZf87J7ga4GSU5sT9eX1) | 2:21 | 2025-12-15 |  |
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-04-14 | 2022-06-08 |
 | [Hondura](https://open.spotify.com/track/4s8Y11Sn3fP1aC0b2USbU4) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Hondura](https://open.spotify.com/album/2kDUeicWC39j0LfEjJNjvC) | 2:23 | 2023-02-21 |  |
 | [Horizon](https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Horizon](https://open.spotify.com/album/7hmRly9ceFMBZirRQcy8ne) | 2:15 | 2022-04-14 | 2022-05-27 |
@@ -492,6 +493,7 @@
 | [Underwater](https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Underwater](https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E) | 2:02 | 2023-10-24 |  |
 | [Une Danse](https://open.spotify.com/track/3rOhuafK8dRIjf2iDnn6yX) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Une Danse](https://open.spotify.com/album/2NI1xUFgeWBEjbNrjVCsbP) | 3:03 | 2022-04-14 | 2024-02-15 |
 | [Unfinished](https://open.spotify.com/track/5WOo4d8DeMEBPLdIN3sMiX) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Unfinished](https://open.spotify.com/album/5SwuDGKMqebn7tRnrNQPKg) | 2:21 | 2025-01-22 |  |
+| [Unfolding](https://open.spotify.com/track/3PmK16VBFQ1OeGkI5WKk7x) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Unfolding](https://open.spotify.com/album/0JMa5Shoknm9ssHzXCzuJa) | 2:01 | 2025-12-15 |  |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-04-14 | 2024-03-05 |
 | [Valina](https://open.spotify.com/track/33ehnplgv1h0aF6rY5uHfe) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Valina](https://open.spotify.com/album/64CPVdeduyZ7GH9frJz60u) | 2:37 | 2024-02-14 |  |
 | [valse de passage](https://open.spotify.com/track/6P8huUjNxF8I3c4eiqbgy7) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [valse de passage](https://open.spotify.com/album/1hmkduNYa6PJkHZ4lPZNcN) | 2:31 | 2025-11-05 |  |

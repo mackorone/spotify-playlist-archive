@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,829 likes - 45 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,824 likes - 45 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MEER DAN EEN TON](https://open.spotify.com/track/0jZHLdDg4E8n9fV83qKHXE) | [Luckyneverluck](https://open.spotify.com/artist/4a8AyWoGxRRW1MCsXRg6sp) | [MEER DAN EEN TON](https://open.spotify.com/album/2d0rah02Tslfpyj3o9ce2x) | 2:25 |
-| 2 | [De Schuld](https://open.spotify.com/track/6JDJYHbHy5Q8s9LDST5z80) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Guvnor Jor](https://open.spotify.com/artist/0G2kXbD2gapZ0E4Dr9tvzR) | [De Schuld](https://open.spotify.com/album/4fX7e4shGzRwrqA6ZlpVuW) | 2:12 |
-| 3 | [Lean](https://open.spotify.com/track/7qZcrK6ZE9bJAzpbCCThMo) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lean](https://open.spotify.com/album/2WUeSE3wgkgrBqjhmMzcV0) | 1:49 |
-| 4 | [Probleem](https://open.spotify.com/track/3X17kfmIMxS7wdS52mh4Hw) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Probleem](https://open.spotify.com/album/5EhT6yEZVYh8QF70VP1Cl9) | 2:43 |
-| 5 | [Pina](https://open.spotify.com/track/0k1HWigJL5VNgdVhb40DbD) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Pina](https://open.spotify.com/album/4ruwzPvyM7ZxqHBALWcu4j) | 2:14 |
+| 2 | [Pina](https://open.spotify.com/track/0k1HWigJL5VNgdVhb40DbD) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Pina](https://open.spotify.com/album/4ruwzPvyM7ZxqHBALWcu4j) | 2:14 |
+| 3 | [De Schuld](https://open.spotify.com/track/6JDJYHbHy5Q8s9LDST5z80) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Guvnor Jor](https://open.spotify.com/artist/0G2kXbD2gapZ0E4Dr9tvzR) | [De Schuld](https://open.spotify.com/album/4fX7e4shGzRwrqA6ZlpVuW) | 2:12 |
+| 4 | [Lean](https://open.spotify.com/track/7qZcrK6ZE9bJAzpbCCThMo) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lean](https://open.spotify.com/album/2WUeSE3wgkgrBqjhmMzcV0) | 1:49 |
+| 5 | [Probleem](https://open.spotify.com/track/3X17kfmIMxS7wdS52mh4Hw) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Probleem](https://open.spotify.com/album/5EhT6yEZVYh8QF70VP1Cl9) | 2:43 |
 | 6 | [Stapelen](https://open.spotify.com/track/3UEk6AKJ7IikcSSJlW0Y2P) | [Jea](https://open.spotify.com/artist/5or8yHJVELOiVcb4FaraKJ), [Jama MW](https://open.spotify.com/artist/6NaZ5cHB2rJbBB2NU3T9VX), [Boegie](https://open.spotify.com/artist/0prmTItCO5sEXarWXHdwZ4) | [Stapelen](https://open.spotify.com/album/0K6dRcIvYn1eZoYwO6nBYR) | 2:47 |
 | 7 | [Verwacht](https://open.spotify.com/track/0LpKmjuGFroDUysJtKEdPR) | [Stanga](https://open.spotify.com/artist/6cnlzMlMZJtZMKROe8wNwZ), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [Verwacht](https://open.spotify.com/album/62XJ34wwVTKr438KV9oqZc) | 2:26 |
 | 8 | [Hard Times Never Humbled Us](https://open.spotify.com/track/5OjzE7bkdSItwIIuzsZ0LN) | [Memphis Depay](https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo) | [Hard Times Never Humbled Us](https://open.spotify.com/album/50bL1iRb3QEJk8QUv4GMWX) | 2:47 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 44 | [TNAWIES](https://open.spotify.com/track/07zIEXphyaKpjL5J3yLg0X) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [TNAWIES](https://open.spotify.com/album/6R3q06Xa7wrDlk8Hq20HYV) | 1:57 |
 | 45 | [Millie](https://open.spotify.com/track/2MVDfx1jaCm8BGcR4QSMcD) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Millie](https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy) | 2:36 |
 
-Snapshot ID: `AAAAAJTpwfbcETBX2U4Qu0/MaB02rYeZ`
+Snapshot ID: `AAAAAEG2HK1Tw4SdpxYpfrMJzwrgnHcj`

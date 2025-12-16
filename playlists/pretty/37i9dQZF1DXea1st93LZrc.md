@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2025\. Εξώφυλλο: TOQUEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,388 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,406 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-207 songs - 12 hr 28 min
+208 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Leão de Judá • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Leão de Judá • BRAVE Sessions \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 | 2023-08-04 |  |
 | [Luz do Mundo](https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Luz do Mundo](https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW) | 3:13 | 2023-04-15 | 2024-04-20 |
 | [Luz do Mundo](https://open.spotify.com/track/7srf8dPKNtroCHcUoer47G) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Luz do Mundo](https://open.spotify.com/album/3LoeSZMGFSQANRNBSuAJzL) | 3:13 | 2023-12-22 | 2024-04-19 |
-| [Lázaro](https://open.spotify.com/track/7AXlOtlLv7Ty5ZURrDUSgR) | [Jottapê](https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ) | [Lázaro](https://open.spotify.com/album/0FiYmAl3eNisdKUmK3qOea) | 4:25 | 2025-11-30 |  |
+| [Lázaro](https://open.spotify.com/track/7AXlOtlLv7Ty5ZURrDUSgR) | [Jottapê](https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ) | [Lázaro](https://open.spotify.com/album/0FiYmAl3eNisdKUmK3qOea) | 4:25 | 2025-11-30 | 2025-12-16 |
 | [Mais](https://open.spotify.com/track/779Ex6ZFFjTJs4EtTEGamv) | [Keven Be](https://open.spotify.com/artist/4O7qWGPD4cqXCma90NK0vk), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Mais](https://open.spotify.com/album/3eE7CHTzouV35tI3ndrjjO) | 3:33 | 2023-10-06 | 2023-10-21 |
 | [Manuscrito](https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu) | [JARDENYA](https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66) | [Manuscrito](https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB) | 3:43 | 2022-08-05 | 2023-04-22 |
 | [Me Alcançou \(Live Remix\)](https://open.spotify.com/track/0LG3JaVDTAtQwVLwaamxeL) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k) | [Me Alcançou \(Live Remix\)](https://open.spotify.com/album/4YYTCbKB8jkzJfDCuvFBgj) | 5:08 | 2023-07-14 | 2023-09-02 |
@@ -204,6 +204,7 @@
 | [Um Conselho](https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Um Conselho](https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ) | 2:27 | 2025-06-28 |  |
 | [Um Novo Lugar](https://open.spotify.com/track/1CFcWP4avTVNTJyS0v1nuC) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Um Novo Lugar](https://open.spotify.com/album/25xop1SdYHlViPxywAyWTP) | 3:01 | 2022-08-05 | 2023-05-06 |
 | [Vai Ser Melhor](https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy) | [Dani Ferber](https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH) | [Vai Ser Melhor](https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL) | 2:57 | 2023-02-25 | 2023-07-22 |
+| [valor real](https://open.spotify.com/track/2EJmDGZX1cS46akweJKMRL) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [VALOR \(BLACK EDITION\)](https://open.spotify.com/album/08m2j7nLiW2cNxdK4n4Mmh) | 3:51 | 2025-12-15 |  |
 | [Vem Com Teu Espírito](https://open.spotify.com/track/5eLUik7N6bsWvQ2rKPA7xz) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Vem Com Teu Espírito](https://open.spotify.com/album/2Zci8Uw9pwTctGoaorDbVj) | 2:48 | 2022-08-05 | 2022-10-08 |
 | [Vida Leve](https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Acústico Talita Barreto](https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K) | 2:16 | 2022-08-05 | 2024-08-31 |
 | [Vida Leve](https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Vida Leve](https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl) | 2:56 | 2022-08-05 | 2025-02-08 |

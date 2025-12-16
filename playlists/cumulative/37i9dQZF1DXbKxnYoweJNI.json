@@ -23475,6 +23475,24 @@
     },
     {
       "album": {
+        "name": "\u4e0b\u5929\u5802",
+        "url": "https://open.spotify.com/album/6AzTOaU2dExNDbJrMgPQY8"
+      },
+      "artists": [
+        {
+          "name": "PALLAS",
+          "url": "https://open.spotify.com/artist/31y2c0Ioh42rsNqIpu3PN3"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238726,
+      "name": "\u4e0b\u5929\u5802",
+      "url": "https://open.spotify.com/track/0XLn3HZLmrBlDrRloVDmoh"
+    },
+    {
+      "album": {
         "name": "\u4e0b\u5f26\u6708",
         "url": "https://open.spotify.com/album/7JMKICoX1KaephZ8jwFLqM"
       },
@@ -66222,8 +66240,8 @@
       },
       "artists": [
         {
-          "name": "Justin Su",
-          "url": "https://open.spotify.com/artist/7rnyYNf7mNZjQIn83qvrlm"
+          "name": "\u8607\u660e\u6df5",
+          "url": "https://open.spotify.com/artist/2eBf7OQG2b0uSFgBwBIDUN"
         },
         {
           "name": "Soft Lipa",

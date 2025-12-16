@@ -4,7 +4,7 @@
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-108 songs - 10 hr 41 min
+109 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [3 Preludes: No\. 3 in E\-Flat Minor: Allegro ben ritmato e deciso](https://open.spotify.com/track/3zaylAL8Xig8oSSWzc4PcI) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Leon Bates](https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR) | [Gershwin: 6 Songs / Corea: Children's Songs](https://open.spotify.com/album/2k5NSr068yr38S7ETCtnbz) | 1:18 | 2022-08-05 |  |
 | [3 Preludes: No\. 3 in E\-Flat Minor: Allegro ben ritmato e deciso](https://open.spotify.com/track/6JElerdlx6iQFMwhb4hpRA) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Leon Bates](https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR) | [Gershwin \(The Best Of\)](https://open.spotify.com/album/0xmhkOmEQOo9VXG0B10jKO) | 1:18 | 2022-08-05 | 2022-11-14 |
 | [3 Preludes: Nr 1 ur Tre preludium](https://open.spotify.com/track/1monPZCTt6u6hsC8snXPOI) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Leon Bates](https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR) | [Musiken från Molanders avsnitt 1](https://open.spotify.com/album/6WzJgbhanxMpYYMAvBb2qc) | 1:26 | 2022-08-05 | 2022-11-14 |
+| [7 Virtuoso Etudes after Gershwin: VI\. I Got Rhythm](https://open.spotify.com/track/7dTWn6EnHD4zMtQI2gCOdh) | [Earl Wild](https://open.spotify.com/artist/12Fk4SuKXPe97FaSVD6WHK), [Claire Huangci](https://open.spotify.com/artist/6iFs9LvpM2UzZPmRtOrkLf) | [Wild: 7 Virtuoso Etudes after Gershwin: VI\. I Got Rhythm](https://open.spotify.com/album/5Td4Cp9Xsw3z720USgtNBy) | 2:11 | 2025-12-15 |  |
 | [7 Virtuoso Etudes After Gershwin: VI\. I Got Rhythm](https://open.spotify.com/track/1MCCJo3HPgOZkGAd2BmTuZ) | [Earl Wild](https://open.spotify.com/artist/12Fk4SuKXPe97FaSVD6WHK), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Wild: 7 Virtuoso Etudes: 1\. I Got Rhythm \(after G\. Gershwin\)](https://open.spotify.com/album/1i1I1Su34eDYOoKdT5x0hF) | 2:12 | 2022-08-05 |  |
 | [A Damsel In Distress: A Foggy Day](https://open.spotify.com/track/25D61jSJbWDsCVXxRvTk0Z) | [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su), [Juray Bartos](https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin For Trumpet \(arr\. J\. Bartos and P\. Breiner\)](https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw) | 8:30 | 2022-08-05 | 2024-04-19 |
 | [A Damsel in Distress: A Foggy Day \(Arr\. P\. Breiner\)](https://open.spotify.com/track/60Ivc8tpIsZhPgeP9CJhqt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Juraj Bartoš](https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Gershwin for Trumpet](https://open.spotify.com/album/0pdegcimOFi10jS49gi458) | 8:30 | 2022-08-05 |  |

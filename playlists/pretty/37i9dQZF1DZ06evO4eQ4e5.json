@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 85692,
+  "num_followers": 85694,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAACykSyZMna7HiiBbM82iUhd",
+  "snapshot_id": "aT3+AAAAAADHW3UiDtB75M7uO3851nkC",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "Frente a Frente",
-      "url": "https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 255186,
       "name": "El Amor Acaba (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/4IYvp8uYQ9Kgt1pW5YEwUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Frente a Frente",
+      "url": "https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pasiones de Cabaret",
+        "url": "https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 238030,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Nos Dieron Las Diez",
         "url": "https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 314947,
       "name": "Y Nos Dieron Las Diez",
       "url": "https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pasiones de Cabaret",
-        "url": "https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 238030,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY"
     },
     {
       "added_at": null,

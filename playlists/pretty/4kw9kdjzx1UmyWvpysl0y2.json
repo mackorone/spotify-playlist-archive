@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124663,
+  "num_followers": 124661,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU7dXePpQfVtBsJuro+HbSiuFlvlVz",
+  "snapshot_id": "AAAU7sqTQ0slmSk07AIJjsbG1DrdH9rE",
   "tracks": [
+    {
+      "added_at": "2025-12-15 14:56:26",
+      "album": {
+        "name": "Droid",
+        "url": "https://open.spotify.com/album/0JJvYBZOCxvBJCdTKuoD3i"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Droid",
+      "url": "https://open.spotify.com/track/1mPhGJJd1uH372y2UATIJo"
+    },
     {
       "added_at": "2025-12-12 14:46:41",
       "album": {

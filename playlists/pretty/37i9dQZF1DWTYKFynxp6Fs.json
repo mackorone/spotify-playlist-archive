@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Aashaan",
-  "num_followers": 580233,
+  "num_followers": 580550,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT",
+  "snapshot_id": "AAAAACR1m0Ubigp6NCYFWqgl1cKc32cZ",
   "tracks": [
     {
       "added_at": "2025-12-01 06:53:26",
@@ -31,6 +31,50 @@
       "duration_ms": 284210,
       "name": "Kunjikkavil Meghame (From \"Aashaan\")",
       "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
+    },
+    {
+      "added_at": "2025-12-15 08:08:03",
+      "album": {
+        "name": "Kalamkaval (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21E9cgkXxDjvEZKm2P0Y8Z"
+      },
+      "artists": [
+        {
+          "name": "Mujeeb Majeed",
+          "url": "https://open.spotify.com/artist/6Y4L2ghGK0aJVE8Ac1C3IC"
+        },
+        {
+          "name": "Sindhu Delson",
+          "url": "https://open.spotify.com/artist/2ZkNnGkbQR38etSmJnkvnP"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Nilaa Kaayum",
+      "url": "https://open.spotify.com/track/26U2HSs8nnyGduISjluDnZ"
+    },
+    {
+      "added_at": "2025-12-15 08:17:18",
+      "album": {
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/7oBbUhYdnKOX1MuYKw24Oi"
+      },
+      "artists": [
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+        },
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        }
+      ],
+      "duration_ms": 234958,
+      "name": "Anjanamani (From \"Innocent\")",
+      "url": "https://open.spotify.com/track/5TIiywnWnwXqBOM1waHgQ2"
     },
     {
       "added_at": "2025-12-02 07:18:59",
@@ -1061,30 +1105,6 @@
       "url": "https://open.spotify.com/track/2mFXx4D49RdesixfLSsoU0"
     },
     {
-      "added_at": "2024-04-29 10:33:00",
-      "album": {
-        "name": "Mathapithakkale (From \"Aavesham\")",
-        "url": "https://open.spotify.com/album/0iTW4gBhHqRbN5ins6Nhkf"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Malayali Monkeys",
-          "url": "https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI"
-        },
-        {
-          "name": "MC Couper",
-          "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
-        }
-      ],
-      "duration_ms": 209342,
-      "name": "Mathapithakkale - From \"Aavesham\"",
-      "url": "https://open.spotify.com/track/4WaCnPpbycUQQiXBDxH7zx"
-    },
-    {
       "added_at": "2024-10-07 11:42:17",
       "album": {
         "name": "Kondal Vedan Song (From \"Kondal\")",
@@ -1151,26 +1171,6 @@
       "duration_ms": 340977,
       "name": "Sundaree Onnu Parayoo - Version, 1",
       "url": "https://open.spotify.com/track/1HELfOdMwHZRwjyekjrrXx"
-    },
-    {
-      "added_at": "2024-02-17 08:31:37",
-      "album": {
-        "name": "Manjummel Boys (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
-        }
-      ],
-      "duration_ms": 240327,
-      "name": "Kuthanthram",
-      "url": "https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV"
     }
   ],
   "unique_name": "Trending Now Malayalam",

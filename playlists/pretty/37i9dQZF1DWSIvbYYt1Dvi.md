@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > melhor ser um guerreiro num jardim do que um jardineiro numa guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,635 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,562 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Quanto vale o show memo?](https://open.spotify.com/track/60C5e5py3Ab2h21I8a63n9) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 3:17 |
+| 1 | [Quanto vale o show memo?](https://open.spotify.com/track/60C5e5py3Ab2h21I8a63n9) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 3:17 |
 | 2 | [Dharma](https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:18 |
 | 3 | [Papel de Parede](https://open.spotify.com/track/5cxRsPiltsPPuD1TWeKvIM) | [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Papel de Parede](https://open.spotify.com/album/6QIOkiXTwXxuTmwwE8ryBB) | 3:09 |
 | 4 | [Canto Alto](https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 3:03 |

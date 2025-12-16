@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Ginger Tea",
+        "url": "https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63866,
+      "name": "Tian Mi Mi (Your Sweet Smile)",
+      "url": "https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ"
+    },
+    {
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk"
       },

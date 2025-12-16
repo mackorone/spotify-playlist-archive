@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Martin Smith",
-  "num_followers": 386710,
+  "num_followers": 386804,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-12-12 06:22:21",
       "album": {
+        "name": "Run To The Father",
+        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 393200,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC"
+    },
+    {
+      "added_at": "2025-12-12 06:22:21",
+      "album": {
         "name": "Bright Faith Bold Future",
         "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 250626,
       "name": "At The Cross (Love Ran Red)",
       "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
-    },
-    {
-      "added_at": "2025-12-12 06:22:21",
-      "album": {
-        "name": "Run To The Father",
-        "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 393200,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/5KXVeVXTMuCJnkK8YSC3FC"
     },
     {
       "added_at": "2025-12-12 06:22:21",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-12-12 06:22:21",
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 267906,
-      "name": "Whom Shall I Fear (God Of Angel Armies)",
-      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
-    },
-    {
-      "added_at": "2025-12-12 06:22:21",
-      "album": {
         "name": "If We're Honest (Deluxe Version)",
         "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 302577,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
+    },
+    {
+      "added_at": "2025-12-12 06:22:21",
+      "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Whom Shall I Fear (God Of Angel Armies)",
+      "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"
     },
     {
       "added_at": "2025-12-12 06:22:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-12 06:22:21",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
-    },
-    {
-      "added_at": "2025-12-12 06:22:21",
-      "album": {
         "name": "Kari Jobe",
         "url": "https://open.spotify.com/album/0aJECiCK8ZgWkxYM95rwYf"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 361386,
       "name": "Revelation Song",
       "url": "https://open.spotify.com/track/1hTN6YhI5Tb9dSTpRQZqDC"
+    },
+    {
+      "added_at": "2025-12-12 06:22:21",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2025-12-12 06:22:21",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-12-12 06:22:21",
       "album": {
-        "name": "Protector (Live)",
-        "url": "https://open.spotify.com/album/4lXyyq2joL8sk6H82j9Azu"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 408063,
-      "name": "Protector - Live",
-      "url": "https://open.spotify.com/track/458RO9dmBSI8dNIDypcvIV"
-    },
-    {
-      "added_at": "2025-12-12 06:22:21",
-      "album": {
         "name": "Here I Am To Worship",
         "url": "https://open.spotify.com/album/74ObUKF38uL86v2uAnSy1f"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 315306,
       "name": "Here I Am To Worship",
       "url": "https://open.spotify.com/track/0au5u99zsQ6yunHfywDX8a"
+    },
+    {
+      "added_at": "2025-12-12 06:22:21",
+      "album": {
+        "name": "Protector (Live)",
+        "url": "https://open.spotify.com/album/4lXyyq2joL8sk6H82j9Azu"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 408063,
+      "name": "Protector - Live",
+      "url": "https://open.spotify.com/track/458RO9dmBSI8dNIDypcvIV"
     },
     {
       "added_at": "2025-12-12 06:22:21",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-12-12 06:22:21",
       "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 248346,
+      "name": "El-Shaddai",
+      "url": "https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu"
+    },
+    {
+      "added_at": "2025-12-12 06:22:21",
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 411000,
       "name": "So Will I (100 Billion X)",
       "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2025-12-12 06:22:21",
-      "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 248346,
-      "name": "El-Shaddai",
-      "url": "https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu"
     },
     {
       "added_at": "2025-12-12 06:22:21",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-12-12 06:22:21",
       "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
+    },
+    {
+      "added_at": "2025-12-12 06:22:21",
+      "album": {
         "name": "All Of The Above",
         "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2025-12-12 06:22:21",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
-    },
-    {
-      "added_at": "2025-12-12 06:22:21",
-      "album": {
         "name": "Church Songs",
         "url": "https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 251546,
       "name": "Lamb of God",
       "url": "https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS"
-    },
-    {
-      "added_at": "2025-12-12 06:22:21",
-      "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 294813,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
     },
     {
       "added_at": "2025-12-12 06:22:21",
@@ -1723,22 +1707,18 @@
     {
       "added_at": "2025-12-12 06:22:21",
       "album": {
-        "name": "All Of The Above",
-        "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 330360,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
     },
     {
       "added_at": "2025-12-12 06:22:21",
@@ -1763,6 +1743,22 @@
       "duration_ms": 253893,
       "name": "Christ Our Hope In Life And Death",
       "url": "https://open.spotify.com/track/2A8CedURGD092Wp2FfTnAC"
+    },
+    {
+      "added_at": "2025-12-12 06:22:21",
+      "album": {
+        "name": "Faithful God",
+        "url": "https://open.spotify.com/album/3DytmYZJbUkgCtRyBtkpf7"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Faithful God",
+      "url": "https://open.spotify.com/track/5YcgWiIj7woRmQQMXDjQ7H"
     }
   ],
   "unique_name": "Worship Classics",

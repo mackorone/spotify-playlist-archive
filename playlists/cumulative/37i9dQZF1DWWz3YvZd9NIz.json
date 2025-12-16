@@ -527,6 +527,32 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        },
+        {
+          "name": "GLDY LX",
+          "url": "https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227254,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F"
+    },
+    {
+      "album": {
         "name": "Barbie Girl RMX",
         "url": "https://open.spotify.com/album/5ZgTuCjlxomuHqtRnFt9OR"
       },
@@ -556,7 +582,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 141426,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B"
@@ -1412,7 +1438,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 150348,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP"
@@ -1745,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Hardstyle Christmas 2025",
+        "url": "https://open.spotify.com/album/7GFb2eKOMPAgUPL6s2YAmz"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133875,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/5UBhnqAMZ6QCjPmGLQTWev"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/3tFbOsLArvDC4rStTFSoQ3"
       },
@@ -2012,7 +2056,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 164129,
       "name": "Gimme Bass",
       "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
@@ -3064,6 +3108,28 @@
       "duration_ms": 266668,
       "name": "Lambada (Your Love)",
       "url": "https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj"
+    },
+    {
+      "album": {
+        "name": "Hardstyle Christmas 2025",
+        "url": "https://open.spotify.com/album/7GFb2eKOMPAgUPL6s2YAmz"
+      },
+      "artists": [
+        {
+          "name": "Hardstyle Christmas",
+          "url": "https://open.spotify.com/artist/044aEkYdxFaUyQ6mILTGkl"
+        },
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114187,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/0i1qowFhYd1AzCPAvvEJZg"
     },
     {
       "album": {
@@ -4310,7 +4376,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
@@ -5342,7 +5408,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 192000,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"

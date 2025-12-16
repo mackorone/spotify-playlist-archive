@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, MIK's Reaction, Nemrud and more",
+  "description": "With AlligatorX, MIK's Reaction, Organoclorados and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 311571,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/6eIhXvAsg6b1d4Gu6nhGzt"
+    },
+    {
+      "album": {
+        "name": "Si Este Es El Final...",
+        "url": "https://open.spotify.com/album/2rGzZ4OcszPXkosjc3inhR"
+      },
+      "artists": [
+        {
+          "name": "Viernes Verde",
+          "url": "https://open.spotify.com/artist/37ATQx0FHilwEs303kbplC"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Ahi Va",
+      "url": "https://open.spotify.com/track/6kXPAzZnd8adv00Ab20lMY"
     },
     {
       "album": {
@@ -182,7 +200,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -488,7 +506,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 280241,
       "name": "Creeper",
       "url": "https://open.spotify.com/track/2izds2ul4GC41MEGvpxjss"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -842,7 +860,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 232106,
       "name": "Eleganse",
       "url": "https://open.spotify.com/track/5d4j4M3kFFGodam9OJP8CA"
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "Ez a gyertya \u00c9rted \u00e9g",
       "url": "https://open.spotify.com/track/7siRurfSaIm2WPd5eRgWLR"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 285326,
       "name": "Hierarchy Error",
       "url": "https://open.spotify.com/track/385v2ocXmuMJFsNj3xvHsV"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 126666,
       "name": "Hub of the World",
       "url": "https://open.spotify.com/track/3m0KAmTCmn0iINqth36iRx"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 209440,
       "name": "I Don't Believe You",
       "url": "https://open.spotify.com/track/1qIAryqheJlh9vh5rgBOPp"
@@ -1563,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/0IM2TGIltGSIQAzMiVIwMr"
+      },
+      "artists": [
+        {
+          "name": "Sindre Nedland",
+          "url": "https://open.spotify.com/artist/3gLir4XSjBulItztFYYGm6"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266506,
+      "name": "Imposter's Dance",
+      "url": "https://open.spotify.com/track/7lH3ksZ0uu1as57zkyvmlR"
+    },
+    {
+      "album": {
         "name": "IO",
         "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
       },
@@ -1592,7 +1628,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -1776,7 +1812,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/2nWIIAhtejQ3dr5mR7WHWg"
@@ -1838,10 +1874,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
+    },
+    {
+      "album": {
+        "name": "Little Respect (Rock Version)",
+        "url": "https://open.spotify.com/album/1wdYM3szLhxpnQrAU1x8aB"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Little Respect - Rock Version",
+      "url": "https://open.spotify.com/track/2COYCUPa4gndUQq5Afju5R"
     },
     {
       "album": {
@@ -1874,7 +1928,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 218000,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/1XFM7E0AQ1SJSBipu9wgB8"
@@ -1892,7 +1946,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -1946,7 +2000,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -2848,7 +2902,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 278875,
       "name": "Something's Changed",
       "url": "https://open.spotify.com/track/4wgtOHKPIb2ZtkuZ9btuh8"
@@ -3018,7 +3072,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -3108,7 +3162,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 254185,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0I1pjXfxBby3nA7zz3lD0t"
@@ -3148,7 +3202,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 215725,
       "name": "Terms and Conditions Apply",
       "url": "https://open.spotify.com/track/0sRxAObesclcIixu23x3Sy"
@@ -3238,7 +3292,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 255435,
       "name": "The Perfect Clown",
       "url": "https://open.spotify.com/track/7xTywMmLuhj3hgB93jdVe3"
@@ -3336,7 +3390,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -3412,7 +3466,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 397584,
       "name": "Time for a New Dream (feat.) Bob Balch (feat. Bob Balch)",
       "url": "https://open.spotify.com/track/03zNaFmJ5gsxjX20rtvkZm"
@@ -3826,7 +3880,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 170000,
       "name": "Your way only looks better from your side",
       "url": "https://open.spotify.com/track/0rSnsLri6UiGnugrDWRD9S"

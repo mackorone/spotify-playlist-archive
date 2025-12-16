@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-407 songs - 23 hr 36 min
+409 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Mr\. Loverman](https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:36 | 2023-12-17 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2021-07-04 |  |
 | [My September](https://open.spotify.com/track/79YWz8oV1RZxdi2UVpbrB7) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 4:40 | 2024-08-02 |  |
+| [Necro no Hanayome](https://open.spotify.com/track/228q0rCvDuHo7Mdb1i5z1O) | [KANON69](https://open.spotify.com/artist/5aKVkaAP4dYG7zQeM4z25h) | [RUNWAY](https://open.spotify.com/album/4fYSc5hRJ9VuCASYHPvmns) | 4:05 | 2025-12-16 |  |
 | [Nemurasareta Lineage](https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Nemurasareta Lineage](https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8) | 4:28 | 2024-06-17 |  |
 | [Nightmare Restaurant](https://open.spotify.com/track/2QjWqcAy7BaBsYBYs9ozZG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Nightmare Restaurant](https://open.spotify.com/album/4Nwqel1zFJwAFRHXVd1nZK) | 3:00 | 2025-11-26 |  |
 | [Nonsense Bungaku](https://open.spotify.com/track/4PaZP3ZPHCl6IpFUSuY1Rn) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:23 | 2023-02-25 |  |
@@ -218,6 +219,7 @@
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-09-14 |  |
 | [Spotlight \(feat\. WaMi\)](https://open.spotify.com/track/2GwDA6KvANMLYETLsBj9SE) | [MOTTO MUSIC](https://open.spotify.com/artist/69eIvKHcfYigWsgnBSv1jW), [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks), [WaMi](https://open.spotify.com/artist/1qanQeBBRpAXORMg7BdCol) | [Sweets.](https://open.spotify.com/album/2AoDCCx6szbKJp8yrZPzdL) | 4:04 | 2024-08-12 |  |
 | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv) | 1:41 | 2023-11-29 |  |
+| [Still, Still, Still\. \- IVUDOT version](https://open.spotify.com/track/2AsMepFqeVigg7Fbp6clXx) | [BOKUTACHI WA YONAYONA](https://open.spotify.com/artist/3k53XmqUT3nfyRSNjM6dtL) | [Still, Still, Still\. \(IVUDOT version\)](https://open.spotify.com/album/1B6SNGzBOdQuNBw8AmTZKV) | 2:18 | 2025-12-16 |  |
 | [suicide skip](https://open.spotify.com/track/4V1gPkJC5aOgSXuMOfb7n6) | [Machina](https://open.spotify.com/artist/75wt76r0r9Ps4vqqfEdxRA) | [suicide skip](https://open.spotify.com/album/2WT8m8OFOusmxDrFmOOmS4) | 3:22 | 2025-09-25 |  |
 | [suima](https://open.spotify.com/track/3F16pHyLskVyuAhZjyo3hm) | [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD), [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [suima](https://open.spotify.com/album/2CVKFYk9DuvRqMyYTd0gQV) | 3:10 | 2024-01-04 |  |
 | [Take a Hint](https://open.spotify.com/track/7H881krNfbDK6IgOp3mApQ) | [Nightcore Reality](https://open.spotify.com/artist/50YUlSM9xB8BSdZC0EKk9Z) | [Take a Hint](https://open.spotify.com/album/1pbidJl6at7SkgrWJQ8p4j) | 2:10 | 2022-08-29 |  |

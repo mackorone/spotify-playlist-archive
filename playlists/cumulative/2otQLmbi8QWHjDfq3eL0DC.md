@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md) - cumulative - [plain](/playlists/plain/2otQLmbi8QWHjDfq3eL0DC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2otQLmbi8QWHjDfq3eL0DC)
 
-### [HOUSE MUSIC 2025 🪩 100 BEST DANCE HITS 2025](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
+### [HOUSE MUSIC 2026 🪩 100 BEST DANCE HITS 2026](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> House Music 2025 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2025 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
+> House Music 2026 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2026 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
 437 songs - 21 hr 44 min
 
@@ -309,7 +309,7 @@
 | [Rainbow Road](https://open.spotify.com/track/5PaHD0fBcbOQvlq24D293B) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Rainbow Road / Bubble Yum](https://open.spotify.com/album/7MEor9X5o0deRWenraIpyJ) | 3:25 | 2025-10-03 | 2025-11-22 |
 | [Real Love](https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Real Love](https://open.spotify.com/album/6XU17Ta3KWa045AfQV0mLM) | 2:53 | 2023-11-17 | 2025-11-22 |
 | [Reason](https://open.spotify.com/track/6f1Zxmu7RduHlYmRjjVMAo) | [Toyboy & Robin](https://open.spotify.com/artist/5vJKpAzRCVrkjgTYKy1fDG) | [Reason](https://open.spotify.com/album/3NG60sV7y2HQEtJB2ZJVvC) | 2:31 | 2024-02-09 | 2025-11-22 |
-| [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-05 |  |
+| [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-05 |  |
 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-11-03 | 2025-11-22 |
 | [Rodeo \- Alle Farben Remix](https://open.spotify.com/track/4Vg274edGbGkmpbrj7zhkG) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Rodeo \(Alle Farben Remix\)](https://open.spotify.com/album/4fpTsguedJ1S8CSGms6p3h) | 2:20 | 2023-12-11 | 2025-10-11 |
 | [Run](https://open.spotify.com/track/4bczCp8ojdY0R4EpCaqkfQ) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Run](https://open.spotify.com/album/5sgFW61e5DyiZFVWWh3xFQ) | 2:47 | 2024-01-05 | 2025-11-22 |

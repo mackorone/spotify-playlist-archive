@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Avatar - The Final Incarnation -",
+        "url": "https://open.spotify.com/album/2m2b32krMNh0QJDoHpbdU6"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320724,
+      "name": "Avatar - The Final Incarnation -",
+      "url": "https://open.spotify.com/track/3pVsVG4BRX4orlvLpL42rj"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
       },
@@ -8478,7 +8496,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 242146,
       "name": "Queen of Shadow (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
@@ -8602,6 +8620,24 @@
       "duration_ms": 154972,
       "name": "Raptor Squad Attack",
       "url": "https://open.spotify.com/track/2R69sY2isStlfXbbhfZxRP"
+    },
+    {
+      "album": {
+        "name": "Ravens",
+        "url": "https://open.spotify.com/album/2wd3hz95Ly22wGbuh3stct"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223632,
+      "name": "Ravens",
+      "url": "https://open.spotify.com/track/7DBF159mGFVoZZQw2SYHKJ"
     },
     {
       "album": {
@@ -9042,7 +9078,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 192394,
       "name": "Rising High",
       "url": "https://open.spotify.com/track/61seLcHUDSr6ysOCmeTrQr"

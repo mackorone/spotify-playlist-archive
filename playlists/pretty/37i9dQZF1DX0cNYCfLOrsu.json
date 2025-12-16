@@ -1,6 +1,6 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Shenseea",
-  "num_followers": 57536,
+  "num_followers": 57638,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-08-08 10:37:08",
       "album": {
+        "name": "Foreplay",
+        "url": "https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 166159,
+      "name": "Foreplay",
+      "url": "https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB"
+    },
+    {
+      "added_at": "2025-08-08 10:37:08",
+      "album": {
         "name": "Whine & Kotch",
         "url": "https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 217200,
       "name": "Whine & Kotch",
       "url": "https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv"
-    },
-    {
-      "added_at": "2025-08-08 10:37:08",
-      "album": {
-        "name": "Foreplay",
-        "url": "https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 166159,
-      "name": "Foreplay",
-      "url": "https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB"
     },
     {
       "added_at": "2025-08-08 10:37:08",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-08-08 10:37:08",
       "album": {
+        "name": "Shen Yeng Anthem",
+        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Shen Yeng Anthem",
+      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
+    },
+    {
+      "added_at": "2025-08-08 10:37:08",
+      "album": {
         "name": "Liquid Sunshine Riddim",
         "url": "https://open.spotify.com/album/0szSNcsmxpS4FhwVuuJkf8"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 135882,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/36t9rgshEge4LCzhHKioFQ"
-    },
-    {
-      "added_at": "2025-08-08 10:37:08",
-      "album": {
-        "name": "Shen Yeng Anthem",
-        "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Shen Yeng Anthem",
-      "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
     },
     {
       "added_at": "2025-08-08 10:37:08",
@@ -407,26 +407,6 @@
     {
       "added_at": "2025-08-08 10:37:08",
       "album": {
-        "name": "Best Of (collector's Edition)",
-        "url": "https://open.spotify.com/album/43leIoAGMe8wnHSpid198y"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Chevelle Franklyn",
-          "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Dancehall Queen (feat. Chevelle Franklyn)",
-      "url": "https://open.spotify.com/track/6LGTXFy9KNQeBjUHT9fPFh"
-    },
-    {
-      "added_at": "2025-08-08 10:37:08",
-      "album": {
         "name": "Lighter (with Tarrus Riley & Rvssian)",
         "url": "https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 124515,
       "name": "Lighter (with Tarrus Riley & Rvssian)",
       "url": "https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg"
+    },
+    {
+      "added_at": "2025-08-08 10:37:08",
+      "album": {
+        "name": "Best Of (collector's Edition)",
+        "url": "https://open.spotify.com/album/43leIoAGMe8wnHSpid198y"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Chevelle Franklyn",
+          "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Dancehall Queen (feat. Chevelle Franklyn)",
+      "url": "https://open.spotify.com/track/6LGTXFy9KNQeBjUHT9fPFh"
     },
     {
       "added_at": "2025-08-08 10:37:08",
@@ -507,30 +507,6 @@
     {
       "added_at": "2025-08-08 10:37:08",
       "album": {
-        "name": "Open The Door",
-        "url": "https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Govana",
-          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
-        },
-        {
-          "name": "Dj Papis",
-          "url": "https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP"
-        }
-      ],
-      "duration_ms": 223600,
-      "name": "Open The Door",
-      "url": "https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5"
-    },
-    {
-      "added_at": "2025-08-08 10:37:08",
-      "album": {
         "name": "Hard Drive",
         "url": "https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 168751,
       "name": "Hard Drive",
       "url": "https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1"
+    },
+    {
+      "added_at": "2025-08-08 10:37:08",
+      "album": {
+        "name": "Open The Door",
+        "url": "https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Govana",
+          "url": "https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39"
+        },
+        {
+          "name": "Dj Papis",
+          "url": "https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP"
+        }
+      ],
+      "duration_ms": 223600,
+      "name": "Open The Door",
+      "url": "https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5"
     },
     {
       "added_at": "2025-08-08 10:37:08",

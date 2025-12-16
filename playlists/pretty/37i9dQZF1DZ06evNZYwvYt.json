@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19500,
+  "num_followers": 19503,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAACdBQtvX6WTz75RwOh3DpbZ",
+  "snapshot_id": "aT3+AAAAAABiZyTgXtPaben6LpWg8B/A",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Me Vuelves a Herir",
-      "url": "https://open.spotify.com/track/3H7Esis6J2CY9pqa7VpKkd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NUNCA NUNCA",
         "url": "https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 281142,
       "name": "Nunca Nunca",
       "url": "https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Me Vuelves a Herir",
+      "url": "https://open.spotify.com/track/3H7Esis6J2CY9pqa7VpKkd"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
+        "name": "Besos de Mentira",
+        "url": "https://open.spotify.com/album/5ljNvqbdWphhOe9BnRO9Yx"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 233480,
-      "name": "Quiero hacerte feliz",
-      "url": "https://open.spotify.com/track/3dDnyfBRSOpwPCXD6xSits"
+      "duration_ms": 258415,
+      "name": "Besos de Mentira",
+      "url": "https://open.spotify.com/track/3nBTkjrzVEgalBfEuptN3e"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos de Mentira",
-        "url": "https://open.spotify.com/album/5ljNvqbdWphhOe9BnRO9Yx"
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 258415,
-      "name": "Besos de Mentira",
-      "url": "https://open.spotify.com/track/3nBTkjrzVEgalBfEuptN3e"
+      "duration_ms": 233480,
+      "name": "Quiero hacerte feliz",
+      "url": "https://open.spotify.com/track/3dDnyfBRSOpwPCXD6xSits"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 184571,
-      "name": "Cuando la vida se vuelve real",
-      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
+      "duration_ms": 287714,
+      "name": "Piedras de fuego",
+      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 287714,
-      "name": "Piedras de fuego",
-      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
+      "duration_ms": 184571,
+      "name": "Cuando la vida se vuelve real",
+      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 263880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
+      "duration_ms": 209200,
+      "name": "Esfumar",
+      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Esfumar",
-      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
+      "duration_ms": 263880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "No Me Atrevo a Preguntar",
-      "url": "https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morder",
         "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 232653,
       "name": "Extra\u00f1arte",
       "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "No Me Atrevo a Preguntar",
+      "url": "https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Bueno De Morir De Amor",
-        "url": "https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Lo Bueno De Morir De Amor",
-      "url": "https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morder",
         "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 218786,
       "name": "Asfixiar",
       "url": "https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Bueno De Morir De Amor",
+        "url": "https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Lo Bueno De Morir De Amor",
+      "url": "https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL"
     },
     {
       "added_at": null,

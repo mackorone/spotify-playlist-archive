@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,556 likes - 296 songs - 16 hr 11 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,577 likes - 312 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,5 +304,21 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 294 | [So high](https://open.spotify.com/track/0VqDc00khQM0Ank1hBXRq0) | [D 1](https://open.spotify.com/artist/71iEBzFIwsBxIwrCqFncYA), [NewEra Sounds](https://open.spotify.com/artist/5Xo2h5aCyrlE0vSiHg7LlD) | [So high](https://open.spotify.com/album/3rQZJGk8rtITdl37FWZdXr) | 1:51 |
 | 295 | [Bubblegum](https://open.spotify.com/track/0RB5OUuWwIibA7DbdWzILQ) | [TIANA](https://open.spotify.com/artist/5jLqb9oZDyS0lJFv6XOtWe) | [Bubblegum](https://open.spotify.com/album/0vLjgfJJoFptofySc2BkGU) | 3:08 |
 | 296 | [Soleil Couchant](https://open.spotify.com/track/5mmzh2zj74aDp1udbL6k2E) | [Waxstar](https://open.spotify.com/artist/5SwgOzP6r2vlpGuQeoVws0) | [Early Frequencies 5](https://open.spotify.com/album/5KzWy7euLdjPf5txSEfBx4) | 3:38 |
+| 297 | [You Know Me Better](https://open.spotify.com/track/0CSCWSfEkqAX9usAalYpgd) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [You Know Me Better](https://open.spotify.com/album/0xhG5RWvNiAug8vRZZKfHv) | 2:03 |
+| 298 | [I'm a Sinner](https://open.spotify.com/track/4tyq7TdJIQL0FrQLH7fAX3) | [Even Y](https://open.spotify.com/artist/2LEvhFJcAneAcY6SWXDIBk) | [I'm a Sinner](https://open.spotify.com/album/5jF3PH6DeFsDseDRAibkD9) | 2:04 |
+| 299 | [Nostalgia](https://open.spotify.com/track/0b2mrLjNxBfCq2hl97Yb4a) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Detached](https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC) | 3:15 |
+| 300 | [Butterflies](https://open.spotify.com/track/5BPDlnpkztS7PElG4FFxhf) | [ZYLO](https://open.spotify.com/artist/254doaxOMkxAF1A8m0X44G), [KOEL](https://open.spotify.com/artist/3oggrGr5cIPAxvC31rwoZQ) | [Butterflies](https://open.spotify.com/album/0rrBHS1vtlB4baRaX5cyFJ) | 2:36 |
+| 301 | [Dynasty](https://open.spotify.com/track/6rEm5YNpHryXv1nppYRkOa) | [Mizumi Hanako](https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni) | [Dynasty](https://open.spotify.com/album/2W3Vm1R4mR3r0D8ccGrSbl) | 3:46 |
+| 302 | [Cloud Nine](https://open.spotify.com/track/3rU2Ha9RVm2YWdeChK2uDy) | [Pink Peaches](https://open.spotify.com/artist/6aYTftFJlm73s2Xjf4qLUF) | [Cloud Nine](https://open.spotify.com/album/1YT1dGErtzAxLgiXZ5xQa7) | 3:36 |
+| 303 | [Over](https://open.spotify.com/track/6Y8hVr1YAvcBnM4CxHa26R) | [Jess Stewart](https://open.spotify.com/artist/6wKbS0fTioEJQPaPSufbsu) | [Over](https://open.spotify.com/album/7sFJbynF5wkpT6fPq8O0Wy) | 3:06 |
+| 304 | [Blue Crush](https://open.spotify.com/track/4HTgkU4eIGE3f5PH91Q007) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [WHAT](https://open.spotify.com/album/1PFqMwYSrw0zZA8QsZbU82) | 3:05 |
+| 305 | [U + I](https://open.spotify.com/track/2AydFARM4UabJVmzxp7Yei) | [Tonwerck](https://open.spotify.com/artist/1l2WLqM42y6NaJy6pQWvtQ) | [Old Boy](https://open.spotify.com/album/3pgiYge4ok1ggzjutroRxk) | 3:08 |
+| 306 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 |
+| 307 | [RE\-32](https://open.spotify.com/track/3XosVKvImINmqMa82dbX2p) | [fragile construct](https://open.spotify.com/artist/1ekV2LHZWLMtnJk8gXNeyA) | [Underwater](https://open.spotify.com/album/7dDRFeBjGPxeS6shq1THBd) | 1:50 |
+| 308 | [Pretty Fairy](https://open.spotify.com/track/0NZ7NHFaJSQyGxXayRo9jY) | [Up To Us](https://open.spotify.com/artist/3rcM64CaYs8HT1gnrnjiRJ) | [Pretty Fairy](https://open.spotify.com/album/5fBKczgxKrAc0HTGI2kazf) | 3:28 |
+| 309 | [Forever Is Long](https://open.spotify.com/track/7tfI6aIhu9nv1lKdrbBPJp) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Dust Of Glory](https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV) | 2:51 |
+| 310 | [Except You](https://open.spotify.com/track/3ZlsmpFpgBZ3ivWLloHErK) | [Arsham noor](https://open.spotify.com/artist/1FVEdeAjUpIm2T64VzIcD7) | [Except You](https://open.spotify.com/album/6TIgqSpgGF1OufG0sF6kwk) | 3:19 |
+| 311 | [Never Is the Scariest Word](https://open.spotify.com/track/26Nwpmx9vEPuuTZrNauzaF) | [DJ Ames](https://open.spotify.com/artist/3G8xVeQjjIQgl0pECOI3ce) | [When The Credits Roll](https://open.spotify.com/album/3JI4IbgtEvRGRo7q5Q54iu) | 3:04 |
+| 312 | [Dear X](https://open.spotify.com/track/7efe0ilRZeshgQpASqG1mG) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Dear X](https://open.spotify.com/album/2zz4UKgmhWGsUQ9C16pQAJ) | 2:34 |
 
-Snapshot ID: `AAAyh63jp98GCHtEMspYsqbP1lUc0s5i`
+Snapshot ID: `AAAylwisPSC7q7utVFKtKDczt+iQfjQm`

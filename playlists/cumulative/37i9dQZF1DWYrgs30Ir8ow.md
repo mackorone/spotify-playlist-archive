@@ -2,9 +2,9 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd frisse hits! Cover: Tate McRae
+> Altijd frisse hits! Cover: Broederliefde
 
-1,185 songs - 2 day 9 hr 39 min
+1,186 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Kleuterklas](https://open.spotify.com/track/2kMDzyjMglV9WxUjKhMg1A) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [Kleuterklas](https://open.spotify.com/album/5ftpevvTQGLgSv871Fxptt) | 2:48 | 2023-06-14 | 2023-06-30 |
 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 | 2025-05-12 | 2025-07-18 |
 | [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 | 2025-10-13 | 2025-10-17 |
+| [Kom Je Halen](https://open.spotify.com/track/1jP8mOe5joQg5isHUTukcg) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander \(Deluxe\)](https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5) | 2:40 | 2025-12-15 |  |
 | [Komkommer](https://open.spotify.com/track/29ULZaSlDqboEirmrbaoKn) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Komkommer](https://open.spotify.com/album/7m5uWRcBbiK5UIP3pePAYJ) | 2:43 | 2024-05-02 | 2024-05-17 |
 | [Kroegentocht](https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Kroegentocht](https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP) | 2:33 | 2025-12-04 |  |
 | [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-01-15 | 2024-02-09 |

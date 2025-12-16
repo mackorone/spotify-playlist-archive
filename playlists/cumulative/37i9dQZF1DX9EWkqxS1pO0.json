@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "A\u015eIK OLDUM SANA",
+        "url": "https://open.spotify.com/album/5yFJC6Gup6hqCkrbMBKma1"
+      },
+      "artists": [
+        {
+          "name": "Bora Balc\u0131",
+          "url": "https://open.spotify.com/artist/3K5jA6oWGdIA11Ztjc0cJ2"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178588,
+      "name": "A\u015eIK OLDUM SANA",
+      "url": "https://open.spotify.com/track/3DqAhi6218XpQC3o2opPlG"
+    },
+    {
+      "album": {
         "name": "A\u015fk \u0130\u00e7inden",
         "url": "https://open.spotify.com/album/3wKP7PFBrM0yyZt1N0xajI"
       },
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 173382,
       "name": "G\u00fcn Batarken",
       "url": "https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1"

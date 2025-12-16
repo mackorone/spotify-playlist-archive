@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 127185,
+  "num_followers": 127196,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAAIs3ojst5QpFRNbqwme53a",
+  "snapshot_id": "aT3+AAAAAABCcWZBL/H6naL4a0JDPxIo",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 187210,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 135253,
       "name": "Just In Time - Remastered 1998",
       "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 187210,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
-      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 183560,
       "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
       "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
+      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Innamorata (Sweetheart) - Remastered",
-      "url": "https://open.spotify.com/track/5QqaUAYLJCaTaChZlu0PU5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 141920,
       "name": "Buona Sera - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Innamorata (Sweetheart) - Remastered",
+      "url": "https://open.spotify.com/track/5QqaUAYLJCaTaChZlu0PU5"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Arrivederci Roma - Remastered 1998",
-      "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 144800,
       "name": "Return To Me (Ritorna-Me) - 1997 Remaster",
       "url": "https://open.spotify.com/track/6YAgmqaeo8Fm3pne8OJEBo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Arrivederci Roma - Remastered 1998",
+      "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "French Style",
-        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 175281,
-      "name": "C'est si bon",
-      "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This is Chris Botti (International Version)",
         "url": "https://open.spotify.com/album/0RjRrt5CCVXeh4IIyyHmDe"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 187986,
       "name": "I've Grown Accustomed To Her Face (\"My Fair Lady\")",
       "url": "https://open.spotify.com/track/3nmwqhf7yG6FrBVpzn5q20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "French Style",
+        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 175281,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

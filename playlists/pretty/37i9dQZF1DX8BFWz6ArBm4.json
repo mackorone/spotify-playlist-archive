@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Mazonakis",
-  "num_followers": 37237,
+  "num_followers": 37241,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
-        "name": "To Diko Mou DNA",
-        "url": "https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Gia Tin Epomeni",
-      "url": "https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
         "name": "Ola Gia Ola",
         "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 281503,
       "name": "Ola Gia Ola",
       "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
+        "name": "To Diko Mou DNA",
+        "url": "https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Gia Tin Epomeni",
+      "url": "https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
-        "name": "Tetoia Ora Tetoia Logia",
-        "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 192499,
-      "name": "Tetoia Ora Tetoia Logia",
-      "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
         "name": "Lekes",
         "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
-        "name": "Kapnogona",
-        "url": "https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF"
+        "name": "Tetoia Ora Tetoia Logia",
+        "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
       },
       "artists": [
         {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
         }
       ],
-      "duration_ms": 184661,
-      "name": "Kapnogona",
-      "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
+      "duration_ms": 192499,
+      "name": "Tetoia Ora Tetoia Logia",
+      "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -591,6 +575,22 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
+        "name": "Kapnogona",
+        "url": "https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Kapnogona",
+      "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
         "name": "Leei Leei Leei",
         "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
       },
@@ -603,42 +603,6 @@
       "duration_ms": 189152,
       "name": "Leei Leei Leei",
       "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
-        "name": "Na Giriseis Pou",
-        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 166105,
-      "name": "Na Giriseis Pou",
-      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
-        "name": "Me 'Geia Sou",
-        "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        },
-        {
-          "name": "Giannis Fakinos",
-          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
-        }
-      ],
-      "duration_ms": 222397,
-      "name": "Me 'Geia Sou",
-      "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -659,6 +623,22 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
+        "name": "Na Giriseis Pou",
+        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Na Giriseis Pou",
+      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
         "name": "Kourastika Na S' Agapo",
         "url": "https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 253420,
       "name": "Kourastika Na S' Agapo",
       "url": "https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
+        "name": "Me 'Geia Sou",
+        "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Giannis Fakinos",
+          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
+        }
+      ],
+      "duration_ms": 222397,
+      "name": "Me 'Geia Sou",
+      "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
-        "name": "Unplugged 2025",
-        "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Simera - Unplugged",
-      "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
         "name": "Isitirio Ena",
         "url": "https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 223590,
       "name": "Isitirio Ena",
       "url": "https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
+        "name": "Unplugged 2025",
+        "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Simera - Unplugged",
+      "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
     },
     {
       "added_at": "2025-12-11 22:00:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-12-11 22:00:32",
       "album": {
-        "name": "Me Sighorite",
-        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 210007,
-      "name": "Me Sighorite",
-      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
-    },
-    {
-      "added_at": "2025-12-11 22:00:32",
-      "album": {
         "name": "Ekptotos Aggelos",
         "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 263015,
       "name": "Ekptotos Aggelos",
       "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
+    },
+    {
+      "added_at": "2025-12-11 22:00:32",
+      "album": {
+        "name": "Me Sighorite",
+        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 210007,
+      "name": "Me Sighorite",
+      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
     },
     {
       "added_at": "2025-12-11 22:00:32",

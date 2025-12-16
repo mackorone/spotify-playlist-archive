@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: SEU Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,024 likes - 90 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,998 likes - 90 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

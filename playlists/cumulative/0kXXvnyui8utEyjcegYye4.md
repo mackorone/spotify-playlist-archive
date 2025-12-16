@@ -4,7 +4,7 @@
 
 > 
 
-356 songs - 21 hr 3 min
+357 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Losing It \- Radio Edit](https://open.spotify.com/track/2KXwJZv1pRQFQ95Kj60jBN) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It \(Radio Edit\)](https://open.spotify.com/album/2aYokx2jGun9pPjyY5Cc9t) | 2:43 | 2023-07-13 |  |
 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2025-07-17 |  |
 | [Lost Soul \- Slowed & Reverb](https://open.spotify.com/track/4B2qZ956CmSOA70HGvV3D5) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [Lost Soul \(Slowed & Reverb\)](https://open.spotify.com/album/22PQVyismZfPYnE3piqCpN) | 4:00 | 2025-12-13 |  |
+| [Lost Soul Down / Floki](https://open.spotify.com/episode/0K8DGfkYymNOtB18XtEpbf) | [ardaxrd](https://open.spotify.com/show/2xF0CyHShTWyAB3Jv8MI23) | [ardaxrd](https://open.spotify.com/album/2xF0CyHShTWyAB3Jv8MI23) | 2:43 | 2025-12-15 |  |
 | [Love Lies](https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Lies](https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9) | 3:21 | 2023-07-13 |  |
 | [Love Me Again](https://open.spotify.com/track/7v6EVHw0iUL8ww77IaoLCZ) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Love Me Again](https://open.spotify.com/album/46ZM3XlLhd3rHbExzXRDbr) | 3:59 | 2022-10-03 |  |
 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 | 2025-03-24 |  |

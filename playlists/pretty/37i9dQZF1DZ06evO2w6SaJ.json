@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7127,
+  "num_followers": 7130,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAAvhDIuu1AF3faF5eEk/caN",
+  "snapshot_id": "aT3+AAAAAACmAnRNX65i5Z5Iu814R8sn",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterfly (New Anthem)",
-        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
-      },
-      "artists": [
-        {
-          "name": "Black Oxygen",
-          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 227246,
-      "name": "Butterfly (New Anthem)",
-      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 227794,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterfly (New Anthem)",
+        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
+      },
+      "artists": [
+        {
+          "name": "Black Oxygen",
+          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 227246,
+      "name": "Butterfly (New Anthem)",
+      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+      "duration_ms": 186293,
+      "name": "Decorated",
+      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Decorated",
-      "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,

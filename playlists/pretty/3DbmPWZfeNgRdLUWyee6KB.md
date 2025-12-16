@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,026 likes - 156 songs - 8 hr 53 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,045 likes - 175 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 77 | [La Cultura Del Sospetto \- feat\. Gianni Moretti](https://open.spotify.com/track/3HbYEChQJrQSmkBLeX86W2) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:37 |
 | 78 | [Tranquility](https://open.spotify.com/track/4GhdgLqCsD2cDPKZyXuNKR) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Tranquility](https://open.spotify.com/album/5EOfIpRs4JMH9M52TVzxs4) | 4:34 |
 | 79 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 |
-| 80 | [Integrity](https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Integrity](https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9) | 2:32 |
+| 80 | [Integrity](https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Integrity](https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9) | 2:32 |
 | 81 | [Screen Love](https://open.spotify.com/track/1N4AQ3hVyx4o98gZ3vDGzP) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:20 |
 | 82 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 |
 | 83 | [Break the Chain](https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [My Tribe \- EP](https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh) | 3:27 |
@@ -164,5 +164,24 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 154 | [Xmas](https://open.spotify.com/track/0T8M5XbkqHUB99ZkbZDOHD) | [Andrea Bardelli](https://open.spotify.com/artist/0sjMrTuxISK7GfQRKy8FEE) | [The poets work at night](https://open.spotify.com/album/1mNoFSF448LaNDXIFThFnA) | 5:08 |
 | 155 | [Touch](https://open.spotify.com/track/43NZJKAwliwhhf92fVfwwx) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Touch](https://open.spotify.com/album/4Ai7hZRY0AFkeTwZsVhgwt) | 2:46 |
 | 156 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
+| 157 | [Runaway](https://open.spotify.com/track/40CRFRPniqwB7sbPlXPm9F) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Runaway](https://open.spotify.com/album/0zgAdhmtbSNkekdvpeeIEd) | 3:39 |
+| 158 | [Old Chapel Road](https://open.spotify.com/track/6E5wym6uDy4rqfZTEAeNTD) | [Nick Liberty](https://open.spotify.com/artist/7gZABCcTRzonnDKgDt0lV1) | [Old Chapel Road](https://open.spotify.com/album/0zbW3XrpVaUHYzCVwYLXD3) | 3:44 |
+| 159 | [Sonate au clair obscur](https://open.spotify.com/track/7aSzxYDBU6wcyzkrhIl4PB) | [Gabriel Keller](https://open.spotify.com/artist/0zOlM82GNeyKLBca65OwuG), [Clement Barou](https://open.spotify.com/artist/4t9AWxfHIRSxRSJESJsn2J) | [Clair obscur](https://open.spotify.com/album/7F7Vn59sz760AfHNmbyM9t) | 6:42 |
+| 160 | [Blue Crush](https://open.spotify.com/track/4HTgkU4eIGE3f5PH91Q007) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [WHAT](https://open.spotify.com/album/1PFqMwYSrw0zZA8QsZbU82) | 3:05 |
+| 161 | [4thegirl](https://open.spotify.com/track/0K2X58uhUSfVCpPy2H8bl5) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Random Acts of Cynicism](https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF) | 4:15 |
+| 162 | [Dieser Moment Mit Dir](https://open.spotify.com/track/2xFZeUDtkclgCGTRqUPg1r) | [Leslie´s Project](https://open.spotify.com/artist/6FxIZD5GYvLPbrdln5RD2f) | [Dieser Moment Mit Dir](https://open.spotify.com/album/2GnhEFSs5b8kTy7PPEH4dG) | 3:18 |
+| 163 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 |
+| 164 | [Fumble](https://open.spotify.com/track/1SQufToTrFMKonHw9xmfFy) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Fumble](https://open.spotify.com/album/6ucAkjjQKfWa3n83odFH7P) | 4:02 |
+| 165 | [Never Is the Scariest Word](https://open.spotify.com/track/26Nwpmx9vEPuuTZrNauzaF) | [DJ Ames](https://open.spotify.com/artist/3G8xVeQjjIQgl0pECOI3ce) | [When The Credits Roll](https://open.spotify.com/album/3JI4IbgtEvRGRo7q5Q54iu) | 3:04 |
+| 166 | [How'd You Get Here](https://open.spotify.com/track/06YPAAkCdIDHTs3rA1oPjZ) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/album/30hSDxBhr4JnFry1yPCHZm) | 3:20 |
+| 167 | [Puppeteer](https://open.spotify.com/track/2ZaKSOIwTTlXvxMtfLl2Gz) | [Skye Darling](https://open.spotify.com/artist/4QiKBkvRxNWJoCdpclehUu) | [Puppeteer](https://open.spotify.com/album/2ysAwF2HXhzel9H04xODaf) | 3:45 |
+| 168 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 |
+| 169 | [Adiós Chico De Mi Barrio](https://open.spotify.com/track/19cBheOwOZM4L9qCX6hQl2) | [Mauricio Riveros](https://open.spotify.com/artist/4KsvhWHEb2VNXsrvJjsf1J) | [Adiós Chico De Mi Barrio](https://open.spotify.com/album/4wKoDg54mdU78Eqkl6hdjr) | 3:34 |
+| 170 | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/track/6zQelbgxGQjsPbn6eaPRNG) | [JUAN HUMO](https://open.spotify.com/artist/3WXP65ZKIX6dfhOhrFOHsS), [maui](https://open.spotify.com/artist/00dQ9WiJc29XUzvWXvCXlG) | [Hoy \(A Tu Lado\) \[En Vivo\]](https://open.spotify.com/album/18YVHuUzk7MftUfUX3LCcB) | 4:33 |
+| 171 | [Way She Goes](https://open.spotify.com/track/6RxRMnvwRMrygN4baCLMKb) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Way She Goes](https://open.spotify.com/album/2Kc0j3Pq0ydAw6VlWU1GTK) | 3:31 |
+| 172 | [If I Should Lose You](https://open.spotify.com/track/5Z9VzbROuJ1jyt8KLxz0gE) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [If I Should Lose You](https://open.spotify.com/album/1QHITqv4KPeSbtBnFcqGIP) | 4:26 |
+| 173 | [GOOD FOR YOU](https://open.spotify.com/track/2uHuyQH3meGuANECYfsxOj) | [Joseph Culpepper](https://open.spotify.com/artist/59vVBRGa1W9LWAqs9UswfE) | [GOOD FOR YOU](https://open.spotify.com/album/6Nq8Ln6gGbzBLCbdaR7cNl) | 2:44 |
+| 174 | [You Can Do the Same](https://open.spotify.com/track/2RZMibMFWns4SQhrUSqSyI) | [Cuppa' Joe](https://open.spotify.com/artist/3eMMjC1LbVq0XVxcAs43YD) | [You Can Do the Same](https://open.spotify.com/album/2cvKWCsF6EO2m5HgPclPyO) | 3:14 |
+| 175 | [Sabor a Café](https://open.spotify.com/track/0EVejdb25HjSn1MEi9N8sw) | [Samuel Calderón](https://open.spotify.com/artist/6VFOsXn6LfGB6MMdQzvs4l) | [Problema Favorito](https://open.spotify.com/album/0NJKShNiu4WU6Iqxl9R6Ww) | 3:24 |
 
-Snapshot ID: `AAANr4Z7OeKGKG0qN0/ITMdIswp821FI`
+Snapshot ID: `AAANwmPoQng0HevbzWTUSEo6TR6OqIgm`

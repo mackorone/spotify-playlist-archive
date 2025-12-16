@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: SNIK, Trannos, Fy",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: FLY LO, SNIK",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -231,6 +231,32 @@
     },
     {
       "album": {
+        "name": "90th Floor",
+        "url": "https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155530,
+      "name": "90th Floor",
+      "url": "https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis"
+    },
+    {
+      "album": {
         "name": "9ARI",
         "url": "https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6"
       },
@@ -302,6 +328,32 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "album": {
+        "name": "Adeies Verantes",
+        "url": "https://open.spotify.com/album/6pUyHBROOwX0JjMLO5KhYz"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Nume",
+          "url": "https://open.spotify.com/artist/62tV1e6rfkhuGPewxuOsjD"
+        },
+        {
+          "name": "Kaist",
+          "url": "https://open.spotify.com/artist/4imUIlkV0mdCbhSPRMyclz"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247912,
+      "name": "Adeies Verantes",
+      "url": "https://open.spotify.com/track/4d2L1ntfgswj1aVWdnb5RO"
     },
     {
       "album": {
@@ -456,7 +508,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 127179,
       "name": "AJO",
       "url": "https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B"
@@ -864,6 +916,32 @@
       "duration_ms": 162206,
       "name": "AOUCH",
       "url": "https://open.spotify.com/track/58GRkw2ZAukdzzCohitqkq"
+    },
+    {
+      "album": {
+        "name": "APOTIPOMATA",
+        "url": "https://open.spotify.com/album/13fA1U9jizHnA17kxIOhtX"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184729,
+      "name": "APOTIPOMATA",
+      "url": "https://open.spotify.com/track/39rpODqvEPrixgNfsZtNVT"
     },
     {
       "album": {
@@ -1723,6 +1801,28 @@
     },
     {
       "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/4fZZTVcjxiFfBxz3uXPRUL"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp"
+    },
+    {
+      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -1970,7 +2070,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 201507,
       "name": "DIRTY",
       "url": "https://open.spotify.com/track/3MAReNQVFzF3xtkaW2bTbf"
@@ -2646,7 +2746,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 178146,
       "name": "EUROSHARK",
       "url": "https://open.spotify.com/track/7JRewNHAApiynU6ep0FBt8"
@@ -2814,6 +2914,28 @@
       "duration_ms": 161632,
       "name": "FHMES",
       "url": "https://open.spotify.com/track/56gbt6Uz4WCUVNwnhlHJSF"
+    },
+    {
+      "album": {
+        "name": "CAPO DEI CAPI (Deluxe)",
+        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184966,
+      "name": "FIDIA",
+      "url": "https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib"
     },
     {
       "album": {
@@ -5485,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "Ntolia",
+        "url": "https://open.spotify.com/album/6cH39Zi7CawLCDlxRd8GFs"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Ntolia",
+      "url": "https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l"
+    },
+    {
+      "album": {
         "name": "G.T.K.",
         "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
       },
@@ -5797,6 +5937,36 @@
     },
     {
       "album": {
+        "name": "OSE",
+        "url": "https://open.spotify.com/album/0l5jdAXg0JYj3ELh8Rmy8f"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Mario Kush",
+          "url": "https://open.spotify.com/artist/1o9oGVl9x0NWqJMrfti1rq"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139607,
+      "name": "OSE",
+      "url": "https://open.spotify.com/track/0Ythgq8uacb9uwkWSs0Vkb"
+    },
+    {
+      "album": {
         "name": "P.O.S.",
         "url": "https://open.spotify.com/album/2Shh4sMBBv3Uq5Klg9n2xd"
       },
@@ -6070,7 +6240,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 165288,
       "name": "PARE DOSE",
       "url": "https://open.spotify.com/track/3gTqUQql07sL6Eutx82ZQV"
@@ -6682,7 +6852,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 144705,
       "name": "Provlimata",
       "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH"
@@ -6759,6 +6929,28 @@
     },
     {
       "album": {
+        "name": "CAPO DEI CAPI (Deluxe)",
+        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157100,
+      "name": "RAMBO",
+      "url": "https://open.spotify.com/track/1FmrVwzwIBnd2DEcWL9XkW"
+    },
+    {
+      "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/2IvNAPQGN0QWjMObrttNlW"
       },
@@ -6808,7 +7000,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 169440,
       "name": "Rave",
       "url": "https://open.spotify.com/track/4T3LCaLsX9m7A0w5crzfD1"
@@ -6940,7 +7132,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 116363,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/4Vtelze8gubX1KfKWc6aOm"
@@ -7578,7 +7770,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 138543,
       "name": "SYNTAGH",
       "url": "https://open.spotify.com/track/48ZHtSECQg0LISXnGrHSum"

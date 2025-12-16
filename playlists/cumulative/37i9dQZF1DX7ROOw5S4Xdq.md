@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Elizeu Alves, Alexsander Lucio
 
-2,988 songs - 10 day 12 hr 7 min
+2,990 songs - 10 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Continua](https://open.spotify.com/track/2UAngFBfVyrTkXSBhqzyRS) | [Eliezer de Tarsis](https://open.spotify.com/artist/7swIpYfKi5yjFe1J2LQCnL) | [Continua](https://open.spotify.com/album/4bEppTERRCIuPJB4ouryzt) | 4:11 | 2025-08-01 | 2025-08-23 |
 | [Continuar](https://open.spotify.com/track/6UfjCEmJ9SyldMXYSlFvH1) | [Cassio Petronilo](https://open.spotify.com/artist/4xow4BOa01hpUUsPS99lsd), [Salluz Collection](https://open.spotify.com/artist/3C6CIrpyiIrVL9pHjcdhpv) | [Continuar](https://open.spotify.com/album/2uktcfX2jXFc0DXO5M70dV) | 3:49 | 2025-06-20 | 2025-07-20 |
 | [Continue Fiel \- Ao Vivo](https://open.spotify.com/track/6NBruwuQrjlCLpTYqzgt1r) | [Rebeca Gomes](https://open.spotify.com/artist/3zIrDLlTxCTakJekJX3zFP), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Continue Fiel \(Ao Vivo\)](https://open.spotify.com/album/3OJlkyDsxoJEYKlLWJ3NvL) | 10:21 | 2023-11-24 | 2023-12-23 |
+| [Conversa](https://open.spotify.com/track/2k64LSJRfC5Gq4nDPSfQ4h) | [Norton](https://open.spotify.com/artist/1NK5NI48620JRMgQ2HfSQy) | [Conversa](https://open.spotify.com/album/0j238U0IKDdK37K6jbLUXd) | 2:25 | 2025-12-15 |  |
 | [Conversão](https://open.spotify.com/track/19TVMYe3zMCs11TyC7nGcf) | [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Conversão](https://open.spotify.com/album/3IoVUdiLCayYt2BZzIxvQk) | 3:54 | 2025-02-21 | 2025-03-01 |
 | [Convicção](https://open.spotify.com/track/7j3tRgqdMFfhva8Qb2Wuzl) | [Catedral](https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX) | [Convicção](https://open.spotify.com/album/3AIfj8CJwoh74CqMk7wf7G) | 3:40 | 2024-10-18 | 2024-10-26 |
 | [Convém Que Tú Cresças \- Ao Vivo](https://open.spotify.com/track/53dg2QHNItiUTDzETTZBLx) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Morelzinho](https://open.spotify.com/artist/1GI7OMBkCGuM25mxweZeyY) | [Rahamim \(Ao Vivo\)](https://open.spotify.com/album/7thffmU6YnyXOowuno3vhN) | 6:30 | 2025-05-30 | 2025-06-14 |
@@ -1436,6 +1437,7 @@
 | [Me Aceita de Volta](https://open.spotify.com/track/0rJAQc6vA1BSZmjvRk3B1W) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Me Aceita de Volta](https://open.spotify.com/album/40g7pZn4kFW3zyk7tQNWRs) | 3:49 | 2025-05-02 | 2025-05-16 |
 | [Me Ajude a Melhorar \(Ao Vivo\)](https://open.spotify.com/track/39y3B0owjKMSlHLcSAQP6L) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Me Ajude a Melhorar \(Ao Vivo\)](https://open.spotify.com/album/1jvuGG7JWQk24bMJtNA93f) | 3:36 | 2023-08-18 | 2023-09-02 |
 | [Me Alcançou \(Live Remix\)](https://open.spotify.com/track/0LG3JaVDTAtQwVLwaamxeL) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k) | [Me Alcançou \(Live Remix\)](https://open.spotify.com/album/4YYTCbKB8jkzJfDCuvFBgj) | 5:08 | 2023-07-07 | 2023-07-15 |
+| [Me Alegrarei \(Be Glad\)](https://open.spotify.com/track/4nCMx94PzEqqw5lvGpRCbt) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Me Alegrarei \(Be Glad\)](https://open.spotify.com/album/2iVB9x8CCO2W4RLnsgzX4q) | 10:59 | 2025-12-15 |  |
 | [Me Ama/How He Loves](https://open.spotify.com/track/1XuWfRvWC9kmzUmbL4trm1) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Me Ama/How He Loves](https://open.spotify.com/album/7LTPqmwdrIofjN1LU7cyFk) | 7:00 | 2025-11-28 | 2025-12-12 |
 | [Me Amou \- Ao Vivo](https://open.spotify.com/track/0971pNzLvfKGilo8JKJH9t) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Me Amou \(Ao Vivo\)](https://open.spotify.com/album/0uoP73vR94Xdz7LrbOMB5N) | 7:54 | 2023-11-24 | 2023-12-23 |
 | [Me Arrebataste \- Ao Vivo](https://open.spotify.com/track/4hfyP2DuO7zlvrNr1z0ZO5) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Me Arrebataste \(Ao Vivo\)](https://open.spotify.com/album/2Me3WASBmMi23LiTM974pF) | 5:37 | 2023-11-24 | 2023-12-23 |

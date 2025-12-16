@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 71643,
+  "num_followers": 71650,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "C'est Chic",
-        "url": "https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 415466,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "C'est Chic",
+        "url": "https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 415466,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL"
     }
   ],
   "unique_name": "Disco Decadence",

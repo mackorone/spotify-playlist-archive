@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 85112,
+  "num_followers": 85120,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Banger Hart",
+        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
+      },
+      "artists": [
+        {
+          "name": "Thymo",
+          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
+        },
+        {
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
+        }
+      ],
+      "duration_ms": 166487,
+      "name": "Banger Hart",
+      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Rave, Rinse, Repeat",
         "url": "https://open.spotify.com/album/08eNBdSHZJ90KQXsKPOi81"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 171561,
       "name": "Rave, Rinse, Repeat",
       "url": "https://open.spotify.com/track/4Ace8alexaAj3QHwprUqQq"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Banger Hart",
-        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
-      },
-      "artists": [
-        {
-          "name": "Thymo",
-          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
-        },
-        {
-          "name": "ANGUZ",
-          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
-        }
-      ],
-      "duration_ms": 166487,
-      "name": "Banger Hart",
-      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Als De Morgen Is Gekomen (Remix)",
+        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
+      },
+      "artists": [
+        {
+          "name": "Nederlandse Hardstyle",
+          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
+        }
+      ],
+      "duration_ms": 145241,
+      "name": "Als De Morgen Is Gekomen (Remix)",
+      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Hey Meid (Total Loss Remix)",
         "url": "https://open.spotify.com/album/1i0R7xiLKmZwYNWGmE598J"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 148800,
       "name": "Hey Meid - Total Loss Remix",
       "url": "https://open.spotify.com/track/3DEOsGeqcpHsN7DAgcWzkG"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Als De Morgen Is Gekomen (Remix)",
-        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
-      },
-      "artists": [
-        {
-          "name": "Nederlandse Hardstyle",
-          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
-        }
-      ],
-      "duration_ms": 145241,
-      "name": "Als De Morgen Is Gekomen (Remix)",
-      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
     },
     {
       "added_at": "2025-10-21 11:57:23",

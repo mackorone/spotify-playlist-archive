@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-296 songs - 18 hr 4 min
+300 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You](https://open.spotify.com/album/0YF085Qdh4HgdhZ8zjWkpo) | 3:52 | 2023-03-24 | 2024-04-19 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-28 |  |
 | [Different Cities](https://open.spotify.com/track/18fcLoyTylM1MDyOc7s5av) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd), [Alex Ungku](https://open.spotify.com/artist/5gpbyaQl7qJCX95BM6rA9N) | [Different Cities](https://open.spotify.com/album/6guyJDIbIkZcVrz9l6lmaQ) | 3:04 | 2024-09-12 | 2024-10-11 |
+| [disarankan di bandung](https://open.spotify.com/track/1BZsLiymbw2UihokAVyTrR) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm), [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [I Don't Know and I Dongker](https://open.spotify.com/album/6tKbLS7Vy0R1fQ2zUUQM3J) | 2:32 | 2025-12-16 |  |
 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 | 2025-05-09 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2023-03-24 | 2023-05-04 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2023-03-24 | 2024-04-19 |
@@ -150,6 +151,7 @@
 | [Komang](https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/6qNAh30wzA0xwInyRza9XD) | 3:42 | 2024-04-17 |  |
 | [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 | 2023-03-24 | 2023-12-04 |
 | [Komang](https://open.spotify.com/track/654ZF6YNWjQS2NhwR3QnX7) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/7F3BUHlrZdaKrtSQ0LEpLm) | 3:42 | 2023-11-13 | 2024-04-19 |
+| [kota ini tak sama tanpamu](https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 4:39 | 2025-12-16 |  |
 | [LAB \(Lanjut Atau Berhenti\)](https://open.spotify.com/track/3hzEVI3DvRiiwGaVVJUguN) | [DNDY](https://open.spotify.com/artist/1CcuT7tBgWnAwqdWqUGQez) | [ORBIT](https://open.spotify.com/album/7tWr2b9BugAQDkh2IqcaCo) | 3:51 | 2024-07-05 | 2025-03-04 |
 | [Lama\-Lama](https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:04 | 2024-07-31 |  |
 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 | 2023-03-24 | 2023-12-11 |
@@ -226,6 +228,7 @@
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-23 | 2025-03-18 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-08-29 | 2024-10-15 |
 | [Scars](https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Scars](https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY) | 3:12 | 2023-03-24 | 2023-12-11 |
+| [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP) | 3:50 | 2025-12-16 |  |
 | [Seharusnya Aku](https://open.spotify.com/track/2CtmE5NrgKNopdE1aaaIrg) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Seharusnya Aku](https://open.spotify.com/album/4RZfUlnmNVCFQXaWFJx3W0) | 3:40 | 2024-09-27 | 2025-05-10 |
 | [Sekarang Hingga Nanti Kita Tua](https://open.spotify.com/track/2CZkyEQWgOv5pXmRvLsKwx) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Sekarang Hingga Nanti Kita Tua](https://open.spotify.com/album/0zckviJr7tgEcWCttsurOw) | 3:22 | 2024-07-23 | 2025-04-11 |
 | [Sempat Tak Sempat](https://open.spotify.com/track/1PUcZVirD5GmvRol25TVpA) | [Rakhano](https://open.spotify.com/artist/2zOBXLlMHApdurk2Mv1Cc4) | [Sempat Tak Sempat](https://open.spotify.com/album/00ZGpAUWegdAvVa35Bkj6V) | 3:35 | 2024-10-14 | 2025-03-11 |
@@ -280,6 +283,7 @@
 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2023-10-19 | 2024-04-19 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-03-24 | 2023-10-24 |
 | [Tsunami](https://open.spotify.com/track/7fZ9GpxwteD6R1SNL8OPZa) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:51 | 2024-09-09 | 2025-10-08 |
+| [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-12-16 |  |
 | [Tukar Lalu](https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ), [Dimansyah Laitupa](https://open.spotify.com/artist/6WrP3SWOhy8mjiONxXFEuB) | [Tukar Lalu](https://open.spotify.com/album/1sBuoGfIJ1AsnTqbodaKGw) | 4:06 | 2024-01-17 | 2024-09-13 |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-10-02 |  |
 | [UH! \(ghosted\)](https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ) | [UH! \(ghosted\)](https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF) | 3:14 | 2025-04-30 | 2025-12-13 |

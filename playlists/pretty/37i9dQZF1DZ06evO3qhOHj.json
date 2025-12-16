@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAABjrjq8ATnhWW6E5PSKNSMi",
+  "snapshot_id": "aT3+AAAAAADnGEJhbILGvVRUjZ8d0L+j",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 232011,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/76DyL56b4yuQy5PwCUYDCS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 261385,
       "name": "She's All Coming Back To Me Now",
       "url": "https://open.spotify.com/track/2feNXHDGrehg9fiNpnTTLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 232011,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/76DyL56b4yuQy5PwCUYDCS"
     }
   ],
   "unique_name": "This Is Mr. Big",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Mau y Rick, Luísa Sonza, Big One
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,524 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,541 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 64 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 |
 | 65 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
 | 66 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 |
-| 67 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
-| 68 | [Guatauba Remix \(feat\. Conep\)](https://open.spotify.com/track/599bxbI5tNHVggffZO1btK) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [YO SOY LA FAMA VOL.2](https://open.spotify.com/album/3oGLYz9TjxFM2DRMzoGRj7) | 4:27 |
+| 67 | [Guatauba Remix \(feat\. Conep\)](https://open.spotify.com/track/599bxbI5tNHVggffZO1btK) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [YO SOY LA FAMA VOL.2](https://open.spotify.com/album/3oGLYz9TjxFM2DRMzoGRj7) | 4:27 |
+| 68 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 |
 | 69 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 |
 | 70 | [Parado No Bailão \- Mundial](https://open.spotify.com/track/7w60587yqlGryxSt9mAoo0) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Parado No Bailão \(Mundial\)](https://open.spotify.com/album/4WFcsq2CqMMDyqRn678TXn) | 3:12 |
 | 71 | [Estoy Aquí \- Remix](https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Estoy Aquí \(Remix\)](https://open.spotify.com/album/2Y16weFTT9GBB8BfbhQKiy) | 2:39 |

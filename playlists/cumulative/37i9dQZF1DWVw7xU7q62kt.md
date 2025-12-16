@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-719 songs - 1 day 7 hr 6 min
+720 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,7 +653,7 @@
 | [Tightrope Walker](https://open.spotify.com/track/1dFLvdBAp6OfDb9hiPzZsI) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Tightrope Walker](https://open.spotify.com/album/07EXafwIFuzr0OXJDYRbbg) | 2:15 | 2025-03-28 | 2025-05-04 |
 | [Time 4 Time](https://open.spotify.com/track/4exkfJ2JVCz6cFjXQixprk) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Time 4 Time](https://open.spotify.com/album/0Y02xvTaA13bMCnJezR4f7) | 2:44 | 2025-05-16 |  |
 | [Time Flies](https://open.spotify.com/track/2MS3ImhissWnb9pmGWBc0a) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [.akshay](https://open.spotify.com/artist/2uTyX7lJEa5u5nXbSGiFT0), [Akshay Iyer](https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL) | [Overseas](https://open.spotify.com/album/4mFRZCciiEDg4cBZZLzIca) | 2:46 | 2025-06-13 | 2025-06-28 |
-| [Timeless Love](https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2) | [Kowhaii](https://open.spotify.com/artist/0cYSu3gYm3y2GMYW7Xe4US) | [Foundations](https://open.spotify.com/album/0ZFovHBhbcyjt2YKG1eWLG) | 1:45 | 2025-11-14 |  |
+| [Timeless Love](https://open.spotify.com/track/6HiuLGbL1SpX6ntPloBMr2) | [Kowhaii](https://open.spotify.com/artist/0cYSu3gYm3y2GMYW7Xe4US) | [Foundations](https://open.spotify.com/album/0ZFovHBhbcyjt2YKG1eWLG) | 1:45 | 2025-11-14 | 2025-12-16 |
 | [Together Alone](https://open.spotify.com/track/4qn6iJiMF1paNtu5FTVncc) | [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j), [Hubie](https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM) | [Ornithology Presents: Justin Time Records Flipped, Vol\. 2](https://open.spotify.com/album/5knQfVSEnibMpzgG4xgdew) | 2:43 | 2025-08-29 | 2025-09-06 |
 | [Toucanet](https://open.spotify.com/track/5B8HcOF0JaoHhddYEUCABv) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Toucanet / Motmot](https://open.spotify.com/album/1VaEcs3hAVbmfBbwFCLxfK) | 1:55 | 2025-06-06 |  |
 | [Towards The Sun](https://open.spotify.com/track/1DDRulKFlN0tYcj31kHDug) | [Theo Juarez](https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Towards The Sun](https://open.spotify.com/album/39NthdzMeIoAdY3X0W3odO) | 2:22 | 2025-11-28 | 2025-12-06 |
@@ -718,6 +718,7 @@
 | [Who's Calling](https://open.spotify.com/track/3grB7sY87Vmu7KChyzLoqX) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Who's Calling](https://open.spotify.com/album/4iS1L19dxA12WO2xXdQfFq) | 1:45 | 2025-04-18 | 2025-05-25 |
 | [Windjammer](https://open.spotify.com/track/1gCMAZDeodBRnKi0vw7pgV) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Windjammer](https://open.spotify.com/album/7i1qkkY7yluJStFuhADcmV) | 2:27 | 2023-12-20 | 2025-04-12 |
 | [Window Pane](https://open.spotify.com/track/3oH3TnUBAHJUMBPwJTynv2) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Window Pane](https://open.spotify.com/album/1AaDQgeyo7tbApFPiCfXiU) | 2:00 | 2025-03-03 | 2025-03-18 |
+| [Windows](https://open.spotify.com/track/3zKzJPjP2XBhQfZ9SQOa2U) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Windows](https://open.spotify.com/album/23rdcVnGmnGbUrOhqZCByt) | 2:00 | 2025-12-12 |  |
 | [Windows Down](https://open.spotify.com/track/5WJS9hfKjnYpGh9wGsN2U9) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Windows Down](https://open.spotify.com/album/0fCZO0qPRHx6jDlel1Uh5M) | 2:18 | 2025-09-12 |  |
 | [Wonderment](https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Wonderment](https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs) | 3:19 | 2023-08-22 | 2024-11-23 |
 | [Yeah Yeah](https://open.spotify.com/track/11b9ZXGNFI0mvqcb9hwx3a) | [jüle.](https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Yeah Yeah](https://open.spotify.com/album/18hc1Zx0gPlL4CNLrfNYzf) | 2:01 | 2025-07-25 |  |

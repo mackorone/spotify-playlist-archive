@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 252062,
+  "num_followers": 252097,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAACpMa2+FByaXvvZPSHeKPfx",
+  "snapshot_id": "aT3+AAAAAAD6l8dmaa3cF4w42H/O1SKE",
   "tracks": [
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 265410,
-      "name": "August 10",
-      "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
+      "duration_ms": 298333,
+      "name": "So We Won't Forget",
+      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
     },
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 298333,
-      "name": "So We Won't Forget",
-      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
+      "duration_ms": 265410,
+      "name": "August 10",
+      "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 201917,
-      "name": "Summer Madness - Exclusive Cover Version",
-      "url": "https://open.spotify.com/track/5FpOcTfCOpPovAxnYcwrKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 178436,
       "name": "Pon P\u00f3n",
       "url": "https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 201917,
+      "name": "Summer Madness - Exclusive Cover Version",
+      "url": "https://open.spotify.com/track/5FpOcTfCOpPovAxnYcwrKQ"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 221218,
-      "name": "The No.4",
-      "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 234913,
       "name": "Shida",
       "url": "https://open.spotify.com/track/4dqaY6UynbiblKm3GSjtwg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 221218,
+      "name": "The No.4",
+      "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
       "duration_ms": 274193,
       "name": "Lobbo",
       "url": "https://open.spotify.com/track/7FOdklQwziz02Et3OJ9nJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 124177,
+      "name": "Juegos y Nubes",
+      "url": "https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 181224,
       "name": "Master Of Life",
       "url": "https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 124177,
-      "name": "Juegos y Nubes",
-      "url": "https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI"
     },
     {
       "added_at": null,

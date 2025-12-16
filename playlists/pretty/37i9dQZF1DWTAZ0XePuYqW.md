@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > IceSpice's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,558 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,576 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 12 | [White Peach](https://open.spotify.com/track/5tBitfdRGhtOGIOITsh3Jt) | [Rad&Co](https://open.spotify.com/artist/5SWWNKNGRfpxkgaZENBf6u), [Dredda](https://open.spotify.com/artist/2o0mlFZSfy1WS8H8ZQbkfn) | [White Peach](https://open.spotify.com/album/5UWpLP8l4i5uZUgDxnAR0k) | 3:48 |
 | 13 | [FLY GURL \- Club Mix](https://open.spotify.com/track/4zwUdVDbUx5KL1czTKopk6) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545), [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [FLY GURL \(Club Mix\)](https://open.spotify.com/album/7B5Za8jj2Ppw7HlPuXpd6C) | 3:56 |
 | 14 | [KEEP CLIMBING](https://open.spotify.com/track/38OQ1TPMVuReGUD30Yjpbt) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [KEEP CLIMBING / HURT YA KNEES](https://open.spotify.com/album/3K8IegnkN5EoTntFiDZnJI) | 3:08 |
-| 15 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:51 |
+| 15 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:52 |
 | 16 | [On My Mind \(UEPA\)](https://open.spotify.com/track/2cX8gc0oDraLfro0WceRJd) | [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3) | [On My Mind \(UEPA\)](https://open.spotify.com/album/5MZpY8K22RS2fQJavGrf6s) | 3:38 |
 | 17 | [Handsup](https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve +1](https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ) | 3:08 |
 | 18 | [Dutty Business \- Club Edit](https://open.spotify.com/track/0tRnRdniP5kK862jaQhVxM) | [Honeydrip](https://open.spotify.com/artist/0HizFQA107EvPoA4cZWJ3x) | [Dutty Business Remixes](https://open.spotify.com/album/6X8bm22Qg9BUnZPT4TxjgK) | 5:00 |

@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-399 songs - 23 hr 8 min
+400 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Maybe Christmas Will Make It Right](https://open.spotify.com/track/3pRy8US6Hud7z9VcOZ0FQW) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Maybe Christmas Will Make It Right](https://open.spotify.com/album/3e6V6QLVkYKxaOz6GssKp7) | 3:38 | 2022-12-11 | 2025-04-28 |
 | [Mercy In A Manger](https://open.spotify.com/track/68PkFLi9OXi6JLF9rID2Wn) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mercy In A Manger](https://open.spotify.com/album/1P8k4am7eNKqNQAA0EBXjD) | 3:34 | 2022-12-11 |  |
 | [Merry Christmas](https://open.spotify.com/track/389HWwxJs2MYGDs7Wdvm6t) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Merry Christmas](https://open.spotify.com/album/6s6xCxKGKgeDegTRGKlRTO) | 3:05 | 2025-11-16 |  |
-| [MERRY CHRISTMAS](https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [Merry Christmas](https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu) | 3:18 | 2024-07-29 |  |
+| [MERRY CHRISTMAS](https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [Merry Christmas](https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu) | 3:18 | 2024-07-29 | 2025-12-16 |
 | [Messiah](https://open.spotify.com/track/5AAx2hDyMApvJDags954xB) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [Messiah](https://open.spotify.com/album/1n55ttEqhpjbxX4fXyUZbo) | 3:47 | 2021-12-24 | 2024-07-30 |
 | [Mine](https://open.spotify.com/track/1f59Q1JGDzDFy4LErFW3XR) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Mine](https://open.spotify.com/album/7IaxgJxwK5bpMk2FKzh9Is) | 2:26 | 2025-11-22 |  |
 | [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 | 2022-11-27 |
@@ -349,6 +349,7 @@
 | [The One We’ve Waited For \(God Rest Ye Merry Gentlemen\)](https://open.spotify.com/track/6HKrAqwF5H6mGXeIsi891E) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [The One We’ve Waited For \(God Rest Ye Merry Gentlemen\)](https://open.spotify.com/album/5mvz4NoOwk9XWe1ZCZV0d9) | 3:53 | 2024-10-27 |  |
 | [The Prayer](https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 4:21 | 2021-12-24 | 2024-07-30 |
 | [THE PRESENT](https://open.spotify.com/track/2nNP5SBmelGS7G59JjGHBQ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE PRESENT](https://open.spotify.com/album/1KVOQw2QpKnP1tTNDXsL51) | 3:03 | 2024-11-17 |  |
+| [The Reason](https://open.spotify.com/track/2BUwLEvVRroAzf4YIZi7Uu) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [The Reason](https://open.spotify.com/album/2JwtaivEl7ruL4VpdVuUCN) | 3:06 | 2025-12-12 |  |
 | [The Savior Has Come](https://open.spotify.com/track/4iUibNFaI9UlpPwvKz7Owv) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i), [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [The Savior Has Come](https://open.spotify.com/album/5eA6HtNJjujr5yJP79u8Jq) | 3:42 | 2024-12-13 | 2025-11-29 |
 | [This Christmas](https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Nashe](https://open.spotify.com/artist/7J2qQLdf6V7JJM4GcVyZmz) | [This Christmas](https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v) | 2:55 | 2023-12-15 |  |
 | [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 | 2023-12-03 |

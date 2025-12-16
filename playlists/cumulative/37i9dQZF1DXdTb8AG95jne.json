@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uae40\ud478\ub984) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ub098\uc7a0 \uc218, \ubb38\uc120) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -2216,6 +2216,24 @@
       "duration_ms": 268292,
       "name": "Blue.",
       "url": "https://open.spotify.com/track/3GSGUvX2TJu631cw86nWqm"
+    },
+    {
+      "album": {
+        "name": "Blueberry muffin",
+        "url": "https://open.spotify.com/album/5mMCPEa3W9axu9gB1s5Pln"
+      },
+      "artists": [
+        {
+          "name": "MASO",
+          "url": "https://open.spotify.com/artist/5vptj2RdDGFCtqgFfXxgkN"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Blueberry muffin",
+      "url": "https://open.spotify.com/track/05twJYCLTHmuA25J6X25N1"
     },
     {
       "album": {
@@ -5127,6 +5145,28 @@
     },
     {
       "album": {
+        "name": "EPGIM",
+        "url": "https://open.spotify.com/album/4lpCyLGngUFJtxpihtbrwT"
+      },
+      "artists": [
+        {
+          "name": "\ub098\uc7a0 \uc218",
+          "url": "https://open.spotify.com/artist/4BbJ7qarnJ3e5fgkZjD9Vf"
+        },
+        {
+          "name": "MOONSUN",
+          "url": "https://open.spotify.com/artist/2i3uapmahaLJ4e2E9UkrV4"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249707,
+      "name": "EPGIM",
+      "url": "https://open.spotify.com/track/1F5B80YGJHzGO277qZbaHv"
+    },
+    {
+      "album": {
         "name": "Epilogue (feat. Meego)",
         "url": "https://open.spotify.com/album/1u8rkzn2L1TtnU8z1hUNtx"
       },
@@ -6660,6 +6700,24 @@
       "duration_ms": 182250,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5a2y94Llhp3q8geoPIMRzY"
+    },
+    {
+      "album": {
+        "name": "REMNANTS",
+        "url": "https://open.spotify.com/album/5Zt5CAb9DoPrbsDOMmYn6v"
+      },
+      "artists": [
+        {
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/59TMgNsuQhT5AhE9NW9T6O"
     },
     {
       "album": {

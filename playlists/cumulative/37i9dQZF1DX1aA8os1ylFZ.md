@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-692 songs - 1 day 11 hr 36 min
+693 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2025-02-05 | 2025-03-13 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-03-01 | 2023-03-23 |
 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 | 2025-03-07 |  |
-| [Need You Now](https://open.spotify.com/track/3KHIZHZ3wAfpPVYdQF7oAs) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Need You Now](https://open.spotify.com/album/1nIGSOY1ko8wYh10bJuhan) | 1:49 | 2025-06-27 |  |
+| [Need You Now](https://open.spotify.com/track/3KHIZHZ3wAfpPVYdQF7oAs) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Need You Now](https://open.spotify.com/album/1nIGSOY1ko8wYh10bJuhan) | 1:49 | 2025-06-27 | 2025-12-16 |
 | [Never Need You](https://open.spotify.com/track/2cOIXOqu6Sj7TPjeYLcrF2) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Never Need You](https://open.spotify.com/album/0I8t7ydYrZp0QOZHQKYjel) | 2:23 | 2023-11-09 | 2023-11-21 |
 | [Never Return](https://open.spotify.com/track/26C5uk4xXownqyI03PtJs1) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Never Return](https://open.spotify.com/album/7L8IOBKMIKNFcaBAdV9ku3) | 2:52 | 2025-02-10 |  |
 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-08-31 | 2024-09-28 |
@@ -583,6 +583,7 @@
 | [Sweep My Heart Away](https://open.spotify.com/track/5jQ8eQzGUoGADqjbQoVwlF) | [HALCYON](https://open.spotify.com/artist/0Qghy3bfg0vSJnbGXgbRWA) | [Sweep My Heart Away](https://open.spotify.com/album/4MuCJ2VWttsMfGTIuMLp7T) | 3:35 | 2021-12-16 | 2022-01-21 |
 | [Sweet Life](https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [Sweet Life](https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9) | 2:44 | 2025-06-27 |  |
 | [T.X.C.](https://open.spotify.com/track/0ybTysZ1qJTtDPlwmBlVSA) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Imani](https://open.spotify.com/album/6nHwUkyiI7jTSbFn8CujXW) | 2:26 | 2025-02-05 | 2025-03-08 |
+| [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 | 2025-12-15 |  |
 | [Take A Chance \- Acoustic](https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Take A Chance \(Acoustic\)](https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf) | 2:46 | 2022-03-24 | 2023-01-13 |
 | [Take It Slow](https://open.spotify.com/track/05ohfzEBUfCEqoQCMUARWw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:32 | 2023-01-12 | 2023-09-15 |
 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 | 2022-07-22 | 2023-01-13 |

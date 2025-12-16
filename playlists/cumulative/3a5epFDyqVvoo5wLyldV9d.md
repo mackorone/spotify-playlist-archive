@@ -4,7 +4,7 @@
 
 > 
 
-888 songs - 2 day 21 hr 40 min
+889 songs - 2 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Que Bandeira](https://open.spotify.com/track/2L9LOlL4V4qFMFAdGLKnWN) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Retratos](https://open.spotify.com/album/3ydOw3KHuqgAYsrDYCRTbO) | 2:28 | 2019-08-23 |  |
 | [Que Beleza](https://open.spotify.com/track/420zub6oHvl246UpV2gN7H) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0NxPZv3nWPBMk1o51GfwEY) | 3:28 | 2019-08-23 |  |
 | [Que Pasa / Me No Pop I](https://open.spotify.com/track/1jjR7zUdFQXEu9TgIp064U) | [Coati Mundi](https://open.spotify.com/artist/2f004LA28GdQvyPHRC6l3g) | [Mutant Disco, Vol\. 2](https://open.spotify.com/album/3Nk2z5nKWwHq5tDQ7gephA) | 6:25 | 2021-05-17 |  |
+| [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 | 2025-12-15 |  |
 | [Que tal America](https://open.spotify.com/track/4PKeXkiWmitCiiBzvO3Tfa) | [Two Man Sound](https://open.spotify.com/artist/1fVkoaWNbsSwb7KAG2fboU) | [Samba Megamix](https://open.spotify.com/album/1lEvq3ewf4pHTgk4aqe7Nl) | 4:48 | 2020-10-02 |  |
 | [Que viene el maní](https://open.spotify.com/track/3stLqZRsfSpxqpmnzR9TrQ) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Un Poquito Quema'o](https://open.spotify.com/album/5lKRqbA399Txwzk1IBVx3W) | 4:48 | 2023-12-04 |  |
 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 | 2022-09-14 |  |

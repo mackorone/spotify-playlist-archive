@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8YxDJqeqag.md) - [plain]
 
 > Spooky Minecraft music from every game – because it’s not Halloween without some creeper\-y vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,107 likes - 33 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,167 likes - 33 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

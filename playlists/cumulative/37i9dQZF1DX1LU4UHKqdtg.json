@@ -3571,6 +3571,24 @@
     },
     {
       "album": {
+        "name": "Bring it Back",
+        "url": "https://open.spotify.com/album/0Bg4SoxfVEV7jvdDNVj2HK"
+      },
+      "artists": [
+        {
+          "name": "GPP",
+          "url": "https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Bring it Back",
+      "url": "https://open.spotify.com/track/350cXeeX0qeCdkJ036Lkfb"
+    },
+    {
+      "album": {
         "name": "Broken Melodies",
         "url": "https://open.spotify.com/album/6OU3xeJICT2dtRkmsoIR8P"
       },
@@ -5352,7 +5370,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 161266,
       "name": "Crazier",
       "url": "https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB"
@@ -18969,6 +18987,24 @@
     },
     {
       "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/2e7yRPmtAf65JP43nBkFL5"
+      },
+      "artists": [
+        {
+          "name": "IS:SUE",
+          "url": "https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/1WFtVKH8l3B23WkNfWNUtU"
+    },
+    {
+      "album": {
         "name": "Physics",
         "url": "https://open.spotify.com/album/4jUKwi940t0GJWWe0GQSd7"
       },
@@ -24334,7 +24370,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 192000,
       "name": "Super Luna",
       "url": "https://open.spotify.com/track/7KzvRJThUDhHZmhvHbbngi"

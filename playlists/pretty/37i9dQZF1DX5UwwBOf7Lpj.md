@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UwwBOf7Lpj.md) - [plain]
 
 > Fuel for any court — live from the baseline\. <a href="https://www.instagram.com/clubvolley\_\_\_\_/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,441 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367598,
+  "num_followers": 367596,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTysgAAAAAAJZ2p67RTAN8vY7tNXiU2M",
+  "snapshot_id": "aT3+AAAAAAAZ8y60rNWM7K5tCB5tnglV",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
-      },
-      "artists": [
-        {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 243533,
       "name": "A Place Called Earth",
       "url": "https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
+      },
+      "artists": [
+        {
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
     },
     {
       "added_at": null,

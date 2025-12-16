@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Lenine",
-  "num_followers": 354261,
+  "num_followers": 354276,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Uma cidade chamada eu mesmo",
-        "url": "https://open.spotify.com/album/61X5OP7xGcb2V1IYmckxFh"
-      },
-      "artists": [
-        {
-          "name": "Dani Black",
-          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Muda Tudo",
-      "url": "https://open.spotify.com/track/219kRhIoG8mxIBeYSVbGRq"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "Divina Casca",
         "url": "https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 213446,
       "name": "Jorge Ben",
       "url": "https://open.spotify.com/track/1SMWOSUw16OW1IFPIIB3KN"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Uma cidade chamada eu mesmo",
+        "url": "https://open.spotify.com/album/61X5OP7xGcb2V1IYmckxFh"
+      },
+      "artists": [
+        {
+          "name": "Dani Black",
+          "url": "https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Muda Tudo",
+      "url": "https://open.spotify.com/track/219kRhIoG8mxIBeYSVbGRq"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
         "name": "PALCO",
         "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 278736,
       "name": "PALCO",
       "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
-        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
-        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 266302,
-      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
-      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "Se Acaso Voc\u00ea Chegasse",
         "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
       },
@@ -703,22 +687,34 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Faltando Um Peda\u00e7o",
-        "url": "https://open.spotify.com/album/1pwgOhve84CrLFnLr1WN7t"
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
       },
       "artists": [
         {
-          "name": "Flavio Venturini",
-          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
         }
       ],
-      "duration_ms": 230718,
-      "name": "Faltando Um Peda\u00e7o",
-      "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Beija-me",
+        "url": "https://open.spotify.com/album/1aXkJXS54W9l4ormaGbdRe"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 186278,
+      "name": "Beija-me",
+      "url": "https://open.spotify.com/track/5Jmolq9XN50Zv1Qc7g3Pbr"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -751,18 +747,22 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Beija-me",
-        "url": "https://open.spotify.com/album/1aXkJXS54W9l4ormaGbdRe"
+        "name": "Faltando Um Peda\u00e7o",
+        "url": "https://open.spotify.com/album/1pwgOhve84CrLFnLr1WN7t"
       },
       "artists": [
         {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 186278,
-      "name": "Beija-me",
-      "url": "https://open.spotify.com/track/5Jmolq9XN50Zv1Qc7g3Pbr"
+      "duration_ms": 230718,
+      "name": "Faltando Um Peda\u00e7o",
+      "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -783,22 +783,22 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Volta Por Cima",
-        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
+        "name": "Avesso",
+        "url": "https://open.spotify.com/album/27VJM8017LjAbbJaf8gXrZ"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         }
       ],
-      "duration_ms": 139907,
-      "name": "Volta Por Cima",
-      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
+      "duration_ms": 170250,
+      "name": "Avesso",
+      "url": "https://open.spotify.com/track/5Fx97HX04kMmefn51pGnTY"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -823,22 +823,22 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Avesso",
-        "url": "https://open.spotify.com/album/27VJM8017LjAbbJaf8gXrZ"
+        "name": "Volta Por Cima",
+        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
       },
       "artists": [
         {
-          "name": "Carolina Andrade",
-          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         },
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 170250,
-      "name": "Avesso",
-      "url": "https://open.spotify.com/track/5Fx97HX04kMmefn51pGnTY"
+      "duration_ms": 139907,
+      "name": "Volta Por Cima",
+      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -935,22 +935,18 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Este seu olhar / Promessas",
-        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
       },
       "artists": [
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Este seu olhar / Promessas",
-      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -975,18 +971,22 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Universo de Paix\u00e3o",
-        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+        "name": "Este seu olhar / Promessas",
+        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
       },
       "artists": [
         {
-          "name": "Natascha Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
         }
       ],
-      "duration_ms": 241860,
-      "name": "Melhor Assim",
-      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
+      "duration_ms": 212727,
+      "name": "Este seu olhar / Promessas",
+      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1003,6 +1003,22 @@
       "duration_ms": 265192,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/4uBh8aDIHrwxL1DCyU489T"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "Quase Um Segundo",
         "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
       },
@@ -1059,6 +1059,38 @@
       "duration_ms": 252436,
       "name": "Quase Um Segundo",
       "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Libido da Alma",
+        "url": "https://open.spotify.com/album/5I4WDX1OB6NPIPYbsv2DoX"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Arantes",
+          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
+        }
+      ],
+      "duration_ms": 207290,
+      "name": "Libido da Alma",
+      "url": "https://open.spotify.com/track/7g7bxrf0A4EIrUIhLs3wFk"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Chuva de Prata",
+        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
+      },
+      "artists": [
+        {
+          "name": "CATTO",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "Chuva de Prata",
+      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1107,22 +1139,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Chuva de Prata",
-        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
-      },
-      "artists": [
-        {
-          "name": "CATTO",
-          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Chuva de Prata",
-      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "Homem com H",
         "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 121015,
       "name": "O Mundo \u00e9 um Moinho",
       "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
-        "name": "Libido da Alma",
-        "url": "https://open.spotify.com/album/5I4WDX1OB6NPIPYbsv2DoX"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Arantes",
-          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
-        }
-      ],
-      "duration_ms": 207290,
-      "name": "Libido da Alma",
-      "url": "https://open.spotify.com/track/7g7bxrf0A4EIrUIhLs3wFk"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "O Lado B da Bossa",
-        "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
-        }
-      ],
-      "duration_ms": 148762,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "Uma Estrela Misteriosa",
         "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
@@ -1227,58 +1207,22 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Depois da Tempestade",
-        "url": "https://open.spotify.com/album/0BSEbQT1pUp7xV7OecMBK1"
+        "name": "O Lado B da Bossa",
+        "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
       },
       "artists": [
         {
-          "name": "Juliano Holanda",
-          "url": "https://open.spotify.com/artist/3wg2dojocgkzfZFx66oHSt"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         },
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
         }
       ],
-      "duration_ms": 223038,
-      "name": "Depois da Tempestade",
-      "url": "https://open.spotify.com/track/7uPtro2FLw2P9AJJZqNLiX"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
-        "name": "Um Trem para as Estrelas",
-        "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Nilo Romero",
-          "url": "https://open.spotify.com/artist/62RsxSRoTKw2gxgCoaAMbA"
-        }
-      ],
-      "duration_ms": 216425,
-      "name": "Um Trem Para as Estrelas",
-      "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
-        "name": "Reencontro",
-        "url": "https://open.spotify.com/album/6FHmlkD5iOGhbvbXlVupp5"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Reencontro",
-      "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
+      "duration_ms": 148762,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1331,22 +1275,74 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Abre Alas",
-        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
+        "name": "Um Trem para as Estrelas",
+        "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
       "artists": [
         {
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         },
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+          "name": "Nilo Romero",
+          "url": "https://open.spotify.com/artist/62RsxSRoTKw2gxgCoaAMbA"
         }
       ],
-      "duration_ms": 311811,
-      "name": "Abre Alas",
-      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+      "duration_ms": 216425,
+      "name": "Um Trem Para as Estrelas",
+      "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Depois da Tempestade",
+        "url": "https://open.spotify.com/album/0BSEbQT1pUp7xV7OecMBK1"
+      },
+      "artists": [
+        {
+          "name": "Juliano Holanda",
+          "url": "https://open.spotify.com/artist/3wg2dojocgkzfZFx66oHSt"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 223038,
+      "name": "Depois da Tempestade",
+      "url": "https://open.spotify.com/track/7uPtro2FLw2P9AJJZqNLiX"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/6FHmlkD5iOGhbvbXlVupp5"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Reencontro",
+      "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "a natureza das coisas",
+        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 119702,
+      "name": "a natureza das coisas",
+      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1371,18 +1367,22 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "a natureza das coisas",
-        "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
+        "name": "Abre Alas",
+        "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+          "name": "Patricia Marx",
+          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         }
       ],
-      "duration_ms": 119702,
-      "name": "a natureza das coisas",
-      "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+      "duration_ms": 311811,
+      "name": "Abre Alas",
+      "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Fico a Fim",
-        "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        },
-        {
-          "name": "Milton Guedes",
-          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Fico a Fim",
-      "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "Samba e Amor",
         "url": "https://open.spotify.com/album/094jwaXbLmTxQREPKoUdZq"
       },
@@ -1503,6 +1483,46 @@
       "duration_ms": 211000,
       "name": "Samba e Amor",
       "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "ECLIPSE REVERSO",
+        "url": "https://open.spotify.com/album/5k9MB9pi6fc7w4PRo47EOP"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "ECLIPSE REVERSO",
+      "url": "https://open.spotify.com/track/7E22Fmyid9KC9hZ4t6ngpf"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Fico a Fim",
+        "url": "https://open.spotify.com/album/6dSfLJ8KK1jMi26mPdWT7Y"
+      },
+      "artists": [
+        {
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+        },
+        {
+          "name": "Milton Guedes",
+          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Fico a Fim",
+      "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1563,26 +1583,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "ECLIPSE REVERSO",
-        "url": "https://open.spotify.com/album/5k9MB9pi6fc7w4PRo47EOP"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "ECLIPSE REVERSO",
-      "url": "https://open.spotify.com/track/7E22Fmyid9KC9hZ4t6ngpf"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "\u00c2mbar",
         "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
@@ -1619,6 +1619,26 @@
       "duration_ms": 213536,
       "name": "Desculpe o Au\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Na Mata",
+        "url": "https://open.spotify.com/album/2yNXyP7quAopFjMBOyAJd4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Carneiro",
+          "url": "https://open.spotify.com/artist/1kIP9PVji7Pr95jllHM9h3"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Na Mata",
+      "url": "https://open.spotify.com/track/4osX1Xf6L6tLc2tTTwPhCZ"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1683,22 +1703,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "MARAVILHOSAMENTE BEM",
-        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 226484,
-      "name": "Maravilhosamente Bem",
-      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
       },
@@ -1719,22 +1723,18 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Na Mata",
-        "url": "https://open.spotify.com/album/2yNXyP7quAopFjMBOyAJd4"
+        "name": "MARAVILHOSAMENTE BEM",
+        "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
       },
       "artists": [
         {
-          "name": "Daniel Carneiro",
-          "url": "https://open.spotify.com/artist/1kIP9PVji7Pr95jllHM9h3"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 211480,
-      "name": "Na Mata",
-      "url": "https://open.spotify.com/track/4osX1Xf6L6tLc2tTTwPhCZ"
+      "duration_ms": 226484,
+      "name": "Maravilhosamente Bem",
+      "url": "https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I"
     },
     {
       "added_at": "2025-12-12 03:36:14",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-12-12 03:36:14",
       "album": {
-        "name": "Ter Filhos Fortes",
-        "url": "https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 259953,
-      "name": "Ter Filhos Fortes",
-      "url": "https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1"
-    },
-    {
-      "added_at": "2025-12-12 03:36:14",
-      "album": {
         "name": "MEL\u00cdFLUA",
         "url": "https://open.spotify.com/album/6mir8wfj7SUXm3a9HhVa5H"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 280166,
       "name": "Duplo Sentido",
       "url": "https://open.spotify.com/track/6UsVX7WUHqS9UxWCfKBE8R"
+    },
+    {
+      "added_at": "2025-12-12 03:36:14",
+      "album": {
+        "name": "Ter Filhos Fortes",
+        "url": "https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 259953,
+      "name": "Ter Filhos Fortes",
+      "url": "https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1"
     },
     {
       "added_at": "2025-12-12 03:36:14",

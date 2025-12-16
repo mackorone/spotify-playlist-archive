@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-64 songs - 3 hr 57 min
+65 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Residue](https://open.spotify.com/track/42z3MBssggzUCrBNj0SUpZ) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Take What You Want, Do As You Please](https://open.spotify.com/album/5LHbBEPs1lSN7x3iW9DuMX) | 3:13 | 2025-10-27 |  |
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/4ZmWVoFNiBj0iNnnC7E4MA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:01 | 2025-10-27 |  |
 | [Reverie](https://open.spotify.com/track/64fXwFNr6wKQLAjFTYDvbe) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf) | [Reverie](https://open.spotify.com/album/69CWDhchcRv6TdSXy4P72p) | 3:43 | 2025-10-27 |  |
+| [Satellite](https://open.spotify.com/track/0QVeYbIchvBmCRnBGGuWoD) | [Dan Whitlam](https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Satellite](https://open.spotify.com/album/7xAO8dJkj6XEuagSP6RZAc) | 3:25 | 2025-12-15 |  |
 | [Shiloh](https://open.spotify.com/track/074G9Vb4bqkOVjFbj6BSUN) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Shiloh](https://open.spotify.com/album/4d3u3SjzcgJlBy6GxSEkys) | 3:17 | 2025-10-27 |  |
 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/5IWPuBgM37NYQzh6ShIyqz) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:24 | 2025-10-27 |  |
 | [Something New \- Radio Edit](https://open.spotify.com/track/4iJoNWoRKl3gUKHIQmiMU5) | [Crazy White Boy](https://open.spotify.com/artist/60OcYxEWpVisbNJCcDWn5M), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Something New](https://open.spotify.com/album/0bL2b0RhwXh83xcWhwqVQ1) | 4:12 | 2025-10-27 |  |

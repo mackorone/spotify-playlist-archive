@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 370877,
+  "num_followers": 371014,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-12-10 07:57:13",
       "album": {
+        "name": "Dancing in the Dark",
+        "url": "https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+        }
+      ],
+      "duration_ms": 213207,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7"
+    },
+    {
+      "added_at": "2025-12-10 07:57:13",
+      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
-      "added_at": "2025-12-10 07:57:13",
-      "album": {
-        "name": "Dancing in the Dark",
-        "url": "https://open.spotify.com/album/5iBOXEbZ0c3O0XdbMvdbcd"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
-        }
-      ],
-      "duration_ms": 213207,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/7MhVjxjoDH5AJV5NdL1Bs7"
     },
     {
       "added_at": "2025-12-10 07:57:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-12-10 07:57:13",
       "album": {
-        "name": "The Division",
-        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 396435,
-      "name": "Neutron Dance",
-      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
-    },
-    {
-      "added_at": "2025-12-10 07:57:13",
-      "album": {
         "name": "I Need You Tonite / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 390127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2025-12-10 07:57:13",
+      "album": {
+        "name": "The Division",
+        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 396435,
+      "name": "Neutron Dance",
+      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
     },
     {
       "added_at": "2025-12-10 07:57:13",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-12-10 07:57:13",
       "album": {
+        "name": "Golden Dance Hits",
+        "url": "https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Boys (Summertime Love)",
+      "url": "https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII"
+    },
+    {
+      "added_at": "2025-12-10 07:57:13",
+      "album": {
         "name": "From Here to Eternity (Remastered)",
         "url": "https://open.spotify.com/album/6lE5ickVjJ90hRAFdNCpjv"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 233080,
       "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
       "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
-    },
-    {
-      "added_at": "2025-12-10 07:57:13",
-      "album": {
-        "name": "Livin' Up",
-        "url": "https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray"
-      },
-      "artists": [
-        {
-          "name": "B.W.H.",
-          "url": "https://open.spotify.com/artist/57nTf3F69KS7AuiAaw2h6f"
-        }
-      ],
-      "duration_ms": 287760,
-      "name": "Livin' Up",
-      "url": "https://open.spotify.com/track/54Bhw4FfdM303XteW7HQNv"
     },
     {
       "added_at": "2025-12-10 07:57:13",

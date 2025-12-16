@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! &lt;3
 
-455 songs - 23 hr 25 min
+457 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Spinnin With You](https://open.spotify.com/track/7a93LT7k6s6e049aRFc72N) | [Alex Moretto](https://open.spotify.com/artist/3UelwLWbuCQkJvohXe9CIm), [Alfie Cridland](https://open.spotify.com/artist/3gOl0pzEP8SvToQrrrbw7P), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Spinnin With You](https://open.spotify.com/album/4N7ktGHprTdlbHW2G2oN05) | 1:58 | 2024-08-16 | 2025-10-15 |
 | [Spiritual](https://open.spotify.com/track/2wvoT36KoTsuL6Qm0vWLca) | [CHR3ASY](https://open.spotify.com/artist/4SdL3N0FRmyxx9LspVEs1z) | [Spiritual](https://open.spotify.com/album/24IDZ8Cz8J03TJAxQsBuyq) | 2:49 | 2024-08-02 | 2025-10-15 |
 | [Starlight](https://open.spotify.com/track/5qPNRtmimPDKgqxl6oPPas) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [Starlight](https://open.spotify.com/album/3llaxE5n6GlvuEHzbUM7EA) | 2:26 | 2023-11-20 | 2024-08-03 |
+| [Starz](https://open.spotify.com/track/2EfjTWWyAlXwGPxkzagYe1) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Starz](https://open.spotify.com/album/3cpZRQv08wOLfAjmb178Xj) | 3:10 | 2025-12-15 |  |
 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 | 2024-04-26 | 2024-08-03 |
 | [Stereo Love](https://open.spotify.com/track/0ga8JXA9KcOcxYaHTam8YU) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Gold 88](https://open.spotify.com/artist/72NGBfqlYIr2o92HJh76bD) | [Stereo Love](https://open.spotify.com/album/0mb52J4K2WIgBn0WYGBghm) | 3:21 | 2023-08-22 | 2024-03-14 |
 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 | 2023-09-01 | 2024-08-03 |
@@ -461,6 +462,7 @@
 | [Wow](https://open.spotify.com/track/0SEmzHfBCpkVvxLogm8NJU) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [CHA$EY JON£S](https://open.spotify.com/artist/2cW0FSwOLEKSDCllbCC6db) | [Wow](https://open.spotify.com/album/2OrXnSIQ5SI8NliURLIFKz) | 3:36 | 2023-12-08 | 2024-03-14 |
 | [WTF](https://open.spotify.com/track/7s5ARfWfo6oLj1fbA9q0dD) | [Bender](https://open.spotify.com/artist/7fxWKpzyr4ZXEoNLtuxmrd) | [WTF](https://open.spotify.com/album/5Ae3RgNlkm4398RTCB8g4z) | 3:11 | 2025-06-23 |  |
 | [Yeah](https://open.spotify.com/track/6OSl6T4krWpPK7qrSStoS1) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Yeah](https://open.spotify.com/album/7h18BePxAaCgbyXVOBPLz8) | 3:33 | 2023-09-22 | 2024-03-14 |
+| [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 | 2025-12-15 |  |
 | [You Are My Guide](https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [You Are My Guide](https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn) | 3:34 | 2023-07-18 | 2024-03-14 |
 | [You Got Me](https://open.spotify.com/track/6fmdHdkKMXMkEbi8O2dVfy) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [You Got Me](https://open.spotify.com/album/3af4LZrsRNsaNhgBz23SyN) | 2:46 | 2023-09-15 | 2024-03-14 |
 

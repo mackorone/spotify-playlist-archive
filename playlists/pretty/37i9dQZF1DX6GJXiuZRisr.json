@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1606426,
+  "num_followers": 1606506,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "Focus (feat. CLOVES)",
         "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 238242,
       "name": "Focus (feat. CLOVES)",
       "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 233604,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
+      },
+      "artists": [
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 211905,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
         "name": "Losing Control (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 209056,
       "name": "Losing Control (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
-      },
-      "artists": [
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 211905,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 305235,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "nocturnal",
+        "url": "https://open.spotify.com/album/6GNVg7nMm1kKw8kS2MNcOg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "duration_ms": 215734,
+      "name": "nocturnal",
+      "url": "https://open.spotify.com/track/0zpqJjeoccMVhzGuMqqz6G"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "nocturnal",
-        "url": "https://open.spotify.com/album/6GNVg7nMm1kKw8kS2MNcOg"
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
       },
       "artists": [
         {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 215734,
-      "name": "nocturnal",
-      "url": "https://open.spotify.com/track/0zpqJjeoccMVhzGuMqqz6G"
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1567,22 +1583,22 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/6w6NUmlb68EbM1AyjEIoXS"
       },
       "artists": [
         {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
         },
         {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+          "name": "TRFN",
+          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
         }
       ],
-      "duration_ms": 183066,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
+      "duration_ms": 135238,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/7koLP2DMvE3rmvFfjweYTb"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1599,6 +1615,26 @@
       "duration_ms": 198764,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/6lRMBIxee93wZmbUMgzqOD"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1647,42 +1683,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/6w6NUmlb68EbM1AyjEIoXS"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "TRFN",
-          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/7koLP2DMvE3rmvFfjweYTb"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj"
       },
@@ -1695,22 +1695,6 @@
       "duration_ms": 213281,
       "name": "You",
       "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Pretoria",
-      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1731,6 +1715,22 @@
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Pretoria",
+      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1947,26 +1947,26 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Cheating Heart",
-        "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/3pUuzw75v7nqmsbXWUqBWu"
       },
       "artists": [
         {
-          "name": "Henri Bergmann",
-          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         },
         {
-          "name": "Monophase (IT)",
-          "url": "https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         },
         {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Cheating Heart",
-      "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+      "duration_ms": 263636,
+      "name": "Letting Go - Rinzen Remix",
+      "url": "https://open.spotify.com/track/1fnLqkmEIEq7no8DIeMl2Y"
     }
   ],
   "unique_name": "Night Rider",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: \ub3c4\uc601 (DOYOUNG)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: MINHO(\ubbfc\ud638)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 124409,
       "name": "2016",
       "url": "https://open.spotify.com/track/2z57bVdbDDu6DXUGs8Q4cU"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 247981,
       "name": "40 Something",
       "url": "https://open.spotify.com/track/3Yh8bCr87YilTxwCpUd1gi"
@@ -14826,7 +14826,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 230000,
       "name": "Anytime anyhow",
       "url": "https://open.spotify.com/track/4HJrl12B8chdel9ihKbM6D"
@@ -29550,7 +29550,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 90674,
       "name": "Blumoon",
       "url": "https://open.spotify.com/track/4QGmwzf4dwspk1rfyY2KQO"
@@ -36737,6 +36737,24 @@
     },
     {
       "album": {
+        "name": "Can I love again",
+        "url": "https://open.spotify.com/album/1WzaWc28uAMKXeLIQqC5A5"
+      },
+      "artists": [
+        {
+          "name": "\uadf8\ub9ac\ub4dc\uc6e8\uc774",
+          "url": "https://open.spotify.com/artist/0Pl3UyeIyqbExpEh9q3FJX"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210001,
+      "name": "Can I love again",
+      "url": "https://open.spotify.com/track/325pCd6AJ0Rr8YIMWKE6F4"
+    },
+    {
+      "album": {
         "name": "Law and The City, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3kCelYZb943ElkmLIctqol"
       },
@@ -37202,7 +37220,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 259000,
       "name": "Can't Have You",
       "url": "https://open.spotify.com/track/1uiPSmgg6SwGPjkgc7luCY"
@@ -37282,6 +37300,24 @@
       "duration_ms": 166027,
       "name": "Can't reach you",
       "url": "https://open.spotify.com/track/6h6O3Gw0LcNmaytuMiz4HS"
+    },
+    {
+      "album": {
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/4bToRBSfT5rdiktMwZIIAz"
+      },
+      "artists": [
+        {
+          "name": "MADDY",
+          "url": "https://open.spotify.com/artist/4hbRDpV950DlOSNCP4qhcf"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/7LzV2CfRmnhvE8abGNsAE5"
     },
     {
       "album": {
@@ -40740,7 +40776,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 154000,
       "name": "Christmas Again",
       "url": "https://open.spotify.com/track/2XPu6hAfHuQO1dVyIlACVb"
@@ -41042,6 +41078,24 @@
       "duration_ms": 234306,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x"
+    },
+    {
+      "album": {
+        "name": "Christmas Without You",
+        "url": "https://open.spotify.com/album/2F5aMnzGV0TG1w3bfBNhB3"
+      },
+      "artists": [
+        {
+          "name": "20th Century Boy'z",
+          "url": "https://open.spotify.com/artist/0A5lKyOY8Co6YsdSCUwqgB"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/7LP5gaBr3QsqMSHtDfWkpP"
     },
     {
       "album": {
@@ -49398,7 +49452,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 196565,
       "name": "Dancing on Christmas",
       "url": "https://open.spotify.com/track/1tHnzNY5NgKkTEcM3lYi3s"
@@ -49438,6 +49492,24 @@
       "duration_ms": 220973,
       "name": "Dancing on the table",
       "url": "https://open.spotify.com/track/3HDv2kY0o5Tx1PsBHXc2UV"
+    },
+    {
+      "album": {
+        "name": "Nice to Not Meet You (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/1BmnwUH0CDoNNTO7n5bXNq"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Dancing through the night",
+      "url": "https://open.spotify.com/track/0K8KV8oNtyOdAtJXnb46OK"
     },
     {
       "album": {
@@ -52098,7 +52170,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 286000,
       "name": "December 32 days",
       "url": "https://open.spotify.com/track/1fXcEQ3qQkXHmEtyMOoGYa"
@@ -52120,7 +52192,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 209000,
       "name": "December love story (Feat. KIM LEGEND)",
       "url": "https://open.spotify.com/track/1SFPyNH672gsSO97rO6UJP"
@@ -54268,7 +54340,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 204000,
       "name": "dim,",
       "url": "https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1"
@@ -57242,7 +57314,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 180000,
       "name": "Don't let them know",
       "url": "https://open.spotify.com/track/65g9dGAU56ojWyZlvmhQQU"
@@ -61744,7 +61816,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 364415,
       "name": "Dry Flower",
       "url": "https://open.spotify.com/track/3nuonIzI8KHOzcjgh6TJgJ"
@@ -69008,7 +69080,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 180000,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/4EVTF3X6bJa1NcEokzusC2"
@@ -71418,7 +71490,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 206693,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/6dc9iCKiu3V0lgsb2ct0Ui"
@@ -71928,6 +72000,24 @@
       "duration_ms": 143293,
       "name": "Favorite (\ucd5c\uc560)",
       "url": "https://open.spotify.com/track/2Xb7SVc8ziUuJO3SiWITCh"
+    },
+    {
+      "album": {
+        "name": "FAVORITE SONG",
+        "url": "https://open.spotify.com/album/7FocpdJXPJ1sV9Fdce1Tw4"
+      },
+      "artists": [
+        {
+          "name": "Roydo",
+          "url": "https://open.spotify.com/artist/4Tq5nMU99vtYU8YV8lHVvC"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202241,
+      "name": "FAVORITE SONG",
+      "url": "https://open.spotify.com/track/3bH1oJGZDHUllOKvaABN1A"
     },
     {
       "album": {
@@ -72978,7 +73068,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 193000,
       "name": "Fight Me",
       "url": "https://open.spotify.com/track/5O5VmnQod5yUADtMmvixel"
@@ -74456,7 +74546,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 196713,
       "name": "First Wish",
       "url": "https://open.spotify.com/track/78iKQ9RA4iXInN1w4wUg7O"
@@ -75658,7 +75748,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 154533,
       "name": "Flower",
       "url": "https://open.spotify.com/track/1lI5CLWCAf2M8MxyAzsBUt"
@@ -78672,7 +78762,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 188000,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk"
@@ -80576,7 +80666,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 212973,
       "name": "Funky Player",
       "url": "https://open.spotify.com/track/54wXawQsQcVo1aiGGVQsoj"
@@ -81420,7 +81510,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 204882,
       "name": "Gate of Chaos",
       "url": "https://open.spotify.com/track/4wWGpCqoHX1P6wVcEFv9w9"
@@ -88230,7 +88320,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 264000,
       "name": "Greatest Moment",
       "url": "https://open.spotify.com/track/0AU3XZ0sL55ooBVpwxOhub"
@@ -91734,7 +91824,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 212349,
       "name": "Have I Asked You",
       "url": "https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01"
@@ -114227,6 +114317,24 @@
     },
     {
       "album": {
+        "name": "In The Midnight",
+        "url": "https://open.spotify.com/album/2LgmUcDocwyVvwd1eTZ24b"
+      },
+      "artists": [
+        {
+          "name": "CHANGJO",
+          "url": "https://open.spotify.com/artist/6PMDhC2Rb4NWhWsRNfJHlr"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "In The Midnight",
+      "url": "https://open.spotify.com/track/1rI71s6RnHkljQEoBUhIaF"
+    },
+    {
+      "album": {
         "name": "IN the mood",
         "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
       },
@@ -123058,7 +123166,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 213000,
       "name": "KIIRASMAS",
       "url": "https://open.spotify.com/track/4ZS0ihT9lEzL4MKjDip7N5"
@@ -123076,7 +123184,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 132857,
       "name": "KILL",
       "url": "https://open.spotify.com/track/1TlxJTl12nTgCI0HxwRUpo"
@@ -123526,6 +123634,24 @@
       "duration_ms": 186573,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+    },
+    {
+      "album": {
+        "name": "Scenes from adulthood",
+        "url": "https://open.spotify.com/album/3wySORnfiD2anuKtG1rX4e"
+      },
+      "artists": [
+        {
+          "name": "Puer Kim",
+          "url": "https://open.spotify.com/artist/3zeIa8DBS4RLjSb5oXwcUP"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/4MVLIOl6jAHodjWIIqc3ue"
     },
     {
       "album": {
@@ -126136,7 +126262,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 202000,
       "name": "Last Spring",
       "url": "https://open.spotify.com/track/5A3WVeO7e6SWvTfJzd07w9"
@@ -127758,7 +127884,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 221000,
       "name": "Let it snow",
       "url": "https://open.spotify.com/track/19w33l0Vqs74bHG0f4QoLf"
@@ -128330,7 +128456,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 223261,
       "name": "Let's dance! Make dance!",
       "url": "https://open.spotify.com/track/4k83ZSTiFMGwEnOCRzKKYk"
@@ -132626,7 +132752,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 225590,
       "name": "Little Robot",
       "url": "https://open.spotify.com/track/3cNWngHnikcEo1s4rl3fNU"
@@ -141655,6 +141781,24 @@
     },
     {
       "album": {
+        "name": "Lovin' the Christmas",
+        "url": "https://open.spotify.com/album/0n2rbF9KvlhkViJeW0JD8S"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Lovin' the Christmas",
+      "url": "https://open.spotify.com/track/6Ws8iBdUJWu9XGsTGvQoEa"
+    },
+    {
+      "album": {
         "name": "Loving U",
         "url": "https://open.spotify.com/album/3vEaDUv4KPsDnR7EK99RRs"
       },
@@ -145022,7 +145166,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 224183,
       "name": "Matricaria",
       "url": "https://open.spotify.com/track/2sxrVejCO5cJ55MaVCTqAt"
@@ -147262,6 +147406,36 @@
       "duration_ms": 222026,
       "name": "Memory",
       "url": "https://open.spotify.com/track/34ZqLreswzAiUGRMwCf4Tj"
+    },
+    {
+      "album": {
+        "name": "Memory Balloon",
+        "url": "https://open.spotify.com/album/7tmue4AI64zrN1v7D0p9fz"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        },
+        {
+          "name": "Lee Jae Jin",
+          "url": "https://open.spotify.com/artist/55bdywjqGi55xGRGiILz9P"
+        },
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        },
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Memory Balloon",
+      "url": "https://open.spotify.com/track/12r4rXFlvyDfJdJSixSQVz"
     },
     {
       "album": {
@@ -155964,7 +156138,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 170312,
       "name": "MY MAN",
       "url": "https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe"
@@ -173542,7 +173716,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 180000,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
@@ -175052,7 +175226,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 173833,
       "name": "People Fall in Love",
       "url": "https://open.spotify.com/track/7Bagiwq0kITPrioVJJpEut"
@@ -185680,7 +185854,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 216000,
       "name": "regret",
       "url": "https://open.spotify.com/track/64ErOBAd6W8L1k3bI9XjYS"
@@ -190564,6 +190738,24 @@
       "duration_ms": 203360,
       "name": "RUCKUS",
       "url": "https://open.spotify.com/track/6X17eeNgCoYfNPOwHfTsSv"
+    },
+    {
+      "album": {
+        "name": "RUDOLPH",
+        "url": "https://open.spotify.com/album/009uW1jDl7xdxarXerWlHi"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240132,
+      "name": "RUDOLPH",
+      "url": "https://open.spotify.com/track/3TOHJ1Hih6dKxAW9SJ46En"
     },
     {
       "album": {
@@ -200228,7 +200420,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 306629,
       "name": "Side by side",
       "url": "https://open.spotify.com/track/4sMRRM73otAmc4NjNiqJmE"
@@ -205197,6 +205389,28 @@
     },
     {
       "album": {
+        "name": "Solo Life",
+        "url": "https://open.spotify.com/album/5vBOQkPLxh53Mmkj2SiNyM"
+      },
+      "artists": [
+        {
+          "name": "simaron",
+          "url": "https://open.spotify.com/artist/6h24lCuHJ3kk71eeCMxFpB"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Solo Life (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/1ndm8BhryPQFCZV97tpKwT"
+    },
+    {
+      "album": {
         "name": "1000won Lawyer (Original Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/2x7tmqNda5Ag0SpPbf6z5I"
       },
@@ -205776,6 +205990,24 @@
       "duration_ms": 225908,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF"
+    },
+    {
+      "album": {
+        "name": "Her Brilliant Secret (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ApTafYlDOUTU7InwsTRN3"
+      },
+      "artists": [
+        {
+          "name": "Safira.K",
+          "url": "https://open.spotify.com/artist/6T5V2yF2AruDqDucA8eJJB"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Somehow again",
+      "url": "https://open.spotify.com/track/5V0nm1UkIMcOYKjROzSXpB"
     },
     {
       "album": {
@@ -212674,6 +212906,24 @@
     {
       "album": {
         "name": "Still Here",
+        "url": "https://open.spotify.com/album/7AACHT12MfFbKQULrvwv2X"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275680,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/5cjjq1an6gKU7P1PmxtQxX"
+    },
+    {
+      "album": {
+        "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
       "artists": [
@@ -212724,7 +212974,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 254000,
       "name": "Still Here Waiting (TAXI DRIVER 3 : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/4NU4ivQonEB7o62jAPs1bx"
@@ -213032,7 +213282,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 222000,
       "name": "Still Love You",
       "url": "https://open.spotify.com/track/1iTD1cezCFJgVsTQ9shCnI"
@@ -220486,7 +220736,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 172000,
       "name": "TAKE BACK",
       "url": "https://open.spotify.com/track/3efKgBOz7SnNYZfV1zSfjB"
@@ -223121,6 +223371,24 @@
     },
     {
       "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD"
+    },
+    {
+      "album": {
         "name": "Kinda fool",
         "url": "https://open.spotify.com/album/6Jb38a6XC1akktIp3DJleC"
       },
@@ -224895,6 +225163,24 @@
     },
     {
       "album": {
+        "name": "Shin Wooseok's Urban Fairy Tale EP.1 'The Christmas Song'",
+        "url": "https://open.spotify.com/album/7MJZs2gPJpAkFdtXQRszOI"
+      },
+      "artists": [
+        {
+          "name": "Wooseok Byeon",
+          "url": "https://open.spotify.com/artist/73XnhTLe7F55vqqCr0qL7a"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "THE CHRISTMAS SONG",
+      "url": "https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS"
+    },
+    {
+      "album": {
         "name": "the city",
         "url": "https://open.spotify.com/album/2kjRaRm9R1x11SBjIFCapp"
       },
@@ -226260,7 +226546,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 252000,
       "name": "The Hedgehog Who Loved a Chestnut Burr",
       "url": "https://open.spotify.com/track/0A1myH9fu09orCGJnyZez0"
@@ -226584,7 +226870,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 279000,
       "name": "The Letter",
       "url": "https://open.spotify.com/track/3tMnU7U8fi01lxcXVVcDq1"
@@ -226780,7 +227066,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 159000,
       "name": "the Love Bug - HIP POP Princess Remix",
       "url": "https://open.spotify.com/track/7ClW2eqhFaOJVYUpfgRbVm"
@@ -227074,7 +227360,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 187000,
       "name": "THE MOMENT",
       "url": "https://open.spotify.com/track/0rn9nYE2FtzKGSqJAdqK42"
@@ -228172,7 +228458,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 175000,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/6yL5rrRJmWvfiIboskQ6IG"
@@ -230924,7 +231210,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 204276,
       "name": "Thinking of You Tonight",
       "url": "https://open.spotify.com/track/1BwKS0Y3Lu8vRvpcD2n7Jv"
@@ -242692,7 +242978,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 145000,
       "name": "UxYOUxU",
       "url": "https://open.spotify.com/track/7FMjQgcvSnAbLDFWNcL1Xu"
@@ -253300,7 +253586,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 166000,
       "name": "Where should we go",
       "url": "https://open.spotify.com/track/6R6TMS9JnayvUCdZDiAtzu"
@@ -254020,7 +254306,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 193728,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/0y8c42IjxOGn8O87ZNxZMZ"
@@ -258240,7 +258526,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 222000,
       "name": "Withered Flower",
       "url": "https://open.spotify.com/track/1oY3IC2zKW86xEZqojJ0s1"
@@ -267592,6 +267878,24 @@
       "duration_ms": 220140,
       "name": "\uaca8\uc6b8\uc5d0 \ubc9a\uaf43\uc774 \ud540\ub2e4\uba74",
       "url": "https://open.spotify.com/track/5o44WiCZtlQQwQNSEUS27W"
+    },
+    {
+      "album": {
+        "name": "\uaca8\uc6b8\uc5d0 \ud540 \ubd04",
+        "url": "https://open.spotify.com/album/2PMhKckxZ3KtjJjzRaGOmm"
+      },
+      "artists": [
+        {
+          "name": "Osshun Gum",
+          "url": "https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180034,
+      "name": "\uaca8\uc6b8\uc5d0 \ud540 \ubd04",
+      "url": "https://open.spotify.com/track/43uarU0O0C6pt4Jj0zcX58"
     },
     {
       "album": {

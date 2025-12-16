@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Roop Bhullar & Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,463 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,479 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 43 | [Sanghastyle](https://open.spotify.com/track/0HYEmFPFusPRA8YmiM4eAA) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 3:16 |
 | 44 | [DAS DE](https://open.spotify.com/track/3zsy8X1GP3cuKpA31DX6D8) | [Raporrate](https://open.spotify.com/artist/3p1bm0rPTPMNrZX2aV81Rd), [Si DUk](https://open.spotify.com/artist/3QkZPXtDN98gHdNFh57qOl), [AR47](https://open.spotify.com/artist/0Uge6lk5WB0wRIf02tRadB) | [DAS DE](https://open.spotify.com/album/4jcsQBRiYdcOQ5nRkZYZi5) | 3:09 |
 | 45 | [Il Capo](https://open.spotify.com/track/5lfzzSrGiid1bvw0W8K2HA) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Il Capo](https://open.spotify.com/album/5pLWCSnEyc05ivyxdnQBeA) | 2:39 |
-| 46 | [HOOD RULES](https://open.spotify.com/track/73M4LyBTCsEcCcClIZNU2Z) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Ivan Singh](https://open.spotify.com/artist/0srVYoOVU1yAnKYBfYX918) | [HOOD RULES](https://open.spotify.com/album/52ax9zwjEfISSMd0P4ldni) | 2:41 |
+| 46 | [HOOD RULES](https://open.spotify.com/track/73M4LyBTCsEcCcClIZNU2Z) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Ivan Singh](https://open.spotify.com/artist/0srVYoOVU1yAnKYBfYX918), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [HOOD RULES](https://open.spotify.com/album/52ax9zwjEfISSMd0P4ldni) | 2:41 |
 | 47 | [ODYSSEY](https://open.spotify.com/track/49Zq4kN3GmkrGvsSfpwGjI) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [ODYSSEY](https://open.spotify.com/album/4k6mvXJJgWRv1mPONFe0kv) | 2:36 |
 | 48 | [Autobahn](https://open.spotify.com/track/4TEAN4lkqV5W3gkVsWuTXw) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Autobahn](https://open.spotify.com/album/4GpHvgA5YP9YxjAMl1U7Ql) | 2:23 |
 | 49 | [Hammer](https://open.spotify.com/track/0AcTZKntdm80BEDqGTg5ZJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/73KLRC3DRuQLl3WMxgdVVm) | 2:42 |

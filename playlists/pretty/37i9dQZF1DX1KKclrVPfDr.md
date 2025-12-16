@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,579 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,588 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 24 | [Khele Ke Milal Goti](https://open.spotify.com/track/1UrHWqV8BjaY88RmRRpZgh) | [Sanskriti Pandey](https://open.spotify.com/artist/7ffXIVwcucy2hFC3sABaj7) | [Khele Ke Milal Goti](https://open.spotify.com/album/4vtYQPmdNuyPBcSQlQU7kx) | 2:07 |
 | 25 | [MEHANDI LAGAI KE](https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39) | [Harsh Veer Indi](https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy), [Gauri Mishra](https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr) | [MEHANDI LAGAI KE](https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J) | 3:10 |
 | 26 | [Nanad Tora Gauwan](https://open.spotify.com/track/21VWH4J8WTE4dYE7ddQMuA) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Nanad Tora Gauwan](https://open.spotify.com/album/35qQQAFbrbiFoSbNFTS3K3) | 3:39 |
-| 27 | [NADIYA KE OH PAAR](https://open.spotify.com/track/1Q7Qpt5MyPReEMIArW7LqF) | [Sudhanshu Pandey](https://open.spotify.com/artist/40rk0rug5179qRVBbba1s5), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [NADIYA KE OH PAAR](https://open.spotify.com/album/3jFSjbB9l5jjJIQI6AVhhK) | 2:30 |
+| 27 | [KURBAN](https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [KURBAN](https://open.spotify.com/album/2btawM5YXfPOuHEjiedLVt) | 3:12 |
 | 28 | [PATNA WALI MUNIYA](https://open.spotify.com/track/1eNfX9L5Epg8OPPgQPTj8Q) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Lk Laxmikaant](https://open.spotify.com/artist/7qCFqTfOt35oCPFR2iBe3K), [Pankaj Narayan](https://open.spotify.com/artist/3bDA8NEDAIL4AjA8m2zDY8) | [PATNA WALI MUNIYA](https://open.spotify.com/album/4GQY4S99fAQnaYmwpKyUkl) | 4:06 |
-| 29 | [KURBAN](https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [KURBAN](https://open.spotify.com/album/2btawM5YXfPOuHEjiedLVt) | 3:12 |
+| 29 | [NADIYA KE OH PAAR](https://open.spotify.com/track/1Q7Qpt5MyPReEMIArW7LqF) | [Sudhanshu Pandey](https://open.spotify.com/artist/40rk0rug5179qRVBbba1s5), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [NADIYA KE OH PAAR](https://open.spotify.com/album/3jFSjbB9l5jjJIQI6AVhhK) | 2:30 |
 | 30 | [KAHANWA KE PIYAR MAATI 2](https://open.spotify.com/track/1tAszA8ZvotvygaSMgszSo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [KAHANWA KE PIYAR MAATI 2](https://open.spotify.com/album/5yTfKQ0fWPFxGaaUa91Woy) | 3:40 |
 | 31 | [Re Sajni](https://open.spotify.com/track/4hiPErACgGGVB6NN3jSH6G) | [Kiran Kashyap](https://open.spotify.com/artist/7FGFKpRL065kNi42y4vsI0) | [Re Sajni](https://open.spotify.com/album/4pkKfwkjUlm9kcuDkItqFx) | 3:10 |
 | 32 | [BIYAH WALI GAARI 4](https://open.spotify.com/track/0JQoXV8FpAoEk3y76Ijtd5) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Stuti Sinha](https://open.spotify.com/artist/3wEyqO1YSZgsVq8GZGbLjI), [Nikita Rai](https://open.spotify.com/artist/2QfXJZBwgrkWDaiQ9bI89k) | [BIYAH WALI GAARI 4](https://open.spotify.com/album/0T6JdIksx9g5fBmdfs6n0j) | 2:57 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 42 | [Pyaar ka Vyapar](https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Pyaar ka Vyapar](https://open.spotify.com/album/0oC8Z3ACgjvm2ZprSMhsOP) | 3:24 |
 | 43 | [Jiya Kare Dhaka Dhak](https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [Jiya Kare Dhaka Dhak](https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4) | 3:26 |
 | 44 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 |
-| 45 | [Dilwa Loot Lihla](https://open.spotify.com/track/5L2JpyWV23u9Rq74Q6vOpi) | [Tanaya](https://open.spotify.com/artist/4Bdfa1oZQkvRJiii4DbFLJ) | [Dilwa Loot Lihla](https://open.spotify.com/album/0zkbYsD5wkTpSQlvEatrMV) | 3:01 |
-| 46 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 |
+| 45 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 |
+| 46 | [Dilwa Loot Lihla](https://open.spotify.com/track/5L2JpyWV23u9Rq74Q6vOpi) | [Tanaya](https://open.spotify.com/artist/4Bdfa1oZQkvRJiii4DbFLJ) | [Dilwa Loot Lihla](https://open.spotify.com/album/0zkbYsD5wkTpSQlvEatrMV) | 3:01 |
 | 47 | [Reliya Bairan](https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Reliya Bairan](https://open.spotify.com/album/3qRmFf2z2OLvm2GMIXqr1u) | 5:21 |
 | 48 | [Kachauri Gali](https://open.spotify.com/track/2m7fE5rq2if3kiTDBb7wzD) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Kachauri Gali](https://open.spotify.com/album/6iLsiXl8RXpspJlikhx6qc) | 3:45 |
 | 49 | [Jhoomar](https://open.spotify.com/track/5puYLQQCUmDccIgvetH7Hz) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Jhoomar](https://open.spotify.com/album/3I7xxSXgsFVosm6KvD6nbo) | 3:05 |
-| 50 | [Are Are Saguni](https://open.spotify.com/track/0jLbnHOI3W14h9pclhLQRu) | [Pooja Nishad](https://open.spotify.com/artist/69rhmAn371zIY5FZNehyOm), [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt), [Misri](https://open.spotify.com/artist/5D34OsaGIukrU2cn6rGiEF) | [Are Are Saguni](https://open.spotify.com/album/2bX7i4UZNqbZ3YlA0MHLE6) | 3:50 |
+| 50 | [Puri Tarkari](https://open.spotify.com/track/5LKETVyIhr0twSuqY2NqtZ) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Puri Tarkari](https://open.spotify.com/album/5ulPeFyEUQ8OYHrAwhfOU7) | 2:54 |
 
 Snapshot ID: `AAAAAKblijZycje191rzdDhgC/c/S9xC`

@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 八三夭 \(831\)
 
-860 songs - 2 day 8 hr 9 min
+861 songs - 2 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [上溫柔的所在](https://open.spotify.com/track/5anyAL7W4RnP2gSzG4iV3J) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [上溫柔的所在](https://open.spotify.com/album/22I5StrrqzSEpktjLHAZjd) | 3:15 | 2025-07-04 | 2025-08-15 |
 | [上班超人](https://open.spotify.com/track/0Ows2jXn6vtBkXVlATPvun) | [我們的日子有限公司](https://open.spotify.com/artist/2pDs6jIli6TN1v6FbHIh9R) | [上班超人](https://open.spotify.com/album/6JpGkVD3qzxNgtngZQM5mS) | 3:05 | 2024-12-19 | 2025-01-10 |
 | [下一个路口](https://open.spotify.com/track/7mVXYthndhwbefKFuCQV3m) | [The Life Journey](https://open.spotify.com/artist/3qs5OOuNyNxW1JGhfdgnUI) | [下一个路口](https://open.spotify.com/album/09SVYzgKb1b5tqppBH1k29) | 4:11 | 2025-05-15 | 2025-06-13 |
+| [下天堂](https://open.spotify.com/track/0XLn3HZLmrBlDrRloVDmoh) | [PALLAS](https://open.spotify.com/artist/31y2c0Ioh42rsNqIpu3PN3) | [下天堂](https://open.spotify.com/album/6AzTOaU2dExNDbJrMgPQY8) | 3:58 | 2025-12-11 |  |
 | [下輩子 \- Remix](https://open.spotify.com/track/1qiSvhEJLzmijvayjSICw0) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [下輩子 \(Remix\)](https://open.spotify.com/album/5vI5LKjr1uwk16WmxnxwTR) | 3:00 | 2025-05-29 |  |
 | [下雪的台北](https://open.spotify.com/track/72uEvfiiUhgaP4IUrgb3hz) | [聽天湯](https://open.spotify.com/artist/1Wuxi75XWN2rA9adEfGtUq) | [下雪的台北](https://open.spotify.com/album/7o6zAc77BhCeA3LhNPtZ03) | 3:27 | 2025-12-11 |  |
 | [不喜欢就请直说](https://open.spotify.com/track/3943CDU79LzTLoWj81Rjwe) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [不喜欢就请直说](https://open.spotify.com/album/0BazLddjUePVnQqhKULEVN) | 3:17 | 2024-08-22 | 2024-09-13 |

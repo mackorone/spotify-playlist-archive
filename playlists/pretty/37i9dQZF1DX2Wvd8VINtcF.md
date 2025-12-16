@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Charli xcx ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,226 likes - 311 songs - 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,239 likes - 311 songs - 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 3 | [Mirrors](https://open.spotify.com/track/1HEYW4REh7DLbv5aE5vqkI) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Mirrors](https://open.spotify.com/album/5klQzXGzwq3yxUhLuHehkd) | 2:08 |
 | 4 | [Death Do Us Part \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/5tot8CpUTFLoGDEhGRd8WN) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Everybody Got Somebody](https://open.spotify.com/album/3lJx06968UaIZU1u80Lq9u) | 3:25 |
 | 5 | [Dopamine \- Jamie xx Remix](https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dopamine \(Jamie xx Remix\)](https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9) | 5:02 |
-| 6 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:51 |
+| 6 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:52 |
 | 7 | [I'm Not Done \- Radical Edit](https://open.spotify.com/track/1ddVHKmlEtklJLTXs5wqvZ) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [I'm Not Done \(Radical Edit\)](https://open.spotify.com/album/5KUzgYVtfZQG7XEU3l14pL) | 3:50 |
 | 8 | [No Te Metas \- Sassy 009 Remix](https://open.spotify.com/track/6Bx2Y8yqdpePbXeQ3EPv6M) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu), [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [All Rights Remixed](https://open.spotify.com/album/12mMdFqHlUTh5bh94818uv) | 2:57 |
 | 9 | [KISS ME](https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [KISS ME](https://open.spotify.com/album/17kOTawNON2BERiDHgPKjQ) | 3:08 |

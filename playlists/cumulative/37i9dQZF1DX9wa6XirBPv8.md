@@ -2,7 +2,7 @@
 
 ### [Emo Forever](https://open.spotify.com/playlist/37i9dQZF1DX9wa6XirBPv8)
 
-> feel it all\. Cover: My Chemical Romance
+> feel it all\. Cover: Taking Back Sunday
 
 208 songs - 12 hr 31 min
 

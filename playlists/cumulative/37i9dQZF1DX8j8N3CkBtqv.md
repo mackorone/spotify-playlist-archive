@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring KhoslaRaghu, Abhijay Sharma, and other exciting artists.
 
-1,265 songs - 2 day 21 hr 22 min
+1,266 songs - 2 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Ghabraye](https://open.spotify.com/track/4WaGtwSOWl5iECs36N27VC) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Ghabraye](https://open.spotify.com/album/6sK9etBZCPYGVMwI5puwSZ) | 2:20 | 2024-03-01 | 2024-04-06 |
 | [Ghanan](https://open.spotify.com/track/62y0vkPVjLKqcl03BPRClh) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Ghanan](https://open.spotify.com/album/2QnzLREoXTbjpSBCoe64Vu) | 3:06 | 2024-08-23 | 2024-10-19 |
 | [Ghar](https://open.spotify.com/track/2GQXTvZ5S5RcfqmD1SdAVy) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ghar](https://open.spotify.com/album/5fyj5enOtY9sgh84Jc4kbP) | 2:57 | 2023-04-14 | 2023-06-30 |
-| [Ghar Hai Kahan](https://open.spotify.com/track/3G1iu3gijK2lJoyH3O5LHj) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Ghar Hai Kahan](https://open.spotify.com/album/0qoctH0Lu6LPN0j00OsfV2) | 2:57 | 2025-11-14 |  |
+| [Ghar Hai Kahan](https://open.spotify.com/track/3G1iu3gijK2lJoyH3O5LHj) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Ghar Hai Kahan](https://open.spotify.com/album/0qoctH0Lu6LPN0j00OsfV2) | 2:57 | 2025-11-14 | 2025-12-16 |
 | [Ghir Ghir Aayi](https://open.spotify.com/track/1kmabZtXNXA7YjcYnQlSTO) | [Sanghamitra Sarkar](https://open.spotify.com/artist/1z0k0hbPwz1UCBfaksTRVK), [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j) | [Ghir Ghir Aayi](https://open.spotify.com/album/0VanDD41bdmpbVQ45Q9c3L) | 3:16 | 2024-06-07 | 2024-07-19 |
 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 | 2023-07-21 | 2023-08-25 |
 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Maara](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 | 2023-08-18 | 2023-09-16 |
@@ -484,6 +484,7 @@
 | [Jaane Kab](https://open.spotify.com/track/5nr7vbPagiOgoqNSnYsG2H) | [Rishabh Tiwari](https://open.spotify.com/artist/0BAmhustIgYJL1k35JXgXb) | [Jaane Kab](https://open.spotify.com/album/6zeWNkKkSY8vAEdJjSqYFV) | 4:39 | 2023-10-20 | 2023-11-25 |
 | [Jaane Kab Woh Din Aaye](https://open.spotify.com/track/3PeaLzAREqOGWmgFz0OVab) | [Arish B](https://open.spotify.com/artist/6uwKdpWSHmcoE5ODUR0XCI) | [Jaane Kab Woh Din Aaye](https://open.spotify.com/album/5qT8zF2xbZE5Lrk41wT7b1) | 3:30 | 2024-02-09 | 2024-03-23 |
 | [Jaane Kaise](https://open.spotify.com/track/1eAre1PnI5zo1X2Ie5Sypy) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H) | [Jaane Kaise](https://open.spotify.com/album/06KFa3cCo7gFKa5CGlMmuX) | 2:32 | 2024-04-26 | 2024-06-08 |
+| [Jaane kyu](https://open.spotify.com/track/491GlVkxTnZW9qdBWXrOD4) | [Mukku](https://open.spotify.com/artist/6UONv04Z1hQqtQjskS0H0p), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Leela](https://open.spotify.com/artist/7MBRGHeFs0vKcnK2VqI2dZ) | [Jaane kyu](https://open.spotify.com/album/0ubDprPp6DulbadaFKhDIo) | 1:42 | 2025-12-15 |  |
 | [Jaane Kyu Diya](https://open.spotify.com/track/1bP6nyNtpIx4VuEEiAPQJM) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Jaane Kyu Diya](https://open.spotify.com/album/7bFjkNxfriKVb0WUZRPx3P) | 3:04 | 2024-01-12 | 2024-03-02 |
 | [Jaane Kyun](https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0) | [Jaane Kyun](https://open.spotify.com/album/35tiVpTGRw9i7dBL9wUZ6J) | 2:19 | 2023-04-14 | 2023-05-20 |
 | [jaanu na](https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [jaanu na](https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h) | 2:40 | 2023-10-13 | 2023-11-25 |

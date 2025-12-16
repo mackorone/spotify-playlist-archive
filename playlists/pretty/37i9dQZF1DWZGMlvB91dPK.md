@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,495 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,500 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 3 | [Brillance](https://open.spotify.com/track/0nBSgd2RXDySMDaAD73Oei) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [Diamant Noir](https://open.spotify.com/album/5ivnbDMt0KAODnXgShWpIs) | 1:59 |
 | 4 | [Lies](https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:47 |
 | 5 | [Pinch Me](https://open.spotify.com/track/6zDYiZZXrjEJXIvCNkDlVj) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [Pinch Me](https://open.spotify.com/album/2p7DbJjX0HA1HmxH408qMQ) | 3:34 |
-| 6 | [Against \- You Man remix](https://open.spotify.com/track/2rxi40DFNveTmRco5bd3vk) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB), [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Against \(You Man remix\)](https://open.spotify.com/album/2XIx1vRxRphV7kFywxxhQi) | 4:15 |
+| 6 | [No Rnb](https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [Dog Day](https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr) | 1:27 |
 | 7 | [25 EUROS](https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [25 EUROS](https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG) | 2:04 |
 | 8 | [FOMO](https://open.spotify.com/track/2RZD1FSRfzrXyBNTuzAznH) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [FOMO](https://open.spotify.com/album/7ClcoIV2o4GIl0c416lj97) | 3:06 |
 | 9 | [Jaouad](https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 5:01 |
-| 10 | [No Rnb](https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [Dog Day](https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr) | 1:27 |
+| 10 | [Against \- You Man remix](https://open.spotify.com/track/2rxi40DFNveTmRco5bd3vk) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB), [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Against \(You Man remix\)](https://open.spotify.com/album/2XIx1vRxRphV7kFywxxhQi) | 4:15 |
 | 11 | [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 |
 | 12 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
 | 13 | [Un chant d'amour](https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 3:41 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 22 | [Shade up My Blue](https://open.spotify.com/track/42basUZpPpLGTyQuvnKS7B) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Shade up My Blue](https://open.spotify.com/album/68XRLmXS3BsRFQhduxAKDG) | 3:40 |
 | 23 | [Libère](https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y) | [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [FORÊT](https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9) | 2:52 |
 | 24 | [TIP TOP](https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [GROSSE MAISON](https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb) | 2:43 |
-| 25 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |
-| 26 | [Moonroad](https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:26 |
+| 25 | [Moonroad](https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:26 |
+| 26 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |
 | 27 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
 | 28 | [Rocket](https://open.spotify.com/track/1oYlRlMq5njbUH7Pmx06Sg) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB) | [What Can I Test ?](https://open.spotify.com/album/3TGvhuKoZCVJaNc1rkjI3D) | 3:44 |
 | 29 | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 2:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 45 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
 | 46 | [SAM](https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J) | [ARTICLE15](https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx) | [SAM](https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ) | 4:50 |
 | 47 | [Twisted Mind](https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Twisted Mind](https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9) | 2:52 |
-| 48 | [ARDE MAMI](https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [ARDE MAMI](https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4) | 2:56 |
-| 49 | [Down the Row](https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Down the Row](https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy) | 3:29 |
+| 48 | [Down the Row](https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Down the Row](https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy) | 3:29 |
+| 49 | [ARDE MAMI](https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [ARDE MAMI](https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4) | 2:56 |
 | 50 | [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 |
 
 Snapshot ID: `AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY`

@@ -7083,36 +7083,6 @@
     },
     {
       "album": {
-        "name": "Eu Adoro",
-        "url": "https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW"
-      },
-      "artists": [
-        {
-          "name": "Davi Sabbag",
-          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        },
-        {
-          "name": "DJ \u00c5NJO",
-          "url": "https://open.spotify.com/artist/2dYbMv07G72igGiZeFkctO"
-        },
-        {
-          "name": "Pedrowl",
-          "url": "https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157347,
-      "name": "Eu Adoro",
-      "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
-    },
-    {
-      "album": {
         "name": "Eu Fim, Voc\u00ea In\u00edcio",
         "url": "https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW"
       },
@@ -7370,6 +7340,36 @@
       "duration_ms": 218086,
       "name": "Eu Vou Querer Mais",
       "url": "https://open.spotify.com/track/2puxv3fmNdv7RZ67aRWDO3"
+    },
+    {
+      "album": {
+        "name": "Eu \u00c5doro",
+        "url": "https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW"
+      },
+      "artists": [
+        {
+          "name": "Davi Sabbag",
+          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        },
+        {
+          "name": "DJ \u00c5NJO",
+          "url": "https://open.spotify.com/artist/2dYbMv07G72igGiZeFkctO"
+        },
+        {
+          "name": "Pedrowl",
+          "url": "https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157347,
+      "name": "Eu \u00c5doro",
+      "url": "https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d"
     },
     {
       "album": {

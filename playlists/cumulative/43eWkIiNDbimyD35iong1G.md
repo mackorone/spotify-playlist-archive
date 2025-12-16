@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/43eWkIiNDbimyD35iong1G.md) - cumulative - [plain](/playlists/plain/43eWkIiNDbimyD35iong1G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/43eWkIiNDbimyD35iong1G)
 
-### [Wedding Songs 2025](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
+### [Wedding Songs 2026](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
 > Celebrate your wedding with over 100 love songs\. Perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 

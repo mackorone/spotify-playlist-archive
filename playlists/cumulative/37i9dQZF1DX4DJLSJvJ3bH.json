@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Christmas Feeling",
+        "url": "https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF"
+      },
+      "artists": [
+        {
+          "name": "Baker St.",
+          "url": "https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193537,
+      "name": "A Christmas Feeling",
+      "url": "https://open.spotify.com/track/02pcI6xxVuefKcYNA7prZh"
+    },
+    {
+      "album": {
         "name": "Christmas Eve",
         "url": "https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP"
       },
@@ -352,6 +370,32 @@
       "duration_ms": 166594,
       "name": "Better Than Snow",
       "url": "https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX"
+    },
+    {
+      "album": {
+        "name": "Almost Like Being In Love",
+        "url": "https://open.spotify.com/album/2XlNf2alkFJq3LD4Fumyqo"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        },
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        },
+        {
+          "name": "Ebony Loren",
+          "url": "https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192355,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3210TdRMtF0hKNnUgiMTlS"
     },
     {
       "album": {
@@ -912,7 +956,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 313066,
       "name": "Christmas Rainbows",
       "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
@@ -4026,7 +4070,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-16",
       "duration_ms": 186139,
       "name": "Under My Christmas Tree",
       "url": "https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf"

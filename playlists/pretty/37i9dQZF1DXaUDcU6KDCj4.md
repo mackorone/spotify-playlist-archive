@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,085 likes - 175 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,096 likes - 175 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 20 | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/track/4pGpa879o8xiiHSJyhiMMZ) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/album/1HmFzWDqZsky5phafS74qD) | 3:18 |
 | 21 | [Little Picture of a Butterfly](https://open.spotify.com/track/2R2AITSPOZeKXwekNA46ug) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Little Picture of a Butterfly](https://open.spotify.com/album/6BC23J8lxnqKVEDpaZ2Zi7) | 4:45 |
 | 22 | [Lay Me Down Here](https://open.spotify.com/track/5pYT2AHupIutq2KoZ49KWo) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [Lay Me Down Here](https://open.spotify.com/album/46TbeQjvRENXfpNpQcmiDI) | 3:03 |
-| 23 | [goodbye](https://open.spotify.com/track/0MfPdI6p08GfrlnFMOt3zD) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [goodbye](https://open.spotify.com/album/2zuZxtNormjxCDRb0lax1Q) | 3:36 |
+| 23 | [goodbye \- alternate version](https://open.spotify.com/track/0MfPdI6p08GfrlnFMOt3zD) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU), [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [goodbye \(alternate version\)](https://open.spotify.com/album/2zuZxtNormjxCDRb0lax1Q) | 3:36 |
 | 24 | [Maybe, Finally](https://open.spotify.com/track/4DQ2NDWgc2CKaLJc33QqE4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Not For Lack Of Trying](https://open.spotify.com/album/5oZeGHp3f5TXuMCtEfrvEd) | 3:05 |
 | 25 | [Suitcase](https://open.spotify.com/track/7yWUwranBTGBPpIkWaemdL) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Suitcase](https://open.spotify.com/album/2NnNFQpObfTQx8KB4XLIPD) | 2:52 |
 | 26 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |

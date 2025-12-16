@@ -1,13 +1,61 @@
 {
   "description": "I really wish your real name is my last name \ud83e\udd21",
-  "num_followers": 438824,
+  "num_followers": 438773,
   "original_name": "membadut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxjhkCJun8V3nBLBt/Uuxuq9Gfc",
+  "snapshot_id": "AAAAAMh+0G8s0lOp6IXCLd3YDFoxhgAv",
   "tracks": [
+    {
+      "added_at": "2025-12-16 02:10:34",
+      "album": {
+        "name": "Sedia Aku Sebelum Hujan",
+        "url": "https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 230130,
+      "name": "Sedia Aku Sebelum Hujan",
+      "url": "https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT"
+    },
+    {
+      "added_at": "2025-12-09 09:58:01",
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "added_at": "2025-12-16 02:10:34",
+      "album": {
+        "name": "Nadhif (laman berikutnya)",
+        "url": "https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 279649,
+      "name": "kota ini tak sama tanpamu",
+      "url": "https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb"
+    },
     {
       "added_at": "2025-10-08 01:48:51",
       "album": {
@@ -45,20 +93,24 @@
       "url": "https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe"
     },
     {
-      "added_at": "2025-10-08 01:48:51",
+      "added_at": "2025-12-16 02:10:34",
       "album": {
-        "name": "Ingin Mencintai & Dicintai",
-        "url": "https://open.spotify.com/album/25HMMZyrb6ivb9C2Th9MCc"
+        "name": "I Don't Know and I Dongker",
+        "url": "https://open.spotify.com/album/6tKbLS7Vy0R1fQ2zUUQM3J"
       },
       "artists": [
         {
-          "name": "Leya Princy",
-          "url": "https://open.spotify.com/artist/2O3HjLfKHefXk85dOpAr9x"
+          "name": "Dongker",
+          "url": "https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm"
+        },
+        {
+          "name": "Jason Ranti",
+          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
         }
       ],
-      "duration_ms": 185076,
-      "name": "Ingin Mencintai & Dicintai",
-      "url": "https://open.spotify.com/track/5l4g0R0SsOmkCmnsQz4DHz"
+      "duration_ms": 152820,
+      "name": "disarankan di bandung",
+      "url": "https://open.spotify.com/track/1BZsLiymbw2UihokAVyTrR"
     },
     {
       "added_at": "2025-10-20 00:28:50",
@@ -93,6 +145,22 @@
       "url": "https://open.spotify.com/track/6mmVZerWyj5gO83hSpeZJG"
     },
     {
+      "added_at": "2025-10-15 02:52:51",
+      "album": {
+        "name": "Kacamata",
+        "url": "https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 196434,
+      "name": "Kacamata",
+      "url": "https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm"
+    },
+    {
       "added_at": "2025-12-09 09:58:01",
       "album": {
         "name": "Rumours (Super Deluxe)",
@@ -111,22 +179,6 @@
     {
       "added_at": "2025-12-09 09:58:01",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "I Thought I Saw Your Face Today",
-      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
-    },
-    {
-      "added_at": "2025-12-09 09:58:01",
-      "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
       },
@@ -141,20 +193,20 @@
       "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
-      "added_at": "2025-10-15 02:52:51",
+      "added_at": "2025-10-08 01:48:51",
       "album": {
-        "name": "Kacamata",
-        "url": "https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP"
+        "name": "Ingin Mencintai & Dicintai",
+        "url": "https://open.spotify.com/album/25HMMZyrb6ivb9C2Th9MCc"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Leya Princy",
+          "url": "https://open.spotify.com/artist/2O3HjLfKHefXk85dOpAr9x"
         }
       ],
-      "duration_ms": 196434,
-      "name": "Kacamata",
-      "url": "https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm"
+      "duration_ms": 185076,
+      "name": "Ingin Mencintai & Dicintai",
+      "url": "https://open.spotify.com/track/5l4g0R0SsOmkCmnsQz4DHz"
     },
     {
       "added_at": "2025-10-03 04:01:42",
@@ -203,6 +255,22 @@
       "duration_ms": 176373,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/0UO8qysepsd0eppPu7bYp0"
+    },
+    {
+      "added_at": "2025-12-16 02:11:42",
+      "album": {
+        "name": "Tuhan Tahu Kita Saling Cinta",
+        "url": "https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "duration_ms": 275277,
+      "name": "Tuhan Tahu Kita Saling Cinta",
+      "url": "https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn"
     },
     {
       "added_at": "2025-10-20 04:19:05",

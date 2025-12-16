@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 444661,
+  "num_followers": 444660,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-11-18 04:15:31",
       "album": {
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2025-11-18 04:15:31",
+      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2025-11-18 04:15:31",
-      "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
       "added_at": "2025-11-18 04:15:31",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-11-18 04:15:31",
       "album": {
-        "name": "Acapulco (feat. Fede Vigevani)",
-        "url": "https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        }
-      ],
-      "duration_ms": 211463,
-      "name": "Acapulco (feat. Fede Vigevani)",
-      "url": "https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII"
-    },
-    {
-      "added_at": "2025-11-18 04:15:31",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 219221,
       "name": "Brinca (Acuario)",
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
+    },
+    {
+      "added_at": "2025-11-18 04:15:31",
+      "album": {
+        "name": "Acapulco (feat. Fede Vigevani)",
+        "url": "https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        }
+      ],
+      "duration_ms": 211463,
+      "name": "Acapulco (feat. Fede Vigevani)",
+      "url": "https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII"
     },
     {
       "added_at": "2025-11-18 04:15:31",

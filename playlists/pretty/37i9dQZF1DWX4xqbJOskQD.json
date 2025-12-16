@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 2035,
+  "num_followers": 2037,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Mairzy Doats",
+      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Bachelors - The Decca Years",
         "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 139840,
       "name": "Marie",
       "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "SOMEWHERE MY LOVE (Love Theme from \"Dr. Zhivago\") And Other Great Hits",
-        "url": "https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7"
-      },
-      "artists": [
-        {
-          "name": "The Ray Conniff Singers",
-          "url": "https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy"
-        }
-      ],
-      "duration_ms": 149066,
-      "name": "Red Roses For A Blue lady",
-      "url": "https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -299,6 +299,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "SOMEWHERE MY LOVE (Love Theme from \"Dr. Zhivago\") And Other Great Hits",
+        "url": "https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7"
+      },
+      "artists": [
+        {
+          "name": "The Ray Conniff Singers",
+          "url": "https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy"
+        }
+      ],
+      "duration_ms": 149066,
+      "name": "Red Roses For A Blue lady",
+      "url": "https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Anthology: 1931 - 1968",
         "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 168600,
       "name": "Nevertheless (I'm In Love With You)",
       "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Mairzy Doats",
-      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -511,22 +511,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Hi-Lo's \"Summertime\"",
-        "url": "https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G"
-      },
-      "artists": [
-        {
-          "name": "The Hi-Lo's",
-          "url": "https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k"
-        }
-      ],
-      "duration_ms": 174384,
-      "name": "Shadow Waltz",
-      "url": "https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Singles Collection 1946-60",
         "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 161906,
       "name": "Underneath The Linden Tree",
       "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Hi-Lo's \"Summertime\"",
+        "url": "https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G"
+      },
+      "artists": [
+        {
+          "name": "The Hi-Lo's",
+          "url": "https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k"
+        }
+      ],
+      "duration_ms": 174384,
+      "name": "Shadow Waltz",
+      "url": "https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B"
     },
     {
       "added_at": "2020-08-17 22:49:59",

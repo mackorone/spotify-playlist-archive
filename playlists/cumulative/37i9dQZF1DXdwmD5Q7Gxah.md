@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/smerz\-daniel\-caesar\-and\-the\-dawn">November newsletter w/ Daniel Caesar & Smerz is live 📿</a> Cover: Cameron Winter
 
-3,647 songs - 8 day 7 hr 35 min
+3,648 songs - 8 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [All Night Long](https://open.spotify.com/track/3h5OkeHNSAp7rChl8RgNGm) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [All Night Long](https://open.spotify.com/album/2g0KKIXBPUGx3zBdl2HUm9) | 4:36 | 2024-05-10 | 2024-06-10 |
 | [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 | 2025-09-05 | 2025-11-01 |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-18 | 2023-07-29 |
+| [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2025-12-15 |  |
 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 | 2023-06-30 | 2024-02-22 |
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-24 | 2022-10-29 |
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-12 | 2025-01-08 |
@@ -372,7 +373,7 @@
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-28 | 2022-12-24 |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-11 | 2022-02-26 |
 | [Binz](https://open.spotify.com/track/7yvdp8dqmxExSJwT2fn6Xq) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 1:51 | 2025-01-31 | 2025-03-13 |
-| [Bird Parts](https://open.spotify.com/track/1EFOhaboWzbZZO5dnqZtP0) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Bird Parts](https://open.spotify.com/album/7g9GJrdCkxpbVM3BY3gSNS) | 2:54 | 2025-08-15 |  |
+| [Bird Parts](https://open.spotify.com/track/1EFOhaboWzbZZO5dnqZtP0) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Bird Parts](https://open.spotify.com/album/7g9GJrdCkxpbVM3BY3gSNS) | 2:54 | 2025-08-15 | 2025-12-16 |
 | [Bird Sing](https://open.spotify.com/track/5UECRwMB87Hs0UET89Mlwk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Bird Sing](https://open.spotify.com/album/1UJORLRAvNQgSL3rvu45bH) | 3:10 | 2022-08-26 | 2022-09-13 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-17 | 2024-07-27 |
 | [bitter](https://open.spotify.com/track/1nO2Q6aTVKQ7x3yhdzZfMS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [bitter](https://open.spotify.com/album/2c86CPDBePhbDWVuFhF3OB) | 3:35 | 2021-02-12 | 2021-03-14 |
